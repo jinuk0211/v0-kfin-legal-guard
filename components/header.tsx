@@ -1,5 +1,6 @@
 "use client"
 
+import Link from "next/link"
 import { cn } from "@/lib/utils"
 
 interface HeaderProps {
@@ -37,6 +38,12 @@ export function Header({ currentView, onNavigate }: HeaderProps) {
           >
             약관 분석
           </button>
+          <Link
+            href="/insurance"
+            className="mb-[-2px] flex h-[51px] items-center border-b-2 border-transparent px-4 text-[10px] font-medium uppercase tracking-[1.5px] text-muted-foreground transition-colors hover:border-primary hover:text-primary"
+          >
+            내보험 조회
+          </Link>
         </nav>
 
         {/* Status indicator */}
