@@ -6,7 +6,7 @@ export async function POST(req: NextRequest) {
   try {
     const { sessionId } = await req.json()
     const session = getSession(sessionId)
-    if (!session) return NextResponse.json({ error: "세션 만료." }, { status: 404 })
+    if (!session) return NextResponse.json({ status: "error", error: "인증이 만료됐습니다. 처음부터 다시 시도해주세요." }, { status: 400 })
 
     const params = {
       organization: "0001",

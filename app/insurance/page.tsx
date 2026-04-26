@@ -67,6 +67,20 @@ export default function InsurancePage() {
   }
 
   function handleLoginWithSaved() {
+    // Use saved user info to start fresh session
+    if (savedUser) {
+      setState(prev => ({
+        ...prev,
+        name: savedUser.name,
+        birth: savedUser.birth,
+        phone: savedUser.phone,
+        idBack7: savedUser.idBack7,
+        telecom: savedUser.telecom,
+        email: savedUser.email,
+        regId: savedUser.regId,
+        regPw: savedUser.regPw,
+      }))
+    }
     // Go directly to loading/query step
     setStep(6)
   }
