@@ -5,7 +5,7 @@ import { VULNERABILITY_TAXONOMY } from "@/lib/schemas"
 const STATS = [
   { value: "612", label: "학습 판례", unit: "건" },
   { value: "2.1", label: "평균 분석", unit: "초" },
-  { value: "8", label: "취약점 유형", unit: "개" },
+  { value: "300", label: "분쟁사례", unit: "개" },
   { value: "99.2", label: "탐지 정확도", unit: "%" },
 ]
 
@@ -86,7 +86,7 @@ export function Hero({ onStartAnalysis }: HeroProps) {
                     실시간 분석
                   </span>
                   <span className="border border-foreground/20 bg-background/80 px-3 py-1.5 text-[10px] uppercase tracking-wider text-foreground">
-                    판례 매칭
+                    증거 기반
                   </span>
                 </div>
               </div>
