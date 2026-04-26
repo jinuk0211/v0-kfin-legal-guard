@@ -54,17 +54,6 @@ export function Hero({ onStartAnalysis }: HeroProps) {
           <div className="relative hidden lg:block">
             <div className="absolute inset-0 flex items-center justify-center bg-muted/50">
               <div className="absolute -right-32 top-0 h-full w-[300px] skew-x-[-15deg] bg-primary" />
-              <div className="relative z-10 p-8 text-center">
-                <p className="mb-4 font-serif text-5xl font-bold text-foreground">
-                  판
-                  <br />결<br />문
-                </p>
-                <p className="text-xs uppercase tracking-[2px] text-muted-foreground">
-                  The Verdict
-                  <br />
-                  Cartography
-                </p>
-              </div>
             </div>
           </div>
         </div>
