@@ -17,7 +17,7 @@ export function StepUserInfo({ state, updateState, onNewUser, onExistingUser }: 
   async function handleSubmit() {
     setError("")
     if (!state.name.trim()) return setError("이름을 입력해주세요.")
-    if (!/^\d{6}$/.test(state.birth)) return setError("생년월일은 6자리 숫자로 입력해주세요. (예: 030211)")
+    if (!/^\d{6}$/.test(state.birth)) return setError("생년월일은 6자리 숫자로 입력해주세요.")
     if (!/^01[0-9]{8,9}$/.test(state.phone)) return setError("올바른 휴대폰 번호를 입력해주세요.")
 
     setLoading(true)
@@ -69,7 +69,7 @@ export function StepUserInfo({ state, updateState, onNewUser, onExistingUser }: 
           <label className="mb-1.5 block text-xs font-semibold text-muted-foreground">생년월일 6자리</label>
           <input
             className="w-full border border-border bg-background px-4 py-3 text-sm text-foreground outline-none transition-colors focus:border-foreground"
-            placeholder="030211"
+            placeholder="000000"
             maxLength={6}
             inputMode="numeric"
             value={state.birth}
