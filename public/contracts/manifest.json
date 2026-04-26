@@ -1,0 +1,226 @@
+{
+  "암보험": [
+    {
+      "id": "abl-won-5mini",
+      "company": "ABL생명",
+      "name": "(무)우리WON인터넷5대미니암보험",
+      "file": "ABL생명_(무)우리WON인터넷5대미니암보험.txt"
+    },
+    {
+      "id": "db-e-loweun",
+      "company": "DB생명",
+      "name": "(무)e로운 암보험(해약환급금_미지급형)(2601)",
+      "file": "DB생명_(무)e로운_암보험(해약환급금_미지급형)(2601).txt"
+    },
+    {
+      "id": "im-premium",
+      "company": "iM라이프",
+      "name": "iM_프리미엄건강보험_무배당_2404_1종(암보장형)",
+      "file": "iM라이프_iM_프리미엄건강보험_무배당_2404_1종(암보장형).txt"
+    },
+    {
+      "id": "kb-chakhan",
+      "company": "KB라이프생명",
+      "name": "KB_착한암보험_무배당",
+      "file": "KB라이프생명_KB_착한암보험_무배당.txt"
+    },
+    {
+      "id": "kb-chakhan-heyak",
+      "company": "KB라이프생명",
+      "name": "KB_착한암보험_무배당(해약환급금_미지급형)",
+      "file": "KB라이프생명_KB_착한암보험_무배당(해약환급금_미지급형).txt"
+    },
+    {
+      "id": "kdb-direct-std",
+      "company": "KDB생명",
+      "name": "KDB다이렉트_암보험(표준형)(무)",
+      "file": "KDB생명_KDB다이렉트_암보험(표준형)(무).txt"
+    },
+    {
+      "id": "kdb-direct-heyak",
+      "company": "KDB생명",
+      "name": "KDB다이렉트_암보험(해약환급금_미지급형III)(무)",
+      "file": "KDB생명_KDB다이렉트_암보험(해약환급금_미지급형III)(무).txt"
+    },
+    {
+      "id": "kdb-strong",
+      "company": "KDB생명",
+      "name": "KDB든든한_건강보험(암보장)(무)",
+      "file": "KDB생명_KDB든든한_건강보험(암보장)(무).txt"
+    },
+    {
+      "id": "kdb-amansenggak-20",
+      "company": "KDB생명",
+      "name": "암만생각해도_KDB암보험_2.0(표준형)(무)",
+      "file": "KDB생명_암만생각해도_KDB암보험_2.0(표준형)(무).txt"
+    },
+    {
+      "id": "kdb-amansenggak-heyak",
+      "company": "KDB생명",
+      "name": "암만생각해도_KDB암보험_2.0(해약환급금_미지급형III)(무)",
+      "file": "KDB생명_암만생각해도_KDB암보험_2.0(해약환급금_미지급형III)(무).txt"
+    },
+    {
+      "id": "kyobo-ganhyeon",
+      "company": "교보생명",
+      "name": "교보간편통합암보험_(무배당)",
+      "file": "교보생명_교보간편통합암보험_(무배당).txt"
+    },
+    {
+      "id": "kyobo-ganhyeon-id",
+      "company": "교보생명",
+      "name": "교보간편통합암보험_[D](무배당)",
+      "file": "교보생명_교보간편통합암보험_[D](무배당).txt"
+    },
+    {
+      "id": "kyobo-tonghap",
+      "company": "교보생명",
+      "name": "교보통합암보험_(무배당)",
+      "file": "교보생명_교보통합암보험_(무배당).txt"
+    },
+    {
+      "id": "kyobo-tonghap-id",
+      "company": "교보생명",
+      "name": "교보통합암보험_[D](무배당)",
+      "file": "교보생명_교보통합암보험_[D](무배당).txt"
+    },
+    {
+      "id": "kyobo-janae",
+      "company": "교보생명",
+      "name": "장애인전용_(무)교보금두리보장보험",
+      "file": "교보생명_장애인전용(무)교보금두리보장보험.txt"
+    },
+    {
+      "id": "dongyang-won-silsok",
+      "company": "동양생명",
+      "name": "무배당우리WON하는실속플러스하나로암보험",
+      "file": "동양생명_무배당우리WON하는실속플러스하나로암보험.txt"
+    },
+    {
+      "id": "dongyang-won-hanaro",
+      "company": "동양생명",
+      "name": "무배당우리WON하는실속하나로암보험",
+      "file": "동양생명_무배당우리WON하는실속하나로암보험.txt"
+    },
+    {
+      "id": "metlife-liver",
+      "company": "메트라이프생명",
+      "name": "무배당_메트라이프_간암및췌장암진단보험",
+      "file": "메트라이프생명_무배당_메트라이프_간암및췌장암진단보험.txt"
+    },
+    {
+      "id": "metlife-intestine",
+      "company": "메트라이프생명",
+      "name": "무배당_메트라이프_대장암및소장암진단보험",
+      "file": "메트라이프생명_무배당_메트라이프_대장암및소장암진단보험.txt"
+    },
+    {
+      "id": "metlife-stomach",
+      "company": "메트라이프생명",
+      "name": "무배당_메트라이프_위암및식도암진단보험",
+      "file": "메트라이프생명_무배당_메트라이프_위암및식도암진단보험.txt"
+    },
+    {
+      "id": "metlife-lung",
+      "company": "메트라이프생명",
+      "name": "무배당_메트라이프_폐암및후두암진단보험",
+      "file": "메트라이프생명_무배당_메트라이프_폐암및후두암진단보험.txt"
+    },
+    {
+      "id": "mirae-online-close",
+      "company": "미래에셋생명",
+      "name": "온라인_더_잘그른_미니암보험_무배당",
+      "file": "미래에셋생명_온라인_더_잘그른_미니암보험_무배당.txt"
+    },
+    {
+      "id": "mirae-online-basic",
+      "company": "미래에셋생명",
+      "name": "온라인_암보험_무배당_[기본형]",
+      "file": "미래에셋생명_온라인_암보험_무배당_[기본형].txt"
+    },
+    {
+      "id": "mirae-online-noheyak",
+      "company": "미래에셋생명",
+      "name": "온라인_암보험_무배당_[해약환급금_이_없는_유형]",
+      "file": "미래에셋생명_온라인_암보험_무배당_[해약환급금_이_없는_유형].txt"
+    },
+    {
+      "id": "samsung-janae",
+      "company": "삼성생명",
+      "name": "[장애인전용]금두리보장보험(2403)(무배당)",
+      "file": "삼성생명_[장애인전용]금두리보장보험(2403)(무배당).txt"
+    },
+    {
+      "id": "samsung-internet",
+      "company": "삼성생명",
+      "name": "삼성_인터넷_비갱신암보험(2601)(무배당_무해약환급금_형)",
+      "file": "삼성생명_삼성_인터넷_비갱신암보험(2601)(무배당_무해약환급금_형).txt"
+    },
+    {
+      "id": "shinhan-ganhyeon",
+      "company": "신한라이프생명",
+      "name": "신한(간편가입)꼭맞춤항암치료비보험(무배당_해약환급금_미지급형)",
+      "file": "신한라이프생명_신한(간편가입)꼭맞춤항암치료비보험(무배당_해약환급금_미지급형).txt"
+    },
+    {
+      "id": "shinhan-sol-heyak",
+      "company": "신한라이프생명",
+      "name": "신한SOL암보험(무배당_해약환급금_미지급형)",
+      "file": "신한라이프생명_신한SOL암보험(무배당_해약환급금_미지급형).txt"
+    },
+    {
+      "id": "shinhan-sol",
+      "company": "신한라이프생명",
+      "name": "신한SOL암보험",
+      "file": "신한라이프생명_신한SOL암보험.txt"
+    },
+    {
+      "id": "hanwha-e-nonface",
+      "company": "한화생명",
+      "name": "한화생명_e암보험(비갱신형)_무배당_(비홈연계형)",
+      "file": "한화생명_한화생명_e암보험(비갱신형)_무배당_(비홈연계형).txt"
+    },
+    {
+      "id": "hanwha-e-std",
+      "company": "한화생명",
+      "name": "한화생명_e암보험(비갱신형)_무배당_(표준제형)",
+      "file": "한화생명_한화생명_e암보험(비갱신형)_무배당_(표준제형).txt"
+    },
+    {
+      "id": "hanwha-need-ai",
+      "company": "한화생명",
+      "name": "한화생명_Need_AI_암보험_무배당",
+      "file": "한화생명_한화생명_Need_AI_암보험_무배당.txt"
+    },
+    {
+      "id": "hanwha-ganhyeon-needai",
+      "company": "한화생명",
+      "name": "한화생명_간편가입_Need_AI_암보험_무배당",
+      "file": "한화생명_한화생명_간편가입_Need_AI_암보험_무배당.txt"
+    },
+    {
+      "id": "hanwha-ganhyeon-signature-h",
+      "company": "한화생명",
+      "name": "한화생명_간편가입_시그니처H보장보험_무배당",
+      "file": "한화생명_한화생명_간편가입_시그니처H보장보험_무배당.txt"
+    },
+    {
+      "id": "hanwha-ganhyeon-signature-h-am",
+      "company": "한화생명",
+      "name": "한화생명_간편가입_시그니처H암보험_무배당",
+      "file": "한화생명_한화생명_간편가입_시그니처H암보험_무배당.txt"
+    },
+    {
+      "id": "hanwha-signature-h-bojang",
+      "company": "한화생명",
+      "name": "한화생명_시그니처H보장보험_무배당",
+      "file": "한화생명_한화생명_시그니처H보장보험_무배당.txt"
+    },
+    {
+      "id": "hanwha-signature-h-am",
+      "company": "한화생명",
+      "name": "한화생명_시그니처H암보험_무배당",
+      "file": "한화생명_한화생명_시그니처H암보험_무배당.txt"
+    }
+  ]
+}

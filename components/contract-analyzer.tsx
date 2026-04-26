@@ -1,8 +1,19 @@
 "use client"
 
-import { useState, useRef } from "react"
+import { useState, useRef, useEffect } from "react"
 import type { UserProfile, AnalysisReport } from "@/lib/schemas"
 import { VulnerabilityReport } from "./vulnerability-report"
+
+interface ContractItem {
+  id: string
+  company: string
+  name: string
+  file: string
+}
+
+interface ContractManifest {
+  암보험: ContractItem[]
+}
 
 const ANALYSIS_STEPS = [
   "약관 조항 파싱",
@@ -48,6 +59,55 @@ export function ContractAnalyzer({ onBack }: ContractAnalyzerProps) {
   const [report, setReport] = useState<AnalysisReport | null>(null)
   const [error, setError] = useState("")
   const fileInputRef = useRef<HTMLInputElement>(null)
+  
+  // Contract selector state
+  const [contracts, setContracts] = useState<ContractItem[]>([])
+  const [selectedCompany, setSelectedCompany] = useState("")
+  const [isLoadingContracts, setIsLoadingContracts] = useState(true)
+  const [isLoadingContract, setIsLoadingContract] = useState(false)
+
+  // Fetch contract manifest on mount
+  useEffect(() => {
+    async function fetchManifest() {
+      try {
+        const res = await fetch("/contracts/manifest.json")
+        if (res.ok) {
+          const data: ContractManifest = await res.json()
+          setContracts(data.암보험 || [])
+        }
+      } catch (err) {
+        console.error("Failed to load contracts manifest")
+      } finally {
+        setIsLoadingContracts(false)
+      }
+    }
+    fetchManifest()
+  }, [])
+
+  // Get unique companies
+  const companies = Array.from(new Set(contracts.map(c => c.company)))
+  
+  // Get contracts for selected company
+  const filteredContracts = selectedCompany 
+    ? contracts.filter(c => c.company === selectedCompany)
+    : contracts
+
+  // Load contract from file
+  async function loadContractFromManifest(contract: ContractItem) {
+    setIsLoadingContract(true)
+    setError("")
+    try {
+      const res = await fetch(`/contracts/txt/${contract.file}`)
+      if (!res.ok) throw new Error("파일을 불러올 수 없습니다")
+      const text = await res.text()
+      setContractText(text)
+      setFileName(contract.name)
+    } catch (err) {
+      setError("약관 파일을 불러오는데 실패했습니다")
+    } finally {
+      setIsLoadingContract(false)
+    }
+  }
 
   function handleFileSelect(file: File) {
     setFileName(file.name)
@@ -177,6 +237,77 @@ export function ContractAnalyzer({ onBack }: ContractAnalyzerProps) {
             </span>
           </div>
 
+          {/* Contract selector */}
+          <div className="mb-5 border border-border">
+            <div className="flex items-center justify-between border-b border-border bg-muted/50 px-4 py-3">
+              <span className="text-[10px] font-medium uppercase tracking-wider text-foreground">
+                보험상품 선택
+              </span>
+              <span className="text-[10px] text-muted-foreground">
+                {contracts.length}개 약관 보유
+              </span>
+            </div>
+            
+            <div className="p-4">
+              {/* Company filter */}
+              <div className="mb-3">
+                <select
+                  value={selectedCompany}
+                  onChange={(e) => setSelectedCompany(e.target.value)}
+                  className="w-full border border-border bg-background px-3 py-2 text-sm text-foreground focus:border-primary focus:outline-none"
+                >
+                  <option value="">전체 보험사</option>
+                  {companies.map((company) => (
+                    <option key={company} value={company}>
+                      {company}
+                    </option>
+                  ))}
+                </select>
+              </div>
+              
+              {/* Contract list */}
+              <div className="max-h-48 overflow-y-auto">
+                {isLoadingContracts ? (
+                  <div className="py-4 text-center text-sm text-muted-foreground">
+                    약관 목록 불러오는 중...
+                  </div>
+                ) : filteredContracts.length === 0 ? (
+                  <div className="py-4 text-center text-sm text-muted-foreground">
+                    등록된 약관이 없습니다
+                  </div>
+                ) : (
+                  <div className="space-y-1">
+                    {filteredContracts.slice(0, 10).map((contract) => (
+                      <button
+                        key={contract.id}
+                        onClick={() => loadContractFromManifest(contract)}
+                        disabled={isLoadingContract}
+                        className="group flex w-full items-start gap-3 px-2 py-2 text-left transition-colors hover:bg-muted/50 disabled:opacity-50"
+                      >
+                        <span className="flex h-5 w-5 flex-shrink-0 items-center justify-center bg-primary/10 text-[9px] font-bold text-primary">
+                          암
+                        </span>
+                        <div className="min-w-0 flex-1">
+                          <div className="truncate text-xs font-medium text-foreground group-hover:text-primary">
+                            {contract.name}
+                          </div>
+                          <div className="text-[10px] text-muted-foreground">
+                            {contract.company}
+                          </div>
+                        </div>
+                      </button>
+                    ))}
+                    {filteredContracts.length > 10 && (
+                      <div className="px-2 py-2 text-center text-[10px] text-muted-foreground">
+                        +{filteredContracts.length - 10}개 더 있음
+                      </div>
+                    )}
+                  </div>
+                )}
+              </div>
+            </div>
+          </div>
+
           {/* File upload area */}
           <div
             onClick={() => fileInputRef.current?.click()}
@@ -203,7 +334,7 @@ export function ContractAnalyzer({ onBack }: ContractAnalyzerProps) {
             </div>
             <div>
               <div className="text-xs font-medium tracking-wide text-foreground">
-                {fileName || "TXT / MD 파일을 드래그하거나 클릭해 업로드"}
+                {fileName || "직접 업로드: TXT / MD 파일을 드래그하거나 클릭"}
               </div>
               <div className="mt-1 text-[10px] text-muted-foreground">
                 보험약관, 상품요약서, 대출 약관 지원
