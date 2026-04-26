@@ -88,6 +88,12 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ status: "timeout", error: "인증이 만료됐습니다. 처음부터 다시 시도해주세요." }, { status: 400 })
     }
 
+    // Error handling for other CODEF errors
+    if (code && code !== "CF-00000" && code !== "CF-03002") {
+      const errorMsg = result?.result?.message || "인증 처리 중 오류가 발생했습니다."
+      return NextResponse.json({ status: "error", error: errorMsg }, { status: 400 })
+    }
+
     // Still waiting
     return NextResponse.json({ status: "pending" })
   } catch (err: unknown) {

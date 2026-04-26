@@ -62,7 +62,13 @@ export function StepAuth({ state, onRegistered, onCancel }: Props) {
         onRegistered()
         return
       }
+      if (data.status === "timeout" || data.status === "error") {
+        setError(data.error || "인증이 만료되었습니다.")
+        setTimeout(() => onCancel(), 2000)
+        return
+      }
       setError(data.error || "인증 실패")
+      setTimeout(() => onCancel(), 2000)
     } catch {
       if (!manual) return
       setError("네트워크 오류가 발생했습니다.")
