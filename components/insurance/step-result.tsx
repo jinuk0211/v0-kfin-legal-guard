@@ -34,9 +34,11 @@ interface Props {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   data: any
   onReset: () => void
+  onLogout?: () => void
+  userName?: string
 }
 
-export function StepResult({ data, onReset }: Props) {
+export function StepResult({ data, onReset, onLogout, userName }: Props) {
   const [tab, setTab] = useState<"active" | "inactive">("active")
   const [showRaw, setShowRaw] = useState(false)
 
@@ -56,7 +58,14 @@ export function StepResult({ data, onReset }: Props) {
     <div className="animate-slide-up">
       {/* Summary */}
       <div className="mb-4 border border-border bg-card p-6">
-        <p className="mb-3 text-[10px] font-semibold uppercase tracking-[2px] text-muted-foreground">조회 완료</p>
+        <div className="mb-3 flex items-center justify-between">
+          <p className="text-[10px] font-semibold uppercase tracking-[2px] text-muted-foreground">조회 완료</p>
+          {userName && (
+            <span className="text-xs text-muted-foreground">
+              {userName}님
+            </span>
+          )}
+        </div>
         <h2 className="mb-5 font-serif text-2xl font-bold text-foreground">내 보험 현황</h2>
         <div className="grid grid-cols-2 gap-3">
           <div className="bg-muted/50 p-4">
@@ -135,10 +144,18 @@ export function StepResult({ data, onReset }: Props) {
         )}
       </div>
 
-      <button onClick={onReset}
-        className="mt-3 w-full border border-border bg-transparent py-3 text-sm text-muted-foreground transition-colors hover:border-foreground hover:text-foreground">
-        처음으로
-      </button>
+      <div className="mt-3 flex gap-2">
+        <button onClick={onReset}
+          className="flex-1 border border-border bg-transparent py-3 text-sm text-muted-foreground transition-colors hover:border-foreground hover:text-foreground">
+          다시 조회
+        </button>
+        {onLogout && (
+          <button onClick={onLogout}
+            className="flex-1 border border-destructive/30 bg-transparent py-3 text-sm text-destructive/70 transition-colors hover:border-destructive hover:bg-destructive/10 hover:text-destructive">
+            로그아웃
+          </button>
+        )}
+      </div>
     </div>
   )
 }
