@@ -25,12 +25,17 @@ export function StepAuth({ state, onRegistered, onCancel }: Props) {
     // Countdown
     countRef.current = setInterval(() => {
       setRemain(r => {
-        if (r <= 1) { stopAll(); onCancel(); return 0 }
+        if (r <= 1) {
+          stopAll()
+          setError("인증 시간이 만료됐습니다.")
+          setTimeout(() => onCancel(), 1500)
+          return 0
+        }
         return r - 1
       })
     }, 1000)
 
-    // PASS: auto-poll every 3s
+    // PASS only: auto-poll every 3s
     if (isPass) {
       pollRef.current = setInterval(() => verify(false), 3000)
     }
@@ -123,7 +128,10 @@ export function StepAuth({ state, onRegistered, onCancel }: Props) {
             <input
               className="w-full border border-border bg-background px-4 py-3 text-sm text-foreground outline-none transition-colors focus:border-foreground"
               placeholder="6자리 입력" maxLength={6} inputMode="numeric"
-              value={smsCode} onChange={e => setSmsCode(e.target.value.replace(/\D/g, ""))}
+              value={smsCode}
+              onChange={e => setSmsCode(e.target.value.replace(/\D/g, ""))}
+              onKeyDown={e => { if (e.key === "Enter") handleSmsVerify() }}
+              autoFocus
             />
             <button onClick={handleSmsVerify} disabled={loading}
               className="mt-2 flex w-full items-center justify-center gap-2 border-2 border-foreground bg-foreground py-3 text-sm font-semibold text-background hover:bg-primary hover:border-primary disabled:opacity-50">
