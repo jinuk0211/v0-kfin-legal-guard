@@ -6,7 +6,6 @@ export async function POST(req: NextRequest) {
   try {
     const { sessionId } = await req.json()
     const session = getSession(sessionId)
-    console.log("[v0] Query session:", sessionId, "found:", !!session, "regId:", session?.regId, "loginId:", session?.loginId)
     if (!session) return NextResponse.json({ status: "error", error: "인증이 만료됐습니다. 처음부터 다시 시도해주세요." }, { status: 400 })
 
     const params = {
@@ -25,7 +24,13 @@ export async function POST(req: NextRequest) {
     const result = await codefPost("/v1/kr/insurance/0001/credit4u/contract-info", params)
     const code = result?.result?.code
     
-    console.log("[v0] Query result code:", code, "message:", result?.result?.message)
+    // Handle password lock error
+    if (code === "CF-12802") {
+      return NextResponse.json({ 
+        status: "error", 
+        error: "비밀번호 오류 횟수가 초과되었습니다. 내보험다보여 사이트에서 비밀번호를 재설정 후 다시 시도해주세요." 
+      }, { status: 400 })
+    }
 
     if (code === "CF-03002") {
       const extraInfo = result?.data?.extraInfo || {}
