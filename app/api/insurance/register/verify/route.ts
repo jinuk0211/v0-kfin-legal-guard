@@ -73,7 +73,6 @@ export async function POST(req: NextRequest) {
         return NextResponse.json({ status: "need_email_auth", sessionId })
       }
       if (infoCode === "CF-00000") {
-        saveUser(updated.baseParams.phoneNo as string, updated.baseParams.birthDate as string, updated.regId!, updated.regPw!)
         saveSession(sessionId, { step: "done" })
         return NextResponse.json({ status: "registered", sessionId })
       }
@@ -81,7 +80,6 @@ export async function POST(req: NextRequest) {
     }
 
     if (code === "CF-00000") {
-      saveUser(session.baseParams.phoneNo as string, session.baseParams.birthDate as string, session.regId!, session.regPw!)
       saveSession(sessionId, { step: "done" })
       return NextResponse.json({ status: "registered", sessionId })
     }
