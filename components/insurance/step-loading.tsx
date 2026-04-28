@@ -23,35 +23,29 @@ export function StepLoading({ state, onSuccess, onError }: Props) {
 
   async function doQuery() {
     try {
-      let sid = state.sessionId
-
-      // If no session, create one for saved user
-      if (!sid) {
-        const checkRes = await fetch("/api/insurance/check-user", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({
-            name: state.name,
-            birth: state.birth,
-            phone: state.phone,
-            telecom: state.telecom,
-            idBack7: state.idBack7,
-          }),
-        })
-        const checkData = await checkRes.json()
-
-        if (checkData.status === "exist") {
-          sid = checkData.sessionId
-        } else {
-          onError()
-          return
-        }
+      // For saved users without session, pass credentials directly
+      const queryBody: Record<string, string> = {}
+      
+      if (state.sessionId) {
+        queryBody.sessionId = state.sessionId
+      } else if (state.regId && state.regPw) {
+        // Direct query with saved credentials
+        queryBody.userName = state.name
+        queryBody.birthDate = state.birth
+        queryBody.phoneNo = state.phone
+        queryBody.telecom = state.telecom
+        queryBody.regId = state.regId
+        queryBody.regPw = state.regPw
+      } else {
+        setErrorMsg("저장된 인증 정보가 없습니다. 다시 등록해주세요.")
+        setTimeout(() => onError(), 2000)
+        return
       }
 
       const res = await fetch("/api/insurance/query", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ sessionId: sid }),
+        body: JSON.stringify(queryBody),
       })
       const data = await res.json()
 
@@ -63,7 +57,7 @@ export function StepLoading({ state, onSuccess, onError }: Props) {
         return
       }
 
-      if (data.status === "need_auth") {
+      if (data.status === "need_auth" && data.sessionId) {
         // PASS polling for query confirmation
         let cnt = 0
         const iv = setInterval(async () => {
@@ -71,12 +65,18 @@ export function StepLoading({ state, onSuccess, onError }: Props) {
           const r2 = await fetch("/api/insurance/query-confirm", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ sessionId: sid }),
+            body: JSON.stringify({ sessionId: data.sessionId }),
           }).then(r => r.json())
 
           if (r2.status === "success") { clearInterval(iv); onSuccess(r2.data) }
           if (r2.status === "error" || cnt > 85) { clearInterval(iv); onError() }
         }, 2000)
+        return
+      }
+      
+      if (data.status === "need_auth" && !data.sessionId) {
+        setErrorMsg("추가 인증이 필요합니다. 다시 등록해주세요.")
+        setTimeout(() => onError(), 2000)
         return
       }
 
