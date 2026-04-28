@@ -30,17 +30,24 @@ export function StepLoading({ state, onSuccess, onError }: Props) {
         const checkRes = await fetch("/api/insurance/check-user", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
+          // body: JSON.stringify({
+          //   name: state.name,
+          //   birth: state.birth,
+          //   phone: state.phone,
+          //   telecom: state.telecom,
+          //   idBack7: state.idBack7,
+          // }),
+          // After (수정된 코드)
           body: JSON.stringify({
-            name: state.name,
-            birth: state.birth,
-            phone: state.phone,
-            telecom: state.telecom,
-            idBack7: state.idBack7,
-          }),
+            userName: state.name,
+            birthDate: state.birth,
+            phoneNo: state.phone,
+          })
         })
         const checkData = await checkRes.json()
+        if (checkData.found) {
 
-        if (checkData.status === "exist") {
+          // if (checkData.status === "exist") {
           sid = checkData.sessionId
         } else {
           onError()
