@@ -6,6 +6,7 @@ export async function POST(req: NextRequest) {
   try {
     const { sessionId } = await req.json()
     const session = getSession(sessionId)
+    console.log("[v0] Query session:", sessionId, "found:", !!session, "regId:", session?.regId, "loginId:", session?.loginId)
     if (!session) return NextResponse.json({ status: "error", error: "인증이 만료됐습니다. 처음부터 다시 시도해주세요." }, { status: 400 })
 
     const params = {
@@ -23,6 +24,8 @@ export async function POST(req: NextRequest) {
 
     const result = await codefPost("/v1/kr/insurance/0001/credit4u/contract-info", params)
     const code = result?.result?.code
+    
+    console.log("[v0] Query result code:", code, "message:", result?.result?.message)
 
     if (code === "CF-03002") {
       const extraInfo = result?.data?.extraInfo || {}
