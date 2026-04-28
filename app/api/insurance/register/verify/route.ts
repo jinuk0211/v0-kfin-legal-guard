@@ -9,10 +9,12 @@ export async function POST(req: NextRequest) {
     const session = getSession(sessionId)
     if (!session) return NextResponse.json({ error: "세션 만료." }, { status: 404 })
 
+    // authMethod "1" = PASS (simpleAuth), "0" = SMS (smsAuthNo)
+    const isPass = session.baseParams.authMethod === "1"
     const params = {
       ...session.baseParams,
-      smsAuthNo: smsAuthNo || "",
-      simpleAuth: "1",
+      smsAuthNo: isPass ? "" : (smsAuthNo || ""),
+      simpleAuth: isPass ? "1" : "0",
       is2Way: true,
       twoWayInfo: session.twoWayInfo,
     }
