@@ -8,8 +8,10 @@ import { CARD_DISCLAIMER, type CardReport, type CardFinding } from "./card-schem
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 type Raw = Record<string, any>
 
-function normalizeFinding(raw: Raw, index: number): CardFinding {
-  const lg = raw.legal_grounds ?? {}
+function normalizeFinding(raw: Raw, index: number, source: "precomputed" | "live"): CardFinding {
+  // 라이브는 모델이 emit한 인용을 신뢰하지 않는다(환각 차단). grounding은
+  // 검증된 CourtListener 단계(lib/legal-grounds)에서 별도로 채운다.
+  const lg = source === "live" ? {} : (raw.legal_grounds ?? {})
   return {
     finding_id: String(raw.finding_id ?? `US-V${String(index + 1).padStart(3, "0")}`),
     taxonomy: String(raw.taxonomy ?? "UNCATEGORIZED"),
@@ -37,7 +39,9 @@ function normalizeFinding(raw: Raw, index: number): CardFinding {
 
 export function normalizeCardReport(raw: Raw, source: "precomputed" | "live"): CardReport {
   const findings: CardFinding[] = Array.isArray(raw?.findings)
-    ? raw.findings.map(normalizeFinding).sort((a, b) => (a.rank ?? 0) - (b.rank ?? 0))
+    ? raw.findings
+        .map((f: Raw, i: number) => normalizeFinding(f, i, source))
+        .sort((a, b) => (a.rank ?? 0) - (b.rank ?? 0))
     : []
 
   const count = { CRITICAL: 0, HIGH: 0, MEDIUM: 0, LOW: 0, uncategorized: 0 }

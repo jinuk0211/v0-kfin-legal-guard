@@ -1,6 +1,7 @@
 import Anthropic from "@anthropic-ai/sdk"
 import { CARD_DISCLAIMER, type CardReport } from "./card-schemas"
 import { normalizeCardReport } from "./card-normalize"
+import { fetchUsGroundsBatch } from "./legal-grounds"
 
 // Live analysis for raw CFPB credit-card agreements. Reproduces the harness
 // T2 final-report shape in a single call. Reads ANTHROPIC_API_KEY from env.
@@ -18,7 +19,7 @@ UNCATEGORIZED Any other consumer disadvantage not fitting CC-01..CC-05
 
 Rules:
 1. triggered_by MUST be the verbatim clause text from the agreement. No paraphrase.
-2. Do NOT invent case law. Leave legal_grounds.precedents = [] and legal_grounds.statutes = [] unless certain. (Precedent grounding is a separate verified stage.)
+2. Do NOT cite or invent case law or statutes. ALWAYS leave legal_grounds.precedents = [] and legal_grounds.statutes = []. Verified grounding (CourtListener precedents + US statutes) is attached by a separate stage.
 3. plain_language_explanation (<=150 chars), user_impact (<=100 chars, tied to the persona if given), estimated_risk_scenario (<=200 chars): 8th-grade reading level.
 4. confidence and user_relevance_score are floats in [0,1]. severity is one of CRITICAL|HIGH|MEDIUM|LOW.
 5. recommended_actions: 1-3 items with priority one of immediate|pre-signing|optional. Contacts limited to real bodies (CFPB 1-855-411-2372, consumerfinance.gov, the issuer).
@@ -84,7 +85,13 @@ export async function analyzeCard(
   const cleaned = textBlock.text.replace(/```json|```/g, "").trim()
   try {
     const parsed = JSON.parse(cleaned)
-    return normalizeCardReport(parsed, "live")
+    const report = normalizeCardReport(parsed, "live")
+    // 검증된 CourtListener 판례 + US 법령으로 grounding (상위 findings).
+    const grounds = await fetchUsGroundsBatch(report.findings)
+    const findings = report.findings.map((f, i) =>
+      grounds[i] ? { ...f, legal_grounds: grounds[i]! } : f
+    )
+    return { ...report, findings }
   } catch (parseError) {
     console.error("[card-anthropic] parse error:", parseError)
     return {

@@ -7,8 +7,9 @@ import { LOAN_DISCLAIMER, type LoanReport, type LoanFinding } from "./loan-schem
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 type Raw = Record<string, any>
 
-function normalizeFinding(raw: Raw, index: number): LoanFinding {
-  const lg = raw.legal_grounds ?? {}
+function normalizeFinding(raw: Raw, index: number, source: "live"): LoanFinding {
+  // 라이브는 모델 인용을 신뢰하지 않음(환각 차단). grounding은 CourtListener 단계에서 채움.
+  const lg = source === "live" ? {} : (raw.legal_grounds ?? {})
   return {
     finding_id: String(raw.finding_id ?? `US-L${String(index + 1).padStart(3, "0")}`),
     taxonomy: String(raw.taxonomy ?? "UNCATEGORIZED"),
@@ -36,7 +37,9 @@ function normalizeFinding(raw: Raw, index: number): LoanFinding {
 
 export function normalizeLoanReport(raw: Raw, source: "live"): LoanReport {
   const findings: LoanFinding[] = Array.isArray(raw?.findings)
-    ? raw.findings.map(normalizeFinding).sort((a, b) => (a.rank ?? 0) - (b.rank ?? 0))
+    ? raw.findings
+        .map((f: Raw, i: number) => normalizeFinding(f, i, source))
+        .sort((a, b) => (a.rank ?? 0) - (b.rank ?? 0))
     : []
 
   const count = { CRITICAL: 0, HIGH: 0, MEDIUM: 0, LOW: 0, uncategorized: 0 }

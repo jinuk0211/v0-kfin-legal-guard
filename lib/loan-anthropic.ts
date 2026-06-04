@@ -1,6 +1,7 @@
 import Anthropic from "@anthropic-ai/sdk"
 import { LOAN_DISCLAIMER, type LoanReport } from "./loan-schemas"
 import { normalizeLoanReport } from "./loan-normalize"
+import { fetchUsGroundsBatch } from "./legal-grounds"
 
 // Live analysis for raw US loan / credit-agreement filings (SEC EDGAR).
 // Reproduces the harness final-report shape in a single call. Reads
@@ -19,7 +20,7 @@ UNCATEGORIZED Any other borrower disadvantage not fitting LOAN-01..LOAN-05
 
 Rules:
 1. triggered_by MUST be the verbatim clause text from the agreement. No paraphrase.
-2. Do NOT invent case law. Leave legal_grounds.precedents = [] and legal_grounds.statutes = [] unless certain. (Precedent grounding is a separate verified stage.)
+2. Do NOT cite or invent case law or statutes. ALWAYS leave legal_grounds.precedents = [] and legal_grounds.statutes = []. Verified grounding (CourtListener precedents) is attached by a separate stage.
 3. plain_language_explanation (<=150 chars), user_impact (<=100 chars), estimated_risk_scenario (<=200 chars): 8th-grade reading level.
 4. confidence and user_relevance_score are floats in [0,1]. severity is one of CRITICAL|HIGH|MEDIUM|LOW.
 5. recommended_actions: 1-3 items with priority one of immediate|pre-signing|optional. Contacts limited to real bodies (a finance/securities attorney, the lender/counterparty).
@@ -73,7 +74,13 @@ export async function analyzeLoan(contractText: string): Promise<LoanReport> {
   const cleaned = textBlock.text.replace(/```json|```/g, "").trim()
   try {
     const parsed = JSON.parse(cleaned)
-    return normalizeLoanReport(parsed, "live")
+    const report = normalizeLoanReport(parsed, "live")
+    // 검증된 CourtListener 판례로 grounding (상위 findings).
+    const grounds = await fetchUsGroundsBatch(report.findings)
+    const findings = report.findings.map((f, i) =>
+      grounds[i] ? { ...f, legal_grounds: grounds[i]! } : f
+    )
+    return { ...report, findings }
   } catch (parseError) {
     console.error("[loan-anthropic] parse error:", parseError)
     return {
