@@ -1,0 +1,840 @@
+EX-10.1
+
+2
+
+ex10-1.htm
+
+EX-10.1
+
+ 
+
+ 
+
+EXHIBIT
+10.1
+
+ 
+
+SECOND
+AMENDMENT TO CREDIT AGREEMENT
+
+ 
+
+THIS
+SECOND AMENDMENT TO CREDIT AGREEMENT
+ (this “
+
+Agreement
+
+”) is dated as of December 23, 2025 by and
+among 
+MOBILE INFRASTRUCTURE CORPORATION
+, a Maryland corporation (the “
+
+Borrower
+
+”
+), 
+HARVEST
+SMALL CAP PARTNERS, L.P.
+, a Delaware limited partnership, as an initial lender (the “
+
+Onshore Lender
+
+”),
+
+HARVEST SMALL CAP PARTNERS MASTER, LTD.
+, a Cayman Islands exempted company, as an initial lender (in such capacity, the “
+
+Offshore
+Lender
+
+” and, together with the Onshore Lender, the “
+
+Initial Lenders
+
+”), the other lenders party
+hereto, as lenders (together with the Initial Lenders, the “
+
+Lenders
+
+”) and 
+HARVEST SMALL CAP PARTNERS, L.P.
+,
+as administrative agent for the benefit of the Lenders (the “
+
+Administrative Agent
+
+”).
+
+ 
+
+A.
+The Borrower, the Administrative Agent and the Lenders are party to that certain Credit Agreement, dated as of September 11, 2024, as
+amended by that certain First Amendment to Credit Agreement, dated as of September 5, 2025, as further amended, restated, amended and
+restated, supplemented, waived or otherwise modified from time to time, the “
+
+Credit Agreement
+
+”, and as amended
+by this Agreement, the “
+
+Amended Credit Agreement
+
+”);
+
+ 
+
+B.
+The Borrower has requested that the Administrative Agent and the Lenders agree, and the Administrative Agent and the Lenders have agreed,
+to extend the Maturity Date upon the terms and subject to the conditions set forth in this Agreement;
+
+ 
+
+C.
+The Borrower and the Administrative Agent have agreed to make certain modifications to the Credit Agreement upon the terms and subject
+to the conditions set forth in this Agreement.
+
+ 
+
+NOW,
+THEREFORE
+, in consideration of the mutual promises herein contained and for other valuable consideration, the receipt and sufficiency
+of which is hereby acknowledged, the parties hereto do hereby agree as follows:
+
+ 
+
+1.
+
+CREDIT AGREEMENT DEFINITIONS
+. Unless otherwise expressly defined herein, capitalized terms used but not defined herein shall have
+the meaning given to such terms in the Amended Credit Agreement.
+
+ 
+
+2.
+
+AMENDMENTS TO CREDIT AGREEMENT.
+ Effective as of the Second Amendment Effective Date, the Credit Agreement is hereby amended as
+follows:
+
+ 
+
+2.01.
+Section 1.01 of the Credit Agreement is hereby amended by amending and restating the following definition in its entirety to read as
+follows:
+
+ 
+
+“
+Stated
+Maturity Date
+” means March 31, 2026.
+
+ 
+
+3.
+
+REPRESENTATIONS AND WARRANTIES
+. The Borrower hereby represents and warrants to the Administrative Agent and the Lenders that,
+as of the date hereof:
+
+ 
+
+3.01.
+The representations and warranties of Borrower and each other Credit Party contained in 
+Article III 
+of the Amended Credit Agreement
+or any other Loan Document, are true and correct in all material respects on and as of the Second Amendment Effective Date, except to
+the extent that such representations and warranties specifically refer to an earlier date, in which case they shall be true and correct
+in all material respects as of such earlier date, and except that for purposes of the Amended Credit Agreement, the representations and
+warranties contained in 
+Section 3.04 
+of the Amended Credit Agreement shall be deemed to refer to the most-recent statements furnished
+pursuant to 
+Section 5.01 
+of the Amended Credit Agreement;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.02.
+No Default or Event of Default exists as of the Second Amendment Effective Date, or would result after giving effect to this Agreement;
+and
+
+ 
+
+3.03.
+This Agreement has been duly authorized, executed and delivered by Borrower so as to constitute the legal and binding obligation of Borrower,
+enforceable against it in accordance with its terms, subject to Debtor Relief Laws and equitable principles.
+
+ 
+
+4.
+
+CONDITIONS PRECEDENT
+. The effectiveness of this Agreement is subject to the conditions precedent that Administrative Agent shall
+have received the following (the date when such conditions shall have been satisfied or waived, the “
+
+Second Amendment Effective
+Date
+
+”):
+
+ 
+
+4.01.
+
+Agreement
+. This Agreement, duly executed and delivered by Borrower, the Administrative Agent, and Lenders.
+
+ 
+
+5.
+
+NO OTHER AMENDMENTS; RATIFICATION OF LOAN DOCUMENTS
+
+.
+Except for the amendments set forth in 
+
+Section 2 
+
+of this Agreement, (a) the Amended
+Credit Agreement and the other Loan Documents shall remain unchanged and in full force and effect and (b) nothing in this Agreement is
+intended, or shall be construed, to constitute a novation or an accord and satisfaction of Borrower’s under or in connection with
+the Amended Credit Agreement or any other Loan Document. Borrower hereby ratifies, confirms and reaffirms all of the terms and conditions
+of the Amended Credit Agreement and each of the other Loan Documents to which it is party, and further acknowledges and agrees that all
+of the terms and conditions of the Amended Credit Agreement and such Loan Documents remain in full force and effect, in each case, except
+as expressly provided in this Agreement. This Agreement shall constitute a Loan Document for all purposes.
+
+ 
+
+6.
+
+MISCELLANEOUS
+
+.
+
+ 
+
+6.01.
+
+Governing Law
+. This Agreement shall be governed by and construed in accordance with the laws of the State of New York.
+
+ 
+
+6.02.
+
+Successors and Assigns
+. The provisions of this Agreement shall be binding upon and inure to the benefit of the parties hereto
+and their respective successors and assigns permitted by the Amended Credit Agreement.
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+6.03.
+
+Invalid Provisions
+. If any provision of this Agreement is held to be illegal, invalid, or unenforceable under present or future
+laws effective during the term of this Agreement, such provision shall be fully severable and this Agreement shall be construed and enforced
+as if such illegal, invalid or unenforceable provision had never comprised a part of this Agreement, and the remaining provisions of
+this Agreement shall remain in full force and effect and shall not be affected by the illegal, invalid or unenforceable provision or
+by its severance from this Agreement, unless such continued effectiveness of this Agreement, as modified, would be contrary to the basic
+understandings and intentions of the parties as expressed herein.
+
+ 
+
+6.04.
+
+Headings
+. Section headings are for convenience of reference only and shall in no way affect the interpretation of this Agreement.
+
+ 
+
+6.05.
+
+Counterparts; Integration; Effectiveness
+. This Agreement may be executed in counterparts (and by different parties hereto in different
+counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. This
+Agreement and the other Loan Documents constitute the entire contract among the parties relating to the subject matter hereof and supersede
+any and all previous agreements and understandings, oral or written, relating to the subject matter hereof. Except as provided in 
+
+Section
+6
+
+, this Agreement shall become effective when it shall have been executed by Administrative Agent and when Administrative Agent
+shall have received counterparts hereof that, when taken together, bear the signatures of each of the other parties hereto. Delivery
+of an executed counterpart of a signature page of this Agreement by telecopy or other electronic imaging means shall be effective as
+delivery of a manually executed counterpart of this Agreement.
+
+ 
+
+Remainder
+of Page Intentionally Left Blank
+
+Signature
+Pages Follow.
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF,
+ the parties hereto have caused this Agreement to be duly executed as of the day and year first above written.
+
+ 
+
+ 
+
+ 
+
+ 
+
+BORROWER
+:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MOBILE
+ INFRA INFRASTRUCTURE CORPORATION,
+ a Maryland corporation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By: 
+
+ 
+
+/s/
+ Stephanie Hogue
+
+ 
+
+ 
+
+ 
+
+Name
+:
+
+ 
+
+ Stephanie Hogue
+
+ 
+
+ 
+
+ 
+
+Title
+:
+
+ 
+
+President
+and Chief Executive Officer
+
+ 
+
+Signature
+Page to
+
+Second
+Amendment to Credit Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ADMINISTRATIVE
+ AGENT:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HARVEST
+ SMALL CAP PARTNERS, L.P.,
+ a Delaware limited partnership, as Administrative Agent and as an Initial Lender
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By
+ :
+
+ 
+
+Harvest
+ Small Cap Partners GP LLC,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+its
+ General Partner
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Jeffrey Osher
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Jeffrey
+ Osher
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Managing
+ Member
+
+ 
+
+ 
+
+Signature
+Page to
+
+Second
+Amendment to Credit Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INITIAL
+ LENDERS:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HARVEST
+ SMALL CAP PARTNERS, L.P.,
+ a Delaware limited partnership, as Onshore Lender
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+Harvest
+ Small Cap Partners GP LLC,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+its
+ General Partner
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Jeffrey Osher
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Jeffrey
+ Osher
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Managing
+ Member
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HARVEST
+ SMALL MASTER LTD.,
+
+ 
+
+ 
+
+ 
+
+ 
+
+a
+ Cayman Islands exempted company, as Offshore Lender
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+Harvest
+ Small Cap Partners GP LLC,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+its
+ General Partner
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Jeffrey Osher
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Jeffrey
+ Osher
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Managing
+ Member
+
+ 
+
+ 
+
+Signature
+Page to
+
+Second
+Amendment to Credit Agreement

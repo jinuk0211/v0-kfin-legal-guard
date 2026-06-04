@@ -1,0 +1,347 @@
+EX-10.1
+
+2
+
+ex101ablamendment031825.htm
+
+EX-10.1
+
+Document
+
+FIRST AMENDMENT TO
+
+ 
+
+LOAN DOCUMENTS AND WAIVER
+
+THIS FIRST AMENDMENT TO LOAN DOCUMENTS AND WAIVER (“
+
+Amendment
+
+”) is dated as of March 18, 2025, and is effective as of March 1, 2025 (the “Effective Date”), and is by and between GEMINI FINANCE CORP., a California corporation (“
+
+Lender
+
+”), and UG CONSTRUCTION, INC. D/B/A EMERALD CONSTRUCTION MANAGEMENT, INC., a Colorado corporation (“
+
+Borrower
+
+”). Capitalized terms used herein but not otherwise defined herein shall have the respective meanings assigned to such terms in the Loan Agreement referred to herein below.
+
+W I T N E S S E T H
+
+:
+
+WHEREAS, Lender and Borrower have entered into a certain financing arrangement pursuant to the following documents between Borrower and Lender all dated as of December 12, 2023; the “
+
+Loan Agreement
+
+”, the Secured Promissory Note – Revolving (the “
+
+Note
+
+”), the “
+
+Security Agreement
+
+” and the Continuing Guaranty between Borrower’s parent corporation, urban-gro, Inc. and Lender (the “
+
+Guaranty
+
+”, collectively, the Loan Agreement, Note, and Security Agreement referred to as the “
+
+Loan Documents
+
+”);
+
+WHEREAS, pursuant to the terms of the Note, an Interest payment was owing on February 28, 2025 (the “
+
+February 2025 Interest Payment
+
+”), and Borrower has requested an extension on the February 2025 Interest Payment until the earlier of (i) March 31, 2025, or (ii) the closing of a debt or equity capital raise of $500,000 or more (“
+
+Capital Raise Event
+
+”);
+
+WHEREAS, Borrower has requested an extension of the Loan draw-down date to January 1, 2026; 
+
+WHEREAS, the Borrower is or may be in default under certain of the terms and conditions of the Loan Agreement or Loan Documents and has requested that the Lender waive compliance with such defaults, and the Lender is willing to provide such waiver, 
+
+BUT ONLY
+
+ upon the terms and conditions set forth herein; and 
+
+NOW, THEREFORE, in consideration of the premises set forth above, the terms and conditions contained herein, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the respective parties hereto hereby agree as of the Effective Date as follows:
+
+1.
+
+Defined Terms
+
+.
+
+ 
+
+Capitalized terms used in this Agreement which are defined in the Loan Agreement shall have the same meanings as defined therein, unless otherwise defined herein.
+
+2.
+
+Waiver and Reservation of Rights
+
+.
+
+ 
+
+The Lender hereby waives any Events of Default under the Loan Agreement or Loan Documents that arose or may have arose as a result of (i) Borrower’s failure to make a timely February 2025 Interest Payment, or (ii) any failure of the Borrower to maintain Eligible Accounts (defined below) in excess 125% the sum of the Draw Down Amounts plus any outstanding Interest under the Note, for any dates prior to April 15, 2025 (the “
+
+Stated Defaults
+
+”). This waiver is limited to the Stated Defaults and is not, nor shall it be construed as, a waiver of any other Event of Default under the Loan Agreement or Loan Documents, now existing or hereafter occurring. Nothing in this paragraph shall be construed to be an amendment of any provision of the Loan Agreement or Loan Documents and, except as otherwise expressly provided in this Agreement, all of the provisions of the Loan Agreement and Loan Documents remain in full force and effect. The Lender expressly reserves the full extent of its rights under the Loan Documents and applicable law in respect of any default or Events of Default other than the Stated Defaults under the Loan Documents existing on the date hereof, and any default or Events of Default existing under the Loan Documents occurring on or after the date hereof. 
+
+3.
+
+February 2025 Interest Payment
+
+. Subject to the conditions to effectiveness set forth in Section 6 below, notwithstanding anything set forth in the Note or Loan Documents, the Lender hereby extends the date for the Company to pay the February 2025 Interest Payment until the first of the following to occur: (1) March 31, 2025; or (2) the closing of a Capital Raise Event. 
+
+4.
+
+Amendment to the Note
+
+. Subject to the conditions to effectiveness set forth in Section 5 below, the opening recital paragraph to the Note is hereby amended and restated as follows:
+
+FOR VALUE RECEIVED, UG Construction, Inc. dba Emerald Construction Management, Inc. (the “Borrower”) promises to pay in lawful money of the United States to the order of Gemini Finance Corp. (“Lender”) on or before one hundred eighty (180) calendar days after each Draw Down Date (as defined below), each a “Maturity Date”, an amount not to exceed the principal sum of TEN MILLION DOLLARS ($10,000,000), and to pay interest to the Lender on the outstanding principal amount of this Promissory Note in accordance with the provisions hereof. All requests by Borrower for advances hereunder shall be in writing and submitted to Lender not later than January 1, 2026. The Lender in its sole discretion may accept or reject any request by Borrower for advances hereunder.
+
+5.
+
+Amendments to the Loan Agreement
+
+. Subject to the conditions to effectiveness set forth in Section 7 below, the Loan Agreement is hereby amended as follows:
+
+(a)
+
+Section 2.02(a) Interest:
+
+ Section 2.02(a) Interest is hereby amended and replaced with the following paragraph:
+
+(a)    
+
+Interest
+
+. Interest shall be applied on the outstanding principal amount of the Promissory Note and accrue daily at a monthly rate of one and seventy-five hundredths percent (1.75%). The Borrower shall pay to the Lender any and all accrued but unpaid interest hereunder on the first business day of each month for the prior month. 
+
+(b)
+
+Section 5.01(a) Reporting Requirements
+
+: Section 5.01(a) of the Loan Agreement is hereby amended by adding a new subsection (v) in numerical order to such section, as follows: 
+
+(v)     Commencing on April 15, 2025 and not later than the 15
+
+th
+
+ of every month thereafter, the Borrower shall submit a calculation to the Lender of its accounts receivable owing from Lender approved non-cannabis construction invoices of the Borrower (the “
+
+Eligible Accounts
+
+”), which such Eligible Accounts shall be calculated as of the 10
+
+th
+
+ day of each such month (except for the initial month which shall be calculated as of April 15, 2025) (each such date, a “
+
+Measurement Date
+
+”). Each such calculation of the Eligible Accounts shall be submitted by the Company with a certification as to compliance with the covenant set forth in Section 5.01(f). 
+
+(c)
+
+Section 5.01 Affirmative Covenants
+
+: Section 5.01 of the Loan Agreement is hereby amended by adding new subsections (f), (g) and (h) in alphabetical order to such section, as follows: 
+
+(f) Commencing on April 15, 2025, and on every Measurement Date thereafter, the total Eligible Accounts of the Borrower as of each such Measurement Date shall equal or exceed 125% of the sum of the Draw Down Amounts plus any outstanding Interest owing under the Note. 
+
+(g)    Any money received by Borrower from an account receivable that is included in the Eligible Accounts shall be deposited in the Borrower’s account at Citywide Bank and may not be transferred to any other bank without the prior approval of the Lender. Nothing in this Section 5.01(g) removes or releases the Borrower’s obligations under Section 2.04 of this Loan Agreement.
+
+(h)    The Borrower’s parent corporation, urban-gro, Inc., shall grant Lender view only access to the Borrower’s deposit accounts at Alpine Bank while the Loan remains outstanding.
+
+6.
+
+Amendments to the Note
+
+. Subject to the conditions to effectiveness set forth in Section 7 below, the Note is hereby amended as follows:
+
+(a)
+
+Section 3(a) Interest.:
+
+ Section 3(a) Interest is hereby amended and replaced with the following paragraph:
+
+(a)    
+
+Interest
+
+. Interest shall be applied on the outstanding principal amount of the Promissory Note and accrue daily at a monthly rate of one and seventy-five hundredths percent (1.75%). The Borrower shall pay to the Lender any and all accrued but unpaid interest hereunder on the first business day of each month for the prior month.
+
+7.
+
+Conditions
+
+. The effectiveness of this Amendment is subject to the satisfaction of the following conditions:
+
+(a)
+
+Lender shall have received a copy of this Amendment executed by Borrower and Lender;
+
+(b)
+
+Lender shall have received payment in full of the Amendment Fee (as defined below); and
+
+(c)
+
+All proceedings taken in connection with the transactions contemplated by this Amendment and all agreements, documents, instruments and other legal matters incident thereto shall be satisfactory to Lender and its legal counsel.
+
+8.
+
+Release
+
+.
+
+In consideration of the agreements of Lender contained herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Borrower, on behalf of itself and its successors, assigns, and other legal representatives, hereby absolutely, unconditionally and irrevocably release, remise and forever discharge Lender, its successors and assigns, and its present and former shareholders, affiliates, subsidiaries, divisions, predecessors, directors, officers, attorneys, employees, agents and other representatives (Lender and all such other Persons being hereinafter referred to collectively as the “
+
+Releasees
+
+” and individually as a “
+
+Releasee
+
+”), of and from all demands, actions, causes of action, suits, covenants, contracts, controversies, agreements, promises, sums of money, accounts, bills, reckonings, damages and any and all other claims, counterclaims, defenses, rights of set-off, demands and liabilities whatsoever (individually, a “
+
+Claim
+
+” and collectively, “
+
+Claims
+
+”) of every kind and nature, known or unknown, suspected or unsuspected, at law or in equity, which Borrower or any of its successors, assigns, or other legal representatives may now or hereafter own, hold, have or claim to have against the Releasees or any of them for, upon, or by reason of any circumstance, action, cause or thing whatsoever which arises at any time on or prior to the date of this Amendment, including, without limitation, for or on account of, or in relation to, or in any way in connection with this Amendment, the Loan Agreement, or any of the Loan Documents or transactions hereunder or thereunder 
+
+other than Claims caused by or resulting from the willful misconduct, bad faith or gross negligence of the applicable Releasee.
+
+Borrower understands, acknowledges and agrees that the release set forth above may be pleaded as a full and complete defense and may be used as a basis for an injunction against any action, suit or other proceeding which may be instituted, prosecuted or attempted in breach of the provisions of such release.
+
+Borrower agrees that no fact, event, circumstance, evidence or transaction which could now be asserted or which may hereafter be discovered shall affect in any manner the final, absolute and unconditional nature of the release set forth above.
+
+9.
+
+Amendment Fee
+
+. Borrower hereby agrees to issue to the Lender as a non-refundable amendment fee (the “
+
+Amendment Fee
+
+”) One Hundred and Fifty Thousand (150,000) shares of common stock of the Borrower which shall be issued on the date hereof (the “
+
+Shares
+
+”). In connection with the issuance by the Borrower of the Shares to the Lender:
+
+(a)
+
+Lender hereby represents and warrants to the Borrower that it is acquiring the Shares for its own account, not as nominee or agent, and not with a view to, or for resale in connection with, any distribution or public offering thereof within the meaning of the Securities Act of 1933, as amended (the “Securities Act”);
+
+(b)
+
+Lender understands that (i) the Shares have not been registered under the Securities Act; (ii) the Shares are being issued pursuant to an exemption from registration, based in part upon the Borrower’s reliance upon the statements and representations made by Lender in this Amendment, and that the Shares must be held by Lender indefinitely, and that the Lender must, therefore, bear the economic risk of such investment indefinitely, unless a subsequent disposition thereof is registered under the Securities Act or is exempt from such registration; (iii) each certificate or book entry representing the Shares will be endorsed with substantially the following legend until the earlier of (1) the Shares have been registered for resale by Borrower, provided that Borrower is under no obligation to effect such registration, or (2) the date the Shares are eligible for sale under Rule 144 under the Securities Act:
+
+THIS SECURITY HAS NOT BEEN REGISTERED WITH THE SECURITIES AND EXCHANGE COMMISSION OR THE SECURITIES COMMISSION OF ANY STATE IN RELIANCE UPON AN EXEMPTION FROM REGISTRATION UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), AND, ACCORDINGLY, MAY NOT BE OFFERED OR SOLD EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR PURSUANT TO AN AVAILABLE EXEMPTION FROM, OR IN A TRANSACTION NOT SUBJECT TO, THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT AND IN ACCORDANCE WITH APPLICABLE STATE SECURITIES LAWS. THIS SECURITY AND THE SECURITIES ISSUABLE UPON EXERCISE OF THIS SECURITY MAY BE PLEDGED IN CONNECTION WITH A BONA FIDE MARGIN ACCOUNT OR OTHER LOAN SECURED BY SUCH SECURITIES.
+
+The Borrower will instruct any transfer agent not to register the transfer of the Shares (or any portion thereof) until the applicable date set forth in clause (iii) above unless the 
+
+conditions specified in the foregoing legends are satisfied, or other satisfactory assurances of such nature are given to the Borrower;
+
+(c)
+
+Lender has such knowledge and experience in financial or business matters that it is capable of evaluating the merits and risks of the investment in connection with the receipt of the Shares. Lender has, in connection with its decision to acquire the Shares, relied only upon the representations and warranties contained herein. Further, Lender has had such opportunity to obtain additional information and to ask questions of, and receive answers from, the Borrower, concerning the terms and conditions of the investment and the business and affairs of the Borrower, as Lender considers necessary in order to form an investment decision;
+
+(d)
+
+Lender is an “accredited investor” as such term is defined in Rule 501(a) of the rules and regulations promulgated under the Securities Act;
+
+(e)
+
+Lender is not acquiring the Shares as a result of any advertisement, article, notice or other communication regarding the Shares published in any newspaper, magazine or similar media or broadcast over the television or radio or presented at any seminar or any other general solicitation or general advertisement;
+
+(f)
+
+Lender understands that nothing in this Amendment, or any other materials presented to Lender in connection with its acquisition of the Shares, constitutes legal, tax or investment advice. Lender has consulted such legal, tax and investment advisors as it, in its sole discretion, has deemed necessary or appropriate in connection with its acquisition of Shares;
+
+(g)
+
+Lender acknowledges that it has independently evaluated the merits of the transactions contemplated by this Amendment, that it has independently determined to enter into the transactions contemplated hereby, that it is not relying on any advice from or evaluation by any other person;
+
+(h)
+
+Lender acknowledge and agree that he/it has had the opportunity to consult its own independent legal, tax, accounting and other advisors and Lender’s tax and other economic consequences to itself of the purchase, receipt or ownership of the Shares being acquired by Lender hereunder, including the tax consequences under federal, state, local and other income tax laws of the United States or any other country, and the possible effects of changes in such tax laws; and
+
+(i)
+
+Lender is not relying on the Borrower or any of its affiliates or any of their respective employees, agents, representatives or advisors with respect to the legal, tax, economic and related considerations of an investment in the Shares.
+
+10.
+
+Governing Law
+
+. THE VALIDITY, INTERPRETATION AND ENFORCEMENT OF THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE INTERNAL LAWS AND DECISIONS OF THE STATE OF CALIFORNIA, WITHOUT REGARD TO CONFLICT OF LAWS PRINCIPLES.
+
+11.
+
+Headings
+
+. Section headings in this Amendment are included herein for convenience of reference only and shall not constitute a part of this Amendment for any other purpose.
+
+12.
+
+Counterparts
+
+. This Amendment may be executed in any number of counterparts and by the different parties hereto in separate counterparts, each of which when so executed and delivered shall be an original, but all of which shall together constitute one and the same instrument. Any such counterpart which may be delivered by facsimile transmission or electronic mail shall be deemed the equivalent of an originally signed counterpart and shall be fully admissible in any enforcement proceedings regarding this Amendment.
+
+[Signature page to follow]
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed and delivered by their proper and duly authorized officers as of the date first set forth above.
+
+BORROWER
+
+:
+
+UG CONSTRUCTION, INC. dba EMERALD CONSTRUCTION MANAGEMENT, 
+
+a Colorado corporation
+
+By: __
+
+s/Bradley Nattrass
+
+___________________
+
+Name: Bradley Nattrass
+
+Title: CEO
+
+LENDER
+
+:
+
+GEMINI FINANCE CORP.
+
+, a California corporation
+
+By: __
+
+s/Steven Winters
+
+_____________________
+
+Name: Steven Winters
+
+Title: President and CEO

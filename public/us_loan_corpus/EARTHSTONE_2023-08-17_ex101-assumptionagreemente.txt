@@ -1,0 +1,386 @@
+EX-10.1
+
+5
+
+ex101-assumptionagreemente.htm
+
+EX-10.1
+
+Document
+
+Exhibit 10.1
+
+ASSUMPTION AGREEMENT (this “
+
+Assumption Agreement
+
+”), dated as of August 15, 2023, made by Novo Oil & Gas Holdings, LLC, Delaware limited liability company, Novo Oil & Gas Texas, LLC, a Delaware limited liability company, Novo Oil & Gas Northern Delaware, LLC, a Delaware limited liability company, Scala Energy Assets, LLC, a Delaware limited liability company, and Scala Energy Operating, LLC, a Delaware limited liability company (each, an “
+
+Additional Grantor
+
+” and, collectively, the “Additional Grantors”), in favor of Wells Fargo Bank, National Association, as administrative agent (in such capacity, the “
+
+Administrative Agent
+
+”) for the banks and other financial institutions or entities (the “
+
+Lenders
+
+”) parties to the Credit Agreement referred to below. All capitalized terms not defined herein shall have the meaning ascribed to them in such Credit Agreement or in the Guarantee and Collateral Agreement referred to below, as applicable.
+
+W I T N E S S E T H :
+
+WHEREAS, Earthstone Energy Holdings, LLC, a Delaware limited liability company (the “
+
+Borrower
+
+”), Earthstone Energy, Inc., a Delaware corporation, the Lenders, the Administrative Agent and the other parties thereto have entered into that certain Credit Agreement, dated as of November 21, 2019 (as amended, restated, amended and restated, supplemented or otherwise modified from time to time, the “
+
+Credit Agreement
+
+”);
+
+WHEREAS, in connection with the Credit Agreement, the Borrower and certain of its Affiliates (other than the Additional Grantors) have entered into the Guarantee and Collateral Agreement, dated as of November 21, 2019 (as amended, restated, amended and restated, supplemented or otherwise modified from time to time, the “
+
+Guarantee and Collateral Agreement
+
+”) in favor of the Administrative Agent for the ratable benefit of the Secured Persons; 
+
+WHEREAS, the Credit Agreement requires each Additional Grantor to become a party to the Guarantee and Collateral Agreement; and 
+
+WHEREAS, each Additional Grantor has agreed to execute and deliver this Assumption Agreement in order to become a party to the Guarantee and Collateral Agreement; 
+
+NOW, THEREFORE, IT IS AGREED:
+
+1.    
+
+Guarantee and Collateral Agreement
+
+. By executing and delivering this Assumption Agreement, each Additional Grantor, as provided in 
+
+Section 9.14
+
+ of the Guarantee and Collateral Agreement, hereby becomes a party to the Guarantee and Collateral Agreement as a Grantor and a Guarantor thereunder with the same force and effect as if originally named therein as a Grantor and a Guarantor and, without limiting the generality of the foregoing, hereby expressly (a) assumes all obligations and liabilities of a Grantor and a Guarantor thereunder; (b) guarantees the Obligations pursuant to 
+
+Article 2
+
+ of the Guarantee and Collateral Agreement; and (c) grants to the Administrative Agent, for the ratable benefit of the Secured Persons, a security interest in such Additional Grantor’s right, title and interest in and to the Collateral, wherever located and whether now owned or at any time hereafter acquired by such Additional Grantor or in which such Additional Grantor now has or at any time in the future may acquire any right, title or interest, as security for the prompt and complete payment and performance when due (whether at stated maturity, by acceleration or otherwise) of such Additional Grantor’s Secured Obligations. The information set forth in 
+
+Annex 1-A
+
+ hereto is hereby added to the information set forth in the Schedules to the Guarantee and Collateral Agreement. Each Additional Grantor hereby represents and warrants that each of the representations and warranties contained in 
+
+Article 4
+
+ of the Guarantee and Collateral Agreement, as they relate to such Additional Grantor and its Collateral, is true and correct on and as the date hereof (after giving effect to this Assumption Agreement) as if made on and as of such date.
+
+2.    
+
+Governing Law
+
+. THIS ASSUMPTION AGREEMENT, THE RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER THIS ASSUMPTION AGREEMENT AND ANY CLAIM OR CONTROVERSY ARISING OUT OF OR RELATED TO THIS ASSUMPTION AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF TEXAS.
+
+3.    
+
+Acceptance
+
+. Each Additional Grantor hereby expressly waives notice of acceptance of this Assumption Agreement, acceptance on the part of the Administrative Agent and the other Secured Persons being conclusively presumed by their request for this Assumption Agreement and delivery of the same to the Administrative Agent.
+
+[SIGNATURE PAGES FOLLOW]
+
+    2
+
+IN WITNESS WHEREOF, the undersigned has caused this Assumption Agreement to be duly executed and delivered as of the date first above written.
+
+ADDITIONAL GRANTORS:    NOVO OIL & GAS HOLDINGS, LLC
+
+NOVO OIL & GAS TEXAS, LLC
+
+NOVO OIL & GAS NORTHERN DELAWARE, LLC
+
+SCALA ENERGY ASSETS, LLC
+
+SCALA ENERGY OPERATING, LLC
+
+    Each By: 
+
+/s/ Mark Lumpkin, Jr. 
+
+    
+Name: Mark Lumpkin, Jr. 
+Title: Executive Vice President and Chief Financial Officer
+
+    Signature Page to Assumption Agreement
+
+Annex 1-A to
+
+Assumption Agreement
+
+Supplement to Schedule 1
+
+NOTICE ADDRESSES OF GUARANTORS
+
+Notice Address for all Guarantors:
+
+C/o: Earthstone Energy Holdings, LLC
+
+1400 Woodloch Forest Drive, Suite 300
+
+The Woodlands, TX 77380
+
+Attention: Mark Lumpkin, Jr.
+
+Fax: 832-823-0478
+
+Email: Mark.Lumpkin@earthstoneenergy.com
+
+Supplement to Schedule 2
+
+DESCRIPTION OF INVESTMENT PROPERTY
+
+Pledged Notes
+
+None.
+
+Pledged Securities
+
+:
+
+Pledgor
+
+Issuer
+
+Pledged Capital Stock
+
+Certificate No.
+
+Number of Units
+
+Percent of ownership held by Pledgor
+
+Novo Oil & Gas Holdings, LLC
+
+Novo Oil & Gas Texas, LLC
+
+Limited Liability Company Membership Interests
+
+N/A
+
+100
+
+100%
+
+Novo Oil & Gas Holdings, LLC
+
+Novo Oil & Gas Northern Delaware, LLC
+
+Limited Liability Company Membership Interests
+
+N/A
+
+100
+
+100%
+
+Novo Oil & Gas Holdings, LLC
+
+Scala Energy Assets, LLC
+
+Limited Liability Company Membership Interests
+
+N/A
+
+100
+
+100%
+
+Novo Oil & Gas Holdings, LLC
+
+Scala Energy Operating, LLC
+
+Limited Liability Company Membership Interests
+
+N/A
+
+100
+
+100%
+
+Supplement to Schedule 3
+
+FILINGS AND OTHER ACTIONS 
+REQUIRED TO PERFECT SECURITY INTERESTS
+
+Uniform Commercial Code Filings
+
+Filing of UCC-1 Financing Statements naming the Administrative Agent as secured party with respect to the following Grantors as debtors in the Office of the Secretary of State in the State indicated below:
+
+Debtor
+
+State
+
+Novo Oil & Gas Holdings, LLC
+
+Delaware
+
+Novo Oil & Gas Texas, LLC
+
+Delaware
+
+Novo Oil & Gas Northern Delaware, LLC
+
+Delaware
+
+Scala Energy Assets, LLC
+
+Delaware
+
+Scala Energy Operating, LLC
+
+Delaware
+
+Supplement to Schedule 4
+
+LOCATION OF JURISDICTION OF ORGANIZATION AND CHIEF EXECUTIVE OFFICE
+
+Grantor: 
+
+Novo Oil & Gas Holdings, LLC
+
+Other Names and Trade Names Used in the Last Five Years: None 
+
+Jurisdictions of Organization over the Last Five Years: Delaware 
+
+Current Jurisdiction of Organization: Delaware 
+
+Organizational Number: 6100548 
+
+Tax ID Number: 81-3274293 
+
+Location of Chief Executive Office over the last Five Years: 
+
+1001 West Wilshire Blvd, Suite 206
+
+Oklahoma City, OK 73116 
+
+Current Location of Chief Executive Office:
+
+1001 West Wilshire Blvd, Suite 206
+
+Oklahoma City, OK 73116 
+
+ 
+
+Grantor: 
+
+Novo Oil & Gas Texas, LLC
+
+Other Names and Trade Names Used in the Last Five Years: None 
+
+Jurisdictions of Organization over the Last Five Years: Delaware 
+
+Current Jurisdiction of Organization: Delaware 
+
+Organizational Number: 6309455 
+
+Tax ID Number: 81-3274293 
+
+Location of Chief Executive Office over the last Five Years:
+
+1001 West Wilshire Blvd, Suite 206
+
+Oklahoma City, OK 73116 
+
+Current Location of Chief Executive Office:
+
+1001 West Wilshire Blvd, Suite 206
+
+Oklahoma City, OK 73116 
+
+Grantor: 
+
+Novo Oil & Gas Northern Delaware, LLC
+
+Other Names and Trade Names Used in the Last Five Years: None 
+
+Jurisdictions of Organization over the Last Five Years: Delaware 
+
+Current Jurisdiction of Organization: Delaware 
+
+Organizational Number: 6593193 
+
+Tax ID Number: 81-3274293 
+
+Location of Chief Executive Office over the last Five Years:
+
+1001 West Wilshire Blvd, Suite 206
+
+Oklahoma City, OK 73116 
+
+Current Location of Chief Executive Office: 
+
+1001 West Wilshire Blvd, Suite 206
+
+Oklahoma City, OK 73116 
+
+ 
+
+Grantor: 
+
+Scala Energy Assets, LLC
+
+Other Names and Trade Names Used in the Last Five Years: None 
+
+Jurisdictions of Organization over the Last Five Years: Delaware 
+
+Current Jurisdiction of Organization: Delaware 
+
+Organizational Number: 5781611 
+
+Tax ID Number: 81-3274293 
+
+Location of Chief Executive Office over the last Five Years: 
+
+1001 West Wilshire Blvd, Suite 206
+
+Oklahoma City, OK 73116 
+
+Current Location of Chief Executive Office:
+
+1001 West Wilshire Blvd, Suite 206
+
+Oklahoma City, OK 73116 
+
+ 
+
+Grantor: 
+
+Scala Energy Operating, LLC
+
+Other Names and Trade Names Used in the Last Five Years: None 
+
+Jurisdictions of Organization over the Last Five Years: Delaware 
+
+Current Jurisdiction of Organization: Delaware 
+
+Organizational Number: 6290231 
+
+Tax ID Number: 81-3274293 
+
+Location of Chief Executive Office over the last Five Years: 
+
+1001 West Wilshire Blvd, Suite 206
+
+Oklahoma City, OK 73116 
+
+Current Location of Chief Executive Office: 
+
+1001 West Wilshire Blvd, Suite 206
+
+Oklahoma City, OK 73116 
+
+Supplement to Schedule 5
+
+LOCATIONS OF INVENTORY AND EQUIPMENT
+
+Any location where any Loan Party produces or sells Hydrocarbons.

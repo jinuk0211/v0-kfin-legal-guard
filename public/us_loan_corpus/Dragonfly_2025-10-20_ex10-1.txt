@@ -1,0 +1,1688 @@
+EX-10.1
+
+2
+
+ex10-1.htm
+
+EX-10.1
+
+ 
+
+ 
+
+Exhibit
+10.1
+
+ 
+
+Execution
+Version
+
+ 
+
+SIXTH
+AMENDMENT TO
+
+TERM
+LOAN, GUARANTEE AND SECURITY AGREEMENT
+
+ 
+
+This
+
+SIXTH AMENDMENT TO TERM LOAN, GUARANTEE AND SECURITY AGREEMENT 
+(this “
+Amendment
+”) is made as of October 20,
+2025, by and among DRAGONFLY ENERGY CORP. (“
+Borrower
+”), DRAGONFLY ENERGY HOLDINGS CORP. (F/K/A CHARDAN NEXTECH ACQUISITION
+2 CORP) (“
+Holdings
+”), BATTLE BORN BATTERY PRODUCTS, LLC (“
+Battle Born
+”, and together with Holdings,
+each a “
+Guarantor
+” and collectively, the “
+Guarantors
+”), the Lenders signatory hereto representing
+all Lenders (the “
+Lenders
+”), and ALTER DOMUS (US) LLC, as agent on behalf of the Lenders under the Loan Agreement
+(as hereinafter defined) (in such capacity, the “
+Agent
+”).
+
+ 
+
+WHEREAS,
+Borrower, Holdings, the Lenders and the Agent are parties to that certain Term Loan, Guarantee and Security Agreement, dated as of October
+7, 2022 (as amended by that certain Limited Waiver and First Amendment to Term Loan, Guarantee and Security Agreement, dated as of June
+28, 2024, that certain Limited Waiver, Consent and Second Amendment to Term Loan, Guarantee and Security Agreement, dated as of July
+29, 2024, that certain Limited Waiver and Third Amendment to Term Loan, Guarantee and Security Agreement, dated as of September 30, 2024,
+that certain Limited Waiver and Fourth Amendment to Term Loan, Guarantee and Security Agreement and Temporary, Limited Suspension and
+Waiver of Warrant Terms, dated as of December 31, 2024 and that certain Fifth Amendment to Term Loan, Guarantee and Security Agreement
+Limited Waiver and Amendment of Warrant Terms, dated as of February 26, 2025, and as may be further amended, modified, extended, restated,
+replaced, and/or supplemented from time to time, the “
+Loan Agreement
+”); and
+
+ 
+
+WHEREAS,
+the Credit Parties have requested that the Agent and the Lenders amend certain provisions of the Loan Agreement and, subject to the satisfaction
+of the conditions set forth below, each of the Agent and the Lenders are willing to amend the Loan Agreement on the terms set forth herein;
+
+ 
+
+WHEREAS,
+the Credit Parties and the Lenders intend to enter into a series of transactions (collectively, the “
+Transactions
+”)
+whereby (i) the Credit Parties will use a portion of the proceeds from its previous equity offering that was consummated on October 17,
+2025 to voluntarily prepay $45 million of the outstanding principal balance of the Term Loans (the “
+Voluntary Prepayment
+”),
+(ii) the parties will exchange $25 million in outstanding principal balance of the Term Loans into $25 million aggregate principal amount
+of Series B Preferred Stock of Dragonfly Energy Corp. (such exchange, the “
+Sixth Amendment Preferred Exchange
+”, such
+preferred equity, the “
+Sixth Amendment Series B Preferred Equity
+” and the date in which the exchange has been completed,
+the “
+Exchange Date
+”) and (iii) the Lenders will agree to cancel $5 million of the remaining outstanding principal
+balance of the Loans (the “
+Debt Cancellation
+”);
+
+ 
+
+WHEREAS,
+in connection with the Transactions, the Lenders have agreed to amend certain related provisions in accordance with the terms set forth
+in Section 3 below;
+
+ 
+
+NOW
+THEREFORE, the Credit Parties, the Lenders and the Agent each hereby agree as follows:
+
+ 
+
+1.
+
+Defined
+ Terms
+. All terms used but not otherwise defined herein have the meanings assigned to
+ them in the Loan Agreement.
+
+ 
+
+2.
+
+Transactions
+.
+
+ 
+
+2.1
+
+Prepayment
+.
+ On the Sixth Amendment Effective Date, in accordance with Section 1.2(b), the Credit Parties
+ will consummate the Voluntary Prepayment in accordance with Exhibit A-1 attached hereto.
+ Following the consummation of the Voluntary Prepayment, the Sixth Amendment Preferred Exchange,
+ the Debt Cancellation and the application of any capitalized fees on the Sixth Amendment
+ Effective Date, all accrued and unpaid interest and fees shall be added to the outstanding
+ principal balance of the Loans and the outstanding balance of the Loans shall be as set forth
+ on Exhibit A-2 attached hereto.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.2
+
+Sixth
+ Amendment Preferred Exchange. 
+The Credit Parties and the Lenders hereby agree to use
+ commercially reasonable efforts to enter into the Sixth Amendment Preferred Exchange on terms
+ that are reasonably satisfactory to both parties as soon as reasonably practicable. The Lenders
+ (or their designee which may include their counsel) shall give the Agent written notice of
+ the occurrence of the Exchange Date.
+
+ 
+
+2.3
+
+Debt
+ Cancellation
+. Upon the consummation of the Voluntary Prepayment on the Sixth Amendment
+ Effective Date, the Lenders hereby agree to automatically reduce the outstanding principal
+ balance of the Term Loans by $5,000,000 on a pro rata basis in accordance with Exhibit A-3
+ and such principal amount of the Loan shall be deemed to have been cancelled. The Lenders
+ hereby direct the Agent to update the Register to reflect a reduction of the principal amount
+ of the Term Loans on a pro rata basis as a result of the Debt Cancellation.
+
+ 
+
+3.
+
+Amendments
+ to Loan Agreement
+. Subject to the satisfaction of the conditions to effectiveness set
+ forth in 
+Section 4
+ hereof, the Loan Agreement is hereby amended in the following respects:
+
+ 
+
+3.1
+
+Definitions.
+
+ 
+
+3.1.1
+
+The
+ following new defined terms are hereby added, in the appropriate alphabetical order, to Schedule
+ A as follows:
+
+ 
+
+(a)
+
+“
+Exchange
+ Date
+” shall have the meaning as set forth in the Sixth Amendment.
+
+ 
+
+(b)
+
+“
+Sixth
+ Amendment
+” means that certain Sixth Amendment to Term Loan, Guarantee and Security
+ Agreement entered into as of October, 20, 2025 by and among the Borrower, Lenders, the Agent
+ and the other parties party thereto.
+
+ 
+
+(c)
+
+“
+Sixth
+ Amendment Effective Date
+” means October, 20, 2025.
+
+ 
+
+(d)
+
+“
+Sixth
+ Amendment Series B Preferred Equity
+” shall have the meaning as set forth in the
+ Sixth Amendment.
+
+ 
+
+3.1.2
+
+The
+ following defined terms shall be amended and restated in its entirety as follows:
+
+ 
+
+(a)
+
+“
+Applicable
+ Margin
+” for any of the Term Loans means:
+
+ 
+
+(I)
+
+Prior
+ to the Sixth Amendment Effective Date:
+
+ 
+
+(a)
+In the period from the Closing Date until but excluding April 1, 2023, a per annum rate
+
+equal
+to 13.5%, of which 6.50% shall be paid-in-kind.
+
+ 
+
+(b)
+Thereafter, on a quarterly basis, effective as of the first Business Day of the Fiscal Quarter following receipt by Agent of the Compliance
+Certificate and Credit Parties’ quarterly financial statements required to be delivered under this Agreement for the previous Fiscal
+Quarter (each day of such delivery, a “Delivery Date”) commencing with the Fiscal Quarter ending December 31, 2022, the Applicable
+Margin (and PIK Rate in the case of any Payment Date occurring on or prior to October 1, 2024) for the Term Loans shall be adjusted,
+if necessary, to the applicable percent per annum set forth in the pricing table set forth below corresponding to the Senior Leverage
+Ratio for the trailing twelve (12) Fiscal Month period ending on the last day of the most recently completed Fiscal Quarter prior to
+the applicable Delivery Date (each such period, a “Calculation Period”):
+
+ 
+
+ 
+
+ 
+
+SENIOR
+ LEVERAGE RATIO
+
+ 
+
+ 
+
+APPLICABLE
+ MARGIN
+
+ 
+
+ 
+
+ 
+
+Applicable
+ PIK Rate
+
+ 
+
+ 
+
+ 
+
+Greater
+ than or equal to 5.00:1
+
+ 
+
+ 
+
+ 
+
+13.5
+
+%
+
+ 
+
+ 
+
+ 
+
+6.5
+
+%
+
+ 
+
+ 
+
+Less
+ than 5.00:1 and greater than or equal to 4.00:1
+
+ 
+
+ 
+
+ 
+
+12.5
+
+%
+
+ 
+
+ 
+
+ 
+
+5.5
+
+%
+
+ 
+
+ 
+
+Less
+ than 4.00:1
+
+ 
+
+ 
+
+ 
+
+11.5
+
+%
+
+ 
+
+ 
+
+ 
+
+4.5
+
+%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+If
+Credit Parties shall fail to timely deliver the Compliance Certificate, financial statements, certificates and/or other information required
+under this Agreement, the Applicable Margin shall be conclusively presumed to equal the highest Applicable Margin specified in the pricing
+table set forth above for the period commencing on the required delivery date of such financial statements, certificates and/or other
+information until the delivery thereof. In the event that (a) any financial statement delivered pursuant to Section 4.1 or Compliance
+Certificate delivered pursuant to this Agreement is shown to be inaccurate and (b) such inaccuracy if corrected, would have led to the
+application of a higher Applicable Margin for any period (an “Applicable Period”) than the Applicable Margin applied for
+such Applicable Period, then (i) Borrower shall promptly (but in any event within two (2) Business Days after such inaccuracy has been
+shown) deliver to Agent a corrected Compliance Certificate for such Applicable Period, (ii) the Applicable Margin for such Applicable
+Period shall be the Applicable Margin corresponding to the information disclosed on the corrected Compliance Certificate, and (iii) Borrower
+shall immediately pay to Agent the accrued additional interest owing as a result of the application of such increased Applicable Margin
+for such Applicable Period, which payment shall be promptly applied by Agent. In the event that (x) any financial statement delivered
+pursuant to Section 4.1 or Compliance Certificate delivered pursuant to this Agreement is shown to be inaccurate and (x) such inaccuracy
+if corrected, would have led to the application of a lower Applicable Margin for any Applicable Period than the Applicable Margin applied
+for such Applicable Period, then (I) Borrower shall promptly (but in any event within two (2) Business Days after such inaccuracy has
+been shown) deliver to Agent a corrected Compliance Certificate for such Applicable Period, (II) the Applicable Margin for such Applicable
+Period shall be the Applicable Margin corresponding to the information disclosed on the corrected Compliance Certificate, and (III) Borrower
+shall receive a credit toward any future interest payments in an amount equal to the excess interest paid by Borrower as a result of
+the application of such lower Applicable Margin, provided that the corrected Compliance Certificate is delivered to Agent within thirty
+(30) days of the date originally due under Section 4.1 and after such thirty (30) day period, no credit shall be given. The rights of
+Agent set forth above shall survive the Termination Date and are in addition to rights of Agent and Lenders under this Agreement or any
+other Loan Document.
+
+ 
+
+(II)
+
+Following
+ the Sixth Amendment Effective Date:
+
+ 
+
+(a)
+
+In
+ the period starting with the Sixth Amendment Effective Date commencing with the Fiscal Month
+ ending December 31, 2025, a per annum rate equal to 12.0%, of which 0.0% shall be paid-in-kind.
+
+ 
+
+3.2
+
+Section
+ 1.1(a) shall be amended and restated in its entirety as follows:
+
+ 
+
+Each
+Lender agrees severally, but not jointly, upon the terms and subject to the conditions of this Agreement, to make to the Borrower an
+advance (each, a “
+Term Loan
+”; collectively, the “
+Term Loans
+”, the “
+Loans
+” or
+the “
+Loan
+”) on the Closing Date in the principal amount equal to such Lender’s Term Loan Commitment. If requested
+by a Lender, such Lender’s Term Loan shall be evidenced by a promissory note (each a “
+Term Note
+”) duly executed
+and delivered by the Borrower prior to the funding of such Term Loan in the form attached hereto as Exhibit B, and be repayable in accordance
+with the terms of such Term Note and this Agreement. Borrower shall repay the outstanding principal balance of the Loan to the Agent
+for the pro rata benefit of the Lenders in consecutive monthly installments in an amount equal to 0.4167% of the principal amount of
+Loans outstanding at such time, due and payable on the first Business Day of each Fiscal Month beginning with the first full Fiscal Month
+following the Sixth Amendment Effective Date (each such date, a “
+Payment Date
+”), and a payment of the entire outstanding
+balance of the Loan on the Stated Maturity Date. Once repaid, any amount borrowed under the Term Loan Commitment of each Lender may not
+be re-borrowed. Subject to Section 1.2, all amounts owed hereunder with respect to the Term Loans shall be paid in full no later than
+the Maturity Date.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.3
+
+Section
+ 1.5(a) shall be amended and restated in its entirety as follows:
+
+ 
+
+The
+outstanding balance of the Loan shall accrue interest at a per annum rate equal to the Applicable Margin. All computations of interest
+on the Loan shall be made by Agent on the basis of a three hundred and sixty (360) day year, in each case for the actual number of days
+occurring in the period for which such interest is payable. In no event will Agent charge interest at a rate that exceeds the Maximum
+Lawful Rate. For the avoidance of doubt, no date of payment shall be included in any interest computation provided such payment is received
+on or before 1:00 p.m. New York City time.
+
+ 
+
+3.4
+
+Section
+ 1.5(b) shall be amended and restated in its entirety as follows:
+
+ 
+
+(b)
+Borrower shall pay interest to Agent for the pro rata benefit of the Lenders on the outstanding balance of the Loan on a monthly basis.
+Interest shall be payable on the balance of the Loan (i) monthly in arrears and shall be due on the first Business Day of each Fiscal
+Month beginning with the Fiscal Month ending December 31, 2025, (ii) on the Maturity Date of the Loan, and (iii) if any interest accrues
+or remains payable after the Maturity Date of the Loan, upon demand by Agent.
+
+ 
+
+For
+each Payment Date from the Sixth Amendment Effective Date interest shall be payable in cash at a rate per annum equal to the Applicable
+Margin.
+
+ 
+
+3.5
+
+Section
+ 4.2(a) shall be amended and restated in its entirety as follows:
+
+ 
+
+(a)
+Maximum Senior Leverage Ratio. Commencing with the Fiscal Quarter ending March 31, 2027, the Credit Parties shall not permit the Senior
+Leverage Ratio, as of the last day of any Fiscal Quarter, to exceed 3.00 to 1.00.
+
+ 
+
+3.6
+
+Section
+ 4.2(b) shall be amended and restated in its entirety as follows:
+
+ 
+
+(b)
+Liquidity. The Credit Parties shall not permit their Liquidity (determined on a consolidated basis) to be less than $5,000,000 as of
+the last day of each Fiscal Month (commencing with the Fiscal Month ending October 31, 2025).
+
+ 
+
+3.7
+
+Section
+ 4.2(c) shall be amended and restated in its entirety as follows:
+
+ 
+
+(c)
+Fixed Charge Coverage Ratio. If Liquidity is less than $15,000,000 as of the last day of any Fiscal Quarter (commencing with the Fiscal
+Quarter ending March 31, 2027), then the Credit Parties shall not permit the Fixed Charge Coverage Ratio for the trailing four (4) Fiscal
+Quarter period ending on the last day of any such Fiscal Quarter to be less than 1.15:1.00.
+
+ 
+
+3.8
+
+Section
+ 4.2(d) shall be amended and restated in its entirety as follows:
+
+ 
+
+(d)
+Maximum Capital Expenditure.
+
+ 
+
+(i)
+
+The
+ Credit Parties shall not make and shall not cause or permit their Subsidiaries to make Capital
+ Expenditures in any Fiscal Year in excess of $5,000,000.
+
+ 
+
+(ii)
+
+[reserved];
+
+ 
+
+provided,
+however
+, the Required Lenders may approve, in their sole discretion, additional Capital Expenditures by providing prior written consent.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.9
+
+Section
+ 7.1 shall be amended by adding the following clause in the appropriate alphabetical order:
+
+ 
+
+(r)
+From and after the Exchange Date, Borrower shall have failed to pay in full in cash the Cash Dividend payable in respect of the Sixth
+Amendment Series B Preferred Equity (and as defined in the certificate of designation with respect to the Sixth Amendment Series B Preferred
+Equity) within three (3) Business Days after such Cash Dividend has become payable in accordance with the certificate of designation
+with respect to the Sixth Amendment Series B Preferred Equity.
+
+ 
+
+4.
+
+Conditions
+ to Effectiveness
+. This Amendment shall become effective as of the date first written
+ above (the “
+Sixth Amendment Effective Date
+”) upon the satisfaction of
+ the below:
+
+ 
+
+4.1
+
+counterparts
+ of this Amendment shall have been executed and delivered by the Credit Parties, the Agent
+ and the Lenders;
+
+ 
+
+4.2
+
+that
+ certain Sixth Amendment Fee Letter, dated as of the date hereof, shall have been executed
+ and delivered by the Credit Parties and the Lenders;
+
+ 
+
+4.3
+
+the
+ Borrower shall have paid the legal fees and expenses of Proskauer Rose LLP, counsel for the
+ Lenders, incurred in connection with the preparation, negotiation, execution and delivery
+ of this Amendment and other services rendered in connection with the Loan Agreement prior
+ to the date hereof;
+
+ 
+
+4.4
+
+to
+ the extent invoiced prior to execution of this Amendment, the Borrower shall have paid the
+ legal fees and expenses of Holland & Knight LLP, counsel for the Agent, incurred in connection
+ with the preparation, negotiation, execution and delivery of this Amendment and other services
+ rendered in connection with the Loan Agreement prior to the date hereof;
+
+ 
+
+4.5
+
+the
+ Borrower shall have paid the Agent’s outstanding annual agency fee;
+
+ 
+
+4.6
+
+the
+ Borrower shall have paid all reasonable and documented out-of-pocket expenses incurred by
+ the Lenders party hereto and the Agent owing and payable pursuant to Section 10.2 of the
+ Loan Agreement and all accrued and unpaid fees, owing and payable to the Lenders party hereto
+ and the Agent shall have been paid to the extent invoiced and delivered to the Borrower on
+ or before the Sixth Amendment Effective Date; and
+
+ 
+
+4.7
+
+the
+ Voluntary Prepayment shall have been made by the Borrower.
+
+ 
+
+5.
+
+Representations
+ and Warranties
+.
+
+ 
+
+5.1
+
+The
+ Credit Parties represent and warrant that after giving effect to this Amendment, the representations
+ and warranties contained in the Loan Agreement are true and correct in all material respects
+ on and as of the date hereof as if such representations and warranties had been made on and
+ as of the date hereof (it being understood and agreed that any representation or warranty
+ which by its terms is made as of a specified date will be true and correct in all material
+ respects only as of such specified date, and that any representation or warranty which is
+ subject to any materiality qualifier shall be true and correct in all respects subject to
+ such materiality qualifier).
+
+ 
+
+5.2
+
+The
+ Credit Parties represent and warrant that after giving effect to this Amendment, no Default
+ or Event of Default will have occurred and be continuing on and as of the Sixth Amendment
+ Effective Date.
+
+  
+
+6.
+
+Loan
+ Document
+. This Amendment is designated a Loan Document by the Agent.
+
+ 
+
+7.
+
+Full
+ Force and Effect
+. Except as expressly set forth herein, nothing contained herein shall
+ be deemed to constitute a waiver of compliance with any term or condition contained in the
+ Loan Agreement or any of the other Loan Documents. Except as expressly amended hereby, the
+ Loan Agreement shall continue unmodified and in full force and effect in accordance with
+ the provisions thereof on the date hereof. This Amendment shall be limited precisely as drafted
+ and shall not imply an obligation on the Agent or any Lender to consent to any matter on
+ any future occasion. As used in the Loan Agreement, the terms “Agreement,” “this
+ Agreement,” “this Loan Agreement,” “herein,” “hereafter,”
+ “hereto,” “hereof” and words of similar import shall mean, unless
+ the context otherwise requires, the Loan Agreement as modified by this Amendment.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8.
+
+CHOICE
+ OF LAW
+. THIS AMENDMENT SHALL IN ALL RESPECTS BE CONSTRUED IN ACCORDANCE WITH, AND GOVERNED
+ BY, THE LAWS OF THE STATE OF NEW YORK WHICH ARE APPLICABLE TO CONTRACTS MADE AND TO BE PERFORMED
+ WHOLLY WITHIN SUCH STATE WITHOUT REGARD TO ANY PRINCIPLES OF CONFLICTS OF LAW THAT WOULD
+ RESULT IN THE APPLICATION OF THE LAWS OF ANOTHER JURISDICTION.
+
+ 
+
+9.
+
+Counterparts
+.
+ This Amendment may be executed in one or more counterparts, each of which shall constitute
+ an original, but all of which when taken together shall constitute but one instrument. Counterparts
+ may be delivered via facsimile, electronic mail (including pdf) or other transmission method
+ and any counterpart so delivered shall be deemed to be as effective as an original signature
+ page delivered manually.
+
+ 
+
+10.
+
+Headings
+.
+ The headings of this Amendment are for the purposes of reference only and shall not affect
+ the construction of this Amendment.
+
+ 
+
+11.
+
+Successors
+ and Assigns
+. The provisions of this Amendment shall be binding upon and inure to the
+ benefit of the parties hereto and their respective successors and assigns; provided that
+ none of the Credit Parties may assign or transfer any of its rights or obligations under
+ this Amendment without the prior written consent of the Agent.
+
+ 
+
+12.
+
+Severability
+.
+ The illegality or unenforceability of any provision of this Amendment or any instrument or
+ agreement required hereunder shall not in any way affect or impair the legality or enforceability
+ of the remaining provisions of this Amendment or any instrument or agreement required hereunder. 
+
+ 
+
+13.
+
+Release
+ of Claims
+. In consideration of the Lenders’ and the Agent’s agreements contained
+ in this Amendment, the Borrower and Guarantor hereby irrevocably release and forever discharge
+ the Lenders and the Agent and their affiliates, subsidiaries, successors, assigns, directors,
+ officers, employees, agents, consultants and attorneys (each, a “
+Released Person
+”)
+ of and from any and all claims, suits, actions, investigations, proceedings or demands, whether
+ based in contract, tort, implied or express warranty, strict liability, criminal or civil
+ statute or common law of any kind or character, known or unknown, which such Borrower and
+ Guarantor ever had or now has against Agent, any Lender or any other Released Person which
+ relates, directly or indirectly, to any acts or omissions of Agent, any Lender or any other
+ Released Person relating to the Loan Agreement or any other Loan Document on or prior to
+ the date hereof.
+
+ 
+
+14.
+
+Reaffirmation
+.
+ Each of the Credit Parties as debtor, grantor, pledgor, guarantor, assignor, or in other
+ any other similar capacity in which such Credit Party grants liens or security interests
+ in its property or otherwise acts as accommodation party or guarantor, as the case may be,
+ hereby (i) ratifies and reaffirms all of its payment and performance obligations, contingent
+ or otherwise, under each of the Loan Documents to which it is a party (after giving effect
+ hereto) and (ii) to the extent such Credit Party granted liens on or security interests in
+ any of its property pursuant to any such Loan Document as security for or otherwise guaranteed
+ the Borrower’s Obligations under or with respect to the Loan Documents, ratifies and
+ reaffirms such guarantee and grant of security interests and liens and confirms and agrees
+ that such security interests and liens hereafter secure all of the Obligations as amended
+ hereby. Each of the Credit Parties hereby consents to this Amendment and acknowledges that
+ each of the Loan Documents remains in full force and effect and is hereby ratified and reaffirmed.
+ The execution of this Amendment shall not operate as a waiver of any right, power or remedy
+ of the Agent or Lenders, constitute a waiver of any provision of any of the Loan Documents
+ or serve to effect a novation of the Obligations.
+
+ 
+
+15.
+
+Limited
+ Waiver
+. The foregoing amendments are limited to the specific instances for which they
+ are expressly given, and shall not (a) constitute a waiver, modification or alteration of
+ the terms, conditions or covenants of the Loan Agreement or any other Loan Document, (b)
+ constitute a waiver, release or limitation upon the exercise by the Agent or the Lenders
+ of any of their respective rights, legal or equitable under the Loan Agreement or any other
+ Loan Document (all such rights and remedies being expressly reserved by the Agent and the
+ Lenders save and except those expressly waived herein) or (c) establish a custom or course
+ of dealing or conduct between the Lenders, on the one hand, and the Credit Parties on the
+ other hand. Except to the extent otherwise expressly provided herein, the Loan Agreement
+ and each of the other Loan Documents shall remain in full force and effect in accordance
+ with their respective terms.
+
+ 
+
+16.
+
+Agent
+.
+ Each of the Lenders, by their execution of this Amendment, hereby directs the Agent to execute
+ this Amendment. In doing so, the Agent shall be entitled to all of its rights, benefits and
+ protections set forth in the Loan Agreement. Upon receipt of written notice that the Exchange
+ Date has occurred pursuant to Section 2.2 of this Amendment, the Lenders hereby direct the
+ Agent to update the Register to reflect a reduction of the principal amount of the Term Loans
+ on a pro rata basis as a result of the Sixth Amendment Preferred Exchange.
+
+ 
+
+[Signature
+pages follow]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed by their duly authorized officers, all as of the date
+and year first above written.
+
+ 
+
+ 
+
+ 
+
+BORROWER
+:
+
+ 
+
+DRAGONFLY
+ ENERGY CORP.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+/s/
+ Denis Phares
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+ 
+Denis
+ Phares
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+ 
+Chief
+ Executive Officer
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GUARANTORS
+ 
+:
+
+ 
+
+DRAGONFLY
+ ENERGY HOLDINGS CORP. (F/K/A
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHARDAN
+ NEXTECH ACQUISITION 2 CORP.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+/s/
+ Denis Phares
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+ 
+Denis
+ Phares
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+ 
+Chief
+ Executive Officer
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BATTLE
+ BORN BATTERY PRODUCTS, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+/s/
+ Denis Phares
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+ 
+Denis
+ Phares
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+ 
+Chief
+ Executive Officer
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AGENT:
+
+ 
+
+ALTER
+ DOMUS (US) LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+ 
+
+/s/
+ Pinju Chiu
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+ 
+Pinju
+ Chiu
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+ 
+Associate
+ Counsel
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LENDERS
+:
+
+ 
+
+ENERGY
+ IMPACT CREDIT FUND I LP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+Energy
+ Impact Credit Fund I GP LLC, its general partner
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+ 
+
+/s/
+ Harry Giovani
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: 
+
+ 
+ 
+Harry
+ Giovani
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+ Managing Partner 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ENERGY
+ IMPACT CREDIT FUND II LP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+Energy
+ Impact Credit Fund II GP LLC, its general partner
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+ 
+
+/s/
+ Harry Giovani
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: 
+
+ 
+ 
+Harry
+ Giovani
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+ Managing
+ Partner 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BP
+ HOLDINGS XVII LP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+BPC
+ AS Cayman LLC, its General Partner
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+BPC
+ AS LLC, its Manager
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+ 
+
+/s/
+ Michael Haynes
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: 
+
+ 
+ 
+Michael
+ Haynes
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+ 
+Portfolio
+ Manager
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exhibit
+A-1
+
+ 
+
+Voluntary
+Prepayment
+
+ 
+
+ 
+
+ 
+
+Exhibit
+A-2
+
+ 
+
+Pro
+Forma Schedule of Term Loan Commitments
+
+ 
+
+ 
+
+ 
+
+Exhibit
+A-3
+
+ 
+
+Debt
+Cancellation

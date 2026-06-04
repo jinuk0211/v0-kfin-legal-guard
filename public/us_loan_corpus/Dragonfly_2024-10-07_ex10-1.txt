@@ -1,0 +1,1111 @@
+EX-10.1
+
+3
+
+ex10-1.htm
+
+ 
+
+ 
+
+Exhibit
+
+10.1
+
+ 
+
+LIMITED
+WAIVER AND THIRD AMENDMENT TO
+
+TERM
+LOAN, GUARANTEE AND SECURITY AGREEMENT
+
+ 
+
+This
+
+LIMITED WAIVER AND THIRD AMENDMENT TO TERM LOAN, GUARANTEE AND SECURITY AGREEMENT
+ (this “
+Amendment
+”) is made
+as of September 30, 2024, by and among DRAGONFLY ENERGY CORP. (“
+Borrower
+”), DRAGONFLY ENERGY HOLDINGS CORP. (F/K/A
+CHARDAN NEXTECH ACQUISITION 2 CORP) (“
+Holdings
+”), BATTLE BORN BATTERY PRODUCTS, LLC (“
+Battle Born
+”,
+and together with Holdings, each a “
+Guarantor
+” and collectively, the “
+Guarantors
+”), the Lenders
+signatory hereto (the “
+Required Lenders
+”), and ALTER DOMUS (US) LLC, as agent on behalf of the Lenders under the Loan
+Agreement (as hereinafter defined) (in such capacity, the “
+Agent
+”).
+
+ 
+
+WHEREAS,
+Borrower, Holdings, the Required Lenders and the Agent are parties to that certain Term Loan, Guarantee and Security Agreement, dated
+as of October 7, 2022 (as amended by that certain Limited Waiver and First Amendment to Term Loan, Guarantee and Security Agreement,
+dated as of June 28, 2024, that certain Limited Waiver, Consent and Second Amendment to Term Loan, Guarantee and Security Agreement,
+dated as of July 29, 2024, and as may be further amended, modified, extended, restated, replaced, and/or supplemented from time to time,
+the “
+Loan Agreement
+”);
+
+ 
+
+WHEREAS,
+pursuant to 
+Section 4.2(a)
+ of the Loan Agreement, the Credit Parties are required to measure the Senior Leverage Ratio as of the
+last day of the Fiscal Quarter ending September 30, 2024 (the “
+Senior Leverage Ratio Test
+”);
+
+ 
+
+WHEREAS,
+pursuant to 
+Section 4.2(c)
+ of the Loan Agreement, the Credit Parties are required to measure the Fixed Charge Coverage Ratio for
+the trailing four (4) Fiscal Quarter period ending on September 30, 2024 if Liquidity is less than $15,000,000 as of the last day of
+the Fiscal Quarter ending September 30, 2024 (the “
+Fixed Charge Coverage Ratio Test
+” and together with the Senior
+Leverage Ratio Test, the “
+Tests
+”); and
+
+ 
+
+WHEREAS,
+the Credit Parties have requested that the Agent and the Required Lenders (i) waive the Tests for the Fiscal Quarter ending September
+30, 2024 and (ii) amend certain provisions of the Loan Agreement and, subject to the satisfaction of the conditions set forth below,
+each of the Agent and the Required Lenders are willing to waive the Tests for the Fiscal Quarter ending September 30, 2024 and amend
+the Loan Agreement on the terms set forth herein.
+
+ 
+
+NOW
+THEREFORE, the Credit Parties, the Required Lenders and the Agent each hereby agrees as follows:
+
+ 
+
+1. 
+Defined
+Terms
+. All terms used but not otherwise defined herein have the meanings assigned to them in the Loan Agreement.
+
+ 
+
+2. 
+Limited
+Waiver
+. Subject to the satisfaction of the conditions to effectiveness set forth in 
+Section 4
+ hereof, each of the Agent (acting
+at the direction of the Required Lenders) and the Required Lenders hereby waives the Tests for the Fiscal Quarter ending September 30,
+2024; 
+provided
+ that such waiver is applicable only to the Tests for the Fiscal Quarter ending September 30, 2024 and to no other
+current or prospective financial covenants under the Loan Agreement.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3. 
+Amendments
+to Loan Agreement
+. Subject to the satisfaction of the conditions to effectiveness set forth in 
+Section 4
+ hereof, the Loan
+Agreement is hereby amended as of the date hereof as follows:
+
+ 
+
+(a) Section
+1.5 (Interest) shall be amended by amending and restating clause (b) thereof to read as follows:
+
+ 
+
+(b) Borrower
+shall pay interest to Agent for the pro rata benefit of the Lenders on the outstanding balance of the Loan on a quarterly basis.
+Interest shall be payable on the balance of the Loan (i) quarterly in arrears and shall be due on the first Business Day of each
+Fiscal Quarter, (ii) on the Maturity Date of the Loan, and (iii) if any interest accrues or remains payable after the Maturity Date
+of the Loan, upon demand by Agent. For each Payment Date from the Closing Date until and including October 1, 2024 (other than the
+Payment Dates occurring on July 1, 2024 and October 1, 2024 which are governed by the provided clauses at the end of this sentence),
+interest shall be payable partly in cash and payable partly in-kind at a rate per annum equal to Adjusted Term SOFR 
+plus the
+Applicable Margin,
+ with the portion payable in-kind at the Applicable PIK Rate which shall be capitalized, compounded and
+thereby increase the outstanding principal amount of the Loan on a quarterly basis on each such Payment Date; 
+provided
+, that
+solely in the case of the Payment Date occurring on July 1, 2024, all interest payable on such Payment Date shall be payable in-kind
+at a per annum rate equal to Adjusted Term SOFR 
+plus the Applicable Margin 
+which shall be capitalized, compounded and thereby
+increase the outstanding principal amount of the Loan on such Payment Date; 
+provided further
+, that solely in the case of the
+Payment Date occurring on October 1, 2024, interest shall be payable in cash and payable in- kind as follows: (x) $1,500,000 shall
+be paid in cash for the pro rata benefit of the Lenders on the outstanding balance of the Loan on a quarterly basis and (y) all
+remaining interest shall be payable in-kind which shall be capitalized, compounded and thereby increase the outstanding principal
+amount of the Loan on a quarterly basis on such Payment Date. For each Payment Date occurring on and after January 1, 2025 (for the
+avoidance of doubt, including all interest accruing for the period beginning October 1, 2024 and ending December 31, 2024), all
+interest shall be payable in cash at a rate per annum equal to Adjusted Term SOFR 
+plus the Applicable Margin.
+
+ 
+
+(b) Section
+4.2 (Financial Covenants) shall be amended by amending and restating clause (b) thereof to read as follows:
+
+ 
+
+(b)
+
+Liquidity
+. The Credit Parties shall not permit their Liquidity (determined on a consolidated basis) to be less than (i) $3,500,000
+as of the last day of the Fiscal Month ending June 30, 2024, (ii) $7,000,000 as of the last day of the Fiscal Month ending September
+30, 2024 and (iii) $10,000,000 as of the last day of each Fiscal Month thereafter (commencing with the Fiscal Month ending July 31, 2024).
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+4. 
+Conditions
+to Effectiveness
+. This Amendment shall become effective as of the date first written above (the “
+Effective Date
+”)
+upon the satisfaction of the below:
+
+ 
+
+(a) counterparts
+of this Amendment shall have been executed and delivered by the Credit Parties, the Agent and the Required Lenders;
+
+ 
+
+(b) Holdings
+shall have issued to the Lenders, on or about the date of this Amendment, penny warrants exercisable to purchase 3,000,000 shares of
+Holdings’ common stock, which penny warrants shall be in form and substance satisfactory to the Lenders;
+
+ 
+
+(c) the
+Borrower shall have paid the legal fees and expenses of Chapman and Cutler LLP, counsel for the Required Lenders, incurred in connection
+with the preparation, negotiation, execution and delivery of this Amendment and other services rendered in connection with the Loan Agreement
+prior to the date hereof; and
+
+ 
+
+(d) to
+the extent invoiced prior to execution of this Amendment, the Borrower shall have paid the legal fees and expenses of Holland & Knight
+LLP, counsel for the Agent, incurred in connection with the preparation, negotiation, execution and delivery of this Amendment and other
+services rendered in connection with the Loan Agreement prior to the date hereof.
+
+ 
+
+5. 
+Representations and Warranties
+.
+
+ 
+
+(a) The
+Credit Parties represent and warrant that after giving effect to this Amendment, the representations and warranties contained in the
+Loan Agreement are true and correct in all material respects on and as of the date hereof as if such representations and warranties had
+been made on and as of the date hereof (except to the extent that any such representations and warranties specifically relate to an earlier
+date).
+
+ 
+
+(b) The
+Credit Parties represent and warrant that after giving effect to this Amendment, no Default or Event of Default will have occurred and
+be continuing on and as of the Effective Date.
+
+ 
+
+6. 
+Covenants
+.
+The Credit Parties shall deliver to the Lenders (or their counsel) by no later than October 14, 2024, original, wet ink signed pages
+(signed by Holdings) to the warrants referred to in Section 3(b) above. It shall be an immediate Event of Default under the Loan Agreement
+if the Lenders (or their counsel) have not received such signed pages by October 14, 2024.
+
+ 
+
+7. 
+Loan Document
+. This Amendment is designated a Loan Document by the Agent.
+
+ 
+
+8. 
+Full
+Force and Effect
+. Except as expressly set forth herein, nothing contained herein shall be deemed to constitute a waiver of compliance
+with any term or condition contained in the Loan Agreement or any of the other Loan Documents. Except as expressly amended hereby, the
+Loan Agreement shall continue unmodified and in full force and effect in accordance with the provisions thereof on the date hereof. This
+Amendment shall be limited precisely as drafted and shall not imply an obligation on the Agent or any Lender to consent to any matter
+on any future occasion. As used in the Loan Agreement, the terms “Agreement,” “this Agreement,” “this Loan
+Agreement,” “herein,” “hereafter,” “hereto,” “hereof” and words of similar import
+shall mean, unless the context otherwise requires, the Loan Agreement as modified by this Amendment.
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+9.
+
+CHOICE OF LAW
+. THIS AMENDMENT SHALL IN ALL
+RESPECTS BE CONSTRUED IN ACCORDANCE WITH, AND GOVERNED BY, THE LAWS OF THE STATE OF NEW YORK WHICH ARE APPLICABLE TO CONTRACTS MADE AND
+TO BE PERFORMED WHOLLY WITHIN SUCH STATE WITHOUT REGARD TO ANY PRINCIPLES OF CONFLICTS OF LAW THAT WOULD RESULT IN THE APPLICATION OF
+THE LAWS OF ANOTHER JURISDICTION.
+
+ 
+
+10. 
+Counterparts
+.
+This Amendment may be executed in one or more counterparts, each of which shall constitute an original, but all of which when taken together
+shall constitute but one instrument. Counterparts may be delivered via facsimile, electronic mail (including pdf) or other transmission
+method and any counterpart so delivered shall be deemed to be as effective as an original signature page delivered manually.
+
+ 
+
+11. 
+Headings
+.
+The headings of this Amendment are for the purposes of reference only and shall not affect the construction of this Amendment.
+
+ 
+
+12. 
+Successors
+and Assigns
+. The provisions of this Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective
+successors and assigns; provided that none of the Credit Parties may assign or transfer any of its rights or obligations under this Amendment
+without the prior written consent of the Agent.
+
+ 
+
+13. 
+Severability
+.
+The illegality or unenforceability of any provision of this Amendment or any instrument or agreement required hereunder shall not in
+any way affect or impair the legality or enforceability of the remaining provisions of this Amendment or any instrument or agreement
+required hereunder.
+
+ 
+
+14. 
+Release
+of Claims
+. In consideration of the Required Lenders’ and the Agent’s agreements contained in this Amendment, the Borrower
+and Guarantor hereby irrevocably release and forever discharge the Lenders and the Agent and their affiliates, subsidiaries, successors,
+assigns, directors, officers, employees, agents, consultants and attorneys (each, a “
+Released Person
+”) of and from
+any and all claims, suits, actions, investigations, proceedings or demands, whether based in contract, tort, implied or express warranty,
+strict liability, criminal or civil statute or common law of any kind or character, known or unknown, which such Borrower and Guarantor
+ever had or now has against Agent, any Lender or any other Released Person which relates, directly or indirectly, to any acts or omissions
+of Agent, any Lender or any other Released Person relating to the Loan Agreement or any other Loan Document on or prior to the date hereof.
+
+ 
+
+15. 
+Reaffirmation
+.
+Each of the Credit Parties as debtor, grantor, pledgor, guarantor, assignor, or in other any other similar capacity in which such Credit
+Party grants liens or security interests in its property or otherwise acts as accommodation party or guarantor, as the case may be, hereby
+(i) ratifies and reaffirms all of its payment and performance obligations, contingent or otherwise, under each of the Loan Documents
+to which it is a party (after giving effect hereto) and (ii) to the extent such Credit Party granted liens on or security interests in
+any of its property pursuant to any such Loan Document as security for or otherwise guaranteed the Borrower’s Obligations under
+or with respect to the Loan Documents, ratifies and reaffirms such guarantee and grant of security interests and liens and confirms and
+agrees that such security interests and liens hereafter secure all of the Obligations as amended hereby. Each of the Credit Parties hereby
+consents to this Amendment and acknowledges that each of the Loan Documents remains in full force and effect and is hereby ratified and
+reaffirmed. The execution of this Amendment shall not operate as a waiver of any right, power or remedy of the Agent or Lenders, constitute
+a waiver of any provision of any of the Loan Documents or serve to effect a novation of the Obligations.
+
+ 
+
+16. 
+Agent
+.
+Each of the Required Lenders, by their execution of this Amendment, hereby directs the Agent to execute this Amendment. In doing so,
+the Agent shall be entitled to all of its rights, benefits and protections set forth in the Loan Agreement.
+
+ 
+
+[Signature
+pages follow]
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, the parties hereto have caused this Limited Waiver to be duly executed by their duly authorized officers, all as of
+the date and year first above written.
+
+ 
+
+ 
+
+ 
+
+BORROWER
+:
+
+ 
+
+DRAGONFLY
+ ENERGY CORP
+.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Dominic Sinnott
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: 
+ 
+
+ 
+
+Dominic
+ Sinnott
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+General
+ Counsel
+
+ 
+
+ 
+
+ 
+
+ 
+
+GUARANTORS
+:
+
+ 
+
+DRAGONFLY
+ ENERGY HOLDINGS CORP. (F/K/A
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHARDAN
+ NEXTECH ACQUISITION 2 CORP.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Dominic Sinnott
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Dominic
+ Sinnott
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+General
+ Counsel
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BATTLE
+ BORN BATTERY PRODUCTS, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By
+
+:
+ 
+
+ 
+
+/s/
+ Dominic Sinnott
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: 
+ 
+
+ 
+
+Dominic
+ Sinnott
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+General
+ Counsel
+
+ 
+
+ 
+
+ 
+
+ 
+
+AGENT:
+
+ 
+
+ALTER
+ DOMUS (US) LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+/s/
+ Pinju Chiu
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: 
+ 
+
+ 
+
+Pinju
+ Chiu
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Associate
+ Counsel
+
+ 
+
+ 
+
+ 
+
+SIGNATURE PAGE TO LIMITED WAIVER AND THIRD AMENDMENT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LENDERS
+:
+
+ 
+
+ENERGY
+ IMPACT CREDIT FUND I LP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+Energy
+ Impact Credit Fund I GP LLC, its general partner
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By
+
+:
+ 
+
+ 
+
+/s/
+ Harry Giovani
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: 
+ 
+
+ 
+
+Harry
+ Giovani 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Managing
+ Partner
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ENERGY
+ IMPACT CREDIT FUND II LP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+Energy
+ Impact Credit Fund II GP LLC, its general partner
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By
+
+:
+ 
+
+ 
+
+/s/
+ Harry Giovani
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Harry
+ Giovani 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Harry
+ Giovani 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Managing
+ Partner
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BP
+ HOLDINGS XVII LP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+BPC
+ AS Cayman LLC, its General Partner
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+BPC
+ AS LLC, its Manager
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Michael Haynes
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Michael
+ Haynes
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Portfolio
+ Manager
+
+ 
+
+ 
+
+ 
+
+SIGNATURE PAGE TO LIMITED WAIVER AND THIRD AMENDMENT

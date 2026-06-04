@@ -1,0 +1,2404 @@
+EX-10.2
+
+3
+
+ex10-2.htm
+
+ 
+
+ 
+
+Exhibit
+10.2
+
+ 
+
+ 
+
+Space
+Above Line Reserved For Recorder’s Use
+
+ 
+
+ 
+
+ 
+
+1.
+
+ 
+
+Title
+ of Document
+:
+
+ 
+
+Mortgage,
+ Assignment of Leases and Rents, Security Agreement and Fixture Filing
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.
+
+ 
+
+Date
+ of Document
+: 
+
+ 
+
+October
+26, 2023
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.
+
+ 
+
+Grantor
+:
+ 
+
+ 
+
+Digital
+ Ally, Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+14001
+ Marshall Drive
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Lenexa,
+ Kansas 66215
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.
+
+ 
+
+Grantee(s)
+:
+ 
+
+ 
+
+Kompass
+ Kapital Funding, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+9800
+ Avenue, Suite 120
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Overland
+ Park, Kansas, 66212
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.
+
+ 
+
+Legal
+ Description
+: 
+
+ 
+
+See
+ 
+Exhibit A
+ annexed to the document.
+
+ 
+
+ 
+
+(This
+Document Serves as a Fixture Filing under Section 84-9-502 of the Kansas Statutes Annotated.)
+
+ 
+
+NOTWITHSTANDING
+ANYTHING TO THE CONTRARY CONTAINED IN THIS MORTGAGE, THE MAXIMUM AMOUNT OF PRINCIPAL INDEBTEDNESS SECURED BY THIS MORTGAGE, INCLUDING
+FUTURE ADVANCES AND FUTURE OBLIGATIONS, IS $4,880,000.00.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MORTGAGE,
+ASSIGNMENT OF LEAES AND RENTS, SECURITY AGREEMENT AND FIXTURE FILING
+
+ 
+
+THIS
+MORTGAGE, ASSIGNMENT OF LEASES AND RENTS, SECURITY AGREEMENT AND FIXTURE FILING (this “
+Security Instrument
+”) is made
+as of October 26, 2023, by 
+DIGITAL ALLY, INC.
+, a Nevada corporation, as mortgagor (“
+Grantor
+”), for the benefit
+of 
+KOMPASS KAPITAL FUNDING, LLC
+, a Kansas limited liability company, having an address at 9800 Avenue, Suite 120, Overland Park,
+Kansas, 66212, as mortgagee (“
+Lender
+”).
+
+ 
+
+W
+I T N E S S E T H
+:
+
+ 
+
+WHEREAS,
+this Security Instrument is given to secure certain loans (collectively, the “
+Loan
+”) in the maximum aggregate principal
+amount of 
+Four Million Eight Hundred Eighty Thousand and 00/100 dollars
+ ($4,880,000.00)
+or so much thereof as may be advanced pursuant to that certain Loan and Security Agreement dated as of the date hereof between Grantor,
+Digital Ally Healthcare, Inc., a Delaware corporation (individually and collectively with Grantor, the “
+Borrower
+”)
+and Lender (as the same may be amended, restated, replaced, supplemented or otherwise modified from time to time, the “
+Loan
+Agreement
+”);
+
+ 
+
+WHEREAS,
+the Loan is evidenced by that certain promissory dated the date hereof made by Borrower to Lender (collectively, and as the same may
+be amended, restated, replaced, extended, renewed, supplemented or otherwise modified from time to time, the “
+Note
+”);
+
+ 
+
+WHEREAS,
+Borrower desires to secure the payment of the Obligations (as defined in the Loan Agreement) and other costs, expenses, fees and interest
+relating the Loan, and the other Obligations of Borrower under the Note, the Loan Agreement and the other Loan Documents (as defined
+below) and the performance of all of its obligations under the Loan Agreement and the other Loan Documents (collectively, the “
+Debt
+”);
+and
+
+ 
+
+WHEREAS,
+this Security Instrument is given pursuant to the Loan Agreement and each and every term and provision of the Loan Agreement and the
+Note, including the rights, remedies, obligations, covenants, conditions, agreements, indemnities, representations and warranties of
+the parties therein, are hereby incorporated by reference herein as though set forth in full and will be considered a part of this Security
+Instrument (the Loan Agreement, the Note, this Security Instrument and all other documents evidencing or securing the Debt or delivered
+in connection with the Loan, together with all amendments, restatements, replacements, extensions, renewals, supplements or other modifications
+of any of the foregoing, are hereinafter referred to collectively as the “
+Loan Documents
+”).
+
+ 
+
+NOW
+THEREFORE, in consideration of the making of the Loan by Lender and the covenants, agreements, representations and warranties set forth
+in this Security Instrument:
+
+ 
+
+Article
+1 - GRANTS OF SECURITY
+
+ 
+
+Section
+1.1 
+
+Property Mortgaged
+
+. Grantor does hereby irrevocably MORTGAGE AND WARRANT to
+Lender, and grant a security interest to Lender in, the following property, rights, interests and estates now owned, or hereafter acquired
+by Grantor (collectively, the “
+Property
+”):
+
+ 
+
+(a)
+
+Land
+. The real property described in 
+Exhibit A
+ attached hereto and made a part hereof (the “
+Land
+”);
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+
+Additional Land
+. All additional lands, estates and development rights hereafter acquired by Grantor for use in connection with
+the Land and the development of the Land and all additional lands and estates therein which may, from time to time, by supplemental mortgage
+or otherwise be expressly made subject to the lien of this Security Instrument;
+
+ 
+
+(c)
+
+Improvements
+. The buildings, structures, fixtures, additions, enlargements, extensions, modifications, repairs, replacements and
+improvements now or hereafter erected or located on the Land (collectively, the “
+Improvements
+”);
+
+ 
+
+(d)
+
+Easements
+. All easements, rights-of-way or use, rights, strips and gores of land, streets, ways, alleys, passages, sewer rights,
+water, water courses, water rights and powers, air rights and development rights, and all estates, rights, titles, interests, privileges,
+liberties, servitudes, tenements, hereditaments and appurtenances of any nature whatsoever, in any way now or hereafter belonging, relating
+or pertaining to the Land and the Improvements and the reversion and reversions, remainder and remainders, and all land lying in the
+bed of any street, road or avenue, opened or proposed, in front of or adjoining the Land, to the center line thereof and all the estates,
+rights, titles, interests, dower and rights of dower, curtesy and rights of curtesy, property, possession, claim and demand whatsoever,
+both at law and in equity, of Grantor of, in and to the Land and the Improvements and every part and parcel thereof, with the appurtenances
+thereto;
+
+ 
+
+(e)
+
+Equipment
+. All “equipment,” as such term is defined in Article 9 of the Uniform Commercial Code (as hereinafter defined),
+now owned or hereafter acquired by Grantor, which is used at or in connection with the Improvements or the Land or is located thereon
+or therein (including all machinery, equipment, furnishings, and electronic data-processing and other office equipment now owned or hereafter
+acquired by Grantor and any and all additions, substitutions and replacements of any of the foregoing), together with all attachments,
+components, parts, equipment and accessories installed thereon or affixed thereto (collectively, the “
+Equipment
+”);
+
+ 
+
+(f)
+
+Fixtures
+. All Equipment now owned, or the ownership of which is hereafter acquired, by Grantor which is so related to the Land
+and Improvements forming part of the Property that it is deemed fixtures or real property under the law of the particular state in which
+the Equipment is located, including all building or construction materials intended for construction, reconstruction, alteration or repair
+of or installation on the Property, construction equipment, appliances, machinery, plant equipment, fittings, apparatuses, fixtures and
+other items now or hereafter attached to, installed in or used in connection with (temporarily or permanently) any of the Improvements
+or the Land, including engines, devices for the operation of pumps, pipes, plumbing, cleaning, call and sprinkler systems, fire extinguishing
+apparatuses and equipment, heating, ventilating, plumbing, laundry, incinerating, electrical, air conditioning and air cooling equipment
+and systems, gas and electric machinery, appurtenances and equipment, pollution control equipment, security systems, disposals, dishwashers,
+refrigerators and ranges, recreational equipment and facilities of all kinds, and water, gas, electrical, storm and sanitary sewer facilities,
+utility lines and equipment (whether owned individually or jointly with others, and, if owned jointly, to the extent of Grantor’s
+interest therein) and all other utilities whether or not situated in easements, all water tanks, water supply, water power sites, fuel
+stations, fuel tanks, fuel supply, and all other structures, together with all accessions, appurtenances, additions, replacements, betterments
+and substitutions for any of the foregoing and the proceeds thereof (collectively, the “
+Fixtures
+”);
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+(g)
+
+Personal Property
+. All furniture, furnishings, objects of art, machinery, goods, tools, supplies, appliances, general intangibles,
+contract rights, accounts, accounts receivable, franchises, licenses, certificates and permits, and all other personal property of any
+kind or character whatsoever (as defined in and subject to the provisions of the Uniform Commercial Code as hereinafter defined), other
+than Fixtures, which are now or hereafter owned by Grantor and which are located within or about the Land and the Improvements, together
+with all accessories, replacements and substitutions thereto or therefor and the proceeds thereof (collectively, the “
+Personal
+Property
+”), and the right, title and interest of Grantor in and to any of the Personal Property which may be subject to any
+security interests, as defined in the Uniform Commercial Code, as adopted and enacted by the state, states, commonwealth or commonwealths
+where any of the Property is located (as amended from time to time, the “
+Uniform Commercial Code
+”), superior in lien
+to the lien of this Security Instrument and all proceeds and products of the above;
+
+ 
+
+(h)
+
+Leases and Rents
+. All leases, subleases, lettings, licenses, concessions or other agreements (whether written or oral) pursuant
+to which any Person is granted a possessory interest in, or right to use or occupy all or any portion of the Land and the Improvements,
+and every modification, amendment or other agreement relating to such leases, subleases or other agreements entered into in connection
+with such leases, subleases or other agreements and every guarantee of the performance and observance of the covenants, conditions and
+agreements to be performed and observed by the other party thereto, heretofore or hereafter entered into, whether before or after the
+filing by or against Grantor of any petition for relief under 11 U.S.C. §101 et seq., as the same may be amended from time to time
+(the “
+Bankruptcy Code
+”) (collectively, the “
+Leases
+”) and all right, title and interest of Grantor,
+its successors and assigns therein and thereunder, including all cash, letters of credit or securities deposited thereunder to secure
+the performance by the lessees of their obligations thereunder and all rents, additional rents, rent equivalents, moneys payable as damages
+or in lieu of rent or rent equivalents, royalties (including all oil and gas or other mineral royalties and bonuses), income, receivables,
+receipts, revenues, deposits (including security, utility and other deposits), accounts, cash, issues, profits, charges for services
+rendered, and other consideration of whatever form or nature received by or paid to or for the account of or benefit of Grantor or its
+agents or employees from any and all sources arising from or attributable to the Property, including all receivables, customer obligations,
+installment payment obligations and other obligations now existing or hereafter arising or created out of the sale, lease, sublease,
+license, concession or other grant of the right of the use and occupancy of property or rendering of services by Grantor and proceeds,
+if any, from business interruption or other loss of income insurance whether paid or accruing before or after the filing by or against
+Grantor of any petition for relief under the Bankruptcy Code (collectively, the “
+Rents
+”) and all proceeds from the
+sale or other disposition of the Leases and the right to receive and apply the Rents to the payment of the Obligations (as hereinafter
+defined);
+
+ 
+
+(i)
+
+Condemnation Awards
+. All awards or payments (including any administrative fees or attorneys’ fees), including interest thereon,
+which may heretofore and hereafter be made with respect to the Property, whether from the exercise of the right of eminent domain (including
+any transfer made in lieu of or in anticipation of the exercise of the right), or for a change of grade, or for any other injury to or
+decrease in the value of the Property;
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+(j)
+
+Insurance Proceeds
+. All proceeds (including any administrative fees or attorneys’ fees) in respect of the Property under
+any insurance policies covering the Property, including the right to receive and apply the proceeds of any insurance, judgments, or settlements
+made in lieu thereof, for damage to the Property;
+
+ 
+
+(k)
+
+Tax Certiorari
+. All refunds, rebates or credits in connection with reduction in real estate taxes and assessments charged against
+the Property as a result of tax certiorari or any applications or proceedings for reduction;
+
+ 
+
+(l)
+
+Rights
+. Upon and during the continuance of an Event of Default, the right, in the name and on behalf of Grantor, to appear in
+and defend any action or proceeding brought with respect to the Property and to commence any action or proceeding to protect the interest
+of Lender in the Property;
+
+ 
+
+(m)
+
+Agreements
+. All agreements, contracts, certificates, instruments, franchises, permits, licenses, plans, specifications and other
+documents, now or hereafter entered into, and all rights therein and thereto, respecting or pertaining to the use, occupation, construction,
+management or operation of the Land and any part thereof and any Improvements and any part thereof and all right, title and interest
+of Grantor therein and thereunder, including the right, upon the happening of any default hereunder, to receive and collect any sums
+payable to Grantor thereunder;
+
+ 
+
+(n)
+
+Trademarks
+. Reserved;
+
+ 
+
+(o)
+
+Accounts
+. All reserves, escrows and deposit accounts maintained by Grantor with respect to the Property, including all accounts
+established or maintained pursuant to the Loan Documents; together with all deposits or wire transfers made to such accounts and all
+cash, checks, drafts, certificates, securities, investment property, financial assets, instruments and other property held therein from
+time to time and all proceeds, products, distributions or dividends or substitutions thereon and thereof;
+
+ 
+
+(p)
+
+Reserved
+.
+
+ 
+
+(q)
+
+Proceeds
+. All proceeds of any of the foregoing, including, without limitation, proceeds of insurance and condemnation awards,
+whether cash, liquidation or other claims or otherwise; and
+
+ 
+
+(r)
+
+Other Rights
+. Any and all other rights of Grantor in and to the items set forth in Subsections (a) through (q) above.
+
+ 
+
+AND
+without limiting any of the other provisions of this Security Instrument, to the extent permitted by applicable law, Grantor expressly
+grants to Lender, as secured party, a security interest in the portion of the Property which is or may be subject to the provisions of
+the Uniform Commercial Code which are applicable to secured transactions; it being understood and agreed that the Improvements and Fixtures
+are part and parcel of the Land (the Land, the Improvements and the Fixtures are collectively referred to as the “
+Real Property
+”)
+appropriated to the use thereof and, whether affixed or annexed to the Real Property or not, will for the purposes of this Security Instrument
+be deemed conclusively to be real estate and mortgaged hereby.
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section
+1.2 
+
+Assignment of Rents
+
+. Grantor hereby absolutely and unconditionally assigns to
+Lender all of Grantor’s right, title and interest in and to all current and future Leases and Rents; it being intended by Grantor
+that this assignment constitutes a present, absolute assignment and not an assignment for additional security only. Nevertheless, subject
+to the terms of 
+Section 7.1(h)
+ of this Security Instrument, Lender grants to Grantor a revocable license to collect, receive,
+use and enjoy the Rents. Grantor will hold the Rents, or a portion thereof sufficient to discharge all current sums as they come due
+on the Obligations (as hereinafter defined), for use in the payment of such sums.
+
+ 
+
+Section
+1.3 
+
+Security Agreement
+
+. This Security Instrument is both a real property mortgage
+and a “security agreement” within the meaning of the Uniform Commercial Code. The Property includes both real and personal
+property and all other rights and interests, whether tangible or intangible in nature, of Grantor in the Property. By executing and delivering
+this Security Instrument, Grantor hereby grants to Lender, as security for the Obligations (as hereinafter defined), a security interest
+in the Fixtures, the Equipment, the Personal Property and other property constituting the Property to the full extent that the Fixtures,
+the Equipment, the Personal Property and such other property may be subject to the Uniform Commercial Code (said portion of the Property
+so subject to the Uniform Commercial Code being called the “
+Collateral
+”). If an Event of Default occurs and is continuing,
+Lender, in addition to any other rights and remedies which it may have, will have and may exercise immediately and without demand, any
+and all rights and remedies granted to a secured party upon default under the Uniform Commercial Code, including, without limiting the
+generality of the foregoing, the right to take possession of the Collateral or any part thereof, and to take such other measures as Lender
+may deem necessary for the care, protection and preservation of the Collateral. Upon request or demand of Lender after the occurrence
+and during the continuance of an Event of Default, Grantor will, at its expense, assemble the Collateral and make it available to Lender
+at a convenient place (at the Land if tangible property) acceptable to Lender. Grantor will pay to Lender on demand any and all expenses,
+including legal expenses and reasonable attorneys’ fees, incurred or paid by Lender in protecting its interest in the Collateral
+and in enforcing its rights hereunder with respect to the Collateral after the occurrence of an Event of Default. Any notice of sale,
+disposition or other intended action by Lender with respect to the Collateral sent to Grantor in accordance with the provisions hereof
+at least 10 Business Days prior to such action, will, except as otherwise provided by applicable law, constitute reasonable notice to
+Grantor. The proceeds of any disposition of the Collateral, or any part thereof, shall, except as otherwise required by applicable law,
+be applied by Lender to the payment of the Obligations (as hereinafter defined) in such priority and proportions as Lender in its reasonable
+discretion deems proper. The principal place of business of Grantor (Debtor) is as set forth on page one hereof and the address of Lender
+(Secured Party) is as set forth on page one hereof.
+
+ 
+
+Section
+1.4 
+
+Fixture Filing
+
+. Certain of the Property is or will become “fixtures”
+(as that term is defined in the Uniform Commercial Code) on the Land, described or referred to in this Security Instrument, and this
+Security Instrument, upon being filed for record in the real estate records of the city or county wherein such fixtures are situated,
+will operate also as a financing statement naming Grantor as Debtor and Lender as Secured Party filed as a fixture filing in accordance
+with the applicable provisions of said Uniform Commercial Code upon such of the Property that is or may become fixtures.
+
+ 
+
+Section
+1.5 
+
+Pledges of Monies Held
+
+. Grantor hereby pledges to Lender any and all monies
+now or hereafter held by Lender or on behalf of Lender in connection with the Loan, including any sums deposited in any required accounts,
+Insurance Proceeds and Condemnation Proceeds, as additional security for the Obligations (as hereinafter defined) until expended or applied
+as provided in this Security Instrument or the Loan Agreement.
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+CONDITIONS
+TO GRANT
+
+ 
+
+TO
+HAVE AND TO HOLD the above granted and described Property unto and to the use and benefit of Lender and its successors and assigns, forever;
+
+ 
+
+PROVIDED,
+HOWEVER, this grant is made upon the express condition that, if the Obligations (as hereinafter defined) are fully and indefeasibly paid
+and performed, at the time and in the manner provided in the Loan Documents, and if Grantor complies with each and every covenant and
+condition set forth herein and in the other Loan Documents, the estate hereby granted will cease, terminate and be void; 
+provided
+,
+
+however
+, Grantor’s obligation to indemnify and hold harmless Lender pursuant to the provisions hereof will survive any such
+payment or release. At such time as the Obligations are indefeasibly and fully paid and performed, Lender shall cause a release, termination,
+satisfaction or reconveyance (as applicable) of this Security Instrument to be filed in the appropriate filing office.
+
+ 
+
+Article
+2 - DEBT AND OBLIGATIONS SECURED
+
+ 
+
+Section
+2.1 
+
+Debt
+
+. This Security Instrument and the grants, assignments and transfers made
+in Article 1 are given for the purpose of securing the Debt which includes, but is not limited to, the obligations of Borrower to pay
+to Lender the principal and interest owing pursuant to the terms and conditions of the Note and the Loan Agreement.
+
+ 
+
+Section
+2.2 
+
+Other Obligations
+
+. This Security Instrument and the grants, assignments and
+transfers made in 
+Article 1
+ are also given for the purpose of securing the following (the “
+Other Obligations
+”):
+
+ 
+
+(a)
+the payment and performance of all other obligations of Grantor contained herein, including all fees and charges payable by Grantor;
+
+ 
+
+(b)
+the payment and performance of each obligation of Borrower contained in the Loan Agreement and any other Loan Document, including all
+fees and charges payable by Borrower; and
+
+ 
+
+(c)
+the performance of each obligation of Borrower contained in any renewal, extension, amendment, modification, consolidation, change of,
+or substitution or replacement for, all or any part of the Note, the Loan Agreement or any other Loan Document;
+
+ 
+
+Section
+2.3 
+
+Debt and Other Obligations
+
+. “
+Obligations
+”, as used herein,
+shall mean “Obligations” as defined in the Loan Agreement.
+
+ 
+
+ 
+
+6
+
+ 
+
+ 
+
+ 
+
+ 
+
+Article
+3 - GRANTOR COVENANTS
+
+ 
+
+Grantor
+covenants and agrees that:
+
+ 
+
+Section
+3.1 
+
+Payment of Obligations
+
+. Grantor will pay and perform the Obligations at the
+time and in the manner provided in the Loan Agreement, the Note and this Security Instrument.
+
+ 
+
+Section
+3.2 
+
+Incorporation by Reference
+
+. All the covenants, conditions and agreements contained
+in (a) the Loan Agreement, (b) the Note and (c) all and any of the other Loan Documents, are hereby made a part of this Security Instrument
+to the same extent and with the same force as if fully set forth herein.
+
+ 
+
+Section
+3.3 
+
+Insurance
+
+. Grantor will obtain and maintain, or cause to be maintained, in full
+force and effect at all times insurance with respect to Grantor and the Property as required pursuant to the Loan Agreement. In the event
+Grantor fails to obtain, maintain, keep in force or deliver to Lender the policies of insurance required by the Loan Agreement in accordance
+with the terms thereof, Lender may (but has no obligation to) procure such insurance or single-interest insurance for such risks covering
+Lender’s interests as provided in the Loan Agreement, and Grantor will pay all premiums thereon promptly upon demand by Lender,
+and until such payment is made by Grantor, the amount advanced by Lender with respect to all such premiums will, at Lender’s option,
+bear interest at the Default Rate.
+
+ 
+
+Section
+3.4 
+
+Maintenance of Property
+
+. Grantor will cause the Property to be maintained in
+a good and safe condition and repair and otherwise in accordance with the Loan Agreement. The Improvements, the Fixtures, the Equipment
+and the Personal Property will not be removed, demolished or altered without the consent of Lender other than in accordance with the
+terms and conditions of the Loan Agreement. Grantor will promptly repair, replace or rebuild any part of the Property which may be destroyed
+by any casualty or become damaged, worn or dilapidated or which may be affected by any condemnation, and will complete and pay for any
+structure at any time in the process of construction or repair on the Land.
+
+ 
+
+Section
+3.5 
+
+Waste
+
+. Grantor will not commit or suffer any waste of the Property or make any
+change in the use of the Property which will in any way materially increase the risk of fire or other hazard arising out of the operation
+of the Property, or take any action that might invalidate or allow the cancellation of any insurance policy which Grantor is obligated
+to maintain pursuant to the Loan Agreement, or do or permit to be done thereon anything that may in any way materially impair the value
+of the Property or the security of this Security Instrument. Grantor will not, without the prior written consent of Lender, grant consent
+to any drilling or exploration for or extraction, removal, or production of any minerals from the surface or the subsurface of the Land,
+regardless of the depth thereof or the method of mining or extraction thereof.
+
+ 
+
+ 
+
+7
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section
+3.6 
+
+Payment for Labor and Materials
+
+.
+
+ 
+
+(a)
+Grantor will promptly pay when due all bills and costs for labor and materials (“
+Labor and Material Costs
+”) incurred
+in connection with the Property and not permit to exist beyond the due date thereof in respect of the Property or any part thereof any
+lien or security interest, even though inferior to the liens and the security interests hereof, and in any event not permit to be created
+or exist in respect of the Property or any part thereof any other or additional Lien or Security Interest other than the liens or security
+interests hereof and except for the Permitted Exceptions.
+
+ 
+
+(b)
+After prior written notice to Lender, Grantor, at its own expense, may contest by appropriate legal proceeding, promptly initiated and
+conducted in good faith and with due diligence, the amount or validity or application in whole or in part of any of the Labor and Material
+Costs, provided that (i) no Default or Event of Default has occurred and is continuing, (ii) either (A) such proceeding will suspend
+the collection of the Labor and Material Costs from Grantor and from the Property, or (B) Grantor has paid all of the Labor and Material
+Costs under protest, (iii) such proceeding is permitted and conducted in accordance with the provisions of any other instrument to which
+Grantor or the Property is subject and will not constitute a default thereunder, (iv) neither the Property nor any part thereof or interest
+therein will be in danger of being sold, forfeited, terminated, canceled or lost, (v) Grantor has furnished such security as may be required
+in the proceeding, or as may be requested by Lender to insure the payment of any contested Labor and Material Costs, together with all
+interest and penalties thereon, and (vi) Grantor has provided (at Grantor’s sole cost and expense) such endorsements to Lender’s
+title insurance policy as Lender may require. Lender may pay over any such security or part thereof held by Lender to the claimant entitled
+thereto at any time when, in the judgment of Lender, the entitlement of such claimant is established by a court of competent jurisdiction
+or the Property (or part thereof or interest therein) is in danger of being sold, forfeited, terminated, cancelled or lost or there is
+any danger of any Lien related to the contested Labor and Material Costs becoming senior in priority, in whole or in part, to the Lien
+of the Security Instrument.
+
+ 
+
+Section
+3.7 
+Payment of Taxes and Impositions
+.
+
+ 
+
+(a)
+Grantor will pay, or cause to be paid prior to delinquency, all real property taxes and assessments, general and special, and all other
+taxes, assessments, duties, levies, imposts, deductions, charges or withholdings, of any kind or nature whatsoever, including nongovernmental
+levies or assessments such as maintenance charges, levies or charges resulting from covenants, conditions and restrictions affecting
+the Property, which are assessed or imposed upon the Property, or become due and payable, and which create or are reasonably likely to
+create a lien upon the Property (all the foregoing, collectively, “
+Impositions
+”).
+
+ 
+
+(b)
+After prior notice to Lender, Grantor, at its own expense, may contest by appropriate legal proceeding, promptly initiated and conducted
+in good faith and with due diligence, the amount or validity or application in whole or in part of any Impositions, provided that (i)
+reserved, (ii) either (A) such proceeding will suspend the collection of the Impositions from Grantor and from the Property, or (B) Grantor
+has paid all of the Impositions under protest, (iii) such proceeding is permitted and conducted in accordance with the provisions of
+any other instrument to which Grantor or the Property is subject and will not constitute a default thereunder, (iv) neither the Property
+nor any part thereof or interest therein will be in danger of being sold, forfeited, terminated, canceled or lost, (v) Grantor will promptly
+upon final determination thereof pay the amount of any such Impositions, together with all costs, interest and penalties which may be
+payable in connection therewith, and (vi) Grantor has furnished such security as may be required in the proceeding, or as may be reasonably
+requested by Lender to insure the payment of any contested Impositions, together with all interest and penalties thereon. Lender may
+pay over any such security or part thereof held by Lender to the claimant entitled thereto at any time when, in the judgment of Lender,
+the entitlement of such claimant is established by a court of competent jurisdiction (or applicable governing body) or the Property (or
+part thereof or interest therein) is in danger of being sold, forfeited, terminated, cancelled or lost.
+
+ 
+
+ 
+
+8
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section
+3.8 
+
+Change of Name, Jurisdiction
+
+. In addition to the restrictions contained in the
+Loan Agreement, Grantor will not change Grantor’s name, identity (including its trade name or names) or jurisdiction of formation
+or organization unless Grantor has first obtained the prior written consent of Lender to such change, which consent will not be unreasonably
+withheld, conditioned or delayed, and has taken all actions necessary or required by Lender to file or amend any financing statements
+or continuation statements to assure perfection and continuation of perfection of security interests under the Loan Documents.
+
+ 
+
+Section
+3.9 
+
+Utilities
+. 
+Grantor will pay or cause to be paid when due all utility charges
+that are incurred by Grantor for the benefit of the Property or that may become a charge or lien against the Property for gas, electricity,
+water or sewer services furnished to the Property and all other assessments or charges of a similar nature, whether public or private,
+affecting or related to the Property or any portion thereof, whether or not such assessments or charges are or may become liens thereon.
+
+ 
+
+Section
+3.10 
+
+Casualty
+
+ After obtaining knowledge of the occurrence of any damage, destruction
+or other casualty to the Property or any part thereof, whether or not covered by insurance, Grantor must immediately notify Lender in
+writing. In the event of such casualty, all proceeds of insurance (collectively, the “
+Insurance Proceeds
+”) must be
+payable to Lender and no other party, and Grantor hereby authorizes and directs any affected insurance company to make payment of such
+Insurance Proceeds directly to Lender and no other party. If Grantor receives any Insurance Proceeds, Grantor must pay over such Insurance
+Proceeds to Lender within 2 Business Days. Lender is hereby authorized and empowered by Grantor to settle, adjust or compromise any and
+all claims for loss, damage or destruction under any policy or policies of insurance. In the event of a foreclosure of this Security
+Instrument, or other transfer of title to the Property in extinguishment in whole or in part of the Obligations, all right, title and
+interest of Grantor in and to the insurance policies required by the Loan Agreement that are then in force, and all Insurance Proceeds
+payable thereunder, will vest in the purchaser at such foreclosure sale or in Lender or other transferee in the event of such other transfer
+of title. Nothing herein will be deemed to excuse Grantor from repairing or maintaining the Property as provided in this Security Instrument
+or restoring all damage or destruction to the Property, regardless of the availability or sufficiency of Insurance Proceeds, and the
+application or release by Lender of any Insurance Proceeds will not cure or waive any Default, Event of Default or notice of Default
+or invalidate any action taken by or on behalf of Lender pursuant to any such notice.
+
+ 
+
+ 
+
+9
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section
+3.11 
+CONDEMNATION
+
+If
+any proceeding or action is commenced for the taking of the Property, or any part thereof or interest therein, for public or quasi-public
+use under the power of eminent domain, condemnation or otherwise, or if the same is taken or damaged by reason of any public improvement
+or condemnation proceeding, or in any other manner, or should Grantor receive any notice or other information regarding such proceeding,
+action, taking or damage, Grantor must immediately notify Lender in writing. Lender may commence, appear in and prosecute in its own
+name any such action or proceeding. Lender may also make any compromise or settlement in connection with such taking or damage. Lender
+will not be liable to Grantor for any failure by Lender to collect or to exercise diligence in collecting any such compensation for a
+taking. All compensation, awards, damages, rights of action and proceeds awarded to Grantor by reason of any such taking or damage to
+the Property or any part thereof or any interest therein for public or quasi-public use under the power of eminent domain, by reason
+of any public improvement or condemnation proceeding, or in any other manner (the “
+
+Condemnation
+Proceeds
+
+”) are hereby assigned to Lender and Grantor agrees to execute such further assignments
+of the Condemnation Proceeds as Lender may require. Grantor may not, without the prior written consent of Lender, compromise or settle
+any claim resulting from the condemnation proceeding which results in the Condemnation Proceeds being less than Lender’s reasonable
+estimate of the damages resulting from the taking. Nothing herein will be deemed to excuse Grantor from repairing, maintaining or restoring
+the Property as provided in this Security Instrument, regardless of the availability or sufficiency of any Condemnation Proceeds, and
+the application or release by Lender of any Condemnation Proceeds will not cure or waive any Default, Event of Default or notice of Default
+or invalidate any action taken by or on behalf of Lender pursuant to any such notice. In the event of a foreclosure of this Security
+Instrument, or other transfer of title to the Property in extinguishment in whole or in part of the Obligations, all right, title and
+interest of Grantor in and to the Condemnation Proceeds will vest in the purchaser at such foreclosure sale or in Lender or other transferee
+in the event of such other transfer of title.
+
+ 
+
+Section
+3.12 
+
+Availability of Net Proceeds
+
+.
+
+ 
+
+(a)
+In the event of damage, destruction or other casualty to the Property or any part thereof that results in a loss of 75% or more of the
+full replacement value of the Property, as reasonably determined by Lender, all Net Proceeds (as defined below) received by Lender may
+be used to prepay the Obligations in accordance with the terms of the Loan Agreement and the Note or may be distributed to Grantor pursuant
+to the terms of Section 3.12(b) below. Should the Net Proceeds exceed the amount of the Obligations due, any such excess will be repaid
+to Grantor. Should the Net Proceeds be less than the Obligations, any deficiency will be paid by Grantor to Lender within 30 days of
+demand by Lender. Lender’s right to payment of Net Proceeds will exist whether or not any such loss results in any impairment to
+the security of the Lender under this Security Instrument.
+
+ 
+
+ 
+
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+In the event of damage, destruction or other casualty to the Property or any part thereof that results in a loss of less than 75% of
+the full replacement value of the Property, as reasonably determined by Lender, Lender will make the Net Proceeds received by Lender
+available to Grantor to pay the cost of reconstruction of the Property, subject to the satisfaction of the following conditions as determined
+by Lender: (i) no Default or Event of Default has occurred and is continuing; (ii) the cost of reconstruction is equal to or less than
+the amount of Net Proceeds received by Lender, or Grantor has deposited with Lender such additional funds such that the sum of the Net
+Proceeds and such funds equals the cost of reconstruction; (iii) Lender (and, at Lender’s option, its consultant) has received
+and approved in its reasonable discretion the plans and specifications, construction contracts, construction budget and construction
+schedule for such reconstruction, and the same have all been approved by all applicable Governmental Authorities; (iv) Lender has determined
+in its reasonable discretion that such reconstruction can be completed on or before the earliest to occur of: (A) 6 months prior to the
+Maturity Date (and the casualty has occurred prior to such period), (B) the earliest date required for such completion under the terms
+of any Leases or material agreements affecting the Property, (C) such time as may be required under applicable Governmental Requirements,
+or (D) the expiration of the loss of rents or business interruption insurance coverage required under the Loan Agreement; (v) the Property
+and the use thereof after the reconstruction will be in material compliance with and permitted under all Governmental Requirements; (vi)
+all Net Proceeds and any deposits required by subsection (ii) above will be held by Lender and will be disbursed in accordance with disbursement
+procedures established by Lender in its reasonable discretion; (vii) Lender is satisfied that any operating deficits, including scheduled
+payments of principal and interest under the Note and the Loan Agreement, which will be incurred with respect to the Property as a result
+of the occurrence of any such casualty will be covered out of the loss of rents or business interruption insurance coverage required
+under the Loan Agreement; and (viii) Grantor will commence reconstruction as soon as reasonably practicable but in no event later than
+180 days after such casualty. If any of these conditions will not be satisfied as determined by Lender, then Lender will have the right
+to use the Net Proceeds to prepay the Obligations in accordance with the Note and the Loan Agreement. If any Net Proceeds remain available
+after completion of the reconstruction of the Property, then such Net Proceeds will be used to prepay the Obligations in accordance with
+the Loan Agreement and the Note.
+
+ 
+
+(c)
+In the event of any taking or condemnation of the Property or any part thereof or interest therein, all Net Proceeds will be paid to
+Lender, and Lender may elect to apply the Net Proceeds to prepay the Obligations in accordance with the terms of the Loan Agreement and
+the Note, or Lender may hold said Net Proceeds and make said Net Proceeds available for restoration or rebuilding of the Property in
+accordance with Section 3.11(b).
+
+ 
+
+(d)
+The term “
+Net Proceeds
+” means (i) the net amount of the Insurance Proceeds received by Lender after deduction of Lender’s
+costs and expenses (including reasonable attorneys’ fees), if any, in collecting the same; or (ii) the net amount of the Condemnation
+Proceeds received by Lender after deduction of Lender’s costs and expenses (including reasonable attorneys’ fees), if any,
+in collecting the same, whichever the case may be.
+
+ 
+
+ 
+
+11
+
+ 
+
+ 
+
+ 
+
+ 
+
+Article
+4 - OBLIGATIONS AND RELIANCES
+
+ 
+
+Section
+4.1 
+
+Relationship of Grantor and Lender
+
+. The relationship between Grantor and Lender
+is solely that of debtor and creditor, and Lender has no fiduciary or other special relationship with Grantor, and no term or condition
+of any of the Loan Agreement, the Note, this Security Instrument or any of the other Loan Documents will be construed so as to deem the
+relationship between Grantor and Lender to be other than that of debtor and creditor.
+
+ 
+
+Section
+4.2 
+
+No Reliance on Lender
+
+. The general partners, members, principals and (if Grantor
+is a trust) beneficial owners of Grantor are experienced in the ownership and operation of properties similar to the Property, and Grantor
+and Lender are relying solely upon such expertise and business plan in connection with the ownership and operation of the Property. Grantor
+is not relying on Lender’s expertise, business acumen or advice in connection with the Property.
+
+ 
+
+Section
+4.3 
+
+No Lender Obligations
+
+.
+
+ 
+
+(a)
+Notwithstanding anything to the contrary contained in this Security Instrument, Lender is not undertaking the performance of (i) any
+obligations under the Leases; or (ii) any obligations with respect to any other agreements, contracts, certificates, instruments, franchises,
+permits, trademarks, licenses and other documents.
+
+ 
+
+(b)
+By accepting or approving anything required to be observed, performed or fulfilled or to be given to Lender pursuant to this Security
+Instrument, the Loan Agreement, the Note or the other Loan Documents, including any officer’s certificate, balance sheet, statement
+of profit and loss or other financial statement, survey, appraisal, or insurance policy, Lender will not be deemed to have warranted,
+consented to, or affirmed the sufficiency, legality or effectiveness of same, and such acceptance or approval thereof will not constitute
+any warranty or affirmation with respect thereto by Lender.
+
+ 
+
+Section
+4.4 
+
+Reliance
+
+. Grantor recognizes and acknowledges that in accepting the Loan Agreement,
+the Note, this Security Instrument and the other Loan Documents, Lender is expressly and primarily relying on the truth and accuracy
+of the warranties and representations set forth in Article V of the Loan Agreement without any obligation to investigate the Property
+and notwithstanding any investigation of the Property by Lender; that such reliance existed on the part of Lender prior to the date hereof;
+that the warranties and representations are a material inducement to Lender in making the Loan; and that Lender would not be willing
+to make the Loan and accept this Security Instrument in the absence of the warranties and representations as set forth in Article V of
+the Loan Agreement.
+
+ 
+
+ 
+
+12
+
+ 
+
+ 
+
+ 
+
+ 
+
+Article
+5 - FURTHER ASSURANCES
+
+ 
+
+Section
+5.1 
+
+Recording of Security Instrument, etc
+.
+ Grantor forthwith upon the execution
+and delivery of this Security Instrument and thereafter, from time to time, will cause this Security Instrument and any of the other
+Loan Documents creating a lien or security interest or evidencing the lien hereof upon the Property and each instrument of further assurance
+to be filed, registered or recorded in such manner and in such places as may be required by any present or future law in order to publish
+notice of and fully to protect and perfect the lien or security interest hereof upon, and the interest of Lender in, the Property. Grantor
+will pay all taxes, filing, registration or recording fees, and all expenses incident to the preparation, execution, acknowledgment and/or
+recording of the Note, this Security Instrument, the other Loan Documents, any note, deed of trust or mortgage supplemental hereto, any
+security instrument with respect to the Property and any instrument of further assurance, and any modification or amendment of the foregoing
+documents, and all federal, state, county and municipal taxes, duties, imposts, assessments and charges arising out of or in connection
+with the execution and delivery of this Security Instrument, any deed of trust or mortgage supplemental hereto, any security instrument
+with respect to the Property or any instrument of further assurance, and any modification or amendment of the foregoing documents, except
+where prohibited by law so to do.
+
+ 
+
+Section
+5.2 
+
+Further Acts, etc.
+
+ Grantor will, at Grantor’s sole cost and expense, and
+without expense to Lender, do, execute, acknowledge and deliver all and every such further acts, deeds, conveyances, deeds of trust,
+mortgages, assignments, notices of assignments, transfers and assurances, in form and content reasonably acceptable to Grantor, as Lender
+may, from time to time, reasonably require, for the better assuring, conveying, assigning, transferring, and confirming unto Lender the
+property and rights hereby mortgaged, deeded, granted, bargained, sold, conveyed, confirmed, pledged, assigned, warranted and transferred
+or intended now or hereafter so to be, or which Grantor may be or may hereafter become bound to convey or assign to Lender, or for carrying
+out the intention or facilitating the performance of the terms of this Security Instrument or for filing, registering or recording this
+Security Instrument, or for complying with all applicable Laws and Governmental Requirements. Grantor hereby authorizes Lender to file
+or record one or more financing statements (including initial financing statements and amendments thereto and continuation statements),
+to evidence more effectively the security interest of Lender in the Property. Grantor also ratifies its authorization for Lender to have
+filed or recorded any like initial financing statements, amendments thereto and continuation statements, if filed or recorded prior to
+the date of this Security Instrument.
+
+ 
+
+Section
+5.3 
+
+Changes in Tax, Debt, Credit and Documentary Stamp Laws
+
+.
+
+ 
+
+(a)
+If any law is enacted or adopted or amended after the date of this Security Instrument which deducts the Debt from the value of the Property
+for the purpose of taxation or which imposes a tax, either directly or indirectly, on the Debt or Lender’s interest in the Property,
+Grantor will pay the tax, with interest and penalties thereon, if any, in accordance with the applicable provisions of the Loan Agreement.
+If Lender is advised by counsel chosen by it that the payment of any such tax by Grantor would be unlawful or taxable to Lender or unenforceable
+or provide the basis for a defense of usury then Lender will have the option by written notice of not less than 120 days to declare the
+Debt immediately due and payable.
+
+ 
+
+(b)
+Grantor will not claim or demand or be entitled to any credit or credits on account of the Debt for any part of the Taxes assessed against
+the Property, or any part thereof, and no deduction will otherwise be made or claimed from the assessed value of the Property, or any
+part thereof, for real estate tax purposes by reason of this Security Instrument or the Debt. If such claim, credit or deduction is be
+required by law, Lender will have the option, by written notice of not less than 120 days, to declare the Debt immediately due and payable.
+
+ 
+
+(c)
+If at any time the United States of America, any State thereof or any subdivision of any such State will require revenue or other stamps
+to be affixed to the Note, this Security Instrument, or any of the other Loan Documents or impose any other tax or charge on the same,
+Grantor will pay for the same, with interest and penalties thereon, if any.
+
+ 
+
+ 
+
+13
+
+ 
+
+ 
+
+ 
+
+ 
+
+Article
+6 - DUE ON SALE/ENCUMBRANCE
+
+ 
+
+Section
+6.1 
+
+Lender Reliance
+
+. Grantor acknowledges that Lender has examined and relied on
+the experience of Grantor and its general partners, members, principals and (if Grantor is a trust) beneficial owners in owning and operating
+properties such as the Property in agreeing to make the Loan, and will continue to rely on Grantor’s ownership of the Property
+as a means of maintaining the value of the Property as security for repayment and performance of the Obligations. Grantor acknowledges
+that Lender has a valid interest in maintaining the value of the Property so as to ensure that, should Grantor default in the repayment
+of the Obligations or the performance of the Obligations, Lender can recover the Obligations by a sale of the Property.
+
+ 
+
+Section
+6.2 
+
+No Transfer
+
+. Grantor will comply in all respects with the provisions of the
+Loan Agreement regarding (a) selling, transferring, leasing, conveying or encumbering the Land, the Equipment or the Improvements or
+the direct or indirect interests in Grantor, and (b) changing control of Grantor. Any sale of all or any portion of the Property, without
+the prior written consent of Lender, shall result in the immediate acceleration of the Debt.
+
+ 
+
+Article
+7 - RIGHTS AND REMEDIES UPON DEFAULT
+
+ 
+
+Section
+7.1 
+
+Remedies
+
+. Upon the occurrence and during the continuance of any Event of Default,
+unless such Event of Default is subsequently waived in writing by Lender (provided that Lender has no obligation whatsoever to grant
+any such waiver and any such waiver, if granted, will be considered a one-time waiver), Lender may exercise any or all of the following
+rights and remedies, consecutively or simultaneously, and in any order:
+
+ 
+
+(a)
+Exercise any and all rights and remedies specified in the Loan Agreement, including declaring that the Commitment is terminated and/or
+declaring that the entire unpaid principal balance of the Obligations are immediately due and payable, together with accrued and unpaid
+interest thereon;
+
+ 
+
+(b)
+Institute proceedings, judicial or otherwise, for the complete foreclosure of this Security Instrument under any applicable provision
+of law, in which case the Property or any interest therein may be sold for cash or upon credit in one or more parcels or in several interests
+or portions and in any order or manner;
+
+ 
+
+(c)
+With or without entry, to the extent permitted and pursuant to the procedures provided by applicable law, institute proceedings for the
+partial foreclosure of this Security Instrument for the portion of the Obligations then due and payable, subject to the continuing lien
+and security interest of this Security Instrument for the balance of the Obligations not then due, unimpaired and without loss of priority;
+
+ 
+
+(d)
+Institute an action, suit or proceeding in equity for the specific performance of any covenant, condition or agreement contained herein,
+in the Note, the Loan Agreement or in the other Loan Documents;
+
+ 
+
+(e)
+Recover judgment on the Obligations either before, during or after any proceedings for the enforcement of this Security Instrument or
+the other Loan Documents;
+
+ 
+
+(f)
+Apply for the appointment of a receiver, trustee, liquidator or conservator of the Property, without notice and without regard for the
+adequacy of the security for the Obligations and without regard for the solvency of Borrower, any guarantor or any indemnitor with respect
+to the Loan or of any Person liable for the payment of the Obligations;
+
+ 
+
+ 
+
+14
+
+ 
+
+ 
+
+ 
+
+ 
+
+(g)
+The license granted to Grantor under 
+Section 1.2
+ hereof will automatically be revoked and Lender may enter into or upon the Property,
+either personally or by its agents, nominees or attorneys and dispossess Grantor and its agents and servants therefrom, without liability
+for trespass, damages or otherwise and exclude Grantor and its agents or servants wholly therefrom, and take possession of all books,
+records and accounts relating thereto and Grantor agrees to surrender possession of the Property and of such books, records and accounts
+to Lender upon demand, and thereupon Lender may (i) use, operate, manage, control, insure, maintain, repair, restore and otherwise deal
+with all and every part of the Property and conduct the business thereat; (ii) complete any construction on the Property in such manner
+and form as Lender deems advisable; (iii) make alterations, additions, renewals, replacements and improvements to or on the Property
+as Lender determines are reasonably necessary to maintain, relet or operate the Property, in its sole discretion; (iv) exercise all rights
+and powers of Grantor with respect to the Property, whether in the name of Grantor or otherwise, including the right to make, cancel,
+enforce or modify Leases, obtain and evict tenants, and demand, sue for, collect and receive all Rents of the Property and every part
+thereof; (v) require Grantor to pay monthly in advance to Lender, or any receiver appointed to collect the Rents, the fair and reasonable
+rental value for the use and occupation of such part of the Property as may be occupied by Grantor; (vi) require Grantor to vacate and
+surrender possession of the Property to Lender or to such receiver and, in default thereof, Grantor may be evicted by summary proceedings
+or otherwise; and (vii) apply the receipts from the Property to the payment of the Obligations, in such order, priority and proportions
+as Lender deems appropriate in its sole discretion after deducting therefrom all expenses (including attorneys’ fees) incurred
+in connection with the aforesaid operations and all amounts necessary to pay the Taxes, Insurance Premiums and other expenses in connection
+with the Property, as well as just and reasonable compensation for the services of Lender, its in-house and outside counsel, agents and
+employees. The entering upon and taking possession of the Property, the collection of such Rents and the application thereof as aforesaid,
+will not cure or waive any default or notice of default hereunder or invalidate any act done in response to such default or pursuant
+to such notice of default and, notwithstanding the continuance in possession of all or any portion of the Property or the collection,
+receipt and application of Rents, Lender will be entitled to exercise every right provided for in any of the Loan Documents or by law
+upon occurrence of any Event of Default, including, without limitation, the right to exercise the power of sale contained herein.
+
+ 
+
+(h)
+Exercise any and all rights and remedies granted to a secured party upon default under the Uniform Commercial Code, including, without
+limiting the generality of the foregoing: (i) the right to take possession of the Fixtures, the Equipment and the Personal Property,
+or any part thereof, and to take such other measures as Lender may deem necessary for the care, protection and preservation of the Fixtures,
+the Equipment and the Personal Property, and (ii) require Grantor at its expense to assemble the Fixtures, the Equipment and the Personal
+Property and make it available to Lender at a convenient place acceptable to Lender. Any notice of sale, disposition or other intended
+action by Lender with respect to the Fixtures, the Equipment and/or the Personal Property sent to Grantor in accordance with the provisions
+hereof at least 10 days prior to such action, will constitute commercially reasonable notice to Grantor;
+
+ 
+
+(i)
+Apply any sums then deposited or held in escrow or otherwise by or on behalf of Lender in accordance with the terms of the Loan Agreement,
+this Security Instrument or any other Loan Document to the payment of the following items in any order in its sole and absolute discretion:
+
+ 
+
+(i)
+Taxes;
+
+ 
+
+ 
+
+15
+
+ 
+
+ 
+
+ 
+
+ 
+
+(ii)
+Insurance Premiums;
+
+ 
+
+(iii)
+Liens upon the Property;
+
+ 
+
+(iv)
+Interest on the unpaid principal balance of the Note;
+
+ 
+
+(v)
+The unpaid principal balance of the Note;
+
+ 
+
+(vi)
+All other sums payable pursuant to the Note, the Loan Agreement, this Security Instrument and the other Loan Documents, including advances
+made by Lender pursuant to the terms of this Security Instrument;
+
+ 
+
+(j)
+Pursue such other remedies as Lender may have under the other Loan Documents and/or applicable law; or
+
+ 
+
+(k)
+apply the undisbursed balance of any Insurance Proceeds and/or Condemnation Proceeds, together with interest thereon, to the payment
+of the Obligations in such order, priority and proportions as Lender will deem to be appropriate in its discretion.
+
+ 
+
+In
+the event of a sale, by foreclosure or otherwise, of less than all of Property, this Security Instrument will continue as a lien and
+security interest on the remaining portion of the Property unimpaired and without loss of priority.
+
+ 
+
+Section
+7.2 
+
+Application of Proceeds
+
+. The purchase money, proceeds and avails of any disposition
+of the Property, and or any part thereof, or any other sums collected by Lender pursuant to the Note, this Security Instrument or the
+other Loan Documents, may be applied by Lender to the payment of the Obligations in such priority and proportions as Lender in its discretion
+will deem proper, to the extent consistent with applicable Laws.
+
+ 
+
+Section
+7.3 
+
+Actions and Proceedings
+
+. Grantor will give Lender prompt written notice of the
+written assertion of any claim with respect to, or the filing of any action or proceeding purporting to affect the Property, the security
+hereof or the rights or powers of Lender. Lender has the right to appear in and defend any action or proceeding brought with respect
+to the Property and to bring any action or proceeding, in the name and on behalf of Grantor, which Lender, in its discretion, decides
+should be brought to protect its interest in the Property.
+
+ 
+
+Section
+7.4 
+
+Recovery of Sums Required To be Paid
+
+. Lender will have the right from time to
+time to take action to recover any sum or sums which constitute a part of the Obligations as the same become due, without regard to whether
+or not the balance of the Obligations is due, and without prejudice to the right of Lender thereafter to bring an action of foreclosure,
+or any other action, for a default or defaults by Grantor existing at the time such earlier action was commenced. In the event Grantor
+is curing a default or is paying off the Loan and Lender has incurred fees which Grantor is obligated to pay to Lender under any of the
+Loan Documents, and such amount has not been reduced to a final amount at the time Grantor is curing the default or is paying off the
+Loan, Lender may require Grantor to pay a reasonable estimate of such fees with the payment curing the default or with the payoff of
+the Loan, and any amount paid in excess of the estimate by the Grantor will be refunded to the Grantor after the final amount of such
+fee is determined.
+
+ 
+
+ 
+
+16
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section
+7.5 
+
+Other Rights, Etc.
+
+ 
+
+(a)
+The failure of Lender to insist upon strict performance of any term hereof will not be deemed to be a waiver of any term of this Security
+Instrument. Grantor will not be relieved of Grantor’s obligations hereunder by reason of (i) the failure of Lender to comply with
+any request of Grantor or any guarantor or indemnitor with respect to the Loan to take any action to foreclose this Security Instrument
+or otherwise enforce any of the provisions hereof or of the Note or the other Loan Documents, (ii) the release, regardless of consideration,
+of the whole or any part of the Property, or of any Person liable for the Obligations or any portion thereof, or (iii) any agreement
+or stipulation by Lender extending the time of payment or otherwise modifying or supplementing the terms of the Note, this Security Instrument
+or the other Loan Documents.
+
+ 
+
+(b)
+It is agreed that the risk of loss or damage to the Property is on Grantor, and Lender will have no liability whatsoever for decline
+in value of the Property, for failure to maintain any insurance policies, or for failure to determine whether insurance in force is adequate
+as to the amount or nature of risks insured. Possession by Lender will not be deemed an election of judicial relief if any such possession
+is requested or obtained with respect to all or any portion of the Property or collateral not in Lender’s possession.
+
+ 
+
+(c)
+Lender may resort for the payment of the Obligations to any other security held by Lender in such order and manner as Lender, in its
+discretion, may elect. Lender may take action to recover the Obligations, or any portion thereof, or to enforce any covenant hereof without
+prejudice to the right of Lender thereafter to foreclose this Security Instrument. The rights of Lender under this Security Instrument
+will be separate, distinct and cumulative and none will be given effect to the exclusion of the others. No act of Lender will be construed
+as an election to proceed under any one provision herein to the exclusion of any other provision. Lender will not be limited exclusively
+to the rights and remedies herein stated but will be entitled to every right and remedy now or hereafter afforded at law or in equity.
+
+ 
+
+Section
+7.6 
+
+Right to Release Any Portion of the Property
+
+. Lender may release any portion
+of the Property for such consideration as Lender may require without, as to the remainder of the Property, in any way impairing or affecting
+the lien or priority of this Security Instrument, or improving the position of any subordinate lienholder with respect thereto, except
+to the extent that the obligations hereunder are reduced by the actual monetary consideration, if any, received by Lender for such release,
+and may accept by assignment, pledge or otherwise any other property in place thereof as Lender may require without being accountable
+for so doing to any other lienholder. This Security Instrument will continue as a lien on, and security interest in, the remaining portion
+of the Property.
+
+ 
+
+Section
+7.7 
+
+Violation of Laws
+
+. If the Property is not in compliance in all material respects
+with Governmental Requirements, Lender may impose additional requirements upon Grantor in connection herewith including monetary reserves
+or financial equivalents.
+
+ 
+
+Section
+7.8 
+
+Right of Entry
+
+. Upon reasonable notice to Grantor, Lender and its agents will
+have the right to enter and inspect the Property at all reasonable times.
+
+ 
+
+ 
+
+17
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section
+7.9 
+
+Bankruptcy
+
+.
+
+ 
+
+(a)
+After the occurrence of an Event of Default, Lender will have the right to proceed in its own name or in the name of Grantor in respect
+of any claim, suit, action or proceeding relating to the rejection of any Lease, including the right to file and prosecute, to the exclusion
+of Grantor, any proofs of claim, complaints, motions, applications, notices and other documents, in any case in respect of the lessee
+under such Lease under the Bankruptcy Code.
+
+ 
+
+(b)
+If there is filed by or against Grantor a petition under the Bankruptcy Code and Grantor, as lessor under any Lease, determines to reject
+such Lease pursuant to Section 365(a) of the Bankruptcy Code, then Grantor will give Lender not less than 10 days’ prior notice
+of the date on which Grantor will apply to the bankruptcy court for authority to reject the Lease. Lender will have the right, but not
+the obligation, to serve upon Grantor within such 10 day period a notice stating that (i) Lender demands that Grantor assume and assign
+the Lease to Lender pursuant to Section 365 of the Bankruptcy Code and (ii) Lender covenants to cure or provide adequate assurance of
+future performance under the Lease. If Lender serves upon Grantor the notice described in the preceding sentence, Grantor will not seek
+to reject the Lease and will comply with the demand provided for in clause (i) of the preceding sentence within 30 days after the notice
+is given, subject to the performance by Lender of the covenant provided for in clause (ii) of the preceding sentence.
+
+ 
+
+Section
+7.10 
+Waiver of Event of Default
+. Lender may waive the occurrence of an Event of Default from time to time in its discretion but
+without any obligation whatsoever to do so. Grantor will only be entitled to rely on a waiver if Lender expressly states, in writing,
+that it waives the occurrence of an Event of Default. If Lender issues a written waiver of an Event of Default, and no other uncured
+Event of Default is then continuing, then Lender may agree in its discretion, but without any obligation to do so, to treat any provision
+in this Security Instrument or in any other Loan Document as if no Event of Default had ever occurred.
+
+ 
+
+Section
+7.11 
+
+Acceptance of Payments
+
+. Grantor agrees that if Grantor makes a tender of a
+payment but does not simultaneously tender payment of any late charge, Default Rate interest or other amount then due and owing by Grantor
+under this Security Instrument or the other Loan Documents, and such payment is accepted by Lender, with or without protest, such acceptance
+will not constitute any waiver of Lender’s rights to receive such amounts. Furthermore, if Lender accepts any payment from Grantor
+or any Guarantor after a Default or Event of Default, such acceptance will not constitute a waiver or satisfaction of any such Default
+or Event of Default. Any waiver or satisfaction of a Default or Event of Default must be evidenced by an express writing of Lender.
+
+ 
+
+Article
+8 - ENVIRONMENTAL HAZARDS
+
+ 
+
+Section
+8.1 
+
+Environmental Covenants
+
+. Grantor has provided representations, warranties and
+covenants regarding environmental matters set forth in the Indemnity and Grantor will comply with the aforesaid covenants regarding environmental
+matters. Notwithstanding anything to the contrary contained in this Security Instrument, the obligations of Grantor under the Indemnity
+are not and shall not be secured by the lien of this Security Instrument.
+
+ 
+
+ 
+
+18
+
+ 
+
+ 
+
+ 
+
+ 
+
+Article
+9 - INDEMNIFICATION
+
+ 
+
+The
+provisions of Section 3.6 (Commitment Fee), Section 13.19 (Costs, Fees, and Expenses) and Section 13.20 (Indemnification) of the Loan
+Agreement are hereby incorporated by reference into this Security Instrument to the same extent and with the same force as if fully set
+forth herein.
+
+ 
+
+Article
+10 - CERTAIN WAIVERS
+
+ 
+
+Section
+10.1 
+
+Waiver of Offsets; Defenses; Counterclaim
+
+. Grantor hereby waives the right
+to assert a counterclaim, other than a compulsory counterclaim, in any action or proceeding brought against it by Lender to offset any
+obligations to make the payments required by the Loan Documents. No failure by Lender to perform any of its obligations hereunder will
+be a valid defense to, or result in any offset against, any payments which Grantor is obligated to make under any of the Loan Documents.
+
+ 
+
+Section
+10.2 
+
+Marshalling and Other Matters
+
+. To the extent permitted by applicable law, Grantor
+hereby waives the benefit of all appraisement, valuation, stay, extension, reinstatement and redemption Laws now or hereafter in force
+and all rights of marshalling in the event of any sale hereunder of the Property or any part thereof or any interest therein. Further,
+Grantor hereby expressly waives any and all rights of redemption from sale under any order or decree of foreclosure of this Security
+Instrument on behalf of Grantor, and on behalf of each and every Person acquiring any interest in or title to the Property subsequent
+to the date of this Security Instrument and on behalf of all other Persons to the extent permitted by applicable law.
+
+ 
+
+Section
+10.3 
+
+Waiver of Notice
+
+. To the extent permitted by applicable law, Grantor will not
+be entitled to any notices of any nature whatsoever from Lender except with respect to matters for which this Security Instrument or
+any of the other Loan Documents specifically and expressly provides for the giving of notice by Lender to Grantor and except with respect
+to matters for which Lender is required by applicable law to give notice, and Grantor hereby expressly waives the right to receive any
+notice from Lender with respect to any matter for which this Security Instrument does not specifically and expressly provide for the
+giving of notice by Lender to Grantor. All sums payable by Grantor pursuant to this Security Instrument must be paid without notice,
+demand, counterclaim, setoff, deduction or defense and without abatement, suspension, deferment, diminution or reduction, and the obligations
+and liabilities of Grantor hereunder will in no way be released, discharged or otherwise affected (except as expressly provided herein)
+by reason of: (a) any damage to or destruction of or any condemnation or similar taking of the Property or any part thereof; (b) any
+restriction or prevention of or interference by any third party with any use of the Property or any part thereof; (c) any title defect
+or encumbrance or any eviction from the Property or any part thereof by title paramount or otherwise; (d) any bankruptcy, insolvency,
+reorganization, composition, adjustment, dissolution, liquidation or other like proceeding relating to Lender, or any action taken with
+respect to this Security Instrument by any trustee or receiver of Lender, or by any court, in any such proceeding; (e) any claim which
+Grantor has or might have against Lender; (f) any default or failure on the part of Lender to perform or comply with any of the terms
+hereof or of any other agreement with Grantor; or (g) any other occurrence whatsoever, whether similar or dissimilar to the foregoing;
+whether or not Grantor has notice or knowledge of any of the foregoing.
+
+ 
+
+ 
+
+19
+
+ 
+
+ 
+
+ 
+
+ 
+
+Article
+11 - NOTICES
+
+ 
+
+All
+notices or other written communications hereunder will be delivered in accordance with the notice provisions of the Loan Agreement.
+
+ 
+
+Article
+12 - APPLICABLE LAW
+
+ 
+
+Section
+12.1 
+GOVERNING LAW; WAIVER OF JURY TRIAL; JURISDICTION
+. THIS SECURITY INSTRUMENT AND THE OBLIGATIONS ARISING HEREUNDER WILL BE
+GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF KANSAS APPLICABLE TO CONTRACTS MADE AND PERFORMED IN SUCH STATE
+(WITHOUT REGARD TO PRINCIPLES OF CONFLICT LAWS) AND ANY APPLICABLE LAW OF THE UNITED STATES OF AMERICA. TO THE FULLEST EXTENT PERMITTED
+BY LAW. GRANTOR AND LENDER (BY ITS ACCEPTANCE HEREOF) EACH UNCONDITIONALLY AND IRREVOCABLY WAIVES ANY CLAIM TO ASSERT THAT THE LAW OF
+ANY OTHER JURISDICTION GOVERNS THIS SECURITY INSTRUMENT.
+
+ 
+
+TO
+THE FULLEST EXTENT PERMITTED BY LAW, GRANTOR AND LENDER (BY ITS ACCEPTANCE HEREOF) HEREBY WAIVE ANY RIGHT TO A TRIAL BY JURY IN ANY ACTION
+RELATING TO THE LOAN AND/OR THE LOAN DOCUMENTS. GRANTOR, TO THE FULLEST EXTENT PERMITTED BY LAW, HEREBY KNOWINGLY, INTENTIONALLY AND
+VOLUNTARILY, WITH AND UPON THE ADVICE OF COMPETENT COUNSEL, (A) SUBMITS TO PERSONAL JURISDICTION IN THE STATE OF KANSAS OVER ANY SUIT,
+ACTION OR PROCEEDING BY ANY PERSON ARISING FROM OR RELATING TO THIS SECURITY INSTRUMENT, (B) AGREES THAT ANY SUCH ACTION, SUIT OR PROCEEDING
+MAY BE BROUGHT IN ANY STATE OR FEDERAL COURT OF COMPETENT JURISDICTION IN THE STATE OF KANSAS, (C) SUBMITS TO THE JURISDICTION AND VENUE
+OF SUCH COURTS AND WAIVES ANY ARGUMENT THAT VENUE IN SUCH FORUMS IS NOT CONVENIENT, AND (D) AGREES THAT IT WILL NOT BRING ANY ACTION,
+SUIT OR PROCEEDING IN ANY OTHER FORUM. GRANTOR FURTHER CONSENTS AND AGREES TO SERVICE OF ANY SUMMONS, COMPLAINT OR OTHER LEGAL PROCESS
+IN ANY SUCH SUIT, ACTION OR PROCEEDING BY REGISTERED OR CERTIFIED U.S. MAIL, POSTAGE PREPAID, TO GRANTOR AT THE ADDRESSES FOR NOTICES
+DESCRIBED IN THIS SECURITY INSTRUMENT, AND CONSENTS AND AGREES THAT SUCH SERVICE WILL CONSTITUTE IN EVERY RESPECT VALID AND EFFECTIVE
+SERVICE (BUT NOTHING HEREIN WILL AFFECT THE VALIDITY OR EFFECTIVENESS OF PROCESS SERVED IN ANY OTHER MANNER PERMITTED BY LAW).
+
+ 
+
+Section
+12.2 
+Provisions Subject to Applicable Law
+. All rights, powers and remedies provided in
+this Security Instrument may be exercised only to the extent that the exercise thereof does not violate any applicable provisions of
+law and are intended to be limited to the extent necessary so that they will not render this Security Instrument invalid, unenforceable
+or not entitled to be recorded, registered or filed under the provisions of any applicable law. If any term of this Security Instrument
+or any application thereof will be invalid or unenforceable, the remainder of this Security Instrument and any other application of the
+term will not be affected thereby.
+
+ 
+
+ 
+
+20
+
+ 
+
+ 
+
+ 
+
+ 
+
+Article
+13 - DEFINITIONS
+
+ 
+
+All
+capitalized terms not defined herein will have the respective meanings set forth in the Loan Agreement. If a capitalized term is defined
+herein and the same capitalized term is defined in the Loan Agreement, then the capitalized term that is defined herein shall be utilized
+for the purposes of this Security Instrument, provided, however, the foregoing shall not impact provisions that are incorporated herein
+by reference. Unless the context clearly indicates a contrary intent or unless otherwise specifically provided herein, words used in
+this Security Instrument may be used interchangeably in singular or plural form and the word “
+Grantor
+” will mean “each
+Grantor and any subsequent owner or owners of the Property or any part thereof or any interest therein,” the word “
+Lender
+”
+will mean “Lender and any subsequent holder of the Note,” the word “
+Note
+” will mean “the Note and
+any other evidence of indebtedness secured by this Security Instrument,” the word “
+Property
+” will include any
+portion of the Property and any interest therein, and the phrases “
+attorneys
+’ 
+fees
+”, “
+legal
+fees
+” and “
+counsel fees
+” will be limited to the reasonable attorneys’ fees of Lender’s outside
+counsel and will not include the costs of Lender’s in-house counsel or collection agency fees.
+
+ 
+
+Article
+14 - MISCELLANEOUS PROVISIONS
+
+ 
+
+Section
+14.1 
+
+No Oral Change
+
+. This Security Instrument, and any provisions hereof, may not
+be modified, amended, waived, extended, changed, discharged or terminated orally or by any act or failure to act on the part of Grantor
+or Lender, but only by an agreement in writing signed by the party against whom enforcement of any modification, amendment, waiver, extension,
+change, discharge or termination is sought.
+
+ 
+
+Section
+14.2 
+
+Successors and Assigns
+
+. This Security Instrument will be binding upon and inure
+to the benefit of Grantor and Lender and their respective successors and assigns forever.
+
+ 
+
+Section
+14.3 
+
+Inapplicable Provisions
+
+. If any term, covenant or condition of the Loan Agreement,
+the Note or this Security Instrument is held to be invalid, illegal or unenforceable in any respect, the Loan Agreement, the Note and
+this Security Instrument will be construed without such provision.
+
+ 
+
+Section
+14.4 
+
+Headings, etc.
+
+ The headings and captions of various Sections of this Security
+Instrument are for convenience of reference only and are not to be construed as defining or limiting, in any way, the scope or intent
+of the provisions hereof.
+
+ 
+
+Section
+14.5 
+
+Subrogation
+
+. If any or all of the proceeds of the Loan have been used to extinguish,
+extend or renew any indebtedness heretofore existing against the Property, then, to the extent of the funds so used, Lender will be subrogated
+to all of the rights, claims, liens, titles, and interests existing against the Property heretofore held by, or in favor of, the holder
+of such indebtedness and such former rights, claims, liens, titles, and interests, if any, are not waived but rather are continued in
+full force and effect in favor of Lender and are merged with the lien and security interest created herein as cumulative security for
+the repayment of the Obligations, the performance and discharge of Grantor or Borrower’s obligations hereunder, under the Loan
+Agreement, the Note and the other Loan Documents and the performance and discharge of the Other Obligations.
+
+ 
+
+ 
+
+21
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section
+14.6 
+
+Entire Agreement
+
+. The Note, the Loan Agreement, this Security Instrument and
+the other Loan Documents constitute the entire understanding and agreement between Grantor and Lender with respect to the transactions
+arising in connection with the Obligations and supersede all prior written or oral understandings and agreements between Grantor and
+Lender with respect thereto. Grantor hereby acknowledges that, except as incorporated in writing in the Note, the Loan Agreement, this
+Security Instrument and the other Loan Documents, there are not, and were not, and no Persons are or were authorized by Lender to make,
+any representations, understandings, stipulations, agreements or promises, oral or written, with respect to the transaction which is
+the subject of the Note, the Loan Agreement, this Security Instrument and the other Loan Documents.
+
+ 
+
+Section
+14.7 
+
+Limitation on Lender’s Responsibility
+
+. No provision of this Security
+Instrument will operate to place any obligation or liability for the control, care, management or repair of the Property upon Lender,
+nor will it operate to make Lender responsible or liable for any waste committed on the Property by the tenants or any other Person,
+or for any dangerous or defective condition of the Property, or for any negligence in the management, upkeep, repair or control of the
+Property resulting in loss or injury or death to any tenant, licensee, employee or stranger. Nothing herein contained will be construed
+as constituting Lender a “mortgagee in possession.”
+
+ 
+
+Section
+14.8 
+
+Joint and Several
+
+. If more than one Person has executed this Security Instrument
+as “Grantor,” the representations, covenants, warranties and obligations of all such Persons hereunder will be joint and
+several.
+
+ 
+
+Section
+14.9 
+
+Lender’s Discretion
+
+. Whenever, pursuant to this Security Instrument or
+any of the other Loan Documents, Lender exercises any right given to it to approve or disapprove, or any arrangement or term is to be
+satisfactory or acceptable to Lender, or Lender exercises any right to grant or withhold consent, or Lender exercises its discretion
+in making any decision, the decision of Lender will, except as is otherwise specifically herein provided, be in the sole and absolute
+discretion of Lender and will be final and conclusive.
+
+ 
+
+Section
+14.10 
+
+No Merger
+
+. So long as the Obligations owed to Lender secured hereby remain
+unpaid and undischarged and unless Lender otherwise consents in writing, the fee, leasehold, subleasehold and sub-subleasehold estates
+in and to the Property will not merge but will always remain separate and distinct, notwithstanding the union of estates (without implying
+Grantor’s consent to such union) either in Grantor, Lender, any tenant or any third party by purchase or otherwise. In the event
+this Security Instrument is originally placed on a leasehold estate and Grantor later obtains fee title to the Property, such fee title
+will be subject and subordinate to this Security Instrument.
+
+ 
+
+ 
+
+22
+
+ 
+
+ 
+
+ 
+
+ 
+
+Article
+15 - STATE-SPECIFIC PROVISIONS
+
+ 
+
+Section
+15.1 
+P
+rinciples Of Construction
+
+.
+ In
+the event of any inconsistencies between the terms and conditions of this 
+Article 15
+ and the other terms and conditions of this
+Security Instrument, the terms and conditions of this 
+Article 15
+ will control and be binding.
+
+ 
+
+Future
+Advances; Maximum Amount Secured
+. This Mortgage secures all future advances made by Lender to Grantor and is entitled to the priority
+as referenced in K.S.A. Section 58-2336. The total amount of obligations and advances secured hereby may decrease or increase from time
+to time, but at no time shall the total principal amount of obligations and advances secured hereby, not including sums expended or incurred
+for the reasonable protection of the security interest hereby created in the Mortgaged Property, exceed the sum of $4,880,00000.
+
+ 
+
+Waiver
+of Right of Redemption
+. In addition to and not in limitation of the provisions of Section 10.2 above, Grantor hereby waives any right
+of redemption to which it is entitled under K.S.A. Section 60-2414.
+
+ 
+
+Usury
+.
+Grantor hereby covenants and agrees that the loan secured by this Security Instrument constitutes a business loan, pursuant to KSA §
+16-207 and that proceeds of the Loan will not be used for personal, family or household purposes, and therefore Grantor and Lender may
+agree in writing to any rate of interest in connection with such loan.
+
+ 
+
+[Signature
+Page Follows]
+
+ 
+
+ 
+
+23
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, this Security Instrument has been executed by Grantor as of the day and year first above written.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GRANTOR:
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DIGITAL
+ ALLY, INC.
+, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a
+ Nevada corporation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ 
+
+ Stanton E. Ross
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+Stanton E. Ross
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ 
+STATE 
+OF ____________ 
+
+ 
+)
+
+ 
+ 
+
+ 
+) ss.
+
+ 
+COUNTY
+OF __________ 
+
+ 
+)
+
+ 
+
+This
+instrument was acknowledged before me on _________________, 2023, by _________________________________ as ______ President of Digital
+Ally, Inc., a Nevada corporation.
+
+ 
+
+ 
+
+ 
+
+(SEAL)
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Printed
+ Name: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Notary Public in and for said State
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Commissioned in _____________ County
+
+ 
+
+My
+Commission Expires:
+
+ 
+
+ 
+
+ 
+
+ 
+
+24
+
+ 
+
+ 
+
+ 
+
+ 
+
+EXHIBIT
+A
+
+ 
+
+LEGAL
+DESCRIPTION
+
+ 
+
+A
+TRACT OF LAND IN THE SOUTHEAST QUARTER OF SECTION 4, TOWNSHIP 13 SOUTH, RANGE 24 EAST, IN THE CITY OF LENEXA, JOHNSON COUNTY, KANSAS,
+MORE PARTICULARLY DESCRIBED AS FOLLOWS:
+
+ 
+
+COMMENCING
+AT THE SOUTHWEST CORNER OF THE SOUTHEAST QUARTER OF SECTION 4, TOWNSHIP 13 SOUTH, RANGE 24 EAST, CITY OF LENEXA, JOHNSON COUNTY, KANSAS;
+THENCE NORTH 87 DEGREES 25 MINUTES 00 SECONDS EAST ON THE SOUTH LINE OF THE SOUTHEAST QUARTER OF SECTION 4, TOWNSHIP 13 SOUTH, RANGE
+24 EAST, 936.39 FEET TO THE POINT OF BEGINNING; THENCE NORTH 2 DEGREES 35 MINUTES 00 SECONDS WEST 400.00 FEET TO A POINT ON THE EXISTING
+DEDICATED SOUTHERLY RIGHT-OF-WAY OF MARSHALL DRIVE; THENCE NORTH 87 DEGREES 25 MINUTES 00 SECONDS EAST ON THE EXISTING DEDICATED SOUTHERLY
+RIGHT-OF-WAY LINE OF MARSHALL DRIVE, 603.10 FEET; THENCE SOUTH 15 DEGREES 02 MINUTES 40 SECONDS WEST, 419.71 FEET TO A POINT ON THE SOUTH
+LINE OF THE SOUTHEAST QUARTER OF SECTION 4, TOWNSHIP 13 SOUTH, RANGE 24 EAST; THENCE SOUTH 87 DEGREES 25 MINUTES 00 SECONDS WEST ON THE
+SOUTH LINE OF THE SOUTHEAST QUARTER OF SECTION 4, TOWNSHIP 13 SOUTH, RANGE 24 EAST, 476.00 FEET TO THE POINT OF BEGINNING.
+
+ 
+
+ 
+
+25

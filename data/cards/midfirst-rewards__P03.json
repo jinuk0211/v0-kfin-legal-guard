@@ -1,0 +1,383 @@
+{
+  "session_id": "US_MidFirst_Rewards_CreditCard_P03",
+  "generated_at": "2026-05-05T17:12:34.439341+00:00",
+  "product": "MidFirst_Rewards_CreditCard",
+  "doc_type": "credit_card_agreement",
+  "user_profile": {
+    "id": "P03",
+    "age": 67,
+    "occupation": "retired",
+    "financial_status": "fixed income",
+    "risk_flags": [
+      "elderly",
+      "carry_balance",
+      "credit_risk"
+    ]
+  },
+  "executive_summary": "Analysis of MidFirst_Rewards_CreditCard identified 6 consumer vulnerabilities. Overall risk level: HIGH. Key concerns: Arbitration clause with class action waiver, Penalty rate triggers including credit limit excess, Retroactive penalty rate on existing balances.",
+  "overall_risk_level": "HIGH",
+  "vulnerability_count": {
+    "CRITICAL": 3,
+    "HIGH": 1,
+    "MEDIUM": 2,
+    "LOW": 0,
+    "uncategorized": 2
+  },
+  "findings": [
+    {
+      "finding_id": "US-V001",
+      "taxonomy": "CC-05",
+      "title": "Arbitration clause with class action waiver",
+      "triggered_by": "This Agreement contains an arbitration provision (including a class action arbitration waiver). It is also important that You read the entire \"Claims and Arbitration of Disputes\" section carefully.",
+      "description": "Arbitration clause with class action waiver",
+      "status": "CONFIRMED",
+      "confidence": 0.9,
+      "user_relevance_score": 1.0,
+      "search_query_used": "credit card arbitration class action waiver",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Federal Arbitration Act",
+            "article": "9 U.S.C. \u00a7 2",
+            "verified": true
+          },
+          {
+            "law_name": "Dodd-Frank Act",
+            "article": "12 U.S.C. \u00a7 5518",
+            "verified": true
+          }
+        ],
+        "precedents": [
+          {
+            "case_number": "65992863",
+            "case_name": "Shetiwy v. Midland Credit Management",
+            "court": "nysd",
+            "date": "2013-07-12",
+            "summary": "",
+            "relevance_score": 1.0,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/8726940/shetiwy-v-midland-credit-management/"
+          },
+          {
+            "case_number": "70882438",
+            "case_name": "Midland Credit Mgt. Inc. v. Bowers",
+            "court": "ohioctapp",
+            "date": "2025-07-21",
+            "summary": "",
+            "relevance_score": 0.929,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/10638806/midland-credit-mgt-inc-v-bowers/"
+          },
+          {
+            "case_number": "60112322",
+            "case_name": "Gibbs v. Firefighters Community Credit Union",
+            "court": "ohioctapp",
+            "date": "2021-08-05",
+            "summary": "",
+            "relevance_score": 0.929,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/4905675/gibbs-v-firefighters-community-credit-union/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:3\uac74 | US statute:2\uac74",
+      "severity": "CRITICAL",
+      "plain_language_explanation": "This contract forces you to settle disputes privately with an arbitrator instead of going to court. You also can't join with other customers in a lawsuit.",
+      "user_impact": "If the company wrongs you, you lose the right to sue in court or join group lawsuits for help.",
+      "estimated_risk_scenario": "If you're overcharged fees or face unfair practices, you'd face expensive private arbitration alone instead of joining other customers in a class action lawsuit.",
+      "recommended_actions": [
+        {
+          "action": "Contact a consumer attorney to review this clause before signing",
+          "priority": "pre-signing",
+          "contact": "Local bar association lawyer referral service"
+        },
+        {
+          "action": "Look for alternative credit cards without arbitration clauses",
+          "priority": "pre-signing",
+          "contact": "Bank or credit union"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "finding_id": "US-V005",
+      "taxonomy": "CC-02",
+      "title": "Penalty rate triggers including credit limit excess",
+      "triggered_by": "If We do not receive Your required Minimum Payment by its due date, You exceed Your Credit Limit, or You make a payment to Us that is dishonored or returned for any reason, We may increase any or all of Your Annual Percentage Rates on future transactions (including, but not limited to Special Offer Rates).",
+      "description": "Penalty rate triggers including credit limit excess",
+      "status": "CONFIRMED",
+      "confidence": 0.85,
+      "user_relevance_score": 1.0,
+      "search_query_used": "credit card penalty APR rate increase triggers",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1666i",
+            "verified": true
+          },
+          {
+            "law_name": "Credit CARD Act 2009",
+            "article": "15 U.S.C. \u00a7 1637",
+            "verified": true
+          }
+        ],
+        "precedents": [
+          {
+            "case_number": "88586",
+            "case_name": "Edwards v. Your Credit Inc",
+            "court": "ca5",
+            "date": "1998-07-27",
+            "summary": "",
+            "relevance_score": 0.322,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/15125/edwards-v-your-credit-inc/"
+          },
+          {
+            "case_number": "2002771",
+            "case_name": "Connie Edwards v. Your Credit, Inc.",
+            "court": "ca5",
+            "date": "1998-08-17",
+            "summary": "",
+            "relevance_score": 0.3,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/755583/connie-edwards-v-your-credit-inc/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:2\uac74 | US statute:2\uac74",
+      "severity": "CRITICAL",
+      "plain_language_explanation": "The credit card company can raise your interest rate on future purchases if you pay late, go over your limit, or have a payment bounce.",
+      "user_impact": "Higher interest rates mean much more expensive monthly payments on any balance you carry.",
+      "estimated_risk_scenario": "If you're late on a payment, your rate could jump from 18% to 29%. On a $3,000 balance, this means paying $27 more per month in interest charges alone.",
+      "recommended_actions": [
+        {
+          "action": "Set up automatic minimum payments from your bank account to avoid late payments",
+          "priority": "immediate",
+          "contact": "Your bank or credit card company customer service"
+        },
+        {
+          "action": "Ask for a lower credit limit to prevent accidental overspending",
+          "priority": "immediate",
+          "contact": "Credit card company customer service"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "finding_id": "US-V006",
+      "taxonomy": "CC-02",
+      "title": "Retroactive penalty rate on existing balances",
+      "triggered_by": "We also may increase the Annual Percentage Rates on all Your balances and transactions, including those incurred prior to the notice of increase, if We do not receive Your required Minimum Payment within 60 days after its due date.",
+      "description": "Retroactive penalty rate on existing balances",
+      "status": "CONFIRMED",
+      "confidence": 0.9,
+      "user_relevance_score": 1.0,
+      "search_query_used": "credit card retroactive penalty rate existing balance",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1666i",
+            "verified": true
+          },
+          {
+            "law_name": "Credit CARD Act 2009",
+            "article": "15 U.S.C. \u00a7 1637",
+            "verified": true
+          }
+        ],
+        "precedents": [
+          {
+            "case_number": "64297648",
+            "case_name": "In re Capital One Bank Credit Card Interest Rate Litigation",
+            "court": "gand",
+            "date": "2014-11-03",
+            "summary": "",
+            "relevance_score": 1.0,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/7309171/in-re-capital-one-bank-credit-card-interest-rate-litigation/"
+          },
+          {
+            "case_number": "88586",
+            "case_name": "Edwards v. Your Credit Inc",
+            "court": "ca5",
+            "date": "1998-07-27",
+            "summary": "",
+            "relevance_score": 0.235,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/15125/edwards-v-your-credit-inc/"
+          },
+          {
+            "case_number": "2002771",
+            "case_name": "Connie Edwards v. Your Credit, Inc.",
+            "court": "ca5",
+            "date": "1998-08-17",
+            "summary": "",
+            "relevance_score": 0.218,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/755583/connie-edwards-v-your-credit-inc/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:3\uac74 | US statute:2\uac74",
+      "severity": "CRITICAL",
+      "plain_language_explanation": "If you're late on a payment by 60+ days, the bank can raise interest rates on money you already owe, not just new purchases.",
+      "user_impact": "Your existing debt becomes much more expensive to pay off if you miss payments on fixed income.",
+      "estimated_risk_scenario": "Miss two monthly payments, and your existing $5,000 balance jumps from 18% to 29% interest - costing $550 more per year on money already borrowed.",
+      "recommended_actions": [
+        {
+          "action": "Set up automatic minimum payments from checking account to avoid late fees",
+          "priority": "immediate",
+          "contact": "Your bank's customer service"
+        },
+        {
+          "action": "Look for cards without retroactive rate increases before signing",
+          "priority": "pre-signing",
+          "contact": "Compare cards at consumerfinance.gov"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "finding_id": "US-V003",
+      "taxonomy": "CC-04",
+      "title": "Unilateral credit limit changes",
+      "triggered_by": "We may change or restrict Your credit availability at any time.",
+      "description": "Unilateral credit limit changes",
+      "status": "CONFIRMED",
+      "confidence": 0.85,
+      "user_relevance_score": 1.0,
+      "search_query_used": "credit card unilateral credit limit reduction",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1637",
+            "verified": true
+          },
+          {
+            "law_name": "Credit CARD Act 2009",
+            "article": "15 U.S.C. \u00a7 1637(i)",
+            "verified": true
+          }
+        ],
+        "precedents": [
+          {
+            "case_number": "2433003",
+            "case_name": "CSA-Credit Solutions of America, Inc. v. Schafer",
+            "court": "miwd",
+            "date": "2006-01-06",
+            "summary": "",
+            "relevance_score": 0.904,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/2567297/csa-credit-solutions-of-america-inc-v-schafer/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:1\uac74 | US statute:2\uac74",
+      "severity": "HIGH",
+      "plain_language_explanation": "The credit card company can cut your credit limit or freeze your account anytime without warning or your permission.",
+      "user_impact": "Your card could be denied at checkout, affecting your ability to pay for essentials like medicine.",
+      "estimated_risk_scenario": "During a medical emergency, your card gets declined because they suddenly cut your limit. You can't pay for prescriptions or hospital bills you were counting on.",
+      "recommended_actions": [
+        {
+          "action": "Keep backup payment methods like a different credit card or savings account accessible",
+          "priority": "immediate",
+          "contact": "Your bank or credit union"
+        },
+        {
+          "action": "Monitor your credit report monthly to catch changes early",
+          "priority": "immediate",
+          "contact": "AnnualCreditReport.com"
+        },
+        {
+          "action": "Consider switching to a credit union card with more consumer-friendly terms",
+          "priority": "optional",
+          "contact": "Local credit unions"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "finding_id": "US-V002",
+      "taxonomy": "UNCATEGORIZED",
+      "title": "Joint and several liability for all users",
+      "triggered_by": "Each person named on the application for the Account and anyone else authorized to use the Account in any way is jointly and severally liable for all amounts due on this Account.",
+      "description": "Primary cardholder held liable for all debts incurred by any authorized user without limit",
+      "status": "UNVERIFIED",
+      "confidence": 0.8,
+      "user_relevance_score": 0.75,
+      "search_query_used": "each person named application account anyone else authorized credit card consumer rights",
+      "legal_grounds": {
+        "statutes": [],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74",
+      "severity": "MEDIUM",
+      "plain_language_explanation": "If you share this account with anyone, you're both responsible for ALL debt on the account, even if the other person made the charges.",
+      "user_impact": "You could owe money for charges you didn't make if you add another user to your account.",
+      "estimated_risk_scenario": "If you add an adult child to help with bills and they overspend, you're legally responsible for their entire debt even if you can't afford it on your fixed income.",
+      "recommended_actions": [
+        {
+          "action": "Don't add anyone to your account unless absolutely necessary and you fully trust them",
+          "priority": "immediate",
+          "contact": "Card issuer customer service"
+        },
+        {
+          "action": "Consider alternatives like giving someone power of attorney for finances instead",
+          "priority": "pre-signing",
+          "contact": "Elder law attorney or local legal aid"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "finding_id": "US-V004",
+      "taxonomy": "UNCATEGORIZED",
+      "title": "Unilateral payment application discretion",
+      "triggered_by": "We may apply Your Minimum Payment to Balance Categories in the order We choose.",
+      "description": "Bank can apply minimum payments to benefit itself rather than consumer's lowest-rate balances",
+      "status": "UNVERIFIED",
+      "confidence": 0.75,
+      "user_relevance_score": 0.65,
+      "search_query_used": "apply your minimum payment balance categories order choose credit card consumer rights",
+      "legal_grounds": {
+        "statutes": [],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74",
+      "severity": "MEDIUM",
+      "plain_language_explanation": "The credit card company can decide how to apply your payments across different balances. They'll likely pay off low-interest debt first, keeping high-interest debt longer.",
+      "user_impact": "You'll pay more interest over time since high-rate balances stay unpaid longer on fixed income.",
+      "estimated_risk_scenario": "With $5000 balance split between 0% promotional rate and 24.99% purchases, minimum payments go to promotional balance first. You pay hundreds more in interest on purchase balance.",
+      "recommended_actions": [
+        {
+          "action": "Make payments above the minimum and specify allocation to highest-rate balances in writing",
+          "priority": "immediate",
+          "contact": "Card issuer customer service"
+        },
+        {
+          "action": "Review payment allocation policies before accepting any credit card offers",
+          "priority": "pre-signing",
+          "contact": "Card issuer terms department"
+        }
+      ],
+      "rank": 6
+    }
+  ],
+  "general_recommendations": [
+    "Read all terms carefully before signing any credit card agreement.",
+    "Compare APR and fees across multiple issuers before applying.",
+    "Note any arbitration clauses that waive your right to sue.",
+    "Contact CFPB (1-855-411-2372) if you believe a term is unfair.",
+    "For disputes, contact your state Attorney General's consumer protection office."
+  ],
+  "disclaimer": "This report is generated by AI analysis and has no legal effect. For specific legal advice, consult a consumer protection attorney or contact the CFPB."
+}

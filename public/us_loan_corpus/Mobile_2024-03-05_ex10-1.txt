@@ -1,0 +1,1292 @@
+EX-10.1
+
+2
+
+ex10-1.htm
+
+ 
+
+ 
+
+Exhibit
+10.1
+
+ 
+
+Execution
+Version
+
+ 
+
+third
+AMENDMENT TO CREDIT AGREEMENT
+
+ 
+
+THIS
+THIRD 
+AMENDMENT TO CREDIT 
+AGREEMENT
+ (this “
+
+Agreement
+
+”) is
+dated as of March 1, 2024 by and among 
+
+MOBILE INFRA OPERATING COMPANY, LLC
+
+, a Delaware
+limited liability company (the “
+
+Lead Borrower
+
+”), each Subsidiary Borrower (and together with Lead Borrower,
+individually and collectively, jointly and severally, the “
+
+Borrower
+
+”), 
+
+Mobile
+Infrastructure Corporation
+
+, a Maryland corporation (“
+
+Parent
+
+”), and 
+KEYBANK NATIONAL ASSOCIATION
+
+as administrative agent (the “
+
+Administrative Agent
+
+”), and the other financial institutions party hereto,
+as lenders (each a “
+
+Lender
+
+” and collectively, the “
+
+Lenders
+
+”). 
+
+ 
+
+A.
+The Borrower, the Administrative Agent and the Lenders are party to that certain Credit Agreement, dated as of March 29, 2022, as amended
+by that certain First Amendment to Credit Agreement, dated as of November 17, 2022 and that certain Waiver and Second Amendment to Credit
+Agreement, dated as of August 25, 2023 (the “
+
+Credit Agreement
+
+”, and as amended by this Agreement, the “
+
+Amended
+Credit Agreement
+
+”);
+
+ 
+
+B.
+The Borrower has requested that the Administrative Agent and the Lenders agree, and the Administrative Agent and the Lenders have agreed,
+to extend the Maturity Date upon the terms and subject to the conditions set forth in this Agreement;
+
+ 
+
+C.
+The Borrower and the Administrative Agent have agreed to make certain modifications to the Credit Agreement upon the terms and subject
+to the conditions set forth in this Agreement.
+
+ 
+
+NOW,
+THEREFORE
+, in consideration of the mutual promises herein contained and for other valuable consideration, the receipt and sufficiency
+of which is hereby acknowledged, the parties hereto do hereby agree as follows:
+
+ 
+
+1.
+
+Credit Agreement Definitions 
+. 
+
+Unless otherwise
+expressly defined herein, capitalized terms used but not defined herein shall have the meaning given to such terms in the Amended Credit
+Agreement.
+
+ 
+
+2.
+
+AMENDMENTS TO CREDIT AGREEMENT.
+ Effective as of the Third Amendment Effective Date, the Credit Agreement is hereby amended as
+follows:
+
+ 
+
+2.01.
+Section 1.01 of the Credit Agreement is hereby amended by amending and restating each of the following definitions in their entirety
+to read as follows:
+
+ 
+
+“
+Applicable
+Rate
+” means, a rate per annum equal to:
+
+ 
+
+(1)
+at any time from and after the Third Amendment Effective Date, prior to the First Extended Stated Maturity Date, (a) with respect to
+SOFR Loans, three percent (3.0%) and (b) with respect to ABR Loans, two percent (2.0%);
+
+ 
+
+(2)
+at any time from the First Extended Stated Maturity Date until the Second Extended Stated Maturity Date, (a) with respect to SOFR Loans,
+three and one half percent (3.5%) and (b) with respect to ABR Loans, two and one half percent (2.5%); and
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(3)
+at any time from the Second Extended Stated Maturity Date and thereafter, (a) with respect to SOFR Loans, four percent (4.0%) and (b)
+with respect to ABR Loans, three percent (3.0%).
+
+ 
+
+“
+Collateral
+”
+means all property, tangible or intangible, real, personal or mixed, now or hereafter subject to the liens and security interests of
+the Loan Documents, or intended so to be, which Collateral shall secure the Obligations and the Hedging Obligations on a pari passu basis,
+including, without limitation, the Pool Properties pursuant to the Mortgages, all direct and indirect Equity Interests owned by the Equity
+Pledgor in the Fee Owners of the Clarksburg Property, Clybourn Property, and Milwaukee Old World Property, and the net proceeds from
+the sale or refinancing of the Streeter Property as specified in Section 2.03 below.
+
+ 
+
+“
+Loan
+Documents
+” means this Agreement, the Notes, each Guaranty, the Financing Statements, each Mortgage, each Environmental Indemnity,
+each Pledge Agreement and all other instruments, agreements and written obligations executed and delivered by any of the Credit Parties
+in connection with the transactions contemplated hereby.
+
+ 
+
+2.02.
+Section 1.01 of the Credit Agreement is hereby amended to add the following new defined terms in appropriate alphabetical order therein:
+
+ 
+
+“
+Capital
+Events
+” has the meaning given to such term in 
+Section 2.10(h)
+.
+
+ 
+
+“
+Clarksburg
+Property
+” means that certain Real Property located at 327-328 Washington Avenue, Clarksburg, WV 26301.
+
+ 
+
+“
+Clybourn
+Property
+” means that certain Real Property located at 412 East Clybourn Street, Milwaukee, WI 53202.
+
+ 
+
+“
+Equity
+Offering
+” means, any issuance and/or sale after the Third Amendment Effective Date by Parent, Lead Borrower, any Guarantor
+or any of their Subsidiaries of any Equity Interests or equity securities of such Person, including, without limitation, (a) any new
+preferred securities, (b) any conversion of equity interests or securities of any Subsidiary of Lead Borrower into equity interests in
+Lead Borrower or any of its Subsidiaries, and (c) any new common shares.
+
+ 
+
+“
+Equity
+Pledgor
+” means Mobile Infra Holdings, LLC.
+
+ 
+
+“
+First
+Extended Maturity Date
+” has the meaning assigned to such term in Section 2.19(a).
+
+ 
+
+“
+Milwaukee
+Old World Property
+” means that certain Real Property located at 822 North Old World Third Street, Milwaukee, WI 53023.
+
+ 
+
+“
+Pledge
+Agreement
+” means that certain Equity Interests Pledge and Security Agreement executed by the Equity Pledgor in favor of Administrative
+Agent.
+
+ 
+
+“
+Second
+Extended Maturity Date
+” has the meaning assigned to such term in Section 2.19(a).
+
+ 
+
+“
+Streeter
+Property
+” means that certain Real Property located at 322 East Illinois Street, Chicago, IL 60611.
+
+ 
+
+“
+Third
+Amendment Effective Date
+” means March 1, 2024.
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.03.
+Section 2.10 of the Credit Agreement is hereby amended to add new clauses (h) and (i) in appropriate numerical order as follows:
+
+ 
+
+(h)
+From the Third Amendment Effective Date, except as explicitly set forth in Section 2.10(i) with respect to the Streeter Property, the
+Borrower, or the Parent on behalf of the Borrower, shall prepay the Loans in an amount equal to one hundred percent (100%) of the net
+proceeds from any capital event in respect of the Borrower or its assets, including any net proceeds (i) payable to any Credit Party
+generated by Equity Offerings by the Borrower, Parent, or any of their Subsidiaries, (ii) payable to any Credit Party or any of its Subsidiaries
+(after payment of usual and customary closing costs and expenses and repayment of any Indebtedness secured by such Real Property or Collateral)
+generated by the sale, finance, refinance or other recapitalization of any Real Property or other Collateral owned directly or indirectly
+by the Borrower, and (iii) payable to the Borrower, Parent, or any of their Subsidiaries (after payment of usual and customary closing
+costs and expenses) generated by the incurrence of any other Indebtedness (including any refinancings or replacements of existing Indebtedness)
+of the Borrower, Parent, or any of their Subsidiaries after the date hereof (the transactions contemplated in clauses (i) – (iii),
+collectively, “
+Capital Events
+”). Notwithstanding anything herein to the contrary, from the Third Amendment Effective
+Date, the Commitments shall be permanently reduced in accordance with 
+Section 2.08(b)
+ concurrently with, and in the same amount
+as, any prepayment of Loans under this Agreement, whether voluntary or a mandatory. The Credit Parties shall, and shall cause their Subsidiaries
+to, distribute to the Lead Borrower, promptly after receipt thereof, 100% of the net proceeds from any Capital Events with respect to
+their assets, which net proceeds shall be deposited into the Debt Service Reserve Account as additional collateral for the Loans pending
+application thereof pursuant to this 
+Section 2.10(h)
+. Lead Borrower hereby directs Agent to apply the net proceeds from any Capital
+Events so deposited into the Debt Service Reserve Account to prepay the Loans in accordance with this Section. Until applied to prepay
+the Loans in accordance with this Section, such cash collateral shall be, at all times, maintained in the Debt Service Reserve Account
+subject to the terms of 
+Section 5.19
+.
+
+ 
+
+(i)
+Concurrently with any sale or refinancing of the Streeter Property, the Borrower shall deposit cash collateral with the Administrative
+Agent, as additional collateral for the Loans, in an amount equal to one hundred percent (100%) of the net proceeds from the sale or
+refinancing of the Streeter Property. Such cash collateral shall be, at all times, maintained in the Debt Service Reserve Account subject
+to the terms of 
+Section 5.19
+. For the avoidance of doubt, the failure of the Borrowers to deposit the net proceeds of the sale
+or refinancing of the Streeter Property into the Debt Service Reserve Account shall constitute an Event of Default under Section 7.01(a).
+
+ 
+
+2.04.
+Section 2.12 of the Credit Agreement is hereby amended to delete clause (g) in its entirety.
+
+ 
+
+2.05.
+Section 2.19(a) of the Credit Agreement is hereby amended by amending and restating it in its entirety to read as follows:
+
+ 
+
+(a)
+So long as no Event of Default or Default shall be in existence on the date on which notice is given in accordance with the following
+clause (i) and on the then current Stated Maturity Date, Borrower may extend the Stated Maturity Date for additional six (6) month periods
+from the Stated Maturity Date then in effect on no more than two (2) occasions, first to October 1, 2024 (the “
+First Extended
+Stated Maturity Date
+”) then to April 1, 2025 (the “
+Second Extended Stated Maturity Date
+”), respectively
+for each such extension, and thereafter for (1) additional three (3) month period from the Stated Maturity Date then in effect to June
+30, 2025, upon satisfaction of the following: (i) delivery of a written request to Administrative Agent at least sixty (60) days, but
+no more than one hundred twenty (120) days, prior to the Stated Maturity Date then in effect; (ii) payment to Administrative Agent for
+the benefit of the Lenders of the extension fee set forth in SECTION 2.11(d) for each extension option, which fee shall be payable on
+or before the then applicable Maturity Date; and (iii) payment by Borrower of all fees and expenses to Administrative Agent and the Lenders
+to the extent then due. Such extension shall be evidenced by delivery of written confirmation of the same by Administrative Agent to
+Borrower, but Administrative Agent’s failure to timely deliver the notice shall not affect Borrower’s right to extend so
+long as the conditions contained herein are satisfied.
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.06.
+Section 2.19 of the Credit Agreement is hereby amended to add new clause (ix) in appropriate numerical order as follows:
+
+ 
+
+(ix)
+the Borrower shall extend any applicable Hedging Agreement through each extended Stated Maturity Date at a strike rate sufficient to
+ensure compliance with all of the financial covenants set forth in 
+Section 5.02
+ (as reasonably agreed by the Administrative Agent)
+hereof both on the date on which the extension request is given to the Administrative Agent and on the first day of the extension.
+
+ 
+
+2.07.
+Section 5.19 is hereby amended by adding the following to add new clause (d) in appropriate numerical order as follows:
+
+ 
+
+(d)
+Notwithstanding the foregoing, Lead Borrower shall deposit into the Debt Service Reserve Account (x) 100% of the net proceeds from any
+Capital Events in accordance with Section 2.10(h) and (y) concurrently with any sale or refinancing of the Streeter Property, cash collateral
+in accordance with Section 2.10(i). Such funds deposited into the Debt Service Reserve Account in accordance with Sections 2.10(h) and
+(i) shall not be considered when determining any Interest Shortfall under Section 5.19(b) or in the application of Section 5.19(c).
+
+ 
+
+2.08.
+A new Section 5.21 is hereby added to the Credit Agreement in appropriate numerical order as follows:
+
+ 
+
+Section
+5.21 
+Streeter Property
+. Borrower shall work diligently to refinance the Streeter Property at all times from and after the Third
+Amendment Effective Date.
+
+ 
+
+2.09.
+Section 6.05 of the Credit Agreement is hereby amended by adding the following phrase at the end thereof:
+
+ 
+
+Without
+limitation to the foregoing, the Lead Borrower shall not make any Restricted Payment to holders of its Equity Interests of any proceeds
+from a Capital Event with respect to its assets or asset of any of its Subsidiaries or any Equity Offering unless it shall first make
+the prepayments required under Section 2.10(h) hereof.
+
+ 
+
+2.10.
+Section 6.09 of the Credit Agreement is hereby amended by amending and restating clause (g) thereof in its entirety to read as follows:
+
+ 
+
+and
+(g) with the prior written consent of the Administrative Agent in its sole discretion, Indebtedness that is recourse to the Parent (excluding
+the Obligations) in connection with secured Indebtedness of its Subsidiaries.
+
+ 
+
+3.
+
+REPRESENTATIONS AND WARRANTIES 
+. The Borrower hereby represents and warrants to the Administrative Agent and the Lenders that,
+as of the date hereof:
+
+ 
+
+3.01.
+The representations and warranties of Borrower and each other Credit Party contained in 
+Article III
+ of the Amended Credit Agreement
+or any other Loan Document, are true and correct in all material respects on and as of the Third Amendment Effective Date, except to
+the extent that such representations and warranties specifically refer to an earlier date, in which case they shall be true and correct
+in all material respects as of such earlier date, and except that for purposes of the Amended Credit Agreement, the representations and
+warranties contained in 
+Section 3.04 
+of the Amended Credit Agreement shall be deemed to refer to the most-recent statements furnished
+pursuant to 
+Section 5.01
+ of the Amended Credit Agreement;
+
+ 
+
+3.02.
+No Default or Event of Default exists as of the Third Amendment Effective Date, or would result after giving effect to this Agreement;
+and
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.03.
+This Agreement has been duly authorized, executed and delivered by Borrower so as to constitute the legal and binding obligation of Borrower,
+enforceable against it in accordance with its terms, subject to Debtor Relief Laws and equitable principles.
+
+ 
+
+3.04.
+The Clarksburg Property, the Clybourn Property, and the Milwaukee Old World Property are and shall remain free and clear of any Liens
+other than Permitted Encumbrances.
+
+ 
+
+4.
+
+CONDITIONS PRECEDENT
+. The effectiveness of this Agreement is subject to the conditions precedent that Administrative Agent shall
+have received the following (the date when such conditions shall have been satisfied or waived, the “
+Third Amendment Effective
+Date
+”):
+
+ 
+
+4.01.
+
+Agreement
+. This Agreement, duly executed and delivered by Borrower, the Administrative Agent, and Lenders;
+
+ 
+
+4.02.
+
+Authority
+. Evidence reasonably satisfactory to the Administrative Agent that the Borrower has taken all necessary action approving
+or consenting to entry into the transactions contemplated herein;
+
+ 
+
+4.03.
+
+Equity Interests Pledge
+. A pledge of all direct and indirect Equity Interests owned by Mobile Infra Holdings, LLC (“
+Equity
+Pledgor
+”) in the Fee Owners of the Clarksburg Property, the Clybourn Property, and the Milwaukee Old World Property, duly executed
+and delivered by Equity Pledgor, in form and substance satisfactory to Administrative Agent.
+
+ 
+
+4.04.
+
+Constituent Documents
+. A certificate from a responsible officer (not individually, but in his or her capacity as such officer)
+of Borrower certifying the organizational and authority documents of the Credit Parties, and certifying the resolutions being executed
+in connection herewith;
+
+ 
+
+4.05.
+
+Compliance Certificate
+. A compliance certificate showing compliance with the financial covenants set forth in Section 5.02 of
+the Credit Agreement as of September 30, 2023, inclusive, and a Borrowing Base Report dated as of the date hereof after giving effect
+to the prepayment of the Loans on the date hereof;
+
+ 
+
+4.07.
+
+Other Documents
+. The Borrower shall deliver to Administrative Agent all other documents and certificates as the Administrative
+Agent or its counsel may reasonably request relating to this Agreement and the transactions contemplated herein, including, without limitation,
+uniform commercial code financing statements in respect of the additional Collateral being granted on the date hereof; and
+
+ 
+
+4.08.
+
+Fees and Expenses. 
+Payment to the Administrative Agent of all reasonable and documented out-of-pocket fees and expenses (including
+attorney’s fees and expenses), incurred by the Administrative Agent and the Lenders in connection with this Agreement.
+
+ 
+
+5.
+
+NO OTHER AMENDMENTS; RATIFICATION OF LOAN DOCUMENTS
+. Except for the amendments set forth in 
+Section 2 
+of this Agreement,
+(a) the Amended Credit Agreement and the other Loan Documents shall remain unchanged and in full force and effect and (b) nothing in
+this Agreement is intended, or shall be construed, to constitute a novation or an accord and satisfaction of Borrower’s or any
+Guarantor’s Obligations under or in connection with the Amended Credit Agreement or any other Loan Document. Borrower hereby ratifies,
+confirms and reaffirms all of the terms and conditions of the Amended Credit Agreement and each of the other Loan Documents to which
+it is party, and further acknowledges and agrees that all of the terms and conditions of the Amended Credit Agreement and such Loan Documents
+remain in full force and effect, in each case, except as expressly provided in this Agreement. This Agreement shall constitute a Loan
+Document for all purposes.
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+6.
+
+MISCELLANEOUS
+.
+
+ 
+
+6.01.
+
+Governing Law
+. This Agreement shall be governed by and construed in accordance with the laws of the State of New York.
+
+ 
+
+6.02.
+
+Successors and Assigns
+. The provisions of this Agreement shall be binding upon and inure to the benefit of the parties hereto
+and their respective successors and assigns permitted by the Amended Credit Agreement.
+
+ 
+
+6.03.
+
+Invalid Provisions
+. If any provision of this Agreement is held to be illegal, invalid, or unenforceable under present or future
+laws effective during the term of this Agreement, such provision shall be fully severable and this Agreement shall be construed and enforced
+as if such illegal, invalid or unenforceable provision had never comprised a part of this Agreement, and the remaining provisions of
+this Agreement shall remain in full force and effect and shall not be affected by the illegal, invalid or unenforceable provision or
+by its severance from this Agreement, unless such continued effectiveness of this Agreement, as modified, would be contrary to the basic
+understandings and intentions of the parties as expressed herein.
+
+ 
+
+6.04.
+
+Headings
+. Section headings are for convenience of reference only and shall in no way affect the interpretation of this Agreement.
+
+ 
+
+6.05.
+
+Counterparts; Integration; Effectiveness
+. This Agreement may be executed in counterparts (and by different parties hereto in different
+counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. This
+Agreement and the other Loan Documents constitute the entire contract among the parties relating to the subject matter hereof and supersede
+any and all previous agreements and understandings, oral or written, relating to the subject matter hereof. Except as provided in 
+Section
+6
+, this Agreement shall become effective when it shall have been executed by Administrative Agent and when Administrative Agent shall
+have received counterparts hereof that, when taken together, bear the signatures of each of the other parties hereto. Delivery of an
+executed counterpart of a signature page of this Agreement by telecopy or other electronic imaging means shall be effective as delivery
+of a manually executed counterpart of this Agreement.
+
+ 
+
+Remainder
+of Page Intentionally Left Blank
+
+Signature Pages Follow.
+
+ 
+
+ 
+
+6
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF
+, the parties hereto have caused this Agreement to be duly executed as of the day and year first above written.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LEAD
+ BORROWER: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MOBILE
+ INFRA OPERATING COMPANY, LLC
+
+, a Delaware limited
+ liability company
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+ 
+
+/s/
+ Manuel Chavez
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+ 
+ 
+Manuel
+ Chavez
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+ 
+ 
+Director
+ 
+
+ 
+
+ 
+
+Signature
+Page to
+
+Acknowledgment
+and Confirmation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ADMINISTRATIVE
+ AGENT:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+KEYBANK
+ NATIONAL ASSOCIATION
+, as Administrative Agent and as a Lender
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+ 
+
+/s/
+ Christopher T. Neil
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Christopher
+ T. Neil
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Senior
+ Banker
+
+ 
+
+ 
+
+Signature
+Page to
+
+Acknowledgment
+and Confirmation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+acknowledgment
+and confirmation
+
+ 
+
+Each
+of the undersigned, as Guarantors under the Credit Agreement, that certain Guaranty dated as of March 29, 2022 by the Parent and certain
+of its Subsidiaries (the “
+Guaranty
+”) and any other Loan Document to which any Guarantor is a party, hereby unconditionally
+and irrevocably: (a) consents to the execution and delivery of, and performance under, the Third Amendment to Credit Agreement dated
+as of March 1, 2024 to which this Acknowledgment and Confirmation is attached (the “
+Agreement
+”); (b) affirms
+its obligations under the Guaranty with respect to the indebtedness of the Borrower under the Credit Agreement as amended by the Agreement;
+and (c) agrees that the execution and delivery of the Agreement shall not operate to release, discharge, serve as a defense to, or in
+any way alter or amend the obligations of the undersigned under the Guaranty or other Loan Documents to which such Guarantor is a party.
+Each Guarantor hereby acknowledges and agrees that as of the date hereof, the Guaranty shall be deemed to incorporate all applicable
+terms and conditions of the Agreement.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MOBILE
+ INFRASTRUCTURE CORPORATION
+ (f/k/a FIFTH WALL ACQUISITION CORP. III), a Maryland corporation, successor by merger to Mobile Infrastructure
+ Corporation, a Maryland corporation
+
+ 
+
+ 
+                
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+ 
+
+/s/
+ Manuel Chavez
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+ 
+Manuel
+ Chavez
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+ 
+Chief
+ Executive Officer
+ 
+
+ 
+
+ 
+
+Signature
+Page to
+
+Acknowledgment
+and Confirmation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MOBILE
+ INFRA HOLDINGS, LLC, a Nevada limited liability company
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ Mobile Intermediate Holdings, LLC, its member and manager
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ Mobile Infra Operating Company, LLC, its member and manager
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+ 
+
+/s/
+ Manuel Chavez
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+ 
+Manuel
+ Chavez
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+ 
+Director
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MOBILE
+ INTERMEDIATE HOLDINGS, LLC, a Delaware limited liability company
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ Mobile Infra Operating Company, LLC, its member and manager
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+ 
+
+/s/
+ Manuel Chavez
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+ 
+Manuel
+ Chavez
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+ 
+Director
+ 
+
+ 
+
+ 
+
+Signature
+Page to
+
+Acknowledgment
+and Confirmation

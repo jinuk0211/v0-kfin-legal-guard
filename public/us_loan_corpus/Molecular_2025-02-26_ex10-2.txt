@@ -1,0 +1,2712 @@
+EX-10.2
+
+3
+
+ex10-2.htm
+
+ 
+
+ 
+
+Exhibit
+10.2
+
+ 
+
+Amended
+and restated secured
+
+ 
+CONTINGENT VALUE RIGHT AGREEMENT
+
+ 
+
+This
+AMENDED AND RESTATED SECURED CONTINGENT VALUE RIGHT AGREEMENT (as amended, restated, supplemented or otherwise modified from time to
+time, this “
+Agreement
+”), dated as of February 20, 2025 (the “
+Effective Date
+”) is made by and among
+
+Molecular Templates Opco, Inc.
+, 
+a Delaware corporation (“
+Opco
+”),
+
+Molecular Templates, Inc.
+
+, a Delaware corporation (“
+Parent
+”,
+and in its capacity as obligor with respect to the Contingent Value, together with Opco, and each other Person party hereto from time
+to time as an obligor, collectively, “
+Obligors
+” and each, an “
+Obligor
+”), 
+K2 HEALTHVENTURES LLC
+
+(“
+K2
+”, and as holder under this Agreement, in such capacity, together with its successors, “
+Holder
+”),
+and 
+
+ANKURA TRUST COMPANY, LLC
+
+, as collateral trustee for Secured Parties (in such
+capacity, together with its successors, “
+Collateral Trustee
+”). This Agreement amends, restates and replaces in its
+entirety that certain Convertible Secured Contingent Value Right Agreement, among the parties, dated as of June 16, 2023 (the “
+Original
+Agreement Date
+”), among Obligors, Holder and Collateral Trustee.
+
+ 
+
+For
+good and valuable consideration, the sufficiency of which is hereby acknowledged, the parties hereby agree as follows:
+
+ 
+
+1. Accounting
+and Other Terms
+. Accounting terms not defined in this Agreement shall be construed in accordance with GAAP, and calculations and
+determinations shall be made following GAAP, consistently applied. Capitalized terms not otherwise defined in this Agreement shall have
+the meanings set forth on 
+Exhibit A
+. All other terms contained in this Agreement, unless otherwise indicated, shall have the meaning
+provided by the Code to the extent such terms are defined therein. As used in this Agreement, the word “shall” is mandatory,
+the word “may” is permissive, the word “or” is not exclusive, the words “includes” and “including”
+are not limiting, the singular includes the plural, and numbers denoting amounts that are set off in brackets are negative. For purposes
+of calculations made pursuant to the terms of this Agreement or otherwise for purposes of compliance herewith, GAAP will be deemed to
+treat operating leases and capital lease obligations in a manner consistent with the treatment thereof under GAAP as in effect on December
+31, 2018, notwithstanding any modifications or interpretive changes thereto that have occurred. Any documents or agreements referred
+to herein shall mean any such documents or agreements as amended, restated, amended and restated and/or otherwise supplemented or modified
+from time to time.
+
+ 
+
+2. Refinancing
+of Loan Obligations
+. As of the Original Agreement Date, K2, in its capacity as the sole Lender and Administrative Agent under the
+Loan Agreement, Opco and Parent, in their capacity as Loan Parties under the Loan Agreement, agreed to refinance the outstanding obligations
+in respect of the Loans (excluding the Surviving Obligations, collectively, the “
+Loan Obligations
+”). Obligors made
+a cash payment of $27,500,000 on the Original Agreement Date. In lieu of cash payment of the remaining balance of the Loan Obligations,
+Holder agreed to refinance the Loan Obligations, pursuant to the right to receive the Contingent Value and the other agreements in accordance
+with this Agreement.
+
+ 
+
+3. Contingent
+Value
+.
+
+ 
+
+(a) 
+Contingent
+Payments
+. Obligors shall pay the applicable Contingent Payment Amount, within three (3) Business Days following each Contingent Payment
+Event (each such payment, a “
+Contingent Payment
+” and collectively, the “
+Contingent Payments
+”).
+When the Remaining Value is $0, the Contingent Value shall be deemed satisfied and paid in full. Part 2 of 
+Schedule 2
+ hereto shall
+be updated from time to time by Holder upon receipt of any Contingent Payment to reflect the then-current Remaining Value, and Holder
+shall provide a copy of 
+Schedule 2
+, as updated, from time to time as reasonably requested by any Obligor.
+
+ 
+
+(b) 
+Repayment
+at Maturity Date
+. If not previously satisfied in full, on February 1, 2026, the Remaining Value shall be satisfied in full with cash
+on hand and all of Obligors’ other Collateral, provided, that the parties acknowledge and agree that the parties shall use reasonable
+best efforts to cause a portion of the Remaining Value and any other amounts due under this Agreement to be rolled up in debtor-in-possession
+financing facility obtained in connection with a Chapter 11 bankruptcy case commenced by Obligors, with such portion not rolled up into
+a debtor-in-possession financing facility either satisfied from the Collateral or otherwise satisfied pursuant to a bankruptcy proceeding
+in accordance with the priorities set forth in the Bankruptcy Code, as applicable.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c) 
+Optional
+Early Termination
+. Obligors may, upon fifteen (15) Business Days prior written notice to Holder, or such shorter period as Holder
+may reasonably approve, approval not to be unreasonably withheld, prepay the Contingent Value by paying the Remaining Value in full in
+cash without premium or penalty.
+
+ 
+
+4. Manner
+of Payment; Joint and Several Liability; Payments Free of Withholding; Etc.
+
+ 
+
+(a) All
+payments to be made by Obligors hereunder, including payments of principal and interest and all fees, charges, expenses, indemnities
+and reimbursements, shall be made in accordance with the terms of this Agreement and if expressly required to be paid in cash, in immediately
+available funds in Dollars, without setoff, recoupment or counterclaim in accordance with wire instructions provided by Holder to Obligors
+in writing as of the date hereof, as the same may from time to time be updated by written notice from Holder to Obligors.
+
+ 
+
+(b) Each
+Obligor hereunder shall be jointly and severally obligated to pay any Contingent Payments or other Secured Obligations when due hereunder,
+regardless of which Obligor actually receives the payments or proceeds giving rise to the Contingent Payment Event, if applicable. Each
+Obligor hereby waives (a) any suretyship defenses available to it under the Code or any other applicable law, and (b) any right to require
+Secured Parties to: (i) proceed against any Obligor or any other person; (ii) proceed against or exhaust any security; or (iii) pursue
+any other remedy. Secured Parties may exercise or not exercise any right or remedy it has against any Obligor or any security it holds
+(including the right to foreclose by judicial or non-judicial sale) without affecting any other Obligor’s liability. Notwithstanding
+any other provision of this Agreement or other related document, each Obligor irrevocably waives all rights that it may have at law or
+in equity (including, without limitation, any law subrogating any Obligor to the rights of Secured Parties under this Agreement) to seek
+contribution, indemnification or any other form of reimbursement from any other Obligor, or any other Person now or hereafter primarily
+or secondarily liable for any of the Secured Obligations, for any payment made by such Obligor with respect to the Secured Obligations
+in connection with this Agreement or otherwise and all rights that it might have to benefit from, or to participate in, any security
+for the Secured Obligations as a result of any payment made by an Obligor with respect to the Secured Obligations in connection with
+this Agreement or otherwise. Any agreement providing for indemnification, reimbursement or any other arrangement prohibited under this
+Section shall be null and void. If any payment is made to an Obligor in contravention of this Section, such Obligor shall hold such payment
+in trust for Secured Parties and such payment shall be promptly delivered to Collateral Trustee, for the benefit of Secured Parties,
+for application to the Secured Obligations, whether matured or unmatured.
+
+ 
+
+5. Security
+Interest; Pledge. 
+
+ 
+
+(a) 
+Grant
+of Security Interest
+. Each Obligor hereby grants to Collateral Trustee, for the benefit of Secured Parties, to secure the payment
+and performance in full of the Secured Obligations, a continuing security interest in, and pledges to Collateral Trustee, the Collateral,
+wherever located, whether now owned or hereafter acquired or arising, and all proceeds and products thereof. If this Agreement is terminated,
+Collateral Trustee’s Lien in the Collateral shall continue until the Secured Obligations (other than contingent indemnification
+obligations as to which no claim has been asserted or is known to exist and any other obligations which, by their terms, are to survive
+the termination of this Agreement) are repaid in full in cash.
+
+ 
+
+(b) 
+Priority
+of Security Interest
+. Each Obligor represents, warrants, and covenants that the security interest granted herein is and shall at
+all times continue to be a first priority perfected security interest in the Collateral (subject only to Permitted Liens). If an Obligor
+shall acquire a commercial tort claim with a potential recovery in excess of $50,000, such Obligor shall promptly notify Holder in writing
+and deliver such other information and documents as Holder may reasonably require to take any further action necessary or advisable to
+perfect Collateral Trustee’s Lien in such commercial tort claim. If an Obligor shall acquire any instrument with a value in excess
+of $50,000, such Obligor shall promptly notify Holder and deliver the same in original together with an allonge or other appropriate
+instrument of transfer and any necessary endorsement, all in form reasonably satisfactory to Collateral Trustee.
+
+ 
+
+(c) 
+Authorization
+to File Financing Statements
+. Each Obligor hereby authorizes Collateral Trustee or its designee (or the Holder, on behalf of the
+Collateral Trustee) to file at any time financing statements, continuation statements and amendments thereto with all appropriate jurisdictions
+to perfect or protect Collateral Trustee’s interest or rights hereunder. Such financing statements may describe the Collateral
+as “all assets of such Obligor whether now owned or existing or hereafter acquired or arising and wheresoever located, and proceeds
+and products thereof” or words to that effect, and any limitations on such collateral description, notwithstanding that the collateral
+description may be broader in scope than the Collateral described in this Agreement.
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+(d) 
+Pledge
+of Collateral
+. Each Obligor hereby pledges, assigns and grants to Collateral Trustee a security interest in the Shares, together
+with all proceeds and substitutions thereof, all cash, stock and other moneys and property paid thereon, all rights to subscribe for
+securities declared or granted in connection therewith, and all other cash and noncash proceeds of the foregoing, as security for the
+performance of the Secured Obligations. On the Effective Date or to the extent any Shares pledged hereunder from time to time are or
+become certificated and such Shares either (i) represent Equity Interests of a Subsidiary or (ii) have a value in excess of $50,000,
+and in each case, the extent the same constitute Collateral, such certificates shall be delivered to Collateral Trustee, accompanied
+by a stock power or other appropriate instrument of assignment duly executed in blank. To the extent required by the terms and conditions
+governing the Equity Interests in which an Obligor has an interest, such Obligor shall cause the books of each Person whose Equity Interests
+are part of the Collateral and any transfer agent to reflect the pledge of the Equity Interests. Upon the occurrence and during the continuation
+of an Acceleration Event hereunder, Collateral Trustee may effect the transfer of any securities included in the Collateral (including
+but not limited to the Equity Interests) into the name of Collateral Trustee and cause new certificates representing such securities
+to be issued in the name of Collateral Trustee or its transferee. Each Obligor will execute and deliver such documents, and take or cause
+to be taken such actions, as Holder may reasonably request to perfect or continue the perfection of Collateral Trustee’s security
+interest in the Equity Interests. Each Obligor shall be entitled to exercise any voting rights with respect to the Equity Interests in
+which it has an interest and to give consents, waivers and ratifications in respect thereof, unless following an Acceleration Event,
+Collateral Trustee shall have given notice to Obligors suspending such rights, provided that: no such notice shall be required if an
+Obligor has commenced an Insolvency Proceeding and, in any event, no vote shall be cast or consent, waiver or ratification given or action
+taken which would be inconsistent with any of the terms of this Agreement or which would constitute or create any violation of any of
+such terms. All such rights to vote and give consents, waivers and ratifications shall terminate upon the occurrence and during the continuation
+of an Acceleration Event and the notification by Collateral Trustee to Obligors of the exercise of remedies in accordance with the terms
+hereof.
+
+ 
+
+(e) 
+Further
+Assurances
+. From time to time, Obligors shall deliver such additional documents as Holder may reasonably request to perfect or protect
+the security interest granted in accordance with the foregoing, including without limitation, IP Security Agreements and Account Control
+Agreements with respect to any Collateral Accounts. Without at least ten (10) days prior written notice to Holder, no Obligor shall (i)
+change its jurisdiction of organization, (ii) change its organizational structure, except in compliance with 
+subsection (f)
+ below,
+(iii) change its legal name, or (iv) change its organizational number (if any) assigned by its jurisdiction of organization. Any collateral
+security documents previously entered into or granted in favor of Collateral Trustee for the benefit of the Secured Parties to secure
+the Secured Obligations (as defined in the Loan Agreement) shall continue in effect and secure the Secured Obligations.
+
+ 
+
+(f) 
+Joinder
+of Obligors
+. If any Obligor forms or acquires any direct or indirect Subsidiary, if at any time Subsidiaries that are not Obligors
+will (i) maintain cash and other assets with an aggregate value for all such Foreign Subsidiaries in excess of 5.0% of the assets of
+Parent and its Subsidiaries, on a consolidated basis, (ii) achieve revenue in excess of 5.0% of the revenues of Parent and its Subsidiaries,
+on a consolidated basis, for any twelve month period then ended, or (iii) hold any Intellectual Property which is material to the business
+of Parent and its Subsidiaries, as a whole, or (iv) be a party to any contracts which are material to the business of Parent and its
+Subsidiaries, as a whole, Obligors shall cause such Subsidiaries to be joined as an Obligor under this Agreement, including to assume
+the Secured Obligations, on a joint and several basis, and grant a lien on such Subsidiary’s assets consistent with the security
+interest in the Collateral granted by Obligors herein, within fifteen days (or such other period as Holder may agree in writing), so
+as to cause Subsidiaries that are not Obligors to no longer meet any of triggers in foregoing 
+clauses (i) through (iv)
+.
+
+ 
+
+(g)
+
+Appointment of Collateral Trustee
+. Holder hereby appoints Collateral Trustee to act on behalf of Holder as collateral trustee
+under this Agreement and the other Transaction Documents, and to hold and enforce any and all Liens on Collateral granted by any of the
+Obligors to secure any of the Secured Obligations, all the terms of the Collateral Trust Agreement. The provisions of this 
+subsection
+(g)
+ are solely for the benefit of Collateral Trustee and Holder and no Obligor nor any other Person shall have any rights as a third
+party beneficiary of any of the provisions hereof. The Collateral Trustee may resign or be removed or replaced, and a successor Collateral
+Trustee may be appointed in accordance with the terms and subject to the conditions of the Collateral Trust Agreement.
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+6. Representations
+and Warranties
+. Each Obligor represents and warrants as follows:
+
+ 
+
+(a) 
+Due
+Authorization; Power and Authority
+. The execution, delivery and performance by each Obligor of this Agreement and the other Transaction
+Documents to which it is a party have been duly authorized, and do not (i) conflict with such Obligor’s Operating Documents or
+other organizational documents, (ii) contravene, conflict with, constitute a default under or violate any material Requirement of Law,
+(iii) contravene, conflict or violate any applicable material order, writ, judgment, injunction, decree, determination or award of any
+Governmental Authority by which such Obligor or any of its Subsidiaries or any of their property or assets may be bound or affected,
+(iv) require any action by, filing, registration, or qualification with, or Governmental Approval from, any Governmental Authority (except
+such Governmental Approvals which have already been obtained and are in full force and effect), or (v) conflict with, contravene, constitute
+a default or breach under, or result in or permit the termination or acceleration of, any material agreement by which such Obligor is
+bound.
+
+ 
+
+(b) 
+Obligor
+Information
+. The information set forth in the disclosures and information with respect to each Obligor and each Subsidiary thereof
+is true and accurate as of the Effective Date.
+
+ 
+
+(c) 
+Collateral
+.
+Each Obligor has good title to, rights in, and the power to transfer each item of the Collateral upon which it purports to grant a Lien
+hereunder, free and clear of any and all Liens except Permitted Liens. Such Obligor has full power and authority to create a first lien
+on the Shares and no disability or contractual obligation exists that would prohibit such Obligor from pledging the Shares pursuant to
+this Agreement.
+
+ 
+
+(d) 
+[Reserved]
+
+ 
+
+(e) 
+Full
+Disclosure
+. No written representation, warranty or other statement of an Obligor or any of its Subsidiaries in any certificate or
+written statement by or on behalf of an Obligor or any of its Subsidiaries in connection with this Agreement, as of the date such representation,
+warranty, or other statement was made, taken together with all such written certificates and written statements given, contains any untrue
+statement of a material fact or omits to state a material fact necessary to make the statements contained in the certificates or statements
+not materially misleading in light of the circumstances under which they were made (it being recognized that the projections and forecasts
+provided by any Obligor in good faith and based upon reasonable assumptions are not viewed as facts and that actual results during the
+period or periods covered by such projections and forecasts may differ from the projected or forecasted results).
+
+ 
+
+7. Additional
+Agreements
+. Until the Discharge Date, Obligors shall comply with the following covenants:
+
+ 
+
+(a) 
+Reporting
+and other Information
+. Obligors shall provide Holder with reporting and notices as set forth on 
+Schedule 2
+ hereto.
+
+ 
+
+(b) 
+Contingent
+Payment Events
+. Obligors shall use commercially reasonable efforts to pursue and enter into transactions which result in the payment
+of Contingent Payments, including without limitation, a Change in Control transaction, and with respect to Contingent Payment any Obligor
+is entitled to, use commercially reasonable efforts to cause any conditions to payment to be met, and to enforce payment thereof, and
+shall from time to time provide such updates and other information with respect to such efforts and any such prospective transactions
+or contingent or pending Contingent Payments as Holder may reasonably request. Upon entering into any transaction resulting in a Contingent
+Payment Event, Holder shall provide prompt notice thereof to Holder, together with copies of all material Transaction Documents, and
+if requested, Obligors’ projections regarding anticipated payments and proceeds to be received and resulting Contingent Payment
+Amounts and timeframes.
+
+ 
+
+(c) 
+Transfers
+.
+Obligors shall not, and shall not permit any Subsidiary to Transfer any of its assets (including Intellectual Property), except for Permitted
+Transfers or as approved by the following sentence, in each case, subject to payment of any required Contingent Payment in connection
+with any such Transfer, if any. With respect to Transfers of assets (including Intellectual Property) of any Obligor, including entering
+into any commitment or granting of any option or other contingent right by an Obligor a future Transfer of such assets, the terms and
+conditions of any transaction resulting in a Contingent Payment Event that involves the Transfer of shall be subject to Holder’s
+prior review and approval, such approval not to be unreasonably withheld. In evaluating any request for review and approval of a proposed
+Transfer in connection with a dissolution or winding up transaction of any Obligor duly approved by the Board of such Obligor, Holder
+shall give due consideration to circumstances of the proposed Transfer, including without limitation, available liquidity reserves and
+projected cash needs for continued operations.
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+(d) 
+Senior
+or Pari Passu Indebtedness
+. Except for the Bridge Loan Obligations, Obligors shall not, and shall not permit any Subsidiary, to create,
+incur, assume, or be liable for any Indebtedness for borrowed money that would rank senior or pari passu in right of payment or security
+interest to the Secured Obligations unless such Indebtedness is subordinated to the Secured Obligations on terms reasonably acceptable
+to Secured Parties.
+
+ 
+
+(e) 
+Liens
+.
+Obligors shall not, and shall not permit any Subsidiary, to create, incur, allow, or suffer any Lien on any of its property, except for
+Permitted Liens, or otherwise permit any Collateral not to be subject to the first priority security interest granted herein, except
+in connection with Permitted Liens, or in connection with a transaction that results in the substantially concurrent payment of the Remaining
+Value at closing.
+
+ 
+
+(f) 
+Change
+in Organizational Structure
+. No Obligor shall enter into any merger, consolidation, or other corporate reorganization, form a new
+holding company, or make any other similar change that could adversely affect the Lien on the Collateral granted pursuant hereto or Secured
+Parties rights and remedies with respect thereto, as determined by Secured Parties, without prior written consent by Secured Parties.
+
+ 
+
+8. Acceleration
+Events
+. Upon the occurrence and continuation of any of the following events (each an “
+Acceleration Event
+”), the
+Remaining Value shall, at the election of Holder, be due and payable, provided that upon the occurrence and continuation of the Acceleration
+Event described in 
+Section 8(c)
+ hereof, the Remaining Value shall automatically be deemed accelerated and due and payable in full.
+
+ 
+
+(a) 
+Payment
+Default
+. Any Obligor fails to pay any Secured Obligations when due.
+
+ 
+
+(b) 
+Certain
+Defaults
+. An Obligor violates any covenant in 
+Section 7(c) (
+Transfers
+)
+, 
+Section 7(d) (
+Senior or Pari Passu Indebtedness
+)
+,
+
+Section 7(e) (
+Liens
+)
+, or 
+Section 7(f) (
+Change in Organizational Structure
+)
+.
+
+ 
+
+(c) 
+Insolvency
+Proceedings
+. (i) The adoption by the Board of a resolution approving the filing by the applicable Obligor of a voluntary petition
+for relief under either chapter 11 or chapter 7 of title 11 of the United States Code (other than as approved by Administrative Agent
+pursuant to the Bridge Loan Agreement), (ii) an Obligor or any of its Subsidiaries begins an Insolvency Proceeding (other than as approved
+by Administrative Agent pursuant to the Bridge Loan Agreement); or (iii) an Insolvency Proceeding is begun against an Obligor or any
+of its Subsidiaries and is not dismissed or stayed within thirty (30) days.
+
+ 
+
+(d) 
+Other
+Agreements
+. There is, under any agreement to which an Obligor or any of its Subsidiaries is a party with a third party or parties,
+(a) any default (after giving effect to any applicable cure or grace periods) resulting in a right by such third party or parties, whether
+or not exercised, to accelerate the maturity of any Indebtedness in an amount individually or in the aggregate in excess of $250,000;
+(b) any event of default occurs pursuant to the Bridge Loan Agreement; or (c) any breach or default by an Obligor or a Subsidiary of
+such Obligor, the result of which could reasonably be expected to have a Material Adverse Effect.
+
+ 
+
+(e) 
+Impairment
+of Security
+. There is any material impairment in the perfection or priority of the Lien in the Collateral in favor of Collateral
+Trustee granted hereunder, in each case, other than as a result of the granting of Permitted Liens.
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+9. Rights
+and Remedies upon Acceleration Event
+
+ 
+
+(a) 
+Acceleration
+.
+Upon the occurrence and during the continuation of an Acceleration Event, Holder, is entitled, without notice or demand, to declare all
+Secured Obligations immediately due and payable (but if an Acceleration Event described in 
+Section 8(c)
+ hereof occurs all Secured
+Obligations are immediately due and payable without any action by Holder).
+
+ 
+
+(b) 
+Remedies
+.
+Upon the occurrence and during the continuation of an Acceleration Event, Collateral Trustee is entitled, solely at the direction of
+Holder, subject to the terms of the Collateral Trust Agreement, without notice or demand, to do any or all of the following, to the extent
+not prohibited by applicable law:
+
+ 
+
+(i) verify
+the amount of, demand payment of and performance under, and collect any Accounts and General Intangibles, settle or adjust disputes and
+claims directly with Account Debtors for amounts on terms and in any order that Holder may determine is advisable, and notify any Person
+owing an Obligor money of Collateral Trustee’s security interest in such funds;
+
+ 
+
+(ii) make
+any payments and do any acts it considers necessary or reasonable to protect the Collateral and/or its security interest in the Collateral;
+
+ 
+
+(iii) ratably
+apply to the Secured Obligations any amount held by Collateral Trustee owing to or for the credit or the account of an Obligor;
+
+ 
+
+(iv) ship,
+reclaim, recover, store, finish, maintain, repair, prepare for sale, advertise for sale, and sell the Collateral;
+
+ 
+
+(v) deliver
+a notice of exclusive control, any entitlement order, or other directions or instructions pursuant to any Account Control Agreement;
+
+ 
+
+(vi) demand
+and receive possession of any Obligor’s Books; and
+
+ 
+
+(vii) exercise
+all rights and remedies available to Collateral Trustee under the Transaction Documents or at law or equity, including all remedies provided
+under the Code (including disposal of the Collateral pursuant to the terms thereof).
+
+ 
+
+Obligors
+shall assemble the Collateral if Collateral Trustee requests and make it available as Collateral Trustee designates. Collateral Trustee
+may enter premises where the Collateral is located, take and maintain possession of any part of the Collateral, and pay, purchase, contest,
+or compromise any Lien which appears to be prior or superior to its security interest and pay all expenses incurred. Each Obligor grants
+Collateral Trustee a license to enter and occupy any of its premises, without charge, to exercise any of Collateral Trustee’s rights
+or remedies. Collateral Trustee is hereby granted a non-exclusive, royalty-free license or other right to use, without charge, an Obligor’s
+labels, Patents, Copyrights, mask works, rights of use of any name, trade secrets, trade names, Trademarks, and advertising matter, or
+any similar property as it pertains to the Collateral, in completing production of, advertising for sale, and selling any Collateral
+and, in connection with Collateral Trustee’s exercise of its rights under this Section, an Obligor’s rights under all licenses
+and all franchise agreements inure to Collateral Trustee’s benefit. If, after the acceleration of the Secured Obligations, an Obligor
+receives proceeds of Collateral, such Obligor shall deliver such proceeds to Collateral Trustee, for the benefit of Holder, to be applied
+to the Secured Obligations.
+
+ 
+
+(c) 
+Power
+of Attorney
+. Each Obligor hereby irrevocably appoints Collateral Trustee (and any of Collateral Trustee’s partners, managers,
+officers, agents or employees) as its lawful attorney-in-fact, with full power of substitution, exercisable upon the occurrence and during
+the continuation of an Acceleration Event, to: (a) send requests for verification of Accounts or notify Account Debtors of Collateral
+Trustee’s security interest and Liens in the Collateral; (b) endorse such Obligor’s name on any checks or other forms of
+payment or security; (c) sign such Obligor’s name on any invoice or bill of lading for any Account or drafts against Account Debtors
+schedules and assignments of Accounts, verifications of Accounts, and notices to Account Debtors; (d) settle and adjust disputes and
+claims about the Accounts directly with Account Debtors, for amounts and on terms Holder or Collateral Trustee determine reasonable;
+(e) make, settle, and adjust all claims under such Obligor’s insurance policies; (f) pay, contest or settle any Lien, charge, encumbrance,
+security interest, and adverse claim in or to the Collateral, or any judgment based thereon, or otherwise take any action to terminate
+or discharge the same; (g) transfer the Collateral into the name of Collateral Trustee or a third party as the Code permits; and (h)
+dispose of the Collateral. Each Obligor further hereby appoints Collateral Trustee (and any of Collateral Trustee’s partners, managers,
+officers, agents or employees) as its lawful attorney-in-fact, with full power of substitution, regardless of whether or not an Acceleration
+Event has occurred or is continuing to: (i) sign such Obligor’s name on any documents and other Security Instruments necessary
+to perfect or continue the perfection of, or maintain the priority of, Collateral Trustee’s security interest in the Collateral,
+(ii) take all such actions which such Obligor is required, but fails to do under the covenants and provisions of the Transaction Documents;
+(iii) take any and all such actions as Collateral Trustee may reasonably determine to be necessary or advisable for the purpose of maintaining,
+preserving or protecting the Collateral or any of the rights, remedies, powers or privileges of Collateral Trustee under this Agreement
+or the other Transaction Documents. Collateral Trustee’s foregoing appointment as each Obligor’s attorney in fact, and all
+of Collateral Trustee’s rights and powers, coupled with an interest, are irrevocable until the Discharge Date.
+
+ 
+
+ 
+
+6
+
+ 
+
+ 
+
+ 
+
+ 
+
+(d) 
+Application
+of Payments and Proceeds Upon Acceleration Event
+. If an Acceleration Event has occurred and is continuing, Collateral Trustee shall
+have the right to apply in any order any funds in its possession, whether payments, proceeds realized as the result of any collection
+of Accounts or other disposition of the Collateral, or otherwise, to the Secured Obligations, for the benefit of Holder. Collateral Trustee
+shall pay any surplus to Obligors by credit to the Deposit Account designated by Obligors or as directed by a court of competent jurisdiction.
+Obligors shall remain liable to Collateral Trustee and Holder for any deficiency. If Collateral Trustee, as directed by Holder in Holder’s
+good faith business judgment, directly or indirectly, enters into a deferred payment or other credit transaction with any purchaser at
+any sale of Collateral, Collateral Trustee may, at the direction of Holder, either reduce the Secured Obligations by the principal amount
+of the purchase price or defer the reduction of the Secured Obligations until the actual receipt by Collateral Trustee of cash or immediately
+available funds therefor.
+
+ 
+
+(e) 
+Collateral
+Trustee’s Liability for Collateral
+. So long as Collateral Trustee accords treatment to the Collateral in its possession substantially
+equal to the treatment which it accords its own property, Collateral Trustee shall not be liable or responsible for: (i) the safekeeping
+of the Collateral; (ii) any loss or damage to the Collateral; (iii) any diminution in the value of the Collateral; or (iv) any act or
+default of any carrier, warehouseman, bailee, or other Person. Obligors bear all risk of loss, damage or destruction of the Collateral.
+
+ 
+
+(f) 
+No
+Waiver; Remedies Cumulative
+. Any failure by Holder or Collateral Trustee, at any time or times, to require strict performance by
+each Obligor of any provision of this Agreement or any other Transaction Document shall not waive, affect, or diminish any right of Holder
+or Collateral Trustee thereafter to demand strict performance and compliance herewith or therewith. Secured Parties’ rights and
+remedies under this Agreement and the other Transaction Documents are cumulative. Secured Parties have all rights and remedies provided
+under the Code, by law, or in equity. Any Secured Party’s exercise of one right or remedy is not an election and shall not preclude
+any Secured Party from exercising any other remedy under this Agreement or other remedy available at law or in equity, and any waiver
+of any Acceleration Event is not a continuing waiver. Any delay in exercising any remedy is not a waiver, election, or acquiescence.
+
+Demand Waiver
+. Each Obligor waives presentment, demand, notice of default or dishonor, notice of payment and nonpayment, release,
+compromise, settlement, extension, or renewal of accounts, documents, instruments or chattel paper.
+
+ 
+
+(g) 
+Shares
+.
+Each Obligor recognizes that Collateral Trustee may be unable to effect a public sale of any or all the Shares, by reason of certain
+prohibitions contained in federal securities laws and applicable state securities laws or otherwise, and may be compelled to resort to
+one or more private sales thereof to a restricted group of purchasers which will be obliged to agree, among other things, to acquire
+such securities for their own account for investment and not with a view to the distribution or resale thereof. Each Obligor acknowledges
+and agrees that any such private sale may result in prices and other terms less favorable than if such sale were a public sale and, notwithstanding
+such circumstances, agrees that any such private sale shall be deemed to have been made in a commercially reasonable manner. Collateral
+Trustee shall be under no obligation to delay a sale of any of the Shares for the period of time necessary to permit the issuer thereof
+to register such securities for public sale under federal securities laws or under applicable state securities laws, even if such issuer
+would agree to do so.
+
+ 
+
+ 
+
+7
+
+ 
+
+ 
+
+ 
+
+ 
+
+10. [Reserved]
+
+ 
+
+11. Termination;
+Release of Collateral
+. This Agreement shall remain effective until the payment of Contingent Payments in an amount equal to the Remaining
+Value, as of the applicable date of determination, and all other Secured Obligations then due (other than contingent indemnification
+obligations as to which no claim has been asserted or is known to exist and any other obligations which, by their terms, are to survive
+the termination of this Agreement) (the “
+Discharge Date
+”). On the Discharge Date, this Agreement (except for any provisions
+that expressly survive the termination of this Agreement in accordance with the respective terms) and the security interest granted pursuant
+hereto shall terminate, and Holder shall direct Collateral Trustee to deliver evidence of the release of Collateral. Any security interest
+in any Collateral will be released automatically in connection with a Transfer of the Collateral in a Permitted Transfer or approved
+by Holder in accordance with 
+Section 7(c)
+ hereof, and in each case, otherwise in compliance with this Agreement. Upon written
+request by the Obligors, Holder shall direct Collateral Trustee to deliver evidence of the release of the assets subject to such Permitted
+Transfer or other Transfer approved by Holder in accordance with 
+Section 7(c)
+ hereof. Any such release in accordance with this
+
+Section 11
+ shall be without recourse to or representation or warranty by Collateral Trustee of any kind.
+
+ 
+
+12. Miscellaneous.
+
+ 
+
+(a) 
+Choice
+of Law; Venue; Jury Trial Waiver
+. Except as otherwise expressly provided in any of the Transaction Documents, this Agreement and
+the other Transaction Documents shall be governed by, and construed in accordance with, the laws of the State of New York without regard
+to principles of conflicts of law. Each party hereto hereby submits to the exclusive jurisdiction of the State and Federal courts in
+New York County, City of New York, New York; 
+provided
+, 
+however
+, that nothing in this Agreement shall be deemed to operate
+to preclude Collateral Trustee from bringing suit or taking other legal action in any other jurisdiction to realize on the Collateral
+or any other security for the Secured Obligations, or to enforce a judgment or other court order in favor of Holder or Collateral Trustee.
+Each party hereto expressly submits and consents in advance to such jurisdiction in any action or suit commenced in any such court, and
+each party hereto waives any objection that it may have based upon lack of personal jurisdiction, improper venue, or forum non conveniens
+and hereby consents to the granting of such legal or equitable relief as is deemed appropriate by such court. Each party hereto waives
+personal service of the summons, complaints, and other process issued in such action or suit and agrees that service of such summons,
+complaints, and other process may be made by registered or certified mail addressed to such party at the address set forth in, or subsequently
+provided by such party in accordance with, 
+Section 10
+ and that service so made shall be deemed completed upon the earlier to occur
+of such party’s actual receipt thereof or three (3) Business Days after deposit in the U.S. mails, proper postage prepaid. Each
+party hereto hereby expressly waives any claim to assert that the laws of any other jurisdiction govern this Agreement.
+
+ 
+
+TO
+THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, EACH OF THE PARTIES HERETO EACH WAIVE THEIR RIGHT TO A JURY TRIAL OF ANY CLAIM OR CAUSE
+OF ACTION ARISING OUT OF OR BASED UPON THIS AGREEMENT, THE TRANSACTION DOCUMENTS OR ANY CONTEMPLATED TRANSACTION, INCLUDING CONTRACT,
+TORT, BREACH OF DUTY AND ALL OTHER CLAIMS. THIS WAIVER IS A MATERIAL INDUCEMENT FOR THE PARTIES TO ENTER INTO THIS AGREEMENT. NOTWITHSTANDING
+ANYTHING TO THE CONTRARY CONTAINED IN THIS AGREEMENT OR ANYWHERE ELSE, EACH PARTY HERETO AGREES THAT IT SHALL NOT SEEK FROM ANY OTHER
+PARTY UNDER ANY THEORY OF LIABILITY (INCLUDING ANY THEORY IN TORTS), ANY SPECIAL, INDIRECT, CONSEQUENTIAL OR PUNITIVE DAMAGES. EACH PARTY
+HERETO HAS REVIEWED THIS WAIVER WITH ITS COUNSEL.
+
+ 
+
+This
+
+Section 12(a)
+ shall survive the termination of this Agreement.
+
+ 
+
+(b) 
+Amendments
+in Writing; Waiver; Integration
+. No purported amendment or modification of this Agreement shall be effective except, pursuant to
+an agreement in writing by the parties hereto, provided that Collateral Trustee’s approval shall not be required for any amendment
+or supplement that has the effect solely of (i) adding or maintaining Collateral, securing additional Secured Obligations that are otherwise
+permitted by the terms of this Agreement to be secured by the Collateral or preserving, perfecting or establishing the priority of the
+Liens thereon or the rights of Collateral Trustee therein; (ii) curing any ambiguity, defect or inconsistency; (iii) providing for the
+assumption of the Secured Obligations by any successor or joinder of any new Obligor, as applicable; (iv) making any change that would
+provide any additional rights or benefits to the Secured Parties or make any other change that does not adversely affect the legal rights
+under this Agreement of Collateral Trustee; or (v) to the extent the Collateral Trust Agreement does not require Collateral Trustee’s
+approval to such amendment or modification. Without limiting the generality of the foregoing, no oral promise or statement, nor any action,
+inaction, delay, failure to require performance or course of conduct shall operate as, or evidence, an amendment, supplement or waiver
+or have any other effect on the Secured Obligations or otherwise on the terms and conditions of this Agreement. Any waiver granted shall
+be limited to the specific circumstance expressly described in it, and shall not apply to any subsequent or other circumstance, whether
+similar or dissimilar, or give rise to, or evidence, any obligation or commitment to grant any further waiver. This Agreement represents
+the entire agreement about this subject matter and supersede prior negotiations or agreements. All prior agreements, understandings,
+representations, warranties, and negotiations among the parties about the subject matter of the Transaction Documents merge into the
+Transaction Documents.
+
+ 
+
+ 
+
+8
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c) 
+Notices.
+
+All notices, consents, requests, approvals, demands, or other communication by any party to this Agreement must be in writing and
+shall be deemed to have been validly served, given, or delivered: (i) upon the earlier of actual receipt and three (3) Business Days
+after deposit in the U.S. mail, first class, registered or certified mail return receipt requested, with proper postage prepaid; (ii)
+upon confirmation of receipt, when sent by electronic mail transmission; (iii) one (1) Business Day after deposit with a reputable overnight
+courier with all charges prepaid; or (iv) when delivered, if hand-delivered by messenger, all of which shall be addressed to the party
+to be notified and sent to the address, or email address on the signature page of such party hereto. The parties hereto may change their
+respective mailing or electronic mail addresses by giving the other party written notice thereof in accordance with the terms of this
+
+subsection (c)
+.
+
+ 
+
+(d) 
+Confidentiality
+.
+In handling any confidential information, Holder and Collateral Trustee agree to exercise the same degree of care that it exercises for
+its own proprietary information, but disclosure of information may be made: (i) to its Subsidiaries or Affiliates; (ii) to prospective
+transferees or purchasers of any rights under this Agreement so long as such parties are bound by confidentiality terms consistent in
+all material respects with the terms hereof; (iii) as required by law, regulation, subpoena, or other order and in connection with reporting
+obligations applicable to Holder or Collateral Trustee, including pursuant to the Exchange Act, (iv) to Holder or Collateral Trustee’s
+regulators or as otherwise required in connection with any examination or audit; ( v) as Holder or Collateral Trustee considers reasonably
+appropriate in connection with the exercise of remedies with respect to the Secured Obligations; and (vi) to third-party service providers
+of Holder or Collateral Trustee so long as such service providers are bound by confidentiality terms not more permissive than the terms
+hereof. Confidential information does not include information that is either: (A) in the public domain or in Holder or Collateral Trustee’s
+possession when disclosed to Holder or Collateral Trustee, as applicable, or becomes part of the public domain (other than as a result
+of its disclosure by Holder or Collateral Trustee in violation of this Agreement) after disclosure to Holder or Collateral Trustee, as
+applicable; or (B) disclosed to Holder or Collateral Trustee by a third party, if Holder or Collateral Trustee, as applicable, does not
+know that the third party is prohibited from disclosing the information. The provisions of this paragraph shall survive the termination
+of this Agreement.
+
+ 
+
+(e) 
+Publicity
+.
+Neither party hereto shall publicize or use the other party’s name or logo, or hyperlink to such other parties’ website,
+describe the relationship of the parties or the transaction contemplated by this Agreement, in written and oral presentations, advertising,
+promotional and marketing materials, client lists, public relations materials or on its web site (together, the “
+Publicity Materials
+”)
+without prior written notice to the party that is the subject of the proposed Publicity Materials, together with a draft (or, if Publicity
+Materials are not proposed to be delivered in written form, an outline of the content to be included) so as to provide such subject party
+a reasonable opportunity to review prior to publication, and each party agrees, in connection with any Publicity Materials proposed by
+such party to reasonably consider requested changes or corrections requested by the party that is the subject of such Publicity Materials
+in good faith, and upon request, to provide the final form prior to publication or other dissemination.
+
+ 
+
+(f) 
+Severability
+.
+The invalidity or unenforceability of any provision of this Agreement in any jurisdiction shall not affect the validity or enforceability
+of such provision in any other jurisdiction, or affect any other provision of this Agreement, which shall remain in full force and effect.
+
+ 
+
+(g) 
+Entire
+Agreement; Modification
+. This Agreement constitutes the entire agreement between the parties pertaining to the subject matter contained
+in it and supersedes all prior and contemporaneous agreements, representations, and undertakings of the parties, whether oral or written,
+with respect to such subject matter.
+
+ 
+
+ 
+
+9
+
+ 
+
+ 
+
+ 
+
+ 
+
+(h) 
+Successors
+and Assigns
+. This Agreement binds and is for the benefit of the successors and permitted assigns of each party, provided that no
+Obligor may transfer or assign this Agreement or any rights or obligations under it without the prior written consent of Secured Parties.
+Holder has the right, without the consent of or notice to any Obligor, to sell, transfer, assign, pledge, negotiate, or grant participation
+in all or any part of, or any interest in, Holder’s obligations, rights, and benefits under this Agreement.
+
+ 
+
+(i) 
+No
+Impairment
+. No Obligor shall not by any action including, without limitation, by amending its organizational documents, any reorganization,
+transfer of assets, consolidation, merger, dissolution, issue or sale of securities or any other voluntary action, avoid or seek to avoid
+the observance or performance of any of the terms of this Agreement, but will at all times in good faith assist in the carrying out of
+all such terms and in the taking of all such action as may be necessary or appropriate to protect the rights of Secured Parties hereunder
+against impairment. Without limiting the generality of the foregoing, Obligors will obtain all such authorizations, exemptions or consents
+from any third party or any Governmental Authority as may be necessary to enable Obligors to perform their obligations under this Agreement.
+
+ 
+
+(j) 
+Captions
+.
+The headings used in this Agreement are for convenience only and shall not affect the interpretation of this Agreement.
+
+ 
+
+(k) 
+Construction
+of Agreement
+. The parties mutually acknowledge that they and their attorneys have participated in the preparation and negotiation
+of this Agreement. In cases of uncertainty this Agreement shall be construed without regard to which of the parties caused the uncertainty
+to exist.
+
+ 
+
+(l) 
+Relationship
+.
+The relationship of the parties to this Agreement is determined solely by the provisions of this Agreement. Except to the extent set
+forth herein, the parties do not intend to create any agency, partnership, joint venture, trust, fiduciary or other relationship with
+duties or incidents different from those of parties to an arm’s-length contract.
+
+ 
+
+(m) 
+Third
+Parties
+. Nothing in this Agreement, whether express or implied, is intended to: (a) confer any benefits, rights or remedies under
+or by reason of this Agreement on any persons other than the express parties to it and their respective permitted successors and assigns;
+(b) relieve or discharge the obligation or liability of any person not an express party to this Agreement; or (c) give any person not
+an express party to this Agreement any right of subrogation or action against any party to this Agreement.
+
+ 
+
+(n) 
+Appointment
+of Collateral Trustee
+. Holder hereby appoints Collateral Trustee to act on behalf of Holder as collateral trustee under this
+Agreement and the other Transaction Documents, and to hold and enforce any and all Liens on Collateral granted by any of the
+Obligors to secure any of the Secured Obligations, all in accordance with the terms of the Collateral Trust Agreement. The
+provisions of this 
+subsection (n)
+ are solely for the benefit of Collateral Trustee and Holder, and no Obligor nor any other
+Person shall have any rights as a third party beneficiary of any of the provisions hereof. The Collateral Trustee may resign or be
+removed or replaced, and a successor Collateral Trustee may be appointed in accordance with the terms and subject to the conditions
+of the Collateral Trust Agreement.
+
+ 
+
+(o) 
+Payment
+of Secured Party Expenses
+. Obligors shall pay all Secured Party Expenses within ten (10) Business Days after demand by Holder.
+
+ 
+
+(p) 
+Out-Of-Court
+Dissolution or Wind Down
+. For the avoidance of doubt, and notwithstanding anything to the contrary contained herein or in any Transaction
+Document, in no event shall any out-of-court dissolution or wind down be prohibited.
+
+ 
+
+(q) 
+Counterparts;
+Electronic Execution of Documents
+. This Agreement may be executed in any number of counterparts and by different parties on separate
+counterparts, each of which, when executed and delivered, is an original, and all taken together, constitute one Agreement. The words
+“execution,” “signed,” “signature” and words of like import shall be deemed to include electronic
+signatures or the keeping of records in electronic form, each of which shall be of the same legal effect, validity and enforceability
+as a manually executed signature or the use of a paper-based recordkeeping systems, as the case may be, to the extent and as provided
+for in any applicable law, including, without limitation, any state law based on the Uniform Electronic Transactions Act. Delivery of
+an executed counterpart of a signature page to this Agreement by electronic means including by email delivery of a “.pdf”
+format data file shall be effective as delivery of an original executed counterpart of this Agreement.
+
+ 
+
+[REMAINDER
+of Page Intentionally Left Blank]
+
+ 
+
+ 
+
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+[SIGNATURE
+PAGE TO AMENDED AND RESTATED 
+secured contingent value right
+ AGREEMENT]
+
+ 
+
+IN
+WITNESS WHEREOF, the parties have caused this Agreement to be executed by its officers thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+OBLIGORS:
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Molecular Templates Opco, Inc.
+
+ 
+ 
+
+ 
+
+Address for Notices
+:
+
+Molecular Templates, Inc.
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+9301 Amberglen Blvd, Suite 100
+
+ 
+
+ 
+
+By
+
+ 
+
+/s/
+ Craig Jalbert
+
+ 
+ 
+
+ 
+
+Austin, TX 78729
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Craig
+ Jalbert
+
+ 
+
+ 
+ 
+
+ 
+
+Attention: Chief Executive Officer
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+ 
+
+ 
+
+Email: adam.cutler@mtem.com
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Molecular Templates, Inc.
+
+ 
+ 
+
+ 
+
+With a copy not constituting notice:
+
+MORRIS, NICHOLS, ARHST &
+
+TUNNELL, LLP
+
+ 
+
+ 
+
+By
+
+ 
+
+/s/
+ Craig Jalbert
+
+ 
+ 
+
+ 
+
+1201 North Market Street, 16
+th
+ Floor
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Craig
+ Jalbert
+
+ 
+
+ 
+ 
+
+ 
+
+Wilmington, DE 19801
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+ 
+
+ 
+Attention:
+ 
+
+ 
+
+Tarik J. Haskins
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Eric
+ Schwartz
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Email:
+ 
+
+ 
+
+thaskins@morrisnichols.com
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+eschwartz@morrisnichols.com
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[SIGNATURE
+PAGE TO AMENDED AND RESTATED 
+secured contingent value right AGREEMENT
+]
+
+ 
+
+ 
+COLLATERAL TRUSTEE:
+
+ 
+ 
+
+ 
+
+Notice for Addresses:
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ANKURA TRUST COMPANY, LLC
+
+ 
+ 
+
+ 
+ANKURA TRUST COMPANY, LLC
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+140 Sherman Street, Fourth Floor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Fairfield, CT 06824
+
+ 
+By
+
+ 
+
+/s/ Beth Micena
+
+ 
+ 
+
+ 
+Attention: Beth Micena
+
+ 
+Name:
+
+ 
+Beth Micena
+
+ 
+ 
+
+ 
+Email: Beth.Micena@ankura.com
+
+ 
+Title:
+
+ 
+Managing Director
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+With a copy not constituting notice, to:
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ROPES & GRAY LLP
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+10250 Constellation Boulevard
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Los Angeles, CA 90067
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Attention: Jennifer Harris
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Email: Jennifer.Harris@ropesgray.com
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[SIGNATURE
+PAGE TO AMENDED AND RESTATED 
+secured contingent value right AGREEMENT
+]
+
+  
+
+ 
+
+HOLDER
+:
+
+ 
+ 
+
+ 
+
+Address for Notices:
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+K2 HEALTHVENTURES LLC
+
+ 
+ 
+
+ 
+K2 HEALTHVENTURES LLC
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+855 Boylston Street, 10th Floor
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Boston, MA 02116
+
+ 
+By
+
+ 
+
+/s/ Ben Bang
+
+ 
+ 
+
+ 
+Email: finance@k2hv.com;
+
+ 
+Name:
+
+ 
+Ben Bang
+
+ 
+ 
+
+ 
+parag@k2hv.com; derek@k2hv.com;
+
+ 
+Title:
+
+ 
+General Counsel
+
+ 
+ 
+
+ 
+bbang@k2hv.com
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+With a copy not constituting notice:
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Sidley Austin LLP
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+1001 Page Mill Road, Bldg. 1
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Palo Alto, CA 94304
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Attention: Cynthia Bai
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Email: 
+cbai@sidley.com
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exhibit
+A
+
+Defined
+Terms
+
+ 
+
+As
+used in this Agreement, the following capitalized terms have the following meanings:
+
+ 
+
+“
+Acceleration
+Event
+” has the meaning set forth in 
+Section 8
+.
+
+ 
+
+“
+Account
+”
+means any “account” as defined in the Code with such additions to such term as may hereafter be made, and includes, without
+limitation, all accounts receivable and other sums owing to an Obligor.
+
+ 
+
+“
+Account
+Control Agreement
+” means any control agreement entered into among the depository institution at which an Obligor maintains
+a Deposit Account or the securities intermediary or commodity intermediary at which an Obligor maintains a Securities Account or a Commodity
+Account, one or more Obligors, and Collateral Trustee pursuant to which Collateral Trustee, for the benefit of Secured Parties, obtains
+control (within the meaning of the Code) over such Deposit Account, Securities Account, or Commodity Account.
+
+ 
+
+“
+Account
+Debtor
+” means any “account debtor” as defined in the Code with such additions to such term as may hereafter be
+made.
+
+ 
+
+“
+Affiliate
+”
+means, with respect to any Person, each other Person that owns or controls, directly or indirectly, more than 10% of the Equity Interests
+of the Person, any Person that controls or is controlled by or is under common control with the Person, and each of that Person’s
+senior executive officers, directors, partners and, for any Person that is a limited liability company, that Person’s managers
+and members.
+
+ 
+
+“
+Agreement
+
+has the meaning set forth in the preamble to this Agreement.”
+
+ 
+
+“
+Board
+”
+means, with respect to any Person, the board of directors, board of managers, managers or other similar bodies or authorities performing
+similar governing functions for such Person.
+
+ 
+
+“
+Books
+”
+are all of each applicable Obligor’s books and records including ledgers, federal and state tax returns, records regarding such
+Obligor’s assets or liabilities, the Collateral, business operations or financial condition, and all computer programs or storage
+or any equipment containing such information.
+
+ 
+
+“
+Bridge
+Loan Agreement
+” means that certain Loan and Security Agreement, dated as of the Effective Date, by and among Obligors, K2,
+as Administrative Agent, the lenders party thereto and Collateral Trustee, as amended, restated, supplemented or otherwise modified from
+time to time.
+
+ 
+
+“
+Bridge
+Loan Obligations
+” means the obligations pursuant to the Bridge Loan Agreement.
+
+ 
+
+“
+Business
+Day
+” means any day that is not a Saturday, Sunday or a day on which commercial banks in the State of New York are required
+or permitted to be closed.
+
+ 
+
+“
+Change
+in Control
+” means any of the following (or any combination of the following) whether arising from any single transaction event
+or series of related transactions or events that, individually or in the aggregate, result in: (a) the holders of Parent’s Equity
+Interests who were holders of Equity Interest immediately prior to a given transaction, ceasing to own at least fifty-one percent (51%)
+of the Voting Stock of Parent following such transaction; (b) any “person” or “group” (within the meaning of
+Section 13(d) and 14(d)(2) of the Exchange Act) becoming the “beneficial owner” (as defined in Rule 13d-3 under the Exchange
+Act), directly or indirectly, of a sufficient number of Equity Interests of Parent ordinarily entitled to vote in the election of directors,
+empowering such “person” or “group” to elect a majority of the members of the Board of Parent, who did not have
+such power before such transaction, in each case of 
+clauses (a) and (b)
+, (c) the Transfer of all or substantially all assets of
+Obligors; or (d) Parent ceasing to own and control, free and clear of any Liens (other than Permitted Liens), directly or indirectly,
+all of the Equity Interests in Opco or failing to have the power to direct or cause the direction of the management and policies of Opco.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Claim
+”
+has the meaning set forth in 
+Section 2
+ hereof.
+
+ 
+
+“
+Code
+”
+means the Uniform Commercial Code, as the same may, from time to time, be enacted and in effect in the State of New York; provided, that,
+to the extent that the Code is used to define any term herein or in any Transaction Document and such term is defined differently in
+different Articles or Divisions of the Code, the definition of such term contained in Article or Division 9 shall govern; provided further,
+that in the event that, by reason of mandatory provisions of law, any or all of the attachment, perfection, or priority of, or remedies
+with respect to, Collateral Trustee’s Lien on any Collateral is governed by the Uniform Commercial Code in effect in a jurisdiction
+other than the State of New York, the term “
+Code
+” shall mean the Uniform Commercial Code as enacted and in effect
+in such other jurisdiction solely for purposes of the provisions thereof relating to such attachment, perfection, priority, or remedies
+and for purposes of definitions relating to such provisions.
+
+ 
+
+“
+Collateral
+”
+means any and all properties, rights and assets of each Obligor described on 
+Exhibit B
+ hereto, and any collateral securing the
+Secured Obligations pursuant to any other Transaction Document.
+
+ 
+
+“
+Collateral
+Account
+” means any Deposit Account, Securities Account, or Commodity Account of a Loan Party.
+
+ 
+
+“
+Collateral
+Trust Agreement
+” means that certain Collateral Trust Agreement, dated as of May 21, 2020, by and among Collateral Trustee and
+the other Secured Parties party thereto, as amended the date hereof and as further amended, restated, amended and restated, supplemented
+or modified from time to time.
+
+ 
+
+“
+Collateral
+Trustee
+” has the meaning set forth in the preamble to this Agreement.
+
+ 
+
+“
+Contingent
+Obligation
+” means, for any Person, any direct or indirect liability, contingent or not, of that Person for (a) any indebtedness,
+lease, dividend, letter of credit or other obligation of another such as an obligation, in each case, directly or indirectly guaranteed,
+endorsed, co-made, discounted or sold with recourse by that Person, or for which that Person is directly or indirectly liable; (b) any
+obligations for undrawn letters of credit for the account of that Person; and (c) all obligations from any interest rate, currency or
+commodity swap agreement, interest rate cap or collar agreement, or other agreement or arrangement designated to protect a Person against
+fluctuation in interest rates, currency exchange rates or commodity prices. The amount of a Contingent Obligation is the stated or determined
+amount of the primary obligation for which the Contingent Obligation is made or, if not determinable, the maximum reasonably anticipated
+liability for it determined by the Person in good faith; but the amount may not exceed the maximum of the obligations under any guarantee
+or other support arrangement.
+
+ 
+
+“
+Contingent
+Payment
+” has the meaning set forth on 
+Section 3
+ hereof.
+
+ 
+
+“
+Contingent
+Payment Amount
+” means, with respect to each Contingent Payment Event, the amount specified on 
+Schedule 1
+ corresponding
+to such Contingent Payment Event.
+
+ 
+
+“
+Contingent
+Payment Event
+” means each of the events described on 
+Schedule 1
+ hereto, with respect to any Obligor or any Subsidiary
+thereof.
+
+ 
+
+“
+Contingent
+Value
+” shall mean, collectively, the sum of the Contingent Payments payable as set forth in 
+Section 3
+ hereof.
+
+ 
+
+“
+Copyrights
+”
+means any and all copyright rights, copyright applications, copyright registrations and like protections of a Person in each work of
+authorship and derivative work thereof, whether published or unpublished and whether or not the same also constitutes a trade secret.
+
+ 
+
+“
+Deposit
+Account
+” means any “deposit account” as defined in the Code with such additions to such term as may hereafter be
+made, and includes any checking account, savings account or certificate of deposit.
+
+ 
+
+“
+Discharge
+Date
+” has the meaning set forth in 
+Section 11
+ hereof.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Dollars
+
+,
+”
+“
+dollars
+” or use of the sign “
+$
+” means only lawful money of the United States and not any other
+currency, regardless of whether that currency uses the “$” sign to denote its currency or may be readily converted into lawful
+money of the United States.
+
+ 
+
+“
+Effective
+Date
+” has the meaning set forth in the preamble to this Agreement.
+
+ 
+
+“
+Equipment
+”
+means all “equipment” as defined in the Code with such additions to such term as may hereafter be made, and includes without
+limitation all machinery, fixtures, goods, vehicles (including motor vehicles and trailers), and any interest in any of the foregoing.
+
+ 
+
+“
+Equity
+Interests
+” means, with respect to any Person, any of the shares of capital stock of (or other ownership, membership or profit
+interests in) such Person, any of the warrants, options or other rights for the purchase or acquisition from such Person of shares of
+capital stock of (or other ownership, membership or profit interests in) such Person, any of the securities convertible into or exchangeable
+for shares of capital stock of (or other ownership, membership or profit interests in) such Person or warrants, rights or options for
+the purchase or acquisition from such Person of such shares (or such other interests), and any of the other ownership, membership or
+profit interests in such Person (including partnership, member or trust interests therein), whether voting or nonvoting, and whether
+or not such shares, warrants, options, rights or other interests are outstanding on any date of determination.
+
+ 
+
+“
+ERISA
+”
+means the Employee Retirement Income Security Act of 1974, and its regulations.
+
+ 
+
+“
+Exchange
+Act
+” means the Securities Exchange Act of 1934, as amended.
+
+ 
+
+“
+Foreign
+Subsidiary
+” means a Subsidiary other than a Subsidiary organized under the laws of the United States or any state or territory
+thereof.
+
+ 
+
+“
+GAAP
+”
+means generally accepted accounting principles set forth in the opinions and pronouncements of the Accounting Principles Board of the
+American Institute of Certified Public Accountants and statements and pronouncements of the Financial Accounting Standards Board or in
+such other statements by such other Person as may be approved by a significant segment of the accounting profession, which are applicable
+to the circumstances as of the date of determination, provided, however, that if there occurs after the Effective Date any change in
+GAAP that affects in any respect the calculation of any threshold or other amount in this Agreement, Holder and Obligors shall negotiate
+in good faith amendments to the provisions of this Agreement that relate to the calculation of such covenant or threshold with the intent
+of having the respective positions of Holder and Obligors after such change in GAAP conform as nearly as possible to their respective
+positions as of the Effective Date, and, until any such amendments have been agreed upon, such covenants and thresholds shall be calculated
+as if no such change in GAAP has occurred.
+
+ 
+
+“
+General
+Intangibles
+” means all “general intangibles” as defined in the Code in effect on the Effective Date with such additions
+to such term as may hereafter be made, and includes without limitation, all Intellectual Property, claims, income and other tax refunds,
+security and other deposits, payment intangibles, contract rights, options to purchase or sell real or personal property, rights in all
+litigation presently or hereafter pending (whether in contract, tort or otherwise), insurance policies (including without limitation
+key man, property damage, and business interruption insurance), payments of insurance and rights to payment of any kind.
+
+ 
+
+“
+Governmental
+Approval
+” means any consent, authorization, approval, order, license, franchise, permit, certificate, accreditation, registration,
+filing or notice, of, issued by, from or to, or other act by or in respect of, any Governmental Authority.
+
+ 
+
+“
+Governmental
+Authority
+” means any nation or government, any state or other political subdivision thereof, any agency, authority, instrumentality,
+regulatory body, court, central bank or other entity exercising executive, legislative, judicial, taxing, regulatory or administrative
+functions of or pertaining to government, any securities exchange and any self-regulatory organization.
+
+ 
+
+“
+Holder
+”
+has the meaning set forth in the preamble to this Agreement.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Indebtedness
+”
+means, without duplication, (a) indebtedness for borrowed money or the deferred price of property or services (other than accounts payable
+in the Ordinary Course of Business not more than sixty (60) days past due), (b) any reimbursement and other obligations for surety bonds
+and letters of credit, (c) obligations evidenced by notes, bonds, debentures or similar instruments, (d) capital lease obligations, and
+(e) Contingent Obligations, provided that “Indebtedness” shall not include (x) accrued expenses, deferred rent, deferred
+taxes, deferred compensation or customary obligations under employment agreements, (y) obligations with respect to operating leases which
+have been reclassified as capital leases due to changes in GAAP or (z) Contingent Obligations with respect to operating leases or leases
+of real property in the ordinary course of businesses. Notwithstanding the foregoing, the Indebtedness of any Person shall include the
+Indebtedness of any other entity (including a partnership in which such Person is a general partner) solely to the extent such Person
+is liable therefore as a result of such Persons’ ownership interest in or other relationship with such entity.
+
+ 
+
+“
+Insolvency
+Proceeding
+” means any proceeding by or against any Person under the United States Bankruptcy Code, or any other bankruptcy
+or insolvency law, including assignments for the benefit of creditors, compositions, or proceedings seeking reorganization, arrangement,
+or other similar relief, but, in each case, excluding a dissolution or other winding up transaction duly approved by the Board.
+
+ 
+
+“
+Intellectual
+Property
+” means, with respect to any Obligor (or, as applicable, any of its Subsidiaries), all of such Obligor’s or Subsidiary’s
+right, title, and interest in and to the following:
+
+ 
+
+(a) its
+Copyrights, Trademarks and Patents;
+
+ 
+
+(b) any
+and all trade secrets and trade secret rights, including, without limitation, any rights to unpatented inventions, know-how, operating
+manuals;
+
+ 
+
+(c) any
+and all source code;
+
+ 
+
+(d) any
+and all design rights which may be available to such Person;
+
+ 
+
+(e) any
+and all claims for damages by way of past, present and future infringement of any of the foregoing, with the right, but not the obligation,
+to sue for and collect such damages for said use or infringement of the Intellectual Property rights identified above; and
+
+ 
+
+(f) all
+amendments, renewals and extensions of any of the Copyrights, Trademarks or Patents.
+
+ 
+
+“
+Inventory
+”
+means all “inventory” as defined in the Code in effect on the Effective Date with such additions to such term as may hereafter
+be made.
+
+ 
+
+“
+IP
+Security Agreement
+” means that certain intellectual property security agreement, entered into by each Obligor which is the
+owner or joint owner of Intellectual Property registered with the United States Patent and Trademark Office or United States Copyright
+Office, and Collateral Trustee, as of the Effective Date or from time to time thereafter, as amended, restated, supplemented or otherwise
+modified, from time to time.
+
+ 
+
+“
+Lien
+”
+means a claim, mortgage, deed of trust, levy, charge, pledge, security interest or other encumbrance of any kind, whether voluntarily
+incurred or arising by operation of law or otherwise against any property.
+
+ 
+
+“
+Loan
+Agreement
+” means that certain Loan and Security Agreement, dated as of May 21, 2020, as amended, restated, supplemented or
+otherwise modified through the date hereof.
+
+ 
+
+“
+Loan
+Obligations
+” has the meaning set forth in 
+Section 2
+ hereof.
+
+ 
+
+“
+Loans
+”
+has the meaning set forth in the Loan Agreement.
+
+ 
+
+“
+Material
+Adverse Effect
+” means (a) a material impairment in the perfection or priority of the Lien in the Collateral; or (b) a material
+adverse effect upon: (i) the business, operations, properties, assets or financial condition of the Obligors as a whole; or (ii) the
+ability to enforce any rights or remedies with respect to any Secured Obligations, in each case, as reasonably determined by Holder.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Obligor
+”
+has the meaning set forth in the preamble to this Agreement.
+
+ 
+
+“
+Opco
+”
+has the meaning set forth in the preamble to this Agreement.
+
+ 
+
+“
+Operating
+Documents
+” means, for any Person, such Person’s formation documents, as certified by the Secretary of State (or equivalent
+agency) of such Person’s jurisdiction of formation, organization or incorporation and, (a) if such Person is a corporation, its
+bylaws in current form, (b) if such Person is a limited liability company, its limited liability company agreement or operating agreement
+(or similar agreement), and (c) if such Person is a partnership, its partnership agreement (or similar agreement), each of the foregoing
+with all current amendments, restatements and modifications thereto.
+
+ 
+
+“
+Ordinary
+Course of Business
+” means, in respect of any transaction involving any Person, the ordinary course of such Person’s business
+as conducted by any such Person in accordance with (a) the usual and customary customs and practices in the kind of business in which
+such Person is engaged, and (b) the past practice and operations of such Person, and in each case, undertaken by such Person in good
+faith and not for purposes of evading any covenant or restriction in this Agreement.
+
+ 
+
+“
+Parent
+”
+has the meaning set forth in the preamble to this Agreement.
+
+ 
+
+“
+Patents
+”
+means all patents, patent applications and like protections of a Person including without limitation improvements, divisions, continuations,
+renewals, reissues, extensions and continuations-in-part of the same and all rights therein provided by international treaties or conventions.
+
+ 
+
+“
+Permitted
+Liens
+” means:
+
+ 
+
+(a) Liens
+arising under this Agreement and the other Transaction Documents, including any renewals, extensions and refinancings of the underlying
+obligations with respect thereto to the extent otherwise permitted hereunder;
+
+ 
+
+(b) Liens
+existing on the Effective Date and disclosed in writing to Holder;
+
+ 
+
+(c) Liens
+pursuant to the Bridge Loan Agreement;
+
+ 
+
+(d) Liens
+for taxes, fees, assessments or other government charges or levies, either (i) not yet delinquent or (ii) being contested in good faith
+and for which such Obligor or Subsidiary maintains adequate reserves on its books;
+
+ 
+
+(e) leases
+or subleases of real property granted in the Ordinary Course of Business of such Person, and leases, subleases, non-exclusive licenses
+or sublicenses of personal property (other than Intellectual Property) granted in the Ordinary Course of Business of such Person;
+
+ 
+
+(f) Liens
+of carriers, warehousemen, suppliers, or other Persons that are possessory in nature arising in the Ordinary Course of Business so long
+as such Liens attach only to Inventory, securing liabilities and which are not delinquent or remain payable without penalty or which
+are being contested in good faith and by appropriate proceedings which proceedings have the effect of preventing the forfeiture or sale
+of the property subject thereto;
+
+ 
+
+(g) Liens
+to secure payment of workers’ compensation, employment insurance, old-age pensions, social security and other like obligations
+incurred in the Ordinary Course of Business (other than Liens imposed by ERISA);
+
+ 
+
+(h) deposits
+or pledges of cash to secure bids, tenders, contracts (other than contracts for the payment of money), leases, surety and appeal bonds
+and other obligations of a like nature arising in the Ordinary Course of Business, in an aggregate amount not exceeding $50,000 at any
+time;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(i) Liens
+arising from attachments or judgments, orders, or decrees in circumstances not constituting an Acceleration Event;
+
+ 
+
+(j) Liens
+in favor of other financial institutions arising in connection with a Deposit Account or Securities Account of an Obligor or Subsidiary
+thereof held at such institutions, provided that Collateral Trustee has a perfected security interest in such Deposit Account, or the
+securities maintained therein and Collateral Trustee has received an Account Control Agreement with respect thereto to the extent required
+pursuant to 
+Section 5
+ of this Agreement;
+
+ 
+
+(k) servitudes,
+easements, rights of way, restrictions and other similar encumbrances on real property imposed by applicable laws and encumbrances consisting
+of zoning or building restrictions, easements, licenses, restrictions on the use of property or minor imperfections in title thereto
+which, in the aggregate, are not material, and which do not in any case materially detract from the value of the property subject thereto
+or interfere with the ordinary conduct of the business of any of the Obligors;
+
+ 
+
+(l) licenses
+of Intellectual Property which constitute a Permitted Transfer; and
+
+ 
+
+(m) Liens
+in connection with (i) Permitted Transfers and (ii) Liens on the unearned premium payments and related insurance proceeds securing financed
+insurance premiums, in the Ordinary Course of Business;
+
+ 
+
+(n) Liens
+arising from precautionary financing statement filings regarding leases;
+
+ 
+
+(o) Liens
+arising from licenses constituting a “Permitted Transfer”;
+
+ 
+
+(p) Liens
+incurred in the extension, renewal or refinancing of the indebtedness secured by Liens described herein, but any extension, renewal or
+replacement Lien must be limited to the property encumbered by the existing Lien and the principal amount of the indebtedness may not
+increase (other than in connection with the capitalization of interest, fees or expenses); and
+
+ 
+
+(q) Liens
+junior to the security interests granted hereunder so long as such Liens are reasonably acceptable to Holder.
+
+ 
+
+“
+Permitted
+Transfers
+” means
+
+ 
+
+(a) sales
+of Inventory by an Obligor or any of its Subsidiaries in the Ordinary Course of Business;
+
+ 
+
+(b) (i)
+non-exclusive licenses and similar arrangements for the use of Intellectual Property of an Obligor or any of its Subsidiaries in the
+Ordinary Course of Business, and (ii) exclusive licenses existing as of the Effective Date and disclosed in writing to Holder or as approved
+by Holder in writing;
+
+ 
+
+(c) dispositions
+of worn-out, obsolete or surplus Equipment in the Ordinary Course of Business that is, in the reasonable judgment of such Obligor or
+Subsidiary, no longer economically practicable to maintain or useful;
+
+ 
+
+(d) Transfers
+of receivables in the Ordinary Course of Businesses in connection with the compromise, settlement or collection thereof;
+
+ 
+
+(e) Transfers
+consisting of the granting of Permitted Liens;
+
+ 
+
+(f) the
+use or transfer of money or cash equivalents for the payment of expenses in the Ordinary Course of Business and in a manner that is not
+prohibited by the Transaction Documents, provided that payments dividends, cash redemptions and other payments of cash in respect of
+Equity Interests of Parent shall be limited to payments of cash in lieu of fractional shares and other de minimis payments not in excess
+of $50,000 per fiscal year in the aggregate;
+
+ 
+
+(g) of
+Accounts in connection with the compromise, settlement or collection thereof;
+
+ 
+
+(h) resulting
+from casualty events;
+
+ 
+
+(i) Transfers
+described on a Schedule attached hereto; and
+
+ 
+
+(j) Transfers
+not otherwise permitted hereunder so long as the fair market value of any such Transfers does not exceed 10,000 in the aggregate in any
+fiscal year of Parent.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Person
+”
+means any individual, sole proprietorship, partnership, limited liability company, joint venture, company, trust, unincorporated organization,
+association, corporation, institution, public benefit corporation, firm, joint stock company, estate, entity or government agency.
+
+ 
+
+“
+Released
+Party
+” has the meaning set forth in 
+Section 2
+ hereof.
+
+ 
+
+“
+Remaining
+Value
+” means the amount determined as set forth on 
+Schedule 1
+ hereto.
+
+ 
+
+“
+Requirement
+of Law
+” means as to any Person, the organizational or governing documents of such Person, and any law (statutory or common),
+treaty, rule or regulation or determination of an arbitrator or a court or other Governmental Authority, in each case applicable to or
+binding upon such Person or any of its property or to which such Person or any of its property is subject.
+
+ 
+
+“
+Secured
+Obligation
+” means the obligations of the Obligors to pay the Contingent Value, and any other amount due or other obligations
+hereunder, including, without limitation, any amounts or expenses accruing after Insolvency Proceedings begin (whether or not allowed),
+and any debts, liabilities, which shall be treated as secured or administrative expenses in the Insolvency Proceedings to the extent
+permitted by applicable law.
+
+ 
+
+“
+Secured
+Party
+” means Holder and Collateral Trustee, and each of their respective successors or assigns.
+
+ 
+
+“
+Secured
+Party Expenses
+” means all reasonable and documented fees, costs, and expenses (including reasonable and documented attorneys’
+fees and expenses) of Secured Parties for preparing, amending, negotiating, administering, defending and enforcing this Agreement, the
+Secured Obligations (including, without limitation, those incurred in connection with appeals or Insolvency Proceedings) or otherwise
+incurred with respect to an Obligor, including all reasonable and documented costs, expenses and other amounts required to be paid by
+Holder in accordance with the Collateral Trust Agreement.
+
+ 
+
+“
+Securities
+Account
+” means any “securities account” as defined in the Code with such additions to such term as may hereafter
+be made.
+
+ 
+
+“
+Security
+Instrument
+” means any security agreement, assignment, pledge agreement, financing or other similar statement or notice, continuation
+statement, other agreement or instrument, or any amendment or supplement to any thereof, creating, governing or providing for, evidencing
+or perfecting any security interest or Lien.
+
+ 
+
+“
+Shares
+”
+means all of the issued and outstanding Equity Interests owned or held of record by an Obligor in each of its Subsidiaries or any other
+Person.
+
+ 
+
+“
+Subsidiary
+”
+means, with respect to any Person, any corporation, partnership, limited liability company or joint venture in which (i) any general
+partnership interest or (ii) more than fifty percent (50%) of the stock, limited liability company interest, joint venture interest or
+other Equity Interest which by the terms thereof has the ordinary voting power to elect the Board of that Person, at the time as of which
+any determination is being made, is owned or controlled by such Person, directly or indirectly.
+
+ 
+
+“
+Surviving
+Obligations
+” shall mean any obligations of which by the express terms of the Transaction Documents survive the termination
+of the Loan Agreement.
+
+ 
+
+“
+Transaction
+Documents
+” means this Agreement, and any schedules, exhibits, certificates, notices, and any other documents related to this
+Agreement, the Collateral Trust Agreement, the Account Control Agreements, the IP Security Agreement, and any other present or future
+agreement by an Obligor with or for the benefit of Collateral Trustee or Holder in connection with this Agreement, in each case, as amended,
+restated, amended and restated, supplemented or otherwise modified from time to time.
+
+ 
+
+“
+Transfer
+”
+means any conveyance, sale, lease, transfer, assignment, or other disposition by any Obligor or Subsidiary thereof.
+
+ 
+
+“
+Voting
+Stock
+” means, with respect to any Person, all classes of Equity Interests issued by such Person the holders of which are ordinarily,
+in the absence of contingencies, entitled to vote for the election of directors or managers (or Persons performing similar functions)
+of such Person, even though the right so to vote has been suspended by the happening of such a contingency.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EXHIBIT
+B
+
+COLLATERAL
+DESCRIPTION
+
+ 
+
+The
+Collateral consists of all of each Obligor’s right, title and interest in and to the following personal property wherever located,
+whether now owned or existing or hereafter acquired, created or arising:
+
+ 
+
+All
+goods, Accounts (including health-care receivables), Equipment, Inventory, contract rights or rights to payment of money, leases, license
+agreements, franchise agreements, General Intangibles, commercial tort claims, documents, instruments (including any promissory notes),
+chattel paper (whether tangible or electronic), cash, deposit accounts, fixtures, letters of credit rights (whether or not the letter
+of credit is evidenced by a writing), securities, and all other investment property, supporting obligations, and financial assets, whether
+now owned or hereafter acquired, wherever located; and all such Obligor’s Books relating to the foregoing, and any and all claims,
+rights and interests in any of the above and all substitutions for, additions, attachments, accessories, accessions and improvements
+to and replacements, products, proceeds (both cash and non-cash) and insurance proceeds of any or all of the foregoing.
+
+ 
+
+Notwithstanding
+the foregoing, the Collateral does not include any Collateral Accounts used exclusively to maintain escrowed funds, funds held in trust
+for a third Person, or cash collateral or similar deposits subject to a Permitted Lien.

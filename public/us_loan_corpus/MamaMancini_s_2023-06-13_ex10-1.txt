@@ -1,0 +1,1988 @@
+EX-10.1
+
+3
+
+ex10-1.htm
+
+ 
+
+ 
+
+Exhibit
+10.1
+
+ 
+
+ 
+
+ 
+
+M&T
+ Bank
+
+ 
+
+ 
+
+ 
+
+AMENDED
+AND RESTATED REVOLVING LINE NOTE
+
+New
+Jersey
+
+ 
+
+ 
+
+ 
+
+October
+ 26, 2022
+
+ 
+
+$
+ 5,500,000.00
+
+ 
+
+ 
+
+BORROWER:
+MAMAMANCINI’S HOLDINGS, INC., 
+a corporation organized under the laws of the State of Nevada, having an address at 355 Murray
+Hill Parkway, Suite 102, East Rutherford, New Jersey, 07073, and 
+T&L ACQUISITION CORP,
+ a corporation organized under the laws
+of the State of Nevada, having an address at 355 Murray Hill Parkway, Suite 102, East Rutherford, New Jersey, 07073.
+
+ 
+
+ 
+
+BANK:
+
+ 
+
+M&T BANK, a New York banking corporation with its
+ banking offices at One M&T Plaza, Buffalo, New York 14203, Attention: Office of the General Counsel
+
+ 
+
+Promise
+to Pay
+. For value received, and intending to be legally bound, Borrower promises to pay to the order of the Bank, the principal sum
+of Five Million Five Hundred Thousand and 00/100 Dollars ($5,500,000.00) (the “Maximum Principal Amount”) or the outstanding
+principal amount of this Note (the “Outstanding Principal Amount”), if less; plus interest as agreed below and all fees and
+costs (including without limitation attorneys’ fees and disbursements, whether for internal or outside counsel) the Bank incurs
+in order to administer, service or modify the credit facility evidenced by this Note, to collect any amount due under this Note, to negotiate
+or document a workout or restructuring, or to preserve its rights or realize upon any guaranty or other security for the payment of this
+Note (“Expenses”).
+
+ 
+
+Reference
+is hereby made to that certain Amended and Restated Credit Agreement dated as of the date hereof, as amended from time to time (the “Credit
+Agreement”), between Borrower and the Bank for additional terms and conditions applicable to this Note.
+
+ 
+
+Authorized
+Representatives.
+ This Note is issued by Borrower to the Bank in connection with a certain line of credit or loan limit made available
+by the Bank to Borrower (the “Credit”). The Bank may make any loan or advance pursuant to the Credit (collectively, “Loan(s)”)
+in reliance upon any oral, telephonic, written, teletransmitted or other request (the “Request(s)”) that e Bank in good faith
+believes to be valid and to have been made by Borrower or on behalf of Borrower by 
+Steven R. Burns, EVP
+ (include name(s) and title(s),
+as appropriate) or any other officer, employee or representative of Borrower who is authorize or designated as a signer of loan documents
+under the provisions of Borrower’s most recent resolutions or similar documents on file with the Bank (each an “Authorized
+Person”). Notwithstanding that individual names may have been provided to the Bank, the Bank shall be permitted at any time to
+rely solely on an individual’s title to ascertain whether that individual is an Authorized Person. The Bank may act on the Request
+of any Authorized Person until the Bank shall have received from Borrower, and had a reasonable time to act on, written notice revoking
+the authority of such Authorized Person. Borrower acknowledges that the transmission between Borrower and Bank of any Request or other
+instructions with respect to the Credit involves the possibility of errors, omissions, misinterpretations, fraud and mistakes, and agrees
+to adopt such internal measures and operational procedures as may be necessary to prevent such occurrences. By reason thereof, Borrower
+hereby assumes all risk of loss and responsibility for, and releases and discharges the Bank from any and all responsibility or liability
+for, and agrees to indemnify, reimburse on demand and hold Bank harmless from, any and all claims, actions, damages, losses, liability
+and expenses by reason of, arising out of, or in any way connected with or related to: (i) Bank’s accepting, relying on and acting
+upon any Request or other instructions with respect to the Credit; or (ii) any such error, omission, misinterpretation, fraud or mistake,
+provided such error, omission, misinterpretation, fraud or mistake is not directly caused by the Bank’s gross negligence or willful
+misconduct. The Bank shall incur no liability to Borrower or to any other person as a direct or indirect result of making any Loan pursuant
+to this paragraph.
+
+ 
+
+Requests
+for Advances.
+ Any Request for a Loan hereunder shall be limited in amount, such that the sum of (i) the principal amount of such
+Request; (ii) the Outstanding Principal Amount under this Note; and (iii) the aggregate face amounts of (or, if greater, Borrower’s
+aggregate reimbursement obligations to the Bank (or any of its affiliates) in connection with) any letters of credit issued by the Bank
+(or any of its affiliates) at the request (or for the benefit) of Borrower, pursuant to this Credit, which aggregate letter of credit
+face amounts shall not at any time exceed Three Hundred Fifty Thousand and 00/100 Dollars ($350,000.00); does not exceed the Maximum
+Principal Amount under this Note. Notwithstanding the above, the Bank shall have the sole and absolute discretion whether to make any
+Loan (or any portion of any Loan) requested by Borrower, regardless of any general availability under the Maximum Principal Amount.
+
+ 
+
+Revolving
+Credit.
+ This Note evidences a revolving Credit. Subject to all applicable provisions in this Note and in any and all other agreements
+between Borrower and the Bank related hereto, Borrower may borrow, pay, prepay and reborrow hereunder at any time prior to the Maturity
+Date. Notwithstanding that, from time to time, there may be no amounts outstanding respecting this Note, this Note shall continue in
+full force and effect until the later of(x) the date that all obligations and liabilities evidenced by this Note are paid in full and
+the Credit evidenced by this Note has been terminated by the Bank, or(y) the Maturity Date.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Interest.
+
+The Outstanding Principal Amount of this Note, as may fluctuate from time to time based on the disbursement of Loans and any repayments,
+shall earn interest calculated on the basis of a 360-day year for the actual number of days of each year 
+(365
+ or 366), from and
+including the date the proceeds of any Loans are disbursed to, but not including, the date all amounts hereunder are paid in full, at
+a rate per year which shall be:
+
+ 
+
+the
+rate per annum based on the Senior Funded Debt/EBITDA Ratio (as defined in the Credit Agreement) established with respect to the Borrower
+as of the date of any advance under the Loan as follows: if the Senior Funded Debt/EBITDA ratio is: (i) greater than 2.25, 3.87 percentage
+point(s) above the applicable Variable Loan Rate (as defined in the attached Variable Rate Rider); (ii) greater than 1.50 but less than
+or equal to 2.25, 3.37 percentage points the applicable Variable Loan rate; or (iii) less than or equal to 1.50, 2.87 percentage points
+above the applicable Variable Loan Rate; provided that in all events in the preceding clauses (i), (ii) and (iii), the rate established
+shall not be less than the recited percentage point margin over 0.00% (the “Index Floor”). See attached Variable Rate Rider,
+the terms of which are incorporated herein by reference, for definitions and additional provisions.
+
+ 
+
+If
+no rate is specified above, interest shall accrue at the Maximum Legal Rate (defined below).
+
+ 
+
+Maxim
+um Legal Rate.
+ It is the intent of the Bank and of Borrower that in no event shall interest be payable at a rate in excess of the
+maximum rate permitted by applicable law (the “Maximum Legal Rate”). Solely to the extent necessary to prevent interest under
+this Note from exceeding the Maximum Legal Rate, Borrower agrees that any amount that would be treated as excessive under a final judicial
+interpretation of applicable law shall be deemed to have been a mistake and automatically canceled, and, if received by the Bank, shall
+be refunded to Borrower, without interest.
+
+ 
+
+Repayment
+of Principal and Interest.
+ The Maturity Date of this Note is June 30, 2024.
+
+ 
+
+The
+Borrower shall pay the entire Outstanding Principal Amount on the Maturity Date. In addition, until all outstanding Principal is paid
+in full, Borrower shall make payments of all accrued and unpaid interest in amounts that will vary on the 
+first
+ day of each month.
+
+ 
+
+Payments.
+
+Payments shall be made in immediately available United States funds at any banking office of the Bank.
+
+ 
+
+Preauthorized
+Transfers from Deposit Account.
+ If a deposit account number is provided in the following blank, Borrower hereby authorizes the Bank
+to debit Borrower’s deposit account #9873691605 with the Bank automatically for any amount which becomes due under this Note.
+
+ 
+
+Interest
+Accrual; Application of Payments.
+ Interest will continue to accrue on the Outstanding Principal Amount until the Outstanding Principal
+Amount is paid in full. In connection with any daily adjusting interest rate, payment invoices may reflect estimated interest accruals
+for a portion of each billing period (to facilitate timely distribution of invoices in advance of each payment date), followed by appropriate
+interest accrual adjustments reflected in the invoice for the succeeding billing period. All installment payments (excluding voluntary
+prepayments of principal) will be applied as of the date each payment is received and processed. Payments may be applied in any order
+in the sole discretion of the Bank, but, prior to demand for payment in full, may be applied chronologically (i.e., oldest invoice first)
+to unpaid amounts due and owing, in the following order: first to accrued interest, then to principal, then to late charges and other
+fees, and then to all other Expenses.
+
+ 
+
+Modification
+Fees.
+ Concurrently with its execution hereof, Borrower shall pay to the Bank i) a Modification Fee in the sum of$13,750.00, and ii)
+a Waiver Fee in the sum of$5,000.00.
+
+ 
+
+Unused
+Line Fee.
+ As of the first day of each fiscal quarter of the Borrower during the term hereof, Borrower shall pay to the Bank an amount
+equal to the then unused portion of the line of credit, i.e., the Maximum Principal Amount minus the Outstanding Principal Amount as
+of such date, multiplied by two hundred fifty thousandths of one percent (.250%).
+
+ 
+
+Late
+Charge.
+ If Borrower fails to pay, within five (5) days of its due date, any amount due and owing pursuant to this Note or any other
+agreement executed and delivered to the Bank in connection with this Note, Borrower shall immediately pay to the Bank a late charge equal
+to the greatest of (a) $50.00, (b) five percent (5%) of the delinquent amount, or (c) the Bank’s then current late charge as announced
+by the Bank from time to time.
+
+ 
+
+Default
+Rate.
+ If Borrower fails to make any payment when due under this Note, the interest rate on the Outstanding Principal Amount shall
+immediately and automatically increase to five (5) percentage points above the otherwise applicable rate per year (“Default Rate”),
+and any judgment entered hereon or otherwise in connection with any suit to collect amounts due hereunder shall bear interest at such
+Default Rate.
+
+ 
+
+Increased
+Costs.
+ If the Bank shall determine that, due to either (a) the introduction of any change in (or in the interpretation of) any requirement
+of law or (b) compliance with any guideline or request from any central bank or other governmental or regulatory authority (whether or
+not having the force of law), there shall be any increase in the cost to the Bank of agreeing to make or making, funding or maintaining
+any loans hereunder, then Borrower shall be liable for, and shall from time to time, upon demand therefor by the Bank, pay to the Bank
+such additional amounts as are sufficient to compensate the Bank for such increased costs.
+
+ 
+
+Financial
+and Other Information.
+ Until the Credit evidenced by this Note has been terminated by the Bank, Borrower shall cause to be delivered
+to the Bank, each in form, content and number of copies satisfactory to the Bank, the financial data and other information required under
+the Credit Agreement.
+
+ 
+
+Right
+of Setoff.
+ The Bank shall have the right to set off against the amounts owing under this Note any property held in a deposit or other
+account with the Bank or any of its affiliates or otherwise owing by the Bank or any of its affiliates in any capacity to Borrower or
+any guarantor or endorser of this Note. Such set-off shall be deemed to have been exercised immediately at the time the Bank or such
+affiliate elects to do so.
+
+ 
+
+Bank
+Records Conclusive.
+ The Bank shall set forth on a schedule attached to this Note or maintained on the Bank’s loan booking systems,
+the date and original principal amount of each Loan and the date and amount of each payment to be applied to the Outstanding Principal
+Amount of this Note. The Outstanding Principal Amount set forth on any such schedule shall be presumptive evidence of the Outstanding
+Principal Amount of this Note and of all Loans. No failure by the Bank to make, and no error by the Bank in making, any annotation on
+any such schedule shall affect Borrower’s obligation to pay the principal and interest of each Loan or any other obligation of
+Borrower to the Bank pursuant to this Note.
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+Purpose.
+
+Borrower certifies (a) that no Loan will be used to purchase margin stock except with the Bank’s express prior written consent
+for each such purchase and (b) that all Loans shall be used for a business purpose, and not for any personal, family or household purpose.
+
+ 
+
+Authorization.
+
+Borrower, if a corporation, partnership, limited liability company, trust or other entity, represents that it is duly organized and
+in good standing or duly constituted in the state of its organization and is duly authorized to do business in all jurisdictions material
+to the conduct of its business; that the execution, delivery and performance of this Note have been duly authorized by all necessary
+regulatory and corporate or partnership action or by its governing instrument; that this Note has been duly executed by an authorized
+officer, member, partner or trustee and constitutes a binding obligation enforceable against Borrower and not in violation of any law,
+court order or agreement by which Borrower is bound; and that Borrower’s performance is not threatened by any pending or threatened
+litigation.
+
+ 
+
+USA
+PATRIOT Act Notice.
+ Bank hereby notifies Borrower that pursuant to the requirements of the USA PATRIOT Act (“Patriot Act”),
+it is required to obtain, verify and record information that identifies Borrower, which information includes the name and address of
+Borrower and other information that will allow Bank to identify Borrower in accordance with the Patriot Act. Borrower agrees to, promptly
+following a request by Bank, provide all such other documentation and information that Bank requests in order to comply with its ongoing
+obligations under applicable “know your customer” and anti-money laundering rules and regulations, including the Patriot
+Act.
+
+ 
+
+Miscellaneous.
+
+This Note, together with any related loan and security agreements, contains the entire agreement between the Bank and Borrower with
+respect to each Loan, and supersedes every course of dealing, other conduct, oral agreement and representation previously made by the
+Bank. All rights and remedies of the Bank under applicable law and this Note are cumulative and not exclusive. No single, partial or
+delayed exercise by the Bank of any right or remedy shall preclude the subsequent exercise by the Bank at any time of any right or remedy
+of the Bank without notice. No waiver or amendment of any provision of this Note shall be effective unless made specifically in writing
+by the Bank. No course of dealing or other conduct, no oral agreement or representation made by the Bank, and no usage of trade, shall
+operate as a waiver of any right or remedy of the Bank. No waiver of any right or remedy of the Bank shall be effective unless made specifically
+in writing by the Bank. Borrower agrees that in any legal proceeding, a copy of this Note kept in the Bank’s course of business
+may be admitted into evidence as an original. This Note is a binding obligation enforceable against Borrower and its successors and assigns
+and shall inure to the benefit of the Bank and its successors and assigns. If a court deems any provision of this Note invalid, the remainder
+of the Note shall remain in effect. Section headings are for convenience only. Singular number includes plural and neuter gender includes
+masculine and feminine as appropriate.
+
+ 
+
+Notices.
+
+Any demand or notice hereunder or under any applicable law pertaining hereto shall be in writing and duly given if delivered to Borrower
+(at its address on the Bank’s records) or to the Bank (at the address on page one and separately to the Bank officer responsible
+for Borrower’s relationship with the Bank). Such notice or demand shall be deemed sufficiently given for all purposes when delivered
+(i) by personal delivery and shall be deemed effective when delivered, or (ii) by mail or courier and shall be deemed effective three
+(3) business days after deposit in an official depository maintained by the United States Post Office for the collection of mail or one
+
+(1) 
+business day after delivery to a nationally recognized overnight courier service (e.g., Federal Express). Notice by e-mail
+is not valid notice under this or any other agreement between Borrower and the Bank.
+
+ 
+
+Joint
+and Several.
+ If there is more than one Borrower, each of them shall be jointly and severally liable for all amounts which become
+due under this Note and the term “Borrower” shall include each as well as all of them.
+
+ 
+
+Governing
+Law; Jurisdiction.
+ This Note has been delivered to and accepted by the Bank and will be deemed to be made in the State of New Jersey.
+Except as otherwise provided under federal law, this Note will be interpreted in accordance with the laws of the State of New Jersey
+excluding its conflict of laws rules. 
+BORROWER HEREBY IRREVOCABLY CONSENTS TO THE EXCLUSIVE JURISDICTION OF ANY STATE OR FEDERAL COURT
+IN THE STATE OF NEW JERSEY IN A COUNTY OR JUDICIAL DISTRICT WHERE THE BANK MAINTAINS A BRANCH AND CONSENTS THAT THE BANK MAY EFFECT ANY
+SERVICE OF PROCESS IN THE MANNER AND AT BORROWER’S ADDRESS SET FORTH ABOVE FOR PROVIDING NOTICE OR DEMAND; PROVIDED THAT NOTHING
+CONTAINED IN THIS NOTE WILL PREVENT THE BANK FROM BRINGING ANY ACTION, ENFORCING ANY AWARD OR JUDGMENT OR EXERCISING ANY RIGHTS AGAINST
+BORROWER INDIVIDUALLY, AGAINST ANY SECURITY OR AGAINST ANY PROPERTY OF BORROWER WITHIN ANY OTHER COUNTY, STATE OR OTHER FOREIGN OR DOMESTIC
+JURISDICTION. 
+Borrower acknowledges and agrees that the venue provided above is the most convenient forum for both the Bank and Borrower.
+Borrower waives any objection to venue and any objection based on a more convenient forum in any action instituted under this Note.
+
+ 
+
+Waiver
+of Jury Trial. BORROWER AND THE BANK HEREBY KNOWINGLY, VOLUNTARILY, AND INTENTIONALLY WAIVE ANY RIGHT TO TRIAL BY JURY BORROWER AND THE
+BANK MAY HAVE IN ANY ACTION OR PROCEEDING, IN LAW OR IN EQUITY, IN CONNECTION WITH THIS NOTE OR THE TRANSACTIONS RELATED HERETO. BORROWER
+REPRESENTS AND WARRANTS THAT NO REPRESENTATIVE OR AGENT OF THE BANK HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT THE BANK WILL NOT,
+IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THIS JURY TRIAL WAIVER. BORROWER ACKNOWLEDGES THAT THE BANK HAS BEEN INDUCED TO ENTER INTO
+THIS NOTE BY, AMONG OTHER THINGS, THE PROVISIONS OF THIS SECTION.
+
+ 
+
+Amended
+and Restated Note.
+ Borrower acknowledges, agrees and understands that this Note is given in replacement of and in substitution for,
+but not in payment of, a prior note dated on or about January 27, 2020 in the original maximum principal amount of$4,000,000.00, given
+by Borrower in favor of the Bank (or its predecessor-in-interest), as the same may have been amended or modified from time to time (“Prior
+Note”), and further, that: (a) the obligations of Borrower as evidenced by the Prior Note shall continue in full force and effect,
+as amended and restated by this Note, all of such obligations being hereby ratified and confirmed by Borrower; (b) any and all liens,
+pledges, assignments and security interests securing Borrower’s obligations under the Prior Note shall continue in full force and
+effect, are hereby ratified and confirmed by Borrower, and are hereby acknowledged by Borrower to secure, among other things, all of
+Borrower’s obligations to the Bank under this Note, with the same priority, operation and effect as that relating to the obligations
+under the Prior Note; and (c) nothing herein contained shall be construed to extinguish, release, or discharge, or constitute, create,
+or effect a novation of, or an agreement to extinguish, the obligations of Borrower with respect to the indebtedness originally described
+in the Prior Note or any of the liens, pledges, assignments and security interests securing such obligations.
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+Acknowledgment.
+
+Borrower acknowledges that it has read and understands all the provisions of this Note, including the 
+Governing Law, Jurisdiction
+and Waiver of Jury Trial, 
+and has been advised by counsel as necessary or appropriate.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ MAMAMANCINI’s HOLDINGS, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BY:
+
+ 
+
+/s/
+ Steven Burns
+
+ 
+
+ 
+
+Signature
+ of Witness
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Steven
+ Burns
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Executive
+ Vice President
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Typed
+ Name of Witness
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ T&L ACQUISITION CORP.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BY:
+ Mamamancini’s Holdings, Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Steven Burns
+
+ 
+
+ 
+
+Signature
+ of Witness
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Steven
+ Burns
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Executive
+ Vice President
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Typed
+ Name of Witness
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ACKNOWLEDGMENT
+
+ 
+
+STATE
+OF __________________ )
+
+:SS.
+
+COUNTY
+OF ________________ )
+
+ 
+
+On
+the ________ day of ___________ in the year 2022, before me, the undersigned, a Notary Public in and for said State, personally
+appeared __________________________ personally known to me or proved to me on the basis of satisfactory evidence to be the
+individual(s) whose name(s) is (are) subscribed to the within instrument and acknowledged to me that he/she/they executed the same
+in his/her/their capacity(ies), and that by hls/her/their signature(s) on the instrument, the individual(s), or the person upon
+behalf of which the individual(s) acted, executed the instrument.
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Notary
+ Public
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+FOR BANK USE 
+ONLY
+
+ 
+
+ 
+
+Authorization 
+Confirmed:
+ -------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+Credit
+ 
+NC
+
+ 
+
+#
+
+ 
+
+ 
+
+ 
+
+Off
+ Ck
+
+ 
+
+#
+
+ 
+
+ 
+
+ 
+
+Payoff
+ Obligation
+
+ 
+
+#
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$
+
+ 
+
+ 
+
+ 
+
+Note]
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Signature
+Page to Amended and Restated Revolving Line] 
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+M&T
+ Bank
+
+ 
+
+ 
+
+ 
+
+VARIABLE
+RATE RIDER
+
+(1-Month
+Term SOFR, Adjusting Daily)
+
+ 
+
+Borrower:
+
+MAMAMANCINl’S HOLDINGS, INC., 
+a corporation organized under the laws of the State of Nevada, and 
+T&L ACQUISITION
+CORP, 
+a corporation organized under the laws of the State of Nevada, each having an address at 355 Murray Hill Parkway, Suite 102,
+East Rutherford, New Jersey, 07073.
+
+ 
+
+Promissory
+Note Original/Maximum Principal Amount:
+
+ 
+
+$5,500,000.00.
+Promissory Note Date: October 26, 2022
+
+ 
+
+DEFINITIONS.
+
+The above-referenced Promissory Note is referred to herein as the “Note” and all references to the “Note”
+shall be deemed to include the Note and this Rider. As used in the Note and this Rider, each capitalized term shall have the meaning
+specified in the Note, and the following terms shall have the indicated meanings:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a.
+
+ 
+
+“Base
+ Rate” 
+shall mean the rate per annum equal to the greater of (i) two (2) percentage points above the rate of interest announced
+ by the Bank each day as its prime rate of interest (“Prime Rate”), or (ii) 3.25% (the “Base Rate Floor”).
+
+ 
+
+ 
+
+ 
+
+ 
+
+b.
+
+ 
+
+“Business
+ Day”
+ shall mean any day other than Saturday, Sunday or other day on which commercial banking institutions in New York,
+ New York are authorized or required by law or other governmental action to remain closed for business.
+
+ 
+
+ 
+
+ 
+
+ 
+
+c.
+
+ 
+
+“CME”
+ 
+shall mean CME Group Benchmark Administration Ltd.
+
+ 
+
+ 
+
+ 
+
+ 
+
+d.
+
+ 
+
+“Interest
+ Period” 
+shall mean, as to any SOFR Loan, the applicable period of time 
+(one day,
+ subject to the following terms)
+ during which a particular setting of the SOFR Loan Rate remains in effect, with the first such Interest Period commencing on the
+ date of this Note (or, as applicable, the date of the first advance of any SOFR Loan hereunder) and extending to but not including
+ the next succeeding Rate Adjustment Date, with such Rate Adjustment Date and each Rate Adjustment Date thereafter constituting the
+ beginning of each succeeding Interest Period; provided, however, that if a Rate Adjustment Date would fall on a day that is not a
+ U.S. Government Securities Business Day, such Rate Adjustment Date (and the Interest Period extending to but not including such Rate
+ Adjustment Date) shall be extended to the next succeeding U.S. Government Securities Business Day.
+
+ 
+
+ 
+
+ 
+
+ 
+
+e.
+
+ 
+
+“Rate
+ Adjustment Date”
+ shall mean each U.S. Government Securities Business Day.
+
+ 
+
+ 
+
+ 
+
+ 
+
+f.
+
+ 
+
+“SOFR”
+ 
+shall mean, with respect to any U.S. Government Securities Business Day, a rate per annum equal to the secured overnight financing
+ rate for such U.S. Government Securities Business Day as published by the SOFR Administrator.
+
+ 
+
+ 
+
+ 
+
+ 
+
+g.
+
+ 
+
+“SOFR
+ Administrator”
+ shall mean the Federal Reserve Bank of New York (or a successor administrator of the secured overnight financing
+ rate).
+
+ 
+
+ 
+
+ 
+
+ 
+
+h.
+
+ 
+
+“SOFR
+ Loan” 
+shall mean any loan or other advance of funds made to the Borrower by the Bank pursuant to the Note that accrues
+ interest at the SOFR Loan Rate.
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.
+
+ 
+
+“SOFR
+ Loan Rate”
+ shall mean, for the duration of any Interest Period with respect to a SOFR Loan, the rate per annum (rounded
+ upward to the nearest 1/16 of 1%) equal to Term SOFR published each U.S. Government Securities Business Day. Notwithstanding the
+ foregoing, if, as of 5:00 p.m. (ET) on any U.S. Government Securities Business Day, Term SOFR has not been published, then the rate
+ used will be such Term SOFR as published for the first preceding U.S. Government Securities Business Day so long as such first preceding
+ U.S. Government Securities Business Day is not more than three (3) U.S. Government Securities Business Days prior to such Rate Determination
+ Date. Notwithstanding any provision above, the practice of rounding to determine the SOFR Loan Rate may be discontinued at any time
+ in the Bank’s sole discretion.
+
+ 
+
+ 
+
+ 
+
+ 
+
+j.
+
+ 
+
+“Term
+ SOFR”
+ shall mean the 
+I-Month 
+CME SOFR Term Reference Rate administered by CME (or any successor forward-looking
+ term rate derived from SOFR published by any successor administrator thereof, as may be recommended by the Federal Reserve Bank of
+ New York) and published on the applicable commercially available screen page as may be designated by the Bank from time to time.
+
+ 
+
+ 
+
+ 
+
+ 
+
+k.
+
+ 
+
+“Term
+ SOFR Conforming Changes” 
+means, with respect to the use or administration of Term SOFR, any technical, administrative or
+ operational changes (including, without limitation, changes to the definitions of “Business Day,” “U.S. Government
+ Securities Business Day,” or “Interest Period,” timing and frequency of determining rates and making payments of
+ interest, timing of borrowing requests or prepayment, conversion or continuation notices, length of lookback periods, the applicability
+ of breakage provisions and other technical, administrative or operational matters) that the Bank decides may be appropriate to reflect
+ the adoption and implementation of Term SOFR and to permit the administration thereof by the Bank in a manner substantially consistent
+ with market practice (or, if the Bank decides that adoption of any portion of such market practice is not administratively feasible
+ or if the Bank determines that no market practice for the administration of Term SOFR exists, in such other manner of administration
+ as the Bank decides is reasonably necessary in connection with the administration of the loan evidenced hereby).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I.
+
+ 
+
+“U.S.
+ Government Securities Business Day” 
+shall mean any day other than Saturday, Sunday or other day on which the Securities
+ Industry and Financial Markets Association recommends that the fixed income departments of its members be closed for the entire day
+ for purposes of trading in United States government securities.
+
+ 
+
+ 
+ 
+
+ 
+III.
+
+ 
+
+“Variable Loan Rate”
+ shall mean the
+ SOFR Loan Rate.
+
+ 
+
+ 
+
+ADDITIONAL
+PROVISIONS.
+
+ 
+
+Timing
+of Requests for Advances. 
+In addition to and without compromising any additional requirements referenced in the Note, to the extent
+future advances are contemplated in the Note, the Bank reserves the right to require that any Borrower request for an advance must be
+delivered to the Bank at least three (3) U.S. Government Securities Business Days prior to the requested date of funding the advance.
+
+ 
+
+Modification
+to Payment Due Date.
+ Notwithstanding any provision to the contrary in the Note, if in any particular month the applicable payment
+due date is not a Business Day, the payment due date shall be extended to the next succeeding Business Day unless such next succeeding
+Business Day would fall in the next calendar month, in which case such payment due date shall be the immediately preceding Business Day.
+
+ 
+
+Term
+SOFR Conforming Changes.
+ In connection with the use or administration of Term SOFR, the Bank will have the right to make Term SOFR
+Conforming Changes from time to time and, notwithstanding anything to the contrary herein, any amendments implementing such Term SOFR
+Conforming Changes will become effective without any further action or consent of the Borrower or any other party hereto. The Bank will
+promptly notify the Borrower of the effectiveness of any Term SOFR Conforming Changes.
+
+ 
+
+Disclosure
+Regarding Term SOFR.
+ Borrower acknowledges and understands that (i) Term SOFR is established, administered and regulated by third
+parties, and its continuing existence and ongoing viability as a source and basis for establishing contractual interest rates is entirely
+outside the control of the Bank, (ii) Term SOFR is a derivative of SOFR, based on expectations derived from the derivatives markets and
+dependent upon derivatives market liquidity, (iii) certain industry groups have advised that Term SOFR is not recommended for all financing
+facilities, and (iv), the Bank does not warrant or accept responsibility for, and shall not have any liability with respect to (a) the
+continuation of, administration of, submission of, calculation of or any other matter related to Term SOFR, or any component definition
+thereof or rates referenced in the definition thereof, or any alternative, successor or replacement rate thereto (including any Benchmark
+Replacement) or (b) the effect, implementation or composition of any Term SOFR Conforming Changes. Notwithstanding the above, Borrower
+has knowingly and voluntarily requested and/or accepted utilization of Term SOFR for all purposes provided for herein, accepting any
+inherent risks associated with such utilization, and hereby waives any claims or defenses against the Bank in connection therewith.
+
+ 
+
+Prepayment;
+Breakage Fee.
+ If (i) Borrower pays the principal balance, in whole or in part, on any SOFR Loan, on any day other than on Rate Adjustment
+Date (including as a result of an event of default), (ii) the SOFR Loan Rate is converted to the Base Rate on any day other than a Rate
+Adjustment Date; or (iii) to the extent applicable, Borrower fails to draw down or accept an advance, in whole or in part, of a SOFR
+Loan after giving a request therefor or otherwise tries to revoke any SOFR Loan, 
+in
+ whole or in part, then Borrower shall be liable
+for and shall pay the Bank, on demand, the higher of$250.00 or the actual amount of the liabilities, expenses, costs or funding losses
+that are a direct or indirect result of such prepayment or other condition described above, whether such liability, expense, cost or
+loss is by reason of (a) any reduction in yield, by reason of the liquidation or reemployment of any deposit or other funds acquired
+by the Bank, (b) the fixing of the interest rate payable on any SOFR Loans, or (c) otherwise (collectively, the “Breakage Fee”).
+The determination by the Bank of the foregoing amount shall, in the absence of manifest error, be conclusive and binding upon Borrower.
+
+ 
+
+Conversion
+to Base Rate Upon Default.
+ Unless the Bank shall otherwise and in its sole discretion consent in writing, if (i) an event of default
+(with respect to any payment obligation or otherwise, as may be defined or described in the Note or related documents) has occurred and
+is continuing, or (ii) there exists a condition or event that, with the passage of time, the giving of notice, or both, shall constitute
+such an event of default, the Bank, in its sole discretion, may convert the applicable interest rate to the Base Rate, and each reference
+in the Note and herein to the applicable interest rate shall be deemed to be a reference to the Base Rate. Nothing herein shall be construed
+to be a waiver by the Bank of its right to have the outstanding principal balance accrue interest at the Default Rate, accelerate the
+indebtedness and/or exercise any other remedies available to the Bank under the terms hereof or applicable law.
+
+ 
+
+Repayment
+Upon Conversion to Base Rate.
+ Except as otherwise provided herein, during the time of any conversion of the applicable interest rate
+to the Base Rate, whether temporary or permanent, and whether pursuant to an event of default or otherwise, and without compromising
+any other rights and remedies of the Bank, and in the absence of the Bank exercising any such other rights or remedies as may be applicable,
+Borrower shall continue to repay all indebtedness in accordance with the terms of the Note. The determination by the Bank of the foregoing
+amounts shall, in the absence of manifest error, be conclusive and binding upon Borrower.
+
+ 
+
+Illegality.
+
+If the Bank shall determine that the introduction of any law (statutory or common), treaty, rule, regulation, guideline or determination
+of an arbitrator or of 
+a
+ governmental authority or in the interpretation or administration thereof, has made it unlawful, or that
+any central bank or other governmental or regulatory authority has asserted that it is unlawful or otherwise impermissible for the Bank
+to make or maintain loans using the then-current applicable interest rate index, then, on notice thereof by the Bank to Borrower, the
+Bank may (i) suspend the maintaining of the loan hereunder using the then-current applicable interest rate index until the Bank shall
+have notified Borrower that the circumstances giving rise to such determination shall no longer exist, and/or (ii) convert the applicable
+interest rate for the loan hereunder to the Base Rate, subject to the terms of the section below entitled “Inability to Determine
+Term SOFR; Effect of Benchmark Transition Event”.
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+Inability
+to Determine Term SOFR; Effect of Benchmark Transition Event.
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+(a)
+
+ 
+
+If
+ the Bank shall determine (which determination shall be conclusive and binding on Borrower) that for any reason the SOFR Loan Rate
+ cannot be determined, other than as a result of a Benchmark Transition Event, the Bank will give notice of such determination to
+ Borrower. Thereafter, the Bank may not make or maintain the loan hereunder using the SOFR Loan Rate until the Bank revokes such notice
+ in writing, and until such revocation, the Bank may convert the applicable interest rate to the Base Rate, subject to the provisions
+ below.
+
+ 
+
+ 
+ 
+
+ 
+
+(b)
+
+ 
+
+Benchmark
+ Replacement. Notwithstanding anything to the contrary herein or in the Note or any related agreement, upon the occurrence of a Benchmark
+ Transition Event and its related Benchmark Replacement Date prior to any setting of the then-current Benchmark, (x) if a Benchmark
+ Replacement is determined in accordance with clause 
+(1) 
+of the definition of “Benchmark Replacement” for such
+ Benchmark Replacement Date in connection with a Benchmark Transition Event, such Benchmark Replacement will replace such Benchmark
+ for all purposes hereunder in respect of such Benchmark setting and subsequent Benchmark settings without any amendment or further
+ action or consent of any other party hereto, and (y) if a Benchmark Replacement is determined in accordance with clause (2) of the
+ definition of “Benchmark Replacement” for such Benchmark Replacement Date, the Bank may unilaterally amend the terms
+ of the Note to replace the then-current Benchmark with a Benchmark Replacement, with any such amendment to become effective as soon
+ as practicable for the Bank and upon notice to the Borrower, without any further action or consent of the Borrower. No replacement
+ of the then-current Benchmark with a Benchmark Replacement pursuant to clause (y) above will occur prior to the earlier of (i) the
+ applicable Benchmark Replacement Date and (ii) if such Benchmark Transition Event is a public statement or publication of information
+ of a prospective event, the 180th day prior to the expected date of such event as of such public statement or publication of information
+ (or if the expected date of such prospective event is fewer than 180 days after such statement or publication, the date of such statement
+ or publication). Borrower shall pay all out-of-pocket costs (including reasonable attorneys’ fees) incurred by the Bank in
+ connection with any negotiation, documentation or enforcement of the terms hereof or any related matters contemplated in this Section
+ titled “Inability to Determine Term SOFR; Effect of Benchmark Transition Event” (“this Section”).
+
+ 
+
+ 
+ 
+
+ 
+
+(c)
+
+ 
+
+Benchmark
+ Replacement Conforming Changes. In connection with the implementation or administration of a Benchmark Replacement, the Bank will
+ have the right to make Benchmark Replacement Conforming Changes from time to time and, notwithstanding anything to the contrary in
+ the Note or in any related document or agreement, any amendments implementing such Benchmark Replacement Conforming Changes will
+ become effective without any further action or consent of the Borrower or any other party hereto. The Bank shall not be liable to
+ the Borrower for any Benchmark Replacement Conforming Changes made by the Bank in good faith.
+
+ 
+
+ 
+ 
+
+ 
+
+(d)
+
+ 
+
+Notices;
+ Standards for Decisions and Determinations. The Bank will provide notification to the Borrower (which may at the Bank’s discretion
+ be electronic, part of a billing statement, a general notice to customers or other communication) of the implementation of any Benchmark
+ Replacement and the effectiveness of any Benchmark Replacement Conforming Changes, within a reasonable time prior to such implementation
+ and effectiveness, as applicable. Any determination, decision or election that may be made by the Bank pursuant to this Section,
+ including, without limitation, any determination with respect to a tenor, rate or adjustment or of the occurrence or non-occurrence
+ of an event, circumstance or date and any decision to take or refrain from taking any action or any selection, will be conclusive
+ and binding upon the Borrower and any other parties hereto absent manifest error and may be made in the Bank’s sole discretion
+ and without consent from the Borrower or any other party hereto, except, in each case, as expressly required pursuant to this Section,
+ and shall not be the basis of any claim of liability of any kind or nature against the Bank by any party hereto, all such claims
+ being hereby waived individually by each party hereto.
+
+ 
+
+ 
+ 
+
+ 
+
+(e)
+
+ 
+
+Benchmark
+ Unavailability Period. Upon the Borrower’s receipt of notice of the commencement of a Benchmark Unavailability Period and until
+ a Benchmark Replacement is determined in accordance with this Section, the Borrower may revoke (as applicable) any pending request
+ for an advance/borrowing of, conversion to, or continuation of a loan based on the SOFR Loan Rate (or the then-current Benchmark)
+ to be made, converted or continued during any Benchmark Unavailability Period and, failing that, the Borrower will be deemed to have
+ converted any such request (as applicable) into a request for an advance/borrowing of or conversion to a loan that shall accrue interest
+ at the Base Rate.
+
+ 
+
+ 
+ 
+
+ 
+
+(f)
+
+ 
+
+The
+ Bank does not warrant or accept responsibility for, and shall not have any liability with respect to (a) the continuation of, administration
+ of, submission of, calculation of or any other matter related to the Benchmark, any component definition thereof or rates referenced
+ in the definition thereof or any alternative, successor or replacement rate thereto (including any Benchmark Replacement), including
+ whether the composition or characteristics of any such alternative, successor or replacement rate (including any Benchmark Replacement)
+ will be similar to, or produce the same value or economic equivalence of, or have the same volume or liquidity as, the Benchmark
+ or any other Benchmark prior to its discontinuance or unavailability, or (b) the effect, implementation or composition of any Benchmark
+ Replacement Conforming Changes. The Bank may select information sources or services in its reasonable discretion to ascertain the
+ Benchmark, in each case pursuant to the terms hereof, and shall have no liability to the Borrower or any other person or entity for
+ damages of any kind, including direct or indirect, special, punitive, incidental or consequential damages, costs, losses or expenses
+ (whether in tort, contract or otherwise and whether at law or in equity), for any error or calculation of any such rate (or component
+ thereof) provided by any such information source or service.
+
+ 
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+(g)
+
+Certain
+ Defined Terms. As used in this Section:
+
+ 
+
+1.
+
+“Benchmark”
+ means the SOFR Loan Rate or any subsequent Benchmark Replacement that has become effective
+ hereunder.
+
+2.
+
+“Benchmark
+ Replacement” means the first alternative set forth in the order below that is applicable
+ and can be determined by the Bank for the applicable Benchmark Replacement Date:
+
+ 
+
+1)
+
+The
+ sum of (a) Daily Simple SOFR and (b) the related Benchmark Replacement Adjustment;
+
+2)
+
+The
+ sum of: (a) the alternate benchmark rate that has been selected by the Bank giving due consideration
+ to (i) any selection or recommendation of a replacement rate or the mechanism for determining
+ such a rate by the Relevant Governmental Body or (ii) any evolving or then-prevailing market
+ convention for determining a rate of interest as a replacement to the then-current Benchmark
+ for U.S. dollar-denominated syndicated or bilateral credit facilities and (b) the related
+ Benchmark Replacement Adjustment; 
+
+ 
+
+ 
+
+ 
+
+provided that, if the Benchmark Replacement as so determined
+ would be less than the current benchmark rate floor with respect to the SOFR Loan Rate (if
+ any, the “Floor”), the Benchmark Replacement will be deemed to be such Floor
+ for the purposes hereof.
+
+ 
+
+3.
+
+“Benchmark
+ Replacement Adjustment” means, with respect to any replacement of the then-current
+ Benchmark with an Unadjusted Benchmark Replacement, the spread adjustment, or method for
+ calculating or determining such spread adjustment, (which may be a positive or negative value
+ or zero) that has been selected by the Bank giving due consideration to (i) any selection
+ or recommendation of a spread adjustment, or method for calculating or determining such spread
+ adjustment, for the replacement of such then-current Benchmark with the applicable Unadjusted
+ Benchmark Replacement by the Relevant Governmental Body or (ii) any evolving or then-prevailing
+ market convention for determining a spread adjustment, or method for calculating or determining
+ such spread adjustment, for the replacement of such then-current Benchmark with the applicable
+ Unadjusted Benchmark Replacement for U.S. dollar-denominated syndicated or bilateral credit
+ facilities at such time.
+
+4.
+
+“Benchmark
+ Replacement Conforming Changes” means, with respect to any Benchmark Replacement, any
+ technical, administrative or operational changes (including, without limitation, changes
+ to the definitions of “Business Day,” “U.S. Government Securities Business
+ Day,” or “Interest Period,” timing and frequency of determining rates and
+ making payments of interest, timing of borrowing requests or prepayment, conversion or continuation
+ notices, length of lookback periods, the applicability of breakage provisions and other technical,
+ administrative or operational matters) that the Bank decides may be appropriate to reflect
+ the adoption and implementation of such Benchmark Replacement and to permit the administration
+ thereof by the Bank in a manner substantially consistent with market practice (or, if the
+ Bank decides that adoption of any portion of such market practice is not administratively
+ feasible or if the Bank determines that no market practice for the administration of such
+ Benchmark Replacement exists, in such other manner of administration as the Bank decides
+ is reasonably necessary in connection with the administration of the loan evidenced hereby).
+
+5.
+
+“Benchmark
+ Replacement Date” means the earlier to occur of the following events with respect to
+ the then-current Benchmark:
+
+ 
+
+1)
+
+in
+ the case of clause (a) of the definition of “Benchmark Transition Event,” the
+ later of(i) the date of the public statement or publication of information referenced therein
+ and (ii) the date on which the administrator of the Benchmark permanently or indefinitely
+ ceases to provide the Benchmark; or
+
+2)
+
+in
+ the case of clause (b) of the definition of “Benchmark Transition Event,” the
+ later of(i) the date of the public statement or publication of information referenced therein
+ and (ii) the announced or stated date as of which all applicable tenors of such Benchmark
+ will no longer be representative.
+
+ 
+
+6.
+
+“Benchmark
+ Transition Event” means, with respect to any then-current Benchmark, the occurrence
+ of a public statement or publication of information by or on behalf of the administrator
+ of the then-current Benchmark, the regulatory supervisor for the administrator of such Benchmark,
+ the Board of Governors of the Federal Reserve System, the Federal Reserve Bank of New York,
+ an insolvency official with jurisdiction over the administrator for such Benchmark, a resolution
+ authority with jurisdiction over the administrator for such Benchmark or a court or an entity
+ with similar insolvency or resolution authority over the administrator for such Benchmark,
+ announcing or stating that (a) such administrator has ceased, or will cease on a specified
+ date, to provide such Benchmark (or all tenors of such Benchmark applicable to the loan evidenced
+ hereby), permanently or indefinitely, 
+provided
+ that, at the time of such statement
+ or publication, there is no successor administrator that will continue to provide any applicable
+ tenors of such Benchmark or (b) all applicable tenors of such Benchmark are or as of a specified
+ date will no longer be representative of the underlying market and economic reality that
+ such Benchmark is intended to measure and indicating that representativeness will not be
+ restored.
+
+7.
+
+..Benchmark
+ Unavailability Period” means the period (if any) (x) beginning at the time that a Benchmark
+ Replacement Date has occurred if, at such time, no Benchmark Replacement has replaced the
+ then-current Benchmark for all purposes hereunder in accordance with this Section and (y)
+ ending at the time that a Benchmark Replacement has replaced the then-current Benchmark for
+ all purposes hereunder in accordance with this Section.
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+8.
+
+“Daily
+ Simple SOFR” shall mean for any day (a “SOFR Rate Day”), a rate per annum
+ equal to SOFR for the day (such day ‘?’) that is five (5) U.S. Government Securities
+ Business Days prior to (i) if such SOFR Rate Day is a U.S. Government Securities Business
+ Day, such SOFR Rate Day, or (ii) if such SOFR Rate Day is not a U.S. Government Securities
+ Business Day, the U.S. Government Securities Business Day immediately preceding such SOFR
+ Rate Day, in each case, as such SOFR is published by the SOFR Administrator on the SOFR Administrator’s
+ Website. If by 5:00 pm (ET) on the second (2
+nd
+) U.S. Government Securities Business
+ Day immediately following any day 
+“i’,
+ the SOFR in respect of such day
+ ‘‘z’’ has not been published on the SOFR Administrator’s Website
+ (and a Benchmark Replacement Date with respect to the Daily Simple SOFR has not occurred),
+ then the SOFR for such day ‘i’ will be the SOFR as published in respect of the
+ first preceding U.S. Government Securities Business Day for which such SOFR was published
+ on the SOFR Administrator’s Website; 
+provided
+ that any SOFR determined pursuant
+ to this sentence shall be utilized for purposes of calculation of Daily Simple SOFR for no
+ more than three (3) consecutive SOFR Rate Days. Any change in Daily Simple SOFR due to a
+ change in SOFR shall be effective from and including the effective date of such change in
+ SOFR without notice to the Borrower.
+
+9.
+
+“Relevant
+ Governmental Body” means the Board of Governors of the Federal Reserve System or the
+ Federal Reserve Bank of New York, or a committee officially endorsed or convened by the Board
+ of Governors of the Federal Reserve System or the Federal Reserve Bank of New York or any
+ successor thereto.
+
+10.
+
+“SOFR
+ Administrator’s Website” shall mean the website of the Federal Reserve Bank of
+ New York, currently at http://www.newyorkfed.org, or any successor source for the secured
+ overnight financing rate identified as such by the SOFR Administrator from time to time.
+
+11.
+
+“SOFR
+ Rate Day” shall have the meaning specified in the definition of Daily Simple SOFR.
+
+12.
+
+“Unadjusted
+ Benchmark Replacement” means the Benchmark Replacement excluding the Benchmark Replacement
+ Adjustment.
+
+ 
+
+[SIGNATURE
+PAGE TO FOLLOW]
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+Acknowledgment.
+
+Borrower acknowledges that it has read and understands all the provisions of this Rider and has been advised by counsel as necessary
+or appropriate.
+
+ 
+
+IN
+WITNESS WHEREOF, Borrower has executed and delivered this Rider as an instrument under seal (in jurisdictions where applicable).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ MAMAMANCINI’s HOLDINGS, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BY:
+
+ 
+
+/s/
+ Steven Burns
+
+ 
+
+ 
+
+Signature
+ of Witness
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Steven
+ Burns
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Executive
+ Vice President
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Typed
+ Name of Witness
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ T&L ACQUISITION CORP.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BY:
+ Mamamancini’s Holdings, Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Steven Burns
+
+ 
+
+ 
+
+Signature
+ of Witness
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Steven
+ Burns
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Executive
+ Vice President
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Typed
+ Name of Witness
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Signature
+Page to Variable Rate Rider (I-Month Term SOFR, Adjusting Daily)]
+
+ 
+
+ 
+
+6

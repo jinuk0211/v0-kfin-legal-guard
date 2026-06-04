@@ -1,0 +1,302 @@
+EX-10.1
+
+2
+
+ex101locamendment.htm
+
+EX-10.1 LOC AMENDMENT
+
+Document
+
+Exhibit 10.1
+
+AMENDMENT NO. 1 TO SECOND AMENDED AND RESTATED 
+REVOLVING CREDIT AGREEMENT
+
+This 
+
+AMENDMENT NO. 1 TO SECOND AMENDED AND RESTATED REVOLVING CREDIT AGREEMENT
+
+, dated as of September 
+
+16
+
+, 2025 (this “
+
+Amendment No. 1
+
+”), is by and among 
+
+PIEDMONT OPERATING PARTNERSHIP, LP
+
+, a Delaware limited partnership (“
+
+Borrower
+
+”), 
+
+PIEDMONT REALTY TRUST, INC (f/k/a PIEDMONT OFFICE REALTY TRUST, INC.)
+
+, a Maryland corporation (“
+
+Parent
+
+”), 
+
+JPMORGAN CHASE BANK, N.A.
+
+, as the administrative agent (in such capacity, the “
+
+Agent
+
+”) and as a Lender (in such capacity ,“
+
+JPM
+
+”) and the undersigned Lenders party hereto. Reference is made to that certain Second Amended and Restated Revolving Credit Agreement, dated as of February 13, 2025 (the “
+
+Credit Agreement
+
+”), by and among Borrower, the Parent, the Lenders referenced therein and the Agent. Capitalized terms used herein without definition shall have the same meanings as set forth in the Credit Agreement, as amended hereby.
+
+RECITALS
+
+WHEREAS
+
+, Borrower has requested that the Lenders and the Agent make certain amendments to the Credit Agreement in order to remove the credit spread adjustment from SOFR-based interest rates, and the Lenders and the Agent are willing to make such changes as set forth herein; 
+
+NOW, THEREFORE,
+
+ in consideration of the premises and the agreements, provisions and covenants herein contained, the parties hereto agree as follows:
+
+SECTION 1. AMENDMENTS TO CREDIT AGREEMENT. 
+
+As of the Amendment Effective Date (as defined in Section 3), Section 1.1 of the Credit Agreement is amended by amending and restating the following definitions in their entirety as follows: 
+
+““
+
+Adjusted Daily Effective SOFR Rate
+
+” means an interest rate per annum equal to the floating overnight Daily Effective SOFR; 
+
+provided
+
+ 
+
+that if the Adjusted Daily Effective SOFR Rate as so determined would be less than the Floor, such rate shall be deemed to be equal to the Floor for the purposes of this Agreement.
+
+“
+
+Adjusted Term SOFR Rate
+
+” means, for any Interest Period, an interest rate per annum equal to the Term SOFR Rate for such Interest Period; 
+
+provided
+
+ 
+
+that if the Adjusted Term SOFR Rate as so determined would be less than the Floor, such rate shall be deemed to be equal to the Floor for the purposes of this Agreement.”
+
+SECTION 2. REPRESENTATIONS AND WARRANTIES OF PARENT AND BORROWER. 
+
+In order to induce the Agent and Lenders to enter into this Amendment No. 1, each of Parent and Borrower represents and warrants to each undersigned Lender and the Agent that the following statements are true, correct and complete:
+
+2.1    
+
+Borrower and each other Loan Party has the right and power, and has taken all necessary action to authorize it, to execute, deliver and perform each of this Amendment No. 1 and the Credit Agreement as amended by this Amendment No. 1 (the “
+
+Amended Agreement
+
+”, and together with this Amendment No. 1, the “
+
+Amendment Documents
+
+”) to which it is a party in accordance with their respective terms and to consummate the transactions contemplated hereby and thereby. Each of the Amendment Documents has been duly executed and delivered by the duly authorized officers or other representatives of Borrower and Parent and is a legal, valid and binding obligation of such Persons enforceable against such Persons in accordance with its terms except as the same may be limited by bankruptcy, insolvency, and other similar laws affecting the rights of creditors generally and the availability of equitable remedies for the enforcement of certain obligations (other than the payment of principal) contained herein or therein may be limited by equitable principles generally.
+
+2.2    
+
+The execution, delivery and performance of each of the Amendment Documents in accordance with its terms do not and will not, by the passage of time, the giving of notice, or both: (a) require any Governmental Approval or violate any Applicable Law (including Environmental Laws) relating to Borrower or Parent; (b) conflict with, result in a breach of or constitute a default under the organizational documents of Borrower or Parent, or any indenture, agreement or other instrument to which Borrower or Parent is a party or by which it or any of its respective properties may be bound; or (c) result in or require the creation or imposition of any Lien upon or with respect to any property now owned or hereafter acquired by Borrower or Parent.
+
+2.3    
+
+The representations and warranties made or deemed to be made by each Loan Party and Borrower contained in Article VI of the Credit Agreement and in the Loan Documents to which any of them is a party are and will be true and correct in all material respects (or, in the case of any such representation or warranty already qualified by materiality, in all respects) on and as of the date hereof and the Amendment Effective Date to the same extent as though made on and as of such dates, except to the extent such representations and warranties specifically relate to an earlier date, in which case they were true and correct in all material respects (or, in the case of any such representation or warranty already qualified by materiality, in all respects) on and as of such earlier date and except for changes in factual circumstances not prohibited by the Credit Agreement.
+
+2.4    
+
+No event has occurred and is continuing or will result from the consummation of the transactions contemplated by this Amendment No. 1 that would constitute a Default or Event of Default.
+
+SECTION 3. CONDITIONS TO EFFECTIVENESS.
+
+This Amendment No. 1 shall become effective only upon the satisfaction of the following conditions precedent (the date of satisfaction or waiver of such conditions being referred to as the “
+
+Amendment Effective Date
+
+”):
+
+A.    
+
+The Borrower, the Parent, the Agent, and all of the Lenders shall have indicated their consent hereto by the execution and delivery of the signature pages hereof to the Agent, including, in the case of Parent, the signature page to the Reaffirmation of Facility Guaranty attached to this Amendment No. 1.
+
+B.    
+
+The Agent shall have received all reasonable out-of-pocket costs and expenses for which invoices have been presented at least one (1) Business Day prior to the execution of this Amendment No. 1 (including the reasonable fees and expenses of legal counsel for which the Borrower agrees it is responsible pursuant to Section 12.2 of the Loan Agreement), incurred in connection with this Amendment No. 1.
+
+SECTION 4. MISCELLANEOUS.
+
+4.1    
+
+Reference to and Effect on the Credit Agreement and the Other Loan Documents
+
+. (a) On and after the effective date of this Amendment No. 1, each reference in the Credit Agreement to “this Agreement”, “hereunder”, “hereof”, “herein” or words of like import referring to the Credit Agreement and each reference in the other Loan Documents to the “Credit Agreement”, “thereunder”, “thereof” or words of like import referring to the Credit Agreement shall mean and be a reference to the Credit Agreement as amended hereby. This Amendment No. 1 shall constitute a “Loan Document” under the Credit Agreement.
+
+(b)    Except as specifically amended by this Amendment No. 1, the Credit Agreement and the other Loan Documents shall remain in full force and effect and are hereby ratified and confirmed.
+
+(c)    The execution, delivery and performance of this Amendment No. 1 shall not, except as expressly provided herein, constitute a waiver of any provision of, or operate as a waiver of any right, power or remedy of the Agent or any Lender under the Credit Agreement or any of the other Loan Documents. This Amendment No. 1 shall not constitute or effect a novation of the obligations of each Loan Party under the Credit Agreement, as amended hereby, and the other Loan Documents.
+
+4.2    
+
+Headings
+
+. Section and subsection headings in this Amendment No. 1 are included herein for convenience of reference only and shall not constitute a part of this Amendment No. 1 for any other purpose or be given any substantive effect.
+
+4.3    
+
+Applicable Law
+
+. THIS AMENDMENT NO. 1 SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK WITHOUT REGARD FOR PRINCIPLES OF CONFLICTS OF LAW (OTHER THAN SECTIONS 5-1401 and 5-1402 OF THE NEW YORK GENERAL OBLIGATIONS LAW OF THE STATE OF NEW YORK).
+
+4.4    
+
+Counterparts; Effectiveness
+
+. This Amendment No. 1 may be executed in counterparts (and by different parties hereto on different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract; signature pages may be detached from multiple separate counterparts and attached to a single counterpart so that all signature pages are physically attached to the same document. Delivery of an executed counterpart of a signature page of this Amendment No. 1 by telecopy, emailed pdf. or any other electronic means that reproduces an image of the actual executed signature page shall be effective as delivery of a manually executed counterpart of this Amendment No. 1. The words “execution,” “signed,” “signature,” “delivery,” and words of like import in or relating to this Amendment No. 1 and/or any document to be signed in connection with this Amendment No. 1 and the transactions contemplated hereby shall be deemed to include Electronic Signatures, deliveries or the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature, physical delivery thereof or the use of a paper-based recordkeeping system, as the case may be. Unless set forth in writing to the contrary, execution of this Amendment No. 1 by a Lender shall be deemed conclusive evidence that the conditions precedent to effectiveness set forth in Section 2 shall have been satisfied or waived to the satisfaction of such Lender.
+
+4.5    
+
+Jurisdictions; Immunities; Waiver of Jury Trial
+
+. The provisions of Section 12.4 of the Credit Agreement shall apply to this Amendment No. 1 and are hereby incorporated by reference 
+
+mutatis mutandis
+
+.
+
+[Signature Pages Follow]
+
+IN WITNESS WHEREOF
+
+, the parties hereto have caused this Amendment No. 1 to be duly executed and delivered by their respective officers thereunto duly authorized as of the date first written above.
+
+BORROWER:
+
+PIEDMONT OPERATING PARTNERSHIP, LP
+
+By:    Piedmont Realty Trust, Inc., its General Partner
+
+By:
+
+ /s/ Laura Moon 
+
+Name: Laura Moon    
+
+Title: EVP and Chief Accounting Officer
+
+PARENT:
+
+PIEDMONT REALTY TRUST, INC.
+
+By:
+
+ /s/ Laura Moon 
+
+Name: Laura Moon
+
+Title: EVP and Chief Accounting Officer    
+
+JPMORGAN CHASE BANK, N. A.
+
+, as Administrative Agent and as Lender
+
+By: 
+
+/s/ Cody Canafax___________________
+
+Name: Cody A. Canafax
+
+Title: Executive Director
+
+U.S. BANK NATIONAL ASSOCIATION
+
+By: 
+
+/s/ Germaine R. Korhone    
+
+Name: Germaine R. Korhone
+
+Title: Senior Vice President 
+
+TRUIST BANK
+
+By: 
+
+/s/ C. Vincent Hughes, Jr.    
+
+Name: C.Vincent Hughes, Jr.
+
+Title: Director
+
+BANK OF AMERICA, N.A.
+
+By: 
+
+/s/ Helen Chan    
+
+Name: Helen Chan
+
+Title: Vice President
+
+WELLS FARGO BANK, N.A.
+
+By: 
+
+/s/ Craig V. Koshkarian    
+
+Name: Craig V. Koshkarian
+
+Title: Executive Director
+
+MORGAN STANLEY BANK, N.A.
+
+By: 
+
+/s/ Margaret Stock    
+
+Name: Margaret Stock
+
+Title: Authorized Signatory
+
+THE TORONTO-DOMINION BANK, NEW YORK BRANCH
+
+By: 
+
+/s/ Victoria Roberts    
+
+Name: Victoria Roberts
+
+Title: Authorized Signatory
+
+Reaffirmation of Facility Guaranty
+
+    The undersigned Guarantor hereby (a) acknowledges the foregoing Amendment No. 1, (b) reaffirms its guaranty of the Guarantied Obligations (as defined in the Facility Guaranty executed and delivered by such Guarantor) under or in connection with the Loan Agreement, as modified by this Amendment No. 1, in accordance with the Facility Guaranty executed and delivered by such Guarantor, and (c) confirms that its Facility Guaranty shall remain in full force and effect after giving effect to this Amendment No. 1.
+
+PIEDMONT REALTY TRUST, INC.
+
+ 
+
+By: 
+
+/s/ Laura Moon    
+
+Name: Laura Moon     
+
+Title: EVP and Chief Financial Officer

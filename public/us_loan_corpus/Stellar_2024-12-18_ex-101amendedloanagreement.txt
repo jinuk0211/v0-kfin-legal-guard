@@ -1,0 +1,407 @@
+EX-10.1
+
+2
+
+ex-101amendedloanagreement.htm
+
+EX-10.1
+
+Document
+
+ Exhibit 10.1
+
+FIRST AMENDMENT TO                    
+THIRD AMENDED AND RESTATED LOAN AGREEMENT
+
+THIS FIRST AMENDMENT TO THIRD AMENDED AND RESTATED LOAN AGREEMENT
+
+ (this “
+
+First Amendment
+
+”) is made and entered into as of December 13, 2024 (the “
+
+Effective Date
+
+”), by and between 
+
+STELLAR BANCORP, INC.
+
+,
+
+ 
+
+a Texas corporation (the “
+
+Borrower
+
+”), and 
+
+FROST BANK
+
+,
+
+ 
+
+a Texas state bank (“
+
+Lender
+
+”). 
+
+RECITALS:
+
+WHEREAS
+
+, on or about December 13, 2017, Lender made available to Borrower a revolving line of credit in the original principal amount of 
+
+THIRTY MILLION AND NO/100 DOLLARS
+
+ (
+
+$30,000,000.00
+
+) (the “
+
+Revolving Credit Commitment
+
+”), as evidenced by that certain Revolving Promissory Note dated December 13, 2017 (the “
+
+Original Note
+
+”), made by Borrower and payable to the order of Lender, and as further evidenced by that certain Loan Agreement dated of even date with the Original Note (the “
+
+Original Loan Agreement
+
+”), by and between Borrower and Lender, and as secured by that certain Pledge and Security Agreement dated of even date with the Original Note (the “
+
+Original Pledge Agreement
+
+”), by and between Borrower and Lender, pursuant to which Borrower pledged as collateral security for the payment and performance of the Obligations, all of Borrower’s right, title and interest in and to 100% of the issued and outstanding shares of capital stock of 
+
+COMMUNITYBANK OF TEXAS, N.A.
+
+, a national banking association;
+
+    WHEREAS
+
+, on or about December 13, 2018, Lender modified, extended and renewed the Revolving Credit Commitment, as evidenced by that certain Revolving Promissory Note dated December 13, 2018 (the “
+
+First Renewal Note
+
+”), by Borrower and payable to the order of Lender, and as further evidenced by that certain Amended and Restated Loan Agreement dated of even date with the First Renewal Note (the “
+
+First Amended Loan Agreement
+
+”), by and between Borrower and Lender;
+
+    
+
+WHEREAS
+
+, on or about December 13, 2019, Lender further modified, extended and renewed the Revolving Credit Commitment, as evidenced by that certain Revolving Promissory Note dated December 13, 2019 (the “
+
+Second Renewal Note
+
+”), by Borrower and payable to the order of Lender, and as further evidenced by that certain Second Amended and Restated Loan Agreement dated of even date with the Second Renewal Note (the “
+
+Second Amended Loan Agreement
+
+”), by and between Borrower and Lender; 
+
+    
+
+WHEREAS
+
+, on or about December 13, 2021, Lender further modified, extended and renewed the Revolving Credit Commitment, as evidenced by that certain Revolving Promissory Note dated December 13, 2021 (the “
+
+Third Renewal Note
+
+”), by Borrower and payable to the order of Lender, and as further evidenced by that certain First Amendment to Second Amended and Restated Loan Agreement (the “
+
+First Amendment to Second Amended Loan Agreement
+
+”), by and between Borrower and Lender;
+
+    
+
+WHEREAS
+
+, on or about November 17, 2022, Lender further modified the Revolving Credit Commitment, as evidenced by (i) that certain Modification Agreement dated November 17, 2022 (the “
+
+Modification Agreement
+
+”), by and between Borrower and Lender; and (ii) that certain Amended and Restated Pledge and Security Agreement dated of even date with the Modification Agreement (the “
+
+Amended Pledge Agreement
+
+”), by and between Borrower and Lender;
+
+    
+
+WHEREAS
+
+, on or about December 13, 2022, Lender further modified, extended and renewed the Revolving Credit Commitment, as evidenced by that certain Revolving Promissory Note dated December 13, 2022 (the “
+
+Fourth Renewal Note
+
+”), by Borrower and payable to the order of Lender, and as further evidenced by that certain Third Amended and Restated Loan Agreement (the “
+
+Third Amended Loan Agreement
+
+”), by and between Borrower and Lender; and 
+
+1
+
+    
+
+WHEREAS
+
+, Borrower has requested that Lender modify, renew and extend the Revolving Credit Commitment by (i) extending the period during which Borrower may request Advances (as defined below) for an additional 24 months; and (ii) including a term feature, whereby from and after the Interest Only Period Expiration Date (as defined in the Renewal Promissory Note (as defined below)), payments of principal and interest shall be due and payable on the outstanding principal balance of the Loan;
+
+WHEREAS
+
+, in connection with this First Amendment, Borrower shall execute and deliver to Lender that certain Renewal Revolving Promissory Note dated of even date herewith (the “
+
+Renewal Promissory Note
+
+”) in the original principal amount of $75,000,000.00 (the “
+
+Loan
+
+”); and
+
+WHEREAS
+
+, Lender is willing to modify, renew and extend the terms of the Revolving Credit Commitment on the terms and subject to the conditions set forth herein; and 
+
+WHEREAS
+
+, all capitalized terms not otherwise defined herein shall have the meaning ascribed to each of them in the Third Amended Loan Agreement.
+
+NOW, THEREFORE
+
+, in consideration of the premises and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Borrower and Lender do hereby agree as follows:
+
+ARTICLE I
+AMENDMENTS TO LOAN AGREEMENT
+
+1.1.
+
+Amendments to the Third Amended Loan Agreement
+
+. Effective as of the date hereof, Lender and Borrower hereby agree to (i) renew and extend the interest only period of the Loan by an additional 24 months; (ii) include a term feature, whereby from and after the Interest Only Period Expiration Date, payments of principal and interest shall be due and payable in 28 quarterly installments; and (iii) make such other modifications as set forth in this 
+
+ARTICLE I
+
+ and in the Renewal Promissory Note.
+
+1.2.
+
+Amendment to Section 1.01 of the Third Amended Loan Agreement
+
+. Borrower and Lender agree to, and do hereby amend the Third Amended Loan Agreement by inserting the following definition of “Advance”:
+
+     
+
+“
+
+Advance
+
+” means a disbursement by Lender of any of the proceeds of a Loan.
+
+1.3.
+
+Amendment to Section 1.01 of the Third Amended Loan Agreement
+
+. Borrower and Lender agree to, and do hereby amend the Third Amended Loan Agreement by deleting the definition of “Bank” and replacing it with the following definition of “Bank”:
+
+    
+
+“
+
+Bank
+
+” means 
+
+STELLAR BANK
+
+, a Texas state bank, with its principal place of business is 9 Greenway Plaza, Suite 110, Houston, Texas 77046, and all other banks and financial institutions whether chartered by the federal government or any state, which are acquired after the Closing Date by Borrower or its Subsidiaries.
+
+1.4.
+
+Amendment to Section 4.14 of the Third Amended Loan Agreement
+
+. Borrower and Lender agree to, and do hereby amend the Third Amended Loan Agreement by deleting 
+
+Section 4.14
+
+ of the Third Amended Loan Agreement in its entirety.
+
+1.5.
+
+Amendment to Section 5.3 of the Third Amended Loan Agreement
+
+. Borrower and Lender agree to, and do hereby amend 
+
+Section 5.3
+
+ of the Third Amended Loan Agreement by reducing Borrower’s covenant to maintain a maximum Texas Ratio of the Bank from 25% to 20%. 
+
+1.6.
+
+Amendment to Section 5.4 of the Third Amended Loan Agreement
+
+. Borrower and Lender agree to, and do hereby amend 
+
+Section 5.4(i)
+
+ of the Third Amended Loan Agreement by increasing Borrower’s minimum Tier 1 Leverage Ratio covenant in 
+
+clause (i)
+
+ thereof from seven percent (7%) to eight percent (8%). 
+
+2
+
+ARTICLE II
+CONDITIONS OF EFFECTIVENESS
+
+1.1.
+
+Effective Date
+
+. This First Amendment shall become effective as of the Effective Date, when, and only when, Lender shall have received counterparts of this First Amendment executed and delivered by Borrower and Lender, and when each of the following conditions shall have been met, all in form, substance, and date satisfactory to Lender:
+
+1.1.1.
+
+Closing Documents
+
+. Borrower shall have executed and delivered to Lender (i) the Renewal Revolving Promissory Note, (ii) the Arbitration and Notice of Final Agreement, (iii) the Certificate of Corporate Resolutions, and (iv) this First Amendment.
+
+1.1.2.
+
+Additional Loan Documents
+
+. Borrower shall have executed and delivered to Lender such other documents as shall have been requested by Lender to renew, modify and extend the Loan Documents to secure payment of the obligations of Borrower set forth herein and therein, all in form satisfactory to Lender and its counsel.
+
+1.2.
+
+Renewal Fee
+
+. Borrower shall pay to Lender a fee of $75,000.00 at closing in consideration for Lender’s modification, renewal and extension of the Loan. 
+
+ARTICLE III
+
+REPRESENTATIONS AND WARRANTIES
+
+1.1.
+
+Representations and Warranties
+
+. In order to induce Lender to enter into this First Amendment, Borrower represents and warrants the following: 
+
+1.1.1.
+
+Borrower has the corporate power to execute and deliver this First Amendment, the Renewal Promissory Note and other Loan Documents and to perform all of its obligations in connection herewith and therewith.
+
+1.1.2.
+
+The execution and delivery by Borrower of this First Amendment, the Renewal Promissory Note, and other Loan Documents and the performance of its obligations in connection herewith and therewith: (i) have been duly authorized or will be duly ratified and affirmed by all requisite corporate action; (ii) will not violate any provision of law, any order of any court or agency of government or the Articles of Incorporation or Bylaws of such entity; (iii) will not be in conflict with, result in a breach of or constitute (alone or with due notice or lapse of time or both) a default under any indenture, agreement or other instrument; and (iv) will not require any registration with, consent or approval of or other action by any federal, state, provincial or other governmental authority or regulatory body.
+
+1.1.3.
+
+There is no action, suit or proceeding at law or in equity or by or before any governmental instrumentality or other agency or regulatory authority now pending or, to the knowledge of Borrower, threatened against or affecting Borrower, or any properties or rights of Borrower, or involving this First Amendment or the transactions contemplated hereby which, if adversely determined, would materially impair the right of Borrower to carry on business substantially as now conducted or materially and adversely affect the financial condition of Borrower, or materially and adversely affect the ability of Borrower to consummate the transactions contemplated by this First Amendment.
+
+1.1.4.
+
+The representations and warranties of Borrower contained in the Third Amended Loan Agreement, this First Amendment, the Renewal Promissory Note and any other Loan Document securing Borrower's Obligations and indebtedness to Lender are correct and accurate on and as of the date hereof as though made on and as of the date hereto except to the extent that the facts upon which such representations are based have been changed by the transactions herein contemplated.
+
+ARTICLE IV
+RATIFICATION OF OBLIGATIONS
+
+3
+
+1.1.
+
+Ratification of Obligation
+
+. The Borrower does hereby acknowledge, ratify and confirm that it is obligated and indebted to Lender as evidenced by the Third Amended Loan Agreement (as amended by this First Amendment), the Renewal Promissory Note and all other Loan Documents.
+
+1.2.
+
+Ratification of Agreements
+
+. The Third Amended Loan Agreement, this First Amendment, the Renewal Promissory Note and each other Loan Document, as hereby amended, are acknowledged, ratified and confirmed in all respects as being valid, existing, and of full force and effect. Any reference to the Third Amended Loan Agreement in any Loan Document shall be deemed to be a reference to the Third Amended Loan Agreement as amended by this First Amendment. The execution, delivery and effectiveness of this First Amendment shall not, except as expressly provided herein, operate as a waiver of any right, power or remedy of Lender under the Third Amended Loan Agreement, nor constitute a waiver of any provision of the Third Amended Loan Agreement.
+
+ARTICLE V
+
+MISCELLANEOUS
+
+1.1.
+
+Survival of Agreements
+
+. All representations, warranties, covenants and agreements of Borrower, herein or in any other Loan Document shall survive the execution and delivery of this First Amendment, and the other Loan Documents and the performance hereof and thereof, including without limitation the making or granting of the Loan and the delivery of the Renewal Promissory Note and all other Loan Documents, and shall further survive until all of Borrower’s Obligations to Lender are paid in full. All statements and agreements contained in any certificate or instrument delivered by Borrower hereunder or under the Loan Documents to Lender shall be deemed to constitute the representations and warranties by Borrower and/or agreements and covenants of Borrower under this First Amendment and under the Third Amended Loan Agreement.
+
+1.2.
+
+Loan Document
+
+. This First Amendment, the Renewal Promissory Note and each other Loan Document executed in connection herewith are each a Loan Document and all provisions in the Third Amended Loan Agreement, as amended, pertaining to Loan Documents apply hereto and thereto.
+
+1.3.
+
+Governing Law
+
+. This First Amendment shall be governed by and construed in all respects in accordance with the laws of the State of Texas and any applicable laws of the United States of America, including construction, validity and performance.
+
+1.4.
+
+Counterparts
+
+. This First Amendment may be separately executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed shall be deemed to constitute one and the same First Amendment.
+
+1.5.
+
+Release of Claims
+
+. Borrower, by its execution of this First Amendment, hereby declares that it has no set-offs, counterclaims, defenses or other causes of action against Lender arising out of the Loan, the renewal, modification and extension of the Loan, any documents mentioned herein or otherwise; and, to the extent any such setoffs, counterclaims, defenses or other causes of action which may exist, whether known or unknown, such items are hereby expressly waived and released by Borrower.
+
+1.6.
+
+ENTIRE AGREEMENT; AMENDMENT
+
+. THIS FIRST AMENDMENT, TOGETHER WITH ANY LOAN DOCUMENTS EXECUTED IN CONNECTION HEREWITH, CONTAINS THE ENTIRE AGREEMENT BETWEEN THE PARTIES HERETO RELATING TO THE SUBJECT MATTER HEREOF AND THEREOF AND ALL PRIOR AGREEMENTS RELATIVE THERETO WHICH ARE NOT CONTAINED HEREIN OR THEREIN ARE TERMINATED. THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE PARTIES. THIS FIRST AMENDMENT, AND THE LOAN DOCUMENTS MAY BE AMENDED, REVISED, WAIVED, DISCHARGED, RELEASED OR TERMINATED ONLY BY A WRITTEN INSTRUMENT OR INSTRUMENTS, EXECUTED BY THE PARTY AGAINST WHICH ENFORCEMENT OF THE AMENDMENT, REVISION, WAIVER, DISCHARGE, RELEASE OR TERMINATION IS ASSERTED. ANY ALLEGED AMENDMENT, REVISION, WAIVER, DISCHARGE, RELEASE OR TERMINATION WHICH IS NOT SO DOCUMENTED SHALL NOT BE EFFECTIVE AS TO ANY PARTY.
+
+4
+
+IN WITNESS HEREOF
+
+, Borrower and Lender, by and through their duly authorized officers, have caused this First Amendment to be executed the day and year first above written.
+
+BORROWER:
+
+LENDER:
+
+STELLAR BANCORP, INC.
+
+, a Texas corporation
+
+FROST BANK
+
+, a Texas state bank
+
+By: 
+
+    /s/ Robert R. Franklin, Jr.         
+
+    Robert R. Franklin, Jr. Chief Executive Officer
+
+By: 
+
+    /s/ William R. Myers         
+
+    William R. Myers Vice President
+
+5

@@ -1,0 +1,884 @@
+EX-10.3
+
+4
+
+ex10_3.htm
+
+EXHIBIT 10.3
+
+ 
+
+ 
+
+Exhibit 10.3
+
+ 
+
+ 
+
+ 
+
+MASTER LOAN AGREEMENT
+
+ 
+
+This Master Loan Agreement (the “
+Agreement
+”),
+by and between Zen Credit Ventures, LLC and its successors or assigns (“
+ZCV
+”) and 
+
+Verify
+Me Inc.
+
+ and its permitted successors and assigns (“
+Lender
+”) is effective this 
+
+August
+7, 2025
+
+ the first day on which all parties hereto have executed it. ZCV, Lender and any of their permitted successors or assigns
+are hereinafter referred to as the “
+Parties
+”.
+
+ 
+
+The Lender agrees to lend 
+TWO MILLION DOLLARS
+
+to ZCV (hereinafter the “
+Initial Loan
+”) and on the date of receipt of the Initial Loan funds into ZCV’s depository
+account as cleared funds, ZCV shall issue to Lender an executed Promissory Note (“
+Note
+”), with a payment schedule and
+terms in accordance with the terms of this Agreement. In the event that Lender and ZCV agree that Lender will lend additional funds to
+ZCV, any additional loans (each, an “
+Additional Loan
+”) shall be subject to this Agreement and ZCV shall issue Lender
+a separate Note with respect to each Additional Loan, with a payment schedule and terms in accordance with the terms of this Agreement.
+
+ 
+
+1.
+
+Interest. 
+
+ 
+
+(a)
+
+Interest Rate
+
+. Except as provided in Section 2(d), principal amounts outstanding under this
+Agreement and any Notes shall bear interest at a rate per annum equal to 
+SIXTEEN PERCENT
+ (the “
+Interest Rate
+”).
+
+ 
+
+(b)
+
+Grace Period
+
+. Interest Rate shall begin to accrue on the Loan or any Additional Loan fourteen
+(14) business days after the Loan funds have been received into ZCV’s depository account as cleared funds ZCV (“
+Grace Period
+”),
+and the Note shall bear the date of the day after the Grace Period.
+
+ 
+
+(c)
+
+Computation of Interest
+
+. All computations of interest hereunder shall be made on the basis
+of a year of 365 days, and the actual number of days elapsed. Interest shall begin to accrue on the Loan on the date of this Note. On
+any portion of the Initial Loan or any Additional Loan that is repaid, interest shall not accrue on the date on which such payment is
+made.
+
+ 
+
+(d)
+
+Interest Rate Limitation
+
+. If at any time the interest rate payable on the Initial Loan or
+any Additional Loan (or on any Note) shall exceed the maximum rate of interest permitted under applicable law, such interest rate shall
+be reduced automatically to the maximum rate permitted.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.
+
+Term of Note & Repayment
+
+ 
+
+(a)
+
+Repayment Obligation
+
+. The obligation to repay the Note is unconditional and is not subject
+to the underlying performance of ZCV.
+
+ 
+
+(b)
+
+Payment Schedule
+
+. The interest on the Loan shall be payable in 3 equal installments, beginning
+every third month after the Grace Period for the term of the Note 
+(e.g
+., $12,000 for each installment on a $300,000 Loan).
+
+ 
+
+(c)
+
+Term of Note
+
+. On the conclusion of NINE (9) months from the specified date of each Note’s
+issuance (the “
+Note Maturity Date
+”), all amounts outstanding under that Note, and the corresponding Loan or Additional
+Loan, including principal, accrued and unpaid interest shall be due and payable.
+
+ 
+
+(d)
+
+Prepayment
+
+. ZCV may prepay the Initial Loan or any Additional Loan in whole or in part at
+any time or from time to time without penalty or premium by repaying the principal amount to be prepaid, together with accrued interest
+thereon to the date of prepayment.
+
+ 
+
+3.
+
+Payment; Mechanics
+.
+
+ 
+
+(a)
+
+Manner of Payment
+
+. All payments of principal and interest shall be made in US dollars no
+later than 12:00 PM on the date on which such payment is due. Such payments shall be made by wire transfer to the Lender account at a
+bank specified by the Lender in writing to ZCV from time to time and shall be deemed made when a wire transfer is received by Lender in
+its designated depository account, which for the avoidance of doubt shall not be a subaccount with a broker-dealer.
+
+ 
+
+(b)
+
+Application of Payments
+
+. All payments shall be applied, first, to accrued interest, and
+second, to principal outstanding under this Note.
+
+ 
+
+(c)
+
+Business Day
+
+. Whenever any payment hereunder is due on a day that is not a Business Day,
+such payment shall be made on the next succeeding Business Day. “
+Business Day
+” means a day other than Saturday, Sunday
+or other day on which commercial banks in New York, New York are authorized or required by law to close.
+
+ 
+
+4.
+
+Representations and Warranties
+. ZCV represents and warrants to the Lender as follows:
+
+ 
+
+(a)
+
+Existence
+
+. ZCV is an entity duly formed, validly existing, and in good standing under the
+laws of the state of its organization. ZCV has the requisite power and authority to own, lease, and operate its property, and to carry
+on its business.
+
+ 
+
+(b)
+
+Compliance with Law
+
+. ZCV is in material compliance with all laws, statutes, ordinances,
+rules, and regulations applicable to or binding on ZCV, its property, and business and has all licenses necessary to conduct its business
+or required by applicable law.
+
+ 
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c)
+
+Power and Authority
+
+. ZCV has the requisite power and authority to own and operate its assets
+and carry on its business and to execute, deliver, and perform its obligations under this Agreement.
+
+ 
+
+(d)
+
+Authorization; No Violation; Execution and Delivery
+
+. The execution and delivery of this
+Agreement by ZCV and the performance of its obligations hereunder have been duly authorized by all necessary action in accordance with
+applicable law and will not (i) violate ZCV’s articles or certificate of organization or operating agreement (as applicable), and
+to ZCV’s knowledge, any provision of any law or any rule, regulation, judgment, order or ruling of any governmental authority, any
+agreement or any indenture, mortgage, or other instrument to which ZCV is a party or bound, or (ii) to ZCV’s knowledge, be in conflict
+with, result in a breach of, or constitute with the giving of notice or lapse of time, or both, a default under any such agreement, indenture,
+mortgage, or other instrument. All actions on the part of the managers or members (as applicable) of ZCV taken in connection with the
+execution and delivery, and the performance by ZCV of its obligations under this Agreement remain in full force and effect. ZCV has duly
+executed and delivered this Agreement.
+
+ 
+
+(e)
+
+Binding Agreement
+
+. This Agreement when executed and delivered by the parties will be, the
+legal, valid, and binding obligation of such party, enforceable against such party in accordance with its terms, subject only to limitations
+on enforceability imposed by (i) applicable bankruptcy, insolvency, reorganization, moratorium, or similar laws affecting creditors’
+rights generally, and (ii) general equitable principles.
+
+ 
+
+(f)
+
+Financial Statements; Disclosure
+
+. All ZCV financial statements or financial information
+provided to Lender in connection with, or to induce Lender to enter into, this Agreement fairly present the financial condition of ZCV
+in all material respects and the results of ZCV’s operations for the periods covered thereby, and all financial statements are prepared
+in accordance with generally accepted accounting principles consistently applied (“GAAP”), except, in the case of any unaudited
+financial statements, the omission of footnotes and, in the case of any interim financial statements, normal year-end adjustments. As
+of the date of such financial statements, there were no material liabilities of ZCV, fixed or contingent, not reflected in such financial
+statements or the notes thereto. Since the date of such financial statements, there has been no material adverse change in the financial
+condition or operations of such ZCV.
+
+ 
+
+(g)
+
+Consents and Approvals
+
+. To ZCV’s knowledge, no license of any governmental authority
+or of any party to any agreement to which ZCV is a party or by which it may be bound or affected, is necessary at the time this representation
+is being made, in connection with the execution, delivery, performance or enforcement of this Agreement, except such as have been obtained
+and are in full force and effect under this Agreement.
+
+ 
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(h)
+
+Loan Compliance
+
+. ZCV is in compliance with all of the material terms of any loan to which
+it is a party and no event of default exists under any such loan.
+
+ 
+
+(i)
+
+Litigation
+
+. There is no pending legal, arbitration, or governmental action or proceeding
+to which ZCV is a party, and to the best of ZCV’s knowledge, no such action or proceeding is threatened or contemplated.
+
+ 
+
+(j)
+
+Taxes
+
+. To ZCV’s knowledge, ZCV has: (i) filed or caused to be filed prior to delinquency
+all federal and all state and local tax returns that are required to be filed; (ii) paid all taxes as shown on such returns; and (iii)
+paid all other taxes, assessments and governmental charges or levies upon it and its property, income, profits and assets which are due
+and payable, except where the payment of such tax, assessment, governmental charge or levy is being contested in good faith and by appropriate
+proceedings and adequate reserves in compliance with GAAP have been set aside on ZCV’s books therefor.
+
+ 
+
+(k)
+
+Solvency
+
+. ZCV: (i) owns assets the present fair value of which are greater than the amount
+that will be required to pay the probable liabilities of ZCV’s then existing debts and liabilities as they become due and payable
+considering all financing alternatives and potential asset sales reasonably available to ZCV; and (ii) has capital that is not unreasonably
+small in relation to its respective business as presently conducted.
+
+ 
+
+5.
+
+Notices
+. All notices and other communications relating to this Agreement, the Initial Loan, any
+Additional Loan or any Note issued in connection therewith, shall be in writing and shall be deemed given upon the first to occur of (x)
+deposit with the United States Postal Service or overnight courier service, properly addressed and postage prepaid; (y) transmittal by
+facsimile or e-mail properly addressed (with written acknowledgment from the intended recipient such as “return receipt requested”
+function, return e-mail, or other written acknowledgment); or (z) actual receipt by an employee or agent of the other party. Notices hereunder
+shall be sent to the following addresses, or to such other address as such party shall specify in writing (with a copy sent via email):
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+(a)
+
+ 
+
+If to ZCV:
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ZenCredit Ventures, LLC
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+201 S Biscayne Boulevard, 28th Floor, Miami FL 33140
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Attention: Gustavo Sansaloni
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+E-mail: [***]
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Facsimile: [***]
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+(b)
+
+ 
+
+If to Lender:
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Lender Name: Verify Me Inc.
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Address: 801 International Parkway, Fifth Floor, Lake Mary, FL 32746
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Attention: Adam Stedham
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Email: [***]
+
+ 
+
+ 
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6.
+
+Governing Law, Jurisdiction and Resolution of Disputes
+. The Parties acknowledge that ZCV, and its
+servicing agent, FNC Services, LLC, maintain an office in New York, New York, and that the State of New York has a substantial relationship
+to the Parties and this Agreement, the Initial Loan, any Additional Loan or any Note(s) issued in connection therewith. Matters of construction,
+validity and performance of this Agreement and any Note(s) issued hereunder, and any claim, controversy, dispute, or cause of action (whether
+in contract, tort, or otherwise) based on, arising out of, or relating to this Agreement, the Initial Loan, any Additional Loan or any
+Note(s) issued in connection therewith, and the transactions contemplated hereby (a “
+Dispute
+”) shall be governed by
+and construed in accordance with the laws of the State of New York applicable to contracts made and performed in such State (without regard
+to principles of conflict of laws) and any applicable law of the United States of America).
+
+ 
+
+(a)
+
+Submission to Jurisdiction/Venue
+
+. The Parties permanently, irrevocably and unconditionally
+(i) agree that any action, suit, or proceeding arising from or relating to a Dispute, including without limitation any proceeding or action
+brought to compel or enjoin an arbitration proceeding, or to confirm, vacate or modify an arbitration award (a “
+Dispute Proceeding
+”),
+may only be brought in the state and federal courts located within the State of New York sitting in New York County, (the “Venue
+Courts”), (ii) submit to the exclusive jurisdiction of the Venue Courts with respect to any Dispute Proceeding, and (iii) waive
+any objection that they may now or hereafter have to the laying of venue in the Venue Courts or the exercise of jurisdiction by the Venue
+Courts over any Dispute Proceeding, including any defense of lack of jurisdiction, improper venue or inconvenient forum. Notwithstanding
+the foregoing, final judgment in any Dispute Proceeding shall be conclusive and may be enforced in other jurisdictions by suit on the
+judgment or in any other manner provided by law.
+
+ 
+
+(b)
+
+Mandatory Mediation And Arbitration
+
+. Notwithstanding Section 7(a) herein, before any Dispute
+Proceeding is formally commenced, the parties shall (i) first attempt to resolve the Dispute and any potential Dispute Proceeding by reasonable
+discussion in the form of informal mediation, and (ii) if reasonable discussion and informal mediation between the parties is not successful,
+shall be submit any Dispute to arbitration before the American Arbitration Association, in accordance with the then-prevailing Commercial
+Arbitration Rules of the AAA (the “Rules”). The arbitration shall be held in New York, New York at a location chosen and supplied
+by ZCV. Any and all discussions and arbitration demands made pursuant to this Section 6(b) shall be confidential and shall be treated
+as compromise and settlement negotiations. No Party may initiate or continue any Dispute Proceeding prior to engaging in reasonable discussions,
+giving written notice of the Party’s belief that further reasonable discussions would be futile and engaging in Arbitration through
+completion. Any Dispute Proceeding commenced in violation of this section shall be dismissed or stayed, without requiring any Party to
+post a bond or undertaking (or in the event that a bond or undertaking is required as a matter of law, then any such bond or undertaking
+shall be in a nominal amount).
+
+ 
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c)
+
+Jury Waiver
+
+. THE PARTIES HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVE ALL RIGHT TO TRIAL
+BY JURY IN ANY DISPUTE PROCEEDING, OR WITH RESPECT TO ANY COUNTERCLAIMS, CROSS-CLAIMS OR THIRD PARTY CLAIMS RELATED THERETO.
+
+ 
+
+7.
+
+Cross Default
+. (i) The occurrence of an uncured payment related event of default under any other
+loan to which ZCV is a party, or (ii) the occurrence of an uncured default which results in the acceleration and demand for payment of
+all principal and interest owed under any other loan to which ZCV is a party and has defaulted on for a reason other than a payment related
+event of default, will cause all amounts due pursuant to this Agreement to become immediately due and payable.
+
+ 
+
+8.
+
+Remedies
+.
+
+ In the event that ZCV concedes, or an arbitrator or court of competent jurisdiction
+finds, that ZCV is in material default of its obligations to Lender hereunder, ZCV shall consent to, and shall not oppose, the appointment
+of an independent third party for the purposes of acting as a trustee administrator (the “
+Trustee Administrator
+”).
+The Trustee Administrator shall be selected, and may be changed from time to time at the sole discretion of, ZCV. The Trustee Administrator
+shall: manage ZCV’s business portfolio, provide reporting to the Lender of the same, and make available payments of ZCV’s
+obligations, including the obligations of ZCV to Lender hereunder and under any Note(s). In addition, the Trustee Administrator shall
+oversee the winding down or winding up of ZCV and shall act as the appropriate liaison between ZCV and all third party services used by
+ZCV in its business operations and/or joint ventures, such as bookkeeping, accounting, auditing, and collections. Lender shall have the
+right, but not the obligation, to elect the remedy of the appointment of a Trustee Administrator following the good faith discussions
+and Arbitration as detailed in paragraph 7(b), above, and that election shall serve as a waiver of any other remedies at law or equity
+against ZCV, including the right to commence a Dispute Proceeding.
+
+ 
+
+9.
+
+Successors and Assigns
+. Neither this Agreement nor any Note(s) issued thereunder, nor any rights
+or obligations arising thereunder or related thereto, may be assigned or transferred by the Lender to any individual, corporation, company,
+limited liability company, trust, joint venture, association, partnership, unincorporated organization, governmental authority, or other
+entity without ZCV’s prior written consent (which consent will not be unreasonably withheld, particularly in the event of the death,
+disability or insolvency of Lender or the assignment of Lender’s assets to a trust, or the assignment to Lender’s successor,
+assign, heir, executor or immediately family member). ZCV may assign its rights and obligations hereunder (and under any Note(s) issued
+hereunder), to any company affiliate of ZCV or to any successor of ZCV (including any entity which purchases the majority of the assets
+of ZCV) in which the current managers of ZCV continue to manage the affiliate or successor company.
+
+ 
+
+10.
+
+Integration
+.
+
+ This Agreement constitute the entire contract between ZCV and the Lender with
+respect to the subject matter hereof and supersedes all previous agreements and understandings, oral or written, with respect thereto
+(other than any Note(s) previously issued by ZCV for the benefit of Lender, which shall remain enforceable by the noteholder against ZCV
+and its successors and assigns).
+
+ 
+
+ 
+
+ 
+
+6
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+11.
+
+Amendments and Waivers
+. No term of this Agreement may be waived, modified, or amended, except by
+an instrument in writing signed by the Party to be so bound. Any waiver of the terms hereof shall be effective only in the specific instance
+and for the specific purpose given.
+
+ 
+
+12.
+
+Severability
+. If any term or provision of this Agreement is invalid, illegal, or unenforceable
+in any jurisdiction, such invalidity, illegality, or unenforceability shall not render such term or provision invalid or unenforceable
+in any other jurisdiction nor shall it affect any other term or provision of this Agreement or any outstanding Note(s) issued hereunder,
+all of which shall remain in full force and effect.
+
+ 
+
+13.
+
+Counterparts/Execution
+. This Agreement and any amendments, waivers, consents, or supplements hereto
+(and any Note(s) issued hereunder) may be executed in counterparts, each of which shall constitute an original, but all of which taken
+together shall constitute a single contract. Delivery of an executed counterpart of a signature page by facsimile or in electronic (“pdf”
+or “tif”) format shall be as effective as delivery of a manually executed counterpart of this Note. The words “execution,”
+“signed,” “signature,” and words of similar import in this Note shall be deemed to include electronic and digital
+signatures and the keeping of records in electronic form, each of which shall be of the same effect, validity, and enforceability as manually
+executed signatures and paper-based recordkeeping systems, to the extent and as provided for under applicable law, including the 
+Electronic
+Signatures in Global and National Commerce Act of 2000
+ (15 U.S.C. § 7001 et seq.), the Electronic Signatures and Records Act
+of 1999 (N.Y. State Tech. Law §§ 301-309), and any other similar state laws based on the 
+Uniform Electronic Transactions
+Act.
+ This Agreement shall be construed as having been negotiated and drafted by both Parties, the authorized agents and signatories
+of whom are sophisticated businesspeople, and both Parties have availed themselves of the opportunity to review the document with the
+legal counsel of their choosing. No ambiguities shall be resolved against either party as “the drafter”. By signing on behalf
+of an entity, a signatory affirmatively represents that the signatory is duly and properly authorized to bind that entity, and that by
+so signing on behalf of that entity, the signatory intends to and hereby does so bind that entity to the terms and conditions of this
+Agreement.
+
+ 
+
+[
+Signature Page Follows
+]
+
+ 
+
+ 
+
+ 
+
+7
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, the Parties have executed
+this Master Loan Agreement as of
+
+ 
+
+ 
+
+ 
+Lender Name:  Verify Me Inc.
+
+ 
+ 
+
+ 
+ZenCredit Ventures, LLC
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+By:
+
+ 
+/s/ Adam Stedham
+
+ 
+ 
+
+ 
+By:
+
+ 
+/s/ Avi Ellman
+
+ 
+
+ 
+Name:
+
+ 
+Adam Stedham
+
+ 
+ 
+
+ 
+Name:
+
+ 
+Avi Ellman
+
+ 
+
+ 
+Title:
+
+ 
+Authorized Member
+
+ 
+ 
+
+ 
+Title:
+
+ 
+Manager
+
+ 
+
+ 
+Date:
+
+ 
+8/8/2025
+
+ 
+ 
+
+ 
+Date:
+
+ 
+8/7/2025
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Email:
+
+ 
+
+[***]
+
+ 
+
+ 
+
+ 
+
+8

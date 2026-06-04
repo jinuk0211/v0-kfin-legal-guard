@@ -1,0 +1,235 @@
+EX-10.1
+
+2
+
+ex-101secondamendmenttosix.htm
+
+EX-10.1
+
+Document
+
+Exhibit 10.1
+
+SECOND AMENDMENT TO
+
+SIXTH AMENDED AND RESTATED
+
+LOAN AND SECURITY AGREEMENT
+
+This
+
+ 
+
+Second Amendment to Sixth Amended and Restated Loan and Security Agreement
+
+ (this “
+
+Amendment
+
+”) is entered into as of April 25, 2023, by and between 
+
+Comerica Bank
+
+ (“
+
+Bank
+
+”) and 
+
+On24, Inc.
+
+ (“
+
+Borrower
+
+”).
+
+RECITALS
+
+A.
+
+    Borrower and Bank are parties to that certain Sixth Amended and Restated Loan and Security Agreement, dated as of August 31, 2021, as amended by that certain First Amendment to Sixth Amended and Restated Loan and Security Agreement, dated as of February 11, 2022 (as may be further amended, restated, supplemented or otherwise modified from time to time, collectively, the “
+
+Loan Agreement
+
+”). 
+
+B.
+
+    Borrower and Bank desire to amend the Loan Agreement in accordance with the terms set forth in this Amendment.
+
+C.    
+
+Bank is willing to amend the Loan Agreement, subject to the terms and conditions hereinafter set forth and the documents to be executed in connection herewith.
+
+Now, Therefore
+
+, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+AGREEMENT
+
+I.
+
+Incorporation by Reference. 
+
+The Recitals and the documents referred to therein are incorporated herein by this reference. Except as otherwise noted, the terms not defined herein shall have the meaning set forth in the Loan Agreement.
+
+II.
+
+Amendment to the Loan Agreement.
+
+ Subject to the satisfaction of the conditions precedent as set forth in Article VI hereof, the Loan Agreement is hereby amended as set forth below.
+
+A.
+
+Section 7.6 of the Loan Agreement is hereby amended and restated in its entirety to read as follows: 
+
+“7.6    
+
+Distributions
+
+. Pay any dividends or make any other distribution or payment on account of or in redemption, retirement or purchase of any Equity Interests, except that Borrower may (i) repurchase the Equity Interests of former employees pursuant to equity repurchase agreements as long as an Event of Default does not exist prior to such repurchase or would not exist after giving effect to such repurchase, (ii) repurchase the Equity Interests of former employees pursuant to equity repurchase agreements by the cancellation of indebtedness owed by such former employees to Borrower regardless of whether an Event of Default exists, (iii) during the period beginning on December 2, 2021 and ending on June 2, 2023 (the “First Repurchase Term”), repurchase any Equity Interests pursuant to open market repurchases so long as an Event of Default does not exist prior to any such repurchase, and provided that the aggregate amount paid in connection with this clause (iii) shall not exceed Fifty Million Dollars ($50,000,000), and (iv) during the period beginning on March 11, 2023 and ending March 31, 2024 (the “Second Repurchase Term”), pay dividends or repurchase any Equity Interests pursuant to open market purchases or an accelerated share repurchase program as long as an Event of Default does not exist prior to any such payment or repurchase, and provided further that the aggregate amount paid in connection with this clause (iv) shall not exceed One Hundred Twenty-Five Million Dollars ($125,000,000).”
+
+1
+
+B.
+
+Clause (c) of the defined term “Permitted Investments” on 
+
+Exhibit A
+
+ of the Loan Agreement is hereby amended and restated in its entirety to read as follows: 
+
+“(c)    Repurchases of Equity Interests (x) from former employees, directors, or consultants of Borrower under the terms of applicable equity repurchase agreements (i) in an aggregate amount not to exceed One Hundred Thousand Dollars ($100,000) in any fiscal year, provided that no Event of Default has occurred, is continuing or would exist after giving effect to the repurchases, or (ii) in any amount where the consideration for the repurchase is the cancellation of indebtedness owed by such former employees, directors or consultants to Borrower regardless of whether an Event of Default exists and (y) during the First Repurchase Term, subject to the terms and restrictions set forth in Section 7.6(iii) hereof and (z) during the Second Repurchase Term, subject to the terms and restrictions set forth in Section 7.6(iv) hereof;”
+
+III.
+
+Representations and Warranties.
+
+ 
+
+To induce Bank to enter into this Amendment, Borrower hereby represents and warrants to Bank as follows:
+
+A.
+
+Immediately after giving effect to this Amendment (a) the representations and warranties contained in the Loan Documents are true, accurate and complete in all material respects (except to the extent any such representation and warranty is qualified by materiality or reference to Material Adverse Effect, in which case, such representation and warranty shall be true, accurate and complete in all respects) as of the date hereof (except to the extent such representations and warranties relate to an earlier date, in which case they are true, accurate and complete in all material respects as of such date), and (b) no Event of Default has occurred and is continuing and no event that is, or after notice or passage of time, or both, would be, an Event of Default has occurred or is continuing;
+
+B.
+
+Borrower has the power and authority to execute and deliver this Amendment and to perform its obligations under the Loan Agreement, as amended by this Amendment;
+
+C.
+
+The organizational documents of Borrower delivered to Bank as of the Closing Date remain true, accurate and complete and have not been amended, supplemented or restated and are and continue to be in full force and effect;
+
+D.
+
+The execution and delivery by Borrower of this Amendment and the performance by Borrower of its obligations under the Loan Agreement, as amended by this Amendment, have been duly authorized;
+
+E.
+
+The execution and delivery by Borrower of this Amendment and the performance by Borrower of its obligations under the Loan Agreement, as amended by this Amendment, are not in conflict with nor constitute a breach of any provision contained in Borrower’s Certificate of Incorporation, as amended, or Bylaws, as amended, nor will they constitute an event of default under any material agreement by which Borrower is bound, Borrower is not in default under any agreement by which it is bound, except to the extent such default would not reasonably be expected to cause a Material Adverse Effect; 
+
+F.
+
+Borrower has obtained all consents, approvals and authorizations of, made all declarations or filings with, and given all notices to, all governmental authorities that are necessary for the continued operation of Borrower’s business as currently conducted, except where the failure to do so would not reasonably be expected to cause a Material Adverse Effect; and
+
+G.
+
+This Amendment has been duly executed and delivered by Borrower and is the binding obligation of Borrower, enforceable against Borrower in accordance with its terms, except as such enforceability may be limited by bankruptcy, insolvency, reorganization, liquidation, moratorium or other similar laws of general application and equitable principles relating to or affecting creditors’ rights.
+
+2
+
+ 
+
+IV.
+
+Legal Effect.
+
+A.
+
+The Loan Agreement is hereby amended wherever necessary to reflect the changes described above. Borrower agrees that it has no defenses against the obligations to pay any amounts under the Indebtedness.
+
+B.
+
+Borrower understands and agrees that in modifying the existing Indebtedness, Bank is relying upon Borrower’s representations, warranties, and agreements, as set forth in the Loan Agreement and this Amendment. Except as expressly modified pursuant to this Amendment, the terms of the Loan Agreement remain unchanged, and in full force and effect. Bank’s agreement to modifications to the existing Indebtedness pursuant to this Amendment in no way shall obligate Bank to make any future modifications to the Indebtedness. Nothing in this Amendment shall constitute a satisfaction of the Indebtedness. It is the intention of Bank and Borrower to retain as liable parties, all makers and endorsers of the Loan Agreement, unless the party is expressly released by Bank in writing. No maker, endorser, or guarantor will be released by virtue of this Amendment. The terms of this paragraph apply not only to this Amendment, but also to all subsequent loan modification requests. The Loan Agreement and each of the other Loan Documents, as supplemented by this Amendment, are and shall continue to be in full force and effect and are hereby in all respects ratified and confirmed. Borrower hereby further ratifies and reaffirms the validity and enforceability of all of the Liens and security interests heretofore granted, pursuant to and in connection with the Loan Agreement or any other Loan Document, to Bank, as collateral security for the obligations under the Loan Documents in accordance with their respective terms, and acknowledges that all of such Liens and security interests, and all Collateral heretofore pledged as security for such obligations, continue to be and remain Collateral for such obligations from and after the date hereof. The Borrower hereby agrees and confirms that all Credit Extensions and Obligations shall be guaranteed pursuant to the Loan Documents as provided therein.
+
+C.
+
+This Amendment may be executed in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one instrument. This is an integrated Amendment and supersedes all prior negotiations and agreements regarding the subject matter hereof. All modifications hereto must be in writing and signed by the parties.
+
+V.
+
+Electronic Signatures.
+
+ The parties agree that this Amendment, the Loan Agreement and any of the Loan Documents may be executed by electronic signatures. The parties further agree that the electronic signature of a party to this Amendment, the Loan Agreement or any Loan Document shall be as valid as an original manually executed signature of such party and shall be effective to bind such party to this Amendment, the Loan Agreement or such Loan Document, and that any electronically signed document (including this Amendment, the Loan Agreement or any Loan Document) shall be deemed (i) to be “written” or “in writing,” and (ii) to have been “signed” or “duly executed”.  For purposes hereof, “electronic signature” means a manually-signed original signature that is then transmitted by electronic means or a signature through an electronic signature technology platform. If Bank determines in its sole discretion that the Amendment has not been timely executed by Borrower, then the Amendment shall be considered null and void.   Borrower hereby agrees that Bank shall not have any liability of any nature or kind to any a loan party, including, but not limited to Borrower, in connection therewith. Notwithstanding the foregoing, Bank may require original manually executed signatures (and upon Bank’s request Borrower shall deliver such original manually executed signatures to Bank).
+
+VI.
+
+Conditions Precedent.
+
+ Except as specifically set forth in this Amendment, all of the terms and conditions of the Loan Agreement remain in full force and effect. The effectiveness of this Amendment is conditioned upon receipt by Bank of this Amendment, and any other documents which Bank may require to carry out the terms hereof, including but not limited to the following:
+
+A.
+
+This Amendment, duly executed by Borrower; 
+
+B.
+
+The representations and warranties in Article III of this Amendment shall be true, accurate and complete;
+
+3
+
+ 
+
+C.
+
+Payment of an amount equal to all Bank Expenses incurred in connection with this Amendment; and 
+
+D.
+
+Such other documents and completion of such other matters, as Bank may reasonably deem necessary or appropriate.
+
+VII.
+
+CHOICE OF LAW AND VENUE
+
+. 
+
+ THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE INTERNAL LAWS OF THE STATE OF CALIFORNIA, WITHOUT REGARD TO PRINCIPLES OF CONFLICTS OF LAW. 
+
+[remainder of page left blank; signature page follows]
+
+4
+
+ 
+
+In Witness Whereof,
+
+ the undersigned have executed this Amendment as of the first date above written. Borrower also acknowledges and agrees that Borrower’s electronic signature below indicates Borrower’s agreement to, and intention to be legally bound by, all of the terms and conditions of the Loan Agreement and this Amendment. If Bank determines in its sole discretion that this Amendment has not been timely executed by Borrower, then this Amendment shall be considered null and void. Borrower hereby agrees that Bank shall not have any liability of any nature or kind to any loan party, including, but not limited to Borrower, in connection therewith.
+
+ON24, INC.
+
+By:
+
+/S/ Steven Vattuone
+
+Name: Steven Vattuone
+
+Title: Chief Financial Officer
+
+COMERICA BANK
+
+By:
+
+/s// Elizabeth McDonald
+
+Name: Elizabeth McDonald
+
+Title: Senior Vice President
+
+[
+
+Signature Page to Second Amendment to Sixth Amended and Restated Loan and Security Agreement
+
+]

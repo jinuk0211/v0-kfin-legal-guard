@@ -1,12 +1,12 @@
 import { NextRequest, NextResponse } from "next/server"
 import { codefPost, rsaEncrypt } from "@/lib/codef-client"
 import { getSession, saveSession } from "@/lib/session-store"
-import { saveUser } from "@/app/api/insurance/check-user/route"
+import { saveRegisteredUser } from "@/lib/db/registered-user"
 
 export async function POST(req: NextRequest) {
   try {
     const { sessionId, emailAuthNo } = await req.json()
-    const session = getSession(sessionId)
+    const session = await getSession(sessionId)
     if (!session) return NextResponse.json({ error: "세션 만료." }, { status: 404 })
 
     const params = {
@@ -25,8 +25,8 @@ export async function POST(req: NextRequest) {
     if (code === "CF-00000" || code === "CF-03002") {
       const loginId = result?.data?.resLoginId || session.finalId || session.regId || ""
       const loginPw = session.finalPw || session.regPw || ""
-      saveUser(session.baseParams.phoneNo as string, session.baseParams.birthDate as string, loginId, loginPw)
-      saveSession(sessionId, { step: "done", loginId, loginPw })
+      await saveRegisteredUser(session.baseParams.phoneNo as string, session.baseParams.birthDate as string, loginId, loginPw)
+      await saveSession(sessionId, { step: "done", loginId, loginPw })
       return NextResponse.json({ status: "registered", sessionId, loginId })
     }
 

@@ -1,0 +1,2465 @@
+EX-10.1
+
+2
+
+ex10-1.htm
+
+EX-10.1
+
+ 
+
+ 
+
+Exhibit
+10.1
+
+ 
+
+LIMITED
+WAIVER AND FOURTH AMENDMENT TO
+
+SECOND
+AMENDED AND RESTATED CREDIT AGREEMENT AND CONSENT
+
+ 
+
+This
+
+LIMITED WAIVER AND FOURTH AMENDMENT TO SECOND AMENDED AND RESTATED CREDIT AGREEMENT AND CONSENT
+, dated as of June 12, 2025 (this
+“
+Amendment
+”), is made and entered into by and among 
+LDRV HOLDINGS CORP.
+, a Delaware corporation (the “
+Borrower
+Representative
+”), each of the other Loan Parties party hereto, each of the Lenders party hereto and 
+MANUFACTURERS AND TRADERS
+TRUST COMPANY
+, a New York banking corporation, as the Administrative Agent.
+
+ 
+
+RECITALS:
+
+ 
+
+WHEREAS
+,
+reference is made to (i) that certain Second Amended and Restated Credit Agreement, dated as of February 21, 2023 (as amended, restated,
+supplemented or otherwise modified prior to the date hereof, the “
+Existing Credit Agreement
+,” and as amended by this
+Amendment, the “
+Credit Agreement
+”), by and among the Borrower Representative, the Loan Parties party thereto, the
+lenders from time to time party thereto (the “
+Lenders
+”), and the Administrative Agent and (ii) that certain letter
+agreement, dated and effective as of April 30, 2025 (as amended, restated, supplemented or otherwise modified prior to the date hereof,
+the “
+Limited Waiver
+”), by and among the Borrowers, the Guarantors, the Lenders party thereto, and the Administrative
+Agent;
+
+ 
+
+WHEREAS
+,
+each of the Loan Parties acknowledges and agrees that certain Defaults and Events of Default have occurred and are continuing (collectively,
+the “
+Specified Defaults
+”) under (i) 
+Section 7.01
+ of the Existing Credit Agreement as a result of the Borrowers’
+failure to (a) to make certain curtailment payments as required by 
+Sections 2.01.7
+, 
+2.01.8
+, and 
+2.01.9
+ of the Existing
+Credit Agreement during the month ending April 30, 2025 and (b) to pay to the Administrative Agent for the ratable benefit of the Lenders
+in each Class all accrued interest owing in respect of such Class of Loans in arrears for the Interest Payment Date occurring on May
+1, 2025, as required by 
+Section 2.07
+ of the Existing Credit Agreement, (ii) 
+Section 7.02(a)
+ of the Existing Credit Agreement
+as a result of the Borrowers’ failure to comply with the minimum Liquidity covenant set forth in 
+Section 6.19
+ of the Existing
+Credit Agreement for the month ended April 30, 2025, (iii) 
+Section 7.02(c)
+ of the Existing Credit Agreement as a result of the
+Borrowers’ failure to pay when and as due, or within applicable grace periods, all liabilities due to third persons and all Taxes
+imposed upon it or any of its property or which it is required to withhold and pay over to the taxing authority or which it must pay
+on its income prior to the date of the Amendment, as required by 
+Sections 5.05
+ and 
+5.07
+ of the Existing Credit Agreement,
+(iv) 
+Section 7.03
+ of the Existing Credit Agreement as a result of the Borrowers’ representation under 
+Section 3.19
+
+of the Existing Credit Agreement, that each of the Loan Parties and each Subsidiary of a Loan Party, taken as a whole is, and will remain,
+Solvent, being false when made or deemed made prior to July 31, 2025, and (v) 
+Section 7.04
+ of the Existing Credit Agreement as
+a result of (a) any of the foregoing Defaults or Events of Default resulting in defaults or cross defaults under the Knoxville mortgage
+in favor of First Horizon Bank or (b) any of the following: (1) any of the foregoing Defaults or Events of Default resulting in defaults
+or cross defaults under the Coliseum Agreement or (2) the occurrence of any Specified Coliseum Default;
+
+ 
+
+WHEREAS
+,
+the Loan Parties have requested that the Administrative Agent and the Required Lenders agree to (i) waive the Specified Defaults, (ii)
+amend certain provisions of the Existing Credit Agreement and (iii) consent to the Tulsa Sale (as defined below), in each case, on the
+terms and subject to the conditions set forth herein; and
+
+ 
+
+WHEREAS
+,
+the Lenders party hereto, comprising all Lenders under the Existing Credit Agreement, have agreed to waive the Specified Defaults, amend
+certain provisions of the Existing Credit Agreement and consent to the Tulsa Sale, in each case, on the terms and subject to the conditions
+set forth herein.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NOW,
+THEREFORE
+, in consideration of the mutual agreements herein contained and other good and valuable consideration, the sufficiency
+and receipt of which are hereby acknowledged, the parties hereto agree as follows:
+
+ 
+
+SECTION
+1. 
+
+Defined Terms; Interpretation; Etc
+
+.
+
+ Capitalized terms used and not defined herein shall have the meanings
+assigned to such terms in the Existing Credit Agreement. This Amendment is a “Credit Document”, as defined in the Existing
+Credit Agreement.
+
+ 
+
+SECTION
+2. 
+
+Amendments to Existing Credit Agreement
+
+. Subject to the terms and conditions set forth herein, effective upon the
+occurrence of the Fourth Amendment Effective Date (as defined below), the Existing Credit Agreement is hereby amended as follows:
+
+ 
+
+(a)
+
+Section 1.01
+ of the Existing Credit Agreement is amended by adding the following definition in the appropriate alphabetical location:
+
+ 
+
+“Fourth
+Amendment Effective Date”
+ means June 12, 2025.
+
+ 
+
+(b)
+
+Section 2.03.3(a)(ii)
+ of the Existing Credit Agreement is amended by deleting the reference to “and the Properties located
+in Waller, Texas” in its entirety.
+
+ 
+
+(c)
+
+Section 5.05
+ of the Existing Credit Agreement is amended and restated in its entirety as follows:
+
+ 
+
+“Section
+5.05 
+Payment Of Liabilities To Third Persons
+. Each Borrower and each other Loan Party shall pay when and as due, or within applicable
+grace periods, all liabilities due to third persons where the failure to pay, discharge or satisfy the same would reasonably be expected,
+individually or in the aggregate, to have a Material Adverse Change, except when the amount thereof is being contested in good faith
+by appropriate proceedings and with adequate reserves therefor being set aside by it.”
+
+ 
+
+(d)
+
+Section 5.07
+ of the Existing Credit Agreement is amended and restated in its entirety as follows:
+
+ 
+
+“Section
+5.07. 
+Payment of Taxes
+. Each of the Borrowers and each of the other Loan Parties shall pay or cause to be paid when and as due
+all Taxes imposed upon it or on any of its property or which it is required to withhold and pay over to the taxing authority or which
+it must pay on its income, except where (i) contested in good faith, by appropriate proceedings and at its own cost and expense or (ii)
+the failure to pay, discharge or satisfy the same would not reasonably be expected, individually or in the aggregate, to have a Material
+Adverse Change; 
+provided
+, 
+however
+, that no Loan Party shall be deemed to be contesting in good faith by appropriate proceedings
+unless, (a) such proceedings operate to prevent the taxing authority from attempting to collect the Taxes, (b) the Collateral is not
+subject to sale, forfeiture or loss during such proceedings, (c) the applicable Loan Party’s contest does not subject the Credit
+Parties to any liabilities owed to or claims from the taxing authority or any other person, (d) the applicable Loan Party establishes
+appropriate reserves for the payment of all Taxes, court costs and other expenses for which such Loan Party would be liable if unsuccessful
+in the contest, (e) the applicable Loan Party prosecutes the contest continuously to its final conclusion, and (f) at the conclusion
+of the proceedings, the applicable Loan Party promptly pays all amounts determined to be payable, including, but not limited to, all
+taxes, legal fees and court costs.”
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(e)
+
+Section 5.23
+ of the Existing Credit Agreement is amended and restated in its entirety as follows:
+
+ 
+
+“Section
+5.23. 
+Chief Administrative Officer; Financial Advisors.
+
+ 
+
+5.23.1
+At all times from the Fourth Amendment Effective Date and until such time as mutually agreed between the Loan Parties and the Required
+Lenders, the Loan Parties and their Subsidiaries shall continue to retain an employee of Berkeley Research Group, LLC (“
+BRG
+”),
+or such other independent party acceptable to the Required Lenders, as chief administrative officer for the Loan Parties and their Subsidiaries
+(the “
+CAO
+”) on the terms and conditions set forth in that certain side letter agreement with the Administrative Agent,
+dated and effective as of April 30, 2025.
+
+ 
+
+5.23.2
+At all times from the Fourth Amendment Effective Date and until such time as mutually agreed between the Loan Parties and the Required
+Lenders, the Loan Parties shall continue to retain CR3, BRG or another financial advisor acceptable to the Administrative Agent (the
+“
+Company FA
+”) as the Loan Parties’ financial advisor, with a scope of work and duties reasonably acceptable
+to the Administrative Agent. The Loan Parties shall cause the Company FA to (a) communicate directly with the Administrative Agent, the
+Lenders and their advisors upon the Administrative Agent’s request, (b) assist the Loan Parties with the reporting required under
+Section 5.09.15, (c) provide information and regular reporting to the Administrative Agent, the Lenders and their advisors in such form
+and on such timelines as may be reasonably requested by them and (d) report directly to the board of directors of the Loan Parties. The
+Loan Parties shall, at all times, cooperate with the Company FA, which shall include, but not be limited to, providing the Company FA
+access to the books and records of the Loan Parties, directing and causing employees, officers, management, advisors, accountants and
+consultants to cooperate with the Company FA, supporting the Company FA in the preparation of reporting and cooperating in good faith
+to implement recommendations reasonably made by the Company FA and acceptable to the Loan Parties and the Administrative Agent.
+
+ 
+
+5.23.3.
+As of the Fourth Amendment Effective Date, the Administrative Agent shall continue to retain FTI Consulting, Inc. (“
+FTI
+”),
+as financial advisor, until such time as determined by the Administrative Agent in its discretion.”
+
+ 
+
+(f)
+
+Section 6.03(l)
+ of the Existing Credit Agreement is amended and restated in its entirety as follows:
+
+ 
+
+“(l)
+Indebtedness incurred to finance or refinance real property owned by any Designated Real Estate Subsidiary; 
+provided that
+ (1)
+prior to the repayment in full of the Revolving Loans, the Net Available Proceeds received therefrom are applied to repay the Revolving
+Loans to the extent required under Section 2.03.3(a)(ii) and (2) after the Revolving Loans are paid in full, the Required Lenders consent
+in writing to the extent such real property is encumbered by a mortgage or deed of trust granted in favor of the Administrative Agent
+to secure the outstanding Obligations under the Floor Plan Facility; and”
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+(g)
+
+Section 6.05(f)
+ of the Existing Credit Agreement is amended and restated in its entirety as follows:
+
+ 
+
+“(f)
+Dispositions of real property by the Designated Real Estate Subsidiaries so long as (1) prior to the repayment in full of the Revolving
+Loans, the proceeds are applied in accordance with Section 2.03.3 hereof and (2) after the Revolving Loans are paid in full, the Required
+Lenders consent in writing to the extent such real property is encumbered by a mortgage or deed of trust granted in favor of the Administrative
+Agent to secure the outstanding Obligations under the Floor Plan Facility.”
+
+ 
+
+(h)
+The covenants set forth in (i) the Limited Waiver and Consent with respect to Credit Agreement dated as of March 27, 2025 by and among
+the Borrowers, the Guarantors, the Lenders party thereto, and the Administrative Agent and (ii) the Limited Waiver, each as amended or
+otherwise modified prior to the date hereof, are terminated and superseded hereby.
+
+ 
+
+The
+parties hereto acknowledge and agree that this Amendment is not a novation of the Existing Credit Agreement, any other Credit Document
+or of any credit facility or guaranty provided thereunder or in respect thereof. As used in the Credit Agreement, the terms “Agreement”,
+“this Agreement”, “herein”, “hereinafter”, “hereto”, “hereof” and words of
+similar import shall, unless the context otherwise requires, from and after the Fourth Amendment Effective Date, mean or refer to the
+Credit Agreement, as further amended, supplemented or modified from time to time in accordance with its terms. As used in any other Credit
+Document, from and after the Fourth Amendment Effective Date, all references to the “Credit Agreement” in such Credit Documents
+shall, unless the context otherwise requires, mean or refer to the Credit Agreement, as further amended, supplemented or modified from
+time to time in accordance with its terms.
+
+ 
+
+SECTION
+3. 
+
+Limited Waiver of Specified Defaults
+
+. Each of the Loan Parties acknowledges and agrees that each of the Specified
+Defaults may constitute or constitutes an Event of Default under the Existing Credit Agreement and the other Credit Documents. Pursuant
+to the request of the Loan Parties and subject to and upon the terms and conditions of this Amendment and the satisfaction of all conditions
+precedent contained herein, as of the Fourth Amendment Effective Date, the Administrative Agent and the Lenders hereby waive each of
+the Specified Defaults and the obligation of any Loan Party to pay interest or Letter of Credit Fees at the Default Rate with respect
+to any Specified Default. Except as expressly provided in this 
+Section 3
+, nothing contained in this Amendment, or any other communication
+between or among the Administrative Agent, the Lenders and the Loan Parties, shall be construed as a waiver by the Administrative Agent
+or any Lender of any covenant or provision of this Amendment, the Existing Credit Agreement, the other Credit Documents or any other
+contract or instrument between or among any Loan Party and the Administrative Agent or any Lender, or of any similar future transaction,
+and the failure of the Administrative Agent and the Lenders at any time or times hereafter to require strict performance by any Loan
+Party of any provision hereof or thereof shall not waive, affect or diminish any right of the Administrative Agent and the Lenders to
+thereafter demand strict compliance therewith. Nothing contained in this Amendment shall directly or indirectly in any way whatsoever
+either: (a) except for the waiver expressly provided in this 
+Section 3
+, impair, prejudice or otherwise adversely affect the Administrative
+Agent’s and the Lenders’ right at any time to exercise any right, privilege or remedy in connection with the Existing Credit
+Agreement and the other Credit Documents, as amended hereby, (b) except as expressly provided in this Amendment, amend or alter any provision
+of the Existing Credit Agreement, the other Credit Documents or any other contract or instrument, or (iii) constitute any course of dealings
+or similar basis for altering any obligation of any Loan Party under the Credit Agreement or the other Credit Documents or any right,
+privilege or remedy of the Administrative Agent and the Lenders under the Credit Agreement, the other Credit Documents or any other contract
+or instrument. The Administrative Agent and the Lenders each hereby reserve all rights granted under this Amendment, the Credit Agreement,
+the other Credit Documents and any other contract or instrument between or among any Loan Party and the Administrative Agent or any Lender.
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECTION
+4. 
+Waiver of Amortization Payments
+
+. Subject to the terms and conditions set forth herein, effective upon the occurrence of
+the Fourth Amendment Effective Date (as defined below), the Administrative Agent and the Required Lenders hereby waive any Default or
+Event of Default resulting from the Borrowers’ failure to make the $2,500,000 quarterly amortization payments on the Revolving
+Credit Loans required pursuant to 
+Section 2.03.3(b)
+ of the Credit Agreement for the Fiscal Quarters ending June 30, 2025, September
+30, 2025 and December 31, 2025.
+
+ 
+
+SECTION
+5. 
+
+Consent to Tulsa Sale
+
+.
+ Subject to the terms and conditions set forth herein, effective upon the occurrence
+of the Fourth Amendment Effective Date, the Administrative Agent and the Lenders hereby consent to the Loan Parties’ and their
+Subsidiaries’ sale of their assets (the “
+Tulsa Sale
+”), including owned real estate, at the Facility located
+at 4655 S. Highway 66, Claremore, OK 74019 (the “
+Tulsa Facility
+”), subject to the following conditions:
+
+ 
+
+(a)
+
+Purchase Price
+. The aggregate purchase price for the Tulsa Facility shall be not less than the sum of (i) $7,000,000, with respect
+to the owned real estate at the Tulsa Facility, (ii) $2,100,000, with respect to goodwill, FF&E, parts, and other intangible and
+tangible assets at the Tulsa Facility (other than RV Inventory), and (iii) cash in an amount equal to the aggregate principal balance
+of the Floor Plan Loans made with respect to the Floor Plan Units located at or in transit to the Tulsa Facility (the “
+Tulsa
+Floor Plan Units
+”) at the time the Tulsa Facility is sold (collectively, the “
+Tulsa Sale Proceeds
+”).
+
+ 
+
+(b)
+
+Use of Proceeds
+. The Tulsa Sale Proceeds shall be applied in accordance with 
+Section 6(c)
+ of this Amendment.
+
+ 
+
+(c)
+
+Purchase Agreement
+. The Loans Parties shall deliver to the Administrative Agent the definitive purchase agreement and related
+sources and uses for the Tulsa Sale, in form and substance satisfactory to the Administrative Agent and the Required Lenders (collectively,
+the “
+Tulsa Purchase Agreement
+”), prior to the consummation of the Tulsa Sale, which shall not contain any terms inconsistent
+in any material respect with the consent provided in this 
+Section 5
+.
+
+ 
+
+(d)
+
+Purchase Agreement Amendments
+. Without the prior written consent of the Administrative Agent, the Loan Parties shall not amend
+or otherwise modify the Tulsa Purchase Agreement.
+
+ 
+
+(e)
+
+Information
+. The Loan Parties shall promptly deliver to the Administrative Agent such financial and other information regarding
+the Tulsa Sale as the Administrative Agent may reasonably request from time to time.
+
+ 
+
+Upon
+the request of the Borrower Representative, the Administrative Agent shall promptly deliver a customary payoff letter in connection with
+the Tulsa Sale that will (x) specify the amount of the Floor Plan Loans and Revolving Loans that must be repaid in connection with the
+Tulsa Sale in order for the Administrative Agent’s Liens on the assets to be sold in the Tulsa Sale to be released and terminated
+(consistent with Section 6(c)(ii) and (iii) of this Amendment) and (y) provide that the Administrative Agent’s Liens on such assets
+shall be released and terminated upon the Administrative Agent’s receipt of such amount in accordance with the provisions of such
+payoff letter.
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+Each
+Loan Party acknowledges and agrees that the consent contained in the foregoing shall not waive or amend (or be deemed to be or constitute
+an amendment to or waiver of) any other covenant, term or provision in the Credit Agreement or hinder, restrict or otherwise modify the
+rights and remedies of the Lenders and the Administrative Agent following the occurrence of any other present or future Default or Event
+of Default under the Credit Agreement or any other Credit Document.
+
+ 
+
+SECTION
+6. 
+
+Allocation of Sale Proceeds
+
+. 
+Notwithstanding anything to the contrary in the Credit Documents, the General
+RV Sale Proceeds (as defined in the Limited Waiver), the Fun Town Sale Proceeds (as defined in the Limited Waiver), and the Tulsa Sale
+Proceeds shall be applied as follows (for the avoidance of doubt, in lieu of any other required use or prepayment specified by the Credit
+Documents):
+
+ 
+
+(a)
+
+General RV Sale Proceeds
+. The General RV Sale Proceeds shall be applied as follows:
+
+ 
+
+(i)
+$14,700,000 to Coliseum in payment of the principal amount of its mortgage on the Facility located at 2398 Peters Road, Fort Pierce,
+Florida 34945, plus interest, fees, costs and expenses and other amounts payable in connection therewith under the Coliseum Agreement;
+
+ 
+
+(ii)
+an amount to the Administrative Agent, for the ratable benefit of the Lenders in the applicable Class, equal to the curtailment payments
+due and payable during the month ending April 30, 2025 and interest payable on the Interest Payment Date occurring on May 1, 2025 that
+remain outstanding as of the Fourth Amendment Effective Date;
+
+ 
+
+(iii)
+with respect to each General RV Floor Plan Unit, 100% of the Floor Plan Loans made with respect to such General RV Floor Plan Units at
+the applicable General RV Facility (as such terms are defined in the Limited Waiver) to the Administrative Agent to be applied to the
+outstanding principal amount of the Floor Plan Loans; and
+
+ 
+
+(iv)
+the balance of the General RV Sale Proceeds to the Loan Parties, for working capital or general corporate purposes.
+
+ 
+
+(b)
+
+Fun Town Sale Proceeds
+. The Fun Town Sale Proceeds shall be applied as follows:
+
+ 
+
+(i)
+with respect to each Fun Town Floor Plan Unit, 100% of the Floor Plan Loans made with respect to such Fun Town Floor Plan Unit at the
+applicable Fun Town Facility (as such terms are defined in the Limited Waiver) to the Administrative Agent to be applied to the outstanding
+principal amount of the Floor Plan Loans; and
+
+ 
+
+(ii)
+the balance of the Fun Town Sale Proceeds to the Loan Parties, for working capital or general corporate purposes.
+
+ 
+
+(c)
+
+Tulsa Sale Proceeds
+. The Tulsa Sale Proceeds shall be applied as follows:
+
+ 
+
+(i)
+from proceeds of the sale of the owned real property at the Tulsa Facility, an amount equal to the remaining outstanding principal amount
+under the Coliseum Agreement to Coliseum in payment of the principal amount of its mortgage on the Tulsa Facility, plus all interest,
+fees, costs and expenses and other amounts payable in connection therewith under the Coliseum Agreement;
+
+ 
+
+ 
+
+6
+
+ 
+
+ 
+
+ 
+
+ 
+
+(ii)
+any remaining Net Available Proceeds with respect to the sale of the owned real property at the Tulsa Facility to the Administrative
+Agent in payment of the principal amount of the Revolving Credit Loans then outstanding;
+
+ 
+
+(iii)
+with respect to each Tulsa Floor Plan Units, 100% of the Floor Plan Loans made with respect to such Tulsa Floor Plan Units to the Administrative
+Agent to be applied to the outstanding principal amount of the Floor Plan Loans; and
+
+ 
+
+(iv)
+the balance of the Tulsa Sale Proceeds to the Loan Parties, for working capital or general corporate purposes.
+
+ 
+
+SECTION
+7. 
+
+Floor Plan Commitment
+
+. 
+The aggregate Floor Plan Loan Commitments and the Floor Plan Line of Credit Dollar
+Cap shall be automatically and permanently reduced (i) effective as of the consummation of each Asset Sale (as such term is defined in
+the Limited Waiver) at each General RV Facility by an amount equal to the aggregate amount of Floor Plan Loans repaid at the closing
+of the Asset Sale at such General RV Facility (it being understood that, with respect to any such Asset Sale occurring on or prior to
+the Fourth Amendment Effective Date, such reductions shall become effective on the Fourth Amendment Effective Date), (ii) upon consummation
+of each Asset Sale at each Fun Town Facility by an amount equal to the aggregate amount of Floor Plan Loans repaid at the closing of
+the Asset Sale at such Fun Town Facility, and (iii) upon consummation of the Tulsa Sale, by an amount equal to the aggregate amount of
+Floor Plan Loans repaid at the closing of the Tulsa Sale; 
+provided that
+, the maximum aggregate reductions pursuant to this 
+Section
+7
+ shall be capped such that the Floor Plan Loan Commitments and the Floor Plan Line of Credit Dollar Cap shall be not less than $245,000,000.
+
+ 
+
+SECTION
+8. 
+
+Covenants
+
+. In addition to and without limitation of the covenants contained in the Credit Documents, the Loan Parties
+hereby covenant and agree that they shall perform, observe and comply with each of the following covenants:
+
+ 
+
+(a)
+
+Repayment of Revolving Credit Loans
+. In the event that, between June 1, 2025 and December 31, 2025, the Revolving Credit Loans
+are not repaid by an aggregate principal amount of at least $7,500,000, the Revolving Credit Borrowers shall make a repayment of the
+principal amount of the Revolving Credit Loans in an amount equal to the deficiency on December 31, 2025.
+
+ 
+
+(b)
+
+Sale of Unimproved Assets
+. The Loan Parties shall sell their unimproved Properties (collectively, the “
+Unimproved Asset
+Sales
+”) located at in (i) Aurora, Colorado (the “
+Aurora Parcel
+”), (ii) Las Vegas, Nevada (the “
+Las
+Vegas Parcel
+”), and (iii) Waller, Texas (the “
+Waller Parcel
+”) on or before the “Unimproved Asset Sale
+Outside Date”, as defined in that certain side letter relating to this Amendment dated as of the date hereof between Borrower Representative
+and Administrative Agent, subject to the following conditions:
+
+ 
+
+(i)
+The Required Lenders, the Borrowers and (solely to the extent there are any loans under the Coliseum Agreement then outstanding) Coliseum
+shall negotiate a mutually agreeable waterfall (subject to 
+Sections 10.01(e)
+ and 
+(i)
+ of the Existing Credit Agreement)
+for the net cash proceeds of the Unimproved Asset Sales promptly upon receipt of the Updated Business Plan (as defined below).
+
+ 
+
+ 
+
+7
+
+ 
+
+ 
+
+ 
+
+ 
+
+(ii)
+The Borrowers shall promptly deliver to the Administrative Agent (i) all bona fide written letters of intent, term sheets, commitment
+letters and/or similar indications of interest received from prospective bidders in connection with any Unimproved Asset Sale and (ii)
+such other information regarding the Unimproved Asset Sales as the Administrative Agent may reasonably request from time to time.
+
+ 
+
+(c)
+
+Updated Business Plan
+. On or before June 30, 2025, the Loan Parties shall cause the CAO in collaboration with management shall
+deliver to the Administrative Agent a business plan running through the Maturity Dates, in form and substance reasonably satisfactory
+to the Administrative Agent and the Required Lenders (the “
+Updated Business Plan
+”), which shall include the CAO’s
+assessment of (i) an appropriate strategy for improving the Loan Parties’ current financial performance and liquidity position,
+(ii) specific initiatives related to revenue enhancement, productivity improvements and cost reductions, and (iii) the amount of cash
+proceeds required by the Loan Parties for bona fide working capital and general corporate purposes, if any, from the Unimproved Asset
+Sales and potentially one or more new loans from Coliseum.
+
+ 
+
+(d)
+
+Investment Banker; Transaction
+. The Loan Parties shall continue to retain a broker or other third-party independent advisor, in
+each case acceptable to the Administrative Agent (the “
+Investment Banker
+”), for the purpose of marketing and advising
+on the Loan Parties’ efforts to raise new capital through one or more asset sales and/or debt or equity capital raises, in each
+case on terms acceptable to the Administrative Agent and the Lenders (each, a “
+Transaction
+”). Until such time as mutually
+agreed between the Loan Parties and the Required Lenders, the Loan Parties shall (i) provide the Administrative Agent with copies of
+(x) all bona fide written letters of intent, term sheets, commitment letters and/or similar indications of interest (“
+IOIs
+”),
+in each case, received from prospective bidders and financing sources in connection with any Transaction promptly, and in any case within
+two business days, after receipt thereof, (y) all material draft definitive documents in connection with any Transaction and (z) all
+investor presentations, confidential information memorandum, financial projections and other written materials prepared by the Investment
+Banker and/or the Loan Parties in connection with any Transaction, (ii) cause their management and advisors (including the Investment
+Banker) to provide weekly written updates and participate in weekly conference calls with the Lenders and their professionals to discuss
+updates regarding the financial status and assets and liabilities of the Loan Parties, the Transactions and any other matters reasonably
+requested by the Lenders and (iii) present all IOIs in connection with any Transaction to the Board of Directors of Pubco Guarantor or
+any transaction or financing committee thereof for consideration.
+
+ 
+
+(e)
+
+Waller Deed of Trust and Amendment to Coliseum Intercreditor Agreement
+. On or before July 14, 2025, the Loan Parties shall cause
+to be delivered to the Administrative Agent (i) a deed of trust granted in favor of the Administrative Agent with respect to the Waller
+Parcel to secure the outstanding Obligations and (ii) a duly executed amendment agreement with respect to the Coliseum Intercreditor
+Agreement pursuant to which Coliseum and the Administrative Agent agree to make changes necessary to effectuate the terms of this Amendment.
+
+ 
+
+(f)
+
+Cross-Collateralization
+. On or before August 12, 2025, except for mortgages or deeds of trust encumbering real property located
+in Oklahoma or Tennessee, the Loan Parties shall cause the existing mortgages or deeds of trusts granted by the Loan Parties and their
+Subsidiaries in favor of the Administrative Agent pursuant to 
+Section 5.15.2
+ of the Credit Agreement to be modified to cross-collateralize
+and secure the outstanding Obligations under the Floor Plan Facility.
+
+ 
+
+(g)
+
+Further Amendments
+. Upon delivery of the Updated Business Plan, the Required Lenders and the Borrowers shall negotiate with the
+Administrative Agent and the Required Lenders (i) mutually agreeable changes to 
+Sections 6.12
+ (Maximum Total Net Leverage Ratio)
+and 
+6.18
+ (Minimum Consolidated EBITDA) of the Existing Credit Agreement and (ii) dissolution of certain dormant Loan Parties and
+other subsidiaries that have few or no remaining assets, subject to the delivery of supporting information satisfactory to the Administrative
+Agent in its sole discretion.
+
+ 
+
+ 
+
+8
+
+ 
+
+ 
+
+ 
+
+ 
+
+The
+Loan Parties’ failure to perform or observe any covenant or agreement set forth in this 
+Section 8
+ shall constitute an immediate
+Event of Default.
+
+ 
+
+SECTION
+9. 
+
+Consent to Coliseum Waiver
+
+. To the extent required under 
+Section 6.16
+ of the Credit Agreement, the Administrative
+Agent hereby consents to the execution and delivery by the Loan Parties and their Subsidiaries of (a) the Waiver of Release Conditions
+and Consent dated June 6, 2025 between the Loan Parties and their Subsidiaries party thereto and Coliseum and (b) the Waiver of Defaults
+and Consent in the form attached thereto as Exhibit C (the “
+Coliseum Waiver
+”). Each Loan Party acknowledges and agrees
+that the consent contained in the foregoing shall not waive or amend (or be deemed to be or constitute an amendment to or waiver of)
+any other covenant, term or provision in the Credit Agreement or hinder, restrict or otherwise modify the rights and remedies of the
+Lenders and the Administrative Agent following the occurrence of any other present or future Default or Event of Default under the Credit
+Agreement or any other Credit Document
+
+ 
+
+SECTION
+10. 
+
+Conditions Precedent
+
+. This Amendment shall become effective as of the date on which the following conditions precedent
+are satisfied (such date, the “
+Fourth Amendment Effective Date
+”):
+
+ 
+
+(a)
+The Administrative Agent (or its counsel) shall have received from each Borrower, each other Loan Party and the Required Lenders a counterpart
+of this Amendment duly executed and delivered on behalf of such party;
+
+ 
+
+(b)
+The Loan Parties shall have delivered to the Administrative Agent the Coliseum Waiver duly executed by the parties thereto; and
+
+ 
+
+(c)
+The Borrowers shall have paid in immediately available funds all unpaid fees and expenses incurred by and owing to Morgan, Lewis &
+Bockius LLP and FTI Consulting, Inc. for which invoices have been presented to Borrower Representative at or prior to the time this Amendment
+has been executed and delivered by the parties hereto.
+
+ 
+
+The
+Administrative Agent shall notify the Borrowers and the Lenders of the Fourth Amendment Effective Date, and such notice shall be conclusive
+and binding.
+
+ 
+
+SECTION
+11. 
+
+Representations and Warranties
+
+. In order to induce the Lenders and the Administrative Agent to enter into this
+Amendment, each Loan Party hereby represents and warrants to the Lenders and the Administrative Agent on and as of the Fourth Amendment
+Effective Date that:
+
+ 
+
+(a)
+
+Authorization; No Contravention
+
+. The execution and delivery by each Loan Party of this Amendment and performance by each
+Loan Party of this Amendment and the Credit Agreement have been duly authorized by all necessary corporate or other organizational action,
+and do not and will not (a) contravene the terms of any of such Loan Party’s Organization Documents; (b) conflict with or result
+in any breach or contravention of, or the creation of any Lien (except pursuant to the Security Documents) under, or require any payment
+to be made under (i) any Material Contract to which such Person is a party or affecting such Person or the properties of such Person
+or any Loan Party, or (ii) any order, injunction, writ or decree of any Governmental Authority or any arbitral award to which such Person
+or its property is subject; or (c) violate any Law; except, in the case of 
+clause (b)
+ or 
+(c)
+, to the extent such contravention,
+conflict or violation would not reasonably be expected to have Material Adverse Change. No Default or Event of Default has occurred and
+is continuing (other than the Specified Defaults).
+
+ 
+
+ 
+
+9
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+
+Binding Effect
+
+. This Amendment has been duly executed and delivered by each Loan Party which is a party hereto, and each
+of this Amendment and the Existing Credit Agreement, as amended by this Amendment, constitute the legal, valid and binding obligation
+of each Loan Party party thereto, enforceable in accordance with its respective terms, subject to applicable bankruptcy, reorganization,
+insolvency, moratorium and similar Laws affecting creditors’ rights generally and general principles of equity.
+
+ 
+
+(c)
+
+Representations and Warranties
+
+. The representations and warranties of the Loan Parties contained in this Amendment and
+each other Credit Document are true and correct in all material respects (and, in the case of any representation or warranty that is
+qualified by materiality or Material Adverse Change, are true and correct in all respects) on and as of Fourth Amendment Effective Date
+, except to the extent that such representations and warranties specifically refer to an earlier date, in which case they are true and
+correct in all material respects (and, in the case of any representation or warranty that is qualified by materiality or Material Adverse
+Change, are true and correct in all respects) as of such earlier date.
+
+ 
+
+SECTION
+8. 
+
+Reaffirmation of Guaranty Agreements and Security Interests
+
+. Each Loan Party hereby acknowledges its receipt of
+a copy of this Amendment and its review of the terms and conditions hereof and consents to the terms and conditions of this Amendment
+and the transactions contemplated hereby. Except as provided in this Amendment, including as it relates to the scope of Obligations secured
+by the Collateral on and after the Fourth Amendment Effective Date , each Loan Party hereby (a) affirms and confirms its guarantees,
+pledges, grants and other undertakings under the Existing Credit Agreement, the Guaranty Agreements and the other Credit Documents to
+which it is a party, and (b) agrees that (i) each Credit Document to which it is a party shall continue to be in full force and effect
+and (ii) all guarantees, pledges, grants and other undertakings thereunder shall continue to be in full force and effect and shall accrue
+to the benefit of the Secured Parties. In furtherance of the foregoing, each respective Loan Party party hereto affirms and confirms
+its guarantee of the Obligations as a “Guarantor” party to the Guaranty Agreements.
+
+ 
+
+SECTION
+9. 
+
+Miscellaneous
+
+.
+
+ 
+
+(a)
+
+No Waiver
+
+. Nothing contained herein shall be deemed to constitute a waiver of compliance with, or consent to any deviation
+from, any term or condition contained in the Existing Credit Agreement or any of the other Credit Documents except as expressly stated
+herein, or constitute a course of conduct or dealing among the parties. The Administrative Agent and the Lenders reserve all rights,
+privileges and remedies under the Credit Documents. Any default by any Loan Party of any of its obligations under this Amendment shall
+constitute an immediate Event of Default under the Credit Agreement, without further action or notice by or any behalf of the Administrative
+Agent, the Lenders or any other Person.
+
+ 
+
+(b)
+
+Fees and Expenses
+
+. The Borrowers shall reimburse the Administrative Agent for all reasonable and documented out-of-pocket
+costs and expenses (including, without limitation, all outstanding reasonable and documented attorneys’ fees, charges and disbursements
+incurred by and owing to Morgan, Lewis & Bockius LLP, legal counsel for the Administrative Agent, and FTI Consulting, Inc., financial
+advisor for the Administrative Agent) incurred by the Administrative Agent in connection with the preparation, negotiation, and execution
+of this Amendment and the other agreements and documents executed and delivered in connection herewith in addition to any other outstanding
+fees and expenses owing, in each case, in accordance with the terms of the Credit Agreement and incurred prior to the date hereof.
+
+ 
+
+ 
+
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c)
+
+Governing Law
+
+. This Amendment and any claims, disputes or causes of action (whether in contract or tort) arising out of
+or related to this Amendment and the transaction contemplated hereby shall be governed by, and construed in accordance with, the laws
+of the Governing State.
+
+ 
+
+(d)
+
+JURISDICTION
+
+. 
+EACH LOAN PARTY IRREVOCABLY AND UNCONDITIONALLY AGREES THAT IT WILL NOT COMMENCE ANY ACTION, LITIGATION
+OR PROCEEDING OF ANY KIND OR DESCRIPTION, WHETHER IN LAW OR EQUITY, WHETHER IN CONTRACT OR IN TORT OR OTHERWISE, AGAINST THE ADMINISTRATIVE
+AGENT, ANY LENDER, OR ANY RELATED PARTY OF THE FOREGOING IN ANY WAY RELATING TO THIS AMENDMENT OR ANY OTHER CREDIT DOCUMENT OR THE TRANSACTIONS
+RELATING HERETO OR THERETO, IN ANY FORUM OTHER THAN THE COURTS OF THE STATE OF NEW YORK SITTING IN NEW YORK COUNTY AND OF THE UNITED
+STATES DISTRICT COURT OF THE SOUTHERN DISTRICT OF NEW YORK, AND ANY APPELLATE COURT FROM ANY THEREOF, AND EACH OF THE PARTIES HERETO
+IRREVOCABLY AND UNCONDITIONALLY SUBMITS TO THE NON-EXCLUSIVE JURISDICTION OF SUCH COURTS AND AGREES THAT ALL CLAIMS IN RESPECT OF ANY
+SUCH ACTION, LITIGATION OR PROCEEDING, OR ANY OTHER ACTION OR PROCEEDING ARISING OUT OF OR RELATING TO THIS AMENDMENT OR ANY OTHER CREDIT
+DOCUMENT, OR FOR RECOGNITION OR ENFORCEMENT OF ANY JUDGMENT, MAY BE HEARD AND DETERMINED IN SUCH NEW YORK STATE COURT OR, TO THE FULLEST
+EXTENT PERMITTED BY APPLICABLE LAW, IN SUCH FEDERAL COURT. EACH OF THE PARTIES HERETO AGREES THAT A FINAL JUDGMENT IN ANY SUCH ACTION
+OR PROCEEDING SHALL BE CONCLUSIVE AND MAY BE ENFORCED IN OTHER JURISDICTIONS BY SUIT ON THE JUDGMENT OR IN ANY OTHER MANNER PROVIDED
+BY LAW. NOTHING IN THIS AMENDMENT OR IN ANY OTHER CREDIT DOCUMENT SHALL AFFECT ANY RIGHT THAT THE ADMINISTRATIVE AGENT OR ANY LENDER
+MAY OTHERWISE HAVE TO BRING ANY ACTION OR PROCEEDING RELATING TO THIS AMENDMENT OR ANY OTHER CREDIT DOCUMENT AGAINST ANY LOAN PARTY OR
+ITS PROPERTIES IN THE COURTS OF ANY JURISDICTION.
+
+ 
+
+(e)
+
+VENUE
+
+. EACH LOAN PARTY IRREVOCABLY AND UNCONDITIONALLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY OBJECTION
+THAT IT MAY NOW OR HEREAFTER HAVE TO THE LAYING OF VENUE OF ANY ACTION OR PROCEEDING ARISING OUT OF OR RELATING TO THIS AMENDMENT OR
+ANY OTHER CREDIT DOCUMENT IN ANY COURT REFERRED TO IN 
+SECTION 10.21
+ OF THE CREDIT AGREEMENT. EACH OF THE PARTIES HERETO HEREBY
+IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE DEFENSE OF AN INCONVENIENT FORUM TO THE MAINTENANCE OF SUCH
+ACTION OR PROCEEDING IN ANY SUCH COURT.
+
+ 
+
+(f)
+
+SERVICE OF PROCESS
+
+. EACH LOAN PARTY IRREVOCABLY CONSENTS TO SERVICE OF PROCESS IN THE MANNER PROVIDED FOR NOTICES IN 
+SECTION
+10.10
+ OF THE CREDIT AGREEMENT. NOTHING IN THIS AMENDMENT WILL AFFECT THE RIGHT OF ANY PARTY HERETO TO SERVE PROCESS IN ANY OTHER
+MANNER PERMITTED BY APPLICABLE LAW.
+
+ 
+
+ 
+
+11
+
+ 
+
+ 
+
+ 
+
+ 
+
+(g)
+
+WAIVER OF JURY TRIAL
+. EACH PARTY HERETO HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT
+IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AMENDMENT OR ANY OTHER
+CREDIT DOCUMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY (WHETHER BASED ON CONTRACT, TORT OR ANY OTHER THEORY). EACH PARTY
+HERETO (A) CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PERSON HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH
+OTHER PERSON WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT AND THE OTHER PARTIES
+HERETO HAVE BEEN INDUCED TO ENTER INTO THIS AMENDMENT AND THE OTHER CREDIT DOCUMENTS BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS
+IN THIS SECTION
+.
+
+ 
+
+(h)
+
+Benefits
+
+. This Amendment shall be binding upon and shall inure to the benefit of the parties hereto and their respective
+successors and permitted assigns.
+
+ 
+
+(i)
+
+Release
+
+. In consideration of the agreements of the Administrative Agent and each Lender contained in this Amendment and
+for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, each of the Loan Parties, on
+behalf of itself and its successors, assigns, and other legal representatives (collectively, the “
+Releasors
+”), hereby
+absolutely, unconditionally and irrevocably releases, remises and forever discharges the Administrative Agent and each Lender, each of
+their successors and assigns, each of their respective affiliates, and their respective affiliates’ present and former shareholders,
+members, subsidiaries, divisions, predecessors, directors, officers, attorneys, employees, agents and other representatives (the Administrative
+Agent, the Lenders and all such other Persons being hereinafter referred to collectively as the “
+Releasees
+,” and individually
+as a “
+Releasee
+”), of and from all demands, actions, causes of action, suits, covenants, contracts, controversies,
+agreements, promises, sums of money, accounts, bills, reckonings, damages and any and all other claims, counterclaims, defenses, rights
+of set-off, demands and liabilities whatsoever (individually
+
+a “
+Claim
+” and collectively, “
+Claims
+”) of every name and nature, either known or unknown, both at
+law and in equity, which the Releasors, or any of them, or any of their successors, assigns or other legal representatives may now or
+hereafter own, hold, have or claim to have against the Releasees or any of them for, upon, or by reason of any circumstance, action,
+cause or thing whatsoever which arises at any time on or prior to the date hereof, including, without limitation, for or on the account
+of, or in relation to, or in any way in connection with the Credit Agreement, or any of the other Credit Documents or transactions thereunder
+or related thereto.
+
+ 
+
+(j)
+
+Counterparts and Integration; Entire Agreement; Electronic Signatures
+
+. This Amendment may be executed in counterparts (and
+by different parties hereto in different counterparts), each of which shall constitute an original, but all of which when taken together
+shall constitute a single contract. This Amendment and the other Credit Documents constitute the entire contract among the parties party
+hereto relating to the subject matter hereof and supersede any and all previous agreements and understandings, oral or written, relating
+to the subject matter hereof. This Amendment shall become effective on the Fourth Amendment Effective Date when, among other things,
+this Amendment shall have been executed by the Administrative Agent and when the Administrative Agent shall have received counterparts
+hereof that, when taken together, bear the signatures of each of the other parties hereto. Delivery of an executed counterpart of a signature
+page of this Amendment by facsimile or in electronic (i.e., “pdf” or “tif”) format shall be just as effective
+as the delivery of a manually executed counterpart of this Amendment.
+
+ 
+
+[
+Remainder
+of this page intentionally left blank; Signature pages follow
+]
+
+ 
+
+ 
+
+12
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF
+, the parties hereto have caused this Amendment to be duly executed by their respective authorized officers as of
+the day and year first above written.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BORROWER
+ REPRESENTATIVE AND BORROWERS:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LDRV
+ HOLDINGS CORP.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Ronald K. Fleming           
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Ronald
+ K. Fleming
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Interim
+ Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAZYDAYS RV AMERICA, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAZYDAYS RV DISCOUNT, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAZYDAYS MILE HI RV, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAZYDAYS OF MINNEAPOLIS LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+LDRV OF TENNESSEE LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+LDRV OF NASHVILLE, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAZYDAYS RV OF CHICAGOLAND, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAZYDAYS OF CENTRAL FLORIDA, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+LONE STAR DIVERSIFIED, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAZYDAYS RV OF PHOENIX, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAZYDAYS RV OF ELKHART, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAZYDAYS RV OF OREGON, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAZYDAYS RV OF WISCONSIN, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAZYDAYS RV OF IOWA, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAZYDAYS RV OF OKLAHOMA, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+LD OF LAS VEGAS, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAZYDAYS RV OF KNOXVILLE, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAZYDAYS RV OF WILMINGTON, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAZYDAYS RV OF LONGMONT, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+LDL OF FORT PIERCE, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAZYDAYS RV OF ST. GEORGE, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAZYDAYS RV OF SURPRISE, LLC
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+LDRV
+ Holdings Corp.,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+its
+ Manager
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+/s/
+ Ronald K. Fleming
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Ronald
+ K. Fleming
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+Interim 
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+LDRV
+– Signature Page to Limited Waiver and Fourth Amendment to Second A&R Credit Agreement and Consent
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GUARANTORS
+:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAZYDAYS
+ HOLDINGS, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAZY
+ DAYS’ R.V. CENTER, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+/s/
+ Ronald K. Fleming
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Ronald
+ K. Fleming
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Interim
+ Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAZYDAYS
+ RV OF MARYVILLE, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAZYDAYS
+ RV OF RENO, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAZYDAYS
+ SUPPORT SERVICES, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+LDRV
+ Holdings Corp.,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+/s/
+ Ronald K. Fleming
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Ronald
+ K. Fleming
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Interim
+ Chief Executive Officer 
+
+ 
+
+ 
+
+LDRV
+– Signature Page to Limited Waiver and Fourth Amendment to Second A&R Credit Agreement and Consent
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ADMINISTRATIVE
+ AGENT AND LENDER
+:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MANUFACTURERS
+ AND TRADERS TRUST COMPANY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Shane Mitzner           
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Shane
+ Mitzner
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Senior
+ Vice President
+
+ 
+
+ 
+
+LDRV
+– Signature Page to Limited Waiver and Fourth Amendment to Second A&R Credit Agreement and Consent
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LENDER:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FLAGSTAR
+ BANK N.A., ASSIGNEE OF FLAGSTAR SPECIALTY FINANCE COMPANY, LLC (AS SUCCESSOR IN INTEREST
+ TO NYCB SPECIALTY
+
+ 
+
+ 
+
+ 
+
+ 
+
+FINANCE
+ COMPANY, LLC)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+/s/
+ Robert L. Marsh
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Robert
+ L. Marsh
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Senior
+ Vice President
+
+ 
+
+ 
+
+LDRV
+– Signature Page to Limited Waiver and Fourth Amendment to Second A&R Credit Agreement and Consent
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LENDER
+:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+huntington
+ national bank
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+/s/
+ Bob Kennedy
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Bob
+ Kennedy
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Vice
+ President
+
+ 
+
+ 
+
+LDRV – Signature
+Page to Limited Waiver and Fourth Amendment to Second A&R Credit Agreement and Consent
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LENDER:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Wells
+ Fargo Commercial Distribution Finance, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Scott M. Johnstone
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Scott
+ M. Johnstone
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Executive
+ Director
+
+ 
+
+ 
+
+LDRV
+– Signature Page to Limited Waiver and Fourth Amendment to Second A&R Credit Agreement and Consent
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LENDER
+:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+rockland
+ trust company
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Robert Clement 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Robert
+ Clement
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Vice
+ President
+
+ 
+
+ 
+
+LDRV
+– Signature Page to Limited Waiver and Fourth Amendment to Second A&R Credit Agreement and Consent

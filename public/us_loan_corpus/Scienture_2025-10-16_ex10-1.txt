@@ -1,0 +1,667 @@
+EX-10.1
+
+2
+
+ex10-1.htm
+
+EX-10.1
+
+ 
+
+ 
+
+Exhibit
+10.1
+
+ 
+
+SECOND
+AMENDMENT OF
+
+LOAN
+AND SECURITY AGREEMENT
+
+ 
+
+THIS
+SECOND AMENDMENT OF LOAN AND SECURITY AGREEMENT (“
+Amendment
+”) is made as of October 10, 2025 between NVK FINANCE,
+LLC, a Nebraska limited liability company (“
+Lender
+”), SCIENTURE, LLC (“
+Borrower
+”), a Delaware limited
+liability company and successor by merger of Scienture, Inc., and SCIENTURE HOLDINGS, INC., the sole member of Borrower (“
+Holdings
+”).
+
+ 
+
+RECITALS
+
+ 
+
+WHEREAS
+,
+Lender and Borrower entered into a certain Loan and Security Agreement dated September 8, 2023, as amended by that certain First Amendment
+of Loan and Security Agreement dated November 22, 2024 (as amended, the “
+Loan Agreement
+”) pursuant to which Lender
+has made a Term Loan to Borrower;
+
+ 
+
+WHEREAS
+,
+certain Events of Default exist and are continuing as a result of the Borrower’s failure to comply with Section 8.1 of the Loan
+Agreement (the “
+Existing Defaults
+”);
+
+ 
+
+WHEREAS
+,
+notwithstanding the Existing Defaults, Borrower has requested that Lender (i) waive the Existing Defaults, and (ii) amend the Loan Agreement
+in certain respects set forth herein, and Lender is agreeable to such requests as set forth herein;
+
+ 
+
+AGREEMENT
+
+ 
+
+NOW,
+THEREFORE
+, in consideration of the premises and the agreements contained herein, and other good and valuable consideration, the receipt
+and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+
+ 
+
+1.
+
+Definitions
+. Capitalized terms used in this Amendment which are defined in the Loan Agreement shall have the meanings given to
+them in the Loan Agreement, as such definitions may be amended by this Amendment. The provisions of this Amendment shall become effective
+on the date of this Amendment.
+
+ 
+
+2.
+
+Acknowledgment of Indebtedness
+. Borrower hereby acknowledges and agrees that as of September 30, 2025, the outstanding principal
+balance on the Term Loan is Two Million and No/100 Dollars ($2,000,000.00), interest, including interest at the Default Rate, has accrued
+and is outstanding in the amount of Six Hundred Fifty-Six Thousand Two Hundred Fifty and No/ Dollars ($656,250.00), for a total principal
+and interest balance outstanding of as of September 30, 2025 of Two Million Six Hundred Fifty-Six Thousand Two Hundred Fifty and No/
+Dollars ($2,656,250.00) (the “
+Outstanding Balance
+”). Interest will continue to accrue as provided for in the Loan
+Agreement and be added to such Outstanding Balance until the Term Loan is paid in full.
+
+ 
+
+3.
+
+Payoff Provisions
+. In the event Borrower elects to pay off the Outstanding Balance after the date of this Amendment, but before
+the Maturity Date (as amended below), then Borrower shall calculate such payoff amount by adding to the Outstanding Balance either: (a)
+$791.67 per day after September 30, 2025 (the “
+Per Diem Amount
+”) or (b) if an Event of Default has occurred since
+September 30, 2025, and Lender has notified Borrower and Holdings of such Event of Default in writing, $1,069.44 (the “
+Default
+Per Diem Amount
+”). Upon Lender’s receipt of the Outstanding Balance, plus the applicable Per Diem Amount or Default Per
+Diem Amount from the Borrower, and plus the Maturity Fee (as defined below) (collectively, the “
+Payoff Amount
+”), the
+Term Loan shall be considered paid in full, and all obligations of the Borrower under the Term Loan shall be deemed paid and satisfied
+in full; provided, however, that if the Amendment Shares have not been issued and the Prospectus Supplement (defined below) has not been
+filed (all in accordance with Sections 6(c) and (9) below) at the time the Payoff Amount is paid, then such obligations to issue the
+Amendment Shares and cause such Prospectus Supplement to be filed shall survive the payment of the Term Loan. Upon receipt of the Payoff
+Amount and satisfaction of all obligations under Sections 6(c) and 9 below by Borrower and Holdings, all agreements documenting such
+Term Loan obligations shall be deemed terminated and all liens, security interests, and encumbrances of Borrower’s assets shall
+be automatically released. Lender hereby authorizes Borrower, or any other party on behalf of Borrower, upon payment of the Payoff Amount
+and satisfaction of all obligations under Sections 6(c) and 9 below by Borrower and Holdings, to prepare and file any UCC-3 Termination
+Statements or other documents reasonably necessary or desirable to evidence the release of Lender’s security interest in any of
+the property or assets of Borrower. Upon Lender’s receipt of the Payoff Amount and satisfaction of all obligations under Sections
+6(c) and 9 below by Borrower and Holdings and from time to time thereafter, Lender agrees promptly to procure, deliver, or execute and
+deliver to Borrower all further releases not specified above, certificates, instruments, and documents as may be reasonably requested
+by Borrower, or which are reasonably required or desirable, to evidence the consummation of the payoff and releases contemplated hereby.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.
+
+Waiver
+. Conditioned upon Borrower and Holdings performing their respective obligations under Section 6 of this Amendment below,
+Lender waives the Existing Defaults. Borrower acknowledges that such waiver shall be strictly limited to the Existing Defaults as set
+forth herein and shall not be construed or deemed to extend to any other provision of the Loan Agreement or any of the Loan Documents.
+Such waiver shall not be deemed (i) to be a waiver of, or consent to, or a modification or amendment of, any other term, condition, or
+covenant of the Loan Agreement or any other Loan Document other than as expressly set forth in this Amendment, (ii) to prejudice any
+right or rights which Lender may now have or may have in the future under or in connection with the Loan Agreement or the other Loan
+Documents or any of the instruments or agreements referred to therein, as the same may be amended, restated, supplemented or modified
+from time to time, or (iii) to be a commitment or any other undertaking or expression of any willingness to engage in any further discussion
+with Borrower, Holdings, or any other Person with respect to any other consent, waiver, amendment, modification or any other change to
+the Loan Agreement or the Loan Documents or any rights or remedies arising in favor of Lender under or with respect to any such documents.
+Such waiver provides a one-time waiver only for the Existing Defaults and periods described in this Amendment. It does not establish
+any pattern, practice, or course of dealing with respect to compliance strictly with the terms of the Loan Agreement and other Loan Documents.
+
+ 
+
+5.
+
+Amendment to the Loan Agreement
+. The reference to “September 8, 2025” contained in the definition of “Maturity
+Date” in Section 13 of the Loan Agreement is hereby deleted and replaced with “December 8, 2025”. For avoidance of
+doubt, the Maturity Date under the Loan Agreement shall be December 8, 2025, or such earlier date as may be provided for in the Loan
+Agreement.
+
+ 
+
+6.
+
+Conditions to Effectiveness
+. This Amendment shall become effective as of the date (the “
+Amendment Effective Date
+”)
+the following conditions precedent have been satisfied:
+
+ 
+
+(a)
+This Amendment shall have been duly executed and delivered by Borrower, Holdings and Lender.
+
+ 
+
+(b)
+Contemporaneously with the execution and delivery of this Amendment, Borrower shall have paid to Lender an amendment fee in the amount
+of Twenty Five Thousand Dollars ($25,000.00) in immediately available United States Dollars plus all of Lender’s associated legal
+fees outstanding as of the date of this Amendment.
+
+ 
+
+(c)
+Holdings shall issue Two Hundred Fifty Thousand (250,000) shares of restricted stock in Holdings to Lender (the “
+Amendment Shares
+”)
+in accordance with the procedures set forth in Section 9 below.
+
+ 
+
+7.
+
+Payment Upon Maturity
+. In addition to paying the outstanding principal balance of the Term Loan and all accrued but unpaid interest
+on the Maturity Date, Borrower shall pay to Lender an extension fee of Twenty Five Thousand Dollars ($25,000.00) payable in full on the
+Maturity Date in immediately available United States Dollars (the “
+Maturity Fee
+”).
+
+ 
+
+8.
+
+Reaffirmation of Loan Agreement
+. Except as modified in this Amendment, all other terms, provisions, conditions and obligations
+imposed under the terms of the Loan Agreement and the other Loan Documents shall remain in full force and effect and are hereby ratified,
+affirmed, assumed, and certified by Borrower and Lender. To the extent necessary, the Loan Documents are hereby amended consistent with
+the amendments provided for in this Amendment.
+
+ 
+
+9.
+
+Registration of the Amendment Shares
+. Borrower and Holdings shall, promptly, but in any event, within ten (10) days following
+the issuance of the Amendment Shares to Lender, file with the U.S. Securities and Exchange Commission (the “
+SEC
+”)
+a prospectus supplement in accordance with Rule 424 promulgated under the Securities Act of 1933, as amended (the “
+Prospectus
+Supplement
+”), to that certain registration statement on Form S-3 filed by Holdings with the Securities and Exchange Commission
+(the “
+SEC
+”) on August 1, 2025 (File No. 333-289198), and declared effective by the SEC on August 8, 2025 (the “
+Registration
+Statement
+”), for the purpose of registering the resale of the Amendment Shares. Borrower and Holdings shall use commercially
+reasonable efforts to cause such Registration Statement to remain effective until the date on which all such shares are eligible for
+resale under Rule 144 without restriction. Lender shall not be required to effect any resale under Rule 144 unless otherwise eligible
+under Rule 144(b)(1), and nothing herein shall be construed to treat Lender as an underwriter. Lender shall cooperate with Borrower and
+Holdings in the preparation of the Prospectus Supplement by providing all information reasonably requested by Borrower or Holdings and
+in its possession or control, including customary representations, beneficial ownership certifications, and legal compliance materials.
+Borrower shall bear all registration and related expenses. Borrower’s and Holdings’ failure to comply with their obligations
+under this Section 9 on or before October 20, 2025 shall constitute an Event of Default under the Loan Agreement (“
+Prospectus
+Supplement Event of Default
+”), and Borrower and Holdings agree that no grace and/or notice and cure periods shall be applicable
+to such Prospectus Supplement Event of Default. Borrower and Holdings acknowledge and agree that their obligations under this Section
+9, is secured by the Collateral and the Loan Documents are hereby amended to include such obligations as an Obligation.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10.
+
+Counterparts; Governing Law
+. This Amendment may be executed in any number of counterparts, each of which when so executed and
+delivered shall be deemed to be an original and all of which counterparts, taken together, shall constitute but one and the same instrument.
+This Amendment shall be governed by and construed in accordance with the laws of the State of New York, exclusive of its choice of laws
+rules.
+
+ 
+
+11.
+
+Waiver
+. The execution, delivery and effectiveness of this Amendment shall not, except as expressly provided in this Amendment,
+operate as a waiver of any right, power or remedy of the Lender under any of the Loan Documents, nor, except as expressly provided in
+this Amendment, constitute a waiver or amendment of any provision of any of the Loan Documents. Upon and after the execution of this
+Amendment by each of the parties hereto, each reference in the Loan Agreement to “this Agreement”, “hereunder”,
+“hereof” or words or phrases of like import referring to the Loan Agreement, and each reference in the other Loan Documents
+to the “Loan Agreement”, “thereunder”, “thereof” or words or phrases of like import referring to
+the Loan Agreement, shall mean and be a reference to the Loan Agreement as modified by this Amendment. This Amendment and the rights
+evidenced by this Amendment shall inure to the benefit of and be binding upon the successors and permitted assigns of the parties hereto,
+and shall be enforceable by any such successors and assigns.
+
+ 
+
+12.
+
+Release
+. The Borrower and Holdings each absolutely, unconditionally, and irrevocably release and forever discharge the Lender,
+and any and all participants, parent corporations, subsidiary corporations, affiliated corporations, insurers, indemnitors, successors,
+and assigns of each of the foregoing, together with all of the present and former directors, members, managers, officers, agents, and
+employees of any of the foregoing, from any and all claims, demands, liabilities, damages, or causes of action of any kind, nature, or
+description, whether arising in law or equity or upon contract, tort, or strict liability, or under any state or federal law, or otherwise,
+which the Borrower or Holdings has had, now has, or has made claim to have against any such Person for or by reason of any act, omission,
+matter, cause, or thing whatsoever arising from the beginning of time to and including the date of this Amendment, whether such claims,
+demands, liabilities, damages, and causes of action are matured or unmatured or known or unknown.
+
+ 
+
+13.
+
+Electronic Signature
+. Each of the parties hereto agrees that this Amendment and all other Loan Documents may be entered into by
+means of electronic signature. The use of electronic signatures, records and transmissions (including, without limitation, any contract
+or other record created, generated, sent, communicated, received, or stored by electronic means) shall be of the same legal effect, validity
+and enforceability as a manually executed signature or use of a paper-based recordkeeping system to the fullest extent permitted by applicable
+law.
+
+ 
+
+14.
+
+Expenses
+. As part of the payment to be paid in Section 6(b) of this Amendment above, Borrower will pay all costs and expenses
+incurred by Lender in connection with the preparation, negotiation, execution, delivery, filing, and administration of this Amendment
+(including, without limitation, legal fees incurred in connection with the preparation and negotiation of this Amendment and advising
+Lender as to its rights, and the cost of any credit verification reports or field examinations of Borrower’s properties or books
+and records). Borrower’s obligations to Lender under this Section shall survive the termination of this Amendment or the Loan Agreement
+and the repayment of Borrower’s Obligations to Lender under the Loan Agreement and other Loan Documents.
+
+ 
+
+[SIGNATURE
+PAGE FOLLOWS]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, the parties have executed and delivered this Amendment on the date first written above.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NVK
+ FINANCE, LLC
+, a Nebraska limited liability company
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By
+ its Manager, NVK Management, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Arun Agarwal
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Arun
+ Agarwal, Manager
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SCIENTURE,
+ LLC
+, a Delaware limited liability company
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ its Manager, Scienture Holdings, Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Shankar Hariharan
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Shankar
+ Hariharan, Ph.D., Co-Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Narasimhan Mani
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Narasimhan
+ Mani, Ph.D., MBA, Co-Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SCIENTURE
+ HOLDINGS, INC.
+, a Delaware corporation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Shankar Hariharan
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Shankar
+ Hariharan, Ph.D., Co-Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Narasimhan Mani
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Narasimhan
+ Mani, Ph.D., MBA, Co-Chief Executive Officer

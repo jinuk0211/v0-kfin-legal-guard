@@ -1,0 +1,3426 @@
+EX-10.1
+
+2
+
+ex10-1.htm
+
+EX-10.1
+
+ 
+
+ 
+
+Exhibit
+10.1
+
+ 
+
+CERTAIN
+IDENTIFIED INFORMATION HAS BEEN EXCLUDED FROM THIS EXHIBIT BECAUSE IT IS BOTH (I) NOT MATERIAL AND (II) IS
+
+A
+TYPE OF INFORMATION THAT THE REGISTRANT TREATS AS PRIVATE OR CONFIDENTIAL. [***] INDICATES THAT INFORMATION
+
+HAS
+BEEN REDACTED.
+
+ 
+
+THIS
+NOTE HAS NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR THE SECURITIES LAWS OF ANY STATE AND MAY NOT BE SOLD, TRANSFERRED,
+OR OTHERWISE DISPOSED OF EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER SUCH ACT AND APPLICABLE STATE SECURITIES LAWS OR
+PURSUANT TO AN APPLICABLE EXEMPTION FROM THE REGISTRATIONS REQUIREMENTS OF SUCH ACT AND SUCH LAWS.
+
+ 
+
+PROMISSORY
+NOTE
+
+ 
+
+ 
+
+$100,000,000.00
+
+ 
+
+Date: December 18, 2025
+
+ 
+
+APLD
+DevCo LLC, a Delaware limited liability company (the “
+Company
+”) hereby unconditionally promises to pay to Macquarie
+Equipment Capital, Inc. (together with any permitted assignee or transferee of this Note, “
+Lender
+”) at the principal
+office of Lender located at 660 Fifth Avenue, New York, NY 10103 the principal sum of (a) FORTY FIVE MILLION DOLLARS ($45,000,000.00)
+in the lawful currency of the United States of America (the “
+First Draw
+”) plus (b) FIFTY FIVE MILLION DOLLARS ($55,000,000.00)
+in the lawful currency of the United States of America (the “
+Second Draw
+”; and, together with the First Draw, each
+a “
+Draw
+” and, collectively, the “
+Initial Loan
+”)) plus (c) the principal sum of any Additional Loans
+(as defined below), if applicable, made by the Lender (at the mutual consent of the Company and the Lender) to the Company pursuant to
+
+Section 2(j)
+ below in the lawful currency of the United States of America (such Additional Loans, if any, together with the Initial
+Loan, collectively, the “
+Loan
+”), together with (i) any amounts necessary to achieve the Base Return with respect to
+the portion of the Loan being repaid from time to time, (ii) interest on the unpaid principal amount hereof from time to time outstanding
+from the date hereof until the date on which this Note (the “
+Note
+”) is paid in full in cash, at the rate set forth
+in 
+Section 2
+ below and (iii) any other amounts then due and payable hereunder.
+
+ 
+
+Section
+1. Definitions. As used in this Note, the terms set forth in 
+Annex A
+ have the meanings herein as specified in 
+Annex A
+.
+
+ 
+
+Section
+2. 
+Note Terms
+.
+
+ 
+
+(a)
+
+Initial Loan
+. Subject to the terms and conditions set forth in this Note and in reliance upon the representations and warranties
+of the Credit Parties set forth herein and in the other Note Documents, the Lender agrees to advance to the Company (a) on the Closing
+Date, the First Draw, and (b) upon the Company’s request and at the Lender’s sole discretion, at any time after the Closing
+Date, the Second Draw. Any amounts extended under this Note and repaid or prepaid may not be re-extended or reborrowed, except as permitted
+by Section 2(j) hereunder. For the avoidance of doubt, the uncommitted term loan facility contemplated by Section 2(j) hereunder shall
+remain available for consideration by the Lender in its sole discretion notwithstanding that, from time to time, the outstanding principal
+balance of the Loan may be $0.00 following a voluntary prepayment permitted hereunder.
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+
+Maturity Date
+. All principal and accrued interest on the unpaid principal of this Note will be due and payable in immediately
+available funds upon the earliest of (i) the date of acceleration of the Loan hereunder, (ii) July 18, 2026, to the extent the
+Initial Lease Execution has not occurred on or before April 18, 2026, or (iii) December 18, 2027 (the “
+Maturity
+Date
+”). For the avoidance of doubt, in connection with Section 2(j) hereunder, so long as no Event of Default shall have occurred
+and be continuing, the Maturity Date shall not be deemed to have occurred to the extent that the Company elects to voluntarily prepay
+all of this Note as permitted by Section 2(f)(i) hereunder, even if the outstanding principal balance of this Note shall be $0.00 following
+such voluntary prepayment.
+
+ 
+
+(c)
+
+Withholding
+.
+
+ 
+
+(i)
+
+Any
+ and all payments made by the Company under this Note shall be made free and clear of and
+ without deduction or withholding for any Taxes or Other Taxes. If the Company shall be required
+ by law to deduct or withhold any Taxes or Other Taxes from or in respect of any sum payable
+ under this Note, then (i) unless such Taxes are Excluded Taxes, the sum payable shall be
+ increased by such additional amounts as may be necessary so that after making all required
+ deductions and withholdings (including deductions and withholdings applicable to additional
+ sums payable under this 
+Section 2(c)
+), the Lender receives an amount equal to the
+ sum it would have received had no such deductions or withholdings been made, (ii) the Company
+ shall make such deductions or withholdings and (iii) the Company shall pay the full amount
+ deducted or withheld to the relevant taxation authority or other Governmental Authority in
+ accordance with applicable law.
+
+ 
+
+ 
+
+ 
+
+(ii)
+
+The
+ Company shall timely pay to the relevant Governmental Authority in accordance with applicable
+ law, or at the option of the Lender timely reimburse it for the payment of, any Other Taxes.
+
+ 
+
+ 
+
+ 
+
+(iii)
+
+On
+ or about the date on which any Lender becomes a Lender under this Note, such Lender shall
+ provide to the Company a valid and duly executed Internal Revenue Service Form W-9 or W-8,
+ as applicable. At any time thereafter, the Lender shall provide updated documentation when
+ any documentation previously delivered to the Company has expired or becomes obsolete or
+ invalid or otherwise upon the reasonable request of the Company.
+
+ 
+
+(d)
+
+[Reserved].
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+(e)
+
+Interest
+. The Loan shall bear interest at a rate equal to the Applicable Margin. Interest shall be calculated on the basis of
+a 360-day year and 30-day months for actual days elapsed. The Secured Obligations shall automatically bear interest, after as well as
+before judgment, from the date of occurrence of any Event of Default until such Event of Default is no longer continuing, at a rate per
+annum equal to the sum of the rate of interest applicable to the Loan plus an additional one and one half percent (1.5%) per month, on
+such amount (the “
+Post-Default Rate
+”). In no event shall the interest rate applicable at any time to this Note exceed
+the maximum rate permitted by law. Accrued interest on the Loan shall be payable in arrears on each Monthly Date (x) from the Closing
+Date until the date that is twelve (12) months following the Closing Date (the “
+PIK Period
+”), in kind, with such paid
+in kind payment being capitalized to principal on each Monthly Date and at such other times as may be specified herein (each such payment
+in kind capitalized to principal pursuant to this Section 2(e), a “
+Principal Increase
+”) and such Principal Increase
+shall be considered principal of the applicable Loans for all purposes, including, without limitation, the calculation of interest on
+subsequent Monthly Dates, and (y) following the expiration of the PIK Period, in cash; 
+provided
+ that (i) Post-Default Rate interest
+accrued pursuant to this Section shall be payable in cash on demand and (ii) in the event of any repayment or prepayment of the Loan
+(including on the Maturity Date, upon acceleration or otherwise), accrued interest on the principal amount repaid or prepaid and all
+accrued commitment fees shall be payable on the date of such repayment or prepayment.
+
+ 
+
+(f)
+
+Prepayments
+.
+
+ 
+
+(i)
+
+The
+ Company may prepay all or part of this Note at any time with no less than three (3) Business
+ Days’ notice with accrued interest to the date of prepayment on the principal amount
+ prepaid.
+
+ 
+
+ 
+
+ 
+
+(ii)
+
+Immediately
+ upon the receipt of net cash proceeds by, or on behalf of, the Company or any of its Subsidiaries
+ (if any) in respect of the issuance or incurrence of Indebtedness not permitted under the
+ Note Documents, the Company shall apply such net cash proceeds received from such issuance
+ or incurrence of Indebtedness upon receipt thereof to prepay the outstanding principal balance
+ of this Note with accrued interest to the date of prepayment on the principal amount prepaid.
+
+ 
+
+ 
+
+ 
+
+(iii)
+
+Upon
+ a Change of Control, the Company shall prepay the full outstanding principal balance of this
+ Note together with (A) accrued interest to the date of prepayment on the principal amount
+ prepaid and (B) any other amounts then due and payable hereunder.
+
+ 
+
+ 
+
+ 
+
+(iv)
+
+Within
+ ninety (90) days following the occurrence of the Initial Lease Execution, the Company shall
+ prepay the full outstanding principal balance of this Note together with (A) accrued interest
+ to the date of prepayment on the principal amount prepaid and (B) any other amounts then
+ due and payable hereunder.
+
+ 
+
+ 
+
+ 
+
+(v)
+
+Within
+ thirty (30) days following the issuance of a Qualifying Preference Share Issuance, the Company
+ shall prepay the full outstanding principal balance of this Note together with (A) accrued
+ interest to the date of prepayment on the principal amount prepaid and (B) any other amounts
+ then due and payable hereunder.
+
+ 
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+(vi)
+
+Within
+ twenty (20) Business Days following the consummation of an SPV Sale, the Company shall prepay
+ the full outstanding principal balance of this Note together with (A) accrued interest to
+ the date of prepayment on the principal amount prepaid and (B) any other amounts then due
+ and payable hereunder, including, for the avoidance of doubt, any amounts necessary to achieve
+ the Base Return with respect to the portion of the Loan being prepaid; 
+provided
+ that,
+ upon the Company’s request, the Lender may elect, in its sole discretion, to have the
+ amounts due pursuant to this clause (vi) to instead be reinvested by the Company to another
+ project on terms and conditions reasonably satisfactory to the Lender.
+
+ 
+
+ 
+
+ 
+
+(vii)
+
+Prepayments
+ pursuant to this 
+Section 2(f)
+ shall, with respect to the portion of the Loan then
+ being prepaid, in each case, be accompanied by the payment of amounts sufficient to achieve
+ the Base Return with respect to the amount of the Loan being prepaid.
+
+ 
+
+(g)
+
+Application of Payments
+. Except as otherwise provided herein with respect to prepayments, all payments on this Note shall be applied
+to the payment of accrued interest before being applied to the payment of principal (including in respect of amounts sufficient to achieve
+the Base Return with respect to the portion of the Loan related thereto). Any payment which is required to be made on a day which is
+not a Business Day shall be payable on the next succeeding Business Day and such additional time shall be included in the computation
+of interest.
+
+ 
+
+(h)
+
+Base Return
+. Prepayments permitted or required under this 
+Section 2
+ (including, for avoidance of doubt, any prepayments
+of the Loan occurring after acceleration of the Loan pursuant to 
+Section 6
+ and any other prepayments of the Loan), shall be accompanied
+by an amount sufficient to achieve the Base Return with respect to the portion of the Loan being prepaid.
+
+ 
+
+(i)
+
+Condition Precedent to Second Draw
+. Following the Closing Date and prior to the occurrence of the Maturity Date, upon the Company’s
+request, at the Lender’s sole discretion, the Lender may fund the Second Draw to the Company upon the satisfaction (or waiver by
+the Lender) of the following condition precedent on or prior to the proposed date of such Second Draw:
+
+ 
+
+(i)
+
+The
+ Company shall have delivered to the Lender a duly executed Borrowing Request and Certificate
+ identifying the proposed date and other details of such Second Draw and certifying that,
+ as of the date on which such Second Draw is funded:
+
+ 
+
+(A)
+
+No
+ Event of Default shall have occurred and be continuing;
+
+ 
+
+ 
+
+ 
+
+(B)
+
+All
+ representations and warranties contained in this Note shall be true and correct in all material
+ respects (unless already qualified by materiality, in which case such applicable representation
+ and warranty are true and correct), except to the extent such representations and warranties
+ expressly relate to an earlier date (in which case, such representations and warranties were
+ true and correct in all material respects (unless already qualified by materiality, in which
+ case such applicable representation and warranty were true and correct) as of such earlier
+ date); and
+
+ 
+
+ 
+
+ 
+
+(C)
+
+No
+ event, development or circumstance has occurred or existed that has resulted in, or could
+ reasonably be expected to have, a Material Adverse Effect.
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+(j)
+
+Uncommitted Rollovers of Loan/Additional Loans for Alternate Data Center
+. Prior to the occurrence of the Maturity Date, the Company
+may request to (A) roll over the outstanding principal balance of the Loan from time to time into one or more loans for one or more new
+projects (such rollovers, the “
+Rollover Loans
+”) or (B) otherwise increase the size of the existing Loan by advancing
+new loans to the Company (such loans, the “
+Additional Loans
+”), in either case, for the purpose of financing development
+activities at new or existing data center projects at direct or indirect, wholly owned domestic Subsidiaries of the Company, each of
+which shall become a Guarantor with respect to such Additional Loans, or a Guarantor with respect to such Rollover Loans, as applicable,
+concurrent with the incurrence of Indebtedness with respect thereto (the “
+New Facility
+”), subject to the prior written
+approval of the Lender (in its sole discretion) and the satisfaction of conditions to be specified by the Lender, including the following:
+
+ 
+
+(i)
+
+Conditions
+ Precedent to Rollover Loans/Additional Loans
+. The Lender may permit any Rollover Loans
+ or extend any Additional Loans upon the satisfaction (or waiver by the Lender) of conditions
+ precedent on or prior to the proposed rollover or extension date, each in form and substance
+ satisfactory to the Lender in its sole discretion, including, but not limited to, the following:
+
+ 
+
+(A)
+
+The
+ Company has delivered to the Lender a duly executed letter of intent evidencing its commitment
+ to transition operations to the New Facility;
+
+ 
+
+ 
+
+ 
+
+(B)
+
+The
+ Company has delivered to the Lender all fiber, water, environmental, and land diligence reports,
+ studies, and related non-privileged and non-confidential documentation reasonably requested
+ by the Lender;
+
+ 
+
+ 
+
+ 
+
+(C)
+
+The
+ Company has delivered to the Lender a draft or executed Phase I environmental site assessment
+ for the applicable property;
+
+ 
+
+ 
+
+ 
+
+(D)
+
+The
+ Company has delivered to the Lender either (i) an executed land purchase agreement or (ii)
+ an executed land purchase option agreement, in each case with respect to the contemplated
+ project;
+
+ 
+
+ 
+
+ 
+
+(E)
+
+Amounts
+ of principal in respect of any Rollover Loans or any Additional Loans shall be as mutually
+ agreed by the Lender and the Company;
+
+ 
+
+ 
+
+ 
+
+(F)
+
+The
+ Lender has received evidence satisfactory to it that no Material Adverse Effect has occurred
+ or is reasonably likely to occur as a result of the transition;
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+(G)
+
+Any
+ Rollover Loans and any Additional Loans may be subject to a Base Return and Multiple of Invested
+ Capital as may be mutually agreed by the Lender and the Company;
+
+ 
+
+ 
+
+ 
+
+(H)
+
+All
+ representations and warranties contained in this Note shall be true and correct in all material
+ respects as of the date on which such Rollover Loan is rolled over or such Additional Loan
+ is funded;
+
+ 
+
+ 
+
+ 
+
+(I)
+
+No
+ Event of Default shall have occurred and be continuing; and
+
+ 
+
+ 
+
+ 
+
+(J)
+
+Any
+ Rollover Loans and any Additional Loans shall be documented under terms substantially similar
+ to this Note (or by way of an amendment to this Note), except as modified to reflect the
+ New Facility and shall include additional terms and conditions as may be mutually agreed
+ by the Lender and the Company, including, but not limited to, interest rate, maturity and/or
+ covenants, as applicable.
+
+ 
+
+(ii)
+
+Conditions
+ Subsequent to Rollover Loans/Additional Loans
+. Within one hundred twenty (120) days of
+ the date on which each such Rollover Loan is rolled over or each such Additional Loan is
+ funded (or such longer period as agreed by the Lender in its reasonable discretion), the
+ Company shall have delivered, or cause to have been delivered, to the Lender the following
+ with respect to the New Facility:
+
+ 
+
+(A)
+
+The
+ deliverables set forth in Section 4(h); and
+
+ 
+
+ 
+
+ 
+
+(B)
+
+Such
+ other deliverables, documents, and other instruments as the Lender shall reasonably require
+ in connection therewith.
+
+ 
+
+Notwithstanding
+anything to the contrary in this Note, any Rollover Loans and any Additional Loans constitute an uncommitted term loan facility. The
+Lender has no obligation to provide, commit to provide, or continue to make available any Rollover Loans or Additional Loans unless and
+until the Lender, in its sole discretion, has approved such Rollover Loan or Additional Loans in writing and all applicable conditions
+specified by the Lender have been satisfied or waived. For the avoidance of doubt, (x) any Rollover Loans and any Additional Loans may
+be requested and considered even if the outstanding principal balance of the Loan is $0.00 following a voluntary prepayment permitted
+hereunder and (y) neither the Payment in Full of this Note nor any prepayment in full of the Loan shall, by itself, terminate the uncommitted
+facility contemplated by this Section 2(j).
+
+ 
+
+Section
+3. 
+Representations and Warranties of the Company
+. To induce Lender, in its sole discretion, to make the Loan, the Company represents,
+warrants and covenants to Lender and the other Secured Parties the following, and pursuant to the other Note Documents (including the
+Parent Loan Guarantee) to which a Credit Party is a party, such Credit Party represents, warrants and covenants to Lender, the following
+as of the date of this Note, and any other date such representations, warranties and covenants are required to be made:
+
+ 
+
+(a)
+
+Organization; Powers
+. Each Credit Party (a) is a legal entity duly organized, validly existing and in good standing under the
+laws of the jurisdiction of its organization, (b) has all requisite power and authority, and has all governmental licenses, authorizations,
+consents and approvals necessary, to own its assets and to carry on its business as now conducted, and (c) is qualified to do business
+in, and is in good standing in, every jurisdiction where its ownership, lease or operation of properties or the conduct of its business
+requires such qualification, except in the case of this clause (c) where the failure to do so could not reasonably be expected to have
+a Material Adverse Effect.
+
+ 
+
+ 
+
+6
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+
+Authority; Enforceability
+. The execution, delivery and performance of the Note Documents to which it is a party and the transactions
+contemplated thereby are within each Credit Party’s corporate, limited partnership, limited liability company or other organizational
+powers, as applicable, and have been duly authorized by all necessary corporate, limited partnership, limited liability company or other
+organizational, as applicable, and, if required, shareholder, partner or member action, as applicable (including any action required
+to be taken by any class of directors of any Credit Party or any other Person, whether interested or disinterested, in order to ensure
+the due authorization of the Note Documents). Each Note Document to which any Credit Party is a party has been duly executed and delivered
+by such Credit Party and constitutes a legal, valid and binding obligation of such Credit Party, enforceable in accordance with its terms,
+subject to applicable bankruptcy, insolvency, reorganization, moratorium or other laws affecting creditors’ rights generally and
+subject to general principles of equity, regardless of whether considered in a proceeding in equity or at law.
+
+ 
+
+(c)
+
+Approvals; No Conflicts
+. Neither the execution and delivery of this Note or the other Note Documents by any Credit Party, nor
+the consummation of the transactions herein or therein contemplated or compliance with the terms and provisions hereof or thereof by
+any of them, (a) require any consent or approval of, registration or filing with, or any other action by, any Governmental Authority
+or any other third Person (including holders of its Equity Interests or any class of directors or managers, whether interested or disinterested,
+of any Credit Party or any other Person), nor is any such consent, approval, registration, filing or other action necessary for the validity
+or enforceability of any Note Document or the consummation of the transactions contemplated thereby, except such as have been obtained
+or made and are in full force and effect other than the recording and filing of the Security Documents as required by the Note Documents,
+(b) will violate (i) in any material respect, any applicable law or regulation or (ii) any organizational document of any Credit Party
+or any order of any Governmental Authority, (c) will not violate or constitute a material default under or result in any material breach
+of any indenture, agreement or other instrument binding upon any Credit Party or any of its Properties (including the material contracts
+relating to the development, construction and operation of the data center facilities owned by the Company or any of its Subsidiaries
+(if any) and agreements evidencing Indebtedness of the Company or any of its Subsidiaries (if any)), or give rise to a right thereunder
+to require any payment to be made by such Credit Party and (d) will not result in the creation or imposition of any Lien on any Collateral
+or any other Property of any Credit Party (other than the Liens created by the Note Documents).
+
+ 
+
+(d)
+
+No Material Adverse Effect
+. Since September 30, 2025, there has been no event, development or circumstance that has had or could
+reasonably be expected to have a Material Adverse Effect. Each of the Credit Parties has disclosed to the Lender all material agreements,
+instruments and corporate or similar restrictions to which it or any of its Subsidiaries (if any) is subject to the extent such agreements,
+instruments or restrictions relate to the Note Documents and the transactions contemplated thereby or the Initial Project, and all other
+matters known to it, that, individually or in the aggregate, could reasonably be expected to result in a Material Adverse Effect.
+
+ 
+
+ 
+
+7
+
+ 
+
+ 
+
+ 
+
+ 
+
+(e)
+
+Litigation
+. There are no material actions, suits, investigations or proceedings by or before any arbitrator or Governmental Authority
+pending against or, to the knowledge of any Credit Party, threatened by, against or affecting any Credit Party, the Initial Project or
+their respective Properties or revenues (a) which, either individually or in the aggregate, could reasonably be expected to result in
+liability exceeding (i) $15,000,000 in the case of the Note Parties or (ii) $50,000,000 in the case of the Parent, or (b) that involve
+any Note Document, Material Project Document or the transactions contemplated thereby.
+
+ 
+
+(f)
+
+Compliance with Law
+. Each of the Credit Parties is in compliance with all Governmental Requirements applicable to it or its Property
+and all agreements and other instruments binding upon it or its Property, and is in the process of obtaining all licenses, permits, franchises,
+exemptions, approvals and other governmental authorizations necessary for the ownership of its Property and the conduct of its business
+as currently operated, in each case other than where the failure to do so could reasonably be expected to result in a Material Adverse
+Effect. All permits for the Initial Project that are required for the current stage of development, construction and operation of the
+Initial Project by the date this representation is made are in the process of being duly obtained and no appeal of such permits are pending
+and such permits are not subject to any unsatisfied conditions that would reasonably be expected to allow for material modification or
+revocation or otherwise have a material and adverse effect on the Initial Project.
+
+ 
+
+(g)
+
+Investment Company Act
+. No Credit Party is an “investment company” or a company “controlled” by an “investment
+company,” within the meaning of, or subject to regulation under, the Investment Company Act of 1940, as amended.
+
+ 
+
+(h)
+
+Ownership; Properties
+. The ownership chart set forth in 
+Annex B
+ sets forth the true, complete and accurate structure and
+ownership of Parent, Intermediate Holdings, the Company, and each Subsidiary of the Company (if any) as of the Closing Date. Each Credit
+Party has good title to all of the Equity Interests it purports to own, free and clear in each case of any Lien. All Equity Interests
+of the Note Parties have been validly issued, and all such Equity Interests are fully paid and non-assessable and were offered and issued
+in compliance with applicable laws. There are no options, warrants or other rights outstanding to purchase any Equity Interests of the
+Company or any of its Subsidiaries (if any). Each of the Note Parties has (i) good and marketable fee simple title in its real property
+(if any) and (ii) good title to all of its personal Property, and Intermediate Holdings has good title to all the Collateral pledged
+by it under the Note Documents.
+
+ 
+
+(i)
+
+Security Documents
+. Each Security Document, upon execution and delivery thereof, is effective to create in favor of the Lender,
+legal, valid and enforceable Liens on, and security interests in, all of the Collateral thereunder, and when all appropriate filings
+or recordings are made in the appropriate offices as may be required under applicable Governmental Requirements or upon the taking of
+possession or control by the Lender of Equity Interests and other Collateral, if any, with respect to which a security interest may be
+perfected by possession or control, such Security Documents will constitute fully perfected Liens on, and security interests in, all
+right, title and interest of the Credit Parties in such Collateral.
+
+ 
+
+ 
+
+8
+
+ 
+
+ 
+
+ 
+
+ 
+
+(j)
+
+Use of Proceeds
+. The Credit Parties are not engaged principally, or as one of its or their important activities, in the business
+of extending credit for the purpose, whether immediate, incidental or ultimate, of buying or carrying margin stock (within the meaning
+of Regulation T, U or X of the Board). No part of the proceeds of the Loan will be used by any Credit Party or any of their Subsidiaries
+for any purpose which violates the provisions of Regulation T, U or X of the Board.
+
+ 
+
+(k)
+
+Solvency
+. After giving effect to the issuance of this Note and the transactions contemplated by the Note Documents on the Closing
+Date, (a) the Company and its Subsidiaries (if any), on a consolidated basis, are Solvent and (b) the Parent and its Subsidiaries, on
+a consolidated basis, are Solvent.
+
+ 
+
+(l)
+
+No Default
+. None of the Credit Parties or any of their Subsidiaries is in material default nor has any event or circumstance occurred
+which would constitute a default under any Material Project Document or indenture, note, credit agreement or instrument by which any
+Credit Party or any of their Properties is bound. No Default or Event of Default has occurred and is continuing both before and after
+giving effect to the transactions contemplated by the Note Documents.
+
+ 
+
+(m)
+
+[Reserved].
+
+ 
+
+(n)
+
+Operations
+. More than two fiber carriers maintain long-haul fiber lines connected to the Initial Project site, which fiber lines
+have sufficient capacity to fully service the Letter of Intent. The Credit Parties are in the process of obtaining all insurance policies
+sufficient for the compliance by them with all material Governmental Requirements and all material agreements, including all Material
+Project Documents and in at least amounts and against such risk (including public liability insurance) that are usually insured against
+by companies similarly situated and engaged in the same or a similar business for the assets and operations of the Company and its Subsidiaries
+(if any).
+
+ 
+
+(o)
+
+Environmental
+. The Initial Project and other Properties of the Company and its Subsidiaries (if any), are in compliance with all
+applicable environmental laws in all material respects, the Company and each of its Subsidiaries (if any) has operated the Initial Project
+and other Properties in compliance with all applicable environmental laws in all material respects, and to the knowledge of the Credit
+Parties, the Initial Project and other real property Properties of the Company and each of its Subsidiaries (if any) were operated in
+compliance with applicable environmental laws and not subject to a required remediation of an environmental condition in accordance with
+applicable environmental laws prior to the acquisition thereof. There are no written notices, claims, orders, proceedings, or investigations
+or requests for information concerning any actual or alleged material violation of, or any material liability or obligation (including
+as a potentially responsible party) under, any environmental law that is pending or, to the knowledge of the Credit Parties, threatened
+against the Company or any of its Subsidiaries (if any), or the Initial Project or any other Properties, or as a result of any operations
+at the Initial Project or any other Properties, and to the knowledge of the Credit Parties’ there are no conditions or circumstances
+that would reasonably be expected to result in the receipt of notices, claims, orders, proceedings, investigations, requests for information
+or proceedings in any material respect. There has been no discharge, release or, to the knowledge of the Credit Parties, threatened release,
+of any Hazardous Material by the Company or any of its Subsidiaries (if any) or any Person at, on, under or from the Initial Project
+or any other Properties owned, leased or operated by the Company or any of its Subsidiaries (if any), and there are no remediations,
+abatements, removals, or monitorings of Hazardous Materials, as required under applicable environmental laws at the Initial Project or
+such Properties.
+
+ 
+
+ 
+
+9
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section
+4. 
+Covenants
+. Until Payment in Full:
+
+ 
+
+(a)
+
+Financial and Other Information
+.
+
+ 
+
+(i)
+
+Promptly
+ after the furnishing thereof, the Company shall, and shall cause the Parent and the Company
+ to, provide copies of any audited or unaudited financial statement (including segment reporting
+ to the extent not already included in the financial statements of the Parent), report, compliance
+ certificates or default notice furnished to or by any Person pursuant to the terms of any
+ indenture, loan or credit or other similar material agreement of any Credit Party.
+
+ 
+
+ 
+
+ 
+
+(ii)
+
+[Reserved].
+
+ 
+
+ 
+
+ 
+
+(iii)
+
+Promptly
+ upon request of the Lender, drafts of letters of intent, term sheets and lease agreement
+ with any potential tenant at the Initial Project, including, without limitation, the Initial
+ Lease.
+
+ 
+
+ 
+
+ 
+
+(iv)
+
+Phase
+ I environmental site assessment (“
+ESA
+”) reports, and if such Phase I ESA
+ revealed (or reveals) any condition that so warranted (or warrants), a Phase II ESA, and
+ any other environmental reports relating to the Initial Project.
+
+ 
+
+(b)
+
+Material Notices
+. Promptly (but, in any event, no later than five (5) Business Days) after obtaining knowledge thereof or following
+the delivery thereof, as applicable, the Company will:
+
+ 
+
+(i)
+
+provide
+ written notice of the occurrence of any Default or Event of Default,
+
+ 
+
+ 
+
+ 
+
+(ii)
+
+provide
+ written notice of any material casualty event relating to the Initial Project,
+
+ 
+
+ 
+
+ 
+
+(iii)
+
+provide
+ written notice of the filing or commencement of, or the threat in writing of, any action,
+ suit, proceeding, investigation or arbitration by or before any arbitrator or Governmental
+ Authority against or affecting any Credit Party not previously disclosed in writing to the
+ Lender or any material adverse development in any action, suit, proceeding, investigation
+ or arbitration (whether or not previously disclosed to the Lender) that, in either case,
+ if adversely determined, could reasonably be expected to (A) result in potential liability
+ of $10,000,000, individually or in the aggregate, or more or (B) have a Material Adverse
+ Effect,
+
+ 
+
+ 
+
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+(iv)
+
+provide
+ written notice of (A) any material default or event or condition that constitutes a material
+ default or event of default or a termination event or event or condition that permits termination
+ under any Material Project Document or agreement evidencing material Indebtedness of the
+ Company and its Subsidiaries (if any), (B) any notice of termination or assignment (or notice
+ of intent to terminate or assign) or notice of material default or waiver received or given,
+ under, or in connection with, any Material Project Document, or any other material notice
+ under, or in connection with, any Material Project Document, (C) any termination or material
+ amendment, change order or modification of, or material waiver or consent under, any Material
+ Project Document, and in each case, a copy of such termination, amendment, change order,
+ modification, waiver or consent, (D) any material amendment, modification, waiver or other
+ change to any agreement evidencing material Indebtedness of any Note Party and (E) any new
+ material project agreement entered into in respect of the Initial Project (together with
+ full, correct and complete copies of all such agreements),
+
+ 
+
+ 
+
+ 
+
+(v)
+
+upon
+ the actual knowledge of any of the Chief Executive Officer, Chief Administrative Officer
+ or Chief Financial Officer of the Company of any material workers’ health and safety
+ incident, provide written notice of such incident no later than fifteen (15) Business Days
+ following obtaining such knowledge, and
+
+ 
+
+ 
+
+ 
+
+(vi)
+
+provide
+ written notice of any other development or circumstance that results in, or could reasonably
+ be expected to result in, a Material Adverse Effect.
+
+ 
+
+(c)
+
+Other Requested Information
+. Promptly following any request therefor, such other information regarding the operations, business
+affairs, prospects and financial condition of the Credit Parties and their Subsidiaries (including with respect to beneficial ownership
+of the Company and its parent companies) or compliance with the terms of this Note or any other Note Document, Material Project Document,
+existing debt document as the Lender, acting reasonably, may request.
+
+ 
+
+(d)
+
+Existence; Conduct of Business
+. The Company will, and will cause each of other Credit Party to, do or cause to be done all things
+necessary to preserve, renew and keep in full force and effect (i) its legal existence and (ii) the rights, licenses, permits, privileges
+and franchises material to the conduct of its business and maintain, if necessary, its qualification to do business in each other jurisdiction
+in which its Properties are located or the ownership of its Properties requires such qualification. The Company, at its own expense,
+will, and will cause each of its Subsidiaries (if any) to, (A) keep the Initial Project, or cause the same to be kept, in good condition
+consistent in all material respects with prudent industry practice and Material Project Documents, and make or cause to be made all repairs
+(ordinary wear and tear excepted) necessary to keep the Initial Project in such condition and (B) at all times construct or operate the
+Initial Project, or cause the same to be constructed or operated, as applicable, in all material respects in a manner consistent with
+the Material Project Documents relating to the Initial Project and prudent industry practice and in compliance with all permits and Governmental
+Requirements in all material respects.
+
+ 
+
+ 
+
+11
+
+ 
+
+ 
+
+ 
+
+ 
+
+(e)
+
+Compliance with Laws
+. The Company will, and will cause each other Credit Party to, comply with its Organizational Documents and
+all laws, rules, regulations and orders of any Governmental Authority applicable to it or its Property in all material respects. Without
+limiting the generality of the foregoing, the Company will, and will cause each of its Subsidiaries (if any) to, obtain and maintain
+permits that are required for the current stage of development, construction and operation of the Initial Project as and when required
+under applicable Governmental Requirements and comply in all material respects with all such permits.
+
+ 
+
+(f)
+
+Use of Proceeds
+.
+
+ 
+
+(i)
+
+The
+ Company shall use the proceeds of the Loan (i) to pay transaction expenses in connection
+ with the Note Documents, (ii) to fund the purchase of the Initial Properties, including all
+ associated closing costs, title fees, and legal expenses, (iii) to finance improvements to
+ the Initial Properties, (iv) to fund the purchase of the Transformers and other equipment
+ expected to be installed and used for the improvements of the Initial Properties and (v)
+ to pay any other costs, fees, expenses, or amounts related to or in connection with the development
+ and construction of the Initial Project.
+
+ 
+
+ 
+
+ 
+
+(ii)
+
+The
+ Company will not use, directly or indirectly, the proceeds of the Loan, or lend, contribute
+ or otherwise make available such proceeds to any Credit Party, joint venture partner or other
+ Person, (A) to its knowledge, in furtherance of an offer, payment, promise to pay, or authorization
+ of the payment or giving of money, or anything else of value, to any Person in violation
+ of any applicable Anti-Corruption Laws, (B) for the purpose of funding, financing or facilitating
+ any activities, business or transaction of or with any Sanctioned Person, or in any Sanctioned
+ Country, in each case in violation of applicable Sanctions or (C) in any manner that would
+ result in the violation of Sanctions by any Person participating in the transactions contemplated
+ hereunder, whether as underwriter, advisor, lender, investor or otherwise.
+
+ 
+
+(g)
+
+Further Assurances
+. The Company, at its sole expense, will, and will cause each other Credit Party to, promptly execute and deliver
+to the Lender all such other documents, agreements and instruments reasonably requested by the Lender to comply with or accomplish the
+conditions precedent, covenants and agreements of the Credit Parties in the Note Documents, or to further evidence and more fully describe
+the Collateral intended as security for the Secured Obligations, or to correct any omissions in the Security Documents, or to state more
+fully the obligations secured therein, or to perfect, protect or preserve any Liens created pursuant to the Security Documents or the
+priority thereof, or to make any recordings, file any notices or obtain any consents, all as may be reasonably necessary or appropriate,
+in the reasonable discretion of the Lender, in connection therewith.
+
+ 
+
+ 
+
+12
+
+ 
+
+ 
+
+ 
+
+ 
+
+(h)
+
+Credit and Collateral Related Covenants
+.
+
+ 
+
+(i)
+
+Mortgages;
+ Title
+. By April 18, 2026 (or such longer period as agreed by the Lender in its
+ reasonable discretion), the Company shall have delivered, or cause to have been delivered,
+ to the Lender the following with respect to each of the Initial Properties:
+
+ 
+
+(A)
+
+One
+ or more Mortgages and, to the extent required by Lender, a UCC-1 filing to be filed at the
+ Parish level;
+
+ 
+
+ 
+
+ 
+
+(B)
+
+A
+ Louisiana Local Counsel Opinion with respect to the Mortgages and other real estate matters;
+
+ 
+
+ 
+
+ 
+
+(C)
+
+the
+ Title Insurance Policies along with (i) evidence reasonably acceptable to the Lender of payment
+ by the Company of all applicable premiums, search and examination charges, escrow charges
+ and expenses required for the recording of the Mortgages and issuance of the Title Insurance
+ Policies; and (ii) such affidavits, certificates, information (including financial data)
+ and instruments of indemnification (including a so-called “gap” indemnification)
+ as shall be required to induce the Title Company to issue the Title Insurance Policies;
+
+ 
+
+ 
+
+ 
+
+(D)
+
+a
+ survey of each of the Initial Properties (a) prepared by a licensed surveyor reasonably acceptable
+ to Lender (each of Ulteig, Neset Land Surveys, and Lodestone LLC are hereby deemed acceptable),
+ (b) dated or re-certificated not earlier than four (4) months prior to the date of such delivery
+ or such other date as may be reasonably satisfactory to the Lender, together with a “no
+ change” affidavit or certification to Lender and the Title Company in sufficient form
+ to permit the Title Company to delete the standard survey exception and provide such survey
+ related endorsements as Lender shall require, (c) certified to the Lender and the Title Company,
+ which certification shall be reasonably acceptable to the Lender and (d) complying with current
+ “Minimum Standard Detail Requirements for ALTA/NSPS Land Title Surveys,” jointly
+ established and adopted by American Land Title Association, and the National Society of Professional
+ Surveyors (except for such deviations as are reasonably acceptable to the Lender), provided
+ that surveys including Items 1, 3, 4, 6(a), 7(c), 8, 9, 11(a), 13, 17, 18 and 19 of Table
+ A of the current “Minimum Standard Detail Requirements for ALTA/NSPS Land Title Surveys”
+ shall be deemed sufficient for purposes of this requirement, and with respect to the Initial
+ Project under active construction, such survey may not depict improvements that are not completed
+ as of the date of the field work provided that such field work was completed not earlier
+ than four (4) months prior to the date of such certification or re-certification or such
+ other date as may be reasonably satisfactory to the Lender; and
+
+ 
+
+ 
+
+13
+
+ 
+
+ 
+
+ 
+
+ 
+
+(E)
+
+(i)
+ “Life-of-Loan” Federal Emergency Management Agency Standard Flood Hazard Determination
+ with respect to each of the Initial Properties; and (ii) in the event any such property is
+ located in an area identified by the Federal Emergency Management Agency (or any successor
+ agency) as a Special Flood Hazard Area, (A) a notice about special flood hazard area status
+ and flood disaster assistance, duly executed by the applicable Credit Party, (B) prior to
+ commencement of construction of the Initial Project, evidence of flood insurance with a financially
+ sound and reputable insurer, naming the Lender, as mortgagee, in an amount and otherwise
+ in form and substance reasonably satisfactory to the Lender, and (C) evidence of the payment
+ of premiums in respect thereof in form and substance reasonably satisfactory to the Lender.
+
+ 
+
+(ii)
+
+Purchase
+ Orders
+. The Company shall, and shall cause each other Credit Party to, ensure that all
+ purchase orders in respect of the Initial Project are made by the Company and equipment purchased
+ for the purposes of the Initial Project are purchased by the Company or its Subsidiaries
+ (if any).
+
+ 
+
+(i)
+
+Indebtedness
+. The Company will not incur, create, assume or suffer to exist, or permit any other Note Party to incur, create,
+assume or suffer to exist, any Indebtedness, except: (i) the Secured Obligations arising under the Note Documents or any guarantee of
+the Secured Obligations arising under the Note Documents; (ii) subject to 
+Section 4(p)
+ below, intercompany Indebtedness; and (iii)
+other Indebtedness approved by the Lender; provided that the Note Parties may incur Indebtedness where the proceeds thereof are primarily
+used for the ordinary course operation of the business of the Company and not to exceed, in the aggregate at any time outstanding, $2,000,000.
+
+ 
+
+(j)
+
+Liens
+. The Company will not permit any Note Party to incur, create, assume or suffer to exist, any Lien on any of their respective
+Properties (now owned or hereafter acquired), except:
+
+ 
+
+(i)
+
+Liens
+ securing Secured Obligations pursuant to the Security Documents;
+
+ 
+
+ 
+
+ 
+
+(ii)
+
+Excepted
+ Liens; and
+
+ 
+
+ 
+
+ 
+
+(iii)
+
+Liens
+ purportedly arising from precautionary Uniform Commercial Code financing statement filings
+ made in respect of operating leases of personal property entered into by the Company in the
+ ordinary course of business.
+
+ 
+
+(k)
+
+Dispositions
+. The Company will not permit any other Note Party to sell, assign, convey or otherwise transfer or dispose of any
+Property except for: (i) the sale of spare parts in the ordinary course of business (other than any spare parts relating to transformers)
+and where such spare parts are not useful or necessary for the operation of any data center or that are replaced by assets of equal suitability,
+quality and value; (ii) assets that are worthless or obsolete or worn out, or are no longer used or useful in the conduct of its business,
+in each case in the ordinary course of business; (iii) to the extent constituting dispositions, settlements of accounts receivable pursuant
+to bona fide collection efforts, (iv) dispositions in the ordinary course of business; provided that the aggregate book value of all
+property disposed of, conveyed, assigned or otherwise transferred pursuant to this clause (k)(iv) in any fiscal year shall not exceed
+$2,000,000 and (v) an SPV Sale.
+
+ 
+
+ 
+
+14
+
+ 
+
+ 
+
+ 
+
+ 
+
+(l)
+
+Subsidiaries
+. The Company will not establish or maintain any Subsidiaries, other than Subsidiaries owned by the Company, each
+which will become a Credit Party hereto, including by executing and delivering joinder agreements satisfactory to the Lender.
+
+ 
+
+(m)
+
+Restricted Payments; Other Payment Restrictions
+. Neither the Company nor any Subsidiary of the Company (if any) shall declare
+or make, or agree to pay or make, directly or indirectly, any Restricted Payment, except for (i) other than Permitted Tax Distributions,
+Restricted Payments which do not exceed $2,000,000 in the aggregate until the Maturity Date and (ii) Permitted Tax Distributions.
+
+ 
+
+The
+Company shall not, and shall not permit any other Note Party to, direct any payments under master services agreements, leases or similar
+customer agreements that are, in each case, for the Initial Project to be made to any entity other than the Company, or, if approved
+by the Lender, a Subsidiary of the Company.
+
+ 
+
+(n)
+
+Organizational Documents; Material Project Documents
+. The Company will not, and will not permit any of its Subsidiaries (if any)
+to, amend or otherwise modify (or permit to be amended or modified) its Organizational Documents, or take any action that would impair
+its rights under its Organizational Documents, in each case, in a manner that would be adverse to such Note Party or adverse to the Lender
+(as reasonably determined by the Lender); 
+provided
+ that any amendment or other modification to any Organizational Documents of
+any Note Party that changes the provisions relating to permissibility or terms of the pledge, transfer and foreclosure rights of the
+Lender, or any other rights or limitations in any Organizational Documents with respect to which a change would require consent of a
+secured creditor, shall be deemed adverse to the Lender (it being understood that any amendment, modification or revocation of any resolution
+or other documentation that implements such provisions, to the extent implementing such provisions, shall be deemed an amendment to such
+Organizational Documents). The Company will not, and will not permit any of its Subsidiaries (if any) to, terminate (or consent to be
+terminated) or amend, waive or otherwise modify (or permit to be amended, waived or modified) in any material and adverse manner, any
+lease agreement (or equivalent agreement) entered into with any tenant in respect of the Initial Project or any electric services agreement
+or other agreement for material utility services related to the Initial Project, in each case without the consent of the Lender (not
+to be unreasonably withheld or delayed).
+
+ 
+
+(o)
+
+Deposit Account Control Agreement
+. The Company shall deliver a deposit account control agreement over the bank account listed
+in 
+Annex C
+ hereof, duly executed by the parties thereto, in a form reasonably satisfactory to the Lender within thirty (30) days
+(or such later date as the Lender may agree) of the Closing Date.
+
+ 
+
+ 
+
+15
+
+ 
+
+ 
+
+ 
+
+ 
+
+(p)
+
+Transactions with Affiliates
+. The Company will not, and will not permit any of its Subsidiaries (if any) to, sell, lease or otherwise
+transfer any property or assets to, or purchase, lease or otherwise acquire any property or assets from, or otherwise engage in any other
+transactions with, any of its Affiliates, except for (i) transactions conducted in the ordinary course of business at prices and on terms
+and conditions no less favorable to the Company or any of its Subsidiaries than those obtainable on an arm’s-length basis from
+unrelated third parties, including transactions on less than arm’s-length terms provided they (a) serve a legitimate business purpose
+related to the development, construction, or operation of the Initial Project, (b) are fully disclosed to and approved by all necessary
+governing bodies of the transaction parties, (c) comply with applicable industry-specific regulations, and (d) will result in a substantial
+benefit to the Company or any of its Subsidiaries, as determined by the Company or any such Subsidiary in its sole but reasonable discretion;
+(ii) any disposition permitted under Section 4(k) hereof; (iii) any Restricted Payment permitted under Section 4(m) hereof; and (iv)
+the subdivision of parcels and the transfer of such parcels or property thereon to one or more Subsidiaries of the Company that become
+Note Parties pursuant to Section 4(l) hereunder.
+
+ 
+
+(q)
+
+Initial Project Development
+. The Company shall use commercially reasonable efforts to, and to cause its Subsidiaries to, develop
+the Initial Project in a timely manner.
+
+ 
+
+Section
+5. 
+Closing Date
+. On or prior to the date hereof (the “
+Closing Date
+”), the Company certifies that it has satisfied
+the conditions precedent listed in 
+Annex D
+ hereof.
+
+ 
+
+Section
+6. 
+Events of Default
+. One or more of the following events shall constitute an “
+Event of Default
+”:
+
+ 
+
+(a)
+default in payment when due and payable, upon redemption, acceleration or otherwise, of principal (including in respect of the Base Return
+with respect to the portion of the Loan related thereto) of, or premium, on this Note or any other Note Document and such default shall
+continue unremedied for a period of two (2) Business Days;
+
+ 
+
+(b)
+default in the payment when due of interest (other than with respect to any interest paid in the form of a Principal Increase) on or
+with respect to this Note or any other amount in respect of or in connection with this Note and such default shall continue unremedied
+for a period of three (3) Business Days;
+
+ 
+
+(c)
+any representation or warranty made or deemed made by or on behalf of any Credit Party in or in connection with any Note Document or
+any amendment or modification of any Note Document or waiver under such Note Document, or in any certificate, financial statement or
+other document required to be delivered in connection with any Note Document or any amendment or modification thereof or waiver thereunder,
+shall prove to have been incorrect in any material respect when made or deemed made;
+
+ 
+
+(d)
+any Note Party shall fail to observe or perform any covenant, condition or agreement applicable to it (i) contained in 
+Section 4(b)(i)
+,
+
+Section 4(d)
+, 
+Section 4(f)
+, 
+Section 4(h)(iv)
+ and 
+(v)
+, 
+Section 4(i)
+, 
+Section 4(j)
+, 
+Section
+4(k)
+, 
+Section 4(m)
+, 
+Section 4(n)
+, 
+Section 4(o)
+ and 
+Section 4(p)
+ of this Note, or (ii) contained in the
+Parent Loan Guarantee;
+
+ 
+
+(e)
+any Note Party shall fail to observe or perform any covenant, condition or agreement contained in this Note (other than those specified
+in clauses (a) through (d) above) or any other Note Document and such failure shall continue unremedied for a period of thirty (30) days
+following the earlier of (i) any Note Party’s knowledge of the failure and (ii) the receipt by the Company of written notice thereof
+from the Lender;
+
+ 
+
+ 
+
+16
+
+ 
+
+ 
+
+ 
+
+ 
+
+(f)
+(i) any Note Party shall fail to make any payment in respect of Indebtedness (except Indebtedness referenced in clause (d) of the definition
+thereof) in an aggregate principal amount of $30,000,000 or more, in the case of any Note Party when and as the same shall become due
+and payable, after taking any applicable grace periods and any written waivers of the requisite lenders of such Indebtedness with respect
+to thereto into account, (ii) any event or condition occurs that results in Indebtedness (except Indebtedness referenced in clause (d)
+of the definition thereof) in an aggregate principal amount of $30,000,000 or more, in the case of the Company or any of its Subsidiaries
+(if any) becoming due prior to its scheduled maturity or that enables or permits (with or without the giving of notice, the lapse of
+time or both) the holder or holders of such Indebtedness or any trustee or agent on its or their behalf to cause such Indebtedness to
+become due, or to require the redemption thereof or any offer to redeem to be made in respect thereof, prior to its scheduled maturity
+or require any Note Party or to make an offer in respect thereof, after taking any written waivers of the requisite lenders of such Indebtedness
+with respect to thereto into account.
+
+ 
+
+(g)
+(i) any settlement or judgment (or order by a Governmental Authority) for the payment of money (as reduced by any insurance proceeds
+covering such settlements or judgments which are received or as to which the insurance carriers do not dispute coverage) in excess of
+$30,000,000 or more, in the case of the Note Parties in the aggregate shall be rendered against any Note Party or paid, unless in the
+case of any such judgments or orders, within a thirty (30)-day period thereof unless a stay of enforcement of such judgment or order
+shall be put in and remain in effect and no action is legally taken by a judgment creditor or judgment creditors to attach or levy upon
+any assets of any Note Party to enforce any such judgment; and (ii) any non-monetary judgment or order shall be rendered against any
+Note Party that could reasonably be expected, individually or in the aggregate, to have a Material Adverse Effect, and there shall be
+a period of thirty (30) consecutive days during which a stay of enforcement of such judgment or order, by reason of a pending appeal
+or otherwise, shall not be in effect;
+
+ 
+
+(h)
+any Credit Party pursuant to or within the meaning of the Bankruptcy Code: (A) commences a voluntary case, (B) consents to the entry
+of an order for relief against it in an involuntary case, (C) consents to the appointment of a custodian of it or for all or substantially
+all of its property, or (D) makes a general assignment for the benefit of its creditors;
+
+ 
+
+(i)
+a court of competent jurisdiction enters an order or decree under any provision of the Bankruptcy Code that: (A) is for relief against
+any Credit Party in an involuntary case; (B) appoints a custodian of any Credit Party for all or substantially all of the property of
+any Credit Party; or (C) orders the liquidation of any Credit Party; and the order or decree remains unstayed and in effect for sixty
+(60) consecutive days;
+
+ 
+
+(j)
+any Note Document is held in any judicial proceeding to be unenforceable or invalid or ceases for any reason to be in full force and
+effect (other than in accordance with the terms of any Note Document), or any Credit Party, or any Person acting on behalf of any Credit
+Party, denies or disaffirms its obligations under any Note Document;
+
+ 
+
+ 
+
+17
+
+ 
+
+ 
+
+ 
+
+ 
+
+(k)
+the Note Documents cease to create a valid and perfected Lien of the priority required thereby on any material portion of the collateral
+purported to be covered thereby, except to the extent permitted by the terms of the Note Documents, or any Credit Party shall so state
+in writing;
+
+ 
+
+(l)
+a Change of Control occurs;
+
+ 
+
+(m)
+(i) a material breach by any party to or material default under any Material Project Document has occurred after taking any applicable
+grace periods into account or (ii) a Material Project Document shall terminate or cease for any reason to be in full force and effect;
+and
+
+ 
+
+(n)
+an ERISA Event shall have occurred that, when taken together with all other ERISA Events that have occurred and are continuing, has resulted
+in, or could reasonably be expected to result in, a Material Adverse Effect.
+
+ 
+
+In
+the case of an Event of Default other than one described in 
+Section 6(h)
+ or 
+Section 6(i)
+, at any time thereafter during
+the continuance of such Event of Default, the Lender may, by notice to the Company, (i) declare the Loan and this Note to be due and
+payable in whole (or in part, in which case any principal not so declared to be due and payable may thereafter be declared to be due
+and payable), and thereupon the principal of the Loan so declared to be due and payable (together with accrued interest thereon), including
+an amount sufficient to achieve the Base Return with respect to the portion of the Loan related thereto, and all fees and other obligations
+of the Company accrued hereunder and under the other Note Documents, shall become due and payable immediately, without presentment, demand,
+protest, notice of intent to accelerate, notice of acceleration or other notice of any kind, all of which are hereby waived by the Company;
+and in case of an Event of Default described in 
+Section 6(h)
+ or 
+Section 6(i)
+, the principal of the Loan then outstanding
+(together with accrued interest thereon), including an amount sufficient to achieve the Base Return then applicable with respect to the
+portion of the Loan related thereto then applicable and all fees and the other obligations of the Company accrued hereunder and under
+the other Note Documents, shall automatically become due and payable, without presentment, demand, protest or other notice of any kind,
+all of which are hereby waived by the Company.
+
+ 
+
+In
+the event the Secured Obligations are reinstated for any reason, it is understood and agreed that the Secured Obligations shall be subject
+to the Base Return Principle and the Company are required to pay amounts necessary to achieve the Base Return with respect to the portion
+of the Loan related thereto in accordance with the Note Documents. For avoidance of doubt, the obligations of the Company to pay amounts
+to achieve the Base Return with respect to the portion of the Loan related thereto shall also be payable in the event the Secured Obligations
+(and/or this Note) are satisfied or released by foreclosure (whether by power of judicial proceeding), deed in lieu of foreclosure or
+by any other similar means.
+
+ 
+
+THE
+COMPANY WAIVES (TO THE FULLEST EXTENT IT MAY LAWFULLY DO SO) THE PROVISIONS OF ANY PRESENT OR FUTURE STATUTE OR LAW THAT PROHIBITS OR
+MAY PROHIBIT THE COLLECTION OF ANY AMOUNT DUE TO ACHIEVE THE BASE RETURN WITH RESPECT TO THE PORTION OF THE LOAN RELATED THERETO.
+
+ 
+
+ 
+
+18
+
+ 
+
+ 
+
+ 
+
+ 
+
+The
+Company expressly agrees (to the fullest extent that it may lawfully do so) that: (i) the Base Return Principle is reasonable and is
+the product of an arm’s length transaction between sophisticated business people, ably represented by counsel; (ii) as established
+by the Base Return Principle, the obligation of the Company to pay amounts necessary to achieve the Base Return with respect to the portion
+of the Loan related thereto in accordance with the Note Documents is incurred on the date hereof (subject to subsequent extensions of
+credit by the Lender) and part of the Secured Obligations on the date hereof (as increased by subsequent extensions of credit by the
+Lender) and in all events shall be part of the Secured Obligations; (iii) the amounts payable to achieve the Base Return with respect
+to the portion of the Loan related thereto shall be payable notwithstanding the then-prevailing market rates at the time payment is made;
+(iv) there has been a course of conduct between the Lender and the Company giving specific consideration in this transaction for such
+agreement to achieve the Base Return with respect to the portion of the Loan related thereto; and (v) the Company shall each be estopped
+hereafter from claiming differently than as agreed to in this paragraph.
+
+ 
+
+The
+Company expressly acknowledges that its agreement to pay amounts to the Lender necessary to achieve the Base Return with respect to the
+portion of the Loan related thereto to the Lender as herein described is a material inducement to the Lender to provide the extensions
+of credit under this Note.
+
+ 
+
+In
+the case of the occurrence of an Event of Default, the Lender will have all other rights and remedies available at law and equity.
+
+ 
+
+Section
+7. 
+Indemnity; Expenses
+. The Company shall indemnify Lender, and Lender’s affiliates, directors, officers, employees, agents,
+partners and advisors (each such person being called an “
+Indemnitee
+”) against, and hold each Indemnitee harmless from,
+any and all losses, claims, damages, liabilities and related expenses, including the reasonable and documented fees, charges and disbursements
+of any counsel for any Indemnitee, incurred by or asserted against any Indemnitee arising out of, in connection with, or as a result
+of (a) the execution or delivery of this Note, the Note Documents, the performance by the parties hereto of their respective obligations
+under this Note, the Note Documents or the consummation of the transactions or any other transactions contemplated by this Note, the
+Note Documents or (b) any actual or prospective claim, litigation, investigation or proceeding relating to any of the foregoing, whether
+based on contract, tort or any other theory and regardless of whether any Indemnitee is a party thereto; 
+provided 
+that such indemnity
+shall not, as to any Indemnitee, be available to the extent that such losses, claims, damages, liabilities or related expenses (x) are
+determined by a court of competent jurisdiction by final and nonappealable judgment to have resulted from the gross negligence or willful
+misconduct of such Indemnitee, (y) result from a claim brought by the Company or its Subsidiaries or Parent against such Indemnitee for
+breach in bad faith of such Indemnitee’s obligations hereunder or under any other Note Document, if the Company or its Subsidiaries
+or Parent thereof has obtained a final and nonappealable judgment in its favor on such claim as determined by a court of competent jurisdiction
+or (z) result from a claim not involving an act or omission of the Company, Parent or any Affiliate therefore and that is brought by
+such Indemnitee against another Indemnitee. The obligations of the Company under this paragraph shall survive the Payment in Full of
+the Note.
+
+ 
+
+ 
+
+19
+
+ 
+
+ 
+
+ 
+
+ 
+
+The
+Company shall (regardless of whether the Closing Date occurs), pay (a) all reasonable and documented out-of-pocket expenses incurred
+by the Lender and its Affiliates, including the reasonable and documented fees, charges and disbursements of their counsel and other
+consultants, the reasonable travel, photocopy, mailing, courier, telephone and other similar expenses, and the cost of environmental
+audits and surveys and appraisals, in connection with the extensions of credit provided for herein, the preparation, negotiation, execution,
+delivery and administration (both before and after the execution hereof and including advice of counsel to the Lender as to the rights
+and duties of the Lender with respect thereto) of this Note and the other Note Documents and any amendments, modifications or waivers
+of or consents related to the provisions hereof or thereof (whether or not the transactions contemplated hereby or thereby shall be consummated),
+(b) all costs, expenses, assessments and other similar charges incurred by the Lender in connection with any filing, registration, recording
+or perfection of any security interest contemplated by this Note or any Note Documents or any other document referred to therein and
+(c) all out-of-pocket expenses incurred by the Lender, including the fees, charges and disbursements of any counsel or other consultants
+for agents or Lender, in connection with the enforcement or protection of their rights in connection with this Note or any other Note
+Document, including their rights under this 
+Section 7
+, or in connection with the Loan made hereunder, including all such out-of-pocket
+expenses incurred during any workout, restructuring or similar negotiations in respect of such Loan (it is understood that, if any Credit
+Party fails to perform any covenant or agreement contained herein or in any other Note Document, the Lender may itself, but shall have
+no obligation to do so, perform or cause performance of such covenant or agreement, and the expenses of the Lender incurred in connection
+therewith shall be reimbursed on demand by the Company).
+
+ 
+
+Section
+8. 
+Miscellaneous
+.
+
+ 
+
+(a)
+The Company, for itself and its successors and assigns, hereby waives presentment, notice of dishonor, protest and notice of protest,
+and any or all other notices or demands (other than demand for payment) in connection with the delivery, acceptance, performance, default,
+endorsement or guarantee of this Note. The liability of the Company hereunder shall be unconditional and shall not be in any manner affected
+by any indulgence whatsoever granted or consented to by the holder hereof, including, but not limited to any extension of time, renewal,
+waiver or other modification. Any failure of the holder to exercise any right hereunder shall not be construed as a waiver of the right
+to exercise the same or any other right at any time and from time to time thereafter. Any waiver of any provision of this Note or any
+other Note Document or consent to any departure by any Note Party therefrom shall be effective only in the specific instance and for
+the purpose for which given. Lender or any holder may accept late payments, or partial payments, even though marked “payment in
+full” or containing words of similar import or other conditions, without waiving any of its rights.
+
+ 
+
+(b)
+This Note and the other Note Documents may only be changed, modified or terminated or have any of its provisions waived by an agreement
+in writing signed by the parties hereto or thereto. In addition, notwithstanding the foregoing, the Lender, with the written consent
+of the Company (not to be unreasonably withheld, conditioned or delayed), may amend, modify or supplement any Note Document in order
+to (a) grant, perfect, protect, expand or enhance any security interest in any Collateral or additional Property to become Collateral,
+(b) add, supplement or modify any collateral agency provisions to the extent needed in connection with the appointment of a collateral
+agent after the Closing Date and (c) correct, amend or cure any ambiguity, inconsistency or defect or correct any typographical error
+or other manifest error in any Note Document.
+
+ 
+
+ 
+
+20
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c)
+This Note shall remain in full force and effect for all purposes, including the consideration of any Rollover Loans or Additional Loans
+pursuant to Section 2(j) hereunder, notwithstanding any prepayment in full of the Loan or the Payment in Full of this Note. Upon Payment
+in Full of this Note, this Note may be terminated by delivery of a written notice from either the Company or the Lender to the other
+party; provided that such termination shall not affect any rights or obligations that expressly survive the Payment in Full of this Note
+(including, without limitation, indemnification and expense reimbursement obligations) or, unless otherwise specified by the Company
+or the Lender, the uncommitted nature of any Rollover Loans or Additional Loans that the Lender may, in its sole discretion, elect to
+approve thereafter.
+
+ 
+
+(d)
+All notices and other communications provided for herein shall be in writing and shall be delivered by hand or overnight courier service,
+mailed by certified or registered mail or sent by facsimile or electronic communication at the address set forth herein or at such other
+addresses as any party shall have specified to the other parties in writing. All notices and other communications given to any party
+hereto in accordance with the provisions of this Note or the other Note Documents shall be deemed to have been given on the date of receipt.
+
+ 
+
+(e)
+This Note shall be governed by and construed in accordance with the laws of the State of New York applicable to instruments made and
+to be performed wholly within that state. If any provision of this Note is held to be illegal or unenforceable for any reason whatsoever,
+such illegality or unenforceability shall not affect the validity of any other provision hereof. This Note shall bind the Company and
+its successors and assigns. This Note may not be assigned or transferred by the Company without the prior written consent of the Lender.
+The Lender reserves the right to assign or sell participations in the Note to any entity (including to any Federal Reserve Bank in accordance
+with applicable law) and to provide any assignee or participant or prospective assignee or participant with information of the Company
+previously received by Lender, subject to confidentiality requirements. The Company’s consent to such assignment or participation
+is hereby deemed granted. Lender and each of its assigns shall be an express third party beneficiary under this Note with direct rights
+to enforce, or exercise rights, make claims or seek remedies under, this Note.
+
+ 
+
+The
+Company shall maintain at one of its offices at 3811 Turtle Creek Blvd., Suite 2100, Dallas, TX 75219 a copy of each assignment of the
+Note delivered to it and a register for the recordation of the names and addresses of the Lender, and the commitments of, and principal
+amounts (and stated interest) of the Loan owing to, the Lender pursuant to the terms hereof from time to time (the “
+Register
+”).
+The entries in the Register shall be conclusive absent manifest error, and the Company and the Lender shall treat each Person whose name
+is recorded in the Register pursuant to the terms hereof as a Lender hereunder for all purposes of this Note. The Register shall be available
+for inspection by the Company and the Lender, at any reasonable time and from time to time upon reasonable prior notice.
+
+ 
+
+If
+Lender sells a participation, Lender, acting solely for this purpose as a non-fiduciary agent of the Company, shall maintain a register
+on which it enters name and address of each participant and the principal amounts (and stated interest) of each participant’s interest
+in the Loan or other obligations under the Note Documents (the “
+Participant Register
+”); 
+provided
+ that Lender
+shall not have any obligation to disclose all or any portion of the Participant Register (including the identity of any participant or
+any information relating to a participant’s interest in any commitments, loans or its other obligations under any Note Document)
+to any Person except to the extent that such disclosure is necessary to establish that such commitment, loan or other obligation is in
+registered form under Section 5f.103-1(c) of the United States Treasury Regulations. The entries in the Participant Register shall be
+conclusive absent manifest error, and Lender shall treat each Person whose name is recorded in the Participant Register as the owner
+of such participation for all purposes of this Note notwithstanding any notice to the contrary.
+
+ 
+
+ 
+
+21
+
+ 
+
+ 
+
+ 
+
+ 
+
+THE
+COMPANY AGREES THAT ANY ACTION, SUIT OR PROCEEDING IN RESPECT OF OR ARISING OUT OF THIS NOTE MAY BE INITIATED AND PROSECUTED IN THE STATE
+OR FEDERAL COURTS, AS THE CASE MAY BE, LOCATED IN NEW YORK COUNTY, NEW YORK AND ANY ARBITRATION PROCEEDING PURSUANT HERETO SHALL BE CONDUCTED
+IN NEW YORK, NEW YORK. THE COMPANY CONSENTS TO AND SUBMITS TO THE EXERCISE OF JURISDICTION OVER ITS PERSON BY ANY SUCH COURT HAVING JURISDICTION
+OVER THE SUBJECT MATTER, WAIVES PERSONAL SERVICE OF ANY AND ALL PROCESS UPON IT AND CONSENTS THAT ALL SUCH SERVICE OF PROCESS BE MADE
+BY REGISTERED MAIL DIRECTED TO THE COMPANY AT ITS ADDRESS SET FORTH BELOW OR TO ANY OTHER ADDRESS AS MAY APPEAR IN LENDER’S RECORDS
+AS THE ADDRESS OF THE COMPANY.
+
+ 
+
+IN
+ANY ACTION, SUIT OR PROCEEDING IN RESPECT OF OR ARISING OUT OF THIS NOTE, LENDER AND THE COMPANY WAIVE TRIAL BY JURY, AND COMPANY ALSO
+WAIVES (I) THE RIGHT TO INTERPOSE ANY SET-OFF OR COUNTERCLAIM OF ANY NATURE OR DESCRIPTION, (II) ANY OBJECTION BASED ON FORUM 
+NON
+CONVENIENS 
+OR VENUE, AND (III) ANY CLAIM FOR CONSEQUENTIAL, PUNITIVE OR SPECIAL DAMAGES.
+
+ 
+
+(f)
+The Company hereby authorizes Lender and any other holder of an interest in this Note to disclose confidential information relating to
+the financial condition or operations of the Company and/or its Subsidiaries and/or the Parent (i) to any director, officer, employee,
+affiliate, permitted actual or prospective participant, permitted assignee or transferee of Lender or any such holder, (ii) to legal
+counsel, accountants, insurer, re-insurer, insurance broker and other professional advisors to Lender or any such holder, (iii) to regulatory
+officials, (iv) as requested or required by law, regulation, or legal process or (v) in connection with any legal proceeding to which
+Lender or any such holder is a party.
+
+ 
+
+Section
+9. 
+Non-Recourse
+. Lender acknowledges and agrees that Lender’s sole right of recovery pursuant to this Note shall be
+limited to the Credit Parties solely to the extent set forth in the Note Documents defined therein, and Lender shall not have any
+right, remedy, claim or any other recourse against any Non-Recourse Party.
+
+ 
+
+[
+signature
+pages follow
+]
+
+ 
+
+ 
+
+22
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, the undersigned has caused this Note to be duly executed.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COMPANY:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Saidal Mohmand
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Saidal Mohmand
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief Financial
+ Officer
+
+ 
+
+ 
+
+ 
+
+NOTICES:
+
+ 
+
+If
+to the Company, to:
+
+ 
+
+APLD
+DevCo LLC
+
+3811
+Turtle Creek Blvd., Suite 2100
+
+Dallas,
+TX 75219
+
+Attention:
+Saidal Mohmand
+
+Phone:
+[***]
+
+Email:
+[***]
+
+ 
+
+with
+a copy (which shall not constitute notice) to:
+
+ 
+
+Applied
+Digital Corporation
+
+3811
+Turtle Creek Blvd., Suite 2100
+
+Dallas,
+TX 75219
+
+Attention:
+General Counsel
+
+ 
+
+and
+
+ 
+
+Lowenstein
+Sandler LLP
+
+1251
+Avenue of the Americas
+
+New
+York, New York 10020
+
+Attention:
+Steven Siesser, Esq.
+
+Phone:
+[***]
+
+Email:
+[***]
+
+ 
+
+If
+to Lender, to:
+
+ 
+
+Macquarie
+Equipment Capital, Inc.
+
+660
+Fifth Avenue
+
+New
+York, New York 10103
+
+Attention:
+SAF Operations; Aaron Jenkins and Joshua Stevens
+
+Phone:
+Aaron Jenkins: [***]; Joshua Stevens: [***]
+
+Email:
+[***]; [***]
+
+ 
+
+ 
+
+23
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANNEX
+A: DEFINITIONS
+
+ 
+
+1.
+Definitions
+
+ 
+
+[***].
+
+ 
+
+“
+Additional
+Loans
+” has the meaning assigned to such term in 
+Section 2(j)
+.
+
+ 
+
+“
+Affiliate
+”
+means, with respect to a specified Person, (a) another Person that directly, or indirectly through one or more intermediaries, Controls
+or is Controlled by or is under common Control with the Person specified, (b) another Person that directly or indirectly owns or holds
+ten percent (10.0%) or more of any class of Equity Interests with voting power in the specified Person or (c) any officer, director,
+manager or partner of the specified Person. It is understood that no Lender or any of its Affiliates shall be considered to be an Affiliate
+of the Company.
+
+ 
+
+“
+AML
+Laws
+” means all laws, rules, and regulations of any jurisdiction concerning the prevention of money laundering, including the
+USA PATRIOT Act.
+
+ 
+
+“
+Anti-Corruption
+Laws
+” means all laws, rules and regulations of any jurisdiction concerning or relating to bribery or corruption, including
+the U.S. Foreign Corrupt Practices Act of 1977, as amended.
+
+ 
+
+“
+Applicable
+Margin
+” means a rate equal 8.0 % per annum.
+
+ 
+
+“
+Base
+Return
+” means, as of any date of determination,
+
+ 
+
+(a)
+in respect of the First Draw, the return on capital of the Lender as calculated pursuant to clause (a) of the definition of “Multiple
+on Invested Capital” with respect to the First Draw (or, in the case of any partial repayment, the portion thereof then being repaid)
+and will be achieved if the Multiple on Invested Capital with respect to the First Draw (or, in the case of any partial repayment, the
+portion thereof then being repaid) as of such date equals 1.25:1.00; provided that if a prepayment or Payment in Full of this Note occurs,
+the Multiple on Invested Capital required to achieve the Base Return with respect to the First Draw shall be reduced to (i) on or prior
+to the date that is four (4) months after the date on which the First Draw is funded, then with respect to the amount prepaid or the
+prepayment achieving Payment in Full, 1.06:1.00 or (ii) after the date that is four (4) months after the date on which the First Draw
+is funded but prior to the date that is twelve (12) months after the date on which the First Draw is funded, then with respect to the
+amount prepaid or the prepayment achieving Payment in Full, 1.10:1.00;
+
+ 
+
+(b)
+in respect of the Second Draw, the return on capital of the Lender as calculated pursuant to clause (a) of the definition of “Multiple
+on Invested Capital” with respect to the Second Draw (or, in the case of any partial repayment, the portion thereof then being
+repaid) and will be achieved if the Multiple on Invested Capital with respect to the Second Draw (or, in the case of any partial repayment,
+the portion thereof then being repaid) as of such date equals 1.25:1.00; provided that (1) if the Second Draw is funded within six (6)
+months of the date on which the First Draw is funded and a prepayment or Payment in Full of this Note occurs at any time thereafter,
+the Multiple on Invested Capital required to achieve the Base Return with respect to the Second Draw shall be reduced to (i) on or prior
+to the date that is four (4) months after the date on which the Second Draw is funded, then with respect to the amount prepaid or the
+prepayment achieving Payment in Full, 1.06:1.00 or (ii) after the date that is four (4) months after the date on which the Second Draw
+is funded but prior to the date that is twelve (12) months after the date on which the Second Draw is funded, then with respect to the
+amount prepaid or the prepayment achieving Payment in Full, 1.10:1.00, and (2) if the Second Draw is funded more than six (6) months
+after the date on which the First Draw is funded and a prepayment or Payment in Full of this Note occurs at any time thereafter, the
+Multiple on Invested Capital required to achieve the Base Return with respect to the Second Draw shall be reduced to, after the date
+that is six (6) months after the date on which the First Draw is funded but prior to the date that is twelve (12) months after the date
+on which the First Draw is funded, then with respect to the amount prepaid or the prepayment achieving Payment in Full, 1.10:1.00;
+
+ 
+
+ 
+
+24
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c)
+in respect of any Rollover Loans or any Additional Loans, the return on capital of the Lender shall be determined by mutual agreement
+of the Lender and the Company.
+
+ 
+
+“
+Base
+Return Principle
+” has the meaning set forth in the definition of “Secured Obligations”.
+
+ 
+
+“
+Board
+”
+means the Board of Governors of the Federal Reserve System of the United States of America or any successor Governmental Authority.
+
+ 
+
+“
+Business
+Day
+” means any day that is not a Saturday, Sunday or other day on which commercial banks in New York City are authorized or
+required by law to remain closed.
+
+ 
+
+“
+Change
+of Control
+” means (i) Intermediate Holdings shall fail to own and control, directly or indirectly, beneficially and of record,
+Equity Interests in the Company or any Guarantor representing 100% on a fully diluted basis of (A) the aggregate ordinary voting power
+and economics interests and (B) the aggregate equity value represented by the issued and outstanding Equity Interests of the Company
+or such Guarantor or (ii) Parent shall fail to own and control, directly or indirectly, beneficially and of record, Equity Interests
+in Intermediate Holdings, the Company or any Guarantor representing 100% on a fully diluted basis of (A) the aggregate ordinary voting
+power and economics interests and (B) the aggregate equity value represented by the issued and outstanding Equity Interests of Intermediate
+Holdings, the Company or such Guarantor.
+
+ 
+
+“
+Closing
+Date
+” has the meaning assigned in 
+Section 5
+.
+
+ 
+
+“
+Collateral
+”
+has the collective meaning assigned thereto in the Guarantee and Security Agreement.
+
+ 
+
+“
+Company
+”
+means APLD DevCo LLC, a Delaware limited liability company.
+
+ 
+
+“
+Control
+”
+means the possession, directly or indirectly, of the power to direct or cause the direction of the management or policies of a Person,
+whether through the ability to exercise voting power, by contract or otherwise, including the power to elect a majority of the directors,
+managers, trustees or equivalent of a Person, as the case may be.
+
+ 
+
+ 
+
+25
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Controlling
+”
+and “
+Controlled
+” have meanings correlative thereto.
+
+ 
+
+“
+Controlled
+Affiliates
+” means, with respect to Lender, any fund, investment vehicle or other Person (other than a natural person) that
+(i) is organized by Lender or an Affiliate of Lender for the purpose of making equity investments in one or more companies and (ii) is
+controlled by or is under common control with Lender or such Affiliate of Lender. For purposes of this definition, “control”
+means the power to direct or cause the direction of management and policies of a Person, whether by contract or otherwise.
+
+ 
+
+“
+Credit
+Parties
+” means the Parent, Intermediate Holdings, the Company, and each Subsidiary of the Company (if any) or any of the foregoing
+as the context requires.
+
+ 
+
+“
+Default
+”
+means any event or condition which constitutes an Event of Default or which upon notice, lapse of time or both would, unless cured or
+waived, become an Event of Default.
+
+ 
+
+“
+Disqualified
+Capital Stock
+” means any Equity Interest that, by its terms (or by the terms of any security into which it is convertible or
+for which it is exchangeable) or upon the happening of any event, matures or is mandatorily redeemable for any consideration other than
+other Equity Interests (which would not constitute Disqualified Capital Stock), pursuant to a sinking fund obligation or otherwise, or
+is convertible or exchangeable for Indebtedness or redeemable for any consideration other than other Equity Interests (which would not
+constitute Disqualified Capital Stock) at the option of the holder thereof, in whole or in part, on or prior to the date that is one
+(1) year after the earlier of (a) the Maturity Date and (b) the date on which there is no portion of the Loan or other obligations hereunder
+outstanding.
+
+ 
+
+“
+Equity
+Interests
+” means shares of capital stock, partnership interests, membership interests in a limited liability company, beneficial
+interests in a trust or other equity ownership interests in a Person, including both preferred and common equity, and any warrants, options
+or other rights entitling the holder thereof to purchase or acquire any such Equity Interest.
+
+ 
+
+“
+ERISA
+”
+means the Employee Retirement Income Security Act of 1974, as amended, the regulations promulgated thereunder, and any successor statute.
+
+ 
+
+“
+ERISA
+Affiliate
+” means each trade or business (whether or not incorporated) which together with the Company or any Credit Party would
+be deemed to be a “single employer” within the meaning of Section 4001(b)(1) of ERISA or subsections (b), (c), (m) or (o)
+of Section 414 of the Code.
+
+ 
+
+“
+ERISA
+Event
+” means (a) any “reportable event”, as defined in Section 4043 of ERISA or the regulations issued thereunder
+with respect to a Plan (other than an event for which the 30 day notice period is waived); (b) the existence with respect to any Plan
+of an “accumulated funding deficiency” (as defined in Section 412 of the Code or Section 302 of ERISA), whether or not waived;
+(c) the filing pursuant to Section 412(d) of the Code or Section 303(d) of ERISA of an application for a waiver of the minimum funding
+standard with respect to any Plan; (d) the incurrence by any Credit Party or any of its ERISA Affiliates of any liability under Title
+IV of ERISA with respect to the termination of any Plan; (e) the receipt by any Credit Party or any ERISA Affiliate from the PBGC or
+a plan administrator of any notice relating to an intention to terminate any Plan or Plans or to appoint a trustee to administer any
+Plan; (f) the incurrence by any Credit Party or any of its ERISA Affiliates of any liability with respect to the withdrawal or partial
+withdrawal from any Plan or Multiemployer Plan; or (g) the receipt by any Credit Party or any ERISA Affiliate of any notice, or the receipt
+by any Multiemployer Plan from any Credit Party or any ERISA Affiliate of any notice, concerning the imposition of Withdrawal Liability
+or a determination that a Multiemployer Plan is, or is expected to be, insolvent or in reorganization, within the meaning of Title IV
+of ERISA.
+
+ 
+
+ 
+
+26
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Events
+of Default
+” has the meaning assigned in 
+Section 6
+.
+
+ 
+
+“
+Excepted
+Liens
+” means:
+
+ 
+
+(a)
+Liens for taxes, assessments or other governmental charges or levies which are (i) not delinquent or (ii) being contested in good faith
+by appropriate action and for which adequate reserves have been maintained in accordance with GAAP;
+
+ 
+
+(b)
+Liens in connection with workers’ compensation, unemployment insurance or other social security, old age pension or public liability
+obligations which are not delinquent or which are being contested in good faith by appropriate action and for which adequate reserves
+have been maintained in accordance with GAAP;
+
+ 
+
+(c)
+in the case of the Company, statutory landlord’s liens, operators’, vendors’, carriers’, warehousemen’s,
+repairmen’s, mechanics’, suppliers’, workers’, materialmen’s, construction or other like Liens arising
+by operation of law in the ordinary course of business or incident to the construction, operation, repair, restoration or improvement
+of the Initial Project, each of which is in respect of obligations that are not delinquent or which are being contested in good faith
+by appropriate action and for which adequate reserves have been maintained in accordance with GAAP or in respect of which bonds otherwise
+in an amount sufficient to repay the underlying obligation of such Liens shall have been obtained and remain in full force and effect;
+
+ 
+
+(d)
+Liens arising solely by virtue of any statutory or common law provision or customary deposit account terms (pursuant to a depository
+institution’s standard documentation that is provided to its customers generally) relating to banker’s liens, rights of set-off
+or similar rights and remedies and burdening only deposit accounts or other funds maintained with a creditor depository institution;
+
+provided
+ that no such deposit account is a dedicated cash collateral account or is subject to restrictions against access by the
+depositor in excess of those set forth by regulations promulgated by the Board and no such deposit account is intended by any Credit
+Party to provide collateral to the depository institution; and
+
+ 
+
+(e)
+in the case of the Company, encumbrances consisting of zoning restrictions, easements or other restrictions on the use of real property,
+none of which materially impairs the use or operation of such property in the ordinary course of business of the Company and its Subsidiaries
+(if any) or the value thereof or the validity, perfection or priority of the Liens granted under the Security Documents; 
+
+provided,
+
+further
+, that (x) Liens described in 
+clauses (a)
+ through 
+(d)
+ shall remain “Excepted Liens” only for
+so long as no action to enforce such Lien has been commenced and no intention to subordinate the Lien granted in favor of the Lender
+is to be hereby implied or expressed by the permitted existence of such Excepted Liens and (y) in no event shall “Excepted Liens”
+secure Indebtedness of the type specified in 
+clauses (a)
+ and 
+(b)
+ of the definition of “Indebtedness”.
+
+ 
+
+ 
+
+27
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Excluded
+Taxes
+” means any of the following Taxes imposed on or with respect to Lender or required to be withheld or deducted from a
+payment to Lender, (a) Taxes imposed on or measured by net income (however denominated), franchise Taxes, and branch profits Taxes, in
+each case imposed as a result of Lender having a present or former connection to the jurisdiction imposing such Tax (other than connections
+arising from Lender having executed, delivered, become a party to, performed its obligations under, received payments under, received
+or perfected a security interest under, engaged in any other transaction pursuant to or enforced any Notes Document, or sold or assigned
+an interest in this Note or any Note Documents); (b) U.S. federal withholding Taxes imposed on amounts payable to or for the account
+of such Lender with respect to an applicable interest in the Loan pursuant to a law in effect on the date on which (i) such Lender acquires
+such interest in the Loan or (ii) such Lender changes its lending office, (c) Taxes attributable to Lender’s failure to comply
+with Section 2(c)(iii) and (d) any U.S. federal withholding Taxes imposed under FATCA.
+
+ 
+
+“
+FATCA
+”
+means Sections 1471 through 1474 of the Code, as of the date of this Note (or any amended or successor version that is substantively
+comparable and not materially more onerous to comply with), any current or future regulations or official interpretations thereof, any
+agreements entered into pursuant to Section 1471(b)(1) of the Code and any fiscal or regulatory legislation, rules or practices adopted
+pursuant to any intergovernmental agreement, treaty or convention among Governmental Authorities and implementing such Sections of the
+Code.
+
+ 
+
+“
+GAAP
+”
+means generally accepted accounting principles in the United States of America as in effect from time to time.
+
+ 
+
+“
+Governmental
+Authority
+” means the government of the United States of America or any other nation or any political subdivision thereof, whether
+state or local, and any agency, authority, instrumentality, regulatory body, court, central bank or other entity exercising executive,
+legislative, judicial, taxing, regulatory or administrative powers or functions of or pertaining to government (including any supra-national
+bodies such as the European Union or the European Central Bank).
+
+ 
+
+“
+Governmental
+Requirement
+” means any international, foreign, federal, state and local law, treaties, statute, code, ordinance, order, determination,
+rule, rule of common law, regulation, judgment, decree, injunction, franchise, permit, certificate, license, authorization or other directive
+or requirement, whether formerly, now or hereinafter in effect, including environmental laws and occupational, safety and health standards
+or controls, of any Governmental Authority, including the interpretation or administration thereof by any Governmental Authority charged
+with the enforcement, interpretation or administration thereof.
+
+ 
+
+“
+Guarantee
+and Collateral Agreement
+” means the Guarantee and Collateral Agreement executed by the Company, Intermediate Holdings, and
+each Subsidiary of the Company (if any), dated as of the date hereof, in form and substance satisfactory to the Lender.
+
+ 
+
+ 
+
+28
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Guarantor
+”
+shall have the meaning assigned to such term in the Guarantee and Collateral Agreement.
+
+ 
+
+“
+Hazardous
+Material
+” shall mean any substances or materials (a) which are or become defined as hazardous wastes, hazardous substances,
+pollutants, contaminants or toxic substances under any environmental law, (b) which are toxic, explosive, corrosive, flammable, infectious,
+radioactive, carcinogenic, mutagenic or otherwise harmful to public health or the environment and are regulated by any Governmental Authority,
+(c) the presence of which require investigation or remediation under any environmental law, or (d) the discharge or emission or release
+of which requires a permit or license under any environmental law or other governmental approval, or which contain, without limitation,
+asbestos, polychlorinated biphenyls, urea formaldehyde foam insulation, petroleum hydrocarbons, petroleum derived substances or waste,
+crude oil, nuclear fuel, natural gas or synthetic.
+
+ 
+
+“
+Indebtedness
+”
+means, for any person, the sum of the following (without duplication): (a) all obligations of such person for borrowed money or evidenced
+by bonds, bankers’ acceptances, debentures, notes or other similar instruments; (b) all obligations of such person (whether contingent
+or otherwise) in respect of letters of credit (other than letters of credit where the Company or any of its Affiliates are named as applicants
+or co-applicants, provided that neither the Company nor any other Note Party has any liability, obligation or reimbursement responsibility
+in respect of drawings thereunder, whether direct or contingent, nor grants any Lien nor provides any guarantee in connection therewith),
+bank guarantees, surety or other bonds and similar instruments; (c) all accounts payable and other accrued expenses, liabilities or other
+obligations of such person to pay the deferred purchase price of Property or services (other than trade accounts payable in the ordinary
+course of business that are not past due for more than ninety (90) days after the date of invoice); (d) in respect of any capital lease
+of any person, the capitalized amount thereof that would appear on a balance sheet of such person prepared as of such date in accordance
+with GAAP; (e) all Indebtedness (as defined in the other clauses of this definition) of others secured by (or for which the holder of
+such Indebtedness has an existing right, contingent or otherwise, to be secured by) a Lien on any Property of such person, whether or
+not such Indebtedness is assumed by such Person, provided that, if such person has not assumed or become liable for the payment of such
+obligation, the amount of such Indebtedness shall be limited to the greater of (i) the principal amount of the obligations being secured
+and (ii) the fair market value of the encumbered Property; (f) all Indebtedness (as defined in the other clauses of this definition)
+of others guaranteed by such person or in which such person otherwise assures a creditor against loss of the Indebtedness (howsoever
+such assurance shall be made) to the extent of the lesser of the amount of such Indebtedness and the maximum stated amount of such guarantee
+or assurance against loss; (g) all obligations or undertakings of such person to maintain or cause to be maintained the financial position
+or covenants of others or to purchase the Indebtedness or Property of others; (h) obligations to deliver commodities, goods or services
+in consideration of one or more advance payments; (i) obligations to pay for goods or services, even if such goods or services are not
+actually received or utilized by such person, i.e., take-or-pay and similar obligations; (j) any Indebtedness of a partnership for which
+such person is liable either by agreement, by operation of law or by a Governmental Requirement but only to the extent of such liability;
+(k) Disqualified Capital Stock (for purposes hereof, the amount of any Disqualified Capital Stock shall be its liquidation value and,
+without duplication, the amount of all obligations of such Person with respect to the redemption, repayment or other repurchase in respect
+of Disqualified Capital Stock); and (l) net obligations under hedging agreements. The Indebtedness of any person shall include all obligations
+of such person of the character described above to the extent such person remains legally liable in respect thereof notwithstanding that
+any such obligation is not included as a liability of such person under GAAP.
+
+ 
+
+ 
+
+29
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Initial
+Lease
+” means a commercial lease agreement between the Company or one of its Subsidiaries and an investment grade tenant that
+is rated at least BBB- by S&P or an equivalent Moody’s rating as of the time of execution of such commercial lease agreement
+and is not an Affiliate of the Parent.
+
+ 
+
+“
+Initial
+Lease Execution
+” means the date on which the Initial Lease is duly executed by the parties thereto.
+
+ 
+
+“
+Initial
+Project
+” means the hyperscale data center facility being developed and constructed by the Company and its Subsidiaries on the
+Initial Properties for the Letter of Intent Party.
+
+ 
+
+“
+Initial
+Properties
+” means those certain parcels of real property as described in 
+Exhibit A
+ attached hereto.
+
+ 
+
+“
+Intermediate
+Holdings
+” means APLD Intermediate HoldCo LLC, a Delaware limited liability company.
+
+ 
+
+“
+Letter
+of Intent
+” means that certain Exclusivity Agreement, dated as of October 3, 2025 and as amended from time to time, by and between
+the Parent and a U.S.-based investment grade hyperscaler (the “
+Letter of Intent Party
+”).
+
+ 
+
+“
+Letter
+of Intent Party
+” has the meaning set forth in the definition of “Letter of Intent”.
+
+ 
+
+“
+Lien
+”
+means any interest in Property securing an obligation owed to, or a claim by, a Person other than the owner of the Property, whether
+such interest is based on the common law, statute or contract, and whether such obligation or claim is fixed or contingent, and including
+(a) the lien or security interest arising from a mortgage, deed of trust, encumbrance, adverse ownership interest, pledge, security agreement,
+conditional sale or trust receipt or a lease, consignment or bailment for security purposes and (b) the interest of a vendor or a lessor
+under any conditional sale agreement, capital lease or title retention agreement (or any financing lease having substantially the same
+economic effect as any of the foregoing) relating to such asset and any filed financing statement or other notice of any of the foregoing
+(whether or not a lien or other encumbrance is created or exists at the time of the filing).
+
+ 
+
+“
+Material
+Adverse Effect
+” means a material adverse change in, or material adverse effect on, (a) the business, operations, Property,
+liabilities (actual or contingent) or financial condition of the Note Parties, taken as a whole, or the Initial Project, (b) the ability
+of any Credit Party to perform its obligations under any Note Document to which it is a party, (c) the validity or enforceability of
+any Note Document or (d) the rights and remedies of or benefits available to the Lender under any Note Document.
+
+ 
+
+ 
+
+30
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Material
+Project Document
+” means any lease agreement (or equivalent agreement) entered into in respect of the Initial Project by the
+Note Parties, any electric services agreement entered into by the Note Parties with a utility relating to power services at the Initial
+Project, any other material agreement for utilities entered into by the Note Parties, and any material construction contract related
+to the Initial Project entered into by the Note Parties, including any GMP contract and any purchase orders relating to power supply
+equipment.
+
+ 
+
+“
+Monthly
+Date
+” means the last Business Day of each calendar month.
+
+ 
+
+“
+Mortgage
+”
+means, with respect to each of the Initial Properties, a first priority Construction Mortgage, Security Agreement, Fixture Filing, Financing
+Statement and Assignment of Rents and Leases with Deficiency Rights executed and delivered by the Company to the Lender, as security
+for the Secured Obligations and encumbering each parcel of real property, the improvements thereon and all personal property owned by
+the Company and encumbered by a Mortgage.
+
+ 
+
+“
+Multiemployer
+Plan
+” means a multiemployer plan as defined in Section 4001(a)(3) of ERISA.
+
+ 
+
+“
+Multiple
+on Invested Capital
+” means, as of the date of any determination, the ratio of (a) the sum, without duplication, of (i) the
+aggregate amount of principal payments and amounts previously paid in cash, in each case in respect of the Note, in order to achieve
+the Base Return from the Closing Date through the date of determination by the Company in respect of the Loan, (ii) the aggregate amount
+of interest payments and commitment fees paid in cash, in each case in respect of the Note, from the Closing Date through the date of
+determination by the Company in respect of the Loan (other than any Post-Default Rate interest), and (iii) the aggregate amount of any
+upfront fees received by the Lender in cash in each respect of the Loan on the Closing Date or thereafter to (b) the aggregate principal
+amount of the Loan (including any Principal Increase) funded and/or made available by the Lender from the Closing Date through such date
+of determination (without giving effect to any net funding in respect of any such Loan). For the avoidance of doubt, the calculation
+of Multiple on Invested Capital shall, in no event, take into account (x) any fees (other than the upfront fees as specified above) payable
+to the Lender, any syndication, co-investment, administration and similar fees or any other costs, fees, or third-party costs associated
+with any agent and/or the Lender’s evaluation, negotiation, or execution of the Note Documents or the monitoring or performance
+of any obligations under such Note Documents, regardless of whether such costs, fees or third-party costs are net funded from the proceeds
+of the Loan funded to the Company and (y) any Post-Default Rate interest. For purposes of determining whether the Base Return is achieved
+with respect to any repayment of any portion of the Loan (including any Draw), the Multiple on Invested Capital shall be calculated by
+including in clause (a) only amounts attributable to such portion of the Loan (or such Draw) and by including in clause (b) only the
+corresponding principal amount of the Loan (or such Draw) funded in respect of such portion.
+
+ 
+
+“
+New
+Facility
+” has the meaning set forth in 
+Section 2(j)
+.
+
+ 
+
+“
+Non-Recourse
+Party
+” means, with respect to the Note Parties, any of the Note Parties’ former, current and future equity holders, controlling
+persons, directors, officers, employees, agents, representatives, Affiliates (other than a Note Party), members, managers, general or
+limited partners, or assignees (or any former, current or future equity holder, controlling person, director, officer, employee, agent,
+representative, Affiliate (other than a Note Party), member, manager, general or limited partner, or assignee of any of the foregoing).
+
+ 
+
+ 
+
+31
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Note
+”
+has the meaning assigned in the preamble hereto.
+
+ 
+
+“
+Note
+Documents
+” means this Note, the Security Documents, the Parent Loan Guarantee, any agreement, instrument or certificate required
+to be delivered under this Note or the other Note Documents by or on behalf of the Parent, Intermediate Holdings, or the Note Parties
+and each other document designated as a Note Document thereunder.
+
+ 
+
+“
+Note
+Parties
+” means Intermediate Holdings, the Company and the Subsidiaries of the Company (if any).
+
+ 
+
+“
+Organizational
+Documents
+” means, (a) with respect to any corporation, the certificate or articles of incorporation and the bylaws and any
+shareholders agreement; (b) with respect to any limited liability company, the certificate or articles of formation or organization and
+operating agreement; (c) with respect to any partnership, joint venture, trust or other form of business entity, the partnership, joint
+venture or other applicable agreement of formation or organization and any agreement, instrument, filing or notice with respect thereto
+filed in connection with its formation or organization with the applicable Governmental Authority in the jurisdiction of its formation
+or organization and, if applicable, any certificate or articles of formation or organization of such entity and (d) any equivalent or
+comparable constitutive documents with respect to such entities in the jurisdiction of its formation or organization.
+
+ 
+
+“
+Other
+Taxes
+” means any present or future stamp or documentary taxes and any other excise, property or value added taxes, or similar
+charges or levies which arise from any payment made under this Note.
+
+ 
+
+“
+Parent
+”
+means Applied Digital Corporation, a Nevada corporation.
+
+ 
+
+“
+Parent
+Loan Guarantee
+” means the Parent Guarantee made by the Parent in favor of the Lender, in form and substance satisfactory to
+the Lender.
+
+ 
+
+“
+Participant
+Register
+” has the meaning set forth in 
+Section 8(d)
+.
+
+ 
+
+“
+Payment
+in Full
+” means (a) the principal of the Loan (including amounts sufficient to achieve the Base Return) and premium (if any)
+on and interest on each Loan and all fees payable under the Note Documents and all other amounts then due and payable under the Note
+Documents shall have been paid in full in cash (other than contingent indemnification obligations for which notice of a potential claim
+has not been given) and (b) all other Secured Obligations (other than contingent indemnification obligations for which notice of a potential
+claim has not been given) shall have been paid in full in cash.
+
+ 
+
+ 
+
+32
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Permitted
+Tax Distributions
+” means, for any taxable year (or portion thereof) beginning after the Closing Date for which the Company
+is treated as a pass-through entity or a member of a consolidated, unitary or combined group for federal, state and/or local income Tax
+purposes, distributions by the Company to its owner in an amount equal to the lesser of (A) the product of (i) the cumulative aggregate
+net taxable income attributable to the Company and its Subsidiaries’ assets and operations for all Tax periods of the Company through
+the date of determination and (ii) the combined, marginal U.S. federal, state, and local income tax rate applicable to a corporation
+that does business for Tax purposes in a jurisdiction in which the Company does business, separately determined with respect to each
+amount described in clause (i) for each fiscal year of the Company with respect to which such amount was incurred (taking into account
+any carryovers and carrybacks of tax attributes, such as net operating losses, attributable to the Company and its Subsidiaries’
+assets and operations) and (B) the net amount of the relevant Tax that the Company’s owner actually owes to the appropriate Tax
+authority; provided that, any amounts distributed hereunder shall be without duplication of any such taxes paid or withheld by the Company
+with respect to the same taxable income. Permitted Tax Distributions may be made in a manner that reflects estimated Tax payments dates.
+Where Permitted Tax Distributions are made in a manner that reflects estimated Tax payment dates, such payments shall be based upon a
+reasonable estimate of the assumed Tax liability, and where such estimate varies from what the actual assumed Tax liability would have
+been for a tax year, subsequent Permitted Tax Distributions will be adjusted to reflect such variance.
+
+ 
+
+“
+Person
+”
+means any natural person, corporation, limited liability company, trust, joint venture, association, company, partnership, Governmental
+Authority or other entity.
+
+ 
+
+“
+Plan
+”
+means any employee pension benefit plan (other than a Multiemployer Plan) subject to the provisions of Title IV of ERISA or Section 412
+of the Code or Section 302 of ERISA, and in respect of which the Company or any ERISA Affiliate is (or, if such plan were terminated,
+would under Section 4069 of ERISA be deemed to be) an “employer” as defined in Section 3(5) of ERISA.
+
+ 
+
+“
+Post-Default
+Rate
+” has the meaning assigned in 
+Section 2(e)
+.
+
+ 
+
+“
+Property
+”
+means any interest in any kind of property, right or asset, whether real, personal or mixed, or tangible or intangible (including cash,
+securities, accounts, contract rights, intellectual property and Equity Interests or other ownership interests of any Person), whether
+now in existence or owned or hereafter acquired, which shall include, upon acquisition thereof, the Initial Properties.
+
+ 
+
+“
+Qualifying
+Preference Share Issuance
+” means the issuance of preference shares by the Company or any of its Subsidiaries in respect of
+which the Company or any of its Subsidiaries shall receive net cash proceeds in an aggregate amount not less than $100,000,000 for purposes
+of developing the Initial Project.
+
+ 
+
+“
+Register
+”
+has the meaning set forth in 
+Section 8(d)
+.
+
+ 
+
+“
+Restricted
+Payment
+” means (a) the payment of any dividend or making of any other payment or distribution (whether in cash, securities
+or other property) on account of the Company’s Equity Interests or to the direct or indirect holders of the Company’s Equity
+Interests in their capacity as such, (b) the purchase, redemption, acquisition, retirement for value, acquisition, cancellation or termination
+of the Company’s Equity Interests, (c) any payment or distribution (whether in cash, securities or other property) on account of
+any return of capital to the Company’s stockholders, partners or members (or the equivalent Person thereof), (d) any payment (in
+cash, property or obligations other than any Equity Interests in the Company) with respect to principal or interest on or any other payment
+or distribution on account of or any payment for, the purchase, redemption, retirement or other acquisition of, shareholder loans or
+(e) any management fee or equivalent and any bonus or premium or other amount payable by or on behalf of the Company and its Subsidiaries
+(if any) to any affiliate of the Company (other than the Company or its Subsidiaries (if any)).
+
+ 
+
+ 
+
+33
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Rollover
+Amount
+” has the meaning set forth in 
+Section 2(j)
+.
+
+ 
+
+“
+Rollover
+Loans
+” has the meaning set forth in 
+Section 2(j)
+.
+
+ 
+
+“
+Sanctioned
+Country
+” means at any time, a country or territory which is itself the subject or target of any comprehensive country-wide
+or territory-wide Sanctions (as of the date hereof, Cuba, Iran, North Korea, Syria, the Crimea Region of Ukraine, the so-called Donetsk
+People’s Republic, Kherson, the so- called Luhansk People’s Republic and Zaporizhzhia regions of Ukraine).
+
+ 
+
+“
+Sanctioned
+Person
+” means at any time, any Person (a) identified on any Sanctions-related list of designated persons, (b) operating, organized
+or resident in a Sanctioned Country, or (c) directly or indirectly owned fifty percent (50%) or more or controlled by one or more Persons
+described in the foregoing clause (a) or (b).
+
+ 
+
+“
+Sanctions
+”
+means economic or financial sanctions or trade embargoes imposed, administered or enforced from time to time by (a) the U.S. government,
+including the Office of Foreign Assets Control of the U.S. Department of the Treasury and the U.S. Department of State or (b) the United
+Nations Security Council, the European Union, any European Union member state, or His Majesty’s Treasury of the United Kingdom.
+
+ 
+
+“
+Secured
+Obligations
+” means (a) any and all amounts owing or to be owing (including any Principal Increase and any interest accruing
+at any post-default rate and interest accruing after the filing of any petition in bankruptcy, or the commencement of any insolvency,
+reorganization or like proceeding, relating to any Credit Party, whether or not a claim for post-filing or post-petition interest is
+allowed in such proceeding) by the Company or the Parent (whether direct or indirect (including those acquired by assumption), absolute
+or contingent, due or to become due, now existing or hereafter arising) to the Lender under any Note Document or paid on behalf of any
+Note Party by the Lender or any of their Affiliates and (b) all renewals, restatements, extensions and/or rearrangements of any of the
+above. Without limitation of the foregoing, the term “Secured Obligations” shall include the unpaid principal or premium
+(if any) of and interest on the Loan (including, without limitation, interest accruing at the then-applicable rate provided in this Note
+after the maturity of the Loan and interest accruing at the then-applicable rate provided in this Note after the filing of any petition
+in bankruptcy, or the commencement of any insolvency, reorganization or like proceeding, relating to any Credit Party, whether or not
+a claim for post-filing or post-petition interest is allowed in such proceeding), reimbursement obligations and unpaid amounts, fees,
+expenses, indemnities, costs, and all other obligations and liabilities of every nature of the Company or any other Note Party, whether
+absolute or contingent, due or to become due, now existing or hereafter arising under this Note and the other Note Documents. It is understood
+that “Secured Obligations” shall include, without limitation, the obligation of the Note Parties to pay amounts under the
+Note Documents necessary for the Lender to achieve the Base Return and that such obligation exists as of the date of this Note and in
+all events prior to the time when the Loan is accelerated by operation of law or otherwise become due as a result of bankruptcy or insolvency
+related event, Event of Default or similar event (this sentence, the “
+Base Return Principle
+”).
+
+ 
+
+ 
+
+34
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Secured
+Parties
+” means the Lender and each Indemnitee.
+
+ 
+
+“
+Security
+Documents
+” means the Guarantee and Collateral Agreement, all account control agreements for the benefit of the Secured Parties
+with respect to the accounts of the Note Parties, the Mortgages, each other security agreement and guaranty, in form and substance reasonably
+satisfactory to the Lender, entered into or made by the Company, the Parent, Intermediate Holdings, or any other Note Party in favor
+of the Lender for the benefit of the Secured Parties securing the Secured Obligations and/or guaranteeing all or part of the Secured
+Obligations.
+
+ 
+
+“
+Solvent
+”
+means, with respect to any Person(s) as of any date, that (a) the value of the assets of such Person(s) (both at fair value and present
+fair saleable value) is, on the date of determination, greater than the total amount of liabilities (including contingent and unliquidated
+liabilities) of such Person(s) as of such date, (b) as of such date, such Person(s) is able to pay all liabilities of such Person(s)
+as such liabilities mature, and (c) as of such date, such Person(s) does not have unreasonably small capital given the nature of its
+business. In computing the amount of contingent or unliquidated liabilities at any time, such liabilities shall be computed at the amount
+that, in light of all the facts and circumstances existing at such time, represents the amount that can reasonably be expected to become
+an actual or matured liability.
+
+ 
+
+“
+SPV
+Sale
+” means the sale, transfer or disposition of all of the Equity Interests in [***] to an Affiliate of the Parent
+(other than the Company or any Subsidiary thereof); provided that (i) such disposition occurs within 7 months following the Closing Date,
+(ii) the proceeds of such sale are to be deposited promptly upon consummation of the sale in the bank account listed in 
+Annex C
+
+until applied in accordance with 
+Section 2(f)(vi)
+ and (iii) either (A) the consideration for such disposition shall consist solely
+of cash in an amount equal to 100% of the purchase price and all net cash proceeds from such disposition are applied in the manner and
+within time periods described in 
+Section 2(f)(vi)
+ and shall be in at least an amount sufficient to achieve Payment in Full or
+(B) if approved in the sole discretion of Lender, the proceeds of any such disposition, may be concurrently invested in an another wholly
+owned domestic Subsidiary of the Company for the purpose of financing operations at a New Facility, subject to satisfaction of the conditions
+with respect to any Rollover Loans set forth in 
+Section 2(j)
+ hereof, and such other conditions as the Lender may require.
+
+ 
+
+“
+Subsidiary
+”
+means, with respect to any Person (the “
+parent
+”) at any date, any other Person the accounts of which would be consolidated
+with those of the parent in the parent’s consolidated financial statements if such financial statements were prepared in accordance
+with GAAP as of such date, as well as any other Person (a) of which Equity Interests representing more than 50% of the equity or more
+than 50% of the ordinary voting power (irrespective of whether or not at the time Equity Interests of any other class or classes of such
+Person shall have or might have voting power by reason of the happening of any contingency) or, in the case of a partnership, any general
+partnership interests are, as of such date, owned, controlled or held, or (b) that is, as of such date, otherwise Controlled, by the
+parent or one or more subsidiaries of the parent or by the parent and one or more subsidiaries of the parent. Unless the context otherwise
+requires, Subsidiary means a Subsidiary of the Company.
+
+ 
+
+ 
+
+35
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Taxes
+”
+means any and all present and future taxes, duties, levies, imposts, deductions, charges or withholdings of any nature with respect to
+any payment by the Company pursuant to this Note imposed by any Governmental Authority. For the avoidance of doubt “Taxes”
+as defined in this paragraph do not include net income taxes imposed on the Lender by reason of this Note.
+
+ 
+
+“
+Title
+Company
+” means a nationally-recognized title insurance company reasonably acceptable to the Lender.
+
+ 
+
+“
+Title
+Insurance Policy
+” means one or more policies of title insurance (or marked up unconditional title insurance commitments having
+the effect of a policy of title insurance) for which all applicable premiums, search and examination charges, escrow charges and expenses
+required for the recording of the Mortgages and issuance of the such policy have been paid insuring the Lien of each such Mortgage as
+a valid first mortgage on the Initial Properties and fixtures described therein in an aggregate amount across the Initial Properties,
+at all times, equal to 100% of the consolidated Indebtedness of the Company and its Subsidiaries (if any), which policies (or such marked
+up unconditional title insurance commitments) shall (w) effect coverage against insurable losses from existing mechanics’ or materialmen’s
+liens and subsequent mechanics’ and materialmen’s liens which may gain priority over the Mortgages, either without exception
+for mechanics’ and materialmen’s liens or containing future endorsements pursuant to ALTA 32-06 and 33-06 title endorsements,
+as applicable, (x) be issued by the Title Company, (y) have been supplemented by such endorsements as shall be reasonably requested by
+the Lender (including, but not limited to, endorsements on matters relating to zoning, usury, first loss, doing business, public road
+access, survey, contiguity, policy authentication, variable rate, environmental lien, subdivision, policy aggregation, mortgage recording
+tax, street address, separate tax lot, revolving credit, and so-called comprehensive coverage over covenants, conditions and restrictions
+(to the extent applicable and available at commercially reasonable rates)), and (z) contain no exceptions to title other than Liens permitted
+hereunder.
+
+ 
+
+“
+Transformers
+”
+shall mean the two (2) 345/34.5 kV, 263 MVA Power Transformers manufactured, assembled, and warrantied by Siemens.
+
+ 
+
+“
+Withdrawal
+Liability
+” means shall mean liability to a Multiemployer Plan as a result of a complete or partial withdrawal from such Multiemployer
+Plan, as such terms are defined in Part 1 of Subtitle E of Title IV of ERISA.
+
+ 
+
+2.
+Terms Generally; Rules of Construction.
+
+ 
+
+The
+definitions of terms herein shall apply equally to the singular and plural forms of the terms defined. Whenever the context may require,
+any pronoun shall include the corresponding masculine, feminine and neuter forms. The words “include”, “includes”
+and “including” shall be deemed to be followed by the phrase “without limitation”, and the word “or”
+is not exclusive. The word “will” shall be construed to have the same meaning and effect as the word “shall”.
+The use of the words “repay” and “prepay” and the words “repayment” and “prepayment”
+herein shall each have identical meanings hereunder. Unless the context requires otherwise (a) any definition of or reference to any
+agreement, instrument or other document herein shall be construed as referring to such agreement, instrument or other document as from
+time to time amended, supplemented or otherwise modified (subject to any restrictions on such amendments, supplements or modifications
+set forth in the Note Documents), (b) except as otherwise provided herein, any reference herein to any law shall be construed as referring
+to such law as amended, modified, codified or reenacted, in whole or in part, and in effect from time to time, (c) any reference herein
+to any person shall be construed to include such person’s successors and assigns (subject to the restrictions contained in the
+Note Documents), (d) the words “herein”, “hereof” and “hereunder”, and words of similar import, shall
+be construed to refer to this Note in its entirety and not to any particular provision hereof, (e) with respect to the determination
+of any time period, the word “from” means “from and including” and the word “to” means “to
+and including”, (f) unless otherwise specified, any reference herein to Articles, Sections, Annexes, Exhibits and Schedules shall
+be construed to refer to Articles and Sections of, and Annexes, Exhibits and Schedules to, this Note, (g) any reference to amounts “deposited”
+into or “on deposit” in any account shall be construed to include any cash equivalents or other amounts credited to such
+account, (h) the term “documents” includes any and all instruments, documents, agreements, certificates, notices, reports,
+financial statements and other writings, however evidenced, whether in physical or electronic form, (i) the words “asset”
+and “property” shall be construed to have the same meaning and effect and to refer to any and all tangible and intangible
+assets and properties, including cash, securities, accounts and contract rights, and (j) all references to currencies and to amounts
+payable, requested or funded hereunder and under the other Note Documents shall be to United States dollars. The use of the phrase “subject
+to” as used in connection with Excepted Liens or otherwise and the permitted existence of any Excepted Liens or any other Liens
+shall not be interpreted to expressly or impliedly subordinate any Liens granted in favor of the Lender and the other Secured Parties
+as there is no intention to subordinate the Liens granted in favor of the Lender and the other Secured Parties. No provision of this
+Note or any other Note Document shall be interpreted or construed against any person because such person or its legal representative
+drafted such provision.
+
+ 
+
+ 
+
+36
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANNEX
+B – OWNERSHIP CHART
+
+ 
+
+[***]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANNEX
+C - ACCOUNT
+
+ 
+
+[***]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANNEX
+D - CLOSING DATE CONDITIONS PRECEDENT
+
+ 
+
+1.
+
+Officer’s
+ Certificate
+
+2.
+
+Resolutions;
+ Certified Charters; Incumbency Certificates
+
+3.
+
+Good
+ Standings
+
+4.
+
+Lowenstein
+ Opinion (re Note Documents)
+
+5.
+
+Snell
+ & Wilmer LLP Opinion (re Note Documents)
+
+6.
+
+Solvency
+ Certificate
+
+7.
+
+Satisfactory
+ documentation for formation of the Company, Intermediate Holdings, and Parent, including
+ limited liability company agreements, operating agreements, bylaws, or other organizational
+ documents, as applicable, and satisfactory resolutions or amendments to such organizational
+ documents
+
+8.
+
+UCC-1
+ filings required by Security Documents; Lien searches
+
+9.
+
+Borrowing
+ Request and Closing Certificate (re Reps and Warranties and Material Project Documents)
+
+10.
+
+Certified
+ copies of all Material Project Documents
+
+11.
+
+All
+ representations and warranties being true
+
+12.
+
+No
+ Default or Event of Default
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EXHIBIT
+A
+
+ 
+
+See
+attached.

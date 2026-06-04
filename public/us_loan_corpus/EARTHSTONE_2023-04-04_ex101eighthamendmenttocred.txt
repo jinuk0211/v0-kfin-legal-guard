@@ -1,0 +1,950 @@
+EX-10.1
+
+2
+
+ex101eighthamendmenttocred.htm
+
+EX-10.1
+
+Document
+
+Exhibit 10.1
+
+    
+
+    EIGHTH AMENDMENT    
+
+TO
+
+CREDIT AGREEMENT
+
+Dated as of March 30, 2023
+
+Among
+
+EARTHSTONE ENERGY HOLDINGS, LLC,
+as Borrower,
+
+EARTHSTONE ENERGY, INC.,
+
+as Parent,
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION,
+as Administrative Agent and Issuing Bank, 
+
+ROYAL BANK OF CANADA,
+
+as Syndication Agent,
+
+TRUIST BANK, CITIZENS BANK, N.A.,
+
+KEYBANK NATIONAL ASSOCIATION, U.S. BANK NATIONAL ASSOCIATION,
+
+FIFTH THIRD BANK, PNC BANK, NATIONAL ASSOCIATION,
+
+BANK OF AMERICA, N.A., MIZUHO BANK, LTD. AND
+
+CAPITAL ONE, NATIONAL ASSOCIATION
+
+as Documentation Agents,
+
+and
+
+The Lenders Party Thereto
+
+________________________________
+
+WELLS FARGO SECURITIES, LLC, RBC CAPITAL MARKETS, TRUIST SECURITIES, INC., CITIZENS BANK, N.A., KEYBANC CAPITAL MARKETS INC., U.S. BANK NATIONAL ASSOCIATION, FIFTH THIRD BANK, PNC CAPITAL MARKETS LLC,
+
+BOFA SECURITIES, INC., MIZUHO BANK, LTD. AND
+
+CAPITAL ONE, NATIONAL ASSOCIATION
+
+Joint Lead Arrangers and Joint Bookrunners
+________________________________
+
+________________________________
+
+EIGHTH AMENDMENT TO CREDIT AGREEMENT
+
+THIS EIGHTH AMENDMENT TO CREDIT AGREEMENT
+
+ (this “
+
+Eighth Amendment
+
+”) dated as of March 30, 2023, is among Earthstone Energy Holdings, LLC, a Delaware limited liability company (the “
+
+Borrower
+
+”); Earthstone Energy, Inc., a Delaware corporation (the “
+
+Parent
+
+”); each of the undersigned guarantors (the “
+
+Guarantors
+
+”, and together with the Borrower and the Parent, the “
+
+Obligors
+
+”); each of the Lenders party hereto; and Wells Fargo Bank, National Association
+
+ 
+
+(in its individual capacity, “
+
+Wells Fargo
+
+”), as administrative agent for the Lenders (in such capacity, together with its successors in such capacity, the “
+
+Administrative Agent
+
+”).
+
+R E C I T A L S
+
+A.    The Borrower, the Parent, the Administrative Agent and the Lenders are parties to that certain Credit Agreement dated as of November 21, 2019 (as amended, restated, amended and restated, supplemented or otherwise modified prior to the date hereof, the “
+
+Credit Agreement
+
+”), pursuant to which the Lenders have made certain credit available to and on behalf of the Borrower.
+
+B.    The Borrower and the Guarantors are parties to that certain Guarantee and Collateral Agreement, dated as of November 21, 2019 (as amended, restated, amended and restated, supplemented or otherwise modified), made by each of the Loan Parties party thereto in favor of the Administrative Agent.
+
+C.    The Parent is party to that certain Parent Guarantee, dated as of November 21, 2019 (as amended, restated, amended and restated, supplemented or otherwise modified), in favor of the Administrative Agent.
+
+D.    The Borrower has requested and the Administrative Agent and the Lenders party hereto have agreed to amend the Credit Agreement, subject to the terms and conditions of this Eighth Amendment. 
+
+E.    The Borrower desires to prepay in full the outstanding principal of the Initial Term Loans, together with accrued and unpaid interest thereon, on the Eighth Amendment Effective Date (as defined herein).
+
+F.    NOW, THEREFORE, to induce the Administrative Agent and the Lenders to enter into this Eighth Amendment and in consideration of the promises and the mutual covenants herein contained, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+Section 1. 
+
+Defined Terms
+
+. Each capitalized term used herein but not otherwise defined herein has the meaning given such term in the Credit Agreement, as amended by this Eighth Amendment (unless otherwise indicated). Unless otherwise indicated, all section references in this Eighth Amendment refer to sections of the Credit Agreement. 
+
+Section 2. 
+
+Amendments to Credit Agreement
+
+. 
+
+2.1    
+
+Amendment to Cover Page
+
+. The cover page to the Credit Agreement is hereby amended and restated to read as set forth on Annex II attached hereto.
+
+2.2    
+
+Amendment to Introductory Paragraph
+
+. The Introductory Paragraph is hereby amended and restated in its entirety to read as follows:
+
+    1    
+
+THIS CREDIT AGREEMENT
+
+ dated as of November 21, 2019, is among Earthstone Energy Holdings, LLC, a limited liability company duly formed and existing under the laws of the state of Delaware (the “
+
+Borrower
+
+”); Earthstone Energy, Inc., a Delaware corporation (“
+
+Parent
+
+”); each of the Lenders from time to time party hereto; Wells Fargo Bank, National Association
+
+ 
+
+(in its individual capacity, “
+
+Wells Fargo
+
+”), as administrative agent for the Lenders (in such capacity, together with its successors in such capacity, the “
+
+Administrative Agent
+
+”) and as Issuing Bank; Royal Bank of Canada, as syndication agent for the Lenders (in such capacity, together with its successors in such capacity, the “
+
+Syndication Agent
+
+”); and Truist Bank, Citizens Bank, N.A., KeyBank National Association, U.S. Bank National Association, Fifth Third Bank, PNC Bank, National Association, Bank of America, N.A., Mizuho Bank, Ltd. and Capital One, National Association, as documentation agents for the Lenders (each, in such capacity, together with its successors in such capacity, a “
+
+Documentation Agent
+
+”).
+
+2.3    
+
+Amendments to Section 1.02 – Certain Defined Terms
+
+. 
+
+(a)    
+
+Each of the following definitions is hereby amended and restated in its entirety to read as follows:
+
+“
+
+Aggregate Elected Borrowing Base Commitments
+
+” means (a) on the Eighth Amendment Effective Date, $1,400,000,000, and (b) at any time thereafter, an amount determined in accordance with Section 2.07(g).
+
+“
+
+Agreement
+
+” means this Credit Agreement, including any schedules and exhibits hereto, as amended by the First Amendment, the Second Amendment, the Third Amendment, the Fourth Amendment, the Fifth Amendment, the Sixth Amendment, the Seventh Amendment and the Eighth Amendment, and as the same may from time to time be amended, modified, supplemented or restated.
+
+“
+
+Arrangers
+
+” means, collectively, Wells Fargo Securities, LLC, RBC Capital Markets, Truist Securities, Inc., Citizens Bank, N.A., KeyBanc Capital Markets Inc., U.S. Bank National Association, Fifth Third Bank, PNC Capital Markets LLC, BofA Securities, Inc., Mizuho Bank, Ltd. and Capital One, National Association, in their capacities as the joint lead arrangers and joint bookrunners hereunder.
+
+“
+
+Initial Term Lenders
+
+” means the Persons listed on Annex II and any Person that shall have become a party hereto pursuant to an Assignment and Assumption with respect to which all or a portion of an Initial Term Loan is assigned to such Person, other than any such Person that ceases to be a party hereto pursuant to an Assignment and Assumption. As of the Eighth Amendment Effective Date, after giving effect to the Initial Term Loan Prepayment, there are no Initial Term Lenders hereto.
+
+“
+
+Initial Term Loans
+
+” means the term loans made by the Initial Term Lenders to the Borrower pursuant to Section 2.01(b). As of the Eighth Amendment Effective Date, after giving effect to the Initial Term Loan Prepayment, the outstanding principal amount of the Initial Term Loans is $0.
+
+(b)    
+
+Each of the following definitions is hereby added where alphabetically appropriate to read as follows:
+
+    2    
+
+“
+
+Eighth Amendment
+
+” means that certain Eighth Amendment to Credit Agreement, dated as of March 30, 2023, among the Borrower, the Parent, the Guarantors, the Administrative Agent and the Lenders party thereto.
+
+“
+
+Eighth Amendment Effective Date
+
+” has the meaning given to such term in the Eighth Amendment.
+
+“
+
+Initial Term Loan Prepayment
+
+” means the prepayment in full in cash by the Borrower of the outstanding principal amount of the Initial Term Loans, together with all accrued and unpaid interest thereon.
+
+“
+
+October 2023 Redetermination
+
+” has the meaning assigned to such term in Section 2.07(b).
+
+(c)    
+
+The definition of “
+
+Excluded Accounts
+
+” is hereby amended by replacing the reference to “$35,000,000” contained therein with “$50,000,000”.
+
+(d)    
+
+The definition of “
+
+April 2021 Redetermination
+
+” is hereby deleted in its entirety.
+
+2.4    
+
+Amendment to Section 2.07(a)
+
+. Section 2.07(a) is hereby amended and restated in its entirety to read as follows:
+
+(a)    
+
+Eighth Amendment Borrowing Base
+
+. For the period from and including the Eighth Amendment Effective Date to but excluding the next Redetermination Date, the amount of the Borrowing Base shall be $1,650,000,000. For purposes of this Agreement, the determination of the Borrowing Base on the Eighth Amendment Effective Date provided for in the immediately preceding sentence shall constitute the May 1, 2023 Scheduled Redetermination. Notwithstanding the foregoing, the Borrowing Base may be subject to further adjustments in between Scheduled Redeterminations from time to time pursuant to an Interim Redetermination, Section 2.07(e), Section 2.07(f) or Section 8.12(c).
+
+2.5    
+
+Amendment to Section 2.07(b)
+
+. Section 2.07(b) is hereby amended and restated in its entirety to read as follows:
+
+(b)    
+
+Scheduled and Interim Redeterminations
+
+. The Borrowing Base shall be redetermined on or about October 1, 2023 (the “
+
+October 2023 Redetermination
+
+”) and, thereafter, semi-annually in accordance with this Section 2.07 (each, a “
+
+Scheduled Redetermination
+
+”), and, subject to Section 2.07(d), such redetermined Borrowing Base shall become effective and applicable to the Borrower, the Administrative Agent, the Issuing Banks and the Lenders on or about October 1, 2023 (in the case of the October 2023 Redetermination), and on or about May 1 and November 1 of each year, commencing May 1, 2024. In addition, (i) the Borrower may, by notifying the Administrative Agent thereof, one time between Scheduled Redeterminations, elect to cause the Borrowing Base to be redetermined between Scheduled Redeterminations, (ii) the Administrative Agent may, at the direction of the Required Lenders, following the first Scheduled Redetermination hereunder, one time between successive Scheduled Redeterminations, by notifying the Borrower thereof, elect to cause the Borrowing Base to be redetermined, and (iii) the Borrower may elect, by notifying the Administrative Agent of any acquisition of Oil and Gas Properties by the Borrower or its Restricted Subsidiaries with a purchase price in the aggregate of at least five percent (5%) of the then effective Borrowing Base, to 
+
+    3    
+
+cause the Borrowing Base to be redetermined prior to the initial Scheduled Redetermination or between Scheduled Redeterminations (each, an “
+
+Interim Redetermination
+
+”) in accordance with this Section 2.07.
+
+2.6    
+
+Amendment to Section 2.07(c)
+
+. Section 2.07(c) is hereby amended by replacing the parenthetical phrase “(or (x) in the case of the April 2021 Redetermination, on or about March 15, 2021 or (y) in the case of the October 2021 Redetermination, on or about September 15, 2021)” contained therein with “(or in the case of the October 2023 Redetermination, on or about September 15, 2023)”.
+
+2.7    
+
+Amendment to Section 2.07(d)(i)
+
+. Section 2.07(d)(i) is hereby amended by replacing the parenthetical phrase “(or (x) in the case of the April 2021 Redetermination, on or about April 1, 2021, or (y) in the case of the October 2021 Redetermination, on or about October 1, 2021)” contained therein with “(or in the case of the October 2023 Redetermination, on or about October 1, 2023)”.
+
+2.8    
+
+Amendment to Section 2.10(a)
+
+. Section 2.10(a) is hereby amended by replacing the phrase “(i) the Borrowing Base then in effect 
+
+minus
+
+ the Aggregate Elected Borrowing Base Commitments then in effect 
+
+minus
+
+ the Total Term Loan Exposures in effect immediately prior to such Term Loan Facility Closing Date, (ii) an amount equal to the Aggregate Elected Borrowing Base Commitments then in effect 
+
+minus 
+
+the Total Term Loan Exposures in effect immediately prior to such Term Loan Facility Closing Date and (iii) an amount equal to the difference of (A) thirty-three and one-third percent (33-⅓%) of the Borrowing Base then in effect 
+
+minus 
+
+(B) the Total Term Loan Exposures outstanding immediately prior to such Term Loan Facility Closing Date” contained therein with “(i) the Borrowing Base then in effect 
+
+minus
+
+ the Aggregate Elected Borrowing Base Commitments then in effect 
+
+minus
+
+ the Total Term Loan Exposures in effect immediately prior to such Term Loan Facility Closing Date and (ii) an amount equal to the difference of (A) thirty-three and one-third percent (33-⅓%) of the Aggregate Elected Borrowing Base Commitments then in effect 
+
+minus 
+
+(B) the Total Term Loan Exposures outstanding immediately prior to such Term Loan Facility Closing Date”.
+
+2.9    
+
+Amendment to Section 2.10(d)(vi)
+
+. Section 2.10(d)(vi) is hereby amended and restated in its entirety to read as follows:
+
+(vi)    on the Term Loan Facility Closing Date, after giving effect to the effectiveness of the Term Loan Facility Closing Date, the Term Commitments and the funding of any Term Loans thereunder, the sum of the Total Term Loan Exposures and the Term Commitments shall not exceed, as of the Term Loan Facility Closing Date for such Term Commitments, the least of the following (A) the Borrowing Base then in effect 
+
+minus
+
+ the Aggregate Elected Borrowing Base Commitments then in effect and (B) an amount equal to thirty-three and one-third percent (33-⅓%) of the Aggregate Elected Borrowing Base Commitments then in effect; and
+
+2.10    
+
+Amendment to Section 3.04(c)(ii)
+
+. Section 3.04(c)(ii) is hereby amended by replacing the reference to “Section 8.13(c)” contained therein with “Section 8.12(c)”.
+
+2.11    
+
+Amendment to Section 8.11(a)
+
+. Section 8.11(a) is amended by replacing the last sentence thereof with the following sentence:
+
+Notwithstanding the foregoing, in connection with the October 2023 Redetermination, the Borrower shall furnish to the Administrative Agent and the Lenders a Reserve Report on or about September 1, 2023, evaluating the Oil and 
+
+    4    
+
+Gas Properties of the Loan Parties as of as of July 1, 2023, which Reserve Report shall be prepared by or under the supervision of the chief engineer of the Borrower who shall certify such Reserve Report to be true and accurate and to have been prepared in accordance with the procedures used in the immediately preceding January 1 Reserve Report.
+
+2.12    
+
+Amendment to Section 11.13(c)
+
+. Section 11.13(c) is hereby amended by replacing the phrase “one Business Day” contained therein with “two Business Days”.
+
+Section 3. 
+
+Assignment and Assumption
+
+.
+
+3.1    As used in this Eighth Amendment, (i) the term “
+
+Existing Lenders
+
+” means the collective reference to each Revolving Lender party to the Credit Agreement immediately prior to the Eighth Amendment Effective Date; (ii) the term “
+
+New Lenders
+
+” means the collective reference to each of BOKF NA dba Bank of Texas, Capital One, National Association, and Regions Bank; and (iii) the term “
+
+New and Continuing Lender
+
+” means the collective reference to each Existing Lender and each New Lender.
+
+3.2    Effective as of the Eighth Amendment Effective Date, immediately prior to giving effect to the amendments contained in 
+
+Section 2
+
+ of this Eighth Amendment: (a) each Existing Lender has, in consultation with the Borrower, agreed to (i) reallocate its respective Revolving Commitment and (ii) allow each New Lender to become a party to the Credit Agreement as a Revolving Lender by acquiring an interest in the total Revolving Commitments; and (b) for an agreed consideration, each Existing Lender (each, an “
+
+Assignor
+
+”) hereby irrevocably sells and assigns to each other New and Continuing Lender (each, an “
+
+Assignee
+
+”), and such Assignee hereby irrevocably purchases and assumes from such Assignor, subject to and in accordance with the Standard Terms and Conditions (as set forth in Annex 1 to 
+
+Exhibit G
+
+) and the Credit Agreement, as of the Eighth Amendment Effective Date, immediately prior to giving effect to the terms of Section 2 of this Eighth Amendment, (i) all of such Assignor’s rights and obligations in its capacity as a Revolving Lender under the Credit Agreement (including, for the avoidance of doubt, Loans and participations in Letters of Credit and LC Disbursements) and the other Loan Documents and any other documents or instruments delivered pursuant thereto, in each case, to the extent related to an amount and percentage interest of all of such outstanding rights and obligations of such Assignor under the Credit Agreement, to the extent necessary so that, after giving effect thereto, each New and Continuing Lender shall have the Maximum Credit Amount and Applicable Revolving Percentage set forth for such New and Continuing Lender on Annex I attached to this Eighth Amendment, which Annex I supersedes and replaces Annex I to the Credit Agreement (and Annex I to the Credit Agreement is hereby amended and restated in its entirety to read as set forth on Annex I attached hereto); and (ii) to the extent permitted to be assigned under applicable law, all claims, suits, causes of action and any other right of such Assignor (in its capacity as a Revolving Lender) against any Person, whether known or unknown, arising under or in connection with the Credit Agreement and the other Loan Documents and any other documents or instruments delivered pursuant thereto or the loan transactions governed thereby or in any way based on or related to any of the foregoing, including contract claims, tort claims, malpractice claims, statutory claims and all other claims at law or in equity related to the rights and obligations sold and assigned pursuant to clause (i) above (the rights and obligations sold and assigned pursuant to clauses (i) and (ii) above being referred to herein collectively as the “
+
+Assigned Interest
+
+”; and the sales and assignments and purchases and assumptions of the Assigned Interests described in this clause (b) being referred to herein collectively as the “
+
+Assignment and Reallocation
+
+”).  Such sale and assignment is without recourse to any Assignor and, except as expressly provided in this 
+
+Section 3
+
+, without representation or warranty by any Assignor.  On the Eighth Amendment Effective Date, after giving effect to the Assignment and Reallocation, each New Lender shall become a party to the Credit Agreement as a “Revolving Lender” and shall have all of the rights and obligations of a 
+
+    5    
+
+Revolving Lender under the Credit Agreement and the other Loan Documents. Each of the Administrative Agent, each Issuing Bank, each Existing Lender and the Borrower hereby consents and agrees to the Assignment and Reallocation, including each New Lender’s acquisition of interest in the Aggregate Maximum Credit Amount. With respect to the Assignment and Reallocation, each Existing Lender shall be deemed to have sold and assigned its Assigned Interest and each New and Continuing Lender shall be deemed to have acquired such Assigned Interest pursuant to the terms and conditions of the Assignment and Assumption attached as Exhibit G to the Credit Agreement (the “
+
+Assignment Agreement
+
+”), as if each Revolving Lender had executed such Assignment Agreement with respect to such Assigned Interest, pursuant to which (i) each New and Continuing Lender shall be an “Assignee”, (ii) each Existing Lender shall be an “Assignor” and (iii) the term “Effective Date” shall be the Eighth Amendment Effective Date as defined herein. On the Eighth Amendment Effective Date, after giving effect to the Assignment and Reallocation, the Administrative Agent shall take the actions specified in Section 12.04(b)(iv), including recording the Assignment and Reallocation described herein in the Register, and the Assignment and Reallocation shall be effective for all purposes of the Credit Agreement. Notwithstanding anything to the contrary in Section 12.04(b)(ii)(C), no Revolving Lender shall be required to pay a processing and recordation fee of $3,500 to the Administrative Agent in connection with the Assignment and Reallocation.
+
+Section 4. 
+
+Conditions of Effectiveness
+
+. This Eighth Amendment will become effective on the date on which each of the following conditions is satisfied or waived in accordance with Section 12.02 (such date, the “
+
+Eighth Amendment Effective Date
+
+”):
+
+4.1    
+
+Counterparts
+
+. The Administrative Agent shall have received from the Borrower, the Parent, each Guarantor and each New and Continuing Lender counterparts (in such number as may be requested by the Administrative Agent) of this Eighth Amendment signed on behalf of such Person.
+
+4.2    
+
+Fees and Expenses
+
+. The Administrative Agent, the Arrangers and the Lenders shall have received all fees and other amounts due and payable on or prior to the Eighth Amendment Effective Date, including, to the extent invoiced at least two Business Days prior to satisfaction of all other applicable conditions, reimbursement or payment of all reasonable out-of-pocket expenses required to be reimbursed or paid by the Borrower under the Credit Agreement.
+
+4.3    
+
+Payoff of Initial Term Loans
+
+. The Administrative Agent shall have received evidence satisfactory to the Administrative Agent that the Initial Term Loans have been, or concurrently with the Eighth Amendment Effective Date and the making of any extensions of credit under the Credit Agreement on such date will be, paid in full pursuant to Section 3.04(a) and Section 3.04(b) of the Credit Agreement.
+
+4.4    
+
+No Default
+
+. As of the Eighth Amendment Effective Date, no Default shall have occurred and be continuing.
+
+4.5    
+
+Mortgages
+
+. The Administrative Agent shall have received duly executed and notarized deeds of trust and/or mortgages or supplements to existing deeds of trust and/or mortgages in form reasonably satisfactory to the Administrative Agent, to the extent necessary so that the Mortgaged Properties represent at least 85% of the total value of the proved Oil and Gas Properties evaluated in the most recently delivered Reserve Report.
+
+4.6    
+
+Title
+
+. The Administrative Agent shall have received, together with title information previously delivered to the Administrative Agent, title information reasonably satisfactory to the Administrative Agent setting forth the status of title to at least 85% of the total 
+
+    6    
+
+value of the proved Oil and Gas Properties evaluated in the most recently delivered Reserve Report.
+
+The Administrative Agent is hereby authorized and directed to declare Section 2 of this Eighth Amendment to be effective (and the Eighth Amendment Effective Date shall occur) when it has received documents confirming compliance with the conditions set forth in this 
+
+Section 4
+
+ or the waiver of such condition in accordance with Section 12.02 of the Credit Agreement. Such declaration shall be final, conclusive and binding upon all parties to the Credit Agreement for all purposes. For purposes of determining compliance with the conditions specified in this 
+
+Section 4
+
+, each Lender that has signed this Amendment shall be deemed to have consented to, approved or accepted, or to be satisfied with, each document or other matter required thereunder to be consented to or approved by or acceptable or satisfactory to such Lender, unless the Administrative Agent shall have received written notice from such Lender prior to the Eighth Amendment Effective Date specifying its objection thereto.
+
+Section 5. 
+
+Limited Waiver
+
+.
+
+5.1    
+
+Limited Waiver of Notice of SOFR Borrowings
+
+. The Borrower has requested that the Lenders waive, and the Lenders do hereby waive, the three U.S. Government Securities Business Days’ notice requirement contained in Section 2.03 of the Credit Agreement (as amended hereby) solely with respect to the funding of SOFR Loans to occur on the Eighth Amendment Effective Date (the “
+
+Waiver
+
+”).
+
+5.2    
+
+Waivers Generally
+
+. Except as expressly waived herein, all covenants, obligations and agreements of each Obligor contained in the Credit Agreement and the other Loan Documents shall remain in full force and effect in accordance with their terms. Without limitation of the foregoing, the Waiver is hereby granted to the extent and only to the extent specifically stated herein and for no other purpose and shall not be deemed to (a) be a consent or agreement to, or waiver or modification of, or amendment to, any other term or condition of the Credit Agreement, any other Loan Document or any of the documents referred to therein, (b) except as expressly set forth herein, prejudice any right or rights which the Administrative Agent or the Lenders may now have or may have in the future under or in connection with the Credit Agreement, any other Loan Document or any of the documents referred to therein, or (c) constitute any course of dealing or other basis for altering any obligation of the Borrower or any other Obligor or any right, privilege or remedy of the Administrative Agent or the Lenders under the Credit Agreement, the other Loan Documents, or any other contract or instrument. Granting the Waiver set forth herein does not and should not be construed to be an assurance or promise that consents or waivers will be granted in the future, whether for the matters herein stated or on other unrelated matters.
+
+Section 6. 
+
+Miscellaneous
+
+.
+
+6.1    
+
+Confirmation
+
+. The provisions of the Credit Agreement, as amended by this Eighth Amendment, shall remain in full force and effect following the effectiveness of this Eighth Amendment.
+
+6.2    
+
+Ratification and Affirmation; Representations and Warranties
+
+. Each Obligor hereby: (a) acknowledges the terms of this Eighth Amendment; (b) ratifies and affirms its obligations under and the Liens granted by, and acknowledges, renews and extends its continued liability under, each Loan Document to which it is a party and agrees that each Loan Document to which it is a party remains in full force and effect, except as expressly amended hereby; (c) agrees that from and after the Eighth Amendment Effective Date each reference to the Credit Agreement in the other Loan Documents shall be deemed to be a reference to the Credit Agreement, as amended by this Eighth Amendment; and (d) represents and warrants to the 
+
+    7    
+
+Lenders that as of the date hereof, after giving effect to the terms of this Eighth Amendment: (i) all of the representations and warranties contained in each Loan Document to which it is a party are true and correct in all material respects (except that any representation and warranty that is qualified by materiality shall be true and correct in all respects), except to the extent any such representations and warranties are expressly limited to an earlier date, in which case, such representations and warranties shall continue to be true and correct in all material respects (except that any representation and warranty that is qualified by materiality shall be true and correct in all respects) as of such specified earlier date and (ii) no Default has occurred and is continuing.
+
+6.3    
+
+Counterparts
+
+. This Eighth Amendment may be executed by one or more of the parties hereto in any number of separate counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of an executed counterpart of a signature page of this Eighth Amendment by facsimile, electronic communications, as an attachment to an email or other similar electronic means shall be effective as delivery of a manually executed counterpart of this Eighth Amendment.
+
+6.4    
+
+NO ORAL AGREEMENT
+
+. THIS EIGHTH AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS EXECUTED IN CONNECTION HEREWITH AND THEREWITH REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR UNWRITTEN ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO SUBSEQUENT ORAL AGREEMENTS BETWEEN THE PARTIES.
+
+6.5    
+
+GOVERNING LAW
+
+. THIS EIGHTH AMENDMENT (INCLUDING, BUT NOT LIMITED TO, THE VALIDITY AND ENFORCEABILITY HEREOF) SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF TEXAS.
+
+6.6    
+
+Loan Document
+
+. This Eighth Amendment is a “Loan Document” as defined and described in the Credit Agreement and all of the terms and provisions of the Credit Agreement relating to Loan Documents shall apply hereto.
+
+6.7    
+
+Payment of Expenses
+
+. In accordance with Section 12.03 of the Credit Agreement, the Borrower agrees to pay or reimburse the Administrative Agent for all of its reasonable and documented out-of-pocket costs and expenses incurred in connection with this Eighth Amendment, any other documents prepared in connection herewith and the transactions contemplated hereby, including, without limitation, the reasonable fees and disbursements of counsel to the Administrative Agent.
+
+6.8    
+
+Severability
+
+. Any provision of this Eighth Amendment or any other Loan Document held to be invalid, illegal or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such invalidity, illegality or unenforceability without affecting the validity, legality and enforceability of the remaining provisions hereof or thereof; and the invalidity of a particular provision in a particular jurisdiction shall not invalidate such provision in any other jurisdiction.
+
+6.9    
+
+Successors and Assigns
+
+. This Eighth Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+
+[Signature Pages Follow]
+
+    8    
+
+IN WITNESS WHEREOF, the parties hereto have caused this Eighth Amendment to be duly executed and delivered by their proper and duly authorized officer(s) as of the day and year first above written.
+
+BORROWER:
+
+EARTHSTONE ENERGY HOLDINGS, LLC
+
+By:
+
+/s/ Mark Lumpkin Jr.
+
+Name:
+
+Mark Lumpkin Jr.
+
+Title:
+
+Executive Vice President and Chief Financial Officer
+
+PARENT:
+
+EARTHSTONE ENERGY, INC.
+
+By:
+
+/s/ Mark Lumpkin Jr.
+
+Name:
+
+Mark Lumpkin Jr.
+
+Title:
+
+Executive Vice President and Chief Financial Officer
+
+ 
+
+GUARANTORS:
+
+EARTHSTONE OPERATING, LLC
+
+By:
+
+/s/ Mark Lumpkin Jr.
+
+Name:
+
+Mark Lumpkin Jr.
+
+Title:
+
+Executive Vice President and Chief Financial Officer
+
+SABINE RIVER ENERGY, LLC
+
+By:
+
+/s/ Mark Lumpkin Jr.
+
+Name:
+
+Mark Lumpkin Jr.
+
+Title:
+
+Executive Vice President and Chief Financial Officer
+
+    Signature Page – Eighth Amendment to Credit Agreement
+
+    Earthstone Energy Holdings, LLC
+
+INDEPENDENCE RESOURCES TECHNOLOGIES, LLC
+
+By:
+
+/s/ Mark Lumpkin Jr.
+
+Name:
+
+Mark Lumpkin Jr.
+
+Title:
+
+Executive Vice President and Chief Financial Officer
+
+EARTHSTONE PERMIAN, LLC
+
+By:
+
+/s/ Mark Lumpkin Jr.
+
+Name:
+
+Mark Lumpkin Jr.
+
+Title:
+
+Executive Vice President and Chief Financial Officer
+
+    Signature Page – Eighth Amendment to Credit Agreement
+
+    Earthstone Energy Holdings, LLC
+
+ADMINISTRATIVE AGENT, ISSUING BANK AND A LENDER:
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION
+
+By: 
+
+/s/ Michael Real
+
+Name: Michael Real
+
+Managing Director
+
+    Signature Page – Eighth Amendment to Credit Agreement
+
+    Earthstone Energy Holdings, LLC
+
+LENDER:
+
+ROYAL BANK OF CANADA, as a Lender and Issuing Bank
+
+By: 
+
+/s/ Kristan Spivey
+
+Name: Kristan Spivey
+
+Title: Authorized Signatory
+
+    Signature Page – Eighth Amendment to Credit Agreement
+
+    Earthstone Energy Holdings, LLC
+
+LENDER:
+
+TRUIST BANK, as a Lender
+
+By: 
+
+/s/ James Giordano
+
+Name: James Giordano
+
+Title: Managing Director 
+
+    Signature Page – Eighth Amendment to Credit Agreement
+
+    Earthstone Energy Holdings, LLC
+
+LENDER:
+
+CITIZENS BANK, N.A., as a Lender
+
+By: 
+
+/s/ Cameron Spence 
+
+Name: Cameron Spence
+
+Title: Vice President 
+
+    Signature Page – Eighth Amendment to Credit Agreement
+
+    Earthstone Energy Holdings, LLC
+
+LENDER:
+
+KEYBANK NATIONAL ASSOCIATION, as a Lender
+
+By: 
+
+/s/ David M. Bornstein
+
+Name: David M. Bornstein
+
+Title: Senior Vice President 
+
+    Signature Page – Eighth Amendment to Credit Agreement
+
+    Earthstone Energy Holdings, LLC
+
+LENDER:
+
+PNC BANK, NATIONAL ASSOCIATION, as a Lender
+
+By: 
+
+/s/ Anvar Musayev
+
+Name: Anvar Musayev
+
+Title: Vice President
+
+    Signature Page – Eighth Amendment to Credit Agreement
+
+    Earthstone Energy Holdings, LLC
+
+LENDER:
+
+U.S. BANK NATIONAL ASSOCIATION, as a Lender
+
+By: 
+
+/s/ John C. Lozano
+
+Name: John C. Lozano
+
+Title: Senior Vice President 
+
+    Signature Page – Eighth Amendment to Credit Agreement
+
+    Earthstone Energy Holdings, LLC
+
+    
+
+LENDER:
+
+FIFTH THIRD BANK, NATIONAL ASSOCIATION, as a Lender
+
+By: 
+
+/s/ Dan Condley
+
+Name: Dan Condley
+
+Title: Managing Director
+
+            
+
+    Signature Page – Eighth Amendment to Credit Agreement
+
+    Earthstone Energy Holdings, LLC
+
+LENDER:
+
+FIRST HORIZON BANK, as a Lender
+
+By: 
+
+/s/ Stacy Goldstein
+
+Name: Stacy Goldstein
+
+Title: Senior Vice President
+
+    Signature Page – Eighth Amendment to Credit Agreement
+
+    Earthstone Energy Holdings, LLC
+
+LENDER:
+
+COMERICA BANK, as a Lender
+
+By: 
+
+/s/ Britney P. Geidel
+
+Name: Britney P. Geidel
+
+Title: Vice President
+
+    Signature Page – Eighth Amendment to Credit Agreement
+
+    Earthstone Energy Holdings, LLC
+
+LENDER:
+
+BANK OF AMERICA, N.A., as a Lender
+
+By: 
+
+/s/ Greg Smothers
+
+Name: Greg Smothers
+
+Title: Director
+
+    
+
+Signature Page – Eighth Amendment to Credit Agreement
+
+    Earthstone Energy Holdings, LLC
+
+    
+
+LENDER:
+
+MIZUHO BANK, LTD., as a Lender 
+
+By: 
+
+/s/ Edward Sacks
+
+Name: Edward Sacks
+
+Title: Executive Director
+
+    
+
+Signature Page – Eighth Amendment to Credit Agreement
+
+    Earthstone Energy Holdings, LLC
+
+    
+
+NEW LENDER:
+
+BOKF NA, dba BANK OF TEXAS, as a Lender 
+
+By: 
+
+/s/ Brandon Starr
+
+Name: Brandon Starr
+
+Title: Vice President
+
+    Signature Page – Eighth Amendment to Credit Agreement
+
+    Earthstone Energy Holdings, LLC
+
+LENDER:
+
+CAPITAL ONE, NATIONAL ASSOCIATION, as a Lender 
+
+By: 
+
+/s/ Christopher Kuna
+
+Name: Christopher Kuna
+
+Title: Senior Director
+
+    Signature Page – Eighth Amendment to Credit Agreement
+
+    Earthstone Energy Holdings, LLC
+
+NEW LENDER:
+
+REGIONS BANK, as a Lender 
+
+By: 
+
+/s/ Cody Chance
+
+Name: Cody Chance
+
+Title: Managing Director
+
+    Signature Page – Eighth Amendment to Credit Agreement
+
+    Earthstone Energy Holdings, LLC

@@ -1,0 +1,1036 @@
+EX-10.2
+
+3
+
+ex10-2.htm
+
+EX-10.2
+
+ 
+
+ 
+
+Exhibit
+10.2
+
+ 
+
+SECURITY
+AGREEMENT
+
+ 
+
+This
+
+SECURITY AGREEMENT
+, dated as of September 24, 2025 (this “
+Agreement
+”) is made by and among Dogehash Technologies,
+Inc., a Nevada corporation, and USDE Acquisition, Inc., a Nevada corporation (the “
+Grantor
+”), in favor of Thumzup
+Media Corporation, a Nevada corporation (the “
+Secured Party
+”).
+
+ 
+
+RECITALS
+
+ 
+
+A.
+The Grantor has agreed, to issue and sell to the Secured Party an 8% secured promissory note in the principal amount of Two Million Five
+Hundred Thousand Dollars and 00/100 ($2,500,000.00) (as such note may be amended, restated, replaced or otherwise modified from time
+to time in accordance with the terms thereof, the “
+Note
+”).
+
+ 
+
+B.
+It is a condition precedent to the Note that the Grantor shall have executed and delivered to the Secured Party this Agreement providing
+for the grant to the Secured Party, to secure all of the Grantor’s obligations under the Note and the Transaction Documents (as
+defined in the Note) of a valid, enforceable, and perfected security interest in the Collateral (as defined herein).
+
+ 
+
+C.
+The Grantor has determined that the execution, delivery and performance of this Agreement directly benefits, and is in the best interest
+of, the Grantor.
+
+ 
+
+AGREEMENT
+
+ 
+
+NOW,
+THEREFORE, in consideration of the premises and the agreements herein and in order to induce the Secured Party to perform under the Note,
+the Grantor agrees with the Secured Party, as follows:
+
+ 
+
+Section
+1. 
+
+Definitions.
+
+ 
+
+(a)
+Reference is hereby made to the Note for a statement of the terms thereof. All terms used in this Agreement and the recitals hereto which
+are defined in the Note or in the Uniform Commercial Code (the “
+Code
+”), and which are not otherwise defined herein
+shall have the same meanings herein as set forth therein; 
+provided
+ that terms used herein which are defined in the Code as in
+effect in the State of New York on the date hereof shall continue to have the same meaning notwithstanding any replacement or amendment
+of such statute except as the Secured Party may otherwise determine.
+
+ 
+
+(b)
+The Recitals to this Agreement are incorporated herein and, by this reference, made a part hereof as if fully set forth herein.
+
+ 
+
+Section
+2
+. 
+Grant of Security Interest
+ . As collateral security for all of the Obligations (as defined herein), Grantor hereby pledges
+and assigns to the Secured Party, and grants to the Secured Party, a senior first priority lien and continuing security interest in the
+Collateral (as defined herein) to secure the payment and performance of all the Obligations.
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a)
+
+Collateral – General.
+ The Grantor hereby grants to the Secured Party a first priority lien and security interest in the
+Collateral and expressly including the profits interest. “
+Collateral
+” means the collateral in which the Secured Party
+is granted a security interest by this Agreement and which shall include the following personal property of the Grantor, whether presently
+owned or existing or hereafter acquired or coming into existence, wherever situated, and all additions and accessions thereto and all
+substitutions and replacements thereof, and all proceeds, products and accounts thereof, including, without limitation, all proceeds
+from the sale or transfer of the Collateral and of insurance covering the same and of any tort claims in connection therewith and shall
+include, without limitation, the profits of the Grantor: All servers acquired with the proceeds of the loan under the Note consisting
+of 520 DGI+ server units, including without limitation, all supplies and materials associated with the installation and operation thereof
+and all proceeds received in connection therewith.
+
+ 
+
+Notwithstanding
+the foregoing, nothing herein shall be deemed to constitute an assignment of any asset which, in the event of an assignment, becomes
+void by operation of applicable law or the assignment of which is otherwise prohibited by applicable law (in each case to the extent
+that such applicable law is not overridden by Sections 9-406, 9-407 and/or 9-408 of the UCC or other similar applicable law); provided,
+however, that to the extent permitted by applicable law, this Agreement shall create a valid security interest in such asset and, to
+the extent permitted by applicable law, this Agreement shall create a valid security interest in the proceeds of such asset.
+
+ 
+
+(b) 
+Security
+for Obligations
+. The security interest granted pursuant to this Agreement and created hereby in the Collateral constitutes a
+continuing security interest and secures the payment and performance for all of the following obligations, whether direct or
+indirect, absolute or contingent, and whether now or exiting or hereafter incurred, including the monetary obligations of the
+Grantor to the Secured Party arising under the Note (collectively, the “
+Obligations
+”):
+
+ 
+
+(i)
+for so long as the Note is outstanding, (i) the payment by the Grantor, as and when due and payable (by scheduled maturity, voluntary
+prepayment, acceleration, demand or otherwise), of all amounts from time to time owing by it in respect of the Note, and the other Transaction
+Documents, if any, and (ii) the payment by the Grantor, as and when due and payable of all obligations under the Transaction Documents,
+as applicable, including, without limitation, in both cases, (A) all principal of and interest on the Note (including, without limitation,
+all interest that accrues after the commencement of any insolvency proceeding of Grantor, whether or not the payment of such interest
+is unenforceable or is not allowable due to the existence of such insolvency proceeding), and (B) all fees, interest, premiums, penalties,
+contract causes of action, costs, commissions, expense reimbursements, indemnifications and all other amounts due or to become due under
+this Agreement or any of the Transaction Documents; and
+
+ 
+
+(ii)
+for so long as the Note is outstanding, the due performance and observance by the Grantor of all of its other obligations from time to
+time existing in respect of any of the Transaction Documents.
+
+ 
+
+SECTION 3. 
+Representations
+and Warranties
+. The Grantor hereby represents, warrants and covenants as follows:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a)
+
+ 
+
+Power
+ and Authority
+. The Grantor has full power and authority to enter into this Agreement, grant to the Secured Party a valid first
+ senior secured priority security interest in the Collateral and perform all of its obligations under this Agreement, no further action
+ by the Grantor being necessary. The execution, delivery and performance by the Grantor of this Agreement does not conflict with,
+ or constitute a breach or default under, any judgment, indenture, loan agreement, contract or other agreement or instrument to which
+ the Grantor is a party or by which the Grantor or any of its property is bound.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+
+ 
+
+Title
+ to Collateral
+. Subject to the security interest granted by this Agreement, the Grantor is or will remain for the duration of
+ this Agreement, the owner and holder of all the Collateral, free and clear of any security interest, lien, charge, encumbrance or
+ other adverse claim, and the Grantor will defend all of the Collateral, as the case may be (whether now owned or hereafter acquired)
+ against all claims and demands of all persons at any time claiming the same or any interest therein, and will take all steps to maintain
+ the security interest of the Secured Party as a valid and fully perfected lien first and senior in priority, unless otherwise agreed
+ to in writing by the Secured Party.
+
+ 
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c)
+
+ 
+
+Place
+ of Business
+. The Grantor’s principal place of business is located at 200 East Las Olas, Suite 200, Ft. Lauderdale, FL 33301.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(d)
+
+ 
+
+Financing
+ Statements; Related Instruments
+. At the request of the Secured Party, the Grantor will execute and deliver to the Secured Party
+ one or more financing statements in form and substance satisfactory to the Secured Party and will pay the cost of filing the same
+ in all public offices where filing is deemed by the Secured Party to be necessary or desirable, including any subsequent public offices
+ where filing would be deemed necessary as a result of a change in the Grantor’s state of organization or incorporation, as
+ the case may be. The Grantor promises to pay to the Secured Party all fees and expenses incurred in filing financing statements and
+ any continuation statements or amendments thereto, not inclusive of fees of counsel to the Secured Party. A carbon, photographic
+ or other reproduction of this Agreement or any financing statement covering the Collateral or any part thereof shall be sufficient
+ as a financing statement.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(e)
+
+ 
+
+Other
+ Liens
+. The Grantor will not, without the prior written consent of the Secured Party, create or permit to exist any security interest,
+ lien, charge, encumbrance or other adverse claim on any of the Collateral, other than the security interest in favor of the Secured
+ Party created by this Agreement.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(f)
+
+ 
+
+Compliance
+ with Laws
+. The Grantor agrees to comply in all material respects with all statutes, laws, ordinances, rules and regulations applicable
+ to it and to the conduct of its business.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(g)
+
+ 
+
+Inspection
+ of Books and Records
+. The Grantor will permit the Secured Party upon reasonable prior notice to examine its books and records
+ during business hours and shall furnish to the Secured Party such financial statements and other financial data as the Secured Party
+ may reasonably request from time to time, subject to any restrictions imposed by law, including applicable securities laws.
+
+ 
+
+ 
+
+SECTION 4. 
+
+Events
+of Default.
+ 
+The Grantor shall be in default under this Agreement upon the occurrence
+of any Event of Default as defined in the Note. Furthermore, any default under the terms, conditions, covenants, representations and
+warranties contained herein shall also be deemed to be an “
+Event of Default
+.”
+
+ 
+
+SECTION
+5. 
+Rights and Remedies Upon Default.
+
+ 
+
+(a)
+
+General
+. Upon the occurrence and during the continuation of any Event of Default, the Secured Party may accelerate all the obligations
+and shall have, in addition to all other rights and remedies provided herein or by applicable law, all of the rights and remedies of
+a secured party under the Code relating to Collateral, including, but not limited to, the right to take possession of the Collateral,
+and the right, without further notice to the Grantor, to take the Collateral, in satisfaction in full of obligations owing under the
+Notes, and for those purposes a Secured Party may, and the Grantor hereby authorizes the Secured Party to, enter upon any premises on
+which Collateral may be located or situated and remove the same therefrom and assign, sell or otherwise dispose of the Collateral, on
+such premises without any liability for rent, storage, utilities or other sums, and upon request the Grantor shall, to the extent practicable,
+assemble and make the Collateral available to the Secured Party at a place to be designated by the Secured Party, which is reasonably
+convenient to the Grantor and the Secured Party. The Grantor agrees that, to the extent notice of sale shall be required, at least five
+days notice to the Grantor of the time and place of any public sale or the time after which any private sale or any other intended disposition
+is to be made shall constitute reasonable notification of such sale or disposition. The Secured Party shall also have the right to apply
+for and have a receiver appointed by a court of competent jurisdiction in any action taken by the Secured Party to enforce its rights
+and remedies hereunder, to manage, protect and preserve the Collateral, as the case may be, or continue the operation of the business
+of the Grantor, and the Secured Party shall be entitled to collect all revenues and profits thereof and apply the same to the payment
+of all expenses and other charges of such receivership, including the compensation of the receiver, and to the payment of the obligations
+until a sale or other disposition of such Collateral shall be finally made and consummated.
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+
+Granting of Licenses
+. Upon the occurrence and during the continuation of any Event of Default, the Secured Party may grant a license
+or licenses relating to the Collateral for such term or terms, on such conditions, and in such manner, as the Secured Party shall in
+its discretion deem appropriate. Such license or licenses may be general, special or otherwise, and may be granted on an exclusive or
+non-exclusive basis throughout all or any part of the United States of America, its territories and possessions, and all foreign countries.
+
+ 
+
+(c)
+
+Collateral Realization
+. In the event of any disposition or collection of or any other realization upon all or any part of the
+Collateral, the Secured Party shall apply the proceeds of such disposition, collection or other realization as follows:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+i)
+
+ 
+
+First
+,
+ to the payment of the reasonable costs and expenses of the Secured Party in exercising or enforcing its rights hereunder, including,
+ but not limited to, costs and expenses incurred in retaking, holding or preparing the Collateral for sale, lease or other disposition,
+ and in collecting or attempting to collect any of the Collateral, and to the payment of all amounts payable to the Secured Party
+ pursuant to this 
+Section 5
+; and
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ii)
+
+ 
+
+Second
+,
+ after payment in full of all of the obligations to the Secured Party, the surplus, if any, shall be paid to the Grantor and the balance
+ of the Collateral shall be immediately returned to the Grantor.
+
+ 
+
+ 
+
+Section
+6. 
+
+Further Assurances.
+ The Grantor will execute
+and deliver to the Secured Party, at the request of the Secured Party, at any time and from time to time, such financing statements and
+other instruments and do such other acts and things as the Secured Party may reasonably deem necessary or desirable in order to establish,
+perfect and maintain a valid first and senior priority security interest in the Collateral in favor of the Secured Party (free and clear
+of all other security interests, liens, charges, encumbrances and other claims, whether voluntarily or involuntarily created) or in order
+to facilitate the collection of the Collateral.
+
+ 
+
+Section
+7. 
+
+Waiver; Release.
+
+ 
+
+(a)
+
+No Waiver
+. No omission or delay by the Secured Party in exercising any right or power under this Agreement or any other document
+will impair such right or power or be construed to be a waiver of any default, or Event of Default or an acquiescence therein, and any
+single or partial exercise of any such right or power will not preclude other or further exercise thereof or the exercise of any other
+right, and no waiver of the Secured Party’s rights hereunder will be valid unless in writing and signed by the Secured Party, and
+then only to the extent specified.
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+
+Release
+. The Grantor releases the Secured Party and its agents, officers, employees, attorneys, administrators and executors,
+of and from any claims for loss or damage resulting from acts or conduct of any or all of them arising through the date hereof, unless
+caused solely by willful misconduct or gross negligence.
+
+ 
+
+Section
+8. 
+
+Miscellaneous.
+
+ 
+
+(a)
+
+Notices
+. Unless otherwise provided, any notices, requests, demands and other communications required or permitted to be given
+hereunder shall be given in writing as set forth in the Note.
+
+ 
+
+(b)
+
+Governing Law
+. This Agreement shall be governed by, and construed and enforced in accordance with, the laws of the State of New
+York. EACH OF THE PARTIES HERETO HEREBY CONSENTS TO THE EXCLUSIVE JURISDICTION OF, AND VENUE IN, ANY FEDERAL OR STATE COURT OF COMPETENT
+JURISDICTION LOCATED IN THE STATE OF NEW YORK, SOLELY IN RESPECT OF THE INTERPRETATION AND ENFORCEMENT OF THE PROVISIONS OF THIS AGREEMENT
+AND IN RESPECT OF THE TRANSACTIONS CONTEMPLATED HEREIN, AND HEREBY WAIVES, AND AGREES NOT TO ASSERT, AS A DEFENSE IN ANY ACTION FOR THE
+INTERPRETATION OR ENFORCEMENT HEREOF, THAT IT IS NOT SUBJECT THERETO OR THAT SUCH ACTION MAY NOT BE BROUGHT OR IS NOT MAINTAINABLE IN
+SAID COURTS OR THAT THE VENUE THEREOF MAY NOT BE APPLICABLE OR THAT THIS AGREEMENT MAY NOT BE ENFORCED IN OR BY SAID COURTS, AND THE
+PARTIES HERETO IRREVOCABLY AGREE THAT ALL CLAIMS WITH RESPECT TO SUCH ACTION SHALL BE HEARD AND DETERMINED IN SAID COURTS. THE PARTIES
+HEREBY CONSENT TO AND GRANT ANY SUCH COURT JURISDICTION OVER THE PERSON OF SUCH PARTIES AND OVER THE SUBJECT MATTER OF SUCH DISPUTE.
+
+ 
+
+(c)
+
+Waiver of Jury Trial
+. TO THE FULLEST EXTENT NOT PROHIBITED BY APPLICABLE LAW THAT CANNOT BE WAIVED, EACH OF THE PARTIES HEREBY
+WAIVES THEIR RESPECTIVE RIGHTS TO A JURY TRIAL OF ANY CLAIM OR CAUSE OF ACTION BASED UPON OR ARISING OUT OF THIS AGREEMENT OR ANY TRANSACTION
+DOCUMENTS. THE PARTIES ACKNOWLEDGE THAT THIS WAIVER IS A MATERIAL INDUCEMENT TO ENTER INTO A BUSINESS RELATIONSHIP, THAT EACH HAS RELIED
+ON THE WAIVER IN ENTERING INTO THIS AGREEMENT AND THAT EACH WILL CONTINUE TO RELY ON THIS WAIVER IN THEIR RELATED FUTURE DEALINGS. THE
+PARTIES WARRANT AND REPRESENT THAT THEY EACH HAVE HAD THE OPPORTUNITY OF REVIEWING THIS JURY WAIVER WITH LEGAL COUNSEL, AND THAT EACH
+KNOWINGLY AND VOLUNTARILY IRREVOCABLY WAIVES ITS JURY TRIAL RIGHTS.
+
+ 
+
+(d)
+
+Benefits Exclusive
+. Except as herein otherwise expressly provided, nothing in this Agreement, expressed or implied, is intended
+or shall be construed to confer upon any person, firm or corporation, other than the Grantor and the Secured Party, any right, remedy
+or claim, legal or equitable, under or by reason of this Agreement or any provision hereof, this Agreement and all its provisions being
+intended to be and being for the sole and exclusive benefit of the Grantor and the Secured Party.
+
+ 
+
+(e)
+
+Modification
+. Neither this Agreement nor any provision hereof may be changed, waived, discharged or terminated orally, but only
+by an instrument in writing signed by the party against which enforcement of the change, waiver, discharge or termination is sought.
+
+ 
+
+(f)
+
+Signatories
+. Each individual signatory hereto represents and warrants that he/she/it is duly authorized to execute this Agreement
+on behalf of his/her/its principal and that he/she/it executes the Agreement in such capacity and not as a party.
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+(g)
+
+Successors and Assigns
+. This Agreement shall be binding upon the Grantor and its successors and assigns, and all persons claiming
+under or through the Grantor or any such successors or assigns, and shall inure to the benefit of and be enforceable by the Secured Party
+and its successors, representatives, trustees, administrators, executors, heirs and assigns.
+
+ 
+
+(h)
+
+Interpretation
+. Unless the context clearly requires otherwise, words of masculine gender shall be construed to include correlative
+words of the feminine and neuter genders and vice versa, and words of the singular number shall be construed to include correlative words
+of the plural number and vice versa. This Agreement and all the terms and provisions hereof (a) have been negotiated between the Grantor
+and the Secured Party; (b) shall not be construed strictly in favor of or against either party hereto; and (c) shall be construed to
+effectuate the purpose set forth herein and to sustain the validity hereof.
+
+ 
+
+(i)
+
+Severability
+. Should any clause, sentence, paragraph, subsection or Section of this Agreement be judicially declared to be invalid,
+unenforceable or void, such decision will not have the effect of invalidating or voiding the remainder of this Agreement, and the parties
+hereto agree that the part or parts of this Agreement so held to be invalid, unenforceable or void will be deemed to have been stricken
+here from by the parties hereto, and the remainder will have the same force and effectiveness as if such stricken part or parts had never
+been included herein.
+
+ 
+
+(j)
+
+Titles and Headings
+. The titles and headings of the Sections of this Agreement, which have been inserted for convenience of reference
+only and are not to be considered a part hereof, shall not in any way modify or restrict any of the terms and provisions hereof, and
+shall not be considered or given any effect in construing this Agreement or any provision hereof or in ascertaining intent, if any question
+of intent should arise.
+
+ 
+
+(k)
+
+Counterparts; Execution
+. This Agreement may be executed in any number of counterparts and by the different signatories hereto
+on separate counterparts, each of which, when so executed, shall be deemed an original, but all such counterparts shall constitute but
+one and the same instrument. This Agreement may be executed by facsimile or electronic (including PDF) signature and delivered by facsimile
+or electronic (including PDF) transmission.
+
+ 
+
+[
+Signature
+Page Follows
+]
+
+ 
+
+ 
+
+6
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, the parties have executed this Security Agreement as of the Effective Date.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GRANTOR:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DOGEHASH
+ TECHNOLOGIES, INC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+/s/
+ Parker Scott
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Parker
+ Scott
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+USDE ACQUISITION, INC. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+/s/
+ Parker Scott
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Parker
+ Scott
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+[Security
+Agreement Signature Page]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECURED
+ PARTY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+THUMZUP
+ MEDIA CORPORATION
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+Robert Steele
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Robert
+Steele
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+[Security
+Agreement Signature Page]

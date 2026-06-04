@@ -1,0 +1,435 @@
+EX-10.1
+
+2
+
+ex101-hillmanxamendmentno4.htm
+
+EX-10.1
+
+Document
+
+Execution Version
+
+AMENDMENT NO. 4
+
+This Amendment No. 4, dated as of April 25, 2023 (this “
+
+Amendment
+
+”), is entered into by and among The Hillman Companies, Inc., a Delaware corporation (as successor in merger to Hillman Investment Company) (“
+
+Holdings
+
+”), The Hillman Group, Inc., a Delaware corporation (the “
+
+US Borrower
+
+”), The Hillman Group Canada ULC, a British Columbia unlimited liability company (the “
+
+Canadian Borrower
+
+” and, together with the US Borrower, the “
+
+Borrowers
+
+” and each, a “
+
+Borrower
+
+”), the Subsidiary Guarantors, the Lenders listed on the signature pages hereto constituting the Required Lenders, and Barclays Bank PLC, in its capacity as administrative agent for the Lenders (in such capacity, the “
+
+Administrative Agent
+
+”). Capitalized terms used herein and not otherwise defined herein shall have the respective meanings ascribed to them in the Amended Credit Agreement (as defined below).
+
+W I T N E S S E T H:
+
+WHEREAS, Holdings, the Borrowers, the lenders from time to time party thereto, the Administrative Agent and the other parties named therein are party to that certain Credit Agreement, dated as of May 31, 2018 (as amended by that certain Amendment No. 1, dated as of November 15, 2019, that certain Amendment No. 2, dated as of July 14, 2021, by that certain Amendment No. 3, dated as of July 29, 2022, and as further amended, restated, amended and restated, supplemented or otherwise modified from time to time prior to the Amendment No. 4 Effective Date (as defined below), the “
+
+Existing Credit Agreement
+
+”);
+
+WHEREAS, Holdings, the Borrowers, the other Loan Parties party hereto, the Administrative Agent and the Lenders party hereto have agreed to amend and restate the Existing Credit Agreement as set forth in 
+
+Section 1
+
+ of this Amendment (the Existing Credit Agreement as amended hereby, the “
+
+Amended Credit Agreement
+
+”);
+
+WHEREAS, each Loan Party (a) expects to realize substantial direct and indirect benefits as a result of this Amendment becoming effective and by its signature hereto agrees to the terms hereof and (b) agrees to reaffirm its obligations pursuant to the Amended Credit Agreement, the Security Documents and the other Loan Documents to which it is a party; 
+
+WHEREAS, the Administrative Agent, the Lenders party hereto and the Loan Parties are willing, on the terms and subject to the conditions set forth herein, to consent to the amendment and restatement of the Existing Credit Agreement as set forth herein.
+
+NOW, THEREFORE, in consideration of the premises and for other good and valuable consideration (the receipt and sufficiency of which are hereby acknowledged), the parties hereto hereby agree as follows:
+
+Section 1.
+
+Amendments under the Existing Credit Agreement.
+
+Subject to the satisfaction of the conditions precedent set forth in Section 2 below, the Existing Credit Agreement is hereby amended as follows:
+
+(1)
+
+The definition of “Banking Services” in Section 1.01 of the Existing Credit Agreement is hereby amended and restated in its entirety as follows: 
+
+“
+
+Banking Services
+
+” means each and any of the following bank services provided to Holdings, any Borrower or any Restricted Subsidiary (a) under any arrangement that is in effect on the Closing Date between Holdings, any Borrower or any Restricted Subsidiary and a counterparty that is (or is an Affiliate or branch of) the Administrative Agent, any Lender or an Arranger as of the Closing Date or (b) under any arrangement that is entered into after the Closing Date by Holdings, any Borrower or any Restricted Subsidiary with any counterparty that is (or is an Affiliate or branch of) the Administrative Agent, any Lender or an Arranger at the time such arrangement is entered into: commercial credit cards, stored value cards, purchasing cards, treasury management services, netting services, overdraft protections, check drawing services, corporate payment systems, automated payment services (including depository, 
+
+|US-DOCS\139563084.6||
+
+overdraft, controlled disbursement, ACH transactions, return items and interstate depository network services), employee credit card programs, cash pooling services, supply chain finance and any arrangements or services similar to any of the foregoing and/or otherwise in connection with Cash management and Deposit Accounts.
+
+Section 2.
+
+Conditions Precedent to the Effectiveness of this Amendment.
+
+This Amendment shall become effective as of the date when, and only when, the following conditions precedent have been satisfied (or waived by the Administrative Agent) (such date, the “
+
+Amendment No. 4 Effective Date
+
+”):
+
+(a)
+
+Amendment
+
+. The Administrative Agent (or its counsel) shall have received from the Borrowers, Holdings and each other Loan Party party hereto on the Amendment No. 4 Effective Date a counterpart signed by each such Loan Party (or written evidence reasonably satisfactory to the Administrative Agent (which may include a copy transmitted by facsimile or other electronic method) that such party has signed a counterpart) of this Amendment.
+
+(b)
+
+Representations and Warranties
+
+. The representations and warranties of the Loan Parties in 
+
+Section 3
+
+ of this Amendment shall be true and correct in all material respects on and as of the Amendment No. 4 Effective Date; provided that (A) to the extent that any representation and warranty specifically refers to a given date or period, it is true and correct in all material respects as of such date or for such period and (B) if any such representation is qualified by or subject to a Material Adverse Effect or other “materiality” qualification, such representation is true and correct (after giving effect to any qualification therein) in all respects on such date.
+
+(c)
+
+Fees
+
+. The Administrative Agent shall have received all expenses required to be paid by the Borrowers on or before the Amendment No. 4 Effective Date for which invoices have been presented at least three (3) Business Days prior to the Amendment No. 4 Effective Date (including the reasonable fees and expenses of legal counsel), in each case on or before the Amendment No. 4 Effective Date.
+
+(d)
+
+No Default
+
+. No Default or Event of Default has occurred or is continuing immediately after giving effect to this Amendment. 
+
+Section 3.
+
+Representations and Warranties.
+
+On and as of the Amendment No. 4 Effective Date, after giving effect to this Amendment, each Loan Party hereby represents and warrants to the Administrative Agent and each of the Lenders as follows:
+
+(a)
+
+Each Loan Party has the power and authority to execute, deliver and perform this Amendment and the other Loan Documents to which it is a party. Each Loan Party has taken all necessary corporate action (including obtaining approval of its shareholders, if necessary) to authorize its execution, delivery and performance of this Amendment and the other Loan Documents to which it is a party. This Amendment and the other Loan Documents have been duly executed and delivered by each Loan Party party thereto, and constitutes the legal, valid and binding obligations of such Loan Party, enforceable against it in accordance with its terms, subject to the Legal Reservations. Each Loan Party’s execution, delivery and performance of this Amendment and the other Loan Documents to which it is a party does not (x) violate, the terms of (a) the Term Credit Agreement or any other material Contractual Obligations to which such Loan Party is a party which violation, in the case of this 
+
+Section 3(a)
+
+, would reasonably be expected to result in a Material Adverse Effect, (b) any Requirement of Law applicable to such Loan Party, which violation, in the case of this 
+
+clause (b)
+
+, would reasonably be expected to have a Material Adverse Effect, or (c) any Organization Document of such Loan Party or (y) result in the imposition of any Lien upon the property of any Loan Party by reason of any of the foregoing.
+
+2
+
+|US-DOCS\139563084.4||
+
+(b)
+
+The representations and warranties contained in 
+
+Article III
+
+ of the Amended Credit Agreement and the other Loan Documents are true and correct in all material respects (and any representation and warranty that is qualified as to materiality or Material Adverse Effect is true and correct in all respects) on and as of the Amendment No. 4 Effective Date as though made on and as of such date, other than any such representation or warranty which relates to a given date or period, in which case such representations and warranties were true and correct in all material respects as of such date or period.
+
+(c)
+
+The execution and delivery of this Amendment and the other Loan Documents by each Loan Party party thereto and the performance by each Loan Party thereof do not require any consent or approval of, registration or filing with, or any other action by, any Governmental Authority, except (i) such as have been obtained or made and are in full force and effect and (ii) such consents, approvals, registrations, filings, or other actions the failure to obtain or make which would not be reasonably expected to have a Material Adverse Effect.
+
+Section 4.
+
+Reference to and Effect on the Loan Documents.
+
+(a)
+
+As of the Amendment No. 4 Effective Date, each reference in the Existing Credit Agreement to “this Agreement,” “hereunder,” “hereof,” “herein,” or words of like import, and each reference in the other Loan Documents to the Existing Credit Agreement (including, without limitation, by means of words like “thereunder,” “thereof” and words of like import), shall mean and be a reference to the Amended Credit Agreement, and this Amendment and the Amended Credit Agreement shall be read together and construed as a single instrument.
+
+(b)
+
+Except as expressly amended on the Amendment No. 4 Effective Date, all of the terms and provisions of the Existing Credit Agreement, the Loan Guaranty and all other Loan Documents are and shall remain in full force and effect and are hereby ratified and confirmed. This Amendment shall not constitute a novation of the Existing Credit Agreement, the Loan Guaranty or any other Loan Document.
+
+(c)
+
+The execution, delivery and effectiveness of this Amendment shall not operate as a waiver of any right, power or remedy of the Lenders, the Borrowers or the Administrative Agent under any of the Loan Documents, nor constitute a waiver or amendment of any other provision of any of the Loan Documents or for any purpose except as expressly set forth herein.
+
+(d)
+
+This Amendment shall constitute a Loan Document under the terms of the Amended Credit Agreement.
+
+(e)
+
+The Loan Parties, by their respective signatures below, hereby affirm and confirm their guarantees pursuant to the Loan Guaranty and the pledge of and/or grant of a security interest in their assets which are Collateral to secure the Obligations, all as provided in the Collateral Documents, and acknowledge and agree that such guarantees and such pledge and/or grant shall continue in full force and effect in respect of, and to secure, such Obligations under the Amended Credit Agreement and the other Loan Documents.
+
+Section 5.
+
+Fees and Expenses.
+
+The Borrowers agree to pay all reasonable and documented or invoiced out-of-pocket costs and expenses of the Administrative Agent and the Lenders in connection with this Amendment to the extent required by 
+
+Section 9.03
+
+ of the Amended Credit Agreement.
+
+3
+
+|US-DOCS\139563084.4||
+
+Section 6.
+
+Counterparts.
+
+This Amendment may be executed in any number of counterparts (and by different parties hereto on different counterparts), each of which shall be an original, but all of which shall constitute a single contract. This Amendment shall become effective on the Amendment No. 4 Effective Date. Delivery of an executed counterpart of a signature page to this Amendment by facsimile or by email as a “.pdf” attachment shall be effective as delivery of a manually executed counterpart of this Amendment. The words “execute,” “execution,” “signed,” “signature,” and words of like import in or related to any document to be signed in connection with this Amendment and the transactions contemplated hereby (including, without limitation, Assignment and Assumptions, amendments or other modifications, Borrowing Requests, waivers and consents) shall be deemed to include electronic signatures, the electronic matching of assignment terms and contract formations on electronic platforms approved by the Administrative Agent, or the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided for in any applicable law, including the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act; 
+
+provided
+
+ that, notwithstanding anything contained herein to the contrary the Administrative Agent is under no obligation to agree to accept electronic signatures in any form or in any format unless expressly agreed to by the Administrative Agent pursuant to procedures approved by it.
+
+Section 7.
+
+Governing Law.
+
+(a)
+
+THIS AMENDMENT AND ANY CLAIM, CONTROVERSY OR DISPUTE ARISING UNDER OR RELATED TO THIS AMENDMENT, WHETHER IN TORT, CONTRACT (AT LAW OR IN EQUITY) OR OTHERWISE, SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK.
+
+(b)
+
+The jurisdiction, venue and service of process provisions of 
+
+Section 9.10
+
+ of the Amended Credit Agreement shall apply to this Amendment 
+
+mutatis mutandis.
+
+Section 8.
+
+Notices.
+
+All communications and notices hereunder shall be given as provided in 
+
+Section 9.01
+
+ of the Amended Credit Agreement.
+
+Section 9.
+
+Waiver of Jury Trial.
+
+The waiver of jury trial provisions of 
+
+Section 9.11
+
+ of the Amended Credit Agreement shall apply to this Amendment 
+
+mutatis mutandis.
+
+[
+
+Signature Pages Follow
+
+]
+
+4
+
+|US-DOCS\139563084.4||
+
+IN WITNESS WHEREOF
+
+, the parties hereto have caused this Amendment to be executed by their respective officers thereunto duly authorized, as of the date first written above.
+
+THE HILLMAN COMPANIES, INC.,
+
+as Holdings
+
+By: 
+
+    /s/ Robert. O. Kraft    
+
+Name: Robert O. Kraft
+Title: Chief Financial Officer and Treasurer
+
+THE HILLMAN GROUP, INC.
+
+,
+as the US Borrower
+
+By: 
+
+/s/ Robert. O. Kraft    
+
+Name: Robert O. Kraft
+Title: Chief Financial Officer and Treasurer
+
+THE HILLMAN GROUP CANADA ULC
+
+,
+as the Canadian Borrower
+
+By: 
+
+/s/ Robert. O. Kraft    
+
+Name: Robert O. Kraft
+Title: Chief Financial Officer and Treasurer
+
+BIG TIME PRODUCTS, LLC 
+
+SUNSUB C INC.
+
+,
+
+each as a Subsidiary Guarantor 
+
+By: 
+
+/s/ Robert. O. Kraft    
+
+Name: Robert O. Kraft
+Title: Chief Financial Officer and Treasurer
+
+[Signature Page to Amendment No.4] 
+
+BARCLAYS BANK PLC
+
+,
+as Administrative Agent
+
+By:    
+
+/s/ Joseph Jordan    
+
+Name: Joseph Jordan
+Title: Managing Director
+
+[Signature Page to Amendment No.4] 
+
+BANK OF AMERICA, N.A.
+
+, as a Lender
+
+By:    
+
+ /s/ Brian Scawinski    
+
+Name: Brian Scawinski
+Title: Vice President
+
+[Signature Page to Amendment No.4] 
+
+BANK OF AMERICA, N.A.
+
+, 
+
+acting through its Canada branch
+
+, as a Lender
+
+By:    
+
+ /s/ Sylwia Durkiewicz    
+
+Name: Sylwia Durkiewicz
+Title: Vice President
+
+[Signature Page to Amendment No.4] 
+
+FIRST FINANCIAL BANK.
+
+, as a Lender
+
+By:    
+
+ /s/ Brian Lowe    
+
+Name: Brian Lowe
+Title: First Financial Bank
+
+[Signature Page to Amendment No.4] 
+
+FIFTH THIRD BANK, NATIONAL ASSOCIATION
+
+, as a Lender
+
+By:    
+
+ /s/ William Kane    
+
+Name: William Kane
+Title: Vice President
+
+[Signature Page to Amendment No.4] 
+
+MUFG BANK, LTD..
+
+, as a Lender
+
+By:    
+
+ /s/ Thomas Kainamura    
+
+Name: Thomas Kainamura
+Title: Director
+
+[Signature Page to Amendment No.4] 
+
+PNC BANK, NATIONAL ASSOCIATION
+
+, as a Lender
+
+By:    
+
+ /s/ Paul Smith    
+
+Name: Paul Smith
+Title: Vice President
+
+[Signature Page to Amendment No.4] 
+
+PNC BANK, CANADA BRANCH
+
+, as a Lender
+
+By:    
+
+ /s/ Wendy Whitcher    
+
+Name: Wendy Whitcher
+Title: Senior Vice President
+
+[Signature Page to Amendment No.4] 
+
+U.S. BANK, NATIONAL ASSOCIATION
+
+, as a Lender
+
+By:    
+
+ /s/ Wayne G. Elliott    
+
+Name: Wayne G. Elliott
+Title: Vice President
+
+[Signature Page to Amendment No.4]

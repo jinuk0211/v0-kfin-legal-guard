@@ -1,0 +1,267 @@
+EX-10.1
+
+2
+
+ex101-firstamendmenttocred.htm
+
+EX-10.1
+
+Document
+
+Exhibit 10.1
+
+Execution Version
+
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+This FIRST AMENDMENT TO CREDIT AGREEMENT (this “
+
+Amendment
+
+”), dated as of June 23, 2023 and effective as of the First Amendment Effective Date (as hereinafter defined), is made by DEUTSCHE BANK AG NEW YORK BRANCH, as administrative agent under the Existing Credit Agreement (as hereinafter defined) (in such capacity, “
+
+Administrative Agent
+
+”).
+
+RECITALS:
+
+WHEREAS, reference is hereby made to the Credit Agreement, dated as of October 1, 2021 (as amended, restated, amended and restated, replaced, supplemented, or otherwise modified prior to giving effect to the amendments contemplated by this Amendment, the “
+
+Existing Credit Agreement
+
+”), among BALLY’S CORPORATION, a Delaware corporation (“
+
+Borrower
+
+”), the Guarantors, the Lenders party thereto from time to time, Administrative Agent, Deutsche Bank AG New York Branch, as collateral agent (in such capacity, “
+
+Collateral Agent
+
+”), and the other parties thereto; 
+
+WHEREAS, (a) as of the First Amendment Effective Date, all Available Tenors of LIBOR (as defined in the Existing Credit Agreement) have either permanently or indefinitely ceased to be provided by the IBA (as defined in the Existing Credit Agreement) or have been announced by the FCA (as defined in the Existing Credit Agreement) pursuant to a public statement or publication of information to be no longer representative and (b) pursuant to Section 5.07(a) of the Existing Credit Agreement, upon the occurrence of the foregoing, the Benchmark Replacement (as defined in the Existing Credit Agreement) will replace LIBOR (as defined in the Existing Credit Agreement) for all purposes under the Existing Credit Agreement and the Credit Documents without any amendment to, or further action or consent of any other party to the Existing Credit Agreement or any other Credit Document; 
+
+WHEREAS, pursuant to Section 5.07(c) of the Existing Credit Agreement, in connection with the implementation and administration of a Benchmark Replacement (as defined in the Existing Credit Agreement), the Administrative Agent has the right to make Benchmark Replacement Conforming Changes (as defined in the Existing Credit Agreement) and any amendments implementing such Benchmark Replacement Conforming Changes will become effective without any further action or consent of any other party to the Existing Credit Agreement; and
+
+WHEREAS, the amendments and modifications set forth in this Amendment constitute Benchmark Replacement Conforming Changes for purposes of the Existing Credit Agreement and the other Credit Documents.
+
+NOW, THEREFORE, in consideration of the premises and agreements, provisions and covenants herein contained and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the following shall be effective:
+
+ARTICLE I
+
+DEFINITIONS
+
+SECTION 1.1    
+
+Definitions
+
+. Except as otherwise expressly provided herein, capitalized terms used in this Amendment (including in the Recitals and the introductory paragraph above) shall have the meanings given in the Amended Credit Agreement, and the rules of construction set forth in the Amended Credit Agreement (as hereinafter defined) shall apply to this Amendment.
+
+ARTICLE II
+
+AMENDMENTS TO EXISTING CREDIT AGREEMENT
+
+SECTION 2.1    
+
+Amendments to Existing Credit Agreement
+
+. Notwithstanding anything to the contrary contained in the Existing Credit Agreement or in any other Credit Document, pursuant to Section 5.07(c) of the Existing Credit Agreement, in order to make Benchmark Replacement Conforming Changes (as defined in the Existing Credit Agreement) in connection with the Benchmark Replacement (as defined in the Existing Credit Agreement), on and as of July 1, 2023 (the “
+
+First Amendment Effective Date
+
+”), (i) the Existing Credit Agreement shall be amended as set forth in 
+
+Exhibit A
+
+ attached hereto (
+
+double underlining
+
+ indicates new language and 
+
+strikethrough
+
+ indicates language that has been deleted) (the Existing Credit Agreement, as so amended by this Amendment, the “
+
+Amended Credit Agreement
+
+”), (ii) Exhibit B (Form of Notice of Borrowing) to the Existing Credit Agreement shall be amended and restated in its entirety with the form of Notice of Borrowing attached as 
+
+Exhibit B
+
+ hereto and (iii) Exhibit C (Form of Notice of Continuation/Conversion) to the Existing Credit Agreement shall be amended and restated in its entirety with the form of Notice of Continuation/Conversion attached as 
+
+Exhibit C
+
+ hereto; 
+
+provided
+
+ that if any Borrowing (as defined in the Existing Credit Agreement) of LIBOR Loans (as defined in the Existing Credit Agreement) is outstanding on the First Amendment Effective Date, such Borrowing shall continue to accrue interest based on the LIBO Rate (as defined in the Existing Credit Agreement) until the end of the Interest Period (as defined in the Existing Credit Agreement) applicable to such Borrowing (and references to “LIBO Base Rate”, “LIBO Rate” and “LIBOR Loans” in the Existing Credit Agreement shall continue to apply to such Borrowing until the end of such Interest Period); 
+
+provided
+
+, 
+
+further
+
+, that on and after the First Amendment Effective Date, Borrower shall not be entitled to request any new Borrowing of LIBOR Loans or the continuation of any existing Borrowing (as defined in the Existing Credit Agreement) of LIBOR Loans.
+
+SECTION 2.2    
+
+Notice
+
+. To the extent that the Administrative Agent is required (pursuant to any Credit Document or otherwise) to provide notice to Borrower, any Lender or any other party to the Existing Credit Agreement of (i) the implementation of a Benchmark Replacement or (ii) the effectiveness of any Benchmark Replacement Conforming Changes, this Amendment shall constitute such notice.
+
+2
+
+ARTICLE III
+
+MISCELLANEOUS
+
+SECTION 3.1    
+
+Amendment, Modification and Waiver
+
+. This Amendment may not be amended, modified or waived except by an instrument or instruments in writing signed and delivered on behalf of the Administrative Agent (acting at the direction of such Lenders as may be required under 
+
+Section 13.04
+
+ of the Amended Credit Agreement).
+
+SECTION 3.2    
+
+Entire Agreement
+
+. This Amendment (including the Exhibits attached hereto), the Amended Credit Agreement and the other Credit Documents, constitute the entire agreement among the parties to the Existing Credit Agreement with respect to the subject matter hereof and thereof and supersede all other prior agreements and understandings, both written and verbal, among the parties or any of them with respect to the subject matter hereof.
+
+SECTION 3.3    
+
+GOVERNING LAW
+
+. THIS AMENDMENT, AND ANY CLAIMS, CONTROVERSIES, DISPUTES, OR CAUSES OF ACTION (WHETHER ARISING UNDER CONTRACT LAW, TORT LAW OR OTHERWISE) BASED UPON OR RELATING TO THIS AMENDMENT, SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK WITHOUT GIVING EFFECT TO ANY CHOICE OF LAW PRINCIPLES THAT WOULD APPLY THE LAWS OF ANOTHER JURISDICTION.
+
+SECTION 3.4    
+
+SUBMISSION TO JURISDICTION; WAIVER OF VENUE; SERVICE OF PROCESS; WAIVER
+
+. 
+
+SECTIONS 13.09(b)
+
+, 
+
+13.09(c)
+
+, 
+
+13.09(d)
+
+, AND 
+
+13.09(e)
+
+ OF THE AMENDED CREDIT AGREEMENT SHALL APPLY TO THIS AMENDMENT MUTATIS MUTANDIS.
+
+SECTION 3.5    
+
+No Advisory or Fiduciary Responsibility
+
+. 
+
+Section 13.17
+
+ of the Amended Credit Agreement shall apply to this Amendment mutatis mutandis.
+
+SECTION 3.6    
+
+Severability
+
+. Wherever possible, each provision of this Amendment shall be interpreted in such manner as to be effective and valid under applicable law, but if any provision of this Amendment shall be prohibited by or invalid under applicable law, such provision shall be ineffective only to the extent of such prohibition or invalidity, without invalidating the remainder of such provisions or the remaining provisions of this Amendment.
+
+SECTION 3.7    
+
+Counterparts
+
+. This Amendment may be executed in counterparts (and by different parties hereto on different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. Delivery of an executed signature page to this Amendment by facsimile or other electronic transmission (including portable document format (“.pdf”) or similar format) shall be effective as delivery of a manually executed counterpart hereof. The words “execution,” “signed,” “signature,” “delivery,” and words of like import in or relating to this Amendment and any document to be signed in connection with this Amendment and the transactions contemplated hereby shall be deemed to include an electronic symbol or process attached to a contract or other record and adopted by a Person with the intent to sign, authenticate or accept such contract or record (each an “
+
+Electronic Signature
+
+”), deliveries or
+
+3
+
+the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature, physical delivery thereof or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided for in any applicable law, including the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act; provided that nothing herein shall require Administrative Agent to accept Electronic Signatures in any form or format without its prior written consent.
+
+SECTION 3.8    
+
+Credit Document
+
+. This Amendment shall constitute a “Credit Document” as defined in the Amended Credit Agreement.
+
+SECTION 3.9    
+
+No Novation
+
+. This Amendment shall not extinguish the obligations for the payment of money outstanding under the Existing Credit Agreement or discharge or release the priority of any Credit Document (as defined in the Existing Credit Agreement) or any other security therefor. Nothing herein contained shall be construed as a substitution or novation of the obligations outstanding under the Existing Credit Agreement or the instruments, documents and agreements securing the same, which shall remain in full force and effect. Nothing in this Amendment shall be construed as a release or other discharge of Borrower or any Guarantor from any of its obligations and liabilities under the Existing Credit Agreement or the other Credit Documents (as defined in the Existing Credit Agreement).
+
+[Remainder of page intentionally left blank]
+
+4
+
+IN WITNESS WHEREOF, Administrative Agent has caused this Amendment to be duly executed as of the day and year first above written, to be effective as of the First Amendment Effective Date.
+
+DEUTSCHE BANK AG NEW YORK BRANCH
+
+, as Administrative Agent
+
+By:
+
+/s/Phillip Tancorra
+
+Name:
+
+Phillip Tancorra
+
+Title:
+
+Director
+
+By:
+
+/s/Lauren Danbury
+
+Name:
+
+Lauren Danbury
+
+Title:
+
+Vice President
+
+[Signature Page to Bally’s First Amendment to Credit Agreement]
+
+EXHIBIT A
+
+Amended Credit Agreement
+
+[See Attached]
+
+[Signature Page to Bally’s First Amendment to Credit Agreement]
+
+EXHIBIT B
+
+Form of Notice of Borrowing
+
+[See Attached]
+
+[Signature Page to Bally’s First Amendment to Credit Agreement]
+
+EXHIBIT C
+
+Form of Notice of Continuation/Conversion
+
+[See Attached]
+
+[Signature Page to Bally’s First Amendment to Credit Agreement]

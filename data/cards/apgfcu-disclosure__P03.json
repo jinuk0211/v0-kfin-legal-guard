@@ -1,0 +1,357 @@
+{
+  "session_id": "US_APGFCU_Visa_Disclosure_P03",
+  "generated_at": "2026-05-05T17:17:30.230360+00:00",
+  "product": "APGFCU_Visa_Disclosure",
+  "doc_type": "credit_card_agreement",
+  "user_profile": {
+    "id": "P03",
+    "age": 67,
+    "occupation": "retired",
+    "financial_status": "fixed income",
+    "risk_flags": [
+      "elderly",
+      "carry_balance",
+      "credit_risk"
+    ]
+  },
+  "executive_summary": "Analysis of APGFCU_Visa_Disclosure identified 6 consumer vulnerabilities. Overall risk level: HIGH. Key concerns: Variable APR tied to Prime Rate, Average daily balance calculation method, Broad collateral security interest.",
+  "overall_risk_level": "HIGH",
+  "vulnerability_count": {
+    "CRITICAL": 3,
+    "HIGH": 3,
+    "MEDIUM": 0,
+    "LOW": 0,
+    "uncategorized": 1
+  },
+  "findings": [
+    {
+      "finding_id": "US-V001",
+      "taxonomy": "CC-02",
+      "title": "Variable APR tied to Prime Rate",
+      "triggered_by": "This APR will vary with the market based on the Prime Rate.",
+      "description": "Variable APR tied to Prime Rate",
+      "status": "CONFIRMED",
+      "confidence": 0.8,
+      "user_relevance_score": 1.0,
+      "search_query_used": "credit card variable APR prime rate increase elderly fixed income",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1666i",
+            "verified": true
+          },
+          {
+            "law_name": "Credit CARD Act 2009",
+            "article": "15 U.S.C. \u00a7 1637",
+            "verified": true
+          }
+        ],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74 | US statute:2\uac74",
+      "severity": "CRITICAL",
+      "plain_language_explanation": "Your credit card interest rate changes when the Prime Rate changes. When rates go up, you pay more interest on any balance you carry.",
+      "user_impact": "Higher monthly payments when rates rise, making it harder to pay off your balance on fixed income.",
+      "estimated_risk_scenario": "If Prime Rate rises 2-3%, your monthly interest could increase $20-50+ per $1000 balance, straining your retirement budget and making debt payoff much harder.",
+      "recommended_actions": [
+        {
+          "action": "Ask for a fixed-rate card or payment plan to lock in current rate",
+          "priority": "immediate",
+          "contact": "Card issuer customer service"
+        },
+        {
+          "action": "Pay down balance as much as possible before rates rise further",
+          "priority": "immediate",
+          "contact": "None needed"
+        },
+        {
+          "action": "Compare fixed-rate cards or personal loans to transfer balance",
+          "priority": "pre-signing",
+          "contact": "Other banks/credit unions"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "finding_id": "US-V005",
+      "taxonomy": "CC-03",
+      "title": "Average daily balance calculation method",
+      "triggered_by": "We use a method called\"average daily balance (including new purchases).\"",
+      "description": "Average daily balance calculation method",
+      "status": "CONFIRMED",
+      "confidence": 0.7,
+      "user_relevance_score": 0.95,
+      "search_query_used": "credit card average daily balance including new purchases interest calculation",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1637",
+            "verified": true
+          },
+          {
+            "law_name": "CFPB Regulation Z",
+            "article": "12 CFR \u00a7 1026.51",
+            "verified": true
+          }
+        ],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74 | US statute:2\uac74",
+      "severity": "CRITICAL",
+      "plain_language_explanation": "This credit card charges interest on new purchases immediately, even if you pay your bill on time. Most cards give you a grace period before charging interest.",
+      "user_impact": "You'll pay more interest charges each month, especially costly since you carry a balance.",
+      "estimated_risk_scenario": "With a $2,000 balance and 24% APR, this method could cost you an extra $200+ per year compared to cards that don't charge interest on new purchases during grace periods.",
+      "recommended_actions": [
+        {
+          "action": "Shop for a credit card with a standard grace period that doesn't include new purchases in interest calculations",
+          "priority": "immediate",
+          "contact": "Call other credit card companies or visit comparison websites"
+        },
+        {
+          "action": "Pay off your full balance each month to avoid all interest charges regardless of calculation method",
+          "priority": "immediate",
+          "contact": "Review your budget with a nonprofit credit counselor at NFCC.org"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "finding_id": "US-V006",
+      "taxonomy": "UNCATEGORIZED",
+      "title": "Broad collateral security interest",
+      "triggered_by": "Credit extended under this credit card account is secured by various personal property and money including, but not limited to: (a) any goods you purchase with this account, (b) any shares you specifically pledge as collateral for this account on a separate Pledge of Shares, (c) all shares you have in any individual or jointaccount withtheCreditUnion excluding sharesinanIndividual RetirementAccount orinanyotheraccount that would lose special tax treatment under state or federal law, and (d) collateral securing other loans you have with the Credit Union excluding dwellings.",
+      "description": "Extensive cross-collateralization puts consumer's other assets at risk for credit card debt",
+      "status": "CONFIRMED",
+      "confidence": 0.85,
+      "user_relevance_score": 0.9,
+      "search_query_used": "credit extended under this credit card account secured credit card consumer rights",
+      "legal_grounds": {
+        "statutes": [],
+        "precedents": [
+          {
+            "case_number": "64322564",
+            "case_name": "Gissendaner v. Credit Corp",
+            "court": "nywd",
+            "date": "2019-02-13",
+            "summary": "",
+            "relevance_score": 1.0,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/7334078/gissendaner-v-credit-corp/"
+          },
+          {
+            "case_number": "64317360",
+            "case_name": "Derosa v. Computer Credit, Inc.",
+            "court": "nyed",
+            "date": "2018-03-28",
+            "summary": "",
+            "relevance_score": 0.919,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/7328876/derosa-v-computer-credit-inc/"
+          },
+          {
+            "case_number": "65337826",
+            "case_name": "Lakewood Credit Union v. Goodrich",
+            "court": "wisctapp",
+            "date": "2016-09-07",
+            "summary": "",
+            "relevance_score": 0.919,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/8239279/lakewood-credit-union-v-goodrich/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:3\uac74",
+      "severity": "CRITICAL",
+      "plain_language_explanation": "This credit card can take your personal belongings, purchases made with the card, and even your investment shares if you can't pay your bill.",
+      "user_impact": "Your home goods, car, and retirement savings could be seized if you fall behind on payments.",
+      "estimated_risk_scenario": "If you carry balances and miss payments, the card company could claim your household items, anything bought with the card, and your pledged investment shares to pay the debt.",
+      "recommended_actions": [
+        {
+          "action": "Do not sign this agreement - seek an unsecured credit card instead",
+          "priority": "immediate",
+          "contact": "Local credit union or community bank"
+        },
+        {
+          "action": "If already signed, consult with a consumer protection attorney about your options",
+          "priority": "immediate",
+          "contact": "State bar association lawyer referral service"
+        },
+        {
+          "action": "File complaint about this broad collateral clause with regulators",
+          "priority": "optional",
+          "contact": "CFPB at consumerfinance.gov"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "finding_id": "US-V003",
+      "taxonomy": "CC-01",
+      "title": "Pay-by-phone fee",
+      "triggered_by": "Pay-by-Phone Fee: $10.00.",
+      "description": "Pay-by-phone fee",
+      "status": "CONFIRMED",
+      "confidence": 0.8,
+      "user_relevance_score": 0.8,
+      "search_query_used": "credit card pay by phone fee elderly consumer payment method",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1601",
+            "verified": true
+          },
+          {
+            "law_name": "CFPB Regulation Z",
+            "article": "12 CFR Part 1026",
+            "verified": true
+          }
+        ],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74 | US statute:2\uac74",
+      "severity": "HIGH",
+      "plain_language_explanation": "This credit card charges you $10 every time you pay your bill by phone. This fee applies even for automated phone payments.",
+      "user_impact": "As someone who carries a balance, you'll pay $120+ yearly if you pay by phone monthly.",
+      "estimated_risk_scenario": "Paying monthly by phone costs $120/year extra. Combined with your existing balance and interest charges, this significantly increases your total debt burden.",
+      "recommended_actions": [
+        {
+          "action": "Set up free online bill pay through your bank or the card company's website to avoid phone fees",
+          "priority": "immediate",
+          "contact": "Your bank or credit card customer service"
+        },
+        {
+          "action": "Mail payments instead of calling - allow 7-10 days for processing to avoid late fees",
+          "priority": "immediate",
+          "contact": "Use address on your monthly statement"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "finding_id": "US-V004",
+      "taxonomy": "CC-01",
+      "title": "Statement copy fee",
+      "triggered_by": "Statement Copy Fee: $5.00 per page.",
+      "description": "Statement copy fee",
+      "status": "CONFIRMED",
+      "confidence": 0.75,
+      "user_relevance_score": 0.75,
+      "search_query_used": "credit card statement copy fee per page elderly consumer records",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1601",
+            "verified": true
+          },
+          {
+            "law_name": "CFPB Regulation Z",
+            "article": "12 CFR Part 1026",
+            "verified": true
+          }
+        ],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74 | US statute:2\uac74",
+      "severity": "HIGH",
+      "plain_language_explanation": "This credit card charges $5 for each page of old statements you request. This is much higher than typical fees of $1-2 per page.",
+      "user_impact": "As a retiree who carries balances, you may need old statements for taxes or disputes frequently.",
+      "estimated_risk_scenario": "Requesting 6 months of statements (about 6 pages) would cost $30. Over time, this could add $50-100 yearly to your credit card costs if you need statements regularly.",
+      "recommended_actions": [
+        {
+          "action": "Sign up for free online account access to view and print statements yourself",
+          "priority": "immediate",
+          "contact": "Card issuer customer service"
+        },
+        {
+          "action": "Compare this fee with other credit cards before keeping this account",
+          "priority": "optional",
+          "contact": "Other credit card companies"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "finding_id": "US-V002",
+      "taxonomy": "CC-01",
+      "title": "Cash advance fee structure",
+      "triggered_by": "$5.00 or2.00% of the amount of each cash advance, whichever is greater (Maximum Fee:$500.00)",
+      "description": "Cash advance fee structure",
+      "status": "CONFIRMED",
+      "confidence": 0.75,
+      "user_relevance_score": 0.7,
+      "search_query_used": "credit card cash advance fee percentage maximum elderly consumer",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1601",
+            "verified": true
+          },
+          {
+            "law_name": "CFPB Regulation Z",
+            "article": "12 CFR Part 1026",
+            "verified": true
+          }
+        ],
+        "precedents": [
+          {
+            "case_number": "70594230",
+            "case_name": "Federal Trade Commission v. paddle.com Market Limited",
+            "court": "dcd",
+            "date": "2025-06-20",
+            "summary": "",
+            "relevance_score": 0.0,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/10614429/federal-trade-commission-v-paddlecom-market-limited/"
+          },
+          {
+            "case_number": "65986767",
+            "case_name": "Hawaii ex rel. Louie v. JP Morgan Chase & Co.",
+            "court": "hid",
+            "date": "2012-11-30",
+            "summary": "",
+            "relevance_score": 0.0,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/8720845/hawaii-ex-rel-louie-v-jp-morgan-chase-co/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:2\uac74 | US statute:2\uac74",
+      "severity": "HIGH",
+      "plain_language_explanation": "Cash advances cost $5 or 2% of the amount (whichever is more), plus interest starts immediately. Small advances have high percentage costs.",
+      "user_impact": "As a retiree who carries balances, cash advance fees plus immediate interest can quickly increase debt.",
+      "estimated_risk_scenario": "A $200 emergency cash advance costs $5 fee plus high interest from day one. Combined with existing balance, this creates expensive debt that's hard to pay off on fixed income.",
+      "recommended_actions": [
+        {
+          "action": "Avoid cash advances - use debit card or bank withdrawal instead",
+          "priority": "immediate",
+          "contact": "Your bank or credit union"
+        },
+        {
+          "action": "Build small emergency fund to avoid needing cash advances",
+          "priority": "optional",
+          "contact": "Local financial counseling service"
+        }
+      ],
+      "rank": 6
+    }
+  ],
+  "general_recommendations": [
+    "Read all terms carefully before signing any credit card agreement.",
+    "Compare APR and fees across multiple issuers before applying.",
+    "Note any arbitration clauses that waive your right to sue.",
+    "Contact CFPB (1-855-411-2372) if you believe a term is unfair.",
+    "For disputes, contact your state Attorney General's consumer protection office."
+  ],
+  "disclaimer": "This report is generated by AI analysis and has no legal effect. For specific legal advice, consult a consumer protection attorney or contact the CFPB."
+}

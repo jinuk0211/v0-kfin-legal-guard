@@ -1,0 +1,323 @@
+EX-10.1
+
+2
+
+ex101creditagreementamendm.htm
+
+EX-10.1
+
+Document
+
+EXHIBIT 10.1
+
+EXECUTION COPY
+
+AMENDMENT NO. 4
+
+CREDIT AGREEMENT
+
+AMENDMENT NO. 4 TO CREDIT AGREEMENT, dated as of January 6, 2023 (this “
+
+Amendment
+
+”), by and among Booking Holdings Inc., a Delaware corporation (the “
+
+Company
+
+”), JPMorgan Chase Bank, N.A., as Administrative Agent (the “
+
+Administrative Agent
+
+”) and the Lenders party hereto.
+
+W I T N E S S E T H:
+
+WHEREAS, the Company, the Dutch Borrower from time to time party thereto, the Administrative Agent and the Lenders from time to time party thereto have entered into that certain Credit Agreement, dated as of August 14, 2019 (as amended, restated, supplemented or otherwise modified from time to time, through, but not including, the date hereof, the “
+
+Credit Agreement
+
+”); capitalized terms used herein and not otherwise defined herein shall have the respective meanings given to them in the Credit Agreement; 
+
+WHEREAS, the Company has requested that the requisite Lenders and the Administrative Agent agree to certain amendments to the Credit Agreement;
+
+WHEREAS, the Company, the Lenders party hereto and the Administrative Agent have agreed to amend the Credit Agreement on the terms and conditions set forth herein; 
+
+ NOW, THEREFORE, in consideration of the premises set forth above, the terms and conditions contained herein, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Company, the Lenders party hereto and the Administrative Agent hereby agree as follows:     
+    
+
+SECTION 1. 
+
+Amendments to the Credit Agreement.
+
+ Effective as of the date of satisfaction of the conditions precedent set forth in Section 2 below, the parties hereto agree that the introduction to Section 6.02(a) of the Credit Agreement is hereby amended and restated in its entirety as follows:
+
+“(a) The Company will not merge into or consolidate with any other Person, or permit any other Person to merge into or consolidate with it, or sell, transfer, lease or otherwise dispose of (in one transaction or in a series of transactions) all or substantially all of the assets of the Company and its Subsidiaries taken as a whole (including pursuant to a Sale and Leaseback Transaction), or any of the Equity Interests of all or substantially all of its Subsidiaries (in each case, whether now owned or hereafter acquired), or liquidate or dissolve, except:”
+
+SECTION 2. 
+
+Conditions of Effectiveness. 
+
+The effectiveness of this Amendment is subject to the conditions precedent that the Administrative Agent shall have received (i) counterparts of this Amendment duly executed by the Company, the Required Lenders and the Administrative Agent and (ii) to the extent invoiced at least two (2) Business Days prior to the date hereof, payment and/or reimbursement of the Administrative Agent’s and its affiliates’ reasonable and documented out-of-pocket expenses (including, to the extent invoiced, reasonable and documented fees and expenses of counsel for the Administrative Agent) in connection with the Loan Documents.    
+
+SECTION 3. 
+
+Representations and Warranties of the Company
+
+. The Company hereby represents and warrants as follows:
+
+US-DOCS\138166184.2
+
+(a)
+
+This Amendment and the Credit Agreement as modified hereby constitute legal, valid and binding obligations of the Company and are enforceable in accordance with their terms, subject to applicable bankruptcy, insolvency, reorganization, moratorium or other laws affecting creditors’ rights generally and subject to general principles of equity, regardless of whether considered in a proceeding in equity or at law.
+
+(b)
+
+As of the date hereof and after giving effect to the terms of this Amendment, (i) no Default has occurred and is continuing and (ii) the representations and warranties of the Company set forth in Article III of the Credit Agreement, as amended hereby, are true and correct (other than the representations and warranties in Sections 3.04(b) and 3.06(b) of the Credit Agreement) in all material respects (except to the extent that any representation and warranty that is qualified by materiality is true and correct in all respects).
+
+SECTION 4. 
+
+Reference to and Effect on the Credit Agreement
+
+.
+
+(a)
+
+Upon the effectiveness hereof, each reference to the Credit Agreement in the Credit Agreement or any other Loan Document shall mean and be a reference to the Credit Agreement as amended hereby.
+
+(b)
+
+Each Loan Document and all other documents, instruments and agreements executed and/or delivered in connection therewith shall remain in full force and effect and are hereby ratified and confirmed.
+
+(c)
+
+The execution, delivery and effectiveness of this Amendment shall not operate as a waiver of any right, power or remedy of the Administrative Agent or the Lenders, nor constitute a waiver of any provision of the Credit Agreement, the Loan Documents or any other documents, instruments and agreements executed and/or delivered in connection therewith.
+
+(d)
+
+This Amendment is a Loan Document under (and as defined in) the Credit Agreement.
+
+SECTION 5. 
+
+Governing Law
+
+. THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+
+SECTION 6. 
+
+Headings
+
+. Section headings in this Amendment are included herein for convenience of reference only and shall not constitute a part of this Amendment for any other purpose.
+
+SECTION 7. 
+
+Counterparts
+
+. This Amendment may be executed in counterparts (and by different parties hereto in different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. The words “execution,” “signed,” “signature,” “delivery,” and words of like import in or relating to this Amendment and/or any document to be signed in connection with this Amendment and the transactions contemplated hereby shall be deemed to include Electronic Signatures (as defined below), deliveries or the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature, physical delivery thereof or the use of a paper-based recordkeeping system, as the case may be. As used herein, “
+
+Electronic Signatures
+
+” means any electronic symbol or process attached to, or associated with, any contract or other record and adopted by a person with the intent to sign, authenticate or accept such contract or record. 
+
+ [Signature Pages Follow]
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed and delivered by their respective authorized officers as of the day and year first above written.
+
+BOOKING HOLDINGS INC.,
+
+as the Company
+
+By
+
+:/s/s Douglas Tropp 
+
+Name: Douglas Tropp
+
+Title: SVP & Treasurer
+
+[Amendment No. 4 to Booking Holdings Inc. Credit Agreement]
+
+JPMORGAN CHASE BANK, N.A., as Administrative Agent and as a Lender
+
+By:    
+
+/s/ Ryan Zimmerman 
+
+Name: Ryan Zimmerman
+
+Title: Vice President
+
+    
+
+[Amendment No. 4 to Booking Holdings Inc. Credit Agreement]
+
+BANK OF AMERICA, N.A.,
+as a Lender
+
+By:
+
+_/s/ Brandon Bolio 
+
+Name: Brandon Bolio
+
+Title: Managing Director
+
+[Amendment No. 4 to Booking Holdings Inc. Credit Agreement]
+
+CITIBANK, N.A., as a Lender
+
+By: 
+
+/s/ Javier Escobar 
+
+Name: Javier Escobar
+
+Title: Managing Director & Vice President
+
+[Amendment No. 4 to Booking Holdings Inc. Credit Agreement]
+
+DEUTSCHE BANK AG NEW YORK BRANCH, as a Lender
+
+By: 
+
+/s/ Ming K Chu 
+
+Name: Ming K Chu
+
+Title: Director
+
+By: 
+
+/s/ Marko Lukin 
+
+Name: Marko Lukin
+
+Title: Vice President
+
+[Amendment No. 4 to Booking Holdings Inc. Credit Agreement]
+
+U.S. BANK NATIONAL ASSOCIATION, as a Lender
+
+By: 
+
+/s/Steven L Sawyer 
+
+Name: Steven L Sawyer
+
+Title: Senior Vice President
+
+[Amendment No. 4 to Booking Holdings Inc. Credit Agreement]
+
+BNP PARIBAS
+
+, as a Lender
+
+By: 
+
+/s/Barbara Nash 
+
+Name: Barbara Nash
+
+Title: Managing Director
+
+By: 
+
+/s/ Maria Mulic 
+
+Name: Maria Mulic
+
+Title: Managing Director
+
+[Amendment No. 4 to Booking Holdings Inc. Credit Agreement]
+
+TD BANK, N.A., as a Lender
+
+By:
+
+/s/Steve Levi 
+
+Name: Steve Levi
+
+Title: Senior Vice President
+
+[Amendment No. 4 to Booking Holdings Inc. Credit Agreement]
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION as a Lender
+
+By: 
+
+/s/ Devin Reasons 
+
+Name: Devin Reasons
+
+Title: Vice President
+
+[Amendment No. 4 to Booking Holdings Inc. Credit Agreement]
+
+HSBC Bank USA, N.A as a Lender 
+
+By: 
+
+/s/James Smith 
+
+Name: James Smith
+
+Title: VP, Global Relationship Manager
+
+[Amendment No. 4 to Booking Holdings Inc. Credit Agreement]
+
+GOLDMAN SACHS BANK USA, as a Lender 
+
+By: 
+
+/s/Keshia Leday 
+
+Name: Keshia Leday
+
+Title: Authorized Signatory
+
+[Amendment No. 4 to Booking Holdings Inc. Credit Agreement]
+
+STANDARD CHARTERED BANK, as a Lender 
+
+By: 
+
+/s/Kristopher Tracy 
+
+Name: Kristopher Tracy
+
+Title: Director, Financing Solutions
+
+[Amendment No. 4 to Booking Holdings Inc. Credit Agreement]
+
+Mizuho Bank, Ltd., as a Lender 
+
+By: 
+
+/s/Tracy Rahn 
+
+Name: Tracy Rahn
+
+Title: Executive Director
+
+[Amendment No. 4 to Booking Holdings Inc. Credit Agreement]
+
+Industrial and Commercial Bank of China Limited, New York Branch, as a Lender
+
+By: 
+
+/s/Yu Wang 
+
+Name: Yu Wang
+
+Title: Director
+
+By: 
+
+/s/Yuanyuan Peng 
+
+Name: Yuanyuan Peng
+
+Title: Executive Director
+
+[Amendment No. 4 to Booking Holdings Inc. Credit Agreement]

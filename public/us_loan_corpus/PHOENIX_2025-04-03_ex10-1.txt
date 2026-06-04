@@ -1,0 +1,418 @@
+EX-10.1
+
+2
+
+ex10-1.htm
+
+ 
+
+ 
+
+Exhibit
+10.1
+
+ 
+
+Amendment
+to the Loan Agreement and Initial Note
+
+ 
+
+This
+amendment to the Loan Agreement dated on March 14, 2025 (“
+Loan Agreement
+”) between:
+
+ 
+
+(1)
+
+Phoenix
+ Motor Inc.
+, a Delaware corporation (the “
+Company
+”); and
+
+ 
+
+(2)
+
+J.J.
+ Astor & Co.
+, a Utah corporation (including its successors and assigns, the “
+Lender
+”).
+ is made on this 2nd day of April, 2025 (the “
+Addendum
+”).
+
+ 
+
+ 
+
+This
+Amendment forms a part of the original Loan Agreement which is incorporated herein by this reference. All capitalized terms used in this
+Amendment shall have the same meaning as they are defined in the Loan Agreement.
+
+ 
+
+THE
+PARTIES HEREBY AGREE AS FOLLOWS:
+
+ 
+
+Effective
+from the date of the Addendum,
+
+ 
+
+(1)
+
+The
+ second paragraph of clause (iv) under the definition of “Conversion Price” in
+ Article 1, Section 1.01 of the Loan Agreement, is hereby deleted and such second paragraph
+ shall be amended to read as follows:
+
+ 
+
+ 
+
+Notwithstanding
+ the foregoing, in the event of acceleration of either or both of the Notes, as a result of
+ the occurrence and during the continuation of an uncured Event of Default the Conversion
+ Price shall adjusted to be 80% of the average of the four lowest VWAPS over the 20
+ trading days prior to each conversion (the “
+Event of Default Conversion Price
+”).
+ In addition, in the event that the Event of Default Conversion Price shall be 
+
+greater
+ 
+
+than the closing price of the Common Stock as traded on Nasdaq or other applicable
+ Trading Market on the date that the Lender shall send a conversion notice the Company
+ shall issue to the Lender additional immediately salable Make Whole Shares so that the total
+ number of Conversion Shares shall be based on the Event of Default Conversion Price.
+
+ 
+
+(2)
+
+In
+ addition to the foregoing amendment to the Loan Agreement, the introductory first and second
+ paragraphs of the “Initial Note” constituting 
+Exhibit A-1
+ to the Loan
+ Agreement shall be amended to read as follows:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Amended
+and Restated Senior Secured Note
+
+ 
+
+THIS
+SECURITY HAS NOT BEEN REGISTERED WITH THE SECURITIES AND EXCHANGE COMMISSION OR THE SECURITIES COMMISSION OF ANY STATE IN RELIANCE UPON
+AN EXEMPTION FROM REGISTRATION UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), AND, ACCORDINGLY, MAY
+NOT BE OFFERED OR SOLD EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR PURSUANT TO AN AVAILABLE EXEMPTION
+FROM, OR IN A TRANSACTION NOT SUBJECT TO, THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT AND IN ACCORDANCE WITH APPLICABLE STATE
+SECURITIES LAWS. THIS SECURITY MAY BE PLEDGED IN CONNECTION WITH A BONA FIDE MARGIN ACCOUNT OR OTHER LOAN SECURED BY THIS SECURITY.
+
+ 
+
+ 
+
+ 
+
+Original
+ Issue Date: March 14, 2025
+
+ 
+
+ 
+
+Funding
+ Amount
+
+ 
+
+ 
+
+$4,000,000
+
+ 
+
+ 
+
+Final
+ Maturity Date: March 13, 2026
+
+ 
+
+ 
+
+ 
+
+Original
+ Principal Amount:
+
+ 
+
+ 
+
+ 
+
+$5,300,000
+
+ 
+
+ 
+
+PHOENIX
+MOTOR INC.
+
+ 
+
+AMENDED
+AND RESTATED SENIOR SECURED NOTE
+
+ 
+
+THIS
+AMENDED AND RESTATED SENIOR SECURED NOTE is a duly authorized and validly issued promissory note of 
+Phoenix Motor Inc. 
+a Delaware
+corporation (the “
+Company
+”), designated as its senior secured note (the “
+Note
+”).
+
+ 
+
+FOR
+VALUE RECEIVED, the Company promises to pay to J.J. Astor & Co., (the “
+Lender
+”) or any other subsequent holder
+of this Note (together with the Lender, the “
+Holder
+”), the Original Principal Amount of this Note as set forth above
+(the “
+Original Principal Amount
+”) in twenty-six (26) installments of $203,846.16 each, payable every other week (the
+“
+Bi-Weekly Installments
+”) commencing on March 28, 2025 and thereafter on Friday of every other week until the Final
+Maturity Date as set forth above, or such earlier date as this Note is required or permitted to be repaid as provided hereunder (as the
+case may be, the “
+Maturity Date
+”). This Note is subject to the following additional provisions:
+
+ 
+
+(3)
+
+Except
+ as expressly set forth herein, all terms and conditions of the Loan Agreement and the
+ Initial Note (attached as Exhibit A-1 to the Loan Agreement) shall remain in full
+ force and effect without modification.
+
+ 
+
+SIGNATURES
+ON FOLLOWING PAGE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS whereof this Amendment to the Loan Agreement has been entered into and delivered as a deed on the day and year first written
+above.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Company:
+
+ 
+
+ 
+
+ 
+
+ 
+
+PHOENIX MOTOR INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By: 
+
+ 
+
+/s/
+ Xiaofeng Peng 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Xiaofeng
+ Peng
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Lendor:
+
+ 
+
+ 
+
+ 
+
+ 
+
+J.J. ASTOR & CO.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Michael Pope
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Michael
+ Pope
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief
+ Executive Officer

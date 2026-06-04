@@ -1,0 +1,885 @@
+EX-10.1
+
+2
+
+ex10-1.htm
+
+ 
+
+ 
+
+Exhibit
+10.1
+
+ 
+
+Execution
+Version
+
+ 
+
+LIMITED
+WAIVER
+
+ 
+
+This
+
+LIMITED WAIVER 
+(this “
+Waiver
+”) is made as of March 29, 2023, by and among DRAGONFLY ENERGY CORP. (“
+Borrower
+”),
+DRAGONFLY ENERGY HOLDINGS CORP. (F/K/A CHARDAN NEXTECH ACQUISITION 2 CORP) (“
+Holdings
+”), the Lenders signatory hereto
+(the “
+Required Lenders
+”), and ALTER DOMUS (US) LLC, as agent on behalf of the Lenders under the Loan Agreement (as
+hereinafter defined) (in such capacity, the “
+Agent
+”).
+
+ 
+
+WHEREAS,
+Borrower, Holdings, the Required Lenders and the Agent are parties to that certain Term Loan, Guarantee and Security Agreement dated
+as of October 7, 2022, (as amended, modified, extended, restated, replaced, and/or supplemented from time to time, the “
+Loan
+Agreement
+”);
+
+ 
+
+WHEREAS,
+pursuant to 
+Section 4.2(a)
+ of the Loan Agreement, the Credit Parties are required to measure the Senior Leverage Ratio as of the
+last day of the Fiscal Quarter ending March 31, 2023 if Liquidity (Average) is less than $17,500,000 as of the last day of the Fiscal
+Quarter ending March 31, 2023 (the “
+Senior Leverage Ratio Test
+”);
+
+ 
+
+WHEREAS,
+pursuant to 
+Section 4.2(c)
+ of the Loan Agreement, the Credit Parties are required to measure the Fixed Charge Coverage Ratio for
+the trailing four (4) Fiscal Quarter period ending on March 31, 2023 if Liquidity is less than $15,000,000 as of the last day of the
+Fiscal Quarter ending March 31, 2023 (the “
+Fixed Charge Coverage Ratio Test
+” and together with the Senior Leverage
+Ratio Test, the “
+Tests
+”); and
+
+ 
+
+WHEREAS,
+the Credit Parties have requested that the Agent and the Required Lenders waive the Tests for the Fiscal Quarter ending March 31, 2023
+and, subject to the satisfaction of the conditions set forth below, each of the Agent and the Required Lenders are willing to waive the
+Tests for the Fiscal Quarter ending March 31, 2023 on the terms set forth herein.
+
+ 
+
+NOW
+THEREFORE, the Credit Parties, the Required Lenders and the Agent each hereby agrees as follows:
+
+ 
+
+1.
+
+Defined Terms
+. All terms used but not otherwise defined herein have the meanings assigned to them in the Loan Agreement.
+
+ 
+
+2.
+
+Limited Waiver
+. Effective in accordance with 
+Section 3
+ hereof, each of the Agent and the Required Lenders hereby waives
+the Tests for the Fiscal Quarter ending March 31, 2023; 
+provided
+ that such waiver is applicable only to the Tests for the Fiscal
+Quarter ending March 31, 2023 and to no other current or prospective financial covenants under the Loan Agreement, whether known or unknown
+as of the Effective Date.
+
+ 
+
+3.
+
+Conditions to Effectiveness
+. This Waiver shall become effective as of the date first written above (the “
+Effective Date
+”)
+upon the satisfaction of the below:
+
+ 
+
+(a)
+counterparts of this Waiver shall have been executed and delivered by the Credit Parties, the Agent and the Required Lenders;
+
+ 
+
+(b)
+the Borrower shall have paid the legal fees and expenses of Chapman and Cutler LLP, counsel for the Required Lenders, incurred in connection
+with the preparation, negotiation, execution and delivery of this Waiver and other services rendered in connection with the Loan Agreement
+prior to the date hereof; and
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c)
+the Borrower shall have paid the legal fees and expenses of Holland & Knight LLP, counsel for the Agent, incurred in connection with
+the preparation, negotiation, execution and delivery of this Waiver and other services rendered in connection with the Loan Agreement
+prior to the date hereof.
+
+ 
+
+4.
+
+Representations, Warranties and Covenants
+.
+
+ 
+
+(a)
+The Credit Parties represent and warrant that after giving effect to this Waiver, the representations and warranties contained in the
+Loan Agreement are true and correct in all material respects on and as of the date hereof as if such representations and warranties had
+been made on and as of the date hereof (except to the extent that any such representations and warranties specifically relate to an earlier
+date).
+
+ 
+
+(b)
+The Credit Parties represent and warrant that after giving effect to this Waiver, no Default or Event of Default will have occurred and
+be continuing on and as of the Effective Date.
+
+ 
+
+5.
+
+Loan Document
+. This Waiver is designated a Loan Document by the Agent.
+
+ 
+
+6.
+
+Full Force and Effect
+. Except as expressly set forth herein, nothing contained herein shall be deemed to constitute a waiver of
+compliance with any term or condition contained in the Loan Agreement or any of the other Loan Documents. Except as expressly amended
+hereby, the Loan Agreement shall continue unmodified and in full force and effect in accordance with the provisions thereof on the date
+hereof. This Waiver shall be limited precisely as drafted and shall not imply an obligation on the Agent or any Lender to consent to
+any matter on any future occasion. As used in the Loan Agreement, the terms “Agreement,” “this Agreement,” “this
+Loan Agreement,” “herein,” “hereafter,” “hereto,” “hereof” and words of similar
+import shall mean, unless the context otherwise requires, the Loan Agreement as modified by this Waiver.
+
+ 
+
+7.
+
+CHOICE OF LAW
+. THIS WAIVER SHALL IN ALL RESPECTS BE CONSTRUED IN ACCORDANCE WITH, AND GOVERNED BY, THE LAWS OF THE STATE OF
+NEW YORK WHICH ARE APPLICABLE TO CONTRACTS MADE AND TO BE PERFORMED WHOLLY WITHIN SUCH STATE WITHOUT REGARD TO ANY PRINCIPLES OF CONFLICTS
+OF LAW THAT WOULD RESULT IN THE APPLICATION OF THE LAWS OF ANOTHER JURISDICTION.
+
+ 
+
+8.
+
+Counterparts
+. This Waiver may be executed in one or more counterparts, each of which shall constitute an original, but all of
+which when taken together shall constitute but one instrument. Counterparts may be delivered via facsimile, electronic mail (including
+pdf) or other transmission method and any counterpart so delivered shall be deemed to be as effective as an original signature page delivered
+manually.
+
+ 
+
+9.
+
+Headings
+. The headings of this Waiver are for the purposes of reference only and shall not affect the construction of this Waiver.
+
+ 
+
+10.
+
+Successors and Assigns
+. The provisions of this Waiver shall be binding upon and inure to the benefit of the parties hereto and
+their respective successors and assigns; provided that none of the Credit Parties may assign or transfer any of its rights or obligations
+under this Waiver without the prior written consent of the Agent.
+
+ 
+
+11.
+
+Severability
+. The illegality or unenforceability of any provision of this Waiver or any instrument or agreement required hereunder
+shall not in any way affect or impair the legality or enforceability of the remaining provisions of this Amendment or any instrument
+or agreement required hereunder.
+
+ 
+
+[Signature
+pages follow]
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, the parties hereto have caused this Limited Waiver to be duly executed by their duly authorized officers, all as of
+the date and year first above written.
+
+ 
+
+ 
+
+ 
+
+BORROWER
+:
+ 
+
+ 
+
+DRAGONFLY
+ ENERGY CORP.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Denis Phares
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Denis
+ Phares, Ph.D.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+Chairman & CEO
+
+ 
+
+ 
+
+ 
+
+ 
+
+HOLDINGS
+ 
+: 
+
+ 
+
+DRAGONFLY
+ ENERGY HOLDINGS CORP. (F/K/A
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHARDAN
+ NEXTECH ACQUISITION 2 CORP.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Denis Phares 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Denis
+ Phares, Ph.D.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+Chairman & CEO
+
+ 
+
+ 
+
+Signature
+Page to Limited Waiver
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AGENT
+:
+ 
+
+ 
+
+ALTER
+ DOMUS (US) LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Pinju Chiu
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+Pinju Chiu
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Associate
+ Counsel
+
+ 
+
+ 
+
+Signature
+Page to Limited Waiver
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LENDERS
+:
+ 
+
+ 
+
+ENERGY
+ IMPACT CREDIT FUND I LP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+Energy
+ Impact Credit Fund I GP LLC, its general partner
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Harry Giovani 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Harry
+ Giovani
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Authorized
+ Signatory
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ENERGY
+ IMPACT CREDIT FUND II LP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+Energy
+ Impact Credit Fund II GP LLC, its general partner
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Harry Giovani
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Harry
+ Giovani
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Authorized
+ Signatory
+
+ 
+
+ 
+
+Signature
+Page to Limited Waiver
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BP
+ HOLDINGS XVII LP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+BPC
+ AS Cayman LLC, its General Partner
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+BPC
+ AS LLC, its Manager
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Michael Haynes
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+Michael Haynes
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Portfolio
+ Manager
+
+ 
+
+ 
+
+Signature
+Page to Limited Waiver

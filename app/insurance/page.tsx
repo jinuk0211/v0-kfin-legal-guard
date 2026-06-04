@@ -9,9 +9,10 @@ import { StepCaptcha } from "@/components/insurance/step-captcha"
 import { StepAuth } from "@/components/insurance/step-auth"
 import { StepLoading } from "@/components/insurance/step-loading"
 import { StepResult } from "@/components/insurance/step-result"
+import { StepHistory } from "@/components/insurance/step-history"
 import { getSavedUser, saveUser, clearSavedUser, maskName, maskPhone, type SavedUser } from "@/lib/user-storage"
 
-export type Step = "welcome" | 1 | 2 | 3 | 4 | 5 | 6 | 7
+export type Step = "welcome" | "history" | 1 | 2 | 3 | 4 | 5 | 6 | 7
 
 export interface InsuranceState {
   name: string
@@ -205,6 +206,12 @@ export default function InsurancePage() {
                   >
                     다른 정보로 새로 등록
                   </button>
+                  <button
+                    onClick={() => setStep("history")}
+                    className="w-full border border-border bg-transparent py-3 text-sm font-medium text-muted-foreground transition-colors hover:border-foreground hover:text-foreground"
+                  >
+                    이전 조회 이력 보기
+                  </button>
                 </div>
 
                 <p className="mt-4 text-center text-[10px] text-muted-foreground">
@@ -254,6 +261,19 @@ export default function InsurancePage() {
               </div>
             )}
           </div>
+        )}
+
+        {/* Query history (returning users) */}
+        {step === "history" && savedUser && (
+          <StepHistory
+            phone={savedUser.phone}
+            birth={savedUser.birth}
+            onView={(data) => {
+              setResultData(data)
+              setStep(7)
+            }}
+            onBack={() => setStep("welcome")}
+          />
         )}
 
         {/* Registration Steps */}

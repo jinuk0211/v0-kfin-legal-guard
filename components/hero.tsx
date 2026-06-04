@@ -50,46 +50,48 @@ export function Hero({ onStartAnalysis }: HeroProps) {
             </button>
           </div>
 
-          {/* Right - Diagonal banner with stats */}
-          <div className="relative hidden lg:block">
-            <div className="absolute inset-0 bg-muted/30">
-              <div className="absolute -right-32 top-0 h-full w-[300px] skew-x-[-15deg] bg-primary" />
-              
-              {/* Stats overlay */}
-              <div className="relative z-10 flex h-full flex-col justify-center px-12 py-16">
-                <div className="grid grid-cols-2 gap-6">
-                  {STATS.map((stat, index) => (
-                    <div
-                      key={stat.label}
-                      className="animate-slide-up border-l-2 border-foreground/20 pl-4"
-                      style={{ animationDelay: `${index * 100}ms` }}
-                    >
-                      <div className="flex items-baseline gap-1">
-                        <span className="font-serif text-3xl font-bold tabular-nums text-foreground">
-                          {stat.value}
-                        </span>
-                        <span className="text-sm text-muted-foreground">{stat.unit}</span>
-                      </div>
-                      <p className="mt-1 text-[10px] uppercase tracking-wider text-muted-foreground">
-                        {stat.label}
-                      </p>
-                    </div>
-                  ))}
-                </div>
-                
-                {/* Feature badges */}
-                <div className="mt-10 flex flex-wrap gap-2">
-                  <span className="border border-foreground/20 bg-background/80 px-3 py-1.5 text-[10px] uppercase tracking-wider text-foreground">
-                    Claude AI 기반
+          {/* Right - Editorial illustration + stats */}
+          <div className="relative hidden border-l-2 border-foreground lg:flex lg:flex-col">
+            {/* Generated hero illustration (gpt-image-2) */}
+            <div className="relative flex-1 overflow-hidden bg-muted/20">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src="/hero-illustration.png"
+                alt="보험 약관을 보호하는 방패와 돋보기 일러스트"
+                className="h-full w-full object-cover object-center"
+              />
+              {/* Feature badges */}
+              <div className="absolute bottom-4 left-4 flex flex-wrap gap-2">
+                {["Claude AI 기반", "판례 기반 검증", "개인화 분석"].map((b) => (
+                  <span
+                    key={b}
+                    className="border border-foreground/20 bg-background/85 px-3 py-1.5 text-[10px] uppercase tracking-wider text-foreground backdrop-blur-sm"
+                  >
+                    {b}
                   </span>
-                  <span className="border border-foreground/20 bg-background/80 px-3 py-1.5 text-[10px] uppercase tracking-wider text-foreground">
-                    실시간 분석
-                  </span>
-                  <span className="border border-foreground/20 bg-background/80 px-3 py-1.5 text-[10px] uppercase tracking-wider text-foreground">
-                    증거 기반
-                  </span>
-                </div>
+                ))}
               </div>
+            </div>
+
+            {/* Stats strip */}
+            <div className="grid grid-cols-4 border-t-2 border-foreground">
+              {STATS.map((stat, index) => (
+                <div
+                  key={stat.label}
+                  className="animate-slide-up border-r border-foreground/10 px-4 py-5 last:border-r-0"
+                  style={{ animationDelay: `${index * 100}ms` }}
+                >
+                  <div className="flex items-baseline gap-1">
+                    <span className="font-serif text-2xl font-bold tabular-nums text-foreground">
+                      {stat.value}
+                    </span>
+                    <span className="text-xs text-muted-foreground">{stat.unit}</span>
+                  </div>
+                  <p className="mt-1 text-[10px] uppercase tracking-wider text-muted-foreground">
+                    {stat.label}
+                  </p>
+                </div>
+              ))}
             </div>
           </div>
         </div>

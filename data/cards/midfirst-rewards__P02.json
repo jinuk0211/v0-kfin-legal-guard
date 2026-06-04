@@ -1,0 +1,495 @@
+{
+  "session_id": "US_MidFirst_Rewards_CreditCard_P02",
+  "generated_at": "2026-05-05T17:11:19.233969+00:00",
+  "product": "MidFirst_Rewards_CreditCard",
+  "doc_type": "credit_card_agreement",
+  "user_profile": {
+    "id": "P02",
+    "age": 28,
+    "occupation": "gig worker",
+    "financial_status": "low income",
+    "risk_flags": [
+      "irregular_income",
+      "low_income",
+      "late_payment_history"
+    ]
+  },
+  "executive_summary": "Analysis of MidFirst_Rewards_CreditCard identified 9 consumer vulnerabilities. Overall risk level: HIGH. Key concerns: Arbitration provision with class action waiver, Unfavorable minimum payment calculation, Penalty APR for multiple trigger events.",
+  "overall_risk_level": "HIGH",
+  "vulnerability_count": {
+    "CRITICAL": 1,
+    "HIGH": 4,
+    "MEDIUM": 4,
+    "LOW": 0,
+    "uncategorized": 6
+  },
+  "findings": [
+    {
+      "finding_id": "US-V001",
+      "taxonomy": "CC-05",
+      "title": "Arbitration provision with class action waiver",
+      "triggered_by": "This Agreement contains an arbitration provision (including a class action arbitration waiver). It is also important that You read the entire \"Claims and Arbitration of Disputes\" section carefully.",
+      "description": "Arbitration provision with class action waiver",
+      "status": "CONFIRMED",
+      "confidence": 0.9,
+      "user_relevance_score": 0.8,
+      "search_query_used": "credit card arbitration class action waiver consumer rights",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Federal Arbitration Act",
+            "article": "9 U.S.C. \u00a7 2",
+            "verified": true
+          },
+          {
+            "law_name": "Dodd-Frank Act",
+            "article": "12 U.S.C. \u00a7 5518",
+            "verified": true
+          }
+        ],
+        "precedents": [
+          {
+            "case_number": "65992863",
+            "case_name": "Shetiwy v. Midland Credit Management",
+            "court": "nysd",
+            "date": "2013-07-12",
+            "summary": "",
+            "relevance_score": 1.0,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/8726940/shetiwy-v-midland-credit-management/"
+          },
+          {
+            "case_number": "70882438",
+            "case_name": "Midland Credit Mgt. Inc. v. Bowers",
+            "court": "ohioctapp",
+            "date": "2025-07-21",
+            "summary": "",
+            "relevance_score": 0.93,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/10638806/midland-credit-mgt-inc-v-bowers/"
+          },
+          {
+            "case_number": "60112322",
+            "case_name": "Gibbs v. Firefighters Community Credit Union",
+            "court": "ohioctapp",
+            "date": "2021-08-05",
+            "summary": "",
+            "relevance_score": 0.93,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/4905675/gibbs-v-firefighters-community-credit-union/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:3\uac74 | US statute:2\uac74",
+      "severity": "CRITICAL",
+      "plain_language_explanation": "You give up your right to sue in court or join class action lawsuits. Instead, disputes must go through private arbitration, which is usually more expensive and harder to win.",
+      "user_impact": "As a gig worker with irregular income, you can't afford arbitration costs or join group lawsuits.",
+      "estimated_risk_scenario": "If the company overcharges you or violates consumer laws, you'd face expensive arbitration alone instead of joining others in a cheaper class action lawsuit to recover money.",
+      "recommended_actions": [
+        {
+          "action": "Look for credit cards without arbitration clauses before signing",
+          "priority": "pre-signing",
+          "contact": "Compare cards on CFPB's credit card tool at consumerfinance.gov"
+        },
+        {
+          "action": "Understand you're waiving important legal rights by signing",
+          "priority": "immediate",
+          "contact": "Read CFPB's arbitration guide at consumerfinance.gov"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "finding_id": "US-V007",
+      "taxonomy": "CC-03",
+      "title": "Unfavorable minimum payment calculation",
+      "triggered_by": "The Minimum Payment shall be: (A) Your total new balance if it is less than or equal to $25; or (B) The greater of (a) $25, or (b) the billed Interest Charges and billed late fees, if any, plus 1% of the total new balance.",
+      "description": "Unfavorable minimum payment calculation",
+      "status": "CONFIRMED",
+      "confidence": 0.8,
+      "user_relevance_score": 1.0,
+      "search_query_used": "minimum payment calculation 1% balance credit card consumer debt trap",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1637",
+            "verified": true
+          },
+          {
+            "law_name": "CFPB Regulation Z",
+            "article": "12 CFR \u00a7 1026.51",
+            "verified": true
+          }
+        ],
+        "precedents": [
+          {
+            "case_number": "2991314",
+            "case_name": "United States v. Saena Tech Corporation",
+            "court": "dcd",
+            "date": "2015-10-21",
+            "summary": "",
+            "relevance_score": 0.0,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/3133746/united-states-v-saena-tech-corporation/"
+          },
+          {
+            "case_number": "2729247",
+            "case_name": "Springs Window Fashions Divisions, Inc. Springs Window Fashions, L.P. And SWF, Inc. D/B/A SC-SWF, Inc. v. the Blind Maker, Inc.",
+            "court": "txctapp3",
+            "date": "2006-01-20",
+            "summary": "",
+            "relevance_score": 0.0,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/2872220/springs-window-fashions-divisions-inc-springs-wind/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:2\uac74 | US statute:2\uac74",
+      "severity": "HIGH",
+      "plain_language_explanation": "Your minimum payment is only 1% of your balance plus interest and fees. This keeps you in debt longer and costs thousands more in interest.",
+      "user_impact": "With irregular income, you'll likely pay minimums and stay trapped in debt for decades.",
+      "estimated_risk_scenario": "A $3,000 balance at 24% APR with 1% minimum payments takes 30+ years to pay off and costs over $11,000 total. Late fees from irregular income make it worse.",
+      "recommended_actions": [
+        {
+          "action": "Always pay more than the minimum - even $10 extra cuts years off your debt",
+          "priority": "immediate",
+          "contact": "Set up automatic payments for more than minimum through your bank"
+        },
+        {
+          "action": "File complaint about unfair minimum payment structure",
+          "priority": "optional",
+          "contact": "CFPB at consumerfinance.gov or 1-855-411-2372"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "finding_id": "US-V009",
+      "taxonomy": "CC-02",
+      "title": "Penalty APR for multiple trigger events",
+      "triggered_by": "If We do not receive Your required Minimum Payment by its due date, You exceed Your Credit Limit, or You make a payment to Us that is dishonored or returned for any reason, We may increase any or all of Your Annual Percentage Rates on future transactions (including, but not limited to Special Offer Rates). We also may increase the Annual Percentage Rates on all Your balances and transactions, including those incurred prior to the notice of increase, if We do not receive Your required Minimum Payment within 60 days after its due date.",
+      "description": "Penalty APR for multiple trigger events",
+      "status": "CONFIRMED",
+      "confidence": 0.85,
+      "user_relevance_score": 1.0,
+      "search_query_used": "penalty APR rate increase existing balances credit card consumer protection",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1666i",
+            "verified": true
+          },
+          {
+            "law_name": "Credit CARD Act 2009",
+            "article": "15 U.S.C. \u00a7 1637",
+            "verified": true
+          }
+        ],
+        "precedents": [
+          {
+            "case_number": "64297648",
+            "case_name": "In re Capital One Bank Credit Card Interest Rate Litigation",
+            "court": "gand",
+            "date": "2014-11-03",
+            "summary": "",
+            "relevance_score": 1.0,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/7309171/in-re-capital-one-bank-credit-card-interest-rate-litigation/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:1\uac74 | US statute:2\uac74",
+      "severity": "HIGH",
+      "plain_language_explanation": "Your interest rate can jump to a penalty rate if you're late on payments, go over your limit, or have a payment bounce. This makes your debt much more expensive.",
+      "user_impact": "With irregular income and past late payments, you'll likely trigger penalty rates often, making debt spiral.",
+      "estimated_risk_scenario": "Miss one $25 minimum payment due to irregular gig income, penalty APR jumps from 18% to 29.99%, turning a $1,000 balance into $300+ yearly interest instead of $180.",
+      "recommended_actions": [
+        {
+          "action": "Set up automatic minimum payments from checking account to avoid late fees and penalty rates",
+          "priority": "immediate",
+          "contact": "Your bank's customer service"
+        },
+        {
+          "action": "Look for credit cards without penalty APR clauses before signing this agreement",
+          "priority": "pre-signing",
+          "contact": "Compare cards at consumerfinance.gov"
+        },
+        {
+          "action": "Create emergency fund equal to 3 minimum payments to cover irregular income gaps",
+          "priority": "immediate",
+          "contact": "Local credit union for savings account"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "finding_id": "US-V003",
+      "taxonomy": "UNCATEGORIZED",
+      "title": "Unilateral credit limit changes without notice",
+      "triggered_by": "We will notify You of Your Credit Limit with Your Account Documents and on Your Billing Statements, and We may change or restrict Your credit availability at any time.",
+      "description": "Credit limit can be reduced at any time potentially causing over-limit situations and fees",
+      "status": "CONFIRMED",
+      "confidence": 0.8,
+      "user_relevance_score": 0.85,
+      "search_query_used": "will notify your credit limit with your account credit card consumer rights",
+      "legal_grounds": {
+        "statutes": [],
+        "precedents": [
+          {
+            "case_number": "64297648",
+            "case_name": "In re Capital One Bank Credit Card Interest Rate Litigation",
+            "court": "gand",
+            "date": "2014-11-03",
+            "summary": "",
+            "relevance_score": 1.0,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/7309171/in-re-capital-one-bank-credit-card-interest-rate-litigation/"
+          },
+          {
+            "case_number": "64316005",
+            "case_name": "Wood v. Credit One Bank",
+            "court": "vaed",
+            "date": "2017-09-21",
+            "summary": "",
+            "relevance_score": 0.415,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/7327521/wood-v-credit-one-bank/"
+          },
+          {
+            "case_number": "64297954",
+            "case_name": "Good v. Nationwide Credit, Inc.",
+            "court": "paed",
+            "date": "2014-10-27",
+            "summary": "",
+            "relevance_score": 0.415,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/7309477/good-v-nationwide-credit-inc/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:3\uac74",
+      "severity": "HIGH",
+      "plain_language_explanation": "The credit card company can cut your credit limit anytime without telling you first. You'll only find out after it happens on your next bill.",
+      "user_impact": "With irregular income and past late payments, your limit could get cut right when you need it most.",
+      "estimated_risk_scenario": "Your credit limit gets slashed from $2,000 to $500 without warning. Existing charges push you over the new limit, triggering over-limit fees and hurting your credit score.",
+      "recommended_actions": [
+        {
+          "action": "Ask the card company about their limit change policy and if they offer advance notice",
+          "priority": "pre-signing",
+          "contact": "Credit card customer service line"
+        },
+        {
+          "action": "Keep credit usage below 30% of your limit to reduce risk of sudden cuts",
+          "priority": "immediate",
+          "contact": "Self-monitoring"
+        },
+        {
+          "action": "Set up account alerts to monitor your available credit regularly",
+          "priority": "immediate",
+          "contact": "Card company's website or app"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "finding_id": "US-V005",
+      "taxonomy": "UNCATEGORIZED",
+      "title": "Unilateral credit restriction for risk management",
+      "triggered_by": "We may, in Our discretion and to the extent permitted by law, restrict or delay the availability of credit to You for risk management purposes, and to protect You and Us against actual or potential fraud, unauthorized transactions, or claims.",
+      "description": "Bank can restrict credit access at any time for broad risk management reasons",
+      "status": "CONFIRMED",
+      "confidence": 0.75,
+      "user_relevance_score": 0.7,
+      "search_query_used": "discretion extent permitted restrict delay availability credit risk credit card consumer rights",
+      "legal_grounds": {
+        "statutes": [],
+        "precedents": [
+          {
+            "case_number": "64324118",
+            "case_name": "Jiminez v. Credit One Bank, N.A.",
+            "court": "ilsd",
+            "date": "2019-03-28",
+            "summary": "",
+            "relevance_score": 0.576,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/7335631/jiminez-v-credit-one-bank-na/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:1\uac74",
+      "severity": "HIGH",
+      "plain_language_explanation": "The lender can cut off or delay your credit access anytime they want, even if you're current on payments. They claim it's for 'risk management.'",
+      "user_impact": "Your credit could be frozen without warning, especially risky given your irregular income.",
+      "estimated_risk_scenario": "During a slow work month when you need credit most, they could restrict access citing your income pattern as 'risky,' leaving you unable to cover essential expenses.",
+      "recommended_actions": [
+        {
+          "action": "Build emergency savings equal to 2-3 months expenses before relying on this credit",
+          "priority": "immediate",
+          "contact": "Local credit union for savings account options"
+        },
+        {
+          "action": "Research backup credit sources with clearer restriction policies",
+          "priority": "pre-signing",
+          "contact": "Consumer Financial Protection Bureau website"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "finding_id": "US-V004",
+      "taxonomy": "UNCATEGORIZED",
+      "title": "Authorized user charges deemed authorized by bank",
+      "triggered_by": "As permitted by law, We may consider charges made by someone known to You (i.e. family member, relative, significant other, partner, roommate, co-worker, friend) using Your card or any Account Access Device as authorized by You.",
+      "description": "Bank can deem unauthorized charges as authorized based solely on relationship to cardholder",
+      "status": "UNVERIFIED",
+      "confidence": 0.8,
+      "user_relevance_score": 0.8,
+      "search_query_used": "permitted consider charges made someone known family member credit card consumer rights",
+      "legal_grounds": {
+        "statutes": [],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74",
+      "severity": "MEDIUM",
+      "plain_language_explanation": "The bank can treat charges made by people you know (family, friends, roommates) as if you approved them, even if you didn't give permission.",
+      "user_impact": "You could be stuck paying for purchases made by people close to you without your consent.",
+      "estimated_risk_scenario": "A roommate or family member uses your card for expensive purchases. The bank refuses to reverse charges, saying you authorized it since you know the person.",
+      "recommended_actions": [
+        {
+          "action": "Keep your card and account info completely private from all family and friends",
+          "priority": "immediate",
+          "contact": "yourself"
+        },
+        {
+          "action": "Set up account alerts for all transactions to catch unauthorized use quickly",
+          "priority": "immediate",
+          "contact": "your bank's customer service"
+        },
+        {
+          "action": "Consider switching to a bank with stronger fraud protections that don't include this clause",
+          "priority": "optional",
+          "contact": "other financial institutions"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "finding_id": "US-V002",
+      "taxonomy": "UNCATEGORIZED",
+      "title": "Joint and several liability for all users",
+      "triggered_by": "Each person named on the application for the Account and anyone else authorized to use the Account in any way is jointly and severally liable for all amounts due on this Account.",
+      "description": "Primary cardholder remains liable for all charges by any authorized user regardless of circumstances",
+      "status": "UNVERIFIED",
+      "confidence": 0.85,
+      "user_relevance_score": 0.75,
+      "search_query_used": "each person named application account anyone else authorized credit card consumer rights",
+      "legal_grounds": {
+        "statutes": [],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74",
+      "severity": "MEDIUM",
+      "plain_language_explanation": "If you share this account, you're responsible for ALL debt - even charges you didn't make. If others can't pay, creditors can come after you for everything.",
+      "user_impact": "With irregular income and payment issues, you could be stuck paying for others' spending.",
+      "estimated_risk_scenario": "Authorized user racks up charges you can't afford. They can't pay due to job loss. Creditor demands full payment from you, damaging your credit and finances further.",
+      "recommended_actions": [
+        {
+          "action": "Don't add authorized users or co-applicants given your financial situation",
+          "priority": "pre-signing",
+          "contact": "Account provider before signing"
+        },
+        {
+          "action": "If you must share, set spending limits and monitor account daily",
+          "priority": "immediate",
+          "contact": "Account provider customer service"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "finding_id": "US-V008",
+      "taxonomy": "UNCATEGORIZED",
+      "title": "Discretionary payment application order",
+      "triggered_by": "We may apply Your Minimum Payment to Balance Categories in the order We choose.",
+      "description": "Bank controls how minimum payments are applied potentially maximizing interest charges",
+      "status": "UNVERIFIED",
+      "confidence": 0.75,
+      "user_relevance_score": 0.7,
+      "search_query_used": "apply your minimum payment balance categories order choose credit card consumer rights",
+      "legal_grounds": {
+        "statutes": [],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74",
+      "severity": "MEDIUM",
+      "plain_language_explanation": "The credit card company can choose which balances to pay first when you make your minimum payment, not you. They'll likely pay lower-interest balances first.",
+      "user_impact": "Your high-interest debt (like cash advances) will grow faster, costing you more money each month.",
+      "estimated_risk_scenario": "With irregular income and payment history, you'll likely carry balances. The company will apply payments to low-interest purchases first, letting high-interest cash advances grow.",
+      "recommended_actions": [
+        {
+          "action": "Ask the card company for their specific payment application order in writing before signing",
+          "priority": "pre-signing",
+          "contact": "Card issuer customer service"
+        },
+        {
+          "action": "Avoid cash advances and balance transfers that typically have higher interest rates",
+          "priority": "immediate",
+          "contact": "Yourself - spending habits"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "finding_id": "US-V006",
+      "taxonomy": "UNCATEGORIZED",
+      "title": "Conversion fees for non-USD payments accepted",
+      "triggered_by": "If We choose to accept a payment that is not in U.S. dollars or not drawn on a U.S. bank, You agree to pay any collection or conversion fees assessed to Us by third parties.",
+      "description": "Consumer liable for third-party fees on payments bank chooses to accept despite non-compliance",
+      "status": "UNVERIFIED",
+      "confidence": 0.7,
+      "user_relevance_score": 0.6,
+      "search_query_used": "choose accept payment that dollars drawn bank agree credit card consumer rights",
+      "legal_grounds": {
+        "statutes": [],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74",
+      "severity": "MEDIUM",
+      "plain_language_explanation": "If you pay with foreign money or a foreign bank, you'll pay extra fees the company gets charged. These fees can be expensive and unpredictable.",
+      "user_impact": "With irregular income, surprise conversion fees could strain your already tight budget unexpectedly.",
+      "estimated_risk_scenario": "You pay with a foreign payment app or card thinking it's convenient. Later, you're hit with $25-50+ in conversion fees you didn't expect, worsening your financial stress.",
+      "recommended_actions": [
+        {
+          "action": "Ask for exact fee amounts in writing before signing",
+          "priority": "pre-signing",
+          "contact": "Company customer service"
+        },
+        {
+          "action": "Only use US dollar payments from US banks to avoid fees",
+          "priority": "immediate",
+          "contact": "Your US bank"
+        }
+      ],
+      "rank": 9
+    }
+  ],
+  "general_recommendations": [
+    "Read all terms carefully before signing any credit card agreement.",
+    "Compare APR and fees across multiple issuers before applying.",
+    "Note any arbitration clauses that waive your right to sue.",
+    "Contact CFPB (1-855-411-2372) if you believe a term is unfair.",
+    "For disputes, contact your state Attorney General's consumer protection office."
+  ],
+  "disclaimer": "This report is generated by AI analysis and has no legal effect. For specific legal advice, consult a consumer protection attorney or contact the CFPB."
+}

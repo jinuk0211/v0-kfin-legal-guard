@@ -1,0 +1,771 @@
+EX-10.1
+
+2
+
+ex101-ninthamendmenttocred.htm
+
+EX-10.1 NINTH AMENDMENT TO CREDIT FACILITY
+
+Document
+
+Exhibit 10.1
+
+Execution Version
+
+NINTH AMENDMENT TO CREDIT AGREEMENT
+
+This 
+
+NINTH
+
+ 
+
+AMENDMENT TO CREDIT AGREEMENT
+
+, dated as of October 10, 2023 (this “
+
+Amendment
+
+”), is by and among Bank of America, N.A., in its capacity as administrative agent and collateral agent for the Lenders, pursuant to the Existing Credit Agreement defined below (in such capacity, the “
+
+Administrative Agent
+
+”), the Lenders party hereto (which Lenders comprise Super-Majority Required Lenders under the Existing Credit Agreement as of the date hereof), Barnes & Noble Education, Inc., a Delaware corporation (the “
+
+Lead Borrower
+
+”), the other borrowers party hereto (collectively with the Lead Borrower, the “
+
+Borrowers
+
+”) and the other parties party hereto as “Guarantors” (collectively with the Borrowers, the “
+
+Loan Parties
+
+”). References herein to a Lender shall be deemed to include each such Lender in its capacity as an LC Issuer and/or the Swing Line Lender.
+
+W
+
+ 
+
+I
+
+ 
+
+T
+
+ 
+
+N
+
+ 
+
+E
+
+ 
+
+S
+
+ 
+
+E
+
+ 
+
+T
+
+ 
+
+H
+
+ :
+
+WHEREAS
+
+, the Administrative Agent, certain financial institutions from time to time party thereto as lenders (collectively, the “
+
+Lenders
+
+”) and/or as agents, the Borrowers and the Guarantors are parties to that certain Credit Agreement, dated August 3, 2015 (as amended by that certain First Amendment to Credit Agreement, dated as of February 27, 2017, that certain Second Amendment, Waiver and Consent to Credit Agreement, dated as of March 1, 2019, that certain Third Amendment and Waiver to Credit Agreement and First Amendment to Security Agreement, dated as of March 31, 2021, that certain Fourth Amendment to Credit Agreement, dated as of March 7, 2022, that certain Fifth Amendment to Credit Agreement, dated as of June 7, 2022, that certain Sixth Amendment to Credit Agreement, dated as of March 8, 2023, that certain Seventh Amendment to Credit Agreement, dated as of May 24, 2023, that certain Eighth Amendment to Credit Agreement, dated as of July 28, 2023, and as further amended, restated, amended and restated, supplemented or modified prior to the effectiveness of this Amendment, the “
+
+Existing Credit Agreement
+
+”; capitalized terms used but not defined herein shall have the meanings set forth in the Existing Credit Agreement, as modified by this Amendment (the “
+
+Amended Credit Agreement
+
+”).
+
+WHEREAS
+
+, the Borrowers have requested that the Administrative Agent and the Super-Majority Required Lenders agree to make certain amendments to the Existing Credit Agreement, as more specifically set forth herein.
+
+WHEREAS
+
+, the Administrative Agent and the Super-Majority Required Lenders are willing to make certain amendments to the Existing Credit Agreement, all subject to the terms and conditions set forth herein, as more specifically set forth herein.
+
+NOW THEREFORE
+
+, in consideration of the foregoing and the mutual agreements and covenants contained herein, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+1.    
+
+Approved Budget
+
+.
+
+ 
+
+On and after the Ninth Amendment Effective Date, each reference in the Amended Credit Agreement to the “Approved Budget” shall initially mean and be a reference to the cash flow forecast attached hereto as 
+
+Annex I
+
+ and thereafter shall mean, as of any date of determination, the most recently delivered Approved Budget Update. 
+
+2.    
+
+Amendments to Existing Credit Agreement
+
+. Subject to the terms and conditions hereof, including satisfaction of the conditions set forth in 
+
+Section 4
+
+ of this Amendment, the Existing Credit Agreement is hereby amended as follows: 
+
+(a)    Section 1.01 (Defined Terms) of the Existing Credit Agreement is hereby amended to add the following defined terms in the appropriate alphabetical order:
+
+““
+
+Cumulative Eight-Week Period
+
+” means, as of any date of determination, the eight-week period up to and through the Saturday of the most recent week then ended.”
+
+““
+
+Cumulative Five-Week Period
+
+” means, as of any date of determination, the five-week period up to and through the Saturday of the most recent week then ended.”
+
+““
+
+Ninth Amendment
+
+” means that certain Ninth Amendment to Credit Agreement, dated as of October 10, 2023, among the Loan Parties, the Administrative Agent and the Lenders party thereto.”
+
+““
+
+University Contract Summary
+
+” has the meaning given to such term in the Ninth Amendment.” 
+
+(b)    Section 1.01 (Defined Terms) of the Existing Credit Agreement is hereby amended to amend and restate the following defined terms in their entirety: 
+
+“
+
+Related Parties
+
+” means, with respect to any Person, such Person’s Affiliates and the partners, directors, officers, employees, agents, trustees, administrators, managers, advisors and representatives of such Person (including, with respect to the Administrative Agent, the Administrative Agent Consultant) and of such Person’s Affiliates.
+
+(c)    Clause (d) of Section 6.10 (Inspection Rights; Consultants) of the Existing Credit Agreement is hereby amended to delete the reference to “PKF Clear Thinking, LLC and/or its Affiliates” and replace with “B.Riley Securities and/or its Affiliates”. 
+
+(d)    Clause (b) of Section 7.16 (Variance Covenant) of the Existing Credit Agreement is hereby amended and restated to read in its entirety as follows: “[Reserved]; and”.
+
+(e)    Clause (c) of Section 7.16 (Variance Covenant) of the Existing Credit Agreement is hereby amended and restated in its entirety as follows:
+
+“(c)    (1) Commencing as of the first full Cumulative Five-Week Period ending on October 7, 2023 (it being understood that for any historical period not reflected in the Approved Budget delivered on the Ninth Amendment Effective Date, the variance results with respect to Budgeted Disbursement Amounts, Budgeted Inventory Receipts and Budgeted Net Cash Flow shall be determined by reference to the immediately preceding Approved Budget)
+
+ 
+
+and with respect to each Cumulative Five-Week Period occurring thereafter, permit (i) Actual Disbursement Amounts for any Cumulative Five-Week Period to exceed the Budgeted Disbursement Amounts for such Cumulative Five-Week Period, as reflected in the applicable Approved Budget, by an amount greater than ten percent (10.0%) (it being understood and agreed that for purposes of determining compliance with the foregoing, payments of amendment fees, consent fees or other similar fees payable pursuant to the Loan Documents shall be disregarded), (ii) [reserved], (iii) Actual Inventory Receipts for any Cumulative Five-Week Period to be less than an amount equal to ninety percent (90.0%) of the Budgeted Inventory Receipts for such Cumulative Five-Week Period, as reflected in the applicable Approved Budget, and (iv) Actual Net Cash Flow for any Cumulative Five-Week Period (1) if projected to be a positive amount, to be less than an amount equal to ninety percent (90.0%) of the Budgeted Net Cash Flow for such Cumulative Five-Week Period and (2) if projected to be a negative amount, to be greater than ten percent (10.0%) of the Budgeted Net Cash Flow for such Cumulative Five-Week Period, each, as reflected in the applicable Approved Budget, in each case of the foregoing clauses (i) and (iii) solely with respect to BNCB; and 
+
+2
+
+(2)    commencing as of the first full Cumulative Eight-Week Period ending on October 7, 2023 (it being understood that for any historical period not reflected in the Approved Budget delivered on the Ninth Amendment Effective Date, the variance results with respect to Budgeted Cash Receipts shall be determined by reference to the immediately preceding Approved Budget) and with respect to each Cumulative Eight-Week Period occurring thereafter, permit Actual Cash Receipts for any Cumulative Eight-Week Period to be less than an amount equal to ninety percent (90.0%) of the Budgeted Cash Receipts for such Cumulative Eight-Week Period, in each case as reflected in the applicable Approved Budget solely with respect to BNCB.” 
+
+(f)    Section 6.19(d) (Teleconferences) of the Existing Credit Agreement is hereby amended and restated in its entirety as follows:
+
+“(d)    At the Administrative Agent’s request, not less than weekly, the Loan Parties shall be available to conduct a telephonic meeting with the CRO and the Loan Parties’ other advisors in which the respective representatives of the Lead Borrower, each other Loan Party, the Administrative Agent and their respective advisors and counsel shall be entitled to participate, whereupon the Lead Borrower shall present, among other things, an update on the Loan Parties’ cash flow, changes in management and/or organizational structure, business operations, and financial performance and updates regarding (i) the Contingency Transition Plan and their efforts to obtain a Specified Liquidity Transaction, including parties contacted, diligence information provided, proposals received and the status of negotiation and documentation of such transaction, and the Lead Borrower shall promptly provide copies of any such proposals, commitments or other documents to the Administrative Agent and (ii) the University Contract Summary; provided however, the Loan Parties agree that, on a bi-weekly basis, the Lenders and their respective advisors and counsel shall be entitled to participate in any such telephonic meeting.” 
+
+(g)    Section 6.21 (Independent Board Members and Alternative Transactions Committee) is hereby amended to add the following new clause (d):
+
+“(d)    Any Contingency Transition Plan developed, analyzed or implemented by the Alternative Transactions Committee shall be in consultation with the Administrative Agent Consultant. At the Administrative Agent’s request, not less than monthly, the Loan Parties shall cause the Alternative Transactions Committee to be available to discuss the Contingency Plan with the Administrative Agent Consultant, whereupon the Alternative Transactions Committee shall present, among other things, updates on the Contingency Transition Plan and their efforts to obtain a Specified Liquidity Transaction.”
+
+3.    
+
+Post-Closing Covenants
+
+. The Loan Parties shall deliver (or shall cause to be delivered) the following documents or shall complete (or shall cause to be completed) the following tasks, as applicable, in each case no later than the dates specified below:
+
+(a)    On or before November 30, 2023 (or such later date as determined by the Administrative Agent in writing in its reasonable discretion), the Loan Parties shall (or shall cause Investment Bank to) provide the Administrative Agent with copies of all contracts (or such lesser contracts mutually agreed to in writing by the Administrative Agent and the Lead Borrower) with any university or college (each, a “
+
+University
+
+”) for the operation or provision of bookstore services then in effect to which any Loan Party is a party, including all amendments and supplements thereto (each, a “
+
+University Contract
+
+” and collectively, the “
+
+University Contracts
+
+”). 
+
+(b)    On or before December 31, 2023 (or, subject to the proviso appearing at the end of this clause (b), such later date as determined by the Administrative Agent in writing in 
+
+3
+
+its reasonable discretion), the Loan Parties shall (or shall cause Investment Bank to) provide the Administrative Agent with a completed written summary (in scope, form and substance reasonably acceptable to the Administrative Agent) of the University Contracts, on a contract-by-contract basis, and, unless otherwise agreed to by the Administrative Agent in its reasonable discretion, such summary shall include each of the following terms in respect of each University Contract (such summary, the “
+
+University Contract Summary
+
+”): 
+
+1.    Effective and expiration date, including a summary of the renewal terms (if any). 
+
+2.    A summary of each party’s termination rights (with and without cause and related notice provisions in respect thereof) and, in the event of any termination, the rights and obligations of each party, including:
+
+a.    Repurchase obligations of University (including purchase price and/or transfer pricing for applicable inventory (including all used, new and rental inventory)).
+
+b.    Return to vendor requirements, if any, and other affirmative obligations of the Loan Parties to mitigate damages to any such University. 
+
+c.    Restrictions on access rights to bookstore premises and/or use of electronic media.
+
+3.    A summary of any restrictions on sales (including in respect of types of sales). 
+
+4.    A summary of ongoing payment obligations of any University owing to any Loan Party under each University Contract.
+
+5.    A summary of bankruptcy provisions contained in any University Contract.
+
+6.    Any other material term requested by the Administrative Agent in its reasonable discretion. 
+
+; 
+
+provided
+
+ that, if on or prior to December 31, 2023 (or such later date as determined by the Administrative Agent in writing in its reasonable discretion) the Administrative Agent shall have received a partially completed University Contract Summary covering at least fifty percent (50%) of the total University Contracts, the deadline for a fully completed University Contract Summary shall automatically be extended to January 31, 2024. 
+
+Notwithstanding anything to the contrary contained in the Amended Credit Agreement, the Loan Parties acknowledge and agree that the failure to comply with this 
+
+Section 3
+
+ within the times provided herein shall constitute an immediate Event of Default under Section 8.01(b) of the Amended Credit Agreement.
+
+4.    
+
+Conditions Precedent
+
+. This Amendment shall be effective on the date that each of the following conditions precedent are satisfied or waived by the Administrative Agent and the Super-Majority Required Lenders (the date of such satisfaction or waiver, the “
+
+Ninth Amendment Effective Date
+
+”):
+
+(a)    the Administrative Agent shall have received each of the following documents or instruments each of which shall be originals, facsimiles or other electronic transmission (in the case of facsimiles or other electronic transmission followed promptly by originals) unless otherwise specified, in form and substance reasonably acceptable to the Administrative Agent:
+
+4
+
+(i)    this Amendment, duly executed and delivered by the Loan Parties, the Administrative Agent and each Super-Majority Required Lender; and
+
+(ii)    that certain Ninth Amendment Fee Letter (“
+
+Ninth Amendment Fee Letter
+
+”), dated as of the date hereof, duly executed by the Lead Borrower and the Administrative Agent; 
+
+(b)    the Administrative Agent shall have received the new Approved Budget referenced in 
+
+Section 1
+
+ above, which shall be in form and substance acceptable to the Administrative Agent in its sole discretion;
+
+(c)    the Administrative Agent shall have received the forecasts required to be delivered under Section 6.01(d) of the Amended Credit Agreement for the Fiscal Years ending April 27, 2024 and April 26, 2025; 
+
+(d)    the Lead Borrower shall have paid all invoiced and accrued fees and reasonable and documented expenses of the Administrative Agent in respect of this Amendment (including but not limited to (i) the reasonable and documented fees and expenses of counsel to the Administrative Agent in respect of this Amendment and (ii) the fees described in the Ninth Amendment Fee Letter;
+
+(e)    no order, injunction or judgment has been entered into prohibiting the closing of the Amendment or any of the transactions contemplated to occur pursuant hereto;
+
+(f)    no Default or Event of Default shall have occurred or be continuing; and
+
+(g)    all representations and warranties contained in this Amendment (including those made in 
+
+Section 5
+
+ hereof) are true and correct on and as of the Ninth Amendment Effective Date.
+
+For purposes of determining compliance with the conditions specified in this 
+
+Section 4
+
+, each Lender that has signed this Amendment shall be deemed to have consented to, approved or accepted or to be satisfied with, each document or other matter required hereunder to be consented to or approved by or acceptable or satisfactory to such Lender unless the Administrative Agent shall have received written notice from such Lender prior to the proposed Ninth Amendment Effective Date specifying its objection thereto.
+
+5.    
+
+Representations and Warranties
+
+. In order to induce the Administrative Agent and the Lenders to enter into this Amendment, each Borrower and each other Loan Party hereby represents to the Administrative Agent and the Lenders as of the date hereof as follows:
+
+(a)    Such Loan Party is duly authorized to execute and deliver this Amendment and is duly authorized to perform its obligations under the Amended Credit Agreement and the other Loan Documents to which it is a party.
+
+(b)    The execution and delivery of this Amendment by such Loan Party does not and will not (i) contravene the terms of the Organization Documents of such Loan Party; (ii) conflict with or result in any breach or contravention of, or the creation of any Lien under (x) any Contractual Obligation to which such Loan Party is a party (other than Liens created under the Loan Documents in favor of the Administrative Agent for the ratable benefit of the Secured Parties (as defined in the Security Agreement) or (y) any order, injunction, writ or decree of any Governmental Authority or any arbitral award to which such Loan Party or its property is subject; or (iii) violate any applicable Law.
+
+5
+
+(c)    This Amendment is a legal, valid, and binding obligation of such Loan Party, enforceable against such Loan Party in accordance with its terms, except as enforcement may be limited by bankruptcy, insolvency, reorganization, moratorium or other similar Laws relating to or affecting the rights and remedies of creditors or by general equitable principles.
+
+(d)    As of the Ninth Amendment Effective Date and after giving effect to this Amendment, the representations and warranties of the Lead Borrower and each other Loan Party contained in Article V of the Amended Credit Agreement or any other Loan Document, or which are contained in any document furnished at any time under or in connection herewith or therewith, (i) which are qualified by materiality shall be true and correct, and (ii) which are not qualified by materiality shall be true and correct in all material respects, in each case, on and as of the Ninth Amendment Effective Date, except to the extent that such representations and warranties specifically refer to an earlier date, in which case they shall be true and correct, or true and correct in all material respects, as the case may be, as of such earlier date, and except that the representations and warranties contained in subsections (a) and (b) of 
+
+Section 5.05
+
+ of the Amended Credit Agreement shall be deemed to refer to the most recent consolidated statements furnished pursuant to clauses (a) and (b), respectively, of 
+
+Section 6.01
+
+ of the Amended Credit Agreement. 
+
+(e)    As of the Ninth Amendment Effective Date and after giving effect to this Amendment, each Loan Party has complied with and is in compliance with all of the covenants set forth in the Amended Credit Agreement, including those set forth in Article VI and Article VII of the Amended Credit Agreement.
+
+(f)    As of the Ninth Amendment Effective Date, both immediately before and after giving effect to this Amendment, no Default or Event of Default has occurred and is continuing or would result herefrom.
+
+6.    
+
+GOVERNING LAW
+
+. THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK (EXCEPT FOR THE CONFLICT OF LAWS RULES THEREOF, BUT INCLUDING GENERAL OBLIGATIONS LAW SECTIONS 5-1401 AND 5-1402).
+
+7.    
+
+Binding Effect
+
+. This Amendment shall be binding upon and inure to the benefit of each of the parties hereto and their respective successors and assigns.
+
+8.    
+
+Ratification and Reaffirmation
+
+.
+
+(a)    Each Loan Party hereby consents to the amendments and modifications to the Existing Credit Agreement effected hereby, and confirms and agrees that, notwithstanding the effectiveness of this Amendment, each Loan Document to which such Loan Party is a party is, and the obligations of such Loan Party contained in the Existing Credit Agreement, as amended and modified hereby, or in any other Loan Documents to which it is a party are, and shall continue to be, in full force and effect and are hereby ratified and confirmed in all respects, in each case as amended and modified by this Amendment. Without limiting the generality of the foregoing, the execution of this Amendment shall not constitute a novation.
+
+(b)    Each Loan Party hereby agrees and confirms that the Secured Obligations continue to be secured and guaranteed under and in accordance with the existing Loan Documents to which such Loan Party is a party, together with all other instruments and documents executed and delivered by such Loan Party as security for the Secured Obligations, and each such Loan Party hereby grants and re-grants to the Administrative Agent, for the ratable benefit of the Credit Parties, a security interest in all of such Loan Party’s right, title and interest in and to the Collateral (as defined in the Security Agreement), whether now owned or hereafter 
+
+6
+
+acquired by such Loan Party, wherever located, and whether now or hereafter existing or arising, as security for the payment or performance, as the case may be, in full of the Secured Obligations. 
+
+(c)    Each Guarantor agrees that the Facility Guaranty (as defined in the Existing Credit Agreement) remains in full force and effect, and each Guarantor reaffirms the continued validity of, and ratifies, such Facility Guaranty, and agrees and confirms that its guarantee of the “Guaranteed Obligations” (as defined in the Existing Credit Agreement, and as amended by this Amendment) remains in full force and effect. 
+
+(d)    To the extent such Loan Party is named as a debtor in any UCC financing statement in favor of the Administrative Agent (collectively, the “
+
+Existing UCC Financing Statements
+
+”), such Loan Party hereby ratifies its prior authorization for the Administrative Agent to have filed such Existing UCC Financing Statement naming such Loan Party as debtor.  
+
+9.    
+
+Acknowledgement
+
+.
+
+(a)    The Loan Parties hereby reaffirm, acknowledge and agree that the Administrative Agent is entitled to engage and retain (directly or indirectly) one or more consultants or advisors from time to time in connection with the performance of its duties and obligations under the Loan Documents (including, at any time on or following the Ninth Amendment Effective Date), and the Loan Parties shall and shall cause its Subsidiaries to cooperate with such advisors and consultants in performing the scope of their respectful engagements.
+
+(b)    Without limiting the Administrative Agent’s rights to implement other Reserves in accordance with the Credit Agreement, the Loan Parties specifically acknowledge and agree that the Administrative Agent may from time to time, in its Permitted Discretion, implement Availability Reserves to reflect claims and liabilities (including costs and expenses) that may need to be satisfied in connection with the realization upon the Collateral (including all such claims and liabilities (including costs and expenses) that may be incurred in connection with any insolvency or restructuring proceeding).
+
+(c)    Each of the Administrative Agent and Lenders hereby acknowledges receipt of the 2L Amendment, and hereby consents and agrees to the amendments and modifications of the Subordinated Term Loan Agreement made pursuant thereto.
+
+10.    
+
+Reference to and Effect on the Credit Agreement and the Loan Documents
+
+. 
+
+(a)    On and after the Ninth Amendment Effective Date, each reference in the Existing Credit Agreement to “this Agreement”, “hereunder”, “hereof” or words of like import referring to the Credit Agreement, and each reference in the Notes and each of the other Loan Documents to “the Credit Agreement”, “thereunder”, “thereof” or words of like import referring to the Credit Agreement, shall mean and be a reference to the Amended Credit Agreement.
+
+(b)    The Existing Credit Agreement and each of the other Loan Documents, as specifically amended and modified by this Amendment, are and shall continue to be in full force and effect and are hereby in all respects ratified and confirmed. 
+
+(c)    The execution, delivery and effectiveness of this Amendment shall not, except as expressly provided herein, operate as a waiver or novation of any right, power or remedy of any Lender, any L/C Issuer, any Swing Line Lender, the Collateral Agent or the Administrative Agent under any of the Loan Documents, nor constitute a waiver or novation of any provision of any of the Loan Documents.
+
+7
+
+(d)    The Administrative Agent, the Lenders and the Loan Parties agree that this Amendment shall be a Loan Document.
+
+11.    
+
+Waiver, Modification, Etc
+
+.
+
+ No provision or term of this Amendment may be modified, altered, waived, discharged or terminated orally, but only by an instrument in writing executed by the party against whom such modification, alteration, waiver, discharge or termination is sought to be enforced.
+
+12.    
+
+Headings
+
+. The headings listed herein are for convenience only and do not constitute matters to be construed in interpreting this Amendment.
+
+13.    
+
+Counterparts
+
+. This Amendment may be executed in counterparts (and by different parties hereto on different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract, and shall become effective as to each party hereto. Delivery of an executed counterpart of a signature page of this Amendment by facsimile or other electronic imaging means (
+
+e.g.
+
+, via electronic mail in .pdf form) shall be effective as delivery of a manually executed counterpart of this Amendment. The words “execution,” “signed,” “signature,” “delivery,” and words of like import in or relating to this Amendment and/or any document to be signed in connection with this Amendment and the transactions contemplated hereby shall be deemed to include Electronic Signatures, deliveries or the keeping of records in electronic form, each of which shall be of the same legal effect, validity and enforceability as a manually executed signature, physical delivery thereof or the use of a paper-based recordkeeping system, as the case may be.
+
+14.    
+
+Further Assurances
+
+. Each of the parties to this Amendment agrees that at any time and from time to time upon the written request of any other party, it will execute and deliver such further documents and do such further acts and things as such other party may reasonably request in order to effect the purposes of this Amendment.
+
+15.    
+
+Release
+
+. In consideration of the agreements of the Administrative Agent and the Lenders contained herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, each Loan Party, on behalf of itself and its successors, assigns, and other legal representatives (each Loan Party and all such other Persons being hereinafter referred to collectively as the “
+
+Releasors
+
+” and individually as a “
+
+Releasor
+
+”), hereby absolutely, unconditionally and irrevocably releases, remises and forever discharges the Administrative Agent and the Lenders, and their successors and assigns, and their present and former shareholders, affiliates, subsidiaries, divisions, predecessors, directors, officers, attorneys, consultants, advisors, employees, agents and other representatives (the Administrative Agent and each other Lender and all such other Persons being hereinafter referred to collectively as the “
+
+Releasees
+
+” and individually as a “
+
+Releasee
+
+”), of and from all demands, actions, causes of action, suits, controversies, reckonings, damages and any and all other claims, counterclaims, defenses, rights of set-off, demands and liabilities whatsoever (individually, a “
+
+Claim
+
+” and collectively, “
+
+Claims
+
+”) of every name and nature, known or unknown, suspected or unsuspected, both at law and in equity, which any Releasor may now own, hold, have or claim to have against the Releasees or any of them for, upon, or by reason of any circumstance, action, cause or thing whatsoever which arises at any time on or prior to the day and date of this Amendment, in any way related to or in connection with the Existing Credit Agreement, Amended Credit Agreement or any of the other Loan Documents or transactions thereunder or related thereto. Each Loan Party understands, acknowledges and agrees that the release set forth above may be pleaded as a full and complete defense and may be used as a basis for an injunction against any action, suit or other proceeding which may be instituted, prosecuted or attempted in breach of the provisions of such release. Each Loan Party agrees that no fact, event, circumstance, evidence or transaction which could now be asserted or which may hereafter be discovered shall affect in any manner the final, absolute and unconditional nature of the release set forth above.
+
+8
+
+[REMAINDER OF THIS PAGE INTENTIONALLY LEFT BLANK]
+
+9
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed and delivered by their authorized officers as of the day and year first above written. 
+
+BANK OF AMERICA, N.A.
+
+, as Administrative Agent
+
+By:    /s/ L. Daniel Menendez
+
+    Name: L. Daniel Menendez
+
+    Title: Vice President
+
+Barnes & Noble Education, Inc.
+
+Ninth
+
+ 
+
+Amendment to Credit Agreement
+
+Signature Page
+
+BANK OF AMERICA, N.A.
+
+, as a Revolving Lender and as the Swing Line Lender
+
+By:    /s/ L. Daniel Menendez
+
+    Name: L. Daniel Menendez
+
+    Title: Vice President
+
+Barnes & Noble Education, Inc.
+
+Ninth
+
+ 
+
+Amendment to Credit Agreement
+
+Signature Page
+
+JPMORGAN CHASE BANK, N.A.
+
+, as a Revolving Lender
+
+By:    /s/ Hai Nguyen
+
+    Name: Hai Nguyen
+
+    Title: Authorized Officer
+
+Barnes & Noble Education, Inc.
+
+Ninth
+
+ 
+
+Amendment to Credit Agreement
+
+Signature Page
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION
+
+, as a Revolving Lender
+
+By:    /s/ Katelyn Murray
+
+    Name: Katelyn Murray
+
+    Title: Authorized Signatory
+
+Barnes & Noble Education, Inc.
+
+Ninth
+
+ 
+
+Amendment to Credit Agreement
+
+Signature Page
+
+ 
+
+TRUIST BANK, as successor by merger to SUNTRUST BANK
+
+, as a Revolving Lender
+
+By:    /s/ Mark Bohntinsky
+
+    Name: Mark Bohntinsky
+
+    Title: Managing Director
+
+Barnes & Noble Education, Inc.
+
+Ninth
+
+ 
+
+Amendment to Credit Agreement
+
+Signature Page
+
+CITIZENS BANK, N.A.
+
+,
+
+ 
+
+as a Revolving Lender
+
+By:    /s/ Monirah J. Masud
+
+    Name: Monirah J. Masud
+
+    Title: Senior Vice President
+
+Barnes & Noble Education, Inc.
+
+Ninth
+
+ 
+
+Amendment to Credit Agreement
+
+Signature Page
+
+REGIONS BANK
+
+, as a Revolving Lender
+
+By:    /s/ Bruce Kasper
+
+    Name: Bruce Kasper
+
+    Title: Managing Director
+
+Barnes & Noble Education, Inc.
+
+Ninth
+
+ 
+
+Amendment to Credit Agreement
+
+Signature Page
+
+CAPITAL ONE, NATIONAL ASSOCIATION, 
+
+as successor to CAPITAL ONE BUSINESS CREDIT CORP., 
+
+as a Revolving Lender
+
+By:    /s/Robert Johnson
+
+Name: Robert Johnson
+
+Title: Duly Authorized Signatory
+
+Barnes & Noble Education, Inc.
+
+Ninth
+
+ 
+
+Amendment to Credit Agreement
+
+Signature Page
+
+PNC BANK, NATIONAL ASSOCIATION
+
+, 
+
+as a Revolving Lender
+
+By:    /s/ Paul L. Starman
+
+Name: Paul L. Starman
+
+Title: Vice President
+
+Barnes & Noble Education, Inc.
+
+Ninth
+
+ 
+
+Amendment to Credit Agreement
+
+Signature Page
+
+HSBC BANK USA, NATIONAL ASSOCIATION
+
+, 
+
+as a Revolving Lender
+
+By:    /s/ Stephen Santini
+
+Name: Stephen Santini
+
+Title: Vice President
+
+Barnes & Noble Education, Inc.
+
+Ninth
+
+ 
+
+Amendment to Credit Agreement
+
+Signature Page
+
+LEAD BORROWER
+
+:
+
+BARNES & NOBLE EDUCATION, INC.
+
+, a Delaware corporation
+
+By: /s/ Michael P. Huseby
+
+Name:     Michael P. Huseby
+
+Title:     Chief Executive Officer    
+
+Barnes & Noble Education, Inc.
+
+Ninth Amendment to Credit Agreement
+
+Signature Page
+
+BORROWERS
+
+: 
+
+B&N EDUCATION, LLC
+
+, a Delaware limited liability company 
+
+BARNES & NOBLE COLLEGE BOOKSELLERS, LLC
+
+, a Delaware limited liability company
+
+BNED DIGITAL HOLDINGS, LLC
+
+, a Delaware limited liability company
+
+BNED LOUDCLOUD, LLC
+
+, a Delaware limited liability company
+
+BNED MBS HOLDINGS, LLC
+
+, a Delaware limited liability company (f/k/a Morocco Holdings, LLC)
+
+MBS AUTOMATION LLC
+
+, a Delaware limited liability company
+
+MBS DIRECT, LLC
+
+, a Delaware limited liability company
+
+MBS INTERNET, LL
+
+C, a Delaware limited liability company
+
+MBS SERVICE COMPANY LLC
+
+, a Delaware limited liability company
+
+MBS TEXTBOOK EXCHANGE, LLC
+
+, a Delaware limited liability company
+
+TEXTBOOKCENTER LLC
+
+, a Delaware limited liability company
+
+ 
+
+TXTB.COM, LLC
+
+, a Delaware limited liability company
+
+By: /s/ Michael P. Huseby
+
+Name:     Michael P. Huseby
+
+Title:     Chief Executive Officer    
+
+    
+
+    
+
+    
+
+Barnes & Noble Education, Inc.
+
+Ninth Amendment to Credit Agreement
+
+Signature Page
+
+ANNEX I
+
+Approved Budget
+
+[
+
+On file with the Administrative Agent
+
+]

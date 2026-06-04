@@ -1,15 +1,16 @@
 import { NextRequest, NextResponse } from "next/server"
 import { codefPost, rsaEncrypt } from "@/lib/codef-client"
 import { getSession, saveSession } from "@/lib/session-store"
+import { saveRegisteredUser } from "@/lib/db/registered-user"
 
 export async function POST(req: NextRequest) {
   try {
     const { sessionId, id, pw, email } = await req.json()
-    const session = getSession(sessionId)
+    const session = await getSession(sessionId)
     if (!session) return NextResponse.json({ error: "세션 만료." }, { status: 404 })
     if (!id || !pw || !email) return NextResponse.json({ error: "모든 항목을 입력해주세요." }, { status: 400 })
 
-    saveSession(sessionId, { finalId: id, finalPw: pw, finalEmail: email })
+    await saveSession(sessionId, { finalId: id, finalPw: pw, finalEmail: email })
 
     const params = {
       ...session.baseParams,
@@ -25,7 +26,7 @@ export async function POST(req: NextRequest) {
     const extraInfo = result?.data?.extraInfo || {}
 
     if (extraInfo.reqEmailAuthNo !== undefined || code === "CF-03002") {
-      saveSession(sessionId, {
+      await saveSession(sessionId, {
         twoWayInfo: {
           jobIndex: result?.data?.jobIndex ?? session.twoWayInfo?.jobIndex,
           threadIndex: result?.data?.threadIndex ?? session.twoWayInfo?.threadIndex,
@@ -38,7 +39,8 @@ export async function POST(req: NextRequest) {
     }
 
     if (code === "CF-00000") {
-      saveSession(sessionId, { step: "done" })
+      await saveSession(sessionId, { step: "done" })
+      await saveRegisteredUser(session.baseParams.phoneNo as string, session.baseParams.birthDate as string, id, pw)
       return NextResponse.json({ status: "registered", sessionId })
     }
 

@@ -1,0 +1,359 @@
+EX-10.3
+
+3
+
+ex103firstamendmenttorevol.htm
+
+EXHIBIT 10.3
+
+Document
+
+EXHIBIT 10.3
+
+Execution Version
+
+FIRST AMENDMENT
+
+FIRST AMENDMENT, dated as of February 16, 2024 (this “
+
+Amendment
+
+”), to the Revolving Credit and Guaranty Agreement, dated as of June 30, 2023 (as amended, supplemented or otherwise modified from time to time prior to the date hereof, the “
+
+Credit Agreement
+
+”), among (i) FIRST SOLAR, INC., a Delaware corporation (the “
+
+Borrower
+
+”), (ii) the Guarantors from time to time party thereto, (iii) the several banks and other financial institutions or entities from time to time parties thereto (the “
+
+Lenders
+
+”), and (iv) JPMORGAN CHASE BANK, N.A., as Administrative Agent for the Lenders thereunder (in such capacity, the “
+
+Administrative Agent
+
+”).
+
+W I T N E S S E T H:
+
+WHEREAS, the Borrower, the Lenders and the Administrative Agent are parties to the Credit Agreement; 
+
+WHEREAS, the Borrower has requested that the Lenders amend the Credit Agreement as set forth herein; and
+
+WHEREAS, the Lenders party hereto, constituting the Required Lenders, and the Administrative Agent are willing to agree to such amendments to the Credit Agreement, subject to the terms and conditions set forth herein;
+
+NOW, THEREFORE, in consideration of the premises and mutual covenants contained herein, the Borrower, the Lenders party hereto and the Administrative Agent hereby agree as follows:
+
+SECTION 1.
+
+Defined Terms
+
+. Terms defined in the Credit Agreement and used herein shall have the meanings given to them in the Credit Agreement. 
+
+SECTION 2.
+
+Amendments to the Credit Agreement
+
+. Effective as of the First Amendment Effective Date (as defined below):
+
+(a)
+
+A new Section 1.09 is added to the Credit Agreement, as follows: 
+
+“Section 1.09 
+
+Foreign Currency Calculations
+
+. For purposes of any determination under Sections 6.02, 6.03, 6.05, 6.06, 6.07 and 6.08, all amounts in a currency other than Dollars shall be translated into Dollars at the exchange rates in effect on the relevant date of such determination (determined by the Borrower in good faith by reference to customary indices), 
+
+provided
+
+ that no Default or Event of Default shall arise as a result of any limitation set forth in Dollars in such Sections being exceeded solely as a result of changes in currency exchange rates from those rates applicable at the time the relevant Indebtedness, Liens or other action were initially consummated in reliance on the exceptions under those Sections.” 
+
+(b)
+
+Section 6.02 of the Credit Agreement is hereby amended by:
+
+(i) Deleting the word “and” at the end of clause (n);
+
+(ii) Replacing the period at the end of clause (o) with the words “; and”; 
+
+(iii) Adding a new clause (p) at the end thereof, reading as follows:
+
+2
+
+“(p) other Indebtedness of the Borrower or any Subsidiary in respect of working capital facilities, line of credit facilities or similar operating facilities (including letter of credit facilities, short-term loan facilities, trade payable facilities, trade finance, trade receivable facilities, export credit facilities, factoring facilities and buyer’s or supplier’s credit financing) in an aggregate principal amount at any time outstanding not exceeding an amount equal to $250,000,000, provided that (i) after giving effect to such incurrence on a Pro Forma Basis the Borrower is in compliance with the Net Leverage Ratio set forth in Section 6.01(a) (giving effect to any Leverage Ratio Increase Election then in effect or to occur in the case of an incurrence to fund a Material Acquisition) and (ii) both immediately prior to and after giving effect on a Pro Forma Basis, no Default or Event of Default shall exist or would result therefrom (it being understood and agreed that Indebtedness of FS India Solar Ventures Private Limited that was incurred prior to the First Amendment Effective Date under Section 6.02(k) and that is set forth on Schedule 6.02P shall be deemed to be incurred and outstanding under this clause (p) from and after the First Amendment Effective Date).”
+
+(c)
+
+A new Schedule 6.02P is added to the Credit Agreement in the form attached hereto as Exhibit A.
+
+SECTION 3.
+
+Representation and Warranties
+
+. To induce the Administrative Agent to enter into this Amendment, the Borrower hereby represents and warrants to the Administrative Agent and the Lenders on the First Amendment Effective Date that: 
+
+(a)
+
+Corporate Power; Authorization; Enforceable Obligations
+
+. 
+
+(i) The Borrower has the corporate power and authority, and the legal right, to make and deliver this Amendment and to perform the Credit Agreement, as amended by this Amendment and each other Loan Document to which the Borrower is party, and has taken all necessary corporate action to authorize the execution, delivery and performance of this Amendment and the performance of the Credit Agreement, as so amended, and each other Loan Document to which it is a party.
+
+(ii) No consent or authorization of, filing with, or notice to or other act by or in respect of, any Governmental Authority or any other Person is required with respect to the Borrower or any of its Subsidiaries in connection with the execution and delivery of this Amendment or with the performance, validity or enforceability of the Credit Agreement, as amended by this Amendment, and each other Loan Document to which the Borrower is party.
+
+(iii) This Amendment has been duly executed and delivered on behalf of the Borrower.
+
+(iv) The Credit Agreement, as amended by this Amendment, and each other Loan Document to which the Borrower is a party, constitutes a legal, valid and binding obligation of the Borrower enforceable against the Borrower in accordance with its terms, subject to the effects of bankruptcy, examination, insolvency, fraudulent conveyance, reorganization, moratorium and other similar laws relating to or affecting creditors’ rights generally, general equitable principles (whether considered in a proceeding in equity or at law) and an implied covenant of good faith and fair dealing.
+
+3
+
+(b) 
+
+Representations and Warranties
+
+. The representations and warranties made by the Borrower in or pursuant to the Loan Documents (including this Amendment) are true and correct in all material respects (except for representations and warranties qualified as to “materiality” and “Material Adverse Effect”, which shall be true and correct in all respects) as if made on and as of such date (it being understood and agreed that any such representation or warranty (i) that relates solely to an earlier date is true and correct as of such earlier date and (ii) is true and correct in all respects if it is qualified by a materiality standard), and no Default or Event of Default has occurred and is continuing.
+
+SECTION 4. 
+
+Conditions to Effectiveness
+
+ . This Amendment shall become effective on the date (the “
+
+First Amendment Effective Date
+
+”) on which (a) the Borrower, the Administrative Agent and the Required Lenders shall have executed and delivered to the Administrative Agent this Amendment and (b) all fees and expenses payable to the Administrative Agent and the Lenders on or prior to the First Amendment Effective Date shall have been paid.
+
+SECTION 5. 
+
+Acknowledgments and Confirmations; Liens Unimpaired
+
+. 
+
+(a) The Borrower hereby expressly acknowledges the terms of this Amendment and reaffirms, as of the date hereof, (i) the covenants and agreements contained in the Credit Agreement and each other Loan Document to which it is a party, including, in each case, such covenants and agreements as in effect immediately after giving effect to the First Amendment Effective Date and the transactions contemplated hereby and (ii) its prior grant of Liens on the Collateral to secure the Obligations owed or otherwise guaranteed by it pursuant to the Collateral Documents, with all such Liens continuing in full force and effect after giving effect to this Amendment; 
+
+(b) The Borrower confirms that (i) its obligations under the Credit Agreement to which it is a party are not discharged or otherwise affected by this Amendment and shall accordingly, subject to any limitations set forth in the Credit Agreement, continue in full force and effect and (ii) its obligations under, and the Liens granted by it in and pursuant to, the Collateral Documents are not discharged or otherwise affected by this Amendment and shall accordingly remain in full force and effect.
+
+(c) After giving effect to the provisions of this Amendment, neither this Amendment or the modification of the Credit Agreement effected pursuant to this Amendment, nor the execution, delivery, performance or effectiveness of this Amendment: 
+
+(i) impairs the validity, effectiveness or priority of the Liens granted pursuant to any Collateral Document, and such Liens continue unimpaired with the same priority applicable to such Liens immediately prior to giving effect to the transactions contemplated by this Amendment to secure repayment of all Obligations, whether heretofore or hereafter incurred; or 
+
+(ii) requires that any new filings required to be made under any Loan Document be made or other action required to be taken under any Loan Document be taken to perfect or to maintain the perfection of such Liens. 
+
+SECTION 6. 
+
+Payment of Expenses
+
+. Subject to Section 10.03 of the Credit Agreement, the Borrower agrees to pay and reimburse the Administrative Agent for all its reasonable out-of-pocket costs and expenses incurred in connection with the preparation and delivery of this Amendment, including, without limitation, the reasonable fees and disbursements of counsel to the Administrative Agent. 
+
+SECTION 7. 
+
+No Other Amendments; Confirmation
+
+ . Except as expressly amended, modified and supplemented hereby, the provisions of the Credit Agreement and the other Loan Documents are and shall remain in full force and effect. 
+
+4
+
+SECTION 8. 
+
+Governing Law; Counterparts
+
+. 
+
+(a) This Amendment and the rights and obligations of the parties hereto shall be governed by, and construed and interpreted in accordance with, the laws of the State of New York. The provisions of Sections 10.09 and 10.10 of the Credit Agreement are incorporated herein, 
+
+mutatis mutandis
+
+. 
+
+(b) This Amendment may be executed by one or more of the parties to this Amendment on any number of separate counterparts (including by facsimile transmission or in electronic (i.e., “pdf” or “tif”) format), and all of said counterparts taken together shall be deemed to constitute one and the same instrument. The words “delivery”, “execute,” “execution,” “signed,” “signature,” and words of like import in this Amendment and any document executed in connection herewith shall be deemed to include electronic signatures or the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature, physical delivery thereof or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided for in any applicable law, including the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act; provided that notwithstanding anything contained herein to the contrary neither the Administrative Agent nor any Lender is under any obligation to agree to accept electronic signatures in any form or in any format unless expressly agreed to by the Administrative Agent or such Lender pursuant to procedures approved by it and provided further without limiting the foregoing, upon the request of any party, any electronic signature shall be promptly followed by such manually executed counterparts. 
+
+SECTION 9. 
+
+Miscellaneous
+
+. 
+
+(a) Upon and after the First Amendment Effective Date, each reference in the Credit Agreement to “this Agreement”, “hereunder”, “hereof” or words of like import referring to the Credit Agreement, and each reference in the other Loan Documents to “the Credit Agreement”, “thereunder”, “thereof” or words of like import referring to the Credit Agreement, shall mean and be a reference to the Credit Agreement as modified hereby. This Amendment shall constitute a Loan Document. 
+
+(b) The execution, delivery and effectiveness of this Amendment shall not, except as expressly provided herein, operate as a waiver of any right, power or remedy of any Lender or the Administrative Agent under any of the Loan Documents, nor, except as expressly provided herein, constitute a waiver or amendment of any provision of any of the Loan Documents. It is the intent of the parties hereto, and the parties hereto agree, that this Amendment shall not constitute a novation of the Credit Agreement, any other Loan Document or any of the rights, obligations or liabilities thereunder.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed and delivered by their respective proper and duly authorized officers as of the day and year first above written.
+
+FIRST SOLAR, INC.
+
+By: 
+
+/s/ Richard Romero 
+
+     Name: Richard Romero 
+
+Title: Vice President, Treasury & Project Finance
+
+Signature Page to Amendment to Credit Agreement
+
+JPMORGAN CHASE BANK, N.A., as Administrative Agent and individually as a Lender
+
+By: 
+
+/s/ Michael A. Harvey 
+
+ Name: Michael A. Harvey 
+
+Title: Authorized Officer
+
+Signature Page to Amendment to Credit Agreement
+
+BANK OF AMERICA, N.A., as a Lender
+
+By: 
+
+/s/ Victor F. Cruz 
+
+ Name: Victor F. Cruz 
+
+Title: Director
+
+Signature Page to Amendment to Credit Agreement
+
+CITIBANK N.A.,
+
+as a Lender
+
+By: 
+
+/s/ Derrick Lenz 
+
+ Name: Derrick Lenz 
+
+Title: Director
+
+Signature Page to Amendment to Credit Agreement
+
+Credit Agricole Corporate and Investment Bank
+
+as a Lender
+
+By: 
+
+/s/ Andrew Sidford 
+
+ Name: Andrew Sidford 
+
+Title: Managing Director
+
+By: 
+
+/s/ Gordon Yip 
+
+ Name: Gordon Yip 
+
+Title: Director
+
+Signature Page to Amendment to Credit Agreement
+
+PNC BANK, NATIONAL ASSOCIATION,
+
+as a Lender
+
+By: 
+
+/s/ Garrett Galt 
+
+ Name: Garrett Galt 
+
+Title: Vice President
+
+Signature Page to Amendment to Credit Agreement
+
+HSBC Bank USA, N.A. ,
+
+as a Lender
+
+By: 
+
+/s/ Jessica Smith 
+
+ Name: Jessica Smith 
+
+Title: Director
+
+Signature Page to Amendment to Credit Agreement
+
+Goldman Sachs Bank USA
+
+as a Lender
+
+By: 
+
+/s/ Dan Martis 
+
+ Name: Dan Martis 
+
+Title: Authorized Signatory
+
+Signature Page to Amendment to Credit Agreement
+
+MUFG Bank, Ltd.
+
+as a Lender
+
+By: 
+
+/s/ Meng Zhang 
+
+ Name: Meng Zhang 
+
+Title: Vice President
+
+Signature Page to Amendment to Credit Agreement
+
+BNP Paribas, as a Lender
+
+By: 
+
+ /s/ Denis O Meara 
+
+ Name: Denis O Meara 
+
+Title: Managing Director
+
+By: 
+
+ /s/ Miko McGuire 
+
+ Name: Miko McGuire 
+
+Title: Vice President
+
+Signature Page to Amendment to Credit Agreement
+
+Standard Chartered Bank
+
+as a Lender
+
+By: 
+
+/s/ Kristopher Tracy 
+
+ Name: Kristopher Tracy 
+
+Title: Director, Financing Solutions
+
+Signature Page to Amendment to Credit Agreement
+
+TRUIST BANK, as a Lender
+
+By: 
+
+/s/ Troy R. Weaver 
+
+ Name: Troy R. Weaver 
+
+Title: Managing Director
+
+Signature Page to Amendment to Credit Agreement

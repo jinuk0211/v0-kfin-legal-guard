@@ -1,0 +1,2358 @@
+EX-10.3
+
+5
+
+ex10-3.htm
+
+ 
+
+ 
+
+Exhibit
+10.3
+
+ 
+
+THIRD
+MODIFICATION AND WAIVER
+
+TO
+
+SECOND
+AMENDED AND RESTATED LOAN AND SECURITY AGREEMENT
+
+ 
+
+THIS
+THIRD MODIFICATION TO SECOND AMENDED AND RESTATED LOAN AND SECURITY AGREEMENT 
+(this “
+Modification
+”)
+is entered into as of February 7, 2024 by and among STREAMLINE HEALTH SOLUTIONS, INC., a Delaware corporation (“
+Streamline
+”),
+STREAMLINE HEALTH, LLC, a Delaware limited liability company (f/k/a STREAMLINE HEALTH, INC., an Ohio corporation) (“
+Streamline
+Health
+”), STREAMLINE PAY & BENEFITS, LLC, a Delaware limited liability company (“
+Streamline Pay
+”), AVELEAD
+CONSULTING, LLC, a Georgia limited liability company (“
+Avelead Consulting
+”), STREAMLINE CONSULTING SOLUTIONS, LLC,
+a Delaware limited liability company (“
+Streamline Consulting
+” and, together with Streamline, Streamline Health, Streamline
+Pay, Avelead Consulting and any other Person who, from time to time, becomes a Borrower under the Loan Agreement (as defined below),
+collectively, the “
+Borrowers
+” and each individually, a “
+Borrower
+”) and WESTERN ALLIANCE BANK, an
+Arizona corporation (“
+Bank
+”).
+
+ 
+
+RECITALS
+
+ 
+
+A.
+Bank and Borrower have previously entered into that certain Second Amended and Restated Loan and Security Agreement dated as of August
+26, 2021 (as amended, restated, supplemented and otherwise modified from time to time, the “
+Loan Agreement
+”), pursuant
+to which Bank has made certain loans and financial accommodations available to Borrower.
+
+ 
+
+B.
+It has come to the attention of Bank that certain Events of Default have occurred and are continuing pursuant to Section 8.2(a) of the
+Loan Agreement due to the failure of the Borrower to maintain a Maximum Debt to ARR Ratio of not greater than 0.50 to 1.00 for the period
+ended January 31, 2024, in violation of Section 6.9(b) as in effect immediately prior to the date hereof (the “
+Specified Default
+”).
+
+ 
+
+C.
+Bank and Borrower now wish to waive the Specified Default and modify the Loan Agreement on the terms and conditions set forth herein.
+
+ 
+
+D.
+Borrower is entering into this Modification with the understanding and agreement that, except as specifically provided herein, none of
+Bank’s rights or remedies as set forth in the Loan Agreement or any other Loan Document is being waived or modified by the terms
+of this Modification.
+
+ 
+
+AGREEMENT
+
+ 
+
+NOW,
+THEREFORE, in consideration of the foregoing and the mutual covenants herein contained, and for other good and valuable consideration,
+the receipt and sufficiency of which are hereby acknowledged, the parties hereby agree as follows:
+
+ 
+
+1.
+
+MODIFICATIONS
+.
+
+ 
+
+(a)
+
+Additional Definitions
+. Section 1.1 of the Loan Agreement is hereby amended to add the following new definitions in the appropriate
+alphabetical order:
+
+ 
+
+““
+ARR
+Net Leverage Ratio
+” means, as of any date of determination (a) (i) the Obligations, 
+minus
+ (ii) Qualified Cash, divided
+by (b) Annualized Recurring Revenue.”
+
+ 
+
+““
+Third
+Modification Closing Date
+” means February 7, 2024.”
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+““
+Qualified
+Cash
+” means, as of any date of determination, the aggregate amount of Borrower’s cash maintained with Bank that is in
+excess of Two Million Dollars ($2,000,000).”
+
+ 
+
+(b)
+
+Minimum Cash
+. Section 6.9(a) of the Loan Agreement is hereby deleted in its entirety and the following substituted therefor:
+
+ 
+
+“(a)
+
+[Intentionally omitted]
+.”
+
+ 
+
+(c)
+
+Maximum ARR Net Leverage Ratio
+. Section 6.9(b) of the Loan Agreement is hereby deleted in its entirety and the following substituted
+therefor:
+
+ 
+
+“(b)
+
+Maximum ARR Net Leverage Ratio
+. Borrowers’ ARR Net Leverage Ratio, measured on a quarterly basis as of the last day of each
+fiscal quarter, shall not be greater than the amount set forth under the heading “Maximum ARR Net Leverage Ratio” as of,
+and for each of the dates appearing adjacent to such “Maximum ARR Net Leverage Ratio.”
+
+ 
+
+ 
+
+ 
+
+Quarter
+ Ending
+
+ 
+ 
+
+ 
+
+Maximum
+ ARR Net Leverage Ratio
+
+ 
+
+ 
+
+April
+ 30, 2024
+
+ 
+ 
+
+ 
+
+0.50
+ to 1.00
+
+ 
+
+ 
+
+July
+ 31, 2024
+
+ 
+ 
+
+ 
+
+0.45
+ to 1.00
+
+ 
+
+ 
+
+October
+ 31, 2024
+
+ 
+ 
+
+ 
+
+0.40
+ to 1.00
+
+ 
+
+ 
+
+January
+ 31, 2025
+
+ 
+ 
+
+ 
+
+0.35
+ to 1.00
+
+ 
+
+ 
+
+(d)
+
+Maximum Debt to Adjusted EBITDA Ratio
+. Section 6.9(c) of the Loan Agreement is hereby deleted in its entirety and the following
+substituted therefor:
+
+ 
+
+“(c)
+
+Maximum Debt to Adjusted EBITDA Ratio.
+ Commencing with the quarter ending April 30, 2025, Borrowers’ Maximum Debt to Adjusted
+EBITDA Ratio, measured on a quarterly basis as of the last day of each fiscal quarter for the trailing four (4) quarter period then ended,
+shall not be greater than the amount set forth under the heading “Maximum Debt to Adjusted EBITDA Ratio” as of, and for each
+of the dates appearing adjacent to such “Maximum Debt to Adjusted EBITDA Ratio”.
+
+ 
+
+ 
+
+ 
+
+Quarter
+ Ending
+
+ 
+ 
+
+ 
+
+Maximum
+ Debt to Adjusted EBITDA Ratio
+
+ 
+
+ 
+
+April
+ 30, 2025
+
+ 
+ 
+
+ 
+
+3.50
+ to 1.00
+
+ 
+
+ 
+
+July
+ 31, 2025
+
+ 
+ 
+
+ 
+
+3.00
+ to 1.00
+
+ 
+
+ 
+
+October
+ 31, 2025 
+
+ 
+ 
+
+ 
+
+2.50
+ to 1.00
+
+ 
+
+ 
+
+January
+ 31, 2025 and on the last day of each quarter thereafter
+
+ 
+ 
+
+ 
+
+2.00
+ to 1.00
+
+ 
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+(e)
+
+Fixed Charge Coverage Ratio
+. Section 6.9(d) of the Loan Agreement is hereby deleted in its entirety and the following substituted
+therefor:
+
+ 
+
+“(d)
+
+Fixed Charge Coverage Ratio
+. Commencing with the quarter ending April 30, 2025, Borrowers shall maintain a Fixed Charge Coverage
+Ratio of not less than 1.20 to 1.00, measured on a quarterly basis as of the last day of each fiscal quarter for the trailing four (4)
+quarter period then ended.”
+
+ 
+
+(f)
+
+Minimum Adjusted EBITDA
+. Section 6.9 of the Loan Agreement is hereby amended to add the following new subsection (e) at the end
+thereof:
+
+ 
+
+“(e)
+
+Minimum Adjusted EBITDA
+. Commencing with the quarter ending January 31, 2024, Borrowers shall maintain Adjusted EBITDA, measured
+on a quarterly basis as of the last day of each fiscal quarter, in an amount not less than the amounts (or, in the case of amounts set
+forth in parentheses, no worse than the amounts) set forth under the heading “Minimum Adjusted EBITDA” as of, and for each
+of the dates appearing adjacent to such “Minimum Adjusted EBITDA”.
+
+ 
+
+ 
+
+ 
+
+Quarter
+ Ending
+
+ 
+ 
+
+ 
+
+Minimum
+ Adjusted EBITDA
+
+ 
+
+ 
+
+January
+ 31, 2024
+
+ 
+ 
+
+ 
+
+($5,750,000)
+
+ 
+
+ 
+
+April
+ 30, 2024
+
+ 
+ 
+
+ 
+
+($4,560,000)
+
+ 
+
+ 
+
+July
+ 31, 2024
+
+ 
+ 
+
+ 
+
+($2,960,000)
+
+ 
+
+ 
+
+October
+ 31, 2024
+
+ 
+ 
+
+ 
+
+($1,500,000)
+
+ 
+
+ 
+
+January
+ 31, 2025
+
+ 
+ 
+
+ 
+
+$430,000
+
+ 
+
+ 
+
+(g)
+
+Compliance Certificate
+. 
+Exhibit B
+ to the Loan Agreement is hereby deleted in its entirety and replaced with 
+Exhibit
+B
+ attached hereto.
+
+ 
+
+2.
+
+Waiver of specified Defaults
+
+. Bank hereby waives the Specified Default. This waiver
+shall be effective only for the specific defaults comprising the Specified Default, and in no event shall this waiver be deemed to be
+a waiver of enforcement of any of Bank’s rights with respect to any other defaults or Events of Default now existing or hereafter
+arising. Nothing contained in this Modification nor any communications among Borrowers and Bank shall be a waiver of any rights or remedies
+Bank has or may have against Borrowers except as specifically provided herein. Except as specifically provided herein, Bank hereby reserves
+and preserves all of its rights and remedies against Borrowers under the Loan Agreement and the other Loan Documents.
+
+ 
+
+3.
+
+NO DEFENSES OF BORROWER/GENERAL 
+Release
+
+. Each Borrower agrees that, as of this
+date, it has no defenses against the obligations to pay any amounts under the Indebtedness. Each Borrower acknowledges that Bank would
+not enter into this Modification without Borrower’s assurance that it has no claims against Bank or any of Bank’s officers,
+directors, employees or agents. Except for any claims or obligations arising after the date of this Modification, each Borrower releases
+Bank, and each of Bank’s officers, directors and employees from any known or unknown claims that such Borrower now has against
+Bank of any nature, including any claims that such Borrower, its successors, counsel, and advisors may in the future discover they would
+have now had if they had known facts not now known to them, whether founded in contract, in tort or pursuant to any other theory of liability,
+including but not limited to any claims arising out of or related to the Loan Agreement or the transactions contemplated thereby. Each
+Borrower acknowledges and agrees that they have been informed by their attorneys and advisors of, and are familiar with, and do hereby
+expressly waive, the provisions of Section 1542 of the California Civil Code, and any similar statute, code, law, or regulation of any
+state or the United States, to the full extent that they may waive such rights and benefits. Civil Code section 1542 provides:
+
+ 
+
+A
+GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR OR A BORROWER DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE
+TIME OF EXECUTING THE RELEASE AND THAT, IF KNOWN BY HIM OR HER MUST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR OR
+RELEASED PARTY.
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+The
+provisions, waivers and releases set forth in this section are binding upon each Borrower and its shareholders, agents, employees, assigns
+and successors in interest. The provisions, waivers and releases of this section shall inure to the benefit of Bank and its agents, employees,
+officers, directors, assigns and successors in interest. The provisions of this section shall survive payment in full of the Obligations,
+full performance of all the terms of this Modification and the Loan Agreement, and/or Bank’s actions to exercise any remedy available
+under the Loan Agreement or otherwise.
+
+ 
+
+4.
+
+CONTINUING VALIDITY
+. Borrowers understand and agree that in modifying the existing Indebtedness, Bank is relying upon Borrowers’
+representations and warranties set forth in this Modification and the reaffirmation of Borrowers’ performance obligations under
+the Loan Documents, subject to the modifications set forth herein. Except as expressly modified pursuant to this Modification, the terms
+of the Loan Documents remain unchanged and in full force and effect. Bank’s agreement to modifications to the existing Indebtedness
+pursuant to this Modification in no way shall obligate Bank to make any future modifications to the Indebtedness. Nothing in this Modification
+shall constitute a satisfaction of the Indebtedness. It is the intention of Bank and Borrowers to retain as liable parties all makers
+and endorsers of Loan Documents, unless the party is expressly released by Bank in writing. No maker, endorser, or guarantor will be
+released by virtue of this Modification. The terms of this paragraph apply not only to this Modification, but also to any subsequent
+modification agreements.
+
+ 
+
+5.
+
+AMENDMENT FEE
+. In consideration of the agreements
+set forth herein, Borrowers hereby agree to pay to Bank an amendment fee in the amount of $10,000 (the “
+Amendment Fee
+”),
+which Amendment Fee shall be nonrefundable when paid and fully-earned, due and payable on the date of this Modification.
+
+ 
+
+6.
+
+Effectiveness of this Modification
+
+. This Modification, and the waivers provided
+for herein, shall become effective upon the satisfaction, as determined by Bank, of the following conditions.
+
+ 
+
+(a)
+
+Modification
+. Bank shall have received this Modification fully executed in a sufficient number of counterparts for distribution
+to all parties.
+
+ 
+
+(b)
+
+Amendment Fee
+. Bank shall have received the Amendment Fee by wire transfer in immediately available funds, by autodebit to any
+of Borrower’s bank accounts maintained at Bank or charged as a Credit Extension.
+
+ 
+
+(c)
+
+Equity Raise
+. Bank shall have received evidence, in form and substance reasonably acceptable to Bank, that Borrower has received
+gross proceeds from an equity investment in borrower or from the raise of Subordinated Debt, in each case, in an amount equal to or greater
+than Four Million Dollars ($4,000,000).
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+(d)
+
+Representations and Warranties
+. The representations and warranties set forth herein and in the Loan Agreement are true and correct
+in all material respects (except for such representations and warranties qualified by materiality, which shall be true and correct in
+all respects).
+
+ 
+
+(e)
+
+Other Required Documentation.
+ All other documents and legal matters in connection with the transactions contemplated by this Modification
+shall have been delivered or executed or recorded, as required by Bank.
+
+ 
+
+Bank
+shall provide prompt written notice (e-mail to suffice) to Borrowers confirming the satisfaction of the conditions in this Section 6
+and the effectiveness of this Modification, which confirmation shall be binding on Bank.
+
+ 
+
+7.
+
+CHOICE OF LAW AND VENUE; JURY TRIAL WAIVER; REFERENCE PROVISION
+. This Modification constitutes a “Loan Document” as
+defined and set forth in the Loan Agreement, and is subject to Sections 11 and 12 of the Loan Agreement, which are incorporated by reference
+herein.
+
+ 
+
+8.
+
+NOTICE OF FINAL AGREEMENT
+. By signing this document each party represents and agrees that: (A) this written agreement represents
+the final agreement between the parties, (B) there are no unwritten oral agreements between the parties, and (C) this written agreement
+may not be contradicted by evidence of any prior, contemporaneous, or subsequent oral agreements or understandings of the parties.
+
+ 
+
+9.
+
+Counterparts; Facsimile Signatures
+
+. This Modification may be executed in any number
+of and by different parties hereto on separate counterparts, all of which, when so executed, shall be deemed an original, but all such
+counterparts shall constitute one and the same agreement. Any signature delivered by a party by facsimile or other similar form of electronic
+transmission shall be deemed to be an original signature hereto.
+
+ 
+
+10.
+
+Ratification
+
+. Borrowers hereby covenant and agree to comply with each and every
+term and condition set forth in the Loan Agreement, as amended hereby, and the other Loan Documents effective as of the date hereof,
+and hereby reaffirm their various obligations thereunder.
+
+ 
+
+11.
+
+Integration
+
+. This Modification, together with the Loan Agreement and the other
+Loan Documents, incorporates all negotiations of the parties hereto with respect to the subject matter hereof and is the final expression
+and agreement of the parties hereto with respect to the subject matter hereof.
+
+ 
+
+[Signature
+Page Follows]
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BORROWER
+:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+STREAMLINE HEALTH SOLUTIONS, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/
+s/ Bryant J. Reeves, III
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Bryant J. Reeves, III                      
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Interim Chief Financial Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+STREAMLINE HEALTH, LLC (F/K/A STREAMLINE HEALTH, INC.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Bryant J. Reeves, III
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Bryant J. Reeves, III
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title : 
+
+ 
+
+Treasurer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+STREAMLINE PAY & BENEFITS, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Bryant J. Reeves, III
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Bryant J. Reeves, III
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Treasurer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AVELEAD CONSULTING, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/
+s/ Bryant J. Reeves, III
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Bryant J. Reeves, III
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Treasurer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+STREAMLINE CONSULTING SOLUTIONS, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/
+s/ Bryant J. Reeves, III
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Bryant J. Reeves, III
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Treasurer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BANK
+:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WESTERN
+ALLIANCE BANK
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Blake Reid
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Blake Reid
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Senior Director
+
+ 
+
+ 
+
+[Signature Page to Third Modification and Waiver to 2nd A&R LSA]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exhibit
+b
+
+ 
+
+Compliance
+Certificate
+
+ 
+
+ 
+
+TO:
+
+ 
+
+WESTERN ALLIANCE BANK, an
+ Arizona corporation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FROM:
+
+ 
+
+Streamline Health Solutions, Inc., a Delaware corporation and Streamline
+ Health, Inc., an Ohio corporation, Streamline Pay & Benefits, LLC, a Delaware limited liability company, Avelead Consulting, LLC,
+ Streamline Consulting Solutions, LLC
+
+ 
+
+The
+undersigned authorized officer of Borrower hereby certifies that in accordance with the terms and conditions of the Amended and Restated
+Loan and Security Agreement between Borrower and Bank (the “Agreement”), (i) Borrower is in complete compliance for the period
+ending _______________ with all required covenants except as noted below and (ii) all representations and warranties of Borrower stated
+in the Agreement are true and correct as of the date hereof. Attached herewith are the required documents supporting the above certification.
+The Officer further certifies that these are prepared in accordance with Generally Accepted Accounting Principles (GAAP) and are consistently
+applied from one period to the next except as explained in an accompanying letter or footnotes.
+
+ 
+
+Please
+indicate compliance status by circling Yes/No under “Complies” column.
+
+ 
+
+ 
+
+ 
+
+Reporting Covenant
+
+ 
+
+ 
+
+ 
+
+Required
+
+ 
+
+ 
+
+ 
+
+Complies
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Annual financial statements (CPA Audited)
+
+ 
+
+ 
+
+ 
+
+FYE within 180 days
+
+ 
+
+ 
+
+ 
+
+Yes
+
+ 
+
+No
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Monthly financial statements and a Compliance Certificate
+
+ 
+
+ 
+
+ 
+
+Monthly within 30 days 
+
+ 
+
+ 
+
+ 
+
+Yes
+
+ 
+
+No
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10K and 10Q
+
+ 
+
+ 
+
+ 
+
+(as applicable)
+
+ 
+
+ 
+
+ 
+
+Yes
+
+ 
+
+No
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Annual operating budget, sales projections and operating plans approved
+ by board of directors
+
+ 
+
+ 
+
+ 
+
+Annually no later than 30 days prior to the beginning of each fiscal
+ year
+
+ 
+
+ 
+
+ 
+
+Yes
+
+ 
+
+No
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A/R & A/P Agings, Borrowing Base Certificate, Deferred Revenue
+ Schedule and Monthly Recurring Revenue Report
+
+ 
+
+ 
+
+ 
+
+Monthly within 30 days
+
+ 
+
+ 
+
+ 
+
+Yes
+
+ 
+
+No
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A/R Audit
+
+ 
+
+ 
+
+ 
+
+Initial and Annual
+
+ 
+
+ 
+
+ 
+
+Yes
+
+ 
+
+No
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Deposit balances with Bank
+
+ 
+
+ 
+
+ 
+
+$ ___________________
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Deposit balance outside Bank
+
+ 
+
+ 
+
+ 
+
+$ ___________________
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Financial
+ Covenant
+
+ 
+
+ 
+
+ 
+
+Required
+
+ 
+
+ 
+
+ 
+
+Actual
+
+ 
+
+ 
+
+ 
+
+Complies
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Maximum ARR Net Leverage Ratio
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a) January 31, 2024, 0.50 to 1.00, (b) April 30, 2024, 0.50 to 1.00,
+ (c) July 31, 2024, 0.45 to 1.00, (d) October 31, 2024, 0.40 to 1.00, and (e) January 31, 2024, 0.35 to 1.00
+
+ 
+
+ 
+
+ 
+
+___ to 1.00
+
+ 
+
+ 
+
+ 
+
+Yes
+
+ 
+
+ 
+
+ 
+
+No
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Maximum Debt to Adjusted EBITDA Ratio
+
+ 
+
+ 
+
+ 
+
+(a) April 30, 2025, 3.50 to 1.00, (b) July 31, 2025, 3.00 to 1.00,
+ (c) October 31, 2025, 2.50 to 1.00 and (d) January 31, 2025, and the last day of each quarter thereafter, 2.00 to 1.00
+
+ 
+
+ 
+
+ 
+
+___ to 1.00
+
+ 
+
+ 
+
+ 
+
+Yes
+
+ 
+
+ 
+
+ 
+
+No
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fixed Charge Coverage Ratio
+
+ 
+
+ 
+
+ 
+
+April 30, 2025, and the last date of each quarter thereafter, 1.20
+ to 1.00
+
+ 
+
+ 
+
+ 
+
+___ to 1.00
+
+ 
+
+ 
+
+ 
+
+Yes
+
+ 
+
+ 
+
+ 
+
+No
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Minimum Adjusted EBITDA
+
+ 
+
+ 
+
+ 
+
+(a) January 31, 2024, ($5,750,000), (b) April 30, 2024, ($4,560,000),
+ (c) July 31, 2024, ($2,960,000), (d) October 31, 2024, ($1,500,000) and (e) January 31, 2025, $430,000
+
+ 
+
+ 
+
+ 
+
+$_____
+
+ 
+
+ 
+
+ 
+
+Yes
+
+ 
+
+ 
+
+ 
+
+No
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Intellectual
+ Property Updates
+
+ 
+
+ 
+
+ 
+
+ 
+
+Attached as Exhibit
+ A is a listing of listing of any applications or registrations of intellectual property rights filed with the United States Patent
+ and Trademark Office, including the date of such filing and the registration or application numbers, if any, since the date of the
+ last such Compliance Certificate delivered to Bank.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Updates to
+ Schedules
+
+ 
+
+ 
+
+ 
+
+ 
+
+Attached as Exhibit
+ A are updated Schedules updating any information set forth in such Schedules since the date of the last such Compliance Certificate
+ delivered to Bank.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Comments Regarding Exceptions:
+ See Attached.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BANK
+ USE ONLY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Received by: __________________________________
+
+ 
+
+ 
+
+Sincerely,
+
+ 
+
+ 
+
+ 
+
+AUTHORIZED SIGNER
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date: ________________________________________
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+___________________________________________
+
+ 
+
+ 
+
+ 
+
+Verified: ____________________________________
+
+ 
+
+ 
+
+SIGNATURE
+
+ 
+
+ 
+
+ 
+
+AUTHORIZED SIGNER
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+___________________________________________
+
+ 
+
+ 
+
+ 
+
+Date: ________________________________________
+
+ 
+
+ 
+
+TITLE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+___________________________________________
+
+ 
+
+ 
+
+ 
+
+Compliance Status
+
+ 
+
+Yes No
+
+ 
+
+ 
+
+DATE

@@ -1,0 +1,1158 @@
+EX-10.2
+
+2
+
+ex10-2.htm
+
+ 
+
+ 
+
+Exhibit 10.2 
+
+ 
+
+Loan
+and Security Agreement
+
+ 
+
+THIS
+LOAN AND SECURITY AGREEMENT
+ (the “
+Agreement
+”), is entered into as of February 9, 2024, between 
+
+GB
+HRP, LLC
+
+, a Delaware limited liability company (the “
+Borrower
+”), with an address at 18 East 50
+th
+
+Street, New York, NY 10022, and 
+POINT DIGITAL FINANCE, INC.
+ a Delaware corporation (the “
+Lender
+”), with an
+address at 635 High Street, Palo Alto, CA 94301.
+
+ 
+
+The
+Borrower and the Lender, with the intent to be legally bound, agree as follows:
+
+ 
+
+1.
+
+Loan
+.
+ The Lender has made or may make one or more loans (“
+Loan
+”) to the Borrower subject to the terms and
+conditions and in reliance upon the representations and warranties of the Borrower set forth in this Agreement. The Loan shall be used
+for business purposes (and not for personal, family or household use) and, without limitation of the foregoing, proceeds of the Loan
+will be applied solely for the purpose of financing the purchase of Options under the MOSA (as such terms are hereafter defined). The
+Loan is evidenced by that certain Revolving Line of Credit Note dated of even date herewith by Borrower in favor of Lender, in the original
+principal amount of up to $10,000,000.00 (as amended, modified, supplemented, extended, restated or renewed from time to time, the “
+Note
+”),
+which Note sets forth, among other things, the interest rate, repayment terms and other provisions applicable to the Loan, the terms
+of which are incorporated into this Agreement by reference. In the event of any conflict or inconsistency between the terms of the Note
+and the terms of this Agreement, the terms of the Note shall control. The Loan governed by this Agreement shall include the Line of Credit
+specifically described below (and all advances made thereunder), and any additional lines of credit or term loans that the Lender has
+made or may, in its sole discretion, make to the Borrower in the future.
+
+ 
+
+1.1.
+
+Line of Credit
+. 
+The Loan governed by this Agreement is a committed revolving line of credit (the “
+Line of Credit
+”)
+under which the Borrower may request and the Lender, subject to the terms and conditions of this Agreement, will make advances to the
+Borrower from time to time until the Expiration Date (as defined in the Note), in an aggregate amount outstanding at any time not to
+exceed $10,000,000.00 (the “
+Maximum Facility Amount
+”). The Borrower acknowledges and agrees that in no event will
+the Lender be under any obligation to extend or renew the Line of Credit beyond the Expiration Date. In no event shall the aggregate
+unpaid principal amount of advances under the Line of Credit exceed the Maximum Facility Amount as of any date of determination. Advances
+under the Line of Credit will be used solely for the purpose of financing the purchase of Options from time to time pursuant to that
+certain Master Option Sale Agreement dated as of December 29, 2023 by and among Lender, as Seller, Trust Manager and Depositor, Borrower,
+as Buyer Agent, and Point Titling Trust, as Buyer (as amended from time to time, the “
+MOSA
+”; capitalized terms used
+herein and defined in the MOSA shall have the meanings as provided in the MOSA), which purchases shall be made by Point Titling Trust,
+as a Buyer, at the direction of Buyer Agent for the benefit of the beneficial interest holders in the related Investor SUBIs.
+
+ 
+
+1.2.
+
+Loan Documents
+
+. This Agreement, the Note and all other agreements and documents executed and/or delivered pursuant or subject
+hereto, as each may be amended, modified, extended or renewed from time to time, are collectively referred to as the “
+Loan Documents.
+”
+Capitalized terms not defined herein shall have the meanings ascribed to them in the Loan Documents.
+
+ 
+
+2.
+
+Security
+.
+
+ 
+
+2.1
+
+To secure the Loan and all other loans, advances, debts, liabilities, obligations, covenants and duties owing by the Borrower to
+the Lender pursuant to the Loan Documents, or pursuant to any other document, instrument or agreement between (i) Lender or any of its
+affiliates, and (ii) Borrower or any of its affiliates (hereinafter referred to collectively as the “
+Obligations
+”),
+the Borrower, as debtor, hereby assigns and grants to the Lender, as secured party, a continuing lien on and security interest in the
+Collateral (as hereafter defined). The security for repayment of the Obligations shall include all Collateral. For purposes of this Agreement,
+“
+Collateral
+” shall include all right, title and interest of Borrower in and to the following, whether now owned or
+hereafter acquired or arising and wherever located: (a) all of the beneficial interests, ownership interests and other rights and interests
+of any type or nature of the Borrower in and to GB – GB HRP, LLC, a separate series of Point Titling Trust, a Delaware Statutory
+Trust (the “
+Trust
+”), represented by that certain Point Titling Trust, GB – GB HRP, LLC SUBI Certificate, Number
+1, dated December 29, 2023 (collectively, the “
+Pledged SUBI Interests
+”); (b) all other certificates, instruments or
+other writings, and all restatements and replacements thereof, representing or evidencing such Pledged SUBI Interests and all accounts
+arising out of, or in connection with, the foregoing; (c) all rights, privileges, general intangibles, payment intangibles, voting rights,
+authority and power arising from such Pledged SUBI Interests; (d) any and all moneys or property due and to become due to the Borrower
+now or in the future in respect of such Pledged SUBI Interests, or to which the Borrower may now or in the future be entitled in its
+capacity as a beneficial owner of the Pledged SUBI Interests and/or the assets thereof, whether by way of a dividend, distribution, return
+of capital or otherwise; (e) to the extent permitted by applicable law, the Borrower’s rights, if any, in the Pledged SUBI Interests
+pursuant to any organizational document, including the trust agreement from time to time in effect with respect to the Trust; (f) all
+other claims which the Borrower has or may in the future acquire in its capacity as a beneficial owner of the Trust, the Pledged SUBI
+Interests and/or the assets thereof; and (g) to the extent not otherwise included, all products and proceeds of, and substitutions or
+replacements for, any or all of the foregoing.
+
+ 
+
+ 
+
+P
+ a g e | 
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.2
+
+Change in Name or Locations
+.
+ The Borrower hereby agrees to provide Lender not less than ten (10) days prior written notice
+of any change in the location of the Collateral, or if the Borrower changes its name, its type of organization, its state of organization,
+its chief executive office or establishes a name in which it may do business that has not been disclosed to the Lender as a tradename.
+
+ 
+
+3.
+
+Representations and Warranties
+.
+ The Borrower hereby makes the following representations and warranties, which shall be continuing
+in nature and remain in full force and effect until the Obligations are paid in full, and which shall be true and correct except as otherwise
+set forth in writing:
+
+ 
+
+3.1.
+
+Existence, Power and Authority
+.
+ The Borrower is duly organized, validly existing and in good standing under the laws of the
+State of its incorporation or organization and has the power and authority to own and operate its assets and to conduct its business
+as now or proposed to be carried on, and is duly qualified, licensed and in good standing to do business in all jurisdictions where its
+ownership of property or the nature of its business requires such qualification or licensing. The Borrower is duly authorized to execute
+and deliver the Loan Documents, all necessary action to authorize the execution and delivery of the Loan Documents has been properly
+taken, and the Borrower is and will continue to be duly authorized to borrow under this Agreement and to perform all of the other terms
+and provisions of the Loan Documents.
+
+ 
+
+3.2.
+
+Binding Obligations
+.
+ The Borrower has full power and authority to enter into the transactions provided for in this Agreement
+and has been duly authorized to do so by appropriate action of all its general partners or otherwise as may be required by law, charter,
+other organizational documents or agreements; and the Loan Documents, when executed and delivered by the Borrower, will constitute the
+legal, valid and binding obligations of the Borrower enforceable in accordance with their terms.
+
+ 
+
+3.3.
+
+No Defaults or Violations
+.
+ There does not exist any Default or Event of Default, as hereinafter defined, under this Agreement,
+or any material default or violation (following the expiration of any cure periods) by the Borrower of or under any of the terms, conditions
+or obligations of: (i) its partnership agreement, or its other organizational documents as applicable; (ii) any indenture, mortgage,
+deed of trust, franchise, permit, contract, agreement, or other instrument to which it is a party or by which it is bound; or (iii) any
+law, ordinance, regulation, ruling, order, injunction, decree, condition or other requirement applicable to or imposed upon it by any
+law, the action of any court or any governmental authority or agency; and the consummation of this Agreement and the transactions set
+forth herein will not result in any such Default, Event of Default or material violation.
+
+ 
+
+3.4.
+
+Title to Assets
+.
+ Borrower has and will hold at all times good and marketable title to the Collateral, free and clear of all
+liens and encumbrances, except for (i) liens in favor of the Lender; and (ii) current taxes and assessments not yet due and payable.
+From time to time and at all reasonable times, the Borrower will allow the Lender, by or through any of its officers, agents, attorneys,
+or accountants, to examine or inspect the Collateral, and obtain valuations and audits of the Collateral for good cause, at the Borrower’s
+reasonable expense, wherever located. The Borrower shall do, obtain, make, execute and deliver all such additional and further acts,
+things, deeds, assurances and instruments as the Lender may require to vest in and assure to the Lender its rights hereunder and in or
+to the Collateral, and the proceeds thereof.
+
+ 
+
+3.5.
+
+Litigation
+.
+ There are no actions, suits, proceedings or governmental investigations pending or, to the knowledge of the Borrower,
+threatened against the Borrower, which could result in a material adverse change in its business, assets, operations, condition (financial
+or otherwise) or results of operations and there is no basis known to the Borrower for any action, suit, proceeding or investigation
+which could result in such a material adverse change. All pending and to Borrower’s knowledge, threatened, litigation against the
+Borrower has been disclosed to the Lender in writing.
+
+ 
+
+ 
+
+P
+ a g e | 
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.6.
+
+Tax Returns
+.
+ The Borrower has filed all returns and reports that are required to be filed by it in connection with any federal,
+state or local tax, duty or charge levied, assessed or imposed upon it or its property or withheld by it, including income, unemployment,
+social security and similar taxes, and all of such taxes have been either paid or adequate reserves or other provision has been made
+therefor.
+
+ 
+
+3.7.
+
+Intellectual Property
+.
+ The Borrower owns or is licensed to use all patents, patent rights, trademarks, trade names, service
+marks, copyrights, intellectual property, technology, know-how and processes necessary for the conduct of its business as currently conducted
+that are material to the condition (financial or otherwise), business or operations of the Borrower.
+
+ 
+
+3.8.
+
+Regulatory Matters
+.
+ No part of the proceeds of any Loan will be used for “purchasing” or “carrying”
+any “margin stock” within the respective meanings of each of the quoted terms under Regulation U of the Board of Governors
+of the Federal Reserve System as now and from time to time in effect or for any purpose which violates the provisions of the Regulations
+of such Board of Governors.
+
+ 
+
+3.9.
+
+Solvency
+.
+ As of the date hereof and after giving effect to the transactions contemplated by the Loan Documents, (i) the aggregate
+value of the Borrower’s assets will exceed its liabilities (including contingent, subordinated, unmatured and unliquidated liabilities);
+(ii) the Borrower will have sufficient cash flow to enable it to pay its debts as they become due; and (iii) the Borrower will not have
+unreasonably small capital for the business in which it is engaged.
+
+ 
+
+3.10.
+
+Disclosure
+.
+ None of the Loan Documents contains or will contain any untrue statement of material fact or omits or will omit
+to state a material fact necessary in order to make the statements contained in this Agreement or the Loan Documents not misleading.
+There is no fact known to the Borrower which materially adversely affects or, so far as the Borrower can now reasonably foresee, will
+materially adversely affect the business, assets, operations, condition (financial or otherwise) or results of operation of the Borrower
+and which has not otherwise been fully set forth in this Agreement or in the Loan Documents.
+
+ 
+
+4.
+
+Affirmative Covenants
+.
+  The Borrower agrees that from the date of execution of this Agreement until all Obligations
+have been paid in full and any commitments of the Lender to the Borrower have been terminated, the Borrower will:
+
+ 
+
+4.1.
+
+Books and Records
+.
+ Maintain books and records in accordance with GAAP and, subject in full to Section 9.12, give representatives
+of the Lender access thereto at all reasonable times, including permission to examine, copy and make abstracts from any of such books
+and records and such other information as the Lender may from time to time reasonably request, and the Borrower will make available to
+the Lender for examination copies of any reports, statements and returns which the Borrower may make to or file with any federal, state
+or local governmental department, bureau or agency.
+
+ 
+
+4.2.
+
+Payment of Taxes and Other Charges
+.
+ Pay and discharge when due all indebtedness and all taxes, assessments, charges, levies
+and other liabilities imposed upon the Borrower, its income, profits, property or business, except those which currently are being contested
+in good faith by appropriate proceedings and for which the Borrower shall have set aside adequate reserves or made other adequate provision
+with respect thereto acceptable to the Lender in its reasonable discretion.
+
+ 
+
+4.3.
+
+Maintenance of Existence, Operation and Assets
+.
+ Do all things necessary to (i) maintain, renew and keep in full force and
+effect its organizational existence and all rights, permits and franchises necessary to enable it to continue its business as currently
+conducted; (ii) continue in operation in substantially the same manner as at present; (iii) keep its properties in good operating condition
+and repair; and (iv) make all necessary and proper repairs, renewals, replacements, additions and improvements thereto.
+
+ 
+
+ 
+
+P
+ a g e | 
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.4.
+
+Insurance
+.
+ Maintain, with financially sound and reputable insurers, insurance with respect to its property and business against
+such casualties and contingencies, of such types and in such amounts, as is customary for established companies engaged in the same or
+similar business and similarly situated.
+
+ 
+
+4.5.
+
+Compliance with Laws
+.
+ Comply with all material laws applicable to the Borrower and to the operation of its business (including
+without limitation any statute, ordinance, rule or regulation relating to employment practices, pension benefits or environmental, occupational
+and health standards and controls).
+
+ 
+
+4.6
+
+Further Assurances
+.
+ By its signature hereon, the Borrower hereby irrevocably authorizes the Lender to file against the Borrower
+one or more financing, continuation or amendment statements pursuant to the UCC in form satisfactory to the Lender in all jurisdictions
+in which such filing is deemed by the Lender to be necessary or desirable in order to perfect, preserve and protect its security interests.
+If required by the Lender, the Borrower will execute all documentation necessary for the Lender to obtain and maintain perfection of
+its security interests in the Collateral, and will deliver to Lender original copies of all chattel paper and other Collateral for which
+possession or “control” is required under the UCC in order to obtain or maintain perfection of Lender’s security interests
+therein.
+
+ 
+
+4.7
+
+Financing Exclusivity
+.
+ Borrower hereby covenants and agrees, on its own behalf and on behalf of its affiliates (collectively,
+the “
+Restricted Parties
+”), that during the period commencing on the date hereof and continuing through and including
+the later to occur of (a) December 31, 2024 and (b) the date on which the Loan and all other obligations under the Loan Documents are
+repaid in full and all commitments of the Lender to provide advances in respect of the Loan hereunder and thereunder have terminated
+(the later of (a) and (b), the “
+Restricted Period
+”), no Restricted Party shall apply any proceeds obtained from the
+financing contemplated hereby to the purchase, investment or other acquisition of any right, title or interest in any residential option
+contract or other asset of a type similar to the Options offered for sale pursuant to the MOSA, in each case, other than pursuant to
+the MOSA by, or for the benefit of, a Restricted Party in its capacity as a “Buyer” thereunder. Any breach by a Restricted
+Party of the terms of this Section 4.7 (an “
+Exclusivity Breach
+”) shall constitute an immediate Event of Default hereunder
+and under the other Loan Documents and, without limitation of any other right or remedy of Lender hereunder or under any of the other
+Loan Documents, immediately upon the occurrence of any Exclusivity Breach, Borrower shall pay to Lender a fee in the amount of $1,000,000
+(the “
+Exclusivity Breach Fee
+”). The obligations of Borrower and each other Restricted Party under this Section 4.7
+shall survive term repayment in full of the Loan and the termination of the Loan Documents, and shall continue in full force and effect
+until the Restricted Period has expired and any Exclusivity Breach Fee payable hereunder has been paid in full. Borrower and Lender acknowledge
+and agree that the Exclusivity Breach Fee is imposed as liquidated damages, and not as a penalty, and represents a reasonable forecast
+of just compensation for anticipated and actual harm incurred by Lender as a consequence of an Exclusivity Breach, and that the actual
+harm incurred by Lender cannot be estimated with certainty and without difficulty.
+
+ 
+
+5.
+
+Negative Covenants
+.
+  The Borrower covenants and agrees that from the date of this Agreement until all Obligations
+have been paid in full and any commitments of the Lender to the Borrower have been terminated, the Borrower will not, without the Lender’s
+prior written consent:
+
+ 
+
+5.1.
+
+Liens and Encumbrances
+.
+ Create, assume, incur or permit to exist any mortgage, pledge, encumbrance, security interest, lien
+or charge of any kind upon the Collateral.
+
+ 
+
+ 
+
+P
+ a g e | 
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.2.
+
+Merger or Transfer of Assets
+.
+ Liquidate or dissolve, or merge or consolidate with or into any person, firm, corporation or
+other entity, or sell, lease, transfer or otherwise dispose of (i) any of the Collateral or (ii) all or a substantial part of its property,
+assets, operations or business, whether now owned or hereafter acquired.
+
+ 
+
+5.3.
+
+Change in Business, Management or Ownership
+.
+ Make or permit any change in (i) its form of organization, including a division
+into two or more entities; (ii) the nature of its business as carried on as of the date hereof; (iii) the composition of its current
+executive management (which covenant shall not be violated by the replacement of individual(s) in the event of an executive’s death,
+incapacity, or resignation); or (iv) the controlling stake in its equity ownership.
+
+ 
+
+6. 
+Events
+of Default
+.
+ The occurrence of any of the following will be deemed to be an “
+Event of
+Default
+”:
+
+ 
+
+6.1.
+
+Covenant Default
+.
+ The Borrower shall default in the performance of any of the covenants or agreements contained in this Agreement,
+after the lapse of the cure period set forth in Section 11 of the Note.
+
+ 
+
+6.2.
+
+Breach of Warranty
+.
+ Any representation, warranty or certificate made or furnished by the Borrower to the Lender in connection
+with this Agreement shall be materially false, incorrect or incomplete when made.
+
+ 
+
+6.3.
+
+Other Default
+.
+ The occurrence of (i) an Event of Default as defined in the Note or any of the Loan Documents and (ii) a material
+default or event of default under or as defined in any other agreement, instrument or document between the Borrower and the Lender.
+
+ 
+
+Upon
+the occurrence of an Event of Default, the Lender will have all rights and remedies specified in the Note and the Loan Documents and
+all rights and remedies (which are cumulative and not exclusive) available under applicable law or in equity.
+
+ 
+
+7.
+
+Remedies
+
+. Upon the occurrence of any such Event of Default and at any time thereafter, the Lender may declare all Obligations
+secured hereby immediately due and payable and shall have, in addition to any remedies provided herein or by any applicable law or in
+equity, all the remedies of a secured party under the UCC. The Lender’s remedies include, but are not limited to, the right to
+(a) peaceably by its own means or with judicial assistance enter the Borrower’s premises and take possession of the Collateral
+without prior notice to the Borrower or the opportunity for a hearing, (b) render the Collateral unusable, (c) dispose of the Collateral
+on the Borrower’s premises, and (d) require the Borrower to assemble the Collateral and make it available to the Lender at a place
+designated by the Lender. The Borrower agrees that the Lender has full power and authority to collect, compromise, endorse, sell or otherwise
+deal with the Collateral in its own name or that of the Borrower at any time upon an Event of Default and, without limitation of the
+foregoing, Borrower hereby expressly authorizes Lender to cause all collections, payments or other amounts required or permitted to be
+distributed to Borrower in respect of the Collateral to be applied by Lender to the Obligations. Unless the Collateral is perishable
+or threatens to decline speedily in value or is of a type customarily sold on a recognized market, the Lender will give the Borrower
+reasonable notice of the time and place of any public sale thereof or of the time after which any private sale or any other intended
+disposition thereof is to be made. The requirements of commercially reasonable notice shall be met if such notice is sent to the Borrower
+at least ten (10) days before the time of the intended sale or disposition. Expenses of retaking, holding, preparing for disposition,
+disposing or the like shall include the Lender’s reasonable attorneys’ fees and legal expenses, incurred or expended by the
+Lender to enforce any payment due it under this Agreement either as against the Borrower, or in the prosecution or defense of any action,
+or concerning any matter growing out of or connection with the subject matter of this Agreement and the Collateral pledged hereunder.
+The Borrower waives all relief from all appraisement or exemption laws now in force or hereafter enacted.
+
+ 
+
+ 
+
+P
+ a g e | 
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+8.
+
+Conditions
+.
+ The Lender’s obligation to make any advance under any Loan is subject to the conditions that as of the date
+of the advance:
+
+ 
+
+8.1.
+
+No Event of Default
+.
+ No Event of Default or Default shall have occurred and be continuing.
+
+ 
+
+8.2.
+
+Receipt of Loan Documents
+.
+ The Lender shall have received the Loan Documents and such other instruments and documents which
+the Lender may reasonably request in connection with the transactions provided for in this Agreement.
+
+ 
+
+9.
+
+Fees; Expenses
+.
+ The Borrower agrees to reimburse the Lender, upon the execution of this Agreement, and otherwise on demand,
+all fees due and payable to the Lender hereunder and under the other Loan Documents and all costs and expenses incurred by the Lender
+in connection with the collection of all of the Obligations, including but not limited to enforcement actions, relating to the Loan,
+whether through judicial proceedings or otherwise, or in defending or prosecuting any actions or proceedings arising out of or relating
+to this Agreement, including the reasonable fees and expenses of counsel (which may include costs of in-house counsel). All fees, costs,
+and expenses incurred by each party with respect to the preparation, negotiation and delivery of this Agreement and the other Loan Documents
+shall be borne by the party incurring the same.
+
+ 
+
+10.
+
+Miscellaneous
+.
+
+ 
+
+10.1.
+
+Notices
+.
+ All notices, demands, requests, consents, approvals and other communications required or permitted hereunder (“
+Notices
+”)
+must be in writing (except as may be agreed otherwise above with respect to borrowing requests or as otherwise provided in this Agreement)
+and will be effective upon receipt. Notices may be given in any manner to which the parties may agree. Without limiting the foregoing,
+first-class mail, postage prepaid, facsimile transmission and commercial courier service are hereby agreed to as acceptable methods for
+giving Notices. In addition, the parties agree that Notices may be sent electronically to any electronic address provided by a party
+from time to time. Notices may be sent to a party’s address as set forth above or to such other address as any party may give to
+the other for such purpose in accordance with this section.
+
+ 
+
+10.2.
+
+Preservation of Rights
+.
+ No delay or omission on the Lender’s part to exercise any right or power arising hereunder will
+impair any such right or power or be considered a waiver of any such right or power, nor will the Lender’s action or inaction impair
+any such right or power. The Lender’s rights and remedies hereunder are cumulative and not exclusive of any other rights or remedies
+which the Lender may have under other agreements, at law or in equity.
+
+ 
+
+10.3.
+
+Illegality
+.
+ If any provision contained in this Agreement should be invalid, illegal or unenforceable in any respect, it shall
+not affect or impair the validity, legality and enforceability of the remaining provisions of this Agreement.
+
+ 
+
+10.4.
+
+Changes in Writing
+.
+ No modification, amendment or waiver of, or consent to any departure by the Borrower from, any provision
+of this Agreement will be effective unless made in a writing signed by the party to be charged, and then such waiver or consent shall
+be effective only in the specific instance and for the purpose for which given. Notwithstanding the foregoing, the Lender may modify
+this Agreement or any of the other Loan Documents for the purposes of correcting a clerical error, without the need for a written amendment,
+provided that the Lender shall send a copy of any such modification to the Borrower (which notice may be given by electronic mail). No
+notice to or demand on the Borrower will entitle the Borrower to any other or further notice or demand in the same, similar or other
+circumstance.
+
+ 
+
+10.5.
+
+Entire Agreement
+.
+ This Agreement (including the documents and instruments referred to herein) constitutes the entire agreement
+and supersedes all other prior agreements and understandings, both written and oral, between the parties with respect to the subject
+matter hereof.
+
+ 
+
+10.6.
+
+Counterparts
+.
+ This Agreement and any other Loan Document may be signed in any number of counterpart copies and by the parties
+hereto on separate counterparts, but all such copies shall constitute one and the same instrument. Delivery of an executed counterpart
+of a signature page to this Agreement or any other Loan Document by facsimile transmission shall be effective as delivery of a manually
+executed counterpart. Any party so executing this Agreement or any other Loan Document by facsimile transmission shall promptly deliver
+a manually executed counterpart, provided that any failure to do so shall not affect the validity of the counterpart executed by facsimile
+transmission.
+
+ 
+
+ 
+
+P
+ a g e | 
+6
+
+ 
+
+ 
+
+ 
+
+ 
+
+10.7.
+
+Successors and Assigns
+.
+ This Agreement will be binding upon and inure to the benefit of the Borrower and the Lender and their
+respective heirs, executors, administrators, successors and assigns; 
+provided
+, 
+however
+, that the Borrower may not assign
+this Agreement in whole or in part without the Lender’s prior written consent and the Lender at any time may assign this Agreement
+in whole or in part.
+
+ 
+
+10.8.
+
+Interpretation
+.
+ In this Agreement, unless the Lender and the Borrower otherwise agree in writing, the singular includes the
+plural and the plural the singular; words importing any gender include the other genders; references to statutes are to be construed
+as including all statutory provisions consolidating, amending or replacing the statute referred to; the word “or” shall be
+deemed to include “and/or”, the words “including”, “includes” and “include” shall be
+deemed to be followed by the words “without limitation”; references to articles, sections (or subdivisions of sections) or
+exhibits are to those of this Agreement; and references to agreements and other contractual instruments shall be deemed to include all
+subsequent amendments and other modifications to such instruments, but only to the extent such amendments and other modifications are
+not prohibited by the terms of this Agreement. Section headings in this Agreement are included for convenience of reference only and
+shall not constitute a part of this Agreement for any other purpose. Unless otherwise specified in this Agreement, all accounting terms
+shall be interpreted and all accounting determinations shall be made in accordance with GAAP. If this Agreement is executed by more than
+one party as Borrower, the obligations of such persons or entities will be joint and several.
+
+ 
+
+10.9.
+
+No Consequential Damages, Etc
+.
+ The Lender will not be responsible for any consequential, incidental, special or punitive damages
+that may be incurred or alleged by any person or entity, including the Borrower, as a result of this Agreement, the other Loan Documents,
+the transactions contemplated hereby or thereby, or the use of the proceeds of the Loan.
+
+ 
+
+10.10.
+
+Assignments and Participations
+.
+ At any time, without any notice to the Borrower, the Lender may sell, assign, transfer, negotiate,
+grant participations in, or otherwise dispose of all or any part of the Lender’s interest in the Loan. Subject to Section 9.12,
+the Borrower hereby authorizes the Lender to provide, without any notice to the Borrower, any information concerning the Borrower, including
+information pertaining to the Borrower’s financial condition, business operations or general creditworthiness, to any assignee
+of or participant in or any prospective assignee of or participant in all or any part of the Lender’s interest in the Loan.
+
+ 
+
+10.11.
+
+Important Information about Phone Calls
+.
+ By providing telephone number(s) to the Lender, now or at any later time, the Borrower
+hereby authorizes the Lender and its affiliates and designees to contact the Borrower regarding the Borrower’s account(s) with
+the Lender or its affiliates, whether such accounts are Borrower’s individual accounts or business accounts for which Borrower
+is a contact, at such numbers using any means, including but not limited to placing calls using an automated dialing system to cell,
+VoIP or other wireless phone number, or by leaving prerecorded messages or sending text messages, even if charges may be incurred for
+the calls or text messages. Borrower hereby consents that any phone call with the Lender may be monitored or recorded by the Lender.
+
+ 
+
+10.12.
+
+Confidentiality
+.
+ In connection with the Obligations, this Agreement and the other Loan Documents, the Lender and the Borrower
+will be providing to each other, whether orally, in writing or in electronic format, nonpublic, confidential or proprietary information
+(collectively, “
+Confidential Information
+”). Each of the Borrower and the Lender agrees (i) to hold the Confidential
+Information of the other in confidence; and (ii) not to disclose or permit any other person or entity access to the Confidential Information
+of the other party, except for disclosure or access (a) to a party’s affiliates and its or their employees, officers, directors,
+members, partners, agents, and representatives, for the avoidance of doubt, basic details of this Loan and Security agreement will be
+disclosed in the Borrowers annual audited financial statements, (b) to other third parties that provide or may provide ancillary support
+relating to the Obligations, this Agreement and/or the other Loan Documents, (c) in connection with the exercise of any remedies or enforcement
+of rights under this Agreement or any action or proceeding relating to the Obligations, this Agreement and/or the other Loan Documents,
+(d) to its external or internal auditors or regulatory authorities, or (e) upon the order of a court or other governmental agency having
+jurisdiction over a party or pursuant to legal process (e.g., a subpoena) in a legal proceeding. It is understood and agreed that the
+obligation to protect such Confidential Information shall be satisfied if the party receiving such Confidential Information utilizes
+the same control (but no less than reasonable) as it does to avoid disclosure of its own confidential and valuable information. It is
+also understood and agreed that no information shall be within the protection of this Agreement where such information: (w) is or becomes
+publicly available through no fault of the party to whom such Confidential Information has been disclosed, (x) is released by the originating
+party to anyone without restriction, (y) is rightly obtained from third parties who are not, to such receiving party’s knowledge, under
+an obligation of confidentiality, or (z) is required to be disclosed by subpoena or similar process of applicable law or regulations.
+
+ 
+
+ 
+
+P
+ a g e | 
+7
+
+ 
+
+ 
+
+ 
+
+ 
+
+For
+the purposes of this Agreement, Confidential Information of a party shall include, without limitation, any nonpublic, confidential or
+proprietary financial information, scientific or technical information, design, process, procedure or improvement and all concepts, documentation,
+reports, data, data formats, specifications, computer software, source code, object code, user manuals, financial models, screen displays
+and formats, software, databases, inventions, knowhow, showhow and trade secrets, whether or not patentable or copyrightable, whether
+owned by a party or any third party, together with all memoranda, analyses, compilations, studies, notes, records, drawings, manuals
+or other documents or materials which contain or otherwise reflect any of the foregoing information.
+
+ 
+
+Each
+of the Borrower and the Lender agrees to return to the other or destroy all Confidential Information of the other upon the termination
+of this Agreement; provided, however, each party may retain such limited information for customary archival and audit purposes only for
+reference with respect to prior dealings between the parties subject at all times to the continuing terms of this Section.
+
+ 
+
+10.13.
+
+Electronic Signatures and Records
+. 
+ Notwithstanding any other provision herein, the Borrower agrees that this Agreement, the
+Loan Documents, any amendments thereto, and any other information, notice, signature card, agreement or authorization related thereto
+(each, a “
+Communication
+”) may, at the Lender’s option, be in the form of an electronic record. Any Communication
+may, at the Lender’s option, be signed or executed using electronic signatures. For the avoidance of doubt, the authorization under
+this paragraph may include, without limitation, use or acceptance by the Lender of a manually signed paper Communication which has been
+converted into electronic form (such as scanned into PDF format) for transmission, delivery and/or retention, and/or the use of DocuSign-style
+software.
+
+ 
+
+10.14.
+
+Governing Law and Jurisdiction
+.
+ This Agreement has been delivered to and accepted by the Lender and will be deemed to be made
+in the State of Delaware. 
+
+This Agreement will be interpreted and the rights and liabilities
+of the Lender and the Borrower determined in accordance with the laws of the state of Nevada, excluding its conflict of laws rules, including
+without limitation the Electronic Transactions Act (or equivalent) in effect in the state of Nevada (or, to the extent controlling, the
+laws of the United States Of America, including without limitation the Electronic Signatures in Global and National Commerce Act). 
+
+The
+Borrower hereby irrevocably consents to the exclusive jurisdiction of any state or federal court in Santa Clara County, California or
+federal judicial district for Santa Clara County, California. The Lender and the Borrower agree that the venue provided above is the
+most convenient forum for both the Lender and the Borrower. The Borrower waives any objection to venue and any objection based on a more
+convenient forum in any action instituted under this Agreement.
+
+ 
+
+10.15.
+
+WAIVER OF JURY TRIAL
+. EACH OF THE BORROWER AND THE LENDER IRREVOCABLY WAIVES ANY AND ALL RIGHT IT MAY HAVE TO A TRIAL BY JURY
+IN ANY ACTION, PROCEEDING OR CLAIM OF ANY NATURE RELATING TO THIS AGREEMENT, ANY DOCUMENTS EXECUTED IN CONNECTION WITH THIS AGREEMENT
+OR ANY TRANSACTION CONTEMPLATED IN ANY OF SUCH DOCUMENTS. THE BORROWER AND THE LENDER ACKNOWLEDGE THAT THE FOREGOING WAIVER IS KNOWING
+AND VOLUNTARY.
+
+ 
+
+REMAINDER
+OF PAGE INTENTIONALLY LEFT BLANK
+
+ 
+
+ 
+
+P
+ a g e | 
+8
+
+ 
+
+ 
+
+ 
+
+ 
+
+WITNESS
+
+the due execution hereof as a document under seal, as of the date first written above.
+
+ 
+
+The
+Borrower acknowledges that it has read and understands all the provisions of this Agreement, including the waiver of jury trial, and
+has been advised by counsel as necessary or appropriate.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+THE
+ BORROWER:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GB
+ HRP, LLC
+
+,
+
+ 
+
+ 
+
+ 
+
+ 
+
+a
+ Delaware limited liability company
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+ 
+
+/s/
+ Francis Ruchalski
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Print
+ Name:
+
+ 
+ 
+Francis
+ Ruchalski
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+ 
+Chief
+ Financial Officer
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+THE
+ LENDER:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+POINT
+ DIGITAL FINANCE, INC.
+,
+
+ 
+
+ 
+
+ 
+
+ 
+
+a
+ Delaware corporation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+ 
+
+/s/
+ Eddie Lim
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Print
+ Name:
+
+ 
+ 
+Eddie
+ Lim
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+ 
+CEO
+ 
+
+ 
+
+ 
+
+Signature
+Page
+
+to
+Loan and Security Agreement

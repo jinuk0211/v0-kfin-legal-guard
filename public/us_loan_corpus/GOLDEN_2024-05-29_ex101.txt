@@ -1,0 +1,720 @@
+EX-10.1
+
+2
+
+ex101.htm
+
+EX-10.1
+
+Document
+
+Exhibit 10.1
+
+Execution Version
+
+THIRD AMENDMENT TO FIRST LIEN CREDIT AGREEMENT
+
+This THIRD AMENDMENT TO FIRST LIEN CREDIT AGREEMENT (this “
+
+Third Amendment
+
+”), dated as of May 29, 2024 and effective as of the Effective Date (as hereinafter defined), is made and entered into by and among GOLDEN ENTERTAINMENT, INC., a Minnesota corporation (“
+
+Borrower
+
+”), the other CREDIT PARTIES, each of the TERM B-1 FACILITY LENDERS, and JPMORGAN CHASE BANK, N.A., as administrative agent under the Existing Credit Agreement referred to below (in such capacity, “
+
+Administrative Agent
+
+”).
+
+RECITALS
+
+A.    Reference is made to that certain First Lien Credit Agreement, dated as of October 20, 2017, as amended by that certain Incremental Joinder Agreement No. 1, dated as of June 11, 2018, that certain Incremental Joinder Agreement No. 2, dated as of November 8, 2018, that certain Incremental Joinder Agreement No. 3 and First Amendment to First Lien Credit Agreement, dated as of October 12, 2021, and that certain Second Amendment to First Lien Credit Agreement, dated as of May 26, 2023, and as further amended, amended and restated, supplemented or otherwise modified prior to giving effect to the amendments contemplated by this Third Amendment, the “
+
+Existing Credit Agreement
+
+”), by and among Borrower, the subsidiaries of Borrower party thereto as guarantors, the banks, financial institutions and other entities from time to time party thereto as lenders (including the L/C Lenders and the Swingline Lender) (collectively, the “
+
+Lenders
+
+”), Administrative Agent and JPMorgan Chase Bank, N.A., as collateral agent under the Existing Credit Agreement (in such capacity, “
+
+Collateral Agent
+
+”).
+
+B.    Borrower has requested that the Term B-1 Facility Lenders consent to this Third Amendment in order to amend the Existing Credit Agreement subject to, and in accordance with, the terms and conditions set forth herein.
+
+C.    Pursuant to Section 13.04(b)(A) of the Existing Credit Agreement, Borrower shall require each Non-Consenting Lender (as defined below) to execute and deliver an Assignment Agreement, pursuant to which such Non-Consenting Lender shall assign all of its rights and obligations under the Existing Credit Agreement with respect to all of such Non-Consenting Lender’s Term B-1 Facility Loans to one or more assignees.
+
+D.    Borrower, the Term B-1 Facility Lenders (which, (i) before giving effect to the replacement of Non-Consenting Lenders, hold at least a majority of the Term B-1 Facility Loans outstanding immediately prior to the Effective Date, and (ii) after giving effect to the replacement of the Non-Consenting Lenders pursuant to 
+
+Section 3
+
+, hold all of the Term B-1 Facility Loans outstanding immediately prior to the Effective Date) and Administrative Agent are willing to agree to enter into this Third Amendment, subject to the conditions and on the terms set forth below.
+
+E.    Banco Santander, S.A., New York Branch and Deutsche Bank Securities Inc. are joint lead arrangers and joint bookrunners (collectively, the “
+
+Arrangers
+
+”) to this Third Amendment.
+
+AGREEMENT
+
+NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Borrower, each of the other Credit Parties, Administrative Agent, and the Term B-1 Facility Lenders agree as follows:
+
+1.
+
+Definitions
+
+. Except as otherwise expressly provided herein, capitalized terms used in this Third Amendment (including in the Recitals and the introductory paragraph above) shall have the meanings given in the Credit Agreement, and the rules of construction set forth in the Credit Agreement shall apply to this Third Amendment.
+
+2.
+
+Amendments to Existing Credit Agreement
+
+. Subject to the conditions and upon the terms set forth in this Third Amendment and in reliance on the representations and warranties of the Credit Parties set forth in this Third Amendment, Borrower, each of the other Credit Parties party hereto, each Term B-1 Facility Lender and Administrative Agent agree that on the Effective Date, the Existing Credit Agreement shall be amended as follows (the Existing Credit Agreement, as so amended by this Third Amendment, and as it may be further amended, restated, amended and restated, replaced, supplemented or otherwise modified from time to time, the “
+
+Credit Agreement
+
+”):
+
+(a)
+
+The following new definition is hereby added to Section 1.01 of the Existing Credit Agreement, inserted in proper alphabetical order:
+
+“
+
+Third Amendment Effective Date
+
+” shall mean May 29, 2024.
+
+(b)
+
+The definition of “Adjusted Term SOFR Rate” in Section 1.01 of the Existing Credit Agreement is hereby amended and restated in its entirety as follows:
+
+“
+
+Adjusted Term SOFR Rate
+
+” shall mean, for any Interest Period,
+
+(a)    with respect to the Revolving Facility, an interest rate per annum equal to (i) the Term SOFR Rate for such Interest Period plus (ii) 0.10%; and
+
+(b)    otherwise, an interest rate per annum equal to the Term SOFR Rate;
+
+provided that
+
+, in each case, if the Adjusted Term SOFR Rate as so determined would be less than the Floor, such rate shall be deemed to be equal to the Floor for the purposes of this Agreement.”
+
+(c)
+
+Clause (c) of the definition of “Applicable Margin” in Section 1.01 of the Existing Credit Agreement is hereby amended and restated in its entirety as follows:
+
+“(c)    for each Term B-1 Facility Loan, (i) 2.25% per annum, with respect to Term Benchmark Loans, and (ii) 1.25% per annum, with respect to ABR Loans.”
+
+(d)
+
+Section 2.05(c)(ii) of the Existing Credit Agreement is hereby amended and restated in its entirety as follows:
+
+“(ii)    At the time of the effectiveness of a Term B-1 Facility Repricing Transaction during the period commencing on the Third Amendment Effective Date through (but not including) the date that is six (6) months after the Third Amendment Effective Date, Borrower agrees to pay to Administrative Agent, for the ratable account of each Lender with outstanding Term B-1 Facility Loans (including each Lender that withholds its consent to such Term B-1 Facility Repricing Transaction and is replaced or is removed as a Lender or is repaid under Section 2.11 or 13.04(b), as the case may be), a fee in an amount equal to 1.0% of the aggregate principal amount of Term B-1 Facility Loans that are refinanced, converted, replaced, amended, modified or otherwise repriced in such Term B-1 Facility Repricing Transaction. Such fee shall 
+
+2
+
+be due and payable upon the date of the effectiveness of such Term B-1 Facility Repricing Transaction.”
+
+3.
+
+Replacement of Non-Consenting Lenders; Effect of Consents
+
+. 
+
+(a)
+
+Each existing Term B-1 Facility Lender that holds outstanding Term B-1 Facility Loans immediately prior to the Effective Date that does not execute a counterpart to this Third Amendment in the form attached hereto as 
+
+Annex I
+
+ (such counterpart, a “
+
+Consent
+
+”) will be deemed to be a “non-consenting Lender” for purposes of Section 13.04(b) of the Existing Credit Agreement (each, a “
+
+Non-Consenting Lender
+
+” and, collectively, the “
+
+Non-Consenting Lenders
+
+”). Borrower shall be deemed to have exercised its right pursuant to Section 13.04(b)(A) of the Existing Credit Agreement to replace the Non-Consenting Lenders and shall require that each Non-Consenting Lender assign all of its rights and obligations with respect to all of its Term B-1 Facility Loans to Banco Santander, S.A., New York Branch, as replacement lender (in such capacity, the “
+
+Replacement Lender
+
+”).
+
+(b)
+
+Each of the parties hereto further agrees that (i) for purposes of this Third Amendment, the assignment of the Term B-1 Facility Loans by each Non-Consenting Lender to the Replacement Lender as contemplated by this Third Amendment shall be deemed effective upon (1) the execution of an Assignment Agreement executed by Borrower, Administrative Agent, the Replacement Lender, and the applicable Non-Consenting Lender; 
+
+provided
+
+, that if the applicable Non-Consenting Lender does not execute the Assignment Agreement within one (1) Business Day (or such shorter period as is acceptable to Administrative Agent) after Borrower’s request, then the execution of such Assignment Agreement by such Non-Consenting Lender shall not be required to effect such assignment, and (2) satisfaction of the condition set forth in 
+
+Section 5(b)
+
+ below, and (ii) following the effectiveness of such assignment, the Replacement Lender shall become a “Lender” and a “Term B-1 Facility Lender” under the Existing Credit Agreement and the Credit Agreement with respect to such Term B-1 Facility Loans so assigned, in each case in accordance with Section 13.05 of the Existing Credit Agreement.
+
+(c)
+
+Each Term B-1 Facility Lender (including the Replacement Lender) that holds outstanding Term B-1 Facility Loans immediately prior to the Effective Date that executes a Consent shall be deemed to irrevocably and unconditionally approve the amendments to the Existing Credit Agreement set forth in 
+
+Section 2
+
+.
+
+4.
+
+Representations and Warranties
+
+. To induce the Term B-1 Facility Lenders to enter into this Third Amendment, Borrower and each of the other Credit Parties party hereto represent to the Term B-1 Facility Lenders
+
+ 
+
+and Administrative Agent that as of the Effective Date:
+
+(a)
+
+Borrower and each Restricted Subsidiary (i) is a corporation, partnership, limited liability company or other entity duly organized, validly existing and in good standing under the laws of the jurisdiction of its organization; (ii)(1) has all requisite corporate or other power and authority and (2) has all governmental licenses, authorizations, consents and approvals necessary, in each case, to own its Property and carry on its business as now being conducted; and (iii) is qualified to do business and is in good standing in all jurisdictions in which the nature of the business conducted by it makes such qualification necessary; except, in the case of clauses (ii)(2) and (iii) where the failure thereof individually or in the aggregate would not reasonably be expected to have a Material Adverse Effect;
+
+(b)
+
+Each Credit Party has all necessary corporate or other organizational power, authority and legal right to execute, deliver and perform its obligations under this Agreement and to consummate the transactions herein contemplated; the execution, delivery and performance by each Credit Party of this 
+
+3
+
+Agreement and the consummation of the transactions herein contemplated have been duly authorized by all necessary corporate, partnership or other organizational action on its part; and this Agreement has been duly and validly executed and delivered by each Credit Party and constitutes its legal, valid and binding obligation, enforceable against each Credit Party in accordance with its terms, except as such enforceability may be limited by (i) bankruptcy, insolvency, fraudulent conveyance, reorganization, moratorium or similar laws of general applicability from time to time in effect affecting the enforcement of creditors’ rights and remedies and (ii) the application of general principles of equity (regardless of whether such enforceability is considered in a proceeding in equity or at law);
+
+(c)
+
+none of the execution, delivery and performance by any Credit Party of this Third Amendment nor the consummation of the transactions herein contemplated do or will (i) conflict with or result in a breach of, or require any consent (which has not been obtained and is in full force and effect) under (x) any Organizational Document of any Credit Party or (y) any applicable Requirement of Law (including, without limitation, any Gaming Law) or (z) any order, writ, injunction or decree of any Governmental Authority binding on any Credit Party, or result in a breach of, or require termination of, any term or provision of any Contractual Obligation of any Credit Party or (ii) constitute (with due notice or lapse of time or both) a default under any such Contractual Obligation or (iii) result in or require the creation or imposition of any Lien (except for the Liens created pursuant to the Security Documents) upon any Property of any Credit Party pursuant to the terms of any such Contractual Obligation, except with respect to (i)(y), (i)(z), (ii) or (iii) which would not reasonably be expected to result in a Material Adverse Effect; 
+
+(d)
+
+no Event of Default has occurred and is continuing; and
+
+(e)
+
+the representations and warranties made by Borrower or any other Credit Party in or pursuant to the Credit Documents to which such entity is a party, as amended hereby, are true and correct in all material respects on and as of such date as if made on and as of such date (except where such representations and warranties expressly relate to an earlier date, in which case such representations and warranties shall have been true and correct in all material respects as of such earlier date); provided that, any representation and warranty that is qualified as to “materiality,” “Material Adverse Effect” or similar language shall be true and correct in all respects on such dates.
+
+5.
+
+Effectiveness of this Third Amendment
+
+. This Third Amendment shall be effective on the date (the “
+
+Effective Date
+
+”) on which all of the following conditions are satisfied or waived:
+
+(a)
+
+(i) Borrower, (ii) the other Credit Parties, (iii) Administrative Agent, and (iv) the Term B-1 Facility Lenders (which, (i) before giving effect to the replacement of the Non-Consenting Lenders pursuant to 
+
+Section 3
+
+, hold at least a majority of the Term B-1 Facility Loans outstanding immediately prior to the Effective Date, and (ii) after giving effect to the replacement of all Non-Consenting Lenders pursuant to 
+
+Section 3
+
+, hold all of the Term B-1 Facility Loans outstanding immediately prior to the Effective Date) shall have delivered their fully executed signature pages hereto (in the case of the Term B-1 Facility Lenders, in the form of a Consent) to Administrative Agent;
+
+(b)
+
+after receipt by Administrative Agent of fully executed signature pages hereto (in the form of a Consent) from the Term B-1 Facility Lenders described in Section (a)(iv) above, each Non-Consenting Lender shall receive all amounts with respect to its Term B-1 Facility Loans, and all obligations of Borrower with respect to such Term B-1 Facility Loans owing to such Non-Consenting Lender shall be paid in full to such Non-Consenting Lender in accordance with Section 13.04(b)(A) of the Existing Credit Agreement concurrently with the assignment described in 
+
+Section 3
+
+; 
+
+4
+
+(c)
+
+(i) no Event of Default shall have occurred and be continuing and (ii) each of the representations and warranties contained in Section 4 of this Third Amendment shall be true and correct;
+
+(d)
+
+on or prior to the Effective Date, Administrative Agent, each existing Term B-1 Facility Lender and the Replacement Lender shall have received at least three (3) Business Days prior to the Effective Date all documentation and other information reasonably requested in writing at least five (5) Business Days prior to the Effective Date by Administrative Agent or the Replacement Lender, as applicable, that Administrative Agent or the Replacement Lender, as applicable, reasonably determine is required by regulatory authorities from the Credit Parties under applicable “know your customer” and anti-money laundering rules and regulations, including without limitation the Act;
+
+(e)
+
+no later than three (3) Business Days prior to the Effective Date, to the extent Borrower qualifies as a “legal entity customer” under the Beneficial Ownership Regulation and to the extent requested by Administrative Agent or the Replacement Lender at least five (5) Business Days prior to the Effective Date, Administrative Agent, each existing Term B-1 Facility Lender and the Replacement Lender, as applicable, shall have received a Beneficial Ownership Certification in relation to Borrower; and
+
+(f)
+
+all fees due to the Arrangers on the Effective Date shall have been paid and to the extent invoiced at least two (2) Business Days prior to the Effective Date (unless otherwise agreed by Borrower), and all costs and expenses (including, without limitation, reasonable legal fees and expenses of Cahill Gordon & Reindel LLP) of Administrative Agent and the Arrangers in respect of the transactions contemplated herein, shall have been paid.
+
+6.
+
+Acknowledgments
+
+. 
+
+(a)
+
+Borrower and each other Credit Party party hereto acknowledges and agrees that, both before and after giving effect to this Third Amendment, Borrower and each such other Credit Party is, jointly and severally, indebted to the Lenders and the other Secured Parties for the Obligations, without defense, counterclaim or offset of any kind. Borrower and each other Credit Party party hereto hereby ratifies and reaffirms the validity, enforceability and binding nature of such Obligations both before and after giving effect to this Third Amendment (except as the enforceability thereof may be limited by bankruptcy, insolvency or similar laws affecting creditors’ rights generally and subject to general principles of equity). 
+
+(b)
+
+Borrower and each other Credit Party party hereto hereby (i) ratifies and reaffirms its obligations under the Credit Documents to which it is a party and its prior grant and the validity and enforceability (except as the enforceability thereof may be limited by bankruptcy, insolvency or similar laws affecting creditors’ rights generally and subject to general principles of equity) of the Liens and security interests granted to Collateral Agent for the benefit of the Secured Parties to secure all of the Obligations by Borrower and each such other Credit Party pursuant to the Credit Documents to which any of Borrower or such other Credit Party is a party and hereby confirms and agrees that, after giving effect to this Third Amendment, all such Liens and security interests are, and each such Credit Document is, and shall continue to be, in full force and effect and each is hereby ratified and confirmed in all respects and (ii) in the case of each Guarantor, ratifies and reaffirms its guaranty of the Obligations. Without limiting the generality of the foregoing, the Security Documents and all of the Collateral described therein do and shall continue to secure the payment of all Obligations of the Credit Parties under the Credit Documents, as amended by, and after giving effect to, this Third Amendment.
+
+5
+
+7.
+
+Miscellaneous
+
+.
+
+(a)
+
+THIS THIRD AMENDMENT AND ANY CLAIMS, CONTROVERSIES, DISPUTES, OR CAUSES OF ACTION (WHETHER ARISING UNDER CONTRACT LAW, TORT LAW OR OTHERWISE) BASED UPON OR RELATING TO THIS THIRD AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK WITHOUT GIVING EFFECT TO ANY CHOICE OF LAW PRINCIPLES THAT WOULD APPLY THE LAW OF ANOTHER JURISDICTION.
+
+(b)
+
+EACH PARTY HERETO AGREES THAT SECTIONS 13.09(b), (c), (d) AND (e) OF THE EXISTING CREDIT AGREEMENT SHALL APPLY TO THIS THIRD AMENDMENT 
+
+MUTATIS MUTANDIS
+
+.
+
+(c)
+
+This Third Amendment may be executed in one or more duplicate counterparts and, subject to the other terms and conditions of this Third Amendment, when signed by all of the parties listed below shall constitute a single binding agreement. Delivery of an executed signature page to this Third Amendment by facsimile transmission or other electronic transmission (including portable document format (“.pdf”) or similar format) shall be as effective as delivery of a manually signed counterpart of this Third Amendment. This Third Amendment, the Credit Agreement and the other Credit Documents constitute the entire contract among the parties thereto relating to the subject matter hereof and supersede any and all previous agreements and understandings, oral or written, relating to the subject matter hereof. The words “execution,” “signed,” “signature,” “delivery,” and words of like import in or relating to this Third Amendment and any document to be signed in connection with this Third Amendment and the transactions contemplated hereby shall be deemed to include an electronic symbol or process attached to a contract or other record and adopted by a Person with the intent to sign, authenticate or accept such contract or record (each an “
+
+Electronic Signature
+
+”), deliveries or the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature, physical delivery thereof or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided for in any applicable law, including the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act; provided that nothing herein shall require Administrative Agent to accept Electronic Signatures in any form or format without its prior written consent. 
+
+(d)
+
+Wherever possible, each provision of this Third Amendment shall be interpreted in such manner as to be effective and valid under applicable Law, but if any provision of this Third Amendment shall be prohibited by or invalid under applicable Law, such provision shall be ineffective only to the extent of such prohibition or invalidity, without invalidating the remainder of such provisions or the remaining provisions of this Third Amendment.
+
+(e)
+
+Except as amended hereby, all of the provisions of the Existing Credit Agreement and the other Credit Documents shall remain in full force and effect except that each reference to the “Credit Agreement”, or words of like import in any Credit Document, shall mean and be a reference to the Existing Credit Agreement as amended hereby. This Third Amendment shall be deemed a “Credit Document” as defined in the Credit Agreement.
+
+(f)
+
+This Third Amendment shall not extinguish the obligations for the payment of money outstanding under the Existing Credit Agreement or discharge or release the priority of any Credit Document (or any other security therefor). Nothing herein contained shall be construed as a substitution 
+
+6
+
+or novation of the obligations outstanding under the Existing Credit Agreement, any of the other Credit Documents or the instruments, documents and agreements securing the same, which shall remain in full force and effect. This Third Amendment shall not constitute a novation of the Existing Credit Agreement or any other Credit Document. Nothing in this Third Amendment shall be construed as a release or other discharge of Borrower or any other Credit Party from any of its obligations and liabilities under the Existing Credit Agreement or the other Credit Documents. 
+
+(g)
+
+Each party hereto agrees that Section 13.10 of the Existing Credit Agreement shall apply to this Third Amendment 
+
+mutatis mutandis.
+
+ [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+7
+
+IN WITNESS WHEREOF, the parties have caused this Third Amendment to be duly executed as of the day and year first above written, to be effective as of the Effective Date.
+
+GOLDEN ENTERTAINMENT, INC.
+
+, 
+as Borrower
+
+By: 
+
+    /s/ Charles Protell                
+
+Name: Charles H. Protell
+
+Title: President and Chief Financial Officer
+
+[Signature Page to Third Amendment to First Lien Credit Agreement]
+
+GOLDEN HOLDINGS, INC.
+
+77 GOLDEN GAMING, LLC
+
+BIG SKY GAMING MANAGEMENT, LLC
+
+GOLDEN ROUTE OPERATIONS-ILLINOIS LLC
+
+GOLDEN ROUTE OPERATIONS-PENNSYLVANIA LLC
+
+SARTINI SYNERGY ONLINE, LLC
+
+GOLDEN GAMING, LLC
+
+,
+
+each as a Guarantor
+
+By: 
+
+/s/ Charles Protell    
+
+Name: Charles H. Protell
+Title: President and Chief Financial Officer of Golden Entertainment, Inc., in such capacity acting as agent for each of the foregoing entities
+
+[Signature Page to Third Amendment to First Lien Credit Agreement]
+
+GOLDEN AVIATION, LLC
+
+GOLDEN PAHRUMP NUGGET, LLC
+
+GOLDEN PAHRUMP TOWN, LLC
+
+GOLDEN PAHRUMP LAKESIDE, LLC
+
+GOLDEN TAVERN GROUP, LLC
+
+each as a Guarantor
+
+By: 
+
+/s/ Charles Protell    
+
+Name: Charles H. Protell
+Title: President and Chief Financial Officer of Golden Entertainment, Inc., in such capacity acting as agent for each of the foregoing entities
+
+[Signature Page to Third Amendment to First Lien Credit Agreement]
+
+GOLDEN - PT’S PUB STEWART-NELLIS 2, LLC
+
+GOLDEN - PT’S PUB EAST SAHARA 3, LLC
+
+GOLDEN - PT’S PUB SUMMERLIN 6, LLC
+
+GOLDEN - PT’S PUB VEGAS VALLEY 7, LLC
+
+GOLDEN - PT’S PUB WEST SAHARA 8, LLC
+
+GOLDEN - PT’S PUB SPRING MOUNTAIN 9, LLC
+
+GOLDEN - PT’S PUB FLAMINGO 10, LLC
+
+GOLDEN - PT’S PUB RAINBOW 11, LLC
+
+GOLDEN - PT’S PUB DURANGO 12, LLC
+
+GOLDEN - PT’S PUB WARM SPRINGS 13, LLC
+
+GOLDEN - PT’S PUB WINTERWOOD 16, LLC
+
+GOLDEN - PT’S PUB SUNSET-PECOS 17, LLC
+
+GOLDEN - PT’S PUB MLK 18, LLC
+
+GOLDEN - PT’S PUB TUNES 19, LLC
+
+GOLDEN - PT’S PUB DECATUR-HACIENDA 20, LLC
+
+GOLDEN - PT’S PUB DECATUR-SOBB 21, LLC
+
+GOLDEN - PT’S PUB SILVERADO-MARYLAND 22, LLC
+
+GOLDEN - PT’S PUB SILVERADO-BERMUDA 23, LLC
+
+GOLDEN - PT’S PUB SUNRISE 24, LLC
+
+GOLDEN - PT’S PUB HUALAPAI 25, LLC
+
+GOLDEN – PT’S PUB BIG GAME 26, LLC
+
+GOLDEN 
+
+–
+
+ PT’S PUB CANTINA 27, LLC
+
+GOLDEN – PT’S PUB FORT APACHE 29, LLC
+
+GOLDEN-PT’S PUB ANN 30, LLC
+
+GOLDEN - PT’S PUB RUSSELL 31, LLC
+
+GOLDEN-PT’S PUB CENTENNIAL 32, LLC
+
+GOLDEN - PT’S PUB HORIZON 33, LLC
+
+GOLDEN - PT’S PUB ST. ROSE 35, LLC
+
+GOLDEN - PT’S PUB EASTERN 36, LLC
+
+GOLDEN - PT’S PUB RACETRACK 37, LLC
+
+GOLDEN - PT’S PUB ANTHEM 38, LLC
+
+GOLDEN - PT’S PUB SUNSET-BUFFALO 39, LLC
+
+GOLDEN-PT’S PUB TRIPLE BAR 40, LLC
+
+GOLDEN-PT’S PUB DESERT INN 42, LLC
+
+GOLDEN - PT’S PUB SPRING VALLEY 44, LLC
+
+,
+
+each as a Guarantor
+
+By: 
+
+/s/ Charles Protell    
+
+Name: Charles H. Protell
+Title: President and Chief Financial Officer of Golden Entertainment, Inc., in such capacity acting as agent for each of the foregoing entities
+
+[Signature Page to Third Amendment to First Lien Credit Agreement]
+
+GOLDEN-O’ACES BAR POST 47, LLC
+
+GOLDEN - PT’S PUB FOOTHILLS 48, LLC
+
+GOLDEN-PT’S PUB WHITNEY RANCH 51, LLC
+
+GOLDEN-PT’S PUB MOLLY MALONE’S 53 LLC
+
+GOLDEN-PT’S PUB KAVANAUGH’S 54 LLC
+
+GOLDEN-PT’S PUB SEAN PATRICK’S 55 LLC
+
+GOLDEN-PT’S PUB MORRISSEY’S 56 LLC
+
+GOLDEN-PT’S PUB GB’S 57 LLC
+
+GOLDEN-PT’S PUB FIRESIDE 59 LLC
+
+GOLDEN-PT’S PUB MOUNTAINSIDE 60 LLC
+
+GOLDEN-PT’S PUB OYSTER 61 LLC
+
+GOLDEN-PT’S PUB BEANO’S 62 LLC
+
+GOLDEN-PT’S PUB BREW 63 LLC
+
+GOLDEN-PT’S PUB RANCH 64 LLC
+
+GOLDEN-PT’S BWS 65 LLC
+
+GOLDEN-PT’S SRD 66 LLC
+
+GOLDEN-PT’S OSO BLANCA 67 LLC
+
+GOLDEN-PT’S EL CAPITAN 68 LLC
+
+GOLDEN-PT’S WEST MARTIN 69 LLC
+
+GOLDEN-PT’S HUNTINGTON COVE 70 LLC
+
+GOLDEN-PT’S GVHR 71 L.L.C.
+
+GOLDEN-PT’S PECCOLE SAHARA 72 LLC
+
+GOLDEN-PT’S DECATUR 73 LLC
+
+GOLDEN-PT’S BUFFALO-BLUE DIAMOND 74 LLC
+
+GOLDEN-PT’S LV CACTUS 75 LLC
+
+GOLDEN-PT’S MAULE 76 LLC
+
+GOLDEN-SIERRA GOLD DOUBLE R 1, LLC
+
+GOLDEN-SIERRA JUNCTION DOUBLE R 2, LLC
+
+SIERRA GOLD JONES 3, LLC
+
+SIERRA GOLD BUFFALO 4, LLC
+
+SIERRA GOLD STEPHANIE 5, LLC
+
+SIERRA GOLD ALIANTE 6, LLC
+
+SIERRA GOLD FLAMINGO 7 LLC
+
+GOLDEN RR EASTERN 3, LLC
+
+,
+
+each as a Guarantor
+
+By: 
+
+/s/ Charles Protell    
+
+Name: Charles H. Protell
+Title: President and Chief Financial Officer of Golden Entertainment, Inc., in such capacity acting as agent for each of the foregoing entities
+
+[Signature Page to Third Amendment to First Lien Credit Agreement]
+
+LAKES GAME DEVELOPMENT, LLC
+
+LAKES GAMING AND RESORTS, LLC
+
+LAKES JAMUL, INC.
+
+LAKES KAR SHINGLE SPRINGS, L.L.C.
+
+LAKES KEAN ARGOVITZ RESORTS-CALIFORNIA, L.L.C.
+
+LAKES NIPMUC, LLC
+
+LAKES PAWNEE CONSULTING, LLC
+
+LAKES SHINGLE SPRINGS, INC.
+
+LAKES MARYLAND DEVELOPMENT, LLC
+
+EVITTS RESORT, LLC
+
+,
+
+each as a Guarantor
+
+By: 
+
+/s/ Charles Protell    
+
+Name: Charles H. Protell
+Title: President and Chief Financial Officer of Golden Entertainment, Inc., in such capacity acting as agent for each of the foregoing entities
+
+[Signature Page to Third Amendment to First Lien Credit Agreement]
+
+GOLDEN CASINOS NEVADA LLC
+
+ACEP ADVERTISING AGENCY, LLC
+
+STRATOSPHERE LEASING, LLC
+
+ACEP INTERACTIVE, LLC
+
+STRATOSPHERE GAMING LLC
+
+AQUARIUS GAMING LLC
+
+ARIZONA CHARLIE’S, LLC
+
+FRESCA, LLC
+
+STRATOSPHERE ENTERTAINMENT L.L.C.
+
+W2007 STRATOSPHERE LAND PROPCO, LLC
+
+,
+
+each as a Guarantor
+
+By: 
+
+/s/ Charles Protell    
+
+Name: Charles H. Protell
+Title: President and Chief Financial Officer of Golden Entertainment, Inc., in such capacity acting as agent for each of the foregoing entities
+
+[Signature Page to Third Amendment to First Lien Credit Agreement]
+
+COLORADO BELLE GAMING, LLC
+
+EDGEWATER GAMING, LLC 
+
+GOLDEN-PT’S ANN 77 LLC
+
+GOLDEN-PT’S LINDELL-BLUE DIAMOND 78 LLC
+
+GOLDEN PT’S WARM SPRINGS 79 LLC
+
+SIERRA GOLD EASTERN 8 LLC
+
+,
+
+each as a Guarantor
+
+By: 
+
+/s/ Charles Protell    
+
+Name: Charles H. Protell
+
+Title: President and Chief Financial Officer of Golden Entertainment, Inc., in such capacity acting as agent for each of the foregoing entities
+
+[Signature Page to Third Amendment to First Lien Credit Agreement]
+
+JPMORGAN CHASE BANK, N.A., 
+
+as Administrative Agent 
+
+By: 
+
+    /s/ Carolina Arean                
+
+Name: Carolina Arean
+
+Title: Vice President
+
+[Signature Page to Third Amendment to First Lien Credit Agreement]
+
+[CONSENTS ON FILE WITH THE ADMINISTRATIVE AGENT]
+
+ANNEX I
+
+CONSENT TO THIRD AMENDMENT TO FIRST LIEN CREDIT AGREEMENT
+
+This Consent (this “
+
+Consent
+
+”) to the Third Amendment (the “
+
+Amendment
+
+”) to First Lien Credit Agreement, dated as of October 20, 2017 (as amended by that certain Incremental Joinder Agreement No. 1, dated as of June 11, 2018, that certain Incremental Joinder Agreement No. 2, dated as of November 8, 2018, that certain Incremental Joinder Agreement No. 3, the First Amendment to First Lien Credit Agreement, dated as of October 12, 2021, the Second Amendment to First Lien Credit Agreement, dated as of May 26, 2023, and as further amended, amended and restated, supplemented or otherwise modified from time to time prior to the effectiveness of the Amendment, the “
+
+Existing Credit Agreement
+
+”, and the Existing Credit Agreement as amended by the Amendment, the “
+
+Credit Agreement
+
+”), by and among Golden Entertainment, Inc., a Minnesota corporation (“
+
+Borrower
+
+”), the subsidiaries of Borrower party thereto as Guarantors, JPMorgan Chase Bank, N.A., as Administrative Agent and Collateral Agent, and the banks, financial institutions and other entities from time to time party thereto in the capacity of Lenders. Capitalized terms used in this Consent but not defined in this Consent have the meanings assigned to such terms in the Credit Agreement or the Amendment, as applicable.
+
+Each undersigned Lender hereby (i) irrevocably and unconditionally approves of, and consents to the terms and provisions of, the Amendment and the Credit Agreement and (ii) acknowledges and agrees to be bound by the Amendment and the Credit Agreement for all purposes hereof and thereof.
+
+[Signature Page Follows]
+
+IN WITNESS WHEREOF, the undersigned has caused this Consent to be duly executed and delivered by its proper and duly authorized officer(s).
+
+NAME OF INSTITUTION: 
+
+                            
+
+By: ______________________________________
+
+Name:
+
+Title:
+
+If a second signature is necessary:
+
+By: ______________________________________
+
+Name:
+
+Title:
+
+Name of Fund Manager (if any): ________________________
+
+[Signature Page to Consent to Third Amendment to First Lien Credit Agreement]

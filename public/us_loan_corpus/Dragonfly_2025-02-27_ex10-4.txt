@@ -1,0 +1,1099 @@
+EX-10.4
+
+9
+
+ex10-4.htm
+
+ 
+
+ 
+
+Exhibit
+10.4
+
+ 
+
+FIFTH
+AMENDMENT TO
+
+TERM
+LOAN, GUARANTEE AND SECURITY AGREEMENT AND LIMITED WAIVER AND AMENDMENT OF WARRANT TERMS
+
+ 
+
+This
+
+FIFTH AMENDMENT TO TERM LOAN, GUARANTEE AND SECURITY AGREEMENT 
+(this “
+Amendment
+”) is made as of February 26,
+2025, by and among DRAGONFLY ENERGY CORP. (“
+Borrower
+”), DRAGONFLY ENERGY HOLDINGS CORP. (F/K/A CHARDAN NEXTECH ACQUISITION
+2 CORP) (“
+Holdings
+”), BATTLE BORN BATTERY PRODUCTS, LLC (“
+Battle Born
+”, and together with Holdings,
+each a “
+Guarantor
+” and collectively, the “
+Guarantors
+”), the Lenders signatory hereto (the “
+Required
+Lenders
+”), and ALTER DOMUS (US) LLC, as agent on behalf of the Lenders under the Loan Agreement (as hereinafter defined) (in
+such capacity, the “
+Agent
+”).
+
+ 
+
+WHEREAS,
+Borrower, Holdings, the Required Lenders and the Agent are parties to that certain Term Loan, Guarantee and Security Agreement, dated
+as of October 7, 2022 (as amended by that certain Limited Waiver and First Amendment to Term Loan, Guarantee and Security Agreement,
+dated as of June 28, 2024, that certain Limited Waiver, Consent and Second Amendment to Term Loan, Guarantee and Security Agreement,
+dated as of July 29, 2024, that certain Limited Waiver and Third Amendment to Term Loan, Guarantee and Security Agreement, dated as of
+September 30, 2024, that certain Limited Waiver and Fourth Amendment to Term Loan, Guarantee and Security Agreement and Temporary, Limited
+Suspension and Waiver of Warrant Terms, dated as of December 31, 2024, and as may be further amended, modified, extended, restated, replaced,
+and/or supplemented from time to time, the “
+Loan Agreement
+”); and
+
+ 
+
+WHEREAS,
+the Credit Parties have requested that the Agent and the Required Lenders amend certain provisions of the Loan Agreement and, subject
+to the satisfaction of the conditions set forth below, each of the Agent and the Required Lenders are willing to amend the Loan Agreement
+on the terms set forth herein;
+
+ 
+
+WHEREAS,
+Holdings has issued or, with respect to the Penny Warrants set forth in subsections (xix) – (xxi), shall issue, that certain (i)
+Penny Warrant, dated as of October 7, 2022, to BP Holdings XVII LP, (ii) Penny Warrant, dated as of October 7, 2022, to Energy Impact
+Credit Fund I LP, (iii) Penny Warrant, dated as of October 7, 2022, to Energy Impact Credit Fund II LP, (iv) Penny Warrant, dated as
+of December 29, 2023, to BP Holdings XVII LP, (v) Penny Warrant, dated as of December 29, 2023, to Energy Impact Credit Fund I LP, (vi)
+Penny Warrant, dated as of December 29, 2023, to Energy Impact Credit Fund II LP, (vii) Penny Warrant, dated as of May 13, 2024, to BP
+Holdings XVII LP, (viii) Penny Warrant, dated as of May 13, 2024, to Energy Impact Credit Fund I LP, (ix) Penny Warrant, dated as of
+May 13, 2024, to Energy Impact Credit Fund II LP, (x) Penny Warrant, dated as of June 28, 2024, to BP Holdings XVII LP, (xi) Penny Warrant,
+dated as of June 28, 2024, to Energy Impact Credit Fund I LP, (xii) Penny Warrant, dated as of June 28, 2024, to Energy Impact Credit
+Fund II LP, (xiii) Penny Warrant, dated as of September 30, 2024, to BP Holdings XVII LP, (xiv) Penny Warrant, dated as of September
+30, 2024, to Energy Impact Credit Fund I LP, (xv) Penny Warrant, dated as of September 30, 2024, to Energy Impact Credit Fund II LP,
+(xvi) Penny Warrant, dated as of December 31, 2024, to BP Holdings XVII LP, (xvii) Penny Warrant, dated as of December 31, 2024, to Energy
+Impact Credit Fund I LP, (xviii) Penny Warrant, dated as of December 31, 2024, to Energy Impact Credit Fund II LP, (collectively, the
+
+“Existing Warrants
+”) (xix) Penny Warrant, to be dated as of February 26, 2025, to BP Holdings XVII LP, (xx) Penny
+Warrant, to be dated as of February 26, 2025, to Energy Impact Credit Fund I LP, (xxi) Penny Warrant, to be dated as of February 26,
+2025, to Energy Impact Credit Fund II LP, (collectively, the “
+New Warrants
+”), and (xxii) additional Penny Warrants
+as a result of the anti-dilution provisions in the Penny Warrants set forth in subsections (i)-(xxi) above (as each may be further amended,
+modified, extended, restated, replaced, and/or supplemented from time to time, collectively with the Existing Warrants and the New Warrants,
+the “
+Warrants
+”) and the Lenders have agreed to amend and/or waive certain anti-dilution protections in accordance
+with the terms set forth in Section 4 below;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NOW
+THEREFORE, the Credit Parties, the Required Lenders and the Agent each hereby agrees as follows:
+
+ 
+
+1.
+
+Defined Terms
+. All terms used but not otherwise defined herein have the meanings assigned to them in the Loan Agreement.
+
+ 
+
+2.
+
+[Reserved]
+.
+
+ 
+
+3.
+
+Amendments to Loan Agreement
+. 
+Subject to the satisfaction of the conditions to effectiveness set forth in 
+Section 4
+
+hereof, the Loan Agreement (including Schedules A through F thereto) is hereby amended as of the date hereof by incorporating the
+changes shown on the marked copy of the Loan Agreement attached hereto as 
+Exhibit A
+ (it being understood that language which appears
+as “
+
+struck out
+
+” or “
+
+struck
+out
+
+”, as applicable, has been deleted, and language which appears as “
+double-underlined
+”
+or “
+double-underlined
+”, as applicable, has been added).
+A new Exhibit K to the Loan Agreement (Preferred Stock Purchase Agreement for the Fifth Amendment Equity Issuance and Material Related
+Documents) is hereby added to the Loan Agreement in the form of 
+Exhibit C
+ attached hereto.
+
+ 
+
+4.
+
+Waiver and Amendment of Anti-Dilution Provisions of Warrants
+.
+
+ 
+
+(a)
+
+Waiver; Amendment. 
+The Lenders hereby agree to (x) waive the effect of the anti-dilution adjustment set forth in Section 4(b)
+of the Existing Warrants with respect to the Fifth Amendment Initial Equity Issuance (the “
+Waiver
+”) and (y) amend
+Section 4(f) of the Existing Warrants, which requires a notice of adjustment to be delivered promptly after any event triggering an adjustment
+pursuant to Section 4(b), to provide that the Company shall issue a notice of adjustment within 5 business days following the end of
+each fiscal quarter during which any Existing Warrant is outstanding to reflect all anti-dilution adjustments occurring in the prior
+fiscal quarter.
+
+ 
+
+(b)
+
+Subsequent Equity Issuance
+. For the avoidance of doubt, the Waiver does not apply to any shares of Preferred Stock and/or Common
+Stock actually issued (or deemed issued) in connection with the issuance of shares of Series A Preferred Stock and/or exercise of warrants
+to acquire Series A Preferred Stock issued under the Fifth Amendment Subsequent Equity Issuance, it being agreed and acknowledged that
+the issuance of shares of Series A Preferred Stock in the amount of $4,500,000 in aggregate stated value and warrants to purchase up
+to $40,000,000 of shares of Series A Preferred Stock in the Fifth Amendment Subsequent Equity Issuance shall not trigger an anti-dilution
+adjustment unless and until those shares of Series A Preferred Stock are issued and/or those warrants are exercised.
+
+ 
+
+(c)
+
+Consideration. 
+As consideration for the Waiver, Holdings shall issue to the Lenders the New Warrants to purchase an aggregate
+330,000 shares of Common Stock.
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+(d)
+
+Cap
+. Notwithstanding anything to the contrary in the Existing Warrants or the New Warrants, the aggregate number of additional
+shares that may be issued to the Lenders in connection with anti-dilution adjustments under Section 4(b) of the Warrants with respect
+to the Fifth Amendment Subsequent Equity Issuance and any issuances under the ChEF Purchase Agreement by and between Chardan Capital
+Markets LLC and Holdings (including any modification, amendment or replacement thereof), shall be capped at an aggregate maximum amount
+of 1,400,000 shares of Common Stock underlying Penny Warrants (as adjusted to account for stock splits, stock combinations, stock dividends
+or other distributions or recapitalizations affecting the Common Stock on or after the Effective Date).
+
+ 
+
+5.
+
+Conditions to Effectiveness
+. This Amendment shall become effective as of the date first written above (the “
+Effective
+Date
+”) upon the satisfaction of the below:
+
+ 
+
+(a)
+counterparts of this Amendment shall have been executed and delivered by the Credit Parties, the Agent and the Required Lenders;
+
+ 
+
+(b)
+Borrower shall have delivered to Agent and the Lenders (i) the Term Sheet for Fifth Amendment Equity Issuance and (ii) the Preferred
+Stock Purchase Agreement for Fifth Amendment Equity Issuance and the material related documents relating thereto;
+
+ 
+
+(c)
+the Borrower shall have paid the legal fees and expenses of Chapman and Cutler LLP, counsel for the Required Lenders, incurred in connection
+with the preparation, negotiation, execution and delivery of this Amendment and other services rendered in connection with the Loan Agreement
+prior to the date hereof;
+
+ 
+
+(d)
+to the extent invoiced prior to execution of this Amendment, the Borrower shall have paid the legal fees and expenses of Holland &
+Knight LLP, counsel for the Agent, incurred in connection with the preparation, negotiation, execution and delivery of this Amendment
+and other services rendered in connection with the Loan Agreement prior to the date hereof; and
+
+ 
+
+(e)
+Holdings shall have received gross cash proceeds from the initial tranche of the Fifth Amendment Equity Issuance in the aggregate amount
+of $3,500,000, which proceeds Holdings shall promptly contribute to the Borrower.
+
+ 
+
+(f)
+Holdings shall have issued to the Lenders, on or about the date of this Amendment, penny warrants exercisable to purchase 330,000 shares
+of Holdings’ common stock (of which 200,000 shall be issued to BP Holdings XVII LP and 130,000 shall be issued to Energy Impact
+Credit Fund I LP and Energy Impact Credit Fund II LP), which penny warrants shall be in form and substance satisfactory to the Lenders.
+The Lenders hereby agree that
+
+ 
+
+6.
+
+Representations and Warranties
+.
+
+ 
+
+(a)
+The Credit Parties represent and warrant that after giving effect to this Amendment, the representations and warranties contained in
+the Loan Agreement are true and correct in all material respects on and as of the date hereof as if such representations and warranties
+had been made on and as of the date hereof (except to the extent that any such representations and warranties specifically relate to
+an earlier date).
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+The Credit Parties represent and warrant that after giving effect to this Amendment, no Default or Event of Default will have occurred
+and be continuing on and as of the Effective Date.
+
+ 
+
+(c)
+Attached hereto as 
+Exhibit B
+ is a true, correct and complete copy of the Term Sheet for the Fifth Amendment Equity Issuance, together
+with any amendments, modifications and/or supplements thereto as in effect on the date hereof.
+
+ 
+
+(d)
+Attached hereto as 
+Exhibit C
+ is a true, correct and complete copy of the Preferred Stock Purchase Agreement for the Fifth Amendment
+Equity Issuance and the material related documents relating thereto, together with any amendments, modifications and/or supplements thereto
+as in effect on the date hereof.
+
+ 
+
+7.
+
+Loan Document
+. This Amendment is designated a Loan Document by the Agent.
+
+ 
+
+8.
+
+Full Force and Effect
+. Except as expressly set forth herein, nothing contained herein shall be deemed to constitute a waiver of
+compliance with any term or condition contained in the Loan Agreement or any of the other Loan Documents. Except as expressly amended
+hereby, the Loan Agreement shall continue unmodified and in full force and effect in accordance with the provisions thereof on the date
+hereof. This Amendment shall be limited precisely as drafted and shall not imply an obligation on the Agent or any Lender to consent
+to any matter on any future occasion. As used in the Loan Agreement, the terms “Agreement,” “this Agreement,”
+“this Loan Agreement,” “herein,” “hereafter,” “hereto,” “hereof” and words
+of similar import shall mean, unless the context otherwise requires, the Loan Agreement as modified by this Amendment.
+
+ 
+
+9.
+
+CHOICE OF LAW
+. THIS AMENDMENT SHALL IN ALL RESPECTS BE CONSTRUED IN ACCORDANCE WITH, AND GOVERNED BY, THE LAWS OF THE STATE
+OF NEW YORK WHICH ARE APPLICABLE TO CONTRACTS MADE AND TO BE PERFORMED WHOLLY WITHIN SUCH STATE WITHOUT REGARD TO ANY PRINCIPLES OF CONFLICTS
+OF LAW THAT WOULD RESULT IN THE APPLICATION OF THE LAWS OF ANOTHER JURISDICTION.
+
+ 
+
+10.
+
+Counterparts
+. This Amendment may be executed in one or more counterparts, each of which shall constitute an original, but all
+of which when taken together shall constitute but one instrument. Counterparts may be delivered via facsimile, electronic mail (including
+pdf) or other transmission method and any counterpart so delivered shall be deemed to be as effective as an original signature page delivered
+manually.
+
+ 
+
+11.
+
+Headings
+. The headings of this Amendment are for the purposes of reference only and shall not affect the construction of this
+Amendment.
+
+ 
+
+12.
+
+Successors and Assigns
+. The provisions of this Amendment shall be binding upon and inure to the benefit of the parties hereto
+and their respective successors and assigns; provided that none of the Credit Parties may assign or transfer any of its rights or obligations
+under this Amendment without the prior written consent of the Agent.
+
+ 
+
+13.
+
+Severability
+. The illegality or unenforceability of any provision of this Amendment or any instrument or agreement required hereunder
+shall not in any way affect or impair the legality or enforceability of the remaining provisions of this Amendment or any instrument
+or agreement required hereunder.
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+14.
+
+Release of Claims
+. In consideration of the Required Lenders’ and the Agent’s agreements contained in this Amendment,
+the Borrower and Guarantor hereby irrevocably release and forever discharge the Lenders and the Agent and their affiliates, subsidiaries,
+successors, assigns, directors, officers, employees, agents, consultants and attorneys (each, a “
+Released Person
+”)
+of and from any and all claims, suits, actions, investigations, proceedings or demands, whether based in contract, tort, implied or express
+warranty, strict liability, criminal or civil statute or common law of any kind or character, known or unknown, which such Borrower and
+Guarantor ever had or now has against Agent, any Lender or any other Released Person which relates, directly or indirectly, to any acts
+or omissions of Agent, any Lender or any other Released Person relating to the Loan Agreement or any other Loan Document on or prior
+to the date hereof.
+
+ 
+
+15.
+
+Reaffirmation
+. Each of the Credit Parties as debtor, grantor, pledgor, guarantor, assignor, or in other any other similar capacity
+in which such Credit Party grants liens or security interests in its property or otherwise acts as accommodation party or guarantor,
+as the case may be, hereby (i) ratifies and reaffirms all of its payment and performance obligations, contingent or otherwise, under
+each of the Loan Documents to which it is a party (after giving effect hereto) and (ii) to the extent such Credit Party granted liens
+on or security interests in any of its property pursuant to any such Loan Document as security for or otherwise guaranteed the Borrower’s
+Obligations under or with respect to the Loan Documents, ratifies and reaffirms such guarantee and grant of security interests and liens
+and confirms and agrees that such security interests and liens hereafter secure all of the Obligations as amended hereby. Each of the
+Credit Parties hereby consents to this Amendment and acknowledges that each of the Loan Documents remains in full force and effect and
+is hereby ratified and reaffirmed. The execution of this Amendment shall not operate as a waiver of any right, power or remedy of the
+Agent or Lenders, constitute a waiver of any provision of any of the Loan Documents or serve to effect a novation of the Obligations.
+
+ 
+
+16.
+
+Agent
+. Each of the Required Lenders, by their execution of this Amendment, hereby directs the Agent to execute this Amendment.
+In doing so, the Agent shall be entitled to all of its rights, benefits and protections set forth in the Loan Agreement.
+
+ 
+
+[Signature
+pages follow]
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed by their duly authorized officers, all as of the date
+and year first above written.
+
+ 
+
+ 
+
+BORROWER
+:
+
+ 
+
+DRAGONFLY ENERGY CORP.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Denis Phares
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Denis Phares
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief Executive Officer
+
+ 
+
+ 
+
+GUARANTORS 
+:
+
+ 
+
+DRAGONFLY ENERGY HOLDINGS CORP. (F/K/A
+
+ 
+
+ 
+
+ 
+
+CHARDAN NEXTECH ACQUISITION 2 CORP.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Denis Phares 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Denis Phares
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+BATTLE BORN BATTERY PRODUCTS, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Denis Phares
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Denis Phares
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief Executive Officer
+
+ 
+
+Signature
+Page to Fifth Amendment to Term Loan, Guarantee and Security Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AGENT:
+
+ 
+
+ALTER DOMUS (US) LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+ 
+/s/ Pinju Chiu
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+ 
+Pinju Chiu
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+ 
+Associate Counsel
+ 
+
+ 
+
+Signature
+Page to Fifth Amendment to Term Loan, Guarantee and Security Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LENDERS
+:
+
+ 
+
+ENERGY IMPACT CREDIT FUND I LP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+Energy Impact Credit Fund I GP LLC, its general partner
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+ 
+/s/ Harry Giovani
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Harry Giovani
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Managing Partner
+
+ 
+
+ 
+
+ 
+
+ 
+
+ENERGY IMPACT CREDIT FUND II LP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+Energy Impact Credit Fund II GP LLC, its general partner
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+ 
+/s/ Harry Giovani
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Harry Giovani
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Managing Partner
+
+ 
+
+Signature
+Page to Fifth Amendment to Term Loan, Guarantee and Security Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BP HOLDINGS XVII LP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+BPC AS Cayman LLC, its General Partner
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+BPC AS LLC, its Manager
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+ 
+/s/ Allan Schweitzer
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Allan Schweitzer
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Portfolio Manager
+
+ 
+
+Signature
+Page to Fifth Amendment to Term Loan, Guarantee and Security Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exhibit
+A
+
+ 
+
+MARKED
+LOAN AGREEMENT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exhibit
+B
+
+ 
+
+TERM
+SHEET FOR FIFTH AMENDMENT EQUITY ISSUANCE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exhibit
+C
+
+ 
+
+EXHIBIT
+K TO LOAN AGREEMENT 
+
+ 
+
+(PREFERRED
+STOCK PURCHASE AGREEMENT FOR THE FIFTH AMENDMENT EQUITY ISSUANCE AND MATERIAL RELATED DOCUMENTS)

@@ -1,0 +1,4316 @@
+EX-10.1
+
+2
+
+ex10-1.htm
+
+AMENDMENT NUMBER THREE TO LOAN AND SECURITY AGREEMENT
+
+ 
+
+ 
+
+ 
+
+Vertex Energy Inc. 8-K
+
+ 
+
+Exhibit
+10.1
+
+ 
+
+AMENDMENT
+NUMBER THREE
+
+TO LOAN AND SECURITY AGREEMENT
+
+ 
+
+THIS
+AMENDMENT NUMBER THREE TO LOAN AND SECURITY AGREEMENT 
+(this “
+Amendment No. 3
+”), dated as of January 8,
+2023, is entered into by and among Vertex Energy Inc., a Nevada corporation (“
+Parent
+”), Vertex Refining Alabama
+LLC, a Delaware limited liability company (“
+Borrower
+”), each of Parent’s direct and indirect Subsidiaries
+listed on Schedule 1 hereto other than Excluded Subsidiaries (collectively, the “
+Existing Subsidiary Guarantors
+”
+and each, individually, an “
+Existing Subsidiary Guarantor
+”), Vertex Renewables LLC, a Delaware limited liability
+company (“
+Vertex Renewables
+”), Vertex Renewables Alabama LLC, a Delaware limited liability company (“
+Vertex
+Renewables Alabama
+”; Vertex Renewables, together with Vertex Renewables Alabama, each a “
+New Subsidiary Guarantor
+”
+and collectively, the “
+New Subsidiary Guarantors
+”; the New Subsidiary Guarantors, together with the Existing
+Subsidiary Guarantors and Parent, each a “
+Guarantor
+” and collectively, the “
+Guarantors
+”),
+Cantor Fitzgerald Securities (“
+Cantor
+”) as administrative agent and collateral agent for the Lenders (“
+Agent
+”)
+and the lenders from time to time party hereto, constituting the Required Lenders (collectively with the Initial Lenders, the
+“
+Lenders
+” and each, a “
+Lender
+”).
+
+ 
+
+W
+I T N E S S E T H
+
+ 
+
+WHEREAS
+,
+Parent, Borrower, the Existing Subsidiary Guarantors, Lenders and Agent are parties to that certain Loan and Security Agreement,
+dated as of April 1, 2022, as amended by that certain Amendment No. 1 to Loan and Security Agreement, dated as of May 26, 2022
+and that certain Amendment No. 2 to Loan and Security Agreement, dated as of September 30, 2022 (the “
+Existing Loan Agreement
+”,
+and the Existing Loan Agreement as amended by this Amendment No. 3, the “
+Loan Agreement
+”; capitalized terms
+used herein and not otherwise defined shall have the meanings set forth in the Loan Agreement);
+
+ 
+
+WHEREAS
+,
+certain Defaults have occurred under the Existing Loan Agreement which are described in more detail on 
+Annex I
+ attached
+hereto (the “
+Specified Defaults
+”);
+
+ 
+
+WHEREAS
+,
+pursuant to Section 14.4(c) of the Loan Agreement, the Loan Parties have requested that the Lenders constituting the Required
+Lenders waive the Specified Defaults under the Loan Agreement;
+
+ 
+
+WHEREAS
+,
+the Lenders party hereto comprising the Required Lenders are willing to waive the Specified Defaults in accordance with and subject
+to the terms and conditions set forth herein;
+
+ 
+
+WHEREAS
+,
+Borrower has requested that Agent and Lenders consent to certain amendments to the Existing Loan Agreement, including, in relation
+to the extension of the timeline for delivering the annual operating budget for fiscal year 2023 (the “
+Budget Extension
+”);
+and
+
+ 
+
+WHEREAS
+,
+upon the terms and conditions set forth herein, Agent and Lenders have agreed to make such amendments to the Existing Loan Agreement
+to effectuate, among other things, the Budget Extension, on the terms and conditions set forth herein.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NOW,
+THEREFORE
+, in consideration of the foregoing and the mutual covenants herein contained, and for other good and valuable consideration,
+the receipt and sufficiency of which are hereby acknowledged, the parties hereby agree as follows:
+
+ 
+
+1.            
+Defined
+Terms
+. All initially capitalized terms used herein (including the preamble and recitals hereof) without definition shall have
+the meanings ascribed thereto in Section 1.1 of the Loan Agreement.
+
+ 
+
+2.
+
+Limited
+Waiver under the Loan Agreement
+.
+
+ 
+
+Limited
+Waiver of Specified Defaults and Related Representations and Warranties/Covenants
+. Notwithstanding the provisions of the Loan
+Agreement to the contrary, the Lenders party hereto (which, for the avoidance of doubt, constitute the Required Lenders) hereby
+waive, on a one-time basis, the Specified Defaults and any Default or Event of Default directly related thereto (including, without
+limitation, any Default or Event of Default arising from or relating to any certification or representation made or deemed made
+as to the absence of a Default or Event of Default).
+
+ 
+
+(a)
+
+Effectiveness
+ of Limited Waiver
+. This waiver shall be effective only to the extent specifically
+ set forth herein and shall not (i) be construed as a waiver of any breach, Default or
+ Event of Default other than as specifically waived herein nor as a waiver of any breach,
+ Default or Event of Default of which the Lenders have not been informed by the Loan Parties,
+ (ii) affect the right of the Lenders to demand compliance by the Loan Parties with all
+ terms and conditions of the Loan Documents, except as specifically waived by this Waiver,
+ (iii) be deemed a waiver of any transaction or future action on the part of the Loan
+ Parties requiring the Lenders’ or the Required Lenders’ consent (as applicable)
+ or approval under the Loan Documents, (iv) except as waived hereby, be deemed or construed
+ to be a waiver or release of, or a limitation upon, the Agent’s or the Lenders’
+ exercise of any rights or remedies under the Loan Agreement or any other Loan Document,
+ whether arising as a consequence of any Default or Event of Default (other than as specifically
+ waived herein) whether now existing or otherwise, all such rights and remedies hereby
+ being expressly reserved, or (v) establish a custom or course of dealing or conduct between
+ the Agent and the Lenders, on the one hand, and the Borrower or any other Loan Party
+ on the other hand.
+
+ 
+
+3.
+
+Amendments
+to Loan Agreement
+.
+
+ 
+
+(a)
+
+Section
+ 6.3(a)(iv) of the Existing Loan Agreement is hereby amended by amending and restating
+ such section as follows:
+
+ 
+
+“(iv)
+as soon as available, but in any event within thirty (30) days prior to the end of Parent’s fiscal year, an annual operating
+budget and financial projections (including income statements, balance sheets and cash flow statements) for such fiscal year,
+presented in a quarterly format reasonably acceptable to the Required Lenders, provided that with respect to Borrower’s
+annual operating budget for fiscal year 2023, the Borrower may deliver such annual operating budget to Agent by no later than
+January 10, 2023.”
+
+ 
+
+(b)
+
+Section
+ 6.4 of the Existing Loan Agreement is hereby amended by amending and restating such section
+ as follows (
+for the avoidance of doubt, the stricken text and underlined text are
+ for purposes of reflecting the specific amendments to the below paragraph only
+):
+
+ 
+
+“
+6.4
+Certificates of Compliance; Disclosure Letter Updates.
+ Each time financial statements are required to be furnished pursuant
+to Section 6.
+3(a)(i) or (iii) above, there shall be delivered to Agent a certificate signed by a Responsible
+Officer of Parent (each a “
+Compliance Certificate
+”) in substantially the form attached hereto as 
+
+Exhibit
+G
+
+ certifying that as of the end of the reporting period for such financial statements, the Loan Parties were in full compliance
+with all of the terms and conditions of the Loan Documents, and setting forth such other information as Agent shall reasonably
+request.
+ If any information contained in the Schedules to the Disclosure Letter changes after the Closing Date and if that
+information relates to a subsection of Section 5 which specifically allows for information in the Disclosure Letter to be updated
+after the Closing Date, Borrower shall update such information in an amended Disclosure Letter (if applicable), to be delivered
+with the next compliance certificate then due. Parent shall deliver the Compliance Certificate and updated Disclosure Letter (if
+any) to Agent by email to the address specified pursuant to 
+Section 11
+, and Agent and Lenders shall be entitled to rely
+on the information contained therein.”
+
+ 
+
+ 
+
+2
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c)
+
+Exhibit
+ G to the Existing Loan Agreement is hereby amended by replacing the reference to (i)
+ $12,500,000 with $17,500,000 and (ii) 60 days with 45 days. A new Exhibit G incorporating
+ such amendments is attached hereto as 
+Annex II
+.
+
+ 
+
+4.
+
+Conditions
+ Precedent to Amendment
+. The satisfaction (or waiver in writing by Agent (at the direction
+ of the Required Lenders) or the Required Lenders) of each of the following shall constitute
+ conditions precedent to the effectiveness of this Amendment No. 3 (the date on which
+ all such conditions precedent are either satisfied or waived, being the “
+Third
+ Amendment Effective Date
+”):
+
+ 
+
+(a)
+
+The
+ Agent and the Lenders shall have received this Amendment No. 3, duly executed by the
+ parties hereto;
+
+ 
+
+(b)
+
+[Reserved];
+
+ 
+
+(c)
+
+A
+ duly executed officer’s certificate of each New Subsidiary Guarantor containing
+ the following documents: (i) the Organization Documents of each New Subsidiary Guarantor
+ (which, to the extent filed with a Governmental Authority, shall be certified as of a
+ recent date by such Governmental Authority) or to the extent applicable, certifying no
+ change thereto as of the Third Amendment Effective Date, (ii) resolutions authorizing
+ the Loan Documents, (iii) a good standing certificate from (A) each New Subsidiary Guarantor’s
+ state of formation and (B) from any state where such party is, or is required to be,
+ qualified to do business to the extent failure to so qualified could reasonably be expected
+ to have a Material Adverse Effect and (iv) incumbency and representative signatures,
+ or to the extent applicable, certifying no change thereto as of the Third Amendment Effective
+ Date;
+
+ 
+
+(d)
+
+All
+ necessary consents of stockholders or members and other third parties with respect to
+ the execution, delivery and performance of the Loan Documents by the New Subsidiary Guarantors;
+
+ 
+
+(e)
+
+The
+ execution and delivery by the New Subsidiary Guarantors of a Joinder to Loan Agreement;
+
+ 
+
+(f)
+
+The
+ execution and delivery by the New Subsidiary Guarantors of a Joinder to Intercreditor
+ Agreement;
+
+ 
+
+ 
+
+3
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(g)
+
+The
+ execution and delivery by the New Subsidiary Guarantors of a Joinder to Intercompany
+ Subordination Agreement;
+
+ 
+
+(h)
+
+The
+ execution and delivery by the New Subsidiary Guarantors of a Joinder to Collateral Pledge
+ Agreement (collectively the documents in 
+clauses (e)
+ through 
+(h)
+ referred
+ to herein as the “
+Joinder Documents
+”);
+
+ 
+
+(i)
+
+[Reserved];
+
+ 
+
+(j)
+
+Customary
+ legal opinion of Stroock & Stroock & Lavan LLP, in its capacity as special counsel
+ to the New Subsidiary Guarantors, dated as of the Third Amendment Effective Date and
+ addressed to the Agent and the Lenders;
+
+ 
+
+(k)
+
+Such
+ documents, instruments and agreements, including certificates evidencing Collateral consisting
+ of Equity Interests, Uniform Commercial Code financing statements or amendments to Uniform
+ Commercial Code financing statements, as the Lenders shall reasonably request to evidence
+ the perfection and priority of the security interests granted to Agent pursuant to Article
+ 4 of the Loan Agreement;
+
+ 
+
+(l)
+
+Subject
+ to Section 6.12 of the Loan Agreement, the Agent shall have received, all documents,
+ agreements and instruments required to create and perfect the Agent’s security
+ interest in the Collateral. The New Subsidiary Guarantors shall have filed or shall have
+ provided all UCC-1 financing statements in form for filing by the Required Lenders or
+ their counsel and shall have delivered all certificated pledged equity and documented
+ pledged debt (if any) with appropriate transfer powers and/or allonges by the Third Amendment
+ Effective Date;
+
+ 
+
+(m)
+
+The
+ New Subsidiary Guarantors shall have provided no less than three (3) Business Days prior
+ to the Third Amendment Effective Date the documentation and other information to the
+ Lenders that are reasonably requested by the Lenders no later than 10 days prior to the
+ Third Amendment Effective Date under applicable “know your customer” and
+ anti-money laundering rules and regulations, including the USA PATRIOT ACT, the USA FREEDOM
+ Act, IRS Form W-9 (if applicable) and other applicable tax forms;
+
+ 
+
+(n)
+
+Confirmation
+ that (i) the representations and warranties contained in Section 5 of the Loan Agreement
+ and in 
+Section 5
+ hereof shall be true and correct on and as of the Third Amendment
+ Effective Date (except for such representations and warranties made as of a specific
+ date, in which case such representations and warranties shall be true and correct as
+ of such specific date), after giving effect in all cases to any standard(s) of materiality
+ contained in Article 5 of the Loan Agreement and 
+Section 5
+ hereof as to such representations
+ and warranties, and (ii) after giving effect to the waiver in Section 2 hereof, no Default
+ or Event of Default shall have occurred and be continuing; and
+
+ 
+
+(o)
+
+Such
+ other documents, and completion of such other matters, as Agent or Lenders may reasonably
+ deem necessary or appropriate.
+
+ 
+
+For
+purposes of determining compliance with the conditions specified in this 
+Section 4
+, each Lender that has signed this Amendment
+No. 3 shall be deemed to have consented to, approved or accepted or to be satisfied with, each document or other matter required
+hereunder to be consented to or approved by or acceptable or satisfactory to a Lender unless the Agent shall have received notice
+from such Lender prior to the proposed Third Amendment Effective Date specifying its objection thereto.
+
+ 
+
+ 
+
+4
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.
+
+Representations
+ and Warranties
+. Each Loan Party jointly and severally, hereby:
+
+ 
+
+(a)
+
+represents
+ and warrants that, each of the representations and warranties made to Agent and Lenders
+ under the Loan Agreement and all of the other Loan Documents are true and correct in
+ all material respects (except that such materiality qualifier shall not be applicable
+ to any representations and warranties that already are qualified or modified as to “materiality”
+ or “Material Adverse Effect” in the text thereof, which representations and
+ warranties are true and correct in all respects subject to such qualification) on and
+ as of the date hereof (after giving effect to this Amendment No. 3 and the other documents
+ executed in connection with this Amendment No. 3) except to the extent that such representations
+ and warranties specifically relate to an earlier date, in which case such representations
+ and warranties shall be true and correct in all material respects (except that such materiality
+ qualifier shall not be applicable to any representations or warranties that already are
+ qualified or modified as to “materiality” or “Material Adverse Effect”
+ in the text thereof, which representations and warranties shall be true and correct in
+ all respects subject to such qualification) on and as of such earlier date;
+
+ 
+
+(b)
+
+represents
+ and warrants that, after giving effect to this Amendment No. 3, no Default or Event of
+ Default will have occurred and be continuing;
+
+ 
+
+(c)
+
+represents
+ and warrants that the execution, delivery and performance by each Loan Party of this
+ Amendment No. 3 and the other documents, agreements and instruments executed by any Loan
+ Party in connection herewith (collectively, together with this Amendment No. 3, the “
+Amendment
+ Documents
+”) and the consummation of the transactions contemplated hereby or
+ thereby, are within such Loan Party’s powers, have been duly authorized by all
+ necessary organizational action, and do not contravene (i) the Organization Documents
+ of such Loan Party or (ii) any law or any material Contractual Obligation of any Loan
+ Party, except, for purposes of this 
+clause (c)
+, to the extent such contravention
+ would not reasonably be expected to have a Material Adverse Effect;
+
+ 
+
+(d)
+
+represents
+ and warrants that no authorization or approval or other action by, and no notice to or
+ filing with, any Governmental Authority, any stockholders, members, partners or any other
+ equityholders of any Loan Party, and any Person pursuant to any Contractual Obligation,
+ is required for the due execution, delivery and performance by any Loan Party of any
+ Amendment Document to which it is a party that has not already been obtained if the failure
+ to obtain such authorization, approval or other action, or to provide such notice or
+ make such filing, could reasonably be expected to result in a Material Adverse Effect;
+
+ 
+
+(e)
+
+represents
+ and warrants that each Amendment Document has been duly executed and delivered by each
+ Loan Party party thereto; and
+
+ 
+
+(f)
+
+represents
+ and warrants that this Amendment No. 3 constitutes, and each other Amendment Document
+ to be executed on the date hereof will constitute, upon execution, the legal, valid and
+ binding obligation of each Loan Party party thereto enforceable against such Loan Party
+ in accordance with its respective terms, subject to the effect of any applicable bankruptcy,
+ insolvency, reorganization or moratorium or similar laws relating to or affecting the
+ rights of creditors generally and subject to general principles of equity (regardless
+ of whether enforcement is sought in a proceeding at law or in equity).
+
+ 
+
+ 
+
+5
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6.
+
+Payment
+ of Costs and Fees
+. Borrower shall pay to Agent and each Lender all expenses required
+ to be paid pursuant to Section 2.5 and Section 10.3 of the Loan Agreement in connection
+ with the preparation, negotiation, execution and delivery of this Amendment No. 3 and
+ any documents and instruments relating hereto.
+
+ 
+
+7.
+
+GOVERNING
+ LAW; JURISDICTION; WAIVER OF JURY TRIAL PROVISIONS
+. THIS AMENDMENT NO. 3 SHALL BE
+ SUBJECT TO THE PROVISIONS REGARDING GOVERNING LAW, JURISDICTION, AND WAIVER OF JURY TRIAL
+ SET FORTH IN SECTION 14.14 OF THE LOAN AGREEMENT, AND SUCH PROVISIONS ARE INCORPORATED
+ HEREIN BY THIS REFERENCE, 
+MUTATIS MUTANDIS
+.
+
+ 
+
+8.
+
+Amendments
+.
+ This Amendment No. 3 cannot be altered, amended, changed or modified in any respect except
+ in accordance with Section 14.4 of the Loan Agreement.
+
+ 
+
+9.
+
+Counterparts
+.
+ This Amendment No. 3 and any notices delivered under this Amendment No. 3 may be executed
+ by means of (i) an electronic signature that complies with the Federal Electronic Signatures
+ in Global and National Commerce Act, the New York State Electronic Signatures and Records
+ Act or any other similar state laws based on the Uniform Electronic Transactions Act;
+ (ii) an original manual signature; or (iii) a faxed, scanned, or photocopied manual signature.
+ Each electronic signature or faxed, scanned, or photocopied manual signature shall for
+ all purposes have the same validity, legal effect, and admissibility in evidence as an
+ original manual signature. The words “execution,” “execute”,
+ “signed,” “signature,” and words of like import in or related
+ to any document to be signed in connection with this Agreement and the transactions contemplated
+ hereby shall be deemed to include electronic signatures or the keeping of records in
+ electronic form, each of which shall be of the same legal effect, validity or enforceability
+ as a manually executed signature or the use of a paper-based recordkeeping system, as
+ the case may be, to the extent and as provided for in any Applicable Law, including the
+ Federal Electronic Signatures in Global and National Commerce Act, the New York State
+ Electronic Signatures and Records Act, or any other similar state laws based on the Uniform
+ Electronic Transactions Act. This Amendment No. 3 may be executed in any number of counterparts,
+ and it is not necessary that the signatures of all parties hereto be contained on any
+ one counterpart hereof, each counterpart will be deemed to be an original, and all together
+ shall constitute one and the same document.
+
+ 
+
+10.
+
+Effect
+ on Loan Documents
+.
+
+ 
+
+(a)       The
+Loan Agreement, as amended hereby, and each of the other Loan Documents shall be and remain in full force and effect in accordance
+with their respective terms and hereby are ratified and confirmed in all respects. The execution, delivery, and performance of
+this Amendment No. 3 shall not operate, except as expressly set forth herein, as a modification or waiver of any right, power,
+or remedy of Agent or any Lender under the Loan Agreement or any other Loan Document. Except for the amendments to the Loan Agreement
+expressly set forth herein, the Loan Agreement and the other Loan Documents shall remain unchanged and in full force and effect.
+
+ 
+
+(b)       Upon
+and after the effectiveness of this Amendment No. 3, each reference in the Loan Agreement to “this Agreement”, “hereunder”,
+“herein”, “hereof” or words of like import referring to the Loan Agreement, and each reference in the
+other Loan Documents to “the Loan Agreement”, “thereunder”, “therein”, “thereof”
+or words of like import referring to the Loan Agreement, shall mean and be a reference to the Loan Agreement as modified and amended
+hereby.
+
+ 
+
+ 
+
+6
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c)       To
+the extent that any of the terms and conditions in any of the Loan Documents shall contradict or be in conflict with any of the
+terms or conditions of the Loan Agreement, after giving effect to this Amendment No. 3, such terms and conditions are hereby deemed
+modified or amended accordingly to reflect the terms and conditions of the Loan Agreement as modified or amended hereby.
+
+ 
+
+(d)       This
+Amendment No. 3 is a Loan Document.
+
+ 
+
+11.
+
+Entire
+ Agreement
+. This Amendment No. 3 and each of the other Loan Documents, taken together,
+ constitute and contain the entire agreement between the Loan Parties, Agent and Lenders
+ and supersede any and all prior agreements, negotiations, correspondence, understandings
+ and communications between the parties, whether written or oral, respecting the subject
+ matter hereof.
+
+ 
+
+12.
+
+Reaffirmation
+ of Obligations
+. The Loan Parties hereby acknowledge and agree that all terms, covenants,
+ conditions and provisions of the Loan Documents (including, without limitation, each
+ Collateral Document) continue in full force and effect, are herein reaffirmed in their
+ entirety and remain unaffected and unchanged, except to the extent expressly set forth
+ in this Amendment No. 3. Neither this Amendment No. 3 nor the execution and delivery
+ of this Amendment No. 3 by Agent, the Lenders and the Loan Parties hereto shall constitute
+ a novation or renewal of the Term Loan or the Indebtedness or any of the Loan Documents.
+ This Amendment No. 3, except to the extent expressly set forth herein, is not intended
+ to and shall not be deemed or construed to create or constitute a waiver, release, or
+ relinquishment of, and shall not affect, the liens, security interests and rights, remedies
+ and interests under the Loan Documents, all of which are hereby ratified, confirmed,
+ renewed and extended in all respects.
+
+ 
+
+13.
+
+Severability
+ of Provisions
+. Each provision of this Amendment No. 3 shall be severable from every
+ other provision of this Amendment No. 3 for the purpose of determining the legal enforceability
+ of any specific provision.
+
+ 
+
+14.
+
+Agent
+.
+ The Agent has executed this Amendment No. 3 as directed under and in accordance with
+ the Loan Agreement and will perform this Amendment No. 3 solely in its capacity as Agent
+ hereunder, and not individually. In performing under this Amendment No. 3, the Agent
+ shall have all rights, protections, immunities and indemnities granted to it under the
+ Loan Agreement. Subject to the terms of the Loan Agreement, the Agent shall have no obligation
+ to perform or exercise any discretionary act. Each of the undersigned Lenders, constituting
+ the Required Lenders both prior to and immediately after the Third Amendment Effective
+ Date hereby directs and consents to the Agent’s execution of this Amendment No.
+ 3, the Joinder Documents and the documents contemplated hereunder and thereunder.
+
+ 
+
+ 
+
+7
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+15.
+
+Intercreditor
+ Agreement Governs
+. This Amendment No. 3 and the other Loan Documents are subject
+ to the terms and conditions set forth in the Intercreditor Agreement, in all respects
+ and, in the event of any conflict between the terms of the Intercreditor Agreement and
+ this Amendment No. 3, the terms of the Intercreditor Agreement shall govern. Notwithstanding
+ anything herein to the contrary, the lien and security interest granted to the Agent
+ or any Intermediation Facility Agent, as applicable, pursuant to any Loan Document or
+ any Intermediation Facility Document, and the exercise of any right or remedy in respect
+ of the Collateral by the Agent or any Intermediation Facility Agent, as applicable hereunder,
+ under any other Loan Document, under any Intermediation Facility Document and any other
+ agreement entered into in connection with the foregoing are subject to the provisions
+ of the Intercreditor Agreement and in the event of any conflict between the terms of
+ the Intercreditor Agreement, this Amendment No. 3, any other Loan Document, any Intermediation
+ Facility Document and any other agreement entered into in connection with the foregoing,
+ the terms of the Intercreditor Agreement shall govern and control with respect to the
+ exercise of any such right or remedy or the Loan Parties’ covenants and obligations.
+
+ 
+
+[Signature
+pages follow]
+
+ 
+
+ 
+
+8
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, the parties have entered into this Amendment No. 3 as of the date first above written.
+
+ 
+
+ 
+
+NEW
+ SUBSIDIARY GUARANTORS
+:
+
+ 
+
+VERTEX
+ RENEWABLES LLC,
+
+ 
+
+ 
+
+ 
+
+a
+ Delaware limited liability company
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+ and Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VERTEX
+ RENEWABLES ALABAMA LLC,
+
+ 
+
+ 
+
+ 
+
+a
+ Delaware limited liability company
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+ and Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PARENT
+:
+
+ 
+
+VERTEX
+ ENERGY, INC.,
+
+ 
+
+ 
+
+ 
+
+a
+ Nevada corporation
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+ and Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BORROWER
+:
+
+ 
+
+VERTEX
+ REFINING ALABAMA LLC,
+
+ 
+
+ 
+
+ 
+
+a
+ Louisiana limited liability company
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+ and Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Signature
+page to Amendment No. 3]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EXISTING
+ SUBSIDIARY GUARANTORS
+:
+
+ 
+
+VERTEX
+ REFINING TEXAS LLC,
+
+ 
+ 
+
+ 
+
+a
+ Texas limited liability company
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+ and Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VERTEX
+ MARINE FUEL SERVICES LLC,
+
+ 
+
+ 
+
+ 
+
+a
+ Delaware limited liability company
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+ and Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VERTEX
+ ENERGY OPERATING, LLC,
+
+ 
+
+ 
+
+ 
+
+a
+ Texas limited liability company
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+ and Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VERTEX
+ REFINING LA, LLC,
+
+ 
+
+ 
+
+ 
+
+a
+ Louisiana limited liability company
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+ and Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VERTEX
+ REFINING OH, LLC,
+
+ 
+
+ 
+
+ 
+
+an
+ Ohio limited liability company
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+ and Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HPRM
+ LLC,
+
+ 
+
+ 
+
+ 
+
+a
+ Delaware limited liability company
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Director,
+ President and Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Signature
+page to Amendment No. 3]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+TENSILE-HEARTLAND
+ ACQUISITION CORPORATION,
+
+ 
+ 
+
+ 
+
+a
+ Delaware corporation
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+Director,
+ President and Chief Executive Officer
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+VERTEX
+ RECOVERY MANAGEMENT, LLC,
+
+ 
+ 
+
+ 
+
+a
+ Texas limited liability company
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+ and Chief Executive Officer
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+VERTEX
+ REFINING NV, LLC,
+
+ 
+ 
+
+ 
+
+a
+ Nevada limited liability company
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+ and Chief Executive Officer
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+VERTEX
+ SPLITTER CORPORATION,
+
+ 
+ 
+
+ 
+
+a
+ Delaware corporation
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+Director
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+VERTEX
+ REFINING MYRTLE GROVE LLC,
+
+ 
+ 
+
+ 
+
+a
+ Delaware corporation
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+ and Chief Executive Officer
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+CRYSTAL
+ ENERGY, LLC,
+
+ 
+ 
+
+ 
+
+an
+ Alabama limited liability company
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Signature
+page to Amendment No. 3]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+VERTEX
+ ACQUISITION SUB, LLC,
+
+ 
+ 
+
+ 
+
+a
+ Nevada limited liability company
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+ and Chief Executive Officer
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+BANGO
+ OIL LLC,
+
+ 
+ 
+
+ 
+
+a
+ Nevada limited liability company
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+ and Chief Executive Officer
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+CEDAR
+ MARINE TERMINALS, LP,
+
+ 
+ 
+
+ 
+
+a
+ Texas limited partnership
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+ Vertex II GP, its General Partner
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+ and Chief Executive Officer
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+CROSSROAD
+ CARRIERS, L.P.,
+
+ 
+ 
+
+ 
+
+a
+ Texas limited partnership
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+ Vertex II GP, its General Partner
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+ and Chief Executive Officer
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+VERTEX
+ RECOVERY, L.P.,
+
+ 
+ 
+
+ 
+
+a
+ Texas limited partnership
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+ Vertex II GP, its General Partner
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+ and Chief Executive Officer
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Signature
+page to Amendment No. 3]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+H
+ & H OIL, L.P.,
+
+ 
+ 
+
+ 
+
+a
+ Texas limited partnership
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+ Vertex II GP, its General Partner
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+ and Chief Executive Officer
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+VERTEX
+ II GP, LLC,
+
+ 
+ 
+
+ 
+
+a
+ Nevada limited liability company
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+ and Chief Executive Officer
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+TENSILE-MYRTLE
+ GROVE ACQUISITION CORPORATION,
+
+ 
+ 
+
+ 
+
+a
+ Delaware corporation
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+ and Chairman of the Board
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+VERTEX
+ MERGER SUB, LLC,
+
+ 
+ 
+
+ 
+
+a
+ Delaware limited liability company
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+ P. Cowart
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+ and Chief Executive Officer
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Signature
+page to Amendment No. 3]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+In
+Witness Whereof
+
+,
+
+the parties hereto have caused this Amendment
+No. 3 to be executed as of the date first above written.
+
+ 
+
+ 
+ 
+
+ 
+
+LENDERS
+:
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+WHITEBOX
+ MULTI-STRATEGY PARTNERS, LP
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Andrew Thau
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Andrew
+ Thau
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Senior
+ Legal Analyst
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+WHITEBOX
+ RELATIVE VALUE PARTNERS, LP
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Andrew Thau
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Andrew
+ Thau
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Senior
+ Legal Analyst
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+WHITEBOX
+ GT FUND, LP
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Andrew Thau
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Andrew
+ Thau
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Senior
+ Legal Analyst
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+PANDORA
+ SELECT PARTNERS, LP
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Andrew Thau
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Andrew
+ Thau
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Senior
+ Legal Analyst
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Signature
+page to Amendment No. 3]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+HIGHBRIDGE
+ TACTICAL CREDIT MASTER FUND, L.P.
+,
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+Highbridge
+ Capital Management, LLC,
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+as
+ Trading Manager and not in its individual capacity
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Jonathan Segal
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Jonathan
+ Segal
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Managing
+ Director, Co-Chief Investment Officer
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Signature
+page to Amendment No. 3]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+BLACKROCK
+ DIVERSIFIED PRIVATE DEBT FUND MASTER
+ LP
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+BlackRock
+ Financial Management, Inc., its
+ manager
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Zach Viders
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Zach
+ Viders
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Authorized
+ Signatory
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+GCO
+ II Aggregator 2 L.P.
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+BlackRock
+ Financial Management, Inc., its
+ manager
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Zach Viders
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Zach
+ Viders
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Authorized
+ Signatory
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Signature
+page to Amendment No. 3]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+CHAMBERS
+ ENERGY CAPITAL IV, LP
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+CEC
+ Fund IV GP, LLC, its general partner
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Robert Hendricks
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Robert
+ Hendricks
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Partner
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Signature
+page to Amendment No. 3]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+CROWDOUT
+ CAPITAL LLC
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Alexander Schoenbaum
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Alexander
+ Schoenbaum
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Managing
+ Member
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+CROWDOUT
+ CREDIT OPPORTUNITIES FUND LLC
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Alexander Shoenbaum
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Alexander
+ Schoenbaum
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Managing
+ Member
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Signature
+page to Amendment No. 3]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+AGENT
+:
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+CANTOR
+ FITZGERALD SECURITIES, as Agent
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ James Buccola
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+James
+ Buccola
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Head
+ of Fixed Income
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Signature
+page to Amendment No. 3]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANNEX
+I 
+
+SPECIFIED
+DEFAULTS
+
+ 
+
+Pursuant
+to Section 8.2 of the Existing Loan Agreement, a Default has occurred as a result of each of the following:
+
+ 
+
+●
+
+the
+ Borrower’s failure to deliver an annual operating budget at least thirty (30) days
+ prior to the end of Parent’s fiscal year, as required by Section 6.3(a)(iv) of
+ the Loan Agreement;
+
+ 
+
+●
+
+the
+ Borrower’s failure to deliver Parent’s consolidated financial statements
+ including a cash flow statement, income statement and balance sheet for the period reported
+ and certified by a Responsible Officer of Parent within thirty (30) days after the end
+ of each calendar month during the occurrence and continuation of a Default or Event of
+ Default, as required by Section 6.3(a)(ii); and
+
+ 
+
+●
+
+Parent’s
+ failure to deliver the Compliance Certificate concurrently with the quarterly financials
+ delivered on (i) June 30, 2022 and (ii) September 30, 2022, as required by Section 6.4
+ of the Loan Agreement and any amendments, if applicable, to the Disclosure Letter since
+ the Closing Date or the latest delivered Compliance Certificate, including, any specific
+ updates to Vehicles and any changes to any Intellectual Property rights, as required
+ by Section 5.22 and Section 6.10(a) of the Loan Agreement.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANNEX
+II 
+
+EXHIBIT
+G – COMPLIANCE CERTIFICATE 
+
+ 
+
+[See
+Attached]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exhibit
+G
+
+ 
+
+Compliance
+Certificate
+
+ 
+
+VIA
+EMAIL:
+
+ 
+
+[Date]
+
+ 
+
+Cantor
+Fitzgerald Securities
+
+900 West Trade Street, Suite #725 
+
+Charlotte,
+NC 28202 
+
+Attn:
+Bobbie Young 
+
+Phone:
+(704) 374-0574 
+
+Email:
+
+BYoung@cantor.com
+
+ 
+
+Re:
+Vertex Refining Alabama LLC- Compliance Certificate for [
+enter fiscal period
+]
+
+ 
+
+Dear
+[__]:
+
+ 
+
+Reference
+is made to that certain Loan and Security Agreement, dated as of April 1, 2022 (as amended, restated, supplemented and/or otherwise
+modified from time to time, the “
+Loan Agreement
+”), by and among Vertex Energy, Inc., a Nevada corporation (“
+Parent
+”),
+Vertex Refining Alabama LLC, a Delaware limited liability company (the “
+Borrower
+”), each of Parent’s
+direct and indirect subsidiaries from time to time party thereto, Cantor Fitzgerald Securities, as agent (the “
+Agent
+”)
+and the several lenders from time to time party thereto (collectively, the “
+Lenders
+”). Capitalized terms used
+but not defined herein shall have the meaning provided in the Loan Agreement.
+
+ 
+
+The
+undersigned is an officer of the Parent, knowledgeable of all the financial matters of the Parent and the Borrower, and is authorized
+to provide this certification.
+
+ 
+
+The
+undersigned hereby certifies, in his or her capacity as an officer of the Parent and not in an individual capacity, on behalf
+of the Parent, that in accordance with Section 6.4 of the Loan Agreement, except as set forth on Schedule I hereto, the Loan Parties
+are in compliance for the period ending ___________ with all of the terms and conditions of the Loan Documents, and hereby reaffirms
+that except as provided below, all representations and warranties contained therein are true and correct in all material respects
+(or, if qualified by materiality, in all respects) on and as of the date of this Compliance Certificate with the same effect as
+though made on and as of such date (except for such representations and warranties made as of a specific date, which were true
+and correct as of such specific date). Attached are the required documents supporting the above certification, including evidence
+showing compliance with Section 7.19 of the Loan Agreement. The undersigned further certifies that (x) no Default or Event of
+Default has occurred or is continuing and (y) the attached financial statements are prepared in accordance with GAAP, consistently
+applied, (except for the absence of footnotes with respect to unaudited financial statement and subject to normal year-end adjustments)
+and are consistent from one period to the next except as explained below.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Reporting
+ Requirement
+
+ 
+
+Due
+ Date
+
+ 
+
+Check if
+ Included
+
+ 
+
+ 
+
+ 
+
+Quarterly
+ Financial Statements
+
+ 
+
+Quarterly within 45 days
+
+ 
+________
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Annual
+ Audited Financial Statements
+
+ 
+
+FYE within 120 days
+
+ 
+________
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Financial
+ Covenant
+
+ 
+
+Required
+
+ 
+
+Actual
+
+ 
+
+Complies
+
+ 
+(yes/no)
+
+ 
+
+Consolidated
+Liquidity
+
+ 
+
+(Section
+7.19)
+1
+
+ 
+
+$17,500,000
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+As
+applicable, attached hereto is an amended Disclosure Letter (together with, in each case, a copy marked to show changes from the
+previous version).
+
+ 
+
+Please
+use the following space to list any exceptions with respect to the certifications provided above (the listing on an exception
+does not excuse non-compliance):
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+Title:
+
+ 
+
+ 
+
+1
+
+Begin reporting amounts commencing April 1, 2022.

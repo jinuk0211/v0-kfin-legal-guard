@@ -1,0 +1,4618 @@
+EX-10.1
+
+2
+
+ex10-1.htm
+
+AMENDMENT NO. 8 TO THE CREDIT AGREEMENT
+
+ 
+
+ 
+
+ 
+
+KBR, INC. 8-K
+
+Exhibit 10.1
+
+ 
+
+Execution
+Version
+
+ 
+
+AMENDMENT
+NO. 8 TO CREDIT AGREEMENT
+ 
+
+(LIBOR
+TRANSITION AND FISCAL YEAR CHANGE)
+
+ 
+
+THIS
+AMENDMENT NO. 8 TO CREDIT AGREEMENT (this “
+Agreement
+”), dated as of February 6, 2023 (the “
+Amendment
+No. 8 Effective Date
+”), is entered into by and among KBR, INC., a Delaware corporation (“
+KBR
+”), each
+Designated Borrower and each Guarantor (each as defined in the Existing Credit Agreement (as defined below) and identified on
+the signature pages hereto, and together with KBR, the “
+Loan Parties
+”), each Affected Facility Lender (as defined
+below), BANK OF AMERICA, N.A., as administrative agent (in such capacity, the “
+Administrative Agent
+”) and as
+the Swing Line Lender (as defined in the Existing Credit Agreement).
+
+ 
+
+RECITALS
+
+ 
+
+WHEREAS
+,
+KBR, the Designated Borrowers, the Administrative Agent and certain banks and other financial institutions (to the extent of their
+Loans and Commitments under the Existing Credit Agreement as in effect immediately prior to giving effect to this Agreement, the
+“
+Existing Lenders
+”) are parties to that certain Syndicated Facility Agreement, dated as of April 25, 2018 (as
+previously amended, as amended hereby and as further amended, restated, amended and restated, extended, supplemented or otherwise
+modified from time to time, the “
+Credit Agreement
+” and the Credit Agreement prior to giving effect to this
+Agreement being referred to as the “
+Existing Credit Agreement
+”), pursuant to which the Existing Lenders have
+extended certain revolving and term loan facilities to KBR and the Designated Borrowers; and
+
+ 
+
+WHEREAS
+,
+certain loans and/or other extensions of credit under the Existing Credit Agreement made available to KBR and/or the Designated
+Borrowers in Dollars are permitted to incur interest, fees, commissions or other amounts based on the London Interbank Offered
+Rate as administered by the ICE Benchmark Administration (“
+LIBOR
+”) in accordance with the terms of the Existing
+Credit Agreement; and
+
+ 
+
+WHEREAS
+,
+KBR, the Designated Borrowers, the Administrative Agent, and each Existing Lender that is either (or both) a Term A-2 Lender or
+a Revolving Credit Lender (such Existing Lenders, the “
+Affected Facility Lenders
+”) have determined, in accordance
+with 
+Section 10.01
+ of the Existing Credit Agreement, that LIBOR for Dollars should be replaced with a successor rate for
+the Term A-2 Facility and the Revolving Credit Facility (each, an “
+Affected Facility
+” and to make certain other
+amendments with the consent of the Required Lenders, and collectively, the “
+Affected Facilities
+”) and, in connection
+therewith, the Administrative Agent has determined that certain conforming changes and amendments are necessary or advisable;
+and
+
+ 
+
+WHEREAS
+,
+KBR has previously informed the Administrative Agent, pursuant to 
+Section 7.13(b)
+ of the Existing Credit Agreement, that
+it has changed its fiscal year from a calendar year ending on December 31 each year to a 52-53 week year ending on the Friday
+closest to December 31 each year, effective beginning with fiscal year 2023, and KBR has requested that pursuant to 
+Section
+7.13
+ of the Existing Credit Agreement it and the Administrative Agent amend the Existing Credit Agreement in order to preserve,
+as nearly as practicable, the rights of the parties to the Credit Agreement that would have happened had no such change in fiscal
+year occurred.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NOW,
+THEREFORE
+, in consideration of the premises and the mutual covenants contained herein, and for other good and valuable consideration,
+the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+ 
+
+1.
+          
+Defined Terms
+. Capitalized terms used herein but not otherwise defined herein
+(including on any Appendix attached hereto) shall have the meanings provided to such terms in the Credit Agreement, as amended
+by this Agreement.
+
+ 
+
+2.            
+Agreement
+.
+Notwithstanding any provision of the Existing Credit Agreement, the Credit Agreement or any other Loan Document to the contrary:
+
+ 
+
+(a)        the
+parties hereto hereby agree that the terms set forth on 
+Appendix A
+ shall apply to Dollars under each of the Affected Facilities,
+
+provided
+ that for the avoidance of doubt, to the extent provisions in the Credit Agreement apply to Dollars under either
+of the Affected Facilities and such provisions are not specifically addressed by 
+Appendix A
+, the provisions in the Credit
+Agreement shall continue to apply to Dollars under each of the Affected Facilities;
+
+ 
+
+(b)        KBR
+and the Administrative Agent hereby agree, in accordance with 
+Section 7.13
+ of the Credit Agreement, that each reference
+to the fiscal year of KBR set forth in any Loan Document, commencing with the 2023 fiscal year, will be deemed to refer to a fiscal
+year of 52-53 weeks, ending on the Friday closest to December 31 each year, rather than to a fiscal year ending on December 31
+of such year (the “
+New Fiscal Year
+”); 
+provided
+ that for the avoidance of doubt, references to the fiscal
+year of KBR set forth in any Loan Document which specifically identify fiscal year(s) preceding the 2023 fiscal year will remain
+unchanged and will not be deemed to refer to the New Fiscal Year; and
+
+ 
+
+(c)        the
+parties hereto agree that each reference in the Existing Credit Agreement to “Alternative Currency Rate Loan” shall
+be deemed to be replaced with “Alternative Currency Loan” in lieu thereof.
+
+ 
+
+3.            
+Conflict
+with Loan Documents
+. In the event of any conflict between the terms of this Agreement and the terms of the Credit Agreement
+or the other Loan Documents, the terms hereof shall control.
+
+ 
+
+4.            
+Representations
+and Warranties
+. By its execution hereof, each Loan Party hereby represents and warrants to the Administrative Agent and the
+Affected Facility Lenders as follows:
+
+ 
+
+ (a)        the
+execution, delivery and performance by such Loan Party of this Agreement have been duly authorized by all necessary corporate
+or other organizational action and do not and will not (i) contravene the terms of any of such Loan Party’s Organization
+Documents; (ii) conflict with or result in any breach or contravention of, or the creation of any Lien under, or require any payment
+to be made under (A) any Contractual Obligation to which such Loan Party is a party or affecting such Person or the properties
+of such Person or any of its Subsidiaries or (B) any order, injunction, writ or decree of any Governmental Authority or any arbitral
+award to which such Loan Party or its property is subject; or (iii) violate any applicable Law, except, in the cases of clause
+(ii) and (iii) as could not reasonably be expected to have a Material Adverse Effect;
+
+ 
+
+ (b)       this
+Agreement has been duly executed and delivered by each Loan Party, and constitutes a legal, valid and binding obligation of each
+Loan Party (and the Credit Agreement, as amended hereby, and each other Loan Document constitutes the legal, valid and binding
+obligation of each Loan Party party thereto), in each case enforceable against each Loan Party in accordance with its terms, subject
+to applicable bankruptcy, insolvency, reorganization, moratorium or other laws affecting creditors’ rights generally and
+subject to general principles of equity, regardless of whether considered in a proceeding in equity or at law;
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ (c)        before
+and after giving effect to this Agreement, the representations and warranties of each Loan Party contained in 
+Article V
+
+of the Credit Agreement and each other Loan Document are true and correct in all material respects (or, with respect to representations
+and warranties modified by materiality standards, in all respects) on and as of the Amendment No. 8 Effective Date, except to
+the extent that such representations and warranties specifically refer to an earlier date, in which case they shall be true and
+correct in all material respects (or, with respect to representations and warranties modified by materiality standards, in all
+respects) as of such earlier date, and except that for purposes of this clause (c), the representations and warranties contained
+in 
+Sections 5.05(a)
+ and 
+(b)
+ of the Credit Agreement shall be deemed to refer to the most recent statements furnished
+pursuant to 
+Sections 6.01(a)
+ and 
+(b)
+ of the Credit Agreement, respectively; and
+
+ 
+
+ (d)        before
+and after giving effect to this Agreement, no Default exists.
+
+ 
+
+5.           
+Condition
+Precedent
+. This Agreement shall become effective on the first date on which the Administrative Agent shall have received counterparts
+of this Agreement, properly executed by each Borrower, each Guarantor, each Affected Facility Lender (solely with respect to the
+amendments set forth in 
+Section 2(a)
+ above), the Required Lenders (solely with respect to the amendment set forth in 
+Section
+2(c)
+ above) and the Administrative Agent.
+
+ 
+
+6.           
+Miscellaneous
+.
+
+ 
+
+(a)         Except as herein expressly amended, all terms, covenants and provisions of the Credit Agreement and each other Loan Document are
+and shall remain in full force and effect. All references in any Loan Document to the “Credit Agreement” or “this
+Agreement” (or similar terms intended to reference the Credit Agreement) shall henceforth refer to the Credit Agreement
+as amended by this Agreement. This Agreement shall be deemed incorporated into, and a part of, the Credit Agreement.
+
+ 
+
+(b)        This Agreement shall be binding upon and inure to the benefit of the parties hereto, each other Lender and each other Loan Party,
+and their respective successors and assigns.
+
+ 
+
+(c)         THIS AGREEMENT AND ANY CLAIMS, CONTROVERSY, DISPUTE OR CAUSE OF ACTION (WHETHER IN CONTRACT OR TORT OR OTHERWISE) BASED UPON,
+ARISING OUT OF OR RELATING TO THIS AGREEMENT AND THE TRANSACTIONS CONTEMPLATED HEREBY SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE
+WITH, THE LAW OF THE STATE OF NEW YORK. WITHOUT LIMITING THE FOREGOING SENTENCE, THIS AGREEMENT IS SUBJECT TO THE PROVISIONS OF
+
+SECTIONS 10.14
+ AND 
+10.15
+ OF THE CREDIT AGREEMENT RELATING TO GOVERNING LAW, VENUE AND WAIVER OF RIGHT TO TRIAL BY
+JURY, THE PROVISIONS OF WHICH ARE BY THIS REFERENCE INCORPORATED HEREIN IN FULL.
+
+ 
+
+(d)        This Agreement may be in the form of an electronic record (in “.pdf” form or otherwise) and may be executed using
+electronic signatures, which shall be considered as originals and shall have the same legal effect, validity and enforceability
+as a paper record. This Agreement may be executed in as many counterparts as necessary or convenient, including both paper and
+electronic counterparts, but all such counterparts shall be one and the same Agreement.  For the avoidance of doubt, the
+authorization under this paragraph may include, without limitation, use or acceptance by the Administrative Agent of a manually
+signed Agreement which has been converted into electronic form (such as scanned into “.pdf” format), or an electronically
+signed Agreement converted into another format, for transmission, delivery and/or retention. This Agreement may not be amended
+except in accordance with the provisions of 
+Section 10.01
+ of the Credit Agreement.
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+(e)        If any provision of this Agreement, the Existing Credit Agreement as amended hereby or the other Loan Documents is held to be
+illegal, invalid or unenforceable, (i) the legality, validity and enforceability of the remaining provisions of this Agreement,
+the Credit Agreement and the other Loan Documents shall not be affected or impaired thereby and (ii) the parties shall endeavor
+in good faith negotiations to replace the illegal, invalid or unenforceable provisions with valid provisions the economic effect
+of which comes as close as possible to that of the illegal, invalid or unenforceable provisions. The invalidity of a provision
+in a particular jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+
+ 
+
+(f)         The Borrowers agree to pay in accordance with 
+Section 10.04
+ of the Credit Agreement all reasonable and documented out of
+pocket expenses incurred by the Administrative Agent and its Affiliates in connection with the preparation, execution, delivery,
+administration of this Agreement and the other instruments and documents to be delivered hereunder, including, without limitation,
+the reasonable and documented fees, charges and disbursements of counsel to the Administrative Agent with respect thereto and
+with respect to advising the Administrative Agent as to its rights and responsibilities hereunder and thereunder.
+
+ 
+
+(g)        This Agreement shall constitute a “Loan Document” under and as defined in the Credit Agreement.
+
+ 
+
+(h)        All references in any of the Loan Documents to the “Credit Agreement” shall mean the Credit Agreement as amended hereby,
+and as further amended, restated, supplemented or modified from time to time in accordance with the terms thereof.
+
+ 
+
+(i)         This Agreement constitutes the entire contract among the parties relating to the subject matter hereof and supersedes any and
+all previous agreements and understandings, oral or written, relating to the subject matter hereof.
+
+ 
+
+(j)         The headings of this Agreement are for purposes of reference only and shall not limit or otherwise affect the meaning hereof.
+
+ 
+
+ 
+
+ 
+
+[remainder
+of page intentionally left blank]
+
+ 
+
+ 
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+Each
+of the parties hereto has caused a counterpart of this Agreement to be duly executed and delivered as of the date first above
+written.
+
+ 
+
+LOAN
+PARTIES
+:
+
+ 
+
+ 
+
+ 
+
+ 
+
+KBR, INC., a Delaware corporation,
+ as KBR, a Borrower and a Guarantor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+VP, Finance Treasurer
+
+ 
+
+ 
+
+ 
+
+ 
+
+KELLOGG BROWN & ROOT LLC,
+ a Delaware limited liability company, as a Designated Borrower and a Guarantor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+VP, Finance Treasurer
+
+ 
+
+ 
+
+ 
+
+ 
+
+KBR ENGINEERING COMPANY, LLC,
+ a Delaware limited liability company, as a Designated Borrower and a Guarantor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+VP, Finance Treasurer
+
+ 
+
+ 
+
+ 
+
+ 
+
+KBR SERVICES, LLC, a Delaware
+ limited liability company, as a Designated Borrower and a Guarantor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+VP, Finance Treasurer
+
+ 
+
+ 
+
+KBR,
+Inc.
+
+Signature
+Pages
+
+Amendment
+No. 8 to Credit Agreement 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+KBR WYLE SERVICES, LLC, a Delaware
+ limited liability company, as a Designated Borrower and a Guarantor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+VP, Finance Treasurer
+
+  
+
+ 
+
+ 
+
+ 
+
+KBR CONSTRUCTION COMPANY, LLC,
+ a Delaware limited liability company, as a Designated Borrower and a Guarantor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+VP, Finance Treasurer
+
+  
+
+ 
+
+ 
+
+ 
+
+KBR GROUP HOLDINGS, LLC, a Delaware
+ limited liability company, as a Designated Borrower and a Guarantor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+VP, Finance Treasurer
+
+ 
+
+ 
+
+ 
+
+ 
+
+KELLOGG BROWN & ROOT PTY
+ LTD., an Australian limited liability company, as a Designated Borrower in accordance with s 127 of the Corporations Act
+ 2001 (Cth)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Sonia Galindo
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Sonia Galindo
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+KELLOGG
+ BROWN & ROOT LIMITED, a company organized under the laws of England and Wales, as a Designated Borrower
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+Authorized Signatory
+
+ 
+
+ 
+
+KBR, Inc.
+
+Signature Pages
+
+Amendment
+No. 8 to Credit Agreement
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GLOBAL
+LOGISTICS SUPPORT, LLC, a Delaware limited liability company, as a Guarantor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+VP, Finance Treasurer
+
+ 
+
+ 
+
+ 
+
+ 
+
+KBR DIEGO GARCIA, LLC, a Delaware
+ limited liability company, as a Guarantor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Doug Hill
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Doug Hill
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chairman, Managing Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+KBR HOLDINGS, LLC, a Delaware
+ limited liability company, as a Guarantor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+VP, Finance Treasurer
+
+ 
+
+ 
+
+ 
+
+ 
+
+KBR OVERSEAS, INC., a Delaware
+ corporation, as a Guarantor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+ VP, Finance Treasurer
+
+ 
+
+ 
+
+ 
+
+ 
+
+KBR TECHNICAL SERVICES, INC.,
+ a Delaware corporation, as a Guarantor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+VP, Finance Treasurer
+
+ 
+
+ 
+
+KBR,
+Inc.
+
+Signature Pages
+
+Amendment
+No. 8 to Credit Agreement
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+KBR USA LLC, a Delaware limited
+ liability company, as a Guarantor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+VP, Finance Treasurer
+
+ 
+
+ 
+
+ 
+
+ 
+
+WYLE INC., a Delaware corporation,
+ as a Guarantor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+VP, Finance Treasurer
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 MAST HOLDINGS, LLC, a Virginia
+ limited liability company, as a Guarantor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+VP, Finance Treasurer
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dependable
+ Global Solutions
+
+, LLC, a Virginia
+ limited liability company, as a Guarantor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+VP, Finance Treasurer
+
+ 
+
+ 
+
+ 
+
+ 
+
+Kord
+ Technologies, LLC
+
+, a Delaware limited
+ liability company, as a Guarantor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+VP, Finance Treasurer
+
+ 
+
+ 
+
+KBR,
+Inc.
+
+Signature Pages
+
+Amendment No. 8 to Credit Agreement
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Technical
+ Staffing Resources, LLC
+
+, a Delaware
+ limited liability company, as a Guarantor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+VP, Finance Treasurer
+
+ 
+
+ 
+
+ 
+
+ 
+
+Titus
+ Group, LLC
+
+, a Virginia limited liability
+ company, as a Guarantor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+VP, Finance Treasurer
+
+ 
+
+ 
+
+ 
+
+ 
+
+Windjammer,
+ LLC
+
+, a Delaware limited liability
+ company, as a Guarantor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+VP, Finance Treasurer
+
+ 
+
+ 
+
+ 
+
+ 
+
+KELLOGG
+ BROWN & ROOT HOLDINGS (U.K.) LIMITED, a company organized under the laws of England and Wales, as a Designated
+ Borrower
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Natasha Frausto
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Authorized Signatory
+
+ 
+
+ 
+
+KBR,
+Inc.
+
+Signature Pages
+
+Amendment No. 8 to Credit Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ADMINISTRATIVE AGENT and
+AFFECTED FACILITY LENDERS
+
+:
+
+ 
+
+ 
+
+ 
+
+ 
+
+BANK
+ OF AMERICA, N.A.,
+
+ 
+
+ 
+
+ 
+
+as
+ Administrative Agent
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Kyle D Harding 
+
+ 
+
+ 
+
+ 
+
+Name:
+ Kyle D Harding
+
+ 
+
+ 
+
+ 
+
+Title:
+ Vice President
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BANK
+ OF AMERICA, N.A.,
+
+ 
+
+ 
+
+ 
+
+as
+ an Affected Facility Lender and as the Swing Line Lender
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Mukesh Singh
+
+ 
+
+ 
+
+ 
+
+Name:
+ Mukesh Singh
+
+ 
+
+ 
+
+ 
+
+Title
+ : Director
+
+ 
+
+ 
+
+KBR, Inc.
+
+Signature Pages 
+
+Amendment No. 8 to Credit Agreement
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+PNC BANK, NATIONAL ASSOCIATION
+
+, 
+
+as an Affected Facility Lender
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+/s/
+ Eric H. Williams         
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+Eric H. Williams
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+Senior Vice President
+
+ 
+
+ 
+
+KBR, Inc.
+
+Signature Pages 
+
+Amendment No. 8 to Credit Agreement
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BNP
+ PARIBAS
+
+, 
+
+as
+ an Affected Facility Lender
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Rick
+ Pace
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Rick
+ Pace
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Managing
+ Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Kyle Fitzpatrick
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Kyle
+ Fitzpatrick
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Director
+
+ 
+
+ 
+
+KBR, Inc.
+
+Signature Pages 
+
+Amendment No. 8 to Credit Agreement
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CAPITAL
+ ONE, NATIONAL ASSOCIATION
+
+, 
+
+as
+ an Affected Facility Lender
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ David
+ Baynash
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+David
+ Baynash
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Authorized
+ Signatory
+
+ 
+
+ 
+
+KBR, Inc.
+
+Signature Pages 
+
+Amendment No. 8 to Credit Agreement
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CITIBANK,
+ N.A.
+
+, 
+
+as
+ an Affected Facility Lender
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ James Oleskewicz
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+James Oleskewicz
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Vice
+ President
+
+ 
+
+ 
+
+KBR, Inc.
+
+Signature Pages 
+
+Amendment No. 8 to Credit Agreement
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CITIZENS
+ BANK, N.A.
+
+, 
+
+as
+ an Affected Facility Lender
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Dan
+ Laurenzi
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Dan Laurenzi
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Director
+
+ 
+
+ 
+
+KBR, Inc.
+
+Signature Pages 
+
+Amendment No. 8 to Credit Agreement
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+REGIONS BANK
+
+, 
+
+as an Affected Facility Lender
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+/s/ Blake Thompson
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+Blake Thompson
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+Director
+
+ 
+
+ 
+
+KBR, Inc.
+
+Signature Pages 
+
+Amendment No. 8 to Credit Agreement
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+THE
+ BANK OF NOVA SCOTIA, HOUSTON BRANCH
+
+,
+ 
+
+as an Affected Facility Lender
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Joe
+ Lattanzi
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Joe Lattanzi
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Managing
+ Director
+
+ 
+
+ 
+
+KBR, Inc.
+
+Signature Pages 
+
+Amendment No. 8 to Credit Agreement
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+TRUIST BANK
+
+, 
+
+as an Affected Facility Lender
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+/s/ Anika Kirs
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+Anika Kirs
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+Director
+
+ 
+
+ 
+
+KBR, Inc.
+
+Signature Pages 
+
+Amendment No. 8 to Credit Agreement
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MUFG
+ BANK, LTD.
+
+, 
+
+as
+ an Affected Facility Lender
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Maria F. Maia
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Maria
+ F. Maia
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Director
+
+ 
+
+ 
+
+KBR,
+Inc. 
+
+Signature Pages 
+
+Amendment No. 8 to Credit Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SANTANDER
+ BANK, N.A.
+
+, 
+
+as
+ an Affected Facility Lender
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Irv Roa
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Irv Roa
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Managing
+ Director
+
+ 
+
+ 
+
+KBR,
+Inc. 
+
+Signature Pages 
+
+Amendment No. 8 to Credit Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SUMITOMO
+ MITSUI BANKING CORPORATION
+
+, 
+
+as
+ an Affected Facility Lender
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Jeffrey Cobb
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Jeffrey
+ Cobb
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Director
+
+ 
+
+ 
+
+KBR,
+Inc. 
+
+Signature Pages 
+
+Amendment No. 8 to Credit Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HSBC
+ BANK USA, N.A.
+
+, 
+
+as
+ an Affected Facility Lender
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Alberto Caudillo
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Alberto
+ Caudillo
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Sr. Relationship
+ Manager
+
+ 
+
+ 
+
+KBR,
+Inc. 
+
+Signature Pages 
+
+Amendment No. 8 to Credit Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+riyad
+ bank, houston agency
+
+, 
+
+as
+ an Affected Facility Lender
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Chris Chambers
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Chris
+ Chambers
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+General
+ Manager
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Roxanne
+ Crawford
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Roxanne
+ Crawford
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Vice
+ President, Administrative Officer
+
+ 
+
+KBR,
+Inc. 
+
+Signature Pages 
+
+Amendment No. 8 to Credit Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+STANDARD
+ CHARTERED BANK
+
+, 
+
+as
+ an Affected Facility Lender
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Kristopher
+ Tracy
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Kristopher
+ Tracy
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Director,
+ Financing Solutions
+
+ 
+
+KBR,
+Inc. 
+
+Signature Pages 
+
+Amendment No. 8 to Credit Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UNITED
+ BANK
+
+, 
+
+as
+ an Affected Facility Lender
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Edward
+ J. Goedecke
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Edward
+ J. Goedecke
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+SVP
+
+ 
+
+KBR,
+Inc. 
+
+Signature Pages 
+
+Amendment No. 8 to Credit Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appendix
+A
+
+ 
+
+TERMS
+APPLICABLE TO AFFECTED FACILITIES
+
+ 
+
+1.           
+Defined
+Terms
+. As used in this 
+Appendix A
+, the following terms shall have the meanings set forth below (and any capitalized
+term not otherwise defined in this 
+Appendix A
+ or the Agreement to which this 
+Appendix A
+ is attached shall have the
+meaning given thereto in the Credit Agreement):
+
+ 
+
+“
+Administrative
+Agent’s Office
+” means, with respect to Dollars, the Administrative Agent’s address and, as appropriate,
+account specified in the Credit Agreement with respect to Dollars, or such other address or account with respect to Dollars as
+the Administrative Agent may from time to time notify the Borrower and the Lenders.
+
+ 
+
+“
+Affected
+Facility
+” and “
+Affected Facilities
+” have the respective meanings given to such terms in the recitals
+to the Agreement to which this Appendix A is attached.
+
+ 
+
+“
+Affected
+Facility Base Rate
+” means for any day a fluctuating rate per annum equal to the highest of (a) the Federal Funds Rate
+plus 1/2 of 1% (b) the rate of interest in effect for such day as publicly announced from time to time by Bank of America as its
+“prime rate”, (c) Affected Facility Term SOFR plus 1.00% and (d) 1.00%. The “prime rate” is a rate set
+by Bank of America based upon various factors including Bank of America’s costs and desired return, general economic conditions
+and other factors, and is used as a reference point for pricing some loans, which may be priced at, above, or below such announced
+rate. Any change in such prime rate announced by Bank of America shall take effect at the opening of business on the day specified
+in the public announcement of such change. If the Affected Facility Base Rate is being used as an alternate rate of interest with
+respect to any Affected Facility, then the Affected Facility Base Rate shall be the greater of clauses (a), (b) and (d) above
+and shall be determined without reference to clause (c) above
+
+ 
+
+“
+Affected
+Facility Base Rate Loans
+” means a Loan that bears interest at a rate based on the Affected Facility Base Rate.
+
+ 
+
+“
+Affected
+Facility Business Day
+” means any day other than a Saturday, Sunday or other day on which commercial banks are authorized
+to close under the laws of, or are in fact closed in, the state where the Administrative Agent’s Office is located.
+
+ 
+
+“
+Affected
+Facility Committed Loan Notice
+” means a Committed Loan Notice as defined in the Credit Agreement with respect to any
+Affected Facility, and such term shall be deemed to include the Affected Facility Committed Loan Notice attached hereto as 
+Exhibit
+A
+ to this 
+Appendix A
+.
+
+ 
+
+“
+Affected
+Facility Conforming Changes
+” means, with respect to the use, administration of or any conventions associated with Affected
+Facility SOFR or any proposed Affected Facility Successor Rate for Dollars, as applicable, any conforming changes to the definitions
+of “Affected Facility Base Rate”, “Affected Facility SOFR”, “Affected Facility Term SOFR”
+and “Affected Facility Interest Period”, timing and frequency of determining rates and making payments of interest
+and other technical, administrative or operational matters (including, for the avoidance of doubt, the definitions of “Affected
+Facility Business Day” and “Affected Facility U.S. Government Securities Business Day”, timing of borrowing
+requests or prepayment, conversion or continuation notices and length of lookback periods) as may be appropriate, in the reasonable
+discretion of the Administrative Agent (in consultation with KBR), to reflect the adoption and implementation of such applicable
+rate(s) and to permit the administration thereof by the Administrative Agent in a manner substantially consistent with market
+practice for Dollars (or, if the Administrative Agent determines that adoption of any portion of such market practice is not administratively
+feasible or that no market practice for the administration of such rate for Dollars exists, in such other manner of administration
+as the Administrative Agent determines is reasonably necessary in connection with the administration of the Credit Agreement and
+any other Loan Document).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Affected
+Facility Interest Payment Date
+” means, as to any Loan in Dollars under an Affected Facility, the last day of each Affected
+Facility Interest Period applicable to such Loan and the Maturity Date with respect to the applicable Affected Facility.
+
+ 
+
+“
+Affected
+Facility Interest Period
+” means as to each Loan in Dollars under an Affected Facility, the period commencing on the
+date such Loan is disbursed or converted to or continued as an Affected Facility Term SOFR Loan and ending on the date one or
+three months thereafter (in the case of each requested Affected Interest Period, subject to availability), as selected by KBR
+in its Affected Facility Loan Notice; 
+provided
+ that:
+
+ 
+
+(a)         any
+Affected Facility Interest Period that would otherwise end on a day that is not an Affected Facility Business Day shall be extended
+to the next succeeding Affected Facility Business Day unless, in the case of an Affected Facility Term SOFR Loan, such Affected
+Facility Business Day falls in another calendar month, in which case such Affected Facility Interest Period shall end on the next
+preceding Affected Facility Business Day;
+
+ 
+
+(b)         any
+Affected Facility Interest Period pertaining to an Affected Facility Term SOFR Loan that begins on the last Affected Facility
+Business Day of a calendar month (or on a day for which there is no numerically corresponding day in the calendar month at the
+end of such Affected Facility Interest Period) shall end on the last Affected Facility Business Day of the calendar month at the
+end of such Affected Facility Interest Period; and
+
+ 
+
+(c)
+       no Affected Facility Interest Period shall extend beyond the applicable Maturity Date
+with respect to such Affected Facility.
+
+ 
+
+“
+Affected
+Facility Loan
+” means a Loan in Dollars under an Affected Facility.
+
+ 
+
+“
+Affected
+Facility Scheduled Unavailability Date
+” has the meaning set forth in 
+Section 2(g)
+ of this 
+Appendix A
+.
+
+ 
+
+“
+Affected
+Facility SOFR
+” means the Secured Overnight Financing Rate as administered by the Federal Reserve Bank of New York (or
+a successor administrator).
+
+ 
+
+“
+Affected
+Facility SOFR Adjustment
+” with respect to Daily Simple SOFR means 0.10% and with respect to Affected Facility Term SOFR
+means 0.10%.
+
+ 
+
+“
+Affected
+Facility Successor Rate
+” has the meaning set forth in 
+Section 2(g)
+ of this 
+Appendix A
+.
+
+ 
+
+ 
+
+Appendix A-
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Affected
+Facility Term SOFR
+” means:
+
+ 
+
+(a)          for
+any Affected Facility Interest Period with respect to an Affected Facility Term SOFR Loan, the rate per annum equal to the Affected
+Facility Term SOFR Screen Rate two Affected Facility U.S. Government Securities Business Days prior to the commencement of such
+Affected Facility Interest Period with a term equivalent to such Affected Facility Interest Period; 
+provided
+ that if the
+rate is not published prior to 11:00 a.m. on such determination date then Affected Facility Term SOFR means the Affected Facility
+Term SOFR Screen Rate on the first Affected Facility U.S. Government Securities Business Day immediately prior thereto, in each
+case, 
+plus
+ the Affected Facility SOFR Adjustment for such Affected Facility Interest Period; and
+
+ 
+
+(b)         for
+any interest calculation with respect to an Affected Facility Base Rate Loan on any date, the rate per annum equal to the Affected
+Facility Term SOFR Screen Rate with a term of one month commencing that day;
+
+ 
+
+provided
+
+that if Affected Facility Term SOFR determined in accordance with either of the foregoing provisions (a) or (b) of this definition
+would otherwise be less than zero, Affected Facility Term SOFR shall be deemed zero for purposes of this Agreement.
+
+ 
+
+“
+Affected
+Facility Term SOFR Loan
+” means a Committed Loan that bears interest at a rate based on clause (a) of the definition
+of Affected Facility Term SOFR.
+
+ 
+
+“
+Affected
+Facility Term SOFR Replacement Date
+” has the meaning set forth in 
+Section 2(g)
+ of this 
+Appendix A
+.
+
+ 
+
+“
+Affected
+Facility Term SOFR Screen Rate
+” means the forward-looking Affected Facility SOFR term rate administered by CME (or any
+successor administrator satisfactory to the Administrative Agent) and published on the applicable Reuters screen page (or such
+other commercially available source providing such quotations as may be designated by the Administrative Agent from time to time).
+
+ 
+
+“
+Affected
+Facility Type
+” means, with respect to an Affected Facility Loan, its character as an Affected Facility Base Rate Loan
+or an Affected Facility Term SOFR Loan.
+
+ 
+
+“
+Affected
+Facility U.S. Government Securities Business Day
+” means any Affected Facility Business Day, except any Affected Facility
+Business Day on which any of the Securities Industry and Financial Markets Association, the New York Stock Exchange or the Federal
+Reserve Bank of New York is not open for business because such day is a legal holiday under the federal laws of the United States
+or the laws of the State of New York, as applicable.
+
+ 
+
+“
+Applicable
+Rate
+” means the Applicable Rate as defined in the Existing Credit Agreement.
+
+ 
+
+“
+Borrowing
+”
+means a Revolving Credit Borrowing or a Term A-2 Borrowing, as the context may require.
+
+ 
+
+“
+CME
+”
+means CME Group Benchmark Administration Limited.
+
+ 
+
+“
+Daily
+Simple SOFR
+” with respect to any applicable determination date means the Affected Facility SOFR published on such date
+on the Federal Reserve Bank of New York’s website (or any successor source).
+
+ 
+
+ 
+
+Appendix A-
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Eurocurrency
+Rate
+” means the definition of Eurocurrency Rate in the Credit Agreement.
+
+ 
+
+“
+Eurocurrency
+Rate Loan
+” mean a Loan that bears interest at a rate based on the Eurocurrency Rate.
+
+ 
+
+“
+Required
+Affected Facility Lenders
+” means, with respect to a particular Affected Facility, either the Required Revolving Lenders
+or the Required Term A-2 Lenders, as applicable, in each case as defined in the Credit Agreement, but subject to 
+Section 2(g)(ii)
+
+of this Agreement below.
+
+ 
+
+“
+Swing
+Line Loan
+” has the meaning set forth in the Credit Agreement.
+
+ 
+
+2.           
+Terms
+Applicable to Affected Facility Term SOFR Loans
+. From and after the Amendment No. 8 Effective Date, the parties hereto agree
+as follows:
+
+ 
+
+(a)         
+Dollars
+.
+(i) Dollars shall not be considered a currency for which there is a published LIBOR rate under an Affected Facility and (ii) any
+request for a new Eurocurrency Rate Loan denominated in Dollars under an Affected Facility, or to continue an existing Eurocurrency
+Rate Loan denominated in Dollars under an Affected Facility, shall be deemed to be a request for a new Loan in Dollars under such
+Affected Facility bearing interest at Affected Facility Term SOFR. Notwithstanding the foregoing, all Affected Facility Loans
+outstanding as Eurocurrency Rate Loans on the Amendment No. 8 Effective Date shall remain Eurocurrency Rate Loans outstanding
+under the Credit Agreement until the end of the current Interest Period applicable thereto and, upon the expiration of the current
+Interest Period, the applicable Borrower shall submit to the Administrative Agent an Affected Facility Committed Loan Notice for
+any subsequent Borrowing, conversion or continuation of Affected Facility Loans under an Affected Facility.
+
+ 
+
+(b)
+      
+References to Eurocurrency Rate and Eurocurrency Rate Loans in Dollars under an Affected
+Facility in the Credit Agreement and Loan Documents
+.
+
+ 
+
+(i)
+         References to the Eurocurrency Rate and Eurocurrency Rate Loans denominated in Dollars
+under an Affected Facility in provisions of the Credit Agreement and the other Loan Documents that are not specifically addressed
+herein (other than the definitions of Eurocurrency Rate and Eurocurrency Rate Loan) shall be deemed to include Affected Facility
+Term SOFR and Affected Facility Term SOFR Loans, as applicable. In addition, references to the Base Rate in the Credit Agreement
+with respect to Loans in Dollars under an Affected Facility shall be deemed to refer to the Affected Facility Base Rate as defined
+in this 
+Appendix A
+.
+
+ 
+
+(ii)
+        For purposes of any requirement for any Borrower to compensate Lenders for losses in
+the Credit Agreement resulting from any continuation, conversion, payment or prepayment of any Loan on a day other than the last
+day of any Interest Period (as defined in the Credit Agreement), references to the Interest Period (as defined in the Credit Agreement)
+shall be deemed to include any relevant interest payment date or payment period for an Affected Facility Term SOFR Loan.
+
+ 
+
+ 
+
+Appendix A-
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c)
+        
+Interest Rates
+. The Administrative Agent does not warrant, nor accept responsibility,
+nor shall the Administrative Agent have any liability with respect to the administration, submission or any other matter related
+to any reference rate referred to herein or with respect to any rate (including, for the avoidance of doubt, the selection of
+such rate and any related spread or other adjustment) that is an alternative or replacement for or successor to any such rate
+(including, without limitation, any Affected Facility Successor Rate) (or any component of any of the foregoing) or the effect
+of any of the foregoing, or of any Affected Facility Conforming Changes. The Administrative Agent and its affiliates or other
+related entities may engage in transactions or other activities unrelated to the Credit Agreement or any Borrower that affect
+any reference rate referred to herein, or any alternative, successor or replacement rate (including, without limitation, any Affected
+Facility Successor Rate) (or any component of any of the foregoing) or any related spread or other adjustments thereto, in each
+case, in a manner adverse to any Borrower. The Administrative Agent may select information sources or services commonly used in
+the banking industry for such purposes in its reasonable good faith discretion to ascertain any reference rate referred to herein
+or any alternative, successor or replacement rate (including, without limitation, any Affected Facility Successor Rate) (or any
+component of any of the foregoing), in each case pursuant to the terms of this Agreement, and shall have no liability to any Borrower,
+any Lender or any other person or entity for damages of any kind, including direct or indirect, special, punitive, incidental
+or consequential damages, costs, losses or expenses (whether in tort, contract or otherwise and whether at law or in equity),
+for any error or other action or omission related to or affecting the selection, determination, or calculation of any rate (or
+component thereof) provided by any such information source or service.
+
+ 
+
+(d)         
+Borrowings,
+Conversions, Continuations and Prepayments of Affected Facility Term SOFR Loans
+. In addition to any other borrowing or prepayment
+requirements set forth in the Credit Agreement:
+
+ 
+
+(i)          
+Affected
+Facility Term SOFR Loans
+. With respect to Affected Facility Loans (other than Swing Line Loans), each Borrowing, each conversion
+of Loans (other than Swing Line Loans) from one Affected Facility Type to the other, and each continuation of Affected Facility
+Term SOFR Loans shall be made upon the applicable Borrower’s irrevocable notice to the Administrative Agent, which may be
+given by (A) telephone or (B) an Affected Facility Committed Loan Notice; 
+provided
+ that any telephonic notice must be confirmed
+immediately by delivery to the Administrative Agent of an Affected Facility Committed Loan Notice. Each such Affected Facility
+Committed Loan Notice must be received by the Administrative Agent not later than 11:00 a.m. (Eastern time) (1) two Affected Facility
+Business Days prior to the requested date of any Borrowing of, conversion to or continuation of Affected Facility Term SOFR Loans
+or of any conversion of Affected Facility Term SOFR Loans to Affected Facility Base Rate Loans or (2) on the date of any proposed
+Borrowing of Affected Facility Base Rate Loans. Each Borrowing of, conversion to or continuation of Affected Facility Term SOFR
+Loans shall be in a principal amount of $5,000,000 or a whole multiple of $1,000,000 in excess thereof. Each Affected Facility
+Committed Loan Notice with respect to Affected Facility Loans shall specify (i) whether the applicable Borrower is requesting
+a Borrowing, a conversion of Loans from one Affected Facility Type to the other, or a continuation of Affected Facility Term SOFR
+Loans, (ii) the requested date of the Borrowing, conversion or continuation, as the case may be (which shall be an Affected Facility
+Business Day), (iii) the principal amount of Affected Facility Loans to be borrowed, converted or continued, (iv) the Affected
+Facility Type of Affected Facility Loans to be borrowed or to which existing Affected Facility Loans are to be converted, and
+(v) if applicable, the duration of the Affected Facility Interest Period with respect thereto. If a Borrower fails to specify
+an Affected Facility Type of Affected Facility Loan in an Affected Facility Committed Loan Notice or if a Borrower fails to give
+a timely notice requesting a conversion or continuation, then the applicable Affected Facility Loans shall be made as, or converted
+to, Affected Facility Base Rate Loans. Any such automatic conversion to Affected Facility Base Rate Loans shall be effective as
+of the last day of the Affected Facility Interest Period then in effect with respect to the applicable Affected Facility Term
+SOFR Loans. If a Borrower requests a Borrowing of, conversion to, or continuation of Affected Facility Term SOFR Loans in any
+such Affected Facility Committed Loan Notice, but fails to specify an Affected Facility Interest Period, it will be deemed to
+have specified an Affected Facility Interest Period of one month. For purposes of a Borrowing of Affected Facility Loans as Affected
+Facility Term SOFR Loans, or a continuation of an Affected Facility Term SOFR Loan, the applicable Borrower shall use the Affected
+Facility Committed Loan Notice attached to this 
+Appendix A
+ as 
+Exhibit A
+.
+
+ 
+
+ 
+
+Appendix A-
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+(ii)         
+Conforming
+Changes
+. With respect to Affected Facility SOFR or Affected Facility Term SOFR, the Administrative Agent will have the right
+to make Affected Facility Conforming Changes from time to time and, notwithstanding anything to the contrary herein, in the Credit
+Agreement or in any other Loan Document, any amendments implementing such Affected Facility Conforming Changes will become effective
+without any further action or consent of any other party to this Agreement, the Credit Agreement or any other Loan Document; 
+provided
+
+that, with respect to any such amendment effected, the Administrative Agent shall post each such amendment implementing such
+Affected Facility Conforming Changes to KBR and the applicable Lenders promptly upon such amendment becoming effective.
+
+ 
+
+(iii)        
+Voluntary
+Prepayments of Affected Facility Term SOFR Loans
+. The applicable Borrower may, upon notice to the Administrative Agent, at
+any time or from time to time voluntarily prepay any Affected Facility Term SOFR Loans in whole or in part without premium or
+penalty (except as otherwise specified in the Credit Agreement); 
+provided
+ that such notice must be received by the Administrative
+Agent not later than 11:00 a.m. (Eastern time) two Affected Facility Business Days prior to any date of prepayment of such Affected
+Facility Term SOFR Loans.
+
+ 
+
+(e)         
+Interest
+.
+
+ 
+
+(i)       Subject
+to the provisions of the Credit Agreement with respect to default interest, each Affected Facility Term SOFR Loan shall bear interest
+on the outstanding principal amount thereof from the applicable borrowing date at a rate per annum equal to the sum of Affected
+Facility Term SOFR 
+plus
+ the Applicable Rate.
+
+ 
+
+(ii)       Interest
+on each Affected Facility Term SOFR Loan shall be due and payable in arrears on each Affected Facility Interest Payment Date applicable
+thereto and at such other times as may be specified in the Credit Agreement; 
+provided
+, that any prepayment of any Affected
+Facility Term SOFR Loan shall be accompanied by all accrued interest on the amount prepaid, together with any additional amounts
+required pursuant to 
+Section 3.05
+ of the Credit Agreement. Interest hereunder shall be due and payable in accordance with
+the terms hereof before and after judgment, and before and after the commencement of any proceeding under any debtor relief law.
+
+ 
+
+(f)
+        
+Computations
+. All computations of interest for Affected Facility Base Rate Loans
+(including Affected Facility Base Rate Loans determined by reference to Affected Facility Term SOFR) shall be made on the basis
+of a year of 365 or 366 days, as the case may be, and actual days elapsed. All other computations of fees and interest with respect
+to Affected Facility Term SOFR Loans shall be made on the basis of a 360-day year and actual days elapsed (which results in more
+fees or interest, as applicable, being paid than if computed on the basis of a 365-day year). Interest shall accrue on each Affected
+Facility Loan for the day on which the Affected Facility Loan is made, and shall not accrue on an Affected Facility Loan, or any
+portion thereof, for the day on which the Affected Facility Loan or such portion is paid, 
+provided
+ that any Affected Facility
+Loan that is repaid on the same day on which it is made shall, subject to the provisions in the Credit Agreement addressing payments
+generally, bear interest for one day. Each determination by the Administrative Agent of an interest rate or fee hereunder shall
+be conclusive and binding for all purposes, absent demonstrable error.
+
+ 
+
+ 
+
+Appendix A-
+6
+
+ 
+
+ 
+
+ 
+
+ 
+
+(g)         
+Inability
+to Determine Rates; Successor Rates
+.
+
+ 
+
+ 
+(i)        
+ 
+
+Inability to Determine Rate
+. If in connection with any request for an Affected Facility Term SOFR Loan or a conversion of Affected Facility Base Rate Loans to Affected Facility Term SOFR Loans or a continuation of any of Affected Facility Term Rate Loans, as applicable, (x) the Administrative Agent determines (which determination shall be conclusive absent manifest error) that (A) no Affected Facility Successor Rate has been determined in accordance with 
+Section 2(g)(ii),
+ and the circumstances under clause (x) of 
+Section 2(g)(ii)
+ or the Affected Facility Scheduled Unavailability Date has occurred, or (B) adequate and reasonable means do not otherwise exist for determining Affected Facility Term SOFR for any requested Affected Facility Interest Period with respect to a proposed Affected Facility Term SOFR Loan or in connection with an existing or proposed Affected Facility Base Rate Loan, or (y) the Administrative Agent or the Required Affected Facility Lenders with respect to the applicable Affected Facility determine that for any reason that Affected Facility Term SOFR for any requested Affected Facility Interest Period with respect to a proposed Affected Facility Term SOFR Loan does not adequately and fairly reflect the cost to such Affected Facility Lenders of funding such Affected Facility Loan, the Administrative Agent will promptly so notify the Borrower and each applicable Affected Facility Lender.
+
+ 
+
+Thereafter,
+(x) the obligation of the applicable Affected Facility Lenders under such Affected Facility to make or maintain Affected
+Facility Term SOFR Loans, or to convert Affected Facility Base Rate Loans to Affected Facility Term SOFR Loans, shall be suspended
+(in each case, to the extent of the impacted Affected Facility Term SOFR Loans or Affected Facility Interest Periods), and (y) in
+the event of a determination described in the preceding sentence with respect to the Affected Facility Term SOFR component of
+the Affected Facility Base Rate, the utilization of the Affected Facility Term SOFR component in determining the Affected Facility
+Base Rate shall be suspended, in each case until the Administrative Agent (or, in the case of a determination by Required Affected
+Facility Lenders with respect to an Affected Facility described in clause (y) of this 
+Section 2(g)(i)
+, until the Administrative
+Agent upon instruction of such Required Affected Facility Lenders) revokes such notice.
+
+ 
+
+Upon
+receipt of such notice, (x) the applicable Borrower may revoke any pending request for a Borrowing of, or conversion to, or continuation
+of Affected Facility Term SOFR Loans (to the extent of the impacted Affected Facility Term SOFR Loans or Affected Facility Interest
+Periods) or, failing that, will be deemed to have converted such request into a request for a Borrowing of Affected Facility Base
+Rate Loans in the amount specified therein and (y) any outstanding Affected Facility Term SOFR Loans under the applicable Affected
+Facility shall be deemed to have been converted to Affected Facility Base Rate Loans at the end of their respective applicable
+Affected Facility Interest Period.
+
+ 
+
+ 
+
+Appendix A-
+7
+
+ 
+
+ 
+
+ 
+
+ 
+
+(ii)         
+Replacement
+of Affected Facility Term SOFR or Affected Facility Successor Rate
+. Notwithstanding anything to the contrary in this Agreement,
+the Credit Agreement or any other Loan Document, if the Administrative Agent determines (which determination shall be conclusive
+absent manifest error), or KBR or the Required Affected Facility Lenders with respect to an Affected Facility notify the Administrative
+Agent (with, in the case of the Required Affected Facility Lenders, a copy to KBR) that KBR or the applicable Required Affected
+Facility Lenders (as applicable) have determined, that:
+
+ 
+
+(x)
+       adequate and reasonable means do not exist for ascertaining one month and three month
+interest periods of Affected Facility Term SOFR, including, without limitation, because the Affected Facility Term SOFR Screen
+Rate is not available or published on a current basis and such circumstances are unlikely to be temporary; or
+
+ 
+
+(y)
+      CME or any successor administrator of the Affected Facility Term SOFR Screen Rate or
+a Governmental Authority having jurisdiction over the Administrative Agent or such administrator with respect to its publication
+of Affected Facility Term SOFR, in each case acting in such capacity, has made a public statement identifying a specific date
+after which one month and three month Affected Facility Interest Periods of Affected Facility Term SOFR or the Affected Facility
+Term SOFR Screen Rate shall or will no longer be made available, or permitted to be used for determining the interest rate of
+Dollar denominated syndicated loans, or shall or will otherwise cease, 
+provided
+, 
+that
+, at the time of such statement,
+there is no successor administrator that is satisfactory to the Administrative Agent, that will continue to provide such interest
+periods of Affected Facility Term SOFR after such specific date (the latest date on which one month and three month Affected Facility
+Interest Periods of Affected Facility Term SOFR or the Affected Facility Term SOFR Screen Rate are no longer available permanently
+or indefinitely, the “
+Affected Facility Scheduled Unavailability Date
+”);
+
+ 
+
+then,
+on a date and time determined by the Administrative Agent (any such date with respect to an Affected Facility, the “
+Affected
+Facility Term SOFR Replacement Date
+”), which date shall be at the end of an Affected Facility Interest Period or on
+the relevant Affected Facility Interest Payment Date, as applicable, for interest calculated and, solely with respect to clause
+(y) above, no later than the Affected Facility Scheduled Unavailability Date, Affected Facility Term SOFR will be replaced hereunder
+and under any Loan Document with respect to the applicable Affected Facility with Daily Simple SOFR 
+plus 
+the Affected Facility
+SOFR Adjustment for any payment period for interest calculated that can be determined by the Administrative Agent, in each case,
+without any amendment to, or further action or consent of any other party to, this Agreement, the Credit Agreement or any other
+Loan Document (the “
+Affected Facility Successor Rate
+”).
+
+ 
+
+If
+the Affected Facility Successor Rate is Daily Simple SOFR plus the Affected Facility SOFR Adjustment, all interest payments will
+be payable on a monthly basis.
+
+ 
+
+ 
+
+Appendix A-
+8
+
+ 
+
+ 
+
+ 
+
+ 
+
+Notwithstanding
+anything to the contrary herein, (A) if the Administrative Agent determines that Daily Simple SOFR is not available on or prior
+to the Affected Facility Term SOFR Replacement Date, or (B) if the events or circumstances of the type described in 
+Section
+2(g)(ii)(x)
+ or 
+2(g)(ii)(y)
+ have occurred with respect to the Affected Facility Successor Rate then in effect, then
+in each case, the Administrative Agent and KBR may amend this Agreement, the Credit Agreement and the other Loan Documents solely
+for the purpose of replacing Affected Facility Term SOFR or any then current Affected Facility Successor Rate in accordance with
+this 
+Section 2(g)(ii)
+ at the end of any Affected Facility Interest Period, relevant Affected Facility Interest Payment
+Date or payment period for interest calculated, as applicable, with an alternative benchmark rate giving due consideration to
+any evolving or then existing convention for similar Dollar-denominated credit facilities syndicated and agented in the United
+States for such alternative benchmark and, in each case, including any mathematical or other adjustments to such benchmark giving
+due consideration to any evolving or then existing convention for similar Dollar-denominated credit facilities syndicated and
+agented in the United States for such benchmark, which adjustment or method for calculating such adjustment shall be published
+on an information service as selected by the Administrative Agent from time to time in its reasonable discretion and may be periodically
+updated. For the avoidance of doubt, any such proposed rate and adjustments, shall constitute an Affected Facility Successor Rate.
+Any such amendment shall become effective at 5:00 p.m. on the fifth Affected Facility Business Day after the Administrative Agent
+shall have posted such proposed amendment to all Affected Facility Lenders under the relevant Affected Facility and KBR unless,
+prior to such time, Affected Facility Lenders under such Affected Facility comprising the Required Affected Facility Lenders for
+such Affected Facility have delivered to the Administrative Agent written notice that such Required Affected Facility Lenders
+object to such amendment.
+
+ 
+
+The
+Administrative Agent will promptly (in one or more notices) notify KBR and each relevant Affected Facility Lender of the implementation
+of any Affected Facility Successor Rate.
+
+ 
+
+Any
+Affected Facility Successor Rate shall be applied in a manner consistent with market practice; 
+provided
+ that to the extent
+such market practice is not administratively feasible for the Administrative Agent, such Affected Facility Successor Rate shall
+be applied in a manner as otherwise reasonably determined by the Administrative Agent.
+
+ 
+
+Notwithstanding
+anything else herein, if at any time any Affected Facility Successor Rate as so determined would otherwise be less than zero,
+the Affected Facility Successor Rate will be deemed to be zero for the purposes of this Agreement, the Credit Agreement and the
+other Loan Documents.
+
+ 
+
+In
+connection with the implementation of an Affected Facility Successor Rate, the Administrative Agent will have the right to make
+Affected Facility Conforming Changes from time to time and, notwithstanding anything to the contrary herein, in the Credit Agreement
+or in any other Loan Document, any amendments implementing such Affected Facility Conforming Changes will become effective without
+any further action or consent of any other party to this Agreement; 
+provided
+ that, with respect to any such amendment effected,
+the Administrative Agent shall post each such amendment implementing such Affected Facility Conforming Changes to KBR and the
+relevant Affected Facility Lenders reasonably promptly after such amendment becomes effective.
+
+ 
+
+ 
+
+Appendix A-
+9
+
+ 
+
+ 
+
+ 
+
+ 
+
+For
+purposes of this 
+Section 2(g)(ii)
+, any Affected Facility Lender under an Affected Facility that has not made, and does
+not have any obligation under this Agreement or the Credit Agreement to make, the relevant Affected Facility Loans under such
+Affected Facility in Dollars shall be excluded from any determination of Required Affected Facility Lenders.
+
+ 
+
+ 
+
+Appendix A-
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exhibit
+A
+
+ 
+
+FORM
+OF AFFECTED FACILITY COMMITTED LOAN NOTICE
+
+(Affected Facility Loans)
+
+ 
+
+Date:
+___________, 20__
+
+ 
+
+To:
+
+Bank
+ of America, N.A., as Administrative Agent
+
+ 
+
+Ladies
+and Gentlemen:
+
+ 
+
+Reference
+is made to that certain Syndicated Facility Agreement, dated as of April 25, 2018 (as previously amended, as amended hereby and
+as further amended, restated, amended and restated, extended, supplemented or otherwise modified from time to time, the “
+Credit
+Agreement
+”; the terms defined therein being used herein as therein defined), among KBR, INC., a Delaware corporation
+(“
+KBR
+”), each Designated Borrower (as defined in the Credit Agreement), BANK OF AMERICA, N.A., as administrative
+agent (in such capacity, the “
+Administrative Agent
+”) and the Lenders from time to time party thereto.
+
+ 
+
+The
+undersigned hereby requests (select one)
+1
+:
+
+ 
+
+[Revolving
+Credit Facility]
+
+ 
+
+ 
+
+Indicate
+:
+
+ 
+
+Borrowing,
+ 
+
+ 
+
+Conversion
+or Continuation
+ 
+
+ 
+
+Indicate
+:
+ 
+
+ 
+
+Borrower
+Name
+ 
+
+ 
+
+Indicate
+:
+ 
+
+ 
+
+Requested
+Amount
+ 
+
+ 
+
+Indicate
+:
+ 
+
+ 
+
+Currency
+2
+
+ 
+
+ 
+
+Indicate
+:
+ 
+
+ 
+
+Affected
+Facility Term SOFR Loan
+ 
+
+ 
+
+or
+
+ 
+
+ 
+
+Affected
+Facility Base Rate Loan
+ 
+
+ 
+
+For
+Affected Facility Term SOFR Loans Indicate:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Affected
+Facility Interest Period (e.g., 1 or 3 month interest period)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Note to Borrower
+. For multiple borrowings, conversions and/or continuations for a particular facility, fill out a
+new row for each borrowing/conversion and/or continuation. 
+
+2
+
+NTD: This notice form only for Dollars.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Term
+A-2 Facility]
+
+ 
+
+ 
+
+Indicate
+: 
+
+ 
+
+Borrowing,
+ 
+
+ 
+
+Conversion
+or Continuation
+ 
+
+ 
+
+Indicate
+:
+ 
+
+ 
+
+Borrower
+Name
+ 
+
+ 
+
+Indicate
+:
+ 
+
+ 
+
+Requested
+Amount
+ 
+
+ 
+
+Indicate
+:
+ 
+
+ 
+
+Currency
+3
+
+ 
+
+ 
+
+Indicate
+:
+ 
+
+ 
+
+Affected
+Facility Term SOFR Loan
+ 
+
+ 
+
+or
+
+ 
+
+ 
+
+Affected
+Facility Base Rate Loan
+ 
+
+ 
+
+For
+ Affected Facility Term SOFR Loans Indicate:
+
+ 
+
+ 
+
+ 
+
+Affected
+Facility Interest Period (e.g., 1 or 3 month interest period)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The
+Borrowing, if any, requested herein complies with the requirements set forth in the Credit Agreement.
+
+ 
+
+ 
+
+ 
+
+ 
+
+[BORROWER]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: [Type Signatory Name]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title: [Type Signatory Title]
+
+ 
+ 
+
+ 
+
+3
+
+NTD: This notice form only for Dollars.
+
+ 
+
+ 
+
+Exhibit A-
+2

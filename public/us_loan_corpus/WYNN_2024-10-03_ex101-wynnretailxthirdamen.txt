@@ -1,0 +1,1052 @@
+EX-10.1
+
+2
+
+ex101-wynnretailxthirdamen.htm
+
+EX-10.1
+
+Document
+
+Exhibit 10.1
+
+THIRD AMENDMENT TO
+TERM LOAN AGREEMENT AND FIRST AMENDMENT TO RECOURSE INDEMNITY AGREEMENT
+
+THIS THIRD AMENDMENT TO TERM LOAN AGREEMENT AND FIRST AMENDMENT TO RECOURSE INDEMNITY AGREEMENT this “
+
+Amendment
+
+”) is dated as of October 2, 2024, by and among 
+
+WYNN/CA PLAZA PROPERTY OWNER, LLC
+
+, a Nevada limited liability company (“
+
+Plaza Owner
+
+”), 
+
+WYNN/CA PROPERTY OWNER, LLC
+
+, a Nevada limited liability company (“
+
+Esplanade Owner
+
+”; Plaza Owner and Esplanade Owner, individually and collectively, as the context requires, “
+
+Borrower
+
+”), 
+
+PPF RETAIL, LLC
+
+, a Delaware limited liability company (“
+
+PPF Guarantor
+
+”), 
+
+CROWN RETAIL SERVICES, LLC
+
+, a New York limited liability company (“
+
+Crown Guarantor
+
+”), 
+
+WYNN RESORTS, LIMITED
+
+, a Nevada corporation (“
+
+Wynn Guarantor
+
+”, PPF Guarantor, Crown Guarantor and Wynn Guarantor, individually and collectively, as the context requires, “
+
+Guarantor
+
+”), the BANKS listed on the signature pages (individually, a “
+
+Bank
+
+” and collectively, the “
+
+Banks
+
+”), 
+
+UNITED OVERSEAS BANK LIMITED, NEW YORK AGENCY (
+
+“
+
+UOB
+
+”), as agent for the Banks (“
+
+Agent
+
+”), and the Parties signing the consents attached hereto and any successor or assign thereof (the “
+
+Borrower Parties
+
+”).
+
+RECITALS:
+
+A.
+
+Borrower, Agent and the Banks entered into that certain Term Loan Agreement dated as of July 25, 2018, as amended by that certain First Amendment to Term Loan Agreement dated as of May 5, 2020, as further amended by that certain Second Amendment to Term Loan Agreement dated as of June 2, 2023 and effective as of July 3, 2023 (as so amended and as further amended by this Amendment, collectively, the “
+
+Loan Agreement
+
+”), whereby the Banks agreed to make a secured loan to Borrower in the aggregate principal amount of SIX HUNDRED FIFTEEN MILLION and 00/00 DOLLARS ($615,000,000.00). (Capitalized terms used but not defined herein shall have the meanings ascribed to such terms in the Loan Agreement.)
+
+B.
+
+Guarantor entered into that certain Recourse Indemnity Agreement, dated as of July 25, 2018 (as amended, modified or supplemented from time to time, the “
+
+Recourse Indemnity
+
+”) in favor of Agent and the Banks and (ii) Wynn Guarantor and Borrower entered into that certain Hazardous Material Indemnity Agreement, dated as of July 25, 2018 (as amended, modified or supplemented from time to time, the “
+
+Indemnity Agreement
+
+”), in favor of Agent and the Banks.
+
+C.
+
+The Loan is secured, among other things, by the Deed of Trust and the Assignment of Rents and Leases.
+
+D.
+
+Borrower is the owner of the Project.
+
+E.
+
+Borrower and Guarantor have requested certain revisions to the Loan Agreement and Recourse Indemnity, and Agent and the Banks are willing to agree to such revisions on the terms and conditions hereinafter set forth.
+
+Therefore, Borrower, Agent, the Banks, Guarantor and the Borrower Parties desire to enter into this Amendment in order to modify certain provisions of the Loan Documents. 
+
+AGREEMENTS:
+
+Accordingly, in consideration of the mutual agreements set forth herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, unless otherwise specified herein, the parties hereto covenant and agree, as of the date hereof, as follows:
+
+1.
+
+Commencing on the date hereof (unless otherwise provided below), the following changes to the Loan Agreement shall take effect:
+
+(a)
+
+Effective as the first Interest Period commencing on or after the date hereof, the following definitions (and all references thereto) are hereby deleted from 
+
+Section 1.1
+
+ of the Loan Agreement in their entirety:
+
+“
+
+Adjusted Daily Simple SOFR
+
+”; 
+
+“
+
+SOFR Adjustment
+
+” and
+
+“
+
+SOFR Rate Day
+
+”.
+
+(b)
+
+Effective as of the first Interest Period commencing on or after the date hereof, the following definitions are hereby amended and restated in 
+
+Section 1.1
+
+ of the Loan Agreement:
+
+“
+
+Benchmark
+
+” means, initially, Term SOFR; 
+
+provided
+
+ that if a Benchmark Transition Event has occurred with respect to Term SOFR or the then-current Benchmark, then “Benchmark” means the applicable Benchmark Replacement.
+
+“
+
+Conforming Changes
+
+” means with respect to the use, administration, adoption or implementation of any Benchmark Replacement, any technical, administrative or operational changes (including changes to the definition of “
+
+Business Day
+
+,” the definition of “
+
+Interest Period
+
+,” the definition of “
+
+SOFR Determination Date
+
+,” the timing and frequency of determining rates and making payments of interest, timing of borrowing requests or prepayment, conversion or continuation notices, length of lookback periods, the applicability of breakage provisions, and other technical, administrative or operational matters) that the Agent decides may be appropriate to administer Term SOFR or to reflect the adoption and implementation of such Benchmark Replacement and to permit the administration thereof by Agent in a manner substantially consistent with market practice (or, if Agent decides that adoption of any portion of such market practice is not administratively feasible or if Agent determines that no market practice for the administration of such Benchmark Replacement exists, in such other manner of administration as Agent decides is reasonably necessary in connection with the 
+
+2
+
+administration of this Agreement and the other Loan Documents), in each case consistent with Agent’s treatment of similarly situated borrowers under similarly situated loans.
+
+“
+
+Prime Rate Spread
+
+” means the difference (expressed as the number of basis points) between (a) the sum of (i) Term SOFR, plus (ii) the Spread, all determined on the date Term SOFR was last applicable to the Loan (or if a Benchmark Replacement Rate Loan is being converted to a Prime Rate Loan, the sum of (i) the Benchmark Replacement Rate, plus (ii) the Spread, all determined on the date the Benchmark Replacement Rate was last applicable to the Loan) and (b) the Prime Rate on the date that Term SOFR was last applicable to the Loan (or if a Benchmark Replacement Rate Loan is being converted to a Prime Rate Loan, the Prime Rate on the date that the Benchmark Replacement Rate was last applicable to the Loan).
+
+“
+
+SOFR Administrator
+
+” means CME Group Benchmark Administration Limited (CBA) (or a successor administrator of Term SOFR selected by Agent in its reasonable discretion).
+
+“
+
+SOFR Administrator’s Website
+
+” means the website of the SOFR Administrator, currently at https://www.cmegroup.com/market-data/cme-group-benchmark-administration/term-sofr.html, or any successor source for Term SOFR identified by the SOFR Administrator from time to time.
+
+“
+
+SOFR Determination Day
+
+” has the meaning specified in the definition of “Term SOFR”.
+
+“
+
+SOFR Rate
+
+” means, with respect to each Interest Period, determined as of the SOFR Determination Date with respect to such Interest Period, the per annum rate of interest equal to the sum of (i) Term SOFR, plus (ii) the Spread.
+
+(c)
+
+The following definitions are hereby amended and restated in 
+
+Section 1.1
+
+ of the Loan Agreement:
+
+“
+
+Cash Sweep Cure Event
+
+” has the meaning assigned in 
+
+Section 2.9(c)
+
+.
+
+“
+
+Cash Sweep Debt Yield
+
+” means a Debt Yield of not less than (i) prior to and including January 2, 2020, seven percent (7.0%), (ii) after January 2, 2020 through and including July 1, 2021, seven and seventy-five one-hundredths percent (7.75%), (iii) after July 1, 2021 through and including October 1, 2024, eight and five tenths percent (8.5%), and (iv) after October 1, 2024, ten percent (10%).
+
+“
+
+Scheduled Maturity Date
+
+” means July 24, 2027.
+
+“
+
+Spread
+
+” means two and fifteen hundredth percent (2.15%) per annum.
+
+(d)
+
+Effective as the first Interest Period commencing on or after the date hereof, the following definitions are hereby added to 
+
+Section 1.1
+
+ of the Loan Agreement in appropriate alphabetical order:
+
+3
+
+“
+
+One Month Term SOFR
+
+” means a forward-looking term rate with a tenor of one (1) month based on SOFR that is published by the SOFR Administrator.
+
+“
+
+Term SOFR
+
+”
+
+ 
+
+means, with respect to any Interest Period, the greater of (a) the forward-looking term rate with a tenor of one (1) month based on SOFR that is published by the SOFR Administrator and is displayed on the SOFR Administrator’s Website on the day (such day, the “
+
+SOFR Determination Day
+
+”) that is two (2) SOFR Business Days prior to the first day of such Interest Period, rounded upward to the nearest whole multiple of 1/1,000%, and (b) the Floor. If by 5:00 pm (New York City time) on any SOFR Determination Date, Term SOFR has not been published on the SOFR Administrator’s Website, then Term SOFR for the applicable Interest Period will be Term SOFR as published on the SOFR Administrator’s Website on the first (1st) preceding SOFR Business Day for which such Term SOFR for such tenor was published on the SOFR Administrator’s Website so long as such first (1st) preceding SOFR Business Day is not more than three (3) SOFR Business Days prior to such SOFR Determination Date. Any change in Term SOFR due to a change in SOFR shall be effective from and including the effective date of such change in SOFR without notice to the Borrower.
+
+(e)
+
+The following definitions are hereby added to 
+
+Section 1.1
+
+ of the Loan Agreement in appropriate alphabetical order:
+
+“
+
+Cash Sweep Loan to Value Ratio
+
+” means a Loan to Value Ratio of not greater than fifty-five percent (55%). 
+
+“
+
+Cash Sweep Loan to Value Ratio Test Date
+
+” means July 25, 2025, and July 25, 2026.
+
+“
+
+Interest Rate Protection Agreement Expiration Date
+
+” means that date that is one hundred eighty (180) days prior to the Scheduled Maturity Date.
+
+“
+
+Loan to Value Ratio
+
+” means, as of any date of calculation, a percentage calculated by multiplying (i) a fraction, the numerator of which is the Principal Balance of the Loan as of such date of calculation and the denominator of which is the value of the Project based on an Appraisal thereof obtained by Agent for the purpose of determining the Loan to Value Ratio and having a valuation date not greater than ninety (90) days prior to such date of calculation, by (ii) one hundred percent (100%).
+
+(f)
+
+Sections 2.2(a)
+
+ and 
+
+2.6(e)
+
+ of the Loan Agreement are hereby amended by replacing the term “Adjusted Daily Simple SOFR” with the term “Term SOFR” in each instance therein.
+
+(g)
+
+Sections 2.8(a)
+
+ and 
+
+(b)
+
+ of the Loan Agreement are hereby amended and restated in their entirety as follows:
+
+(a)    On or prior to October 2, 2024, Borrower shall enter into one or more interest rate protections agreements with Agent, an Affiliate thereof or an Acceptable 
+
+4
+
+Counterparty in form and substance reasonably satisfactory to Agent which shall effectively cap or fix the One Month Term SOFR component of the SOFR Rate at not more than 4.8% in each case for a term that expires no sooner than the Interest Rate Protection Agreement Expiration Date (together with all schedules and confirmations thereto, an “
+
+Interest Rate Protection Agreement
+
+”).
+
+(b)    In the event the Interest Rate Protection Agreement is terminated prior to the Interest Rate Protection Agreement Expiration Date, Borrower shall replace such terminated Interest Rate Protection Agreement on or before five (5) Business Days after the termination thereof with a new Interest Rate Protection Agreement. If any provider of an Interest Rate Protection Agreement shall no longer qualify as an Acceptable Counterparty and does not provide a guaranty from an entity that satisfies the ratings requirements for an Acceptable Counterparty, Borrower shall, within thirty (30) days after such Person’s failure to qualify, cause a replacement Interest Rate Protection Agreement to be issued by an Acceptable Counterparty. If any provider of an Interest Rate Protection Agreement shall enter into any form of regulatory or governmental receivership, conservatorship or other similar regulatory or governmental proceeding, including any receivership or conservatorship instituted or commenced by the FDIC, or is otherwise declared insolvent or downgraded by the FDIC, or if a trustee, receiver, conservator or liquidator is appointed for such issuer, then Borrower shall, within ten (10) Business Days, deliver to Agent a replacement Interest Rate Protection Agreement from an Acceptable Counterparty.
+
+(h)
+
+Sections 2.9(a)
+
+, 
+
+(b)
+
+ and 
+
+(c)
+
+ of the Loan Agreement are hereby amended and restated in their entirety as follows:
+
+(a)    If (i) an Event of Default exists, (ii) the Project fails to maintain the Cash Sweep Interest Coverage Ratio or the Cash Sweep Debt Yield for three (3) consecutive calendar months, or (iii) the Project fails to satisfy the Cash Sweep Loan to Value Ratio calculated as of any Cash Sweep Loan to Value Ratio Test Date (each, a “
+
+Cash Sweep Trigger
+
+”), Agent shall send a Redirection Notice, which shall cause Agent to have full control of the Operating Account until a Cash Sweep Cure Event. Upon issuing a Redirection Notice, Agent shall cause Depositary Bank to sweep funds from the Operating Account to (x) prior to the execution of the Cash Management Agreement, an account designated by Agent in its sole discretion and (y) after the execution of the Cash Management Agreement, the Cash Management Account (as defined in the Cash Management Agreement) and in either case, Agent shall release or cause the release of such funds as specified in the Cash Management Agreement or, if the Cash Management Agreement has not yet been executed, as contemplated by the form of Cash Management Agreement, in any such case, unless otherwise provided herein. Borrower shall enter into the Cash Management Agreement within ten (10) Business Days after the occurrence of an Event of Default or a Cash Sweep Trigger, whichever first occurs.
+
+(b)    If at any time (and from time to time) the Cash Sweep Interest Coverage Ratio, the Cash Sweep Debt Yield or the Cash Sweep Loan to Value Ratio is not attained, 
+
+5
+
+then Borrower may, at Borrower’s sole election and in order to prevent delivery of a Redirection Notice (x) deliver to Agent a Financial Covenant L/C, (y) deposit with Agent a cash reserve or (z) prepay the Loan in accordance with 
+
+Section 2.3(d)
+
+ (provided, however, that Spread Maintenance shall not apply to any such prepayment), in each case in such amount as, when deducted from the Principal Balance of the Loan, would result in the Cash Sweep Debt Yield, Cash Sweep Interest Coverage Ratio and/or Cash Sweep Loan to Value Ratio being attained. Any Financial Covenant L/C or cash deposit made by Borrower to satisfy the Cash Sweep Debt Yield, Cash Sweep Interest Coverage Ratio and/or Cash Sweep Loan to Value Ratio requirements of this Agreement shall be held by Agent as additional security for the Obligations until such time as a Cash Sweep Cure Event occurs without accounting for such Financial Covenant L/C or cash deposit, as the case may be. After the occurrence and during the continuance of an Event of Default, in addition to all other remedies provided to Agent as set forth in this Agreement, Agent for the benefit of the Banks shall be entitled, without notice to Borrower, to (i) draw upon any Financial Covenant L/C and to apply the proceeds to the Obligations, (ii) apply any cash deposits made hereunder to the Obligations and/or (iii) apply any funds on deposit in the Accounts, each in accordance with 
+
+Section 2.3(e)
+
+. If no Event of Default exists or is continuing and the Project satisfies the Cash Sweep Loan to Value Ratio, Borrower shall be entitled to withdraw funds from the Excess Cash Account in such amounts as necessary to pay for tenant improvement costs, leasing commissions, and other leasing costs in connection with Approved Leases, subject to submission by Borrower and approval by Agent of a request for withdrawal in form and substance reasonably acceptable to Agent, accompanied by such supporting documentation as Agent may reasonably request. Notwithstanding anything to the contrary contained herein or in any other Loan Document, during any Cash Sweep Trigger, if the Project is not then satisfying the Cash Sweep Loan to Value Ratio after being calculated as of any Cash Sweep Loan to Value Ratio Test Date, Agent shall, on each Payment Date occurring after Agent has determined that the Cash Sweep Loan to Value Ratio is not satisfied as of any Cash Sweep Loan to Value Ratio Test Date, apply funds in the Excess Cash Account to the extent in excess of the Outstanding Leasing Costs (as defined below) to the Principal Balance of the Loan, provided, that, (i) the amount of such funds applied by Agent shall not, in the aggregate, exceed the amount necessary for the Project to satisfy the Cash Sweep Loan to Value Ratio and (ii) in the event Borrower fails to timely provide Agent with a schedule of Outstanding Leasing Costs prior to any Payment Date in accordance with the immediately succeeding sentence the Outstanding Leasing Costs shall be deemed to be zero and Agent shall be entitled to apply funds in the Excess Cash Account on such Payment Date without regard to the Outstanding Leasing Costs. During any Cash Sweep Trigger when the Project is not satisfying the Cash Sweep Loan to Value Ratio as of any Cash Sweep Loan to Value Ratio Test Date, Borrower shall at least five (5) Business Days (and not more than ten (10) Business Days) prior to each Payment Date provide Agent with a written schedule setting forth in reasonable detail the amounts necessary to pay for tenant improvement costs, leasing commissions, and other leasing costs in connection with Approved Leases (collectively, “
+
+Outstanding Leasing Costs
+
+”). 
+
+6
+
+(c)    If no Event of Default is continuing, Agent shall promptly send a notice to Depositary Bank removing the cash sweep direction and return control of the Operating Account to Borrower provided that (i) the Project has (x) achieved the required Cash Sweep Interest Coverage Ratio and the Cash Sweep Debt Yield for three (3) consecutive calendar months, and (y) satisfied the Cash Sweep Loan to Value Ratio, (ii) Borrower has taken any of the curative actions permitted by 
+
+Section 2.3(b)
+
+ to prevent delivery of a Redirection Notice or (iii) Borrower indefeasibly repays or prepays the Loan in full in accordance with 
+
+Section 2.3(d)
+
+, but Spread Maintenance shall not apply to any such repayment or prepayment (any, a “
+
+Cash Sweep Cure Event
+
+”).
+
+(i)
+
+Section 7.1(c)
+
+ of the Loan Agreement is hereby amended and restated in its entirety as follows:
+
+(c)    
+
+Appraisals
+
+. Within forty-five (45) days before each of the second, fourth and sixth anniversary of the date of the Appraisal delivered in connection with underwriting the Loan, Agent or any of the Banks may commission a new and/or updated Appraisal of the Project prepared by an Appraiser holding an MAI designation, which Appraisal shall be obtained at Borrower’s sole cost and expense, but no more than $10,000 in the aggregate. In addition to the foregoing, Agent may, at its option, commission a new and/or updated Appraisal of the Project from time to time after the date hereof; provided, however, that Borrower shall only be required to reimburse Agent for such new and/or updated Appraisal if an Event of Default exists, if such Appraisal is required by applicable Legal Requirements, or if such Appraisal is requested by Borrower to retest the Cash Sweep Loan to Value Ratio. Notwithstanding the foregoing, Agent shall, at Borrower’s sole cost and expense, commission a new and/or updated Appraisal of the Property to determine the Cash Sweep Loan to Value Ratio as of any Cash Sweep Loan to Value Ratio Test Date.
+
+(j)
+
+Clause (a)
+
+ of 
+
+Section 11.26
+
+ of the Loan Agreement is hereby amended and restated in its entirety as follows:
+
+(a) to (x) any of their respective Affiliates or (y) any insurers, reinsurers or insurance brokers (including in each case their respective Affiliates), provided that, in the case of this clause (y), Agent or such Bank requires that such Person treat such information confidentially in accordance with the terms hereof;
+
+2.
+
+Commencing on the date hereof, 
+
+Section 1
+
+ of the Recourse Indemnity is hereby amended as follows:
+
+(a)
+
+The “and/or” at the end of 
+
+Section 1(j)
+
+ of the Recourse Indemnity is hereby deleted in its entirety.
+
+(b)
+
+The “.” at the end of 
+
+Section 1(k)
+
+ of the Recourse Indemnity is hereby deleted in its entirety and replaced with “; and/or”.
+
+(c)
+
+The following new 
+
+Section 1(l)
+
+ is hereby added in appropriate order:
+
+7
+
+(d)
+
+A claim made by any Person that its interest in the Project is senior or equal in priority to the lien of the Deed of Trust as a result, in whole or in part, of the modification to the Loan Documents made pursuant to that certain Third Amendment to Term Loan Agreement and First Amendment to Recourse Indemnity Agreement, dated as of October 2, 2024, among Borrower, Guarantor, the Banks, Agent and Wynn Las Vegas, LLC, a Nevada limited liability company, but only to the extent that the title insurance company(ies) issuing the title insurance policy in respect of the Deed of Trust is not taking up Agent’s and the Bank’s defense of that claim and otherwise indemnifying Agent and the Banks, and holding Agent and the Banks harmless against, such claim and the losses, costs and expenses incurred by Agent and the Banks in connection with such claim.
+
+3.
+
+The effectiveness of this Amendment is subject to the satisfaction of the following conditions precedent:
+
+(a)
+
+Borrower, Agent, each Bank, Guarantor and each of the Borrower Parties shall have executed and delivered this Amendment and the consents attached hereto, as applicable;
+
+(b)
+
+Borrower and an Acceptable Counterparty shall have executed and delivered an Interest Rate Protection Agreement, and such Interest Rate Protection Agreement shall have been collaterally assigned to Agent, for the benefit of the Banks, pursuant to a Collateral Assignment of Interest Rate Protection Agreement, in form and substance acceptable to Agent (the “
+
+Additional Collateral Assignment of Interest Rate Protection Agreement
+
+”);
+
+(c)
+
+(i) UOB and The Bank of East Asia, Limited, New York Branch, (ii) UOB and Safra National Bank of New York (“
+
+SB
+
+”), and (iii) UOB and East West Bank (“
+
+EW
+
+”) shall have consummated, and Agent and Borrower shall have consented to (if such consent is required under the Loan Agreement), such assignments of the Loan as are required in order for each of UOB, SB and EW to have the Commitment and the Principal Balance of the Loan owing to it is as set forth in 
+
+Schedule A
+
+ attached hereto, and (ii) Borrower shall have issued a new Note to (A) UOB, in form and substance acceptable to UOB, (B) SB, in form and substance acceptable to SB, and (C) EW, in form and substance acceptable to EW;
+
+(d)
+
+Borrower shall have made a principal prepayment of the Loan in the amount of $15,000,000.00 (the “
+
+Paydown
+
+”), which Paydown shall be applied in accordance with the Ratable Shares of the Banks as in effect prior to the assignments described in clauses (ii) and (iii) in Section 3(c) above, notwithstanding any contrary requirement of the Loan Documents; and
+
+(e)
+
+Borrower shall have paid Agent’s reasonable and actual out-of-pocket costs and expenses, including attorneys’ fees, incurred in connection with this Amendment.
+
+4.
+
+Notwithstanding anything to the contrary contained in the Loan Documents (including, without limitation, any requirement for the Paydown to be applied in accordance with the Ratable Shares of the Bank’s prior to Borrower making the Paydown), the parties hereto 
+
+8
+
+agree that as of the date hereof (and after giving effect to the Paydown), each Bank’s Commitment and the Principal Balance of the Loan owing to it is as set forth in 
+
+Schedule A
+
+ attached hereto. The Banks agreement to permit the Paydown to not be applied in accordance with their Ratable Shares prior to the Paydown shall not be construed as a wavier of any Bank’s right to require any future payment in respect of the Loan to be applied in accordance with their Ratable Shares (calculated at the time of such future payment) where same is required by the terms of the Loan Documents.
+
+5.
+
+Borrower acknowledges that the terms and conditions of the Esplanade REA, including, but not limited to, Sections 5.1, 5.3, 5.4, 5.5, and 7.1 thereof, remain in full force and effect, and that the Hotel Owner (as defined therein) is required to pay for and/or maintain all maintenance and repair obligations, utilities, Real Property Taxes (as defined therein), occupant services, and insurance coverage, each of the foregoing as described in the Esplanade REA. 
+
+6.
+
+Borrower acknowledges that the terms and conditions of the Plaza REA, including, but not limited to, Sections 5.1, 5.3, 5.4, 5.5, and 7.1 thereof, remain in full force and effect, and that the Hotel Owner (as defined therein) is required to pay for and/or maintain all maintenance and repair obligations, utilities, Real Property Taxes (as defined therein), occupant services, and insurance coverage, each of the foregoing as described in the Plaza REA.
+
+7.
+
+Borrower acknowledges that nothing contained herein shall be construed to relieve Borrower from its obligations under the Loan Agreement and the other Loan Documents. Borrower further acknowledges the lien of the Deed of Trust to be a valid and existing first lien on the Project, and the lien of the Deed of Trust and other Loan Documents is hereby agreed to continue in full force and effect, unaffected and unimpaired by this Amendment. Notwithstanding anything to the contrary contained in the Loan Agreement, Borrower further acknowledges and agrees that the Additional Collateral Assignment of Interest Rate Protection Agreement is a Loan Document.
+
+8.
+
+Each Guarantor hereby acknowledges Borrower’s entrance into this Amendment and hereby confirms and agrees that the Recourse Indemnity is and continues in full
+
+ 
+
+force and effect and is hereby ratified and confirmed in all respects except that, on and after the effective date of the this Amendment, each reference in the Recourse Indemnity to “the Term Loan Agreement”, “the Loan Agreement”, “the Credit Agreement”, “thereunder”, “thereof” or words of like import referring to the Term Loan Agreement shall mean and be a reference to the Term Loan Agreement as amended by the said Amendment.
+
+9.
+
+Wynn Guarantor hereby confirms and agrees that the Indemnity Agreement is and continues in full
+
+ 
+
+force and effect and is hereby ratified and confirmed in all respects except that, on and after the effective date of the this Amendment, each reference in the Indemnity Agreement to “the Term Loan Agreement”, “the Loan Agreement”, “the Credit Agreement”, “thereunder”, “thereof” or words of like import referring to the Term Loan Agreement shall mean and be a reference to the Term Loan Agreement as amended by the said Amendment.
+
+10.
+
+Except as herein modified and amended, all of the terms, provisions and conditions of the Loan Agreement and the other Loan Documents, as the same may be amended 
+
+9
+
+as of the date hereof, shall remain in full force and effect and Borrower hereby represents and warrants that each and every representation and warranty set forth in 
+
+Section 4.1
+
+, 
+
+Section 5.1
+
+ and 
+
+Article 6
+
+ of the Loan Agreement is (i) true and correct as of the date hereof, except (X) if the subject matter of such representation or warranty relates to the closing date of the Loan or another date or time described therein (including, without limitation, 
+
+Sections 5.1(4)
+
+, 
+
+6.3(a)
+
+ and 
+
+6.12
+
+ of the Loan Agreement), in which case such representation shall be true and correct in all material respects as of such date or time and (Y) to the extent such representation or warranty is no longer true as a result of the passage of time, changes in facts and circumstances and/or the conduct of Borrower and/or Guarantor, provided that any such changes are not the result of, and any such conduct does not constitute, a default on the part of Borrower or Guarantor (as applicable) under the Loan Agreement and the other Loan Documents (including, without limitation, with respect to the Leases) and (ii) subject to exceptions contemplated by the foregoing clauses (X) and (Y), incorporated herein in full by reference as if fully restated herein in its entirety. Borrower hereby ratifies and confirms all of its covenants, obligations, duties, liabilities, indemnities and guarantees under the Loan Agreement and the other Loan Documents.
+
+11.
+
+Borrower represents, warrants and covenants that, as of the date hereof: (a) each of this Amendment, the Loan Agreement and the other Loan Documents is valid, binding and enforceable (subject to applicable bankruptcy, insolvency or similar Legal Requirements generally affecting the enforcement of creditors’ rights) in accordance with its respective terms and provisions, (b) there are no offsets, counterclaims or defenses which may be asserted with respect to this Amendment, the Loan Agreement and the other Loan Documents, or which may in any manner affect the collection or collectability of the principal, interest and other sums evidenced and secured by this Amendment, the Loan Agreement and the other Loan Documents, nor, to Borrower’s actual knowledge without inquiry, is there any basis whatsoever for any such offset, counterclaim or defense as of the date hereof, (c) Borrower (and its undersigned representative(s)) has the full power, authority and legal right to execute this Amendment and to keep and observe all of the terms of this Amendment, the Loan Agreement and the other Loan Documents on Borrower’s part to be observed and performed and (d) no Event of Default now has occurred and is continuing or will result from the consummation of the transactions contemplated by this Amendment.
+
+12.
+
+Each Person other than Agent, the Banks or Borrower executing or consenting to this Amendment represents, warrants and covenants that as of the date hereof: (a) each of this Amendment and all other Loan Documents to which it is a party is valid, binding and enforceable against it in accordance with the respective terms and provisions thereof to the extent of such terms and provisions, subject to applicable bankruptcy, insolvency or similar Legal Requirements generally affecting the enforcement of creditors’ rights, (b) there are no offsets, counterclaims or defenses which may be asserted with respect to this Amendment, and the other Loan Documents to which it is a party, nor, to such Person’s actual knowledge without inquiry, is there any basis whatsoever for any such offset, counterclaim or defense, (c) it has full power, authority and legal right to execute this Amendment and each other Loan Document executed in connection with this Amendment to which it is a party, to the extent applicable, and to keep and observe all of the terms of this Amendment and such other Loan Documents on its part to be observed and performed.
+
+10
+
+13.
+
+The amendments set forth herein are limited precisely as written and shall not be deemed to (a) be a consent to or a waiver of any other term or condition of the Loan Agreement or any of the other Loan Documents or (b) prejudice any right or rights which Agent or any Bank may now have or may have in the future under or in connection with the Loan Agreement or any other Loan Document. 
+
+14.
+
+In the event of any conflict or ambiguity between the terms, covenants and provisions of this Amendment and those of the Loan Agreement and the other Loan Documents, the terms, covenants and provisions of this Amendment shall control.
+
+15.
+
+This Amendment may not be modified, amended, waived, changed or terminated orally, but only by an agreement in writing signed by the party against whom the enforcement of the modification, amendment, waiver, change or termination is sought.
+
+16.
+
+This Amendment shall be binding upon and inure to the benefit of Borrower, Guarantor, Agent, the Banks and the Borrower Parties and their respective successors and assigns. This Amendment shall, for all purposes, be and constitute a Loan Document.
+
+17.
+
+This Amendment may be executed in any number of duplicate originals and each such duplicate original shall be deemed to constitute but one and the same instrument.
+
+18.
+
+If any term, covenant or condition of this Amendment shall be held to be invalid, illegal or unenforceable in any respect, this Amendment shall be construed without such provision.
+
+19.
+
+THIS AMENDMENT AND THE OTHER LOAN DOCUMENTS AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER AND UNDER THE OTHER LOAN DOCUMENTS SHALL IN ALL RESPECTS BE GOVERNED BY, AND CONSTRUED AND ENFORCED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK (WITHOUT GIVING EFFECT TO NEW YORK’S PRINCIPLES OF CONFLICTS OF LAW). BORROWER, GUARANTOR, AGENT AND EACH BANK HEREBY IRREVOCABLY (I) SUBMIT TO THE NON-EXCLUSIVE JURISDICTION OF ANY NEW YORK STATE OR FEDERAL COURT SITTING IN THE COUNTY OF NEW YORK OVER ANY SUIT, ACTION OR PROCEEDING ARISING OUT OF OR RELATING TO THIS AMENDMENT OR THE OTHER LOAN DOCUMENTS, (II) WAIVE ANY OBJECTION WHICH IT MAY HAVE AT ANY TIME TO THE LAYING OF VENUE OF ANY ACTION OR PROCEEDING BROUGHT IN ANY SUCH COURT, (III) WAIVE ANY CLAIM THAT SUCH PROCEEDINGS OR ACTIONS HAVE BEEN BROUGHT IN AN INCONVENIENT FORUM AND (IV) WAIVE THE RIGHT TO OBJECT, WITH RESPECT TO SUCH ACTION OR PROCEEDING, THAT SUCH COURT DOES NOT HAVE JURISDICTION OVER SUCH PARTY. EACH OF AGENT, EACH BANK, GUARANTOR AND BORROWER HEREBY AGREES AND CONSENTS THAT, IN ADDITION TO ANY METHODS OF SERVICE OF PROCESS PROVIDED FOR UNDER APPLICABLE LAW, ALL SERVICE OF PROCESS IN ANY SUCH SUIT, ACTION OR PROCEEDING IN ANY NEW YORK STATE OR FEDERAL COURT SITTING IN THE COUNTY OF NEW YORK MAY BE MADE BY CERTIFIED OR REGISTERED MAIL, RETURN RECEIPT 
+
+11
+
+REQUESTED, DIRECTED TO AGENT, EACH BANK, GUARANTOR OR BORROWER, AS APPLICABLE AT THE ADDRESS FOR NOTICES PURSUANT TO 
+
+SECTION 11.1
+
+ OF THE LOAN AGREEMENT (OR, IN THE CASE OF GUARANTOR, AT THE ADDRESS FOR NOTICES TO GUARANTOR PURSUANT TO 
+
+SECTION 8
+
+ OF THE RECOURSE INDEMNITY), AND SERVICE SO MADE SHALL BE COMPLETE FIVE DAYS AFTER THE SAME SHALL HAVE BEEN SO MAILED.
+
+[signatures appear on the following pages]
+
+12
+
+IN WITNESS WHEREOF, the parties hereto have executed this Amendment as of the date and year first above written.
+
+AGENT:    UNITED OVERSEAS BANK LIMITED, NEW YORK AGENCY
+
+By:    
+
+/s/ Eriberto De Guzman
+
+Name: Eriberto De Guzman
+
+Title: Managing Director
+
+By:    
+
+/s/ Vijay Kant
+
+Name: Vijay Kant
+
+Title: Executive Director
+
+[signatures continue on following page]
+
+BANKS:    UNITED OVERSEAS BANK LIMITED, NEW YORK AGENCY
+
+By:    
+
+/s/ Eriberto De Guzman
+
+Name: Eriberto De Guzman
+
+Title: Managing Director
+
+By:    
+
+/s/ Vijay Kant
+
+Name: Vijay Kant
+
+Title: Executive Director
+
+[signatures continue on following page]
+
+FIFTH THIRD BANK
+
+, 
+National Association
+
+By:    
+
+/s/ Klay Schmeisser
+
+Name: Klay Schmeisser
+
+Title: Senior Vice President
+
+[signatures continue on following page]
+
+SUMITOMO MITSUI BANKING CORPORATION
+
+By:    
+
+/s/ Jane Massi
+
+Name: Jane Massi
+
+Title: Executive Director
+
+[signatures continue on following page]
+
+CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK
+
+, a banking corporation organized under the laws of the Republic of France
+
+By:    
+
+/s/ Adam Jenner
+
+Name: Adam Jenner
+
+Title: Director
+
+By:    
+
+/s/ Jason Chrein
+
+Name:Jason Chrein
+
+Title: Managing Director
+
+[signatures continue on following page]
+
+SAFRA NATIONAL BANK OF NEW YORK
+
+By:    
+
+/s/ Stephan Mazzacca
+
+Name: Stephan Mazzacca
+
+Title: Senior Vice President
+
+By:    
+
+/s/ Charles Shafer
+
+Name: Charles Shafer
+
+Title: Senior Vice President & Chief Credit Officer
+
+[signatures continue on following page]
+
+EAST WEST BANK
+
+By:    
+
+/s/ Yongli Horowitz
+
+Name: Yongli Horowitz
+
+Title: First Vice President
+
+[signatures continue on following page]
+
+BORROWER
+
+:    
+
+WYNN/CA PLAZA PROPERTY OWNER, LLC,
+
+a Nevada limited liability company
+
+By:    Wynn/CA Plaza JV, LLC, 
+
+a Nevada limited liability company, 
+
+its sole member
+
+By:    Wynn Plaza, LLC,
+
+a Nevada limited liability company,
+
+its managing member
+
+By:    Wynn Resorts, Limited,
+
+a Nevada corporation,
+
+its sole member
+
+By:    
+
+/s/ Julie Cameron-Doe
+
+ 
+
+Name: Julie Cameron-Doe
+
+Title: Chief Financial Officer
+
+[signatures continue on following page]
+
+BORROWER:
+
+WYNN/CA PROPERTY OWNER, LLC,
+
+a Nevada limited liability company
+
+By:    Wynn/CA JV, LLC, 
+
+a Nevada limited liability company, 
+
+its sole member
+
+By:    Wynn Retail, LLC,
+
+a Nevada limited liability company,
+
+its managing member
+
+By:    Wynn Resorts, Limited,
+
+a Nevada corporation,
+
+its sole member
+
+By:    
+
+/s/ Julie Cameron-Doe
+
+ 
+
+Name: Julie Cameron-Doe
+
+Title: Chief Financial Officer
+
+[signatures continue on following page]
+
+GUARANTOR:
+
+PPF RETAIL, LLC
+
+,
+
+a Delaware limited liability company
+
+By:    PPF OP, LP, a Delaware limited partnership, its Sole Member
+
+By:    PPF OPGP, LLC, a Delaware limited liability company, its General Partner
+
+By:    Prime Property Fund, LLC, a Delaware limited liability company, its Member
+
+By:    Morgan Stanley Real Estate Advisor, Inc., 
+a Delaware corporation, its Investment Adviser
+
+By:    
+
+/s/ Derek Simmons
+
+Name: Derek Simmons
+
+Title: Vice President
+
+[signatures continue on the following page]
+
+GUARANTOR:
+
+CROWN RETAIL SERVICES, LLC, 
+
+a New York limited liability company
+
+By:    
+
+/s/ Brittany Bragg
+
+Name: Brittany Bragg
+
+Title: Authorized Signatory
+
+[signatures continue on the following page]
+
+GUARANTOR:
+
+WYNN RESORTS, LIMITED
+
+, 
+
+a Nevada corporation
+
+By:    
+
+/s/ Julie Cameron-Doe
+
+Name: Julie Cameron-Doe
+
+Title: Chief Financial Officer
+
+[consents appear on the following pages]
+
+HOTEL OWNER CONSENT
+
+The undersigned, 
+
+WYNN LAS VEGAS, LLC
+
+, a Nevada limited liability company (“
+
+Esplanade Hotel Owner
+
+”), as the Hotel Owner in that certain Declaration of Covenants and Easements, dated as of December 21, 2016, affecting the Esplanade Project and recorded as Instrument Number 20161221-0003705 in the Office of the County Recorder of Clark County, Nevada, as amended by the First Amendment to the Declaration of Covenants and Easements, dated as of October 2, 2017 and recorded as Instrument Number 20171003-0000452 in the Office of the County Recorder of Clark County, Nevada, as further amended by the Second Amendment to the Declaration of Covenants and Easements, dated as of November 17, 2017 and recorded as Instrument Number 20171117-0000854 in the Office of the County Recorder of Clark County, Nevada (as so amended, the “
+
+Esplanade Declaration
+
+”), hereby acknowledges and agrees with Section 5 in the foregoing Amendment and hereby confirms and agrees the following: (i) that the Esplanade REA is and continues in full
+
+ 
+
+force and effect and is hereby ratified and confirmed in all respects, (ii) that to the knowledge of Esplanade Hotel Owner, there are no events which with the giving of notice, the passage of time or both would constitute a default under the Esplanade Declaration, and (iii) there have been no modifications or amendments to the Esplanade Declaration, other than as set forth above. 
+
+Executed as of October 2, 2024.
+
+[signatures continue on following page]
+
+WYNN LAS VEGAS, LLC
+
+,
+
+a Nevada limited liability company
+
+By:    WYNN LAS VEGAS HOLDINGS, LLC, a Nevada limited liability company, its sole member
+
+By:    WYNN AMERICA, LLC, a Nevada limited liability company, its sole member
+
+By:    WYNN RESORTS HOLDINGS, LLC, a Nevada limited liability company, its sole member
+
+By:    WYNN RESORTS LIMITED, a Nevada corporation, its sole member
+
+By:    
+
+/s/ Julie Cameron-Doe
+
+Name: Julie Cameron-Doe
+
+Title: Chief Financial Officer
+
+[signatures continue on following page]
+
+OWNERS OF THE WYNN PROPERTY CONSENT
+
+The undersigned, 
+
+WYNN LAS VEGAS, LLC
+
+, a Nevada limited liability company (the “
+
+Plaza Hotel Owner
+
+”), as the Hotel Owner in that certain Declaration of Covenants and Easements, dated as of October 2, 2017, effecting the Plaza Project and recorded as Instrument Number 20171003-0000451 in the Office of the County Recorder of Clark County, Nevada (the “
+
+Plaza Declaration
+
+”), hereby acknowledges and agrees with Section 6 in the foregoing Amendment and hereby confirms and agrees the following: (i) the Plaza REA is and continues in full
+
+ 
+
+force and effect and is hereby ratified and confirmed in all respects, (ii) to the knowledge of Plaza Hotel Owner, there are no events which with the giving of notice, the passage of time or both would constitute a default under the Plaza Declaration, and (iii) there have been no modifications or amendments to the Plaza Declaration.
+
+Executed as of October 2, 2024.
+
+[signatures continue on following page]
+
+WYNN LAS VEGAS, LLC
+
+,
+
+a Nevada limited liability company
+
+By:    WYNN LAS VEGAS HOLDINGS, LLC, a Nevada limited liability company, its sole member
+
+By:    WYNN AMERICA, LLC, a Nevada limited liability company, its sole member
+
+By:    WYNN RESORTS HOLDINGS, LLC, a Nevada limited liability company, its sole member
+
+By:    WYNN RESORTS LIMITED, a Nevada corporation, its sole member
+
+By:    
+
+/s/ Julie Cameron-Doe
+
+Name: Julie Cameron-Doe
+
+Title: Chief Financial Officer
+
+[signatures continue on following page]
+
+SCHEDULE A
+
+Bank
+
+Commitment
+
+Principal Balance of the Loan
+
+United Overseas Bank Limited, New York Agency
+
+$258,256,097.56
+
+$250,000,000.00
+
+Fifth Third Bank
+
+$115,000,000.00
+
+$112,195,121.95
+
+Sumitomo Mitsui Bank Corporation
+
+$100,000,000.00
+
+$97,560,975.61
+
+Crédit Agricole Corporate and Investment Bank
+
+$61,500,000.00
+
+$60,000,000.00
+
+Safra National Bank of New York
+
+$50,243,902.44
+
+$50,243,902.44
+
+East West Bank
+
+$30,000,000.00
+
+$30,000,000.00
+
+Total
+
+$615,000,000.00
+
+$600,000,000.00

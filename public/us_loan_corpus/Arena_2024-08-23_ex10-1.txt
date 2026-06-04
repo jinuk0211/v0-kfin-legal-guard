@@ -1,0 +1,1319 @@
+EX-10.1
+
+2
+
+ex10-1.htm
+
+ 
+
+ 
+
+Exhibit
+10.1
+
+ 
+
+AMENDMENT
+NO. 1 TO LOAN DOCUMENTS
+
+ 
+
+THIS
+AMENDMENT NO. 1 TO LOAN DOCUMENTS (“Amendment”) is dated as of August 19, 2024 (“Effective Date”), by and between
+SIMPLIFY INVENTIONS, LLC, a Delaware limited liability company (“Lender”), and THE ARENA GROUP HOLDINGS, INC., a Delaware
+corporation (“Borrower”), and is acknowledged, agreed and affirmed by each of the undersigned guarantors that are a party
+to the Guaranty (defined below) (each, a “Guarantor” and collectively, the “Guarantors”).
+
+ 
+
+RECITALS
+
+ 
+
+A.
+ LOAN
+AGREEMENT
+. Borrower is indebted to Lender under that certain Loan Agreement dated as of March 13, 2024 (the “Loan Agreement”),
+with respect to a certain demand revolving loan made by Lender to Borrower in the maximum principal amount of Twenty-Five Million and
+00/100 Dollars ($25,000,000.00) (the “Loan”). The Loan is supported and/or secured by certain other loan documents executed
+in connection with the Loan. All capitalized terms used but not defined in this Amendment have the meanings ascribed to them in the Loan
+Agreement or in the Loan Documents being amended.
+
+ 
+
+B.
+ EVIDENCE
+OF DEBT
+. The Loan is evidenced by a certain Demand Promissory Note in the maximum principal amount of Twenty-Five Million and 00/100
+Dollars ($25,000,000.00) dated as of March 13, 2024, as amended, restated, replaced and continued by that certain Amended and Restated
+Promissory Note dated as of the date hereof in the maximum principal amount of Fifty Million and 00/100 Dollars ($50,000,000.00) (collectively,
+the “Note”).
+
+ 
+
+C. 
+COLLATERAL
+.
+The Loan is supported and/or secured by the following loan documents:
+
+ 
+
+●
+
+Continuing
+ Unconditional Guaranty dated March 13, 2024 (the “Guaranty”) of the following
+ Guarantors: The Arena Platform, Inc., a Delaware corporation, TheStreet, Inc., a Delaware
+ corporation, The Arena Media Brands, LLC, a Delaware limited liability company, College Spun
+ Media Incorporated, a New Jersey corporation, Athlon Sports Communications, Inc., a Tennessee
+ corporation, and Athlon Holdings, Inc., a Tennessee corporation;
+
+ 
+
+ 
+
+ 
+
+●
+
+Pledge
+ and Security Agreement dated March 13, 2024 (“Security Agreement”);
+
+ 
+
+ 
+
+ 
+
+●
+
+Perfection
+ Certificate dated March 13, 2024 (“Perfection Certificate”);
+
+ 
+
+ 
+
+ 
+
+●
+
+Tennessee
+ Indebtedness Tax Affidavit Allocation of Collateral (Debtor) dated March 13, 2024 (“Tennessee
+ Affidavit”);
+
+ 
+
+ 
+
+ 
+
+●
+
+Grant
+ of Security Interest in Trademarks dated March 13, 2024 (“Trademark Security Agreement”);
+
+ 
+
+ 
+
+ 
+
+●
+
+Grant
+ of Security Interest in Patents dated March 13, 2024 (“Patent Security Agreement”);
+
+ 
+
+ 
+
+ 
+
+●
+
+Grant
+ of Security Interest in Copyrights dated March 13, 2024 (“Copyright Security Agreement”);
+ and
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+●
+
+Intercreditor
+ Agreement dated March 13, 2024 by and between Lender and Renew Group Private Limited, a private
+ limited company organized under the laws of the Republic of Singapore, and acknowledged by
+ Borrower (“Intercreditor Agreement”).
+
+ 
+
+(The
+above documents are collectively referred to as the “Related Documents”).
+
+ 
+
+(The
+Related Documents together with the Loan Agreement and the Note are collectively, the “Loan Documents”).
+
+ 
+
+D. 
+AMENDMENT
+REQUEST
+. Borrower, Guarantors and Lender desire to amend certain of the terms and conditions of the Loan Agreement and certain of
+the Loan Documents described above and all of the parties are willing to execute this Amendment.
+
+ 
+
+AGREEMENT
+
+ 
+
+In
+consideration of the above recitals, which are incorporated into and deemed a part hereof, the parties agree as follows:
+
+ 
+
+1. 
+AMENDMENTS.
+
+The Loan Agreement and Loan Documents are amended as follows:
+
+ 
+
+A. 
+AMENDMENT
+OF LOAN AGREEMENT. 
+The Loan Agreement is amended as follows:
+
+ 
+
+(i) The
+new definition of “Loan Amount” is inserted Section 1.1 of the Loan Agreement in alphabetical order and state as follows:
+
+ 
+
+“‘Loan
+Amount’ shall mean maximum principal amount of Fifty Million and 00/100 Dollars ($50,000,000.00).”
+
+ 
+
+(ii) The
+new definition of “Maturity Date” is inserted Section 1.1 of the Loan Agreement in alphabetical order and state as follows:
+
+ 
+
+“‘Maturity
+Date’ shall mean December 1, 2026.”
+
+ 
+
+(iii) “Exhibit
+A” attached to the Loan Agreement referenced in the definition of “Note” in Section 1.1 of the Loan Agreement is hereby
+amended, restated and replaced in its entirety with the 
+Exhibit A
+ attached to this Amendment
+
+ 
+
+(iv) Section
+2.1 of the Loan Agreement is hereby amended and restated in its entirety and states as follows:
+
+ 
+
+“2.1 
+Revolving
+Loan
+. On and subject to the terms and conditions of this Agreement, prior to the Maturity Date, Lender may make advances to
+Borrower (collectively, the ‘Loan’); provided, however, that the aggregate unpaid principal balance of the Loan shall
+not exceed the Loan Amount. Advances of the Loan made by Lender may be repaid and, subject to the terms and conditions hereof,
+borrowed again prior to the Maturity Date.
+
+ 
+
+(v) Section
+3.3 of the Loan Agreement is hereby amended and restated in its entirety and states as follows:
+
+ 
+
+“3.3 
+Interest
+Payments
+. Borrower shall make payments of accrued and unpaid interest on the unpaid principal balance of the Loan monthly, in
+arrears, on the first day of each month. The entire outstanding principal balance and accrued and unpaid interest and fees owing in
+connection with the Loan shall be due and payable in full on the Maturity Date.
+
+ 
+
+AMENDMENT
+NO. 1 TO LOAN DOCUMENTS
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+(vi) Section
+3.5 of the Loan Agreement is hereby amended and restated in its entirety and states as follows:
+
+ 
+
+“3.5 
+Principal
+Payments
+. Borrower may voluntarily repay all or any portion of the unpaid principal balance of the Loan at any time without
+penalty or fee; provided, however that the entire outstanding principal balance and accrued and unpaid interest and fees owing in
+connection with the Loan shall be due and payable in full on the Maturity Date.
+
+ 
+
+(vii) Section
+6.1(a) of the Loan Agreement is hereby amended and restated in its entirety and states as follows:
+
+ 
+
+“6.1(a) 
+Nonpayment
+of Obligations
+. The Borrower fails to pay any amount of (i) principal or interest on the Loan, or (ii) any other amounts due and
+payable under this Agreement when any such payments are due.”
+
+ 
+
+B. 
+AMENDMENT
+OF TENNESSEE AFFIDAVIT.
+ Upon request of Lender, Borrower agrees to promptly execute, or cause to be executed, and return to Lender
+an original notarized Tennessee Indebtedness Tax Affidavit – Allocation of Collateral (Debtor) in form required by the taxing authority
+of the State of Tennessee and acceptable to Lender.
+
+ 
+
+2. 
+CONDITIONS
+PRECEDENT.
+ The terms and conditions of this Amendment shall be subject to Lender’s receipt and review (as applicable) of and/or
+Borrower’s compliance with the following, each of which shall be to the satisfaction of Lender:
+
+ 
+
+A. the
+Amended and Restated Promissory Note dated as of the date hereof in the maximum principal amount of Fifty Million and 00/100 Dollars
+($50,000,000.00) executed by Borrower;
+
+ 
+
+B. this
+Amendment executed by Borrower;
+
+ 
+
+C. such
+other documentation that Lender may request from Borrower from time to time in connection with this Amendment or the Loan;
+
+ 
+
+D. payment
+by Borrower to Lender of fees and out of pocket costs incurred by Lender in connection with the transactions contemplated by this Amendment,
+including, without limitation, Lender’s attorneys’ fees and costs in connection with this Amendment; and
+
+ 
+
+E. no
+Event of Default under the Loan Agreement or the Loan Documents shall have occurred and be continuing as of the date hereof.
+
+ 
+
+3. 
+NOT
+A NOVATION.
+ This Amendment is not an agreement to substitute a new obligation or to extinguish Borrower’s existing obligation
+under the Loan Agreement and Loan Documents and shall not constitute a novation as to the obligations of any of the parties.
+
+ 
+
+AMENDMENT
+NO. 1 TO LOAN DOCUMENTS
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+4. 
+REAFFIRMATION
+OF GUARANTY.
+ As a specific inducement to Lender, and in consideration of the Lender’s reliance hereon, the undersigned Guarantors
+have each executed the Guaranty dated March 13, 2024, and each Guarantor hereby acknowledges and agrees to the amendments, modifications,
+and waivers set forth in this Amendment and the Note and reaffirms its Guaranty with respect to all liabilities, obligations and the
+Indebtedness therein guaranteed as herein amended and modified, and Guarantors further acknowledge that they remain liable in accordance
+with the terms of the Guaranty, notwithstanding the modifications and amendments herein made.
+
+ 
+
+5. 
+REPRESENTATIONS
+AND WARRANTIES
+. Borrower hereby represents and warrants that, after giving effect to the amendments contained herein:
+
+ 
+
+A. execution,
+delivery and performance of this Amendment, the Loan Documents and any other documents and instruments required under this Amendment,
+the Note, the Loan Agreement or the Loan Documents are within Borrower’s corporate powers, have been duly authorized, are not in
+contravention of law or the terms of Borrower’s Articles of Incorporation or Bylaws, and do not require the consent or approval
+of any governmental body, agency or authority; and this Amendment and any other documents and instruments required under this Amendment
+or the Loan Agreement will be valid and binding in accordance with their terms;
+
+ 
+
+B the
+continuing representations and warranties of Borrower set forth in the Loan Documents are true and correct on and as of the date hereof,
+with the same force and effect as if made on and as of the date hereof; and
+
+ 
+
+C. no
+Event of Default under the Loan Agreement or the Loan Documents has occurred and is continuing as of the date hereof.
+
+ 
+
+6. 
+EFFECTIVE
+DATE
+. This Amendment will be effective as of the Effective Date.
+
+ 
+
+7. 
+COUNTERPARTS.
+
+This Amendment may be executed and acknowledged in counterparts, each of which shall constitute an original and all of which shall
+together constitute one and the same Amendment.
+
+ 
+
+8. 
+COSTS
+AND EXPENSES.
+ Borrower is responsible for all fees and reasonable expenses incurred by Lender, including, without limitation, reasonable
+attorney fees, with regard to the preparation and execution of this Amendment and all other documents and instruments required under
+this Amendment. Failure by Borrower to pay those fees will be a default of this Amendment.
+
+ 
+
+9. 
+NON-WAIVER
+OF DEFAULT
+. The execution of this Amendment will not be deemed to be a waiver of any default or Event of Default that is either (a)
+existing and not known by Lender at the Effective Date, or (b) occurs at any time following the Effective Date.
+
+ 
+
+10. 
+RELEASE
+.
+Borrower and each Guarantor waives, discharges, and forever releases Lender, Lender’s employees, officers, directors, attorneys,
+stockholders, and their successors and assigns, from and of any and all claims, causes of action, allegations or assertions that Borrower
+or any Guarantor has or may have had at any time up through and including the Effective Date, against any or all of the foregoing, regardless
+of whether any such claims, causes of action, allegations or assertions are known to Borrower or any Guarantor or whether any such claims,
+causes of action, allegations or assertions arose as a result of Lender’s actions or omissions in connection with the Loan Documents,
+or any amendments, extensions or modifications thereto, or Lender’s administration of the indebtedness under the Loan Documents
+or otherwise.
+
+ 
+
+AMENDMENT
+NO. 1 TO LOAN DOCUMENTS
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+11. 
+FURTHER
+AMENDMENT.
+ This Amendment is not an agreement to any further or other amendment of the Loan Agreement or the Loan Documents.
+
+ 
+
+12. 
+SURVIVAL
+AND REAFFIRMATION.
+ Each signatory hereto, by execution hereof, respectively agrees for itself, in all capacities in which each signatory
+has executed the Loan Agreement or any of the Loan Documents as follows:
+
+ 
+
+A. That,
+except as herein modified or amended, all terms, conditions, covenants, representations and warranties contained in the Loan Agreement,
+the Note and/or Loan Documents shall remain in full force and effect, and that the undersigned hereby consent to and acknowledge the
+foregoing Amendment.
+
+ 
+
+B. That
+the liability of the undersigned howsoever arising or provided for in the Loan Agreement, the Note and the Loan Documents, as hereby
+modified or amended, is hereby reaffirmed.
+
+ 
+
+13. 
+COUNTERPARTS
+.
+This Agreement may be executed in any number of counterparts with the same effect as if all signatories had signed the same document.
+All counterparts must be construed together to constitute one instrument. Facsimile or scanned copies of signatures are treated as original
+signatures for all purposes.
+
+ 
+
+AMENDMENT
+NO. 1 TO LOAN DOCUMENTS
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, the parties hereto have executed this Amendment No. 1 to Loan Documents as of the Effective Date.
+
+ 
+
+ 
+
+ 
+
+BORROWER:
+ 
+
+ 
+
+THE
+ ARENA GROUP HOLDINGS, INC.,
+
+ 
+
+ 
+
+ 
+
+ 
+
+A
+ Delaware corporation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+/s/
+ Sara Silverstein
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sara
+ Silverstein
+
+ 
+
+ 
+
+ 
+
+ 
+
+Its:
+ 
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LENDER:
+ 
+
+ 
+
+SIMPLIFY
+ INVENTIONS, LLC,
+
+ 
+
+ 
+
+ 
+
+ 
+
+a
+ Delaware limited liability company
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+/s/
+ Shawn McCue
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Shawn
+ McCue
+
+ 
+
+ 
+
+ 
+
+ 
+
+Its:
+
+ 
+
+Chief
+ Financial Officer
+
+ 
+
+ 
+
+AMENDMENT
+NO. 1 TO LOAN DOCUMENTS
+
+ 
+
+ 
+
+6
+
+ 
+
+ 
+
+ 
+
+ 
+
+EXHIBIT
+A
+
+FORM OF AMENDED AND RESTATED NOTE
+
+ 
+
+See
+attached.
+
+ 
+
+AMENDMENT
+NO. 1 TO LOAN DOCUMENTS
+
+ 
+
+ 
+
+7
+
+ 
+
+ 
+
+ 
+
+ 
+
+Execution
+Copy
+
+ 
+
+AGREEMENT
+AND AFFIRMATION OF GUARANTORS
+
+ 
+
+By
+executing this Agreement and Affirmation of Guarantors (“Agreement and Affirmation”), each Guarantor: (1) acknowledges and
+agrees that such Guarantor has completely read and understands the Amendment No. 1 to Loan Documents dated August 19, 2024 (the “Amendment”),
+the Amended and Restated Promissory Note dated August 19, 2024 and corresponding documents executed in connection therewith (“Amendment
+Documents”); (2) consents to all of the provisions of the Amendment Documents relating to Borrower; (3) acknowledges receipt of
+good and lawful consideration for this Agreement and Affirmation of its Guaranty in favor of Lender; (4) agrees promptly to furnish such
+financial statements to Lender concerning such Guarantor as Lender shall request; (5) agrees to all of those portions of the Amendment
+Documents which apply to such Guarantor; (6) affirms its respective obligations to Lender under the Guaranty and acknowledges that the
+Guaranty remains in full force and effect in accordance with its terms, as the same may have been amended and/or restated in connection
+with the Amendment, subject to no setoff, defense or counterclaim, (7) acknowledges and agrees that the Amendment Documents and this
+Agreement and Affirmation has been freely executed without duress and after an opportunity was provided to Guarantor for review of such
+agreements by competent legal counsel of Guarantor’s choice; and (8) acknowledges that Lender has provided Guarantor with a copy
+of the Amendment Documents and this Agreement and Affirmation and such other Loan Documents, as Guarantor has reasonably requested.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GUARANTORS:
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The
+ Arena Platform, Inc., 
+
+ 
+
+a
+ Delaware corporation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Sara Silverstein
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sara
+ Silverstein
+
+ 
+
+ 
+
+ 
+
+ 
+
+Its:
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TheStreet,
+ Inc.,
+
+ 
+
+a
+ Delaware corporation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Sara Silverstein
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sara
+ Silverstein
+
+ 
+
+ 
+
+ 
+
+ 
+
+Its:
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The
+ Arena Media Brands, LLC,
+
+ 
+
+a
+ Delaware limited liability company
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Sara Silverstein
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sara
+ Silverstein
+
+ 
+
+ 
+
+ 
+
+ 
+
+Its:
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+College
+ Spun Media Incorporated, 
+
+ 
+
+a
+ New Jersey corporation,
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Sar
+
+a Silverstein
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sara
+ Silverstein
+
+ 
+
+ 
+
+ 
+
+ 
+
+Its:
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Athlon
+ Sports Communications, Inc., 
+
+ 
+
+a
+ Tennessee corporation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Sara Silverstein
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sara
+ Silverstein
+
+ 
+
+ 
+
+ 
+
+ 
+
+Its:
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Athlon
+ Holdings, Inc., 
+
+ 
+
+a
+ Tennessee corporation
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Sara Silverstein
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sara
+ Silverstein
+
+ 
+
+ 
+
+ 
+
+ 
+
+Its:
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ACKNOWLEDGEMENT
+AND AGREEMENT OF GUARANTORS
+
+ 
+
+ 
+
+2

@@ -8,10 +8,22 @@ __v0_jsx-dev-runtime.ts
 next.user-config.*
 
 # Environment variables
+.env
+.env.*
 .env*.local
+**/.env
+**/.env.*
 
 # Common ignores
 node_modules
 .next/
 .DS_Store
 .vercel
+
+# Local processing harness & archives (not part of the Next deploy)
+/logic/
+logic.zip
+
+# Build/cache junk
+**/__pycache__/
+*.tsbuildinfo

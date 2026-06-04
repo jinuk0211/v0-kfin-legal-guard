@@ -1,5 +1,12 @@
-@import 'tailwindcss';
+/* Disable automatic source detection (the repo also holds large reference
+   assets under logic/), then scan only the app's own source dirs. */
+@import 'tailwindcss' source(none);
 @import 'tw-animate-css';
+
+@source '../app';
+@source '../components';
+@source '../lib';
+@source '../hooks';
 
 @custom-variant dark (&:is(.dark *));
 

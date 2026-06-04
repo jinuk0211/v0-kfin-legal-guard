@@ -1,0 +1,1812 @@
+EX-10.1
+
+4
+
+ex10-1.htm
+
+ 
+
+ 
+
+Exhibit 10.1
+
+ 
+
+CONSENT AND SECOND AMENDMENT TO LOAN AND SECURITY
+AGREEMENT
+
+ 
+
+This CONSENT AND SECOND AMENDMENT
+TO LOAN AND SECURITY AGREEMENT (this “
+Amendment
+”) is entered into as of April 18, 2025 by and among SUNFLOWER
+BANK, N.A., as administrative agent and collateral agent for the Lenders (“
+Agent
+”), AMMO, INC., a Delaware corporation
+(“
+Ammo
+”), AMMO TECHNOLOGIES INC., an Arizona corporation (“
+Ammo Technologies
+”), ENLIGHT GROUP II,
+LLC, a Delaware limited liability company (“
+Enlight
+”), and AMMO MUNITIONS, INC., a Delaware corporation (“
+Ammo
+Munitions
+”; and together with Ammo, Ammo Technologies, and Enlight, individually and collectively, jointly and severally, “
+Borrower
+”).
+
+ 
+
+RECITALS
+
+ 
+
+Borrower and Agent are parties
+to that certain Loan and Security Agreement dated as of December 29, 2023 (as amended, restated, supplemented or otherwise modified from
+time to time, the “
+Loan Agreement
+”). The parties desire to amend the Loan Agreement in accordance with the terms of
+this Amendment.
+
+ 
+
+NOW, THEREFORE, the parties agree
+as follows:
+
+ 
+
+1. Pursuant to the terms of the Olin Winchester Acquisition
+Agreement (as defined below) and the related transactions contemplated thereby, Buyer intends to acquire certain of the assets and business
+of Borrower (the “
+Olin Winchester Acquisition
+”). Subject to the terms and conditions set forth herein, Agent hereby
+consents to the Olin Winchester Acquisition substantially in the form presented to Agent as of the date of this Amendment, the agreements
+to be entered into in connection therewith (and the execution, delivery and performance by Borrower thereof), and the transactions contemplated
+thereby and thereunder. Upon the Second Amendment Effective Date, Agent shall release Agent’s security interest in the Collateral.
+
+ 
+
+2. Notwithstanding anything else set forth in the
+Loan Agreement or the other Loan Documents, the parties hereto hereby agree that all amounts available under the Revolving Line as of
+the Second Amendment Effective Date shall be Zero Dollars ($0.00).
+
+ 
+
+3. The defined term “Prepayment Fee” in
+
+Section 1.1
+ of the Loan Agreement hereby is deleted in its entirety.
+
+ 
+
+4. The following defined terms in 
+Section 1.1
+
+of the Loan Agreement hereby are added, amended or restated as follows:
+
+ 
+
+“Amended and Restated Revolving Line
+Promissory Note” means an amended and restated revolving line promissory note in the amount of Five Million Dollars ($5,000,000.00),
+executed by Borrower in favor of Agent, which amends and restates the Revolving Line Promissory Note in full, without novation.
+
+ 
+
+“Buyer” means Olin
+Winchester, LLC, a Delaware limited liability company.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“Olin Winchester Acquisition”
+means the acquisition of certain of the assets and business of Borrower by Buyer as contemplated in the Olin Winchester Acquisition Agreement.
+
+ 
+
+“Olin Winchester Acquisition Agreement”
+means the documents, agreements and other instruments, including all schedules and exhibits thereto, executed and/or delivered in connection
+with the Olin Winchester Acquisition.
+
+ 
+
+“Early Termination Fee” means:
+in the event the Obligations are prepaid in full (whether voluntary or involuntary, including after acceleration thereof) and this Agreement
+is terminated prior to the last day of the term as described in 
+Section 2.6
+ hereof (the date of such termination hereinafter referred
+to as the “
+Early Termination Date
+”), an additional fee in the amount of (i) Four Hundred Thousand Dollars ($400,000.00)
+if such termination occurs on or prior to September 30, 2025; (ii) Three Hundred Thousand Dollars ($300,000.00) if such termination occurs
+after September 30, 2025 but on or prior to December 29, 2025; and (iii) One Hundred Thousand Dollars ($100,000.00) if such termination
+occurs after December 29, 2025 but prior to the Maturity Date.
+
+ 
+
+“Loan Documents” means, collectively,
+this Agreement, any agreements related to letters of credit, any subordination/intercreditor agreements, the Amended and Restated Revolving
+Line Promissory Note, any pledge or security agreements, and any other note or notes executed by each Loan Party or any other Person,
+and any other agreement, instrument, Guaranty or document entered into in connection with this Agreement, all as amended, restated, supplemented
+or otherwise modified or extended from time to time.
+
+ 
+
+“Name Change” means the change
+of legal name required under the Olin Winchester Acquisition Agreement to occur within five (5) Business Days after closing of each Borrower
+to remove “AMMO” or any marks acquired by Buyer in the Olin Winchester Acquisition.
+
+ 
+
+“Obligations” means all debt,
+principal, interest, Lender Expenses, the Early Termination Fee, and other amounts owed to Agent and/or any Lender by Borrower pursuant
+to this Agreement, or any other agreement, whether absolute or contingent, due or to become due, now existing or hereafter arising, including
+any interest that accrues after the commencement of an Insolvency Proceeding and including any debt, liability, or obligation owing from
+Borrower to others that Agent or any Lender may have obtained by assignment or otherwise.
+
+ 
+
+“Revolving Line Availability”
+means (i) prior to the Second Amendment Effective Date, the lesser of (a) the Revolving Line or (b) the Borrowing Base; or (ii) upon the
+Second Amendment Effective Date, Zero Dollars ($0.00).
+
+ 
+
+“Second Amendment Effective
+Date” means April 17, 2025.
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+“Total Commitment Amount”
+means, as of the Second Amendment Effective Date, Five Million Dollars ($5,000,000.00).
+
+ 
+
+5. 
+Section 2.1(a)(i)
+ of the Loan Agreement
+hereby is amended and restated as follows:
+
+ 
+
+“Subject to and upon the
+terms and conditions of this Agreement, Borrower may request Advances under the Revolving Line in an aggregate outstanding amount not
+to exceed the Revolving Line Availability. Subject to the terms and conditions of this Agreement, amounts borrowed pursuant to this Section
+2.1(a) may be repaid and re-borrowed at any time prior to the Maturity Date without penalty of premium. Upon the occurrence of the Maturity
+Date, all Advances under this Section 2.1(a) shall be immediately due and payable.”
+
+ 
+
+6. 
+Section 2.1(a)(ii)(A)
+ of the Loan Agreement
+hereby is amended and restated as follows:
+
+ 
+
+“So long as the Revolving
+Line Availability is greater than Zero Dollars ($0.00), whenever Borrower desires an Advance under the Revolving Line, Borrower will notify
+Agent no later than Noon Central time five (5) Business Days prior to when the Advance is to be made. Each such notification shall be
+made by delivering to Agent (i) a Revolving Advance Request Form in substantially the form of 
+Exhibit B 
+hereto (a “
+Notice
+of Borrowing
+”), (ii) an updated month-end Borrowing Base Certificate (as defined herein), and (iii) a Compliance Certificate
+(as defined herein) with an effective date no greater than sixty (60) days prior to the date of such notification. Each Lender, severally
+and not jointly, will make Advances to Borrower equal to such Lender’s Revolving Line Commitment Percentage of such requested Advance.”
+
+ 
+
+7. 
+Section 2.5(b)
+ of the Loan Agreement hereby
+is amended and restated as follows:
+
+ 
+
+“(b) 
+Early Termination
+Fee
+. The Early Termination Fee, when due hereunder.”
+
+ 
+
+8. 
+Section 2.5(d)
+ of the Loan Agreement hereby
+is amended and restated as follows:
+
+ 
+
+“(d) 
+Collateral Monitoring Fee
+. So
+long as the Revolving Line Availability is greater than Zero Dollars ($0.00), a fee, payable monthly to Agent, for the ratable benefit
+of Lenders, on the first day of each month, in an amount equal to One Thousand Dollars ($1,000.00) per month.”
+
+ 
+
+9. 
+Section 6.3(b)
+ of the Loan Agreement hereby
+is amended and restated as follows:
+
+ 
+
+“as soon as available, but
+in any event within one hundred twenty (120) days after the end of Borrower’s fiscal year, audited consolidated and consolidating
+financial statements of Borrower prepared in accordance with GAAP, consistently applied, together with an unqualified opinion on such
+financial statements of an independent certified public accounting firm reasonably acceptable to Agent (“
+CPA
+”), together
+with, 
+provided
+ that the Revolving Line Availability is greater than Zero Dollars ($0.00), a Compliance Certificate;”
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+10. 
+Section 6.3(e)
+ of the Loan Agreement hereby
+is amended and restated as follows:
+
+ 
+
+“(e) within thirty (30)
+days after the last day of each fiscal quarter (or more frequently if reasonably required by Agent), Borrower shall deliver to Agent a
+detailed aging of Borrower’s Accounts by invoice date or a summary aging by account debtor, together with payable aging, inventory
+analysis (by location and category), deferred revenue report, credit memos, collections, along with evidence of all other adjustments
+to accounts receivable, a sales report, monthly account statements for each depository, investment or operating account of Borrower not
+maintained at Agent, and such other matters as Agent may request, together with, 
+provided
+ that the Revolving Line Availability
+is greater than Zero Dollars ($0.00), a Borrowing Base Certificate signed by a Responsible Officer in substantially the form of 
+Exhibit
+C
+ hereto (“
+Borrowing Base Certificate
+”), prepared as of such quarter end and at other times in Agent’s discretion;
+
+provided
+, that if and when the Daily Balance is equal to an amount greater than $0, such Borrowing Base Certificate shall be delivered
+to Agent within thirty (30) days after the last day of each fiscal month;”
+
+ 
+
+11. The last paragraph of 
+Section 6.3
+ of the
+Loan Agreement hereby is amended and restated as follows:
+
+ 
+
+“Agent shall have a right
+from time to time hereafter, at its discretion, to (i) perform field examinations and audit Borrower’s Accounts and (ii) appraise
+Collateral; 
+provided
+, 
+however
+, Borrower shall only be obligated to pay expenses of Agent in connection therewith for two
+(2) such field examinations and one (1) Collateral appraisal per calendar year (so long as no Event of Default has occurred and is continuing,
+in which case Borrower shall be obligated to pay expenses of Agent with respect to all such field examinations, audits and appraisals
+until such Event of Default is cured).”
+
+ 
+
+12. 
+Section 6.3(f)
+ of the Loan Agreement hereby
+is amended and restated as follows:
+
+ 
+
+“(f) so long as the Revolving
+Line Availability is greater than Zero Dollars ($0.00), within thirty (30) days after the last day of each quarter, Borrower shall deliver
+to Agent a Compliance Certificate signed by a Responsible Officer in substantially the form of 
+Exhibit D
+ hereto (“
+Compliance
+Certificate
+”); 
+provided
+, that if and when the Daily Balance is equal to an amount greater than $0, such Compliance Certificate
+shall be delivered to Agent within thirty (30) days after the last day of each fiscal month;”
+
+ 
+
+13. 
+Section 6.8(a)
+ of the Loan Agreement hereby
+is amended and restated as follows:
+
+ 
+
+“(a) 
+Fixed Charge Coverage
+Ratio
+. (i) At any time Advances are outstanding under the Revolving Facility or (ii) so long as the Revolving Line Availability is
+greater than Zero Dollars ($0.00), and commencing the first full calendar month after the Closing Date, Borrower shall not permit the
+Fixed Charge Coverage Ratio as of the last day of each month to be less than 1.10:1:00, measured as of the last day of each month, for
+the trailing twelve (12) month period ended as of such date.”
+
+ 
+
+14. 
+Schedule I
+ of the Loan Agreement hereby
+is amended and restated in its entirety as attached hereto as 
+Schedule I
+.
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+15. 
+Exhibit D
+ of the Loan Agreement hereby
+is amended and restated in its entirety as attached hereto as 
+Exhibit D
+.
+
+ 
+
+16. No course of dealing on the part of Agent or its
+officers, nor any failure or delay in the exercise of any right by Agent, shall operate as a waiver thereof, and any single or partial
+exercise of any such right shall not preclude any later exercise of any such right. Agent’s failure at any time to require strict
+performance by Borrower of any provision shall not affect any right of Agent thereafter to demand strict compliance and performance. Any
+suspension or waiver of a right must be in writing signed by an officer of Agent.
+
+ 
+
+17. Agent hereby (a) consents to the Name Change and
+any required amendments to the organizational documents to implement the Name Change, and (b) waives the notice period for such change
+under Section 7.2 of the Loan Agreement, 
+provided
+, that within thirty (30) days following the Name Change, Borrower and Agent shall
+enter into a subsequent amendment to the Loan Agreement acknowledging the Name Change and updating Borrower’s name in the Loan Agreement.
+
+ 
+
+18. Unless otherwise defined, all initially capitalized
+terms in this Amendment shall be as defined in the Loan Agreement. The Loan Agreement, as amended hereby, shall be and remain in full
+force and effect in accordance with its respective terms and hereby is ratified and confirmed in all respects. Except as expressly set
+forth herein, the execution, delivery, and performance of this Amendment shall not operate as a waiver of, or as an amendment of, any
+right, power, or remedy of Agent under the Loan Agreement, as in effect prior to the date hereof.
+
+ 
+
+19. Borrower represents and warrants that the Representations
+and Warranties contained in the Loan Agreement are true and correct as of the date of this Amendment, and that no Event of Default has
+occurred and is continuing.
+
+ 
+
+20. As a condition to the effectiveness of this Amendment,
+Agent shall have received, in form and substance satisfactory to Agent, the following:
+
+ 
+
+(a) this Amendment, duly executed
+by Borrower;
+
+ 
+
+(b) the Amended and Restated Revolving
+Line Promissory Note, duly executed by Borrower;
+
+ 
+
+(c) a certificate of the Secretary
+of Borrower with respect to incumbency and resolutions authorizing the execution and delivery of this Amendment;
+
+ 
+
+(d) a duly executed copy of the
+Olin Winchester Acquisition Agreement;
+
+ 
+
+(e) all reasonable Lender Expenses
+incurred through the date of this Amendment, which may be debited from any of Borrower’s accounts; and
+
+ 
+
+(f) such other documents, and
+completion of such other matters, as Agent may reasonably deem necessary or appropriate.
+
+ 
+
+21. Each of Article 10, Article 11, Article 12 and
+Article 13 of the Loan Agreement are incorporated herein by reference, 
+mutatis mutandis
+, as though fully set forth.
+
+ 
+
+[Balance of Page Intentionally Left Blank]
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, the parties
+hereto have caused this Amendment to be executed as of the date first above written.
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+AMMO, INC.
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+By:
+
+ 
+/s/ Jared R. Smith
+
+ 
+
+ 
+ 
+
+ 
+Name:
+
+ 
+Jared R. Smith
+
+ 
+
+ 
+ 
+
+ 
+Title:
+
+ 
+Chief Executive Officer
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+AMMO TECHNOLOGIES INC.
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+By:
+
+ 
+/s/ Jared R. Smith
+
+ 
+
+ 
+ 
+
+ 
+Name:
+
+ 
+Jared R. Smith
+
+ 
+
+ 
+ 
+
+ 
+Title:
+
+ 
+Chief Executive Officer
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ENLIGHT GROUP II, LLC
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+By:
+
+ 
+/s/ Jared R. Smith
+
+ 
+
+ 
+ 
+
+ 
+Name:
+
+ 
+Jared R. Smith
+
+ 
+
+ 
+ 
+
+ 
+Title:
+
+ 
+Chief Executive Officer
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+AMMO MUNITIONS, INC.
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+By:
+
+ 
+/s/ Jared R. Smith
+
+ 
+
+ 
+ 
+
+ 
+Name:
+
+ 
+Jared R. Smith
+
+ 
+
+ 
+ 
+
+ 
+Title:
+
+ 
+Chief Executive Officer
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+SUNFLOWER BANK, N.A.
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+By:
+
+ 
+/s/ Mark Venable
+
+ 
+
+ 
+ 
+
+ 
+Name:
+
+ 
+Mark Venable
+
+ 
+
+ 
+ 
+
+ 
+Title:
+
+ 
+Asset Manager
+
+ 
+
+ 
+
+[Signature Page to Consent and Second Amendment
+to Loan and Security Agreement]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SCHEDULE I
+
+ 
+
+ 
+
+ 
+
+Lender
+
+ 
+ 
+
+ 
+
+Revolving
+ Line 
+Commitment
+
+ 
+ 
+
+ 
+
+Revolving
+ Line Commitment Percentage
+
+ 
+
+ 
+
+SUNFLOWER BANK, 
+N.A.
+
+ 
+ 
+
+ 
+
+$5,000,000.00
+
+ 
+ 
+
+ 
+
+100%
+
+ 
+
+ 
+
+Total Revolving Line 
+Commitment:
+
+ 
+ 
+
+ 
+
+$5,000,000.00
+
+ 
+ 
+
+ 
+
+100%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EXHIBIT D
+
+COMPLIANCE CERTIFICATE
+
+ 
+
+ 
+
+TO:
+
+ 
+SUNFLOWER BANK, N.A., as 
+Agent
+
+ 
+
+ 
+
+ 
+
+FROM:
+
+ 
+
+AMMO, INC.; AMMO TECHNOLOGIES INC.; ENLIGHT GROUP II, LLC; and AMMO MUNITIONS, 
+INC.
+
+ 
+
+ 
+
+The undersigned
+authorized officer of each of AMMO, INC., AMMO TECHNOLOGIES INC., ENLIGHT GROUP II, LLC, and AMMO MUNITIONS, INC. (individually and collectively,
+jointly and severally, “Borrower”), hereby certifies that in accordance with the terms and conditions of that certain Loan
+and Security Agreement, dated as of December 29, 2023 (as may be amended, restated, supplemented or modified from time to time, the “Agreement”)
+among Borrower, the lenders party hereto (the “Lenders”), and SUNFLOWER BANK, N.A., as administrative agent and collateral
+agent for Lenders (in such capacity, “Agent”): (i) Borrower is in complete compliance for the period ending 
+ 
+ with
+all required covenants except as noted below and (ii) all representations and warranties of Borrower stated in the Agreement are true
+and correct as of the date hereof. Attached herewith are the required documents supporting the above certification. The Officer further
+certifies that these are prepared in accordance with Generally Accepted Accounting Principles (GAAP) and are consistently applied from
+one period to the next except as explained in an accompanying letter or footnotes.
+
+ 
+
+Please indicate compliance status by
+circling Yes/No under “Complies” 
+column.
+
+ 
+
+ 
+
+ 
+
+Reporting 
+Covenant
+
+ 
+
+ 
+
+ 
+
+Required
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Complies
+
+ 
+
+ 
+
+Annual financial statements (CPA audited) and (if Revolving Line Availability
+ is greater than $0) a Compliance Certificate
+
+ 
+
+ 
+
+ 
+
+FYE within 120 
+days
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Yes
+
+ 
+
+ 
+
+ 
+
+No
+
+ 
+
+ 
+
+Monthly financial 
+statements
+
+ 
+
+ 
+
+ 
+
+Monthly within 30 
+days
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Yes
+
+ 
+
+ 
+
+ 
+
+No
+
+ 
+
+ 
+
+Compliance 
+Certificate
+
+ 
+
+ 
+
+ 
+
+If Revolving Line Availability is greater than $0, quarterly within 30 
+days
+ (or monthly within 30 days if and when Daily Balance exceeds $0)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Yes
+
+ 
+
+ 
+
+ 
+
+No
+
+ 
+
+ 
+
+Annual operating budget, sales projections and operating plans approved by board of managers
+
+ 
+
+ 
+
+ 
+
+Annually no later than 30 days after the beginning of each fiscal year
+
+ 
+
+ 
+
+ 
+
+Yes
+
+ 
+
+ 
+
+ 
+
+No
+
+ 
+
+ 
+
+Borrowing Base Certificate, A/R & A/P Agings, deferred revenue
+ report, credit memos, evidence of all other adjustments to A/R, a sales report, inventory analysis, and account statements of each
+ account of Borrower not maintained at Agent
+
+ 
+
+ 
+
+ 
+
+Within 30 days after the last day of each 
+quarter
+ (so long as Revolving Line Availability is greater than $0, Borrowing Base Certificate to be provided monthly within 30 days 
+
+if
+ and when Daily Balance exceeds $0)
+
+ 
+
+ 
+
+ 
+
+Yes
+
+ 
+
+ 
+
+ 
+
+No
+
+ 
+
+ 
+
+Field Exam
+
+ 
+
+ 
+
+ 
+
+ At Agent’s discretion
+
+ 
+
+ 
+
+ 
+
+ Yes
+
+ 
+
+ 
+
+ 
+
+No
+
+ 
+
+ 
+
+Collateral appraisal 
+
+ 
+
+ 
+
+ 
+
+ At Agent’s discretion
+
+ 
+
+ 
+
+ 
+
+ Yes
+
+ 
+
+ 
+
+ 
+
+No
+
+ 
+
+ 
+
+Deposit balances with Agent or any 
+Lender
+
+ 
+
+ 
+
+ 
+
+$ 
+
+________________
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Deposit balance outside Agent or any 
+Lender
+
+ 
+
+ 
+
+ 
+
+$ ________________
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Financial 
+Covenant
+
+ 
+ 
+
+ 
+
+Required
+
+ 
+ 
+
+ 
+
+Actual
+
+ 
+ 
+
+ 
+
+Complies
+
+ 
+
+ 
+
+ 
+Fixed Charge Coverage 
+Ratio
+
+ 
+(commencing first full calendar month after 
+Closing
+
+ 
+Date; calculations set forth on 
+Schedule A
+ attached 
+hereto)
+
+ 
+ 
+
+ 
+
+At least 
+1.10:1.00 (so long as Revolving Line Availability is greater than $0)
+
+ 
+ 
+
+ 
+
+ _______
+:1.00
+
+ 
+ 
+
+ 
+
+Yes
+
+ 
+ 
+
+ 
+
+No
+
+ 
+
+ 
+
+[signature on following 
+page]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Comments Regarding Exceptions:
+ See 
+Attached.
+
+ 
+ 
+
+ 
+
+ 
+
+Sincerely,
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+SIGNATURE
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+TITLE
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+DATE
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SCHEDULE A TO COMPLIANCE 
+CERTIFICATE
+
+ 
+
+FIXED CHARGE COVERAGE RATIO 
+CALCULATION
+
+(determined on a consolidated basis in accordance
+with 
+GAAP)
+
+ 
+
+ 
+
+ 
+
+A. Calculation of Adjusted EBITDA for trailing twelve (12) month period
+ ended [_/_
+ 
+/20 ]:
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(i) Borrower’s consolidated Net Income for such period:
+
+ 
+
+ 
+$
+
+ 
+
+ 
+
+ 
+
+ 
+(ii) interest payments paid during such period:
+
+ 
+
+ 
+$
+
+ 
+
+ 
+
+ 
+
+ 
+(iii) all income and franchise taxes paid during such period:
+
+ 
+
+ 
+$
+
+ 
+
+ 
+
+ 
+
+ 
+(iv) depreciation and amortization for such period:
+
+ 
+
+ 
+$
+
+ 
+
+ 
+
+ 
+
+ 
+(v) non-cash stock compensation to employees for such period:
+
+ 
+
+ 
+$
+
+ 
+
+ 
+
+ 
+
+ 
+(vi) non-recurring losses or expenses approved by Agent in writing for such period:
+
+ 
+
+ 
+$
+
+ 
+
+ 
+
+ 
+
+ 
+(vii) all non-cash gains, non-recurring gains, and extraordinary gains increasing Adjusted EBITDA deemed by Agent to be extraordinary or non-recurring:
+
+ 
+
+ 
+$
+
+ 
+
+ 
+
+ 
+
+ 
+(viii) Adjusted EBITDA for such period [A(i) + A(ii) + A(iii) + A(iv) + A(v) + A(vi) – A(vii)]:
+
+ 
+
+ 
+$
+
+ 
+
+ 
+
+ 
+
+ 
+B. Capital expenditures paid during such period (other than capital expenditures financed with the proceeds of purchase money indebtedness or capital leases to the extent permitted by the Agreement and which for the avoidance shall not include payments in respect of Permitted Acquisitions):
+
+ 
+
+ 
+$
+
+ 
+
+ 
+
+ 
+
+ 
+C. Distributions and dividends paid during such period (which are permitted under Section 7.6 of the Agreement and paid in cash):
+
+ 
+
+ 
+$
+
+ 
+
+ 
+
+ 
+
+ 
+D. Without duplication, Permitted Tax Distributions paid during such period (which are permitted under Section 7.6 of the Agreement and paid in cash):
+
+ 
+
+ 
+$
+
+ 
+
+ 
+
+ 
+
+ 
+E. Tax payments paid by Borrower in cash during such period
+
+ 
+
+ 
+$
+
+ 
+
+ 
+
+ 
+
+ 
+F. [A(vii) – B – C – D – E]:
+
+ 
+
+ 
+$
+
+ 
+
+ 
+
+ 
+
+ 
+G. Calculation of Debt Service Charges during such period:
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(i) cash portion of interest payments paid during such period:
+
+ 
+
+ 
+$
+
+ 
+
+ 
+
+ 
+
+ 
+(ii) scheduled payments of principal on Indebtedness (including capital lease obligations and Subordinated Debt) and all scheduled permanent revolving credit commitment reductions on all Indebtedness:
+
+ 
+
+ 
+$
+
+ 
+
+ 
+
+ 
+
+ 
+(iii) Debt Service Charges for such period [G(i) + G(ii)]:
+
+ 
+
+ 
+$
+
+ 
+
+ 
+
+ 
+
+ 
+H. Fixed Charge Coverage Ratio [F/G(iii)]:
+
+ 
+
+ 
+ 
+
+______
+:1.00
+
+ 
+
+ 
+
+ 
+I. Fixed Charge Coverage Ratio required by Section 6.8(a) of the Agreement:
+
+ 
+
+ 
+ 
+
+1.10:1.00
+
+ 
+
+ 
+
+ 
+J. Compliance?
+
+ 
+
+ 
+ 
+
+[Yes]     [No]

@@ -1,0 +1,489 @@
+EX-10.1
+
+2
+
+ex10x1.htm
+
+AMENDMENT NO. 6 TO AMENDED AND RESTATED CREDIT AGREEMENT
+
+ 
+
+Exhibit 10.1
+
+ 
+
+AMENDMENT NO. 6 TO AMENDED AND RESTATED CREDIT
+AGREEMENT
+
+This Amendment No. 6 to
+Amended and Restated Credit Agreement (this “
+
+Amendment
+
+”), is dated as of April 8, 2025, and is by and between
+PRO-DEX, INC., a Colorado corporation (“
+
+Borrower
+
+”), and UMB BANK, N.A. D/B/A MINNESOTA BANK & TRUST, A DIVISION
+OF UMB BANK, N.A., successor-in-interest to Minnesota Bank & Trust, a division of HTLF Bank (“
+
+Lender
+
+”).
+
+RECITALS
+
+A.
+Borrower
+and Lender are parties to an Amended and Restated Credit Agreement dated as of November 6, 2020, as amended by Amendment No. 1 to Amended
+and Restated Credit Agreement dated as of November 5, 2021, Amendment No. 2 to Amended and Restated Credit Agreement dated as of December
+29, 2022, Amendment No. 3 to Amended and Restated Credit Agreement dated as of December 29, 2023, Amendment No. 4 to Amended and Restated
+Credit Agreement and Security Agreement dated as of July 31, 2024, and Amendment No. 5 to Amended and Restated Credit Agreement dated
+as of December 29, 2024 (collectively, as amended, restated, or otherwise amended from time to time, the “
+
+Credit Agreement
+
+”),
+concerning, among other things, the extension by Lender to Borrower of a revolving line of credit in the maximum principal amount of $7,000,000
+(the “
+
+Revolving Loan
+
+”).
+
+B.
+The
+obligation of Borrower to repay amounts advanced under the Revolving Loan is evidenced by a promissory note dated as of December 29, 2024
+(the “
+
+Existing Revolving Note
+
+”), by Borrower and payable to the order of Lender, in the original principal amount
+of $7,000,000.
+
+C.
+Borrower
+has requested certain amendments to the Credit Agreement to, among other things, (i) increase the Revolving Loan from $7,000,000 to $11,000,000,
+(ii) modify the Fixed Charge Coverage Ratio financial covenant in the Credit Agreement, and (iii) make certain other modifications to
+the Credit Agreement.
+
+D.
+Lender
+has agreed to make such modifications and extend additional credit to Borrower by amending the Credit Agreement in accordance with the
+terms and subject to the conditions of this Amendment.
+
+Therefore, the parties hereto hereby agree
+as follows:
+
+1.
+
+Defined Terms
+. All capitalized terms that are used but not defined in this Amendment have
+the meanings assigned to them in the Credit Agreement.
+
+2.
+
+Conditions Precedent
+. This Amendment will be effective as of the date hereof when the following
+agreements, documents, and other items have been executed or delivered to Lender by Borrower, each of which documents, agreements, and
+other items must be in a form and substance reasonably acceptable to Lender, and the following conditions precedent are satisfied in a
+manner reasonably acceptable to Lender:
+
+a)
+
+This Amendment executed by Borrower;
+
+b)
+
+The Second Amended and Restated Revolving Note (as defined in this Amendment)
+executed by Borrower;
+
+c)
+
+Payment of a non-refundable origination fee in the amount of $8,000;
+
+d)
+
+Payment of Lender’s costs and expenses in accordance with to Section
+17 hereof;
+
+e)
+
+An Officer’s Certificate executed by Borrower, certifying: (i) the
+Articles of Incorporation of Borrower, and any amendments thereto, certified by the Secretary of State of the State of Colorado; (ii)
+the Bylaws of Borrower, and any amendments thereto; (iii) resolutions of the Board of Directors of Borrower approving the execution of
+this Amendment, the Second Amended and Restated Revolving Note, and any other instrument, document, or agreement signed or to be signed
+by Borrower in connection herewith; (iv) evidence of good standing for Borrower from the Secretary of State of the State of Colorado and
+the Secretary of State of the State of California; and (v) a certification that the names and signatures of the officers of Borrower authorized
+to sign this Amendment, the Second Amended and Restated Revolving Note, and any other documents to be delivered hereunder or under the
+other Loan Documents are true and correct; and
+
+f)
+
+Any other documents or instruments reasonably required by Lender.
+
+ 
+
+1
+ 
+
+ 
+
+ 
+
+ 
+
+3.
+
+Increase in Revolving Loan
+. Subject to the terms of this Amendment, Lender hereby agrees to
+increase the Revolving Credit Commitment from $7,000,000 to $11,000,000. 
+
+4.
+
+Second Amended and Restated Revolving Note
+. Contemporaneously with the execution hereof, Borrower
+shall execute and deliver to Lender a Second Amended and Restated Revolving Note dated as of even date herewith (the “
+
+Second
+Amended and Restated Revolving Note
+
+”) in the original principal amount of $11,000,000, which constitutes an amendment and
+restatement of amounts outstanding under the Existing Revolving Note and includes the additional availability under the Revolving Loan
+in accordance with this Amendment.
+
+5.
+
+Amendments to the Credit Agreement
+. The Credit Agreement is hereby amended as follows:
+
+a)
+
+Any and all references in the Credit Agreement to “this Agreement”
+or “the Agreement” will mean and refer to the Credit Agreement, as modified by this Amendment.
+
+b)
+
+Any and all references in the Credit Agreement to the “Revolving Credit
+Note” will mean and refer to the Second Amended and Restated Revolving Note.
+
+c)
+
+Section 1.01 of the Credit Agreement is hereby amended by adding the following
+definition in the appropriate alphabetical order:
+
+“
+Unfunded
+Stock Repurchases
+” means the Borrower’s repurchase of its outstanding equity securities not financed with the proceeds
+of any Term Loan.
+
+ 
+
+d)
+
+The definition of “Fixed Charge Coverage Ratio” in Section 1.01
+of the Credit Agreement is hereby amended and restated in its entirety as follows:
+
+“
+Fixed Charge
+Coverage Ratio
+” means, at any Measurement Date, the ratio, calculated on a consolidated basis for the Borrower and its Subsidiaries,
+of: (i) the excess of EBITDA for the Measurement Period ending at such date; 
+plus
+ (B) rent expense on Operating Leases deducted
+from the Net Income included in the Adjusted Net Income used in calculating such EBITDA; 
+minus
+ (C) the amount of federal, state,
+and local income taxes deducted from the Net Income included in Adjusted Net Income used in calculating such EBITDA; 
+minus
+ (D)
+fifty percent (50%) of the amount of depreciation included in the Adjusted Net Income used in calculating such EBITDA; 
+minus
+ (E)
+dividends and other distributions, including Unfunded Stock Repurchases, paid to Borrower’s shareholders; to (ii) the Interest Expense
+that was paid in cash during such Measurement Period; 
+plus
+ (A) the principal payments scheduled to have been paid during such Measurement
+Period; 
+plus
+ (C) the rent expense on Operating Leases scheduled to have been paid during such Measurement Period.
+
+ 
+
+e)
+
+The definition of “Revolving Credit Commitment” in Section 1.01
+of the Credit Agreement is hereby amended and restated in its entirety as follows:
+
+“
+Revolving
+Credit Commitment
+” means the obligation of the Lender to make Revolving Credit Loans in an aggregate principal amount not to
+exceed the lesser of (a) $11,000,000, or (b) the amount, on any date of determination, by which the Borrowing Base exceeds the Total Usage,
+as the same may be changed from time to time subject to the terms hereof.
+
+ 
+
+2
+ 
+
+ 
+
+ 
+
+ 
+
+f)
+
+Section 7.13(a) of the Credit Agreement is hereby amended and restated in
+its entirety as follows:
+
+(a)
+the Fixed Charge
+Coverage Ratio to be less than (i) 1.15 to 1.00 for each Measurement Date through and including June 30, 2026, or (ii) 1.20 to 1.00 for
+each Measurement Date thereafter.
+
+ 
+
+g)
+
+Exhibit A of the Credit Agreement [Form of Revolving Credit Note] is hereby
+deleted in its entirety and replaced with 
+Exhibit A
+ attached hereto.
+
+h)
+
+Exhibit C of the Credit Agreement [Form of Compliance Certificate] is hereby
+deleted in its entirety and replaced with 
+Exhibit B
+ attached hereto.
+
+i)
+
+Exhibit D of the Credit Agreement [Form of Borrowing Base Certificate] is
+hereby deleted in its entirety and replaced with 
+Exhibit C
+ attached hereto.
+
+6.
+
+Reaffirmation of Loan Documents
+. Borrower repeats and reaffirms each and all its obligations
+under the Credit Agreement, as amended by this Amendment, and the other Loan Documents, and Borrower agrees that the Credit Agreement
+and the other Loan Documents are each in full effect as of the date hereof, not subject to any offset, defense, or counterclaim.
+
+7.
+
+A
+
+uthority
+
+.
+Borrower represents and warrants to Lender that: Borrower has full power and authority to execute and deliver this Amendment and to incur
+and perform its obligations hereunder and under the Second Amended and Restated Revolving Note; the execution, delivery, and performance
+by Borrower of this Amendment and the Second Amended and Restated Revolving Note will not violate any provision of the organizational
+documents of Borrower or any law, rule, regulation, or court order or result in the breach of, constitute a default under, or create or
+give rise to any lien under, any indenture or other agreement or instrument to which Borrower is a party or by which Borrower or its property
+may be bound or affected.
+
+8.
+
+No Waiver
+. Borrower acknowledges and agrees that, by executing and delivering this Amendment,
+Lender is not waiving any existing Default or Event of Default, whether known or unknown, nor is Lender waiving any of its rights or remedies
+under the Loan Documents.
+
+9.
+
+N
+
+o 
+S
+etoff
+
+.
+Borrower acknowledges and agrees with Lender that no events, conditions, or circumstances have arisen or exist as of the date hereof that
+would give Borrower the right to assert a defense, counterclaim, or setoff any claim by Lender for payment of amounts owing under any
+of the Loan Documents. Any defense, right of setoff, or counterclaim that might otherwise be available to Borrower is hereby fully and
+finally waived and released in all respects. 
+
+10.
+
+Representations
+. Borrower represents and warrants to Lender that: (i) each and all of the
+representations and warranties set forth in the Loan Documents are true, correct, and complete in all respects as of the date hereof after
+giving effect to any update to such schedules as may be delivered to Lender in connection with this Amendment (except to the extent stated
+to relate to a specific earlier date, in which case such representations and warranties are true and correct as of such earlier date);
+(ii) this Amendment constitutes the legal, valid, and binding obligation of Borrower, enforceable in accordance with the terms hereof;
+and (iii) Borrower has fully considered the terms of this Amendment and has had the opportunity to discuss this Amendment with its
+legal counsel, and Borrower is executing this Amendment without any coercion or duress on the part of Lender or otherwise.
+
+11.
+
+G
+
+overning 
+L
+aw
+
+.
+This Amendment will be governed by and construed in accordance with the laws of the State of Minnesota, without regard to any conflicts
+of laws principles.
+
+12.
+
+R
+
+elease
+
+.
+Borrower hereby releases Lender and each of its officers, directors, employees, legal counsel, and other representatives from any and
+all claims, demands, causes of action, liabilities, damages, losses, costs, and expenses that Borrower has paid, incurred, or sustained
+or believed that it has paid, incurred, or sustained, known or unknown, absolute or contingent, liquidated or unliquidated, which existed,
+arose, or occurred on or prior to the date of this Amendment, as a result of or related to (i) the transactions evidenced by or related
+to the Revolving Loan, the Term Loans, the Loan Documents, or this Amendment, (ii) any acts or omissions of Lender or any of its officers,
+directors, agents, or employees in connection therewith or related thereto, or (iii) the extension or denial of credit.
+
+ 
+
+3
+ 
+
+ 
+
+ 
+
+ 
+
+13.
+
+M
+
+erger
+
+.
+All prior oral and written communications, commitments, alleged commitments, promises, alleged promises, agreements, and alleged agreements
+by or between Lender and Borrower: are hereby merged into the Loan Documents, as amended by this Amendment; will be of no further effect;
+and will not be enforceable unless expressly set forth in the Loan Documents, as amended by this Amendment. All commitments, promises,
+and agreements of the parties hereto are set forth in this Amendment and the other Loan Documents, and no other commitments, promises,
+or agreements, oral or written, of any of the parties hereto will be enforceable against any party. 
+
+14.
+
+S
+
+uccessors and 
+A
+ssigns
+
+.
+This Amendment will be binding on and inure to the benefit of the parties hereto and their respective successors and assigns.
+
+15.
+
+No Other Amendments
+. Except as expressly amended herein, each of the Loan Documents will be
+and remain in full effect in accordance with its terms.
+
+16.
+
+C
+
+ounterparts
+
+.
+This Amendment may be executed in any number of counterparts, all of which taken together will constitute one agreement, and any party
+hereto may execute this Amendment by signing any such counterpart.
+
+17.
+
+Costs and Expenses
+. Borrower agrees to pay all costs and expenses, including reasonable attorneys’
+fees, paid or incurred by Lender in connection with the preparation of this Amendment and the closing and consummation of the transaction
+contemplated hereby. 
+
+ 
+
+ 
+
+[
+THE REMAINDER OF THIS PAGE IS INTENTIONALLY BLANK
+]
+
+ 
+
+ 
+
+ 
+
+4
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[SIGNATURE PAGE TO AMENDMENT NO. 6 
+
+TO AMENDED AND RESTATED CREDIT AGREEMENT]
+
+ 
+
+BORROWER:
+
+ 
+
+PRO-DEX, INC.,
+
+a Colorado corporation
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+/s/ Richard L. Van Kirk
+
+Name: Richard L. Van Kirk
+
+Title: Chief Executive Officer
+
+ 
+
+ 
+
+LENDER:
+
+ 
+
+UMB BANK, N.A.
+
+D/B/A MINNESOTA BANK & TRUST,
+
+A DIVISION OF UMB BANK, N.A.
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+/s/ Dianne Wegscheid
+
+Name: Dianne Wegscheid
+
+Title: Senior Vice Preside

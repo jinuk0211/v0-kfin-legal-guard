@@ -1,0 +1,601 @@
+EX-10.1
+
+2
+
+ex101wellsfargo-amerigasxf.htm
+
+EX-10.1
+
+Document
+
+EXHIBIT 10.1
+
+Execution Version
+
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+This FIRST AMENDMENT TO CREDIT AGREEMENT (this “
+
+Amendment
+
+”), dated as of November 15, 2023, is entered into by and among AMERIGAS PROPANE, L.P., a Delaware limited partnership (the “
+
+Borrower
+
+”), AMERIGAS PROPANE, INC., a Pennsylvania corporation (the “
+
+Parent
+
+”), the Lenders (as defined below) party hereto, and WELLS FARGO BANK, NATIONAL ASSOCIATION, a national banking association, as administrative agent for the Lenders (the “
+
+Administrative Agent
+
+”).
+
+RECITALS
+
+A.    The Borrower, the Parent, the several lenders from time to time party thereto (the “
+
+Lenders
+
+”), and the Administrative Agent are party to the Credit Agreement, dated as of September 28, 2022 (the “
+
+Credit Agreement
+
+”). Capitalized terms used but not defined herein shall have the meanings assigned to such terms in the Credit Agreement as amended by this Amendment.
+
+B.    The Borrower has requested that the Lenders amend the Credit Agreement and the Lenders are willing to consent to such amendments to the Credit Agreement on the terms and subject to conditions set forth herein.
+
+STATEMENT OF AGREEMENT
+
+NOW, THEREFORE
+
+, in consideration of the foregoing and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+ARTICLE I
+
+AMENDMENTS TO CREDIT AGREEMENT
+
+Effective upon the First Amendment Effective Date (as hereinafter defined), the Credit Agreement is hereby amended as follows:
+
+1.1    The following definition is hereby inserted in Section 1.1 of the Credit Agreement in proper alphabetical order:
+
+“
+
+Interest Coverage Ratio
+
+” means, as of any date of determination, the ratio of (a) Consolidated EBITDA of MLP and its Subsidiaries for the period of four (4) consecutive fiscal quarters ending on or immediately prior to such date to (b) Consolidated Interest Expense of MLP and its Subsidiaries for the period of four (4) consecutive fiscal quarters ending on or immediately prior to such date.
+
+1.2    Section 9.3 of the Credit Agreement is hereby amended and restated in its entirety as follows:
+
+9.3    
+
+Interest Coverage Ratio
+
+. As of the end of any fiscal quarter, permit the Interest Coverage Ratio to be less than (a) for any fiscal quarter ending during the period from September 30, 2023 through and including September 30, 2024, 2.50:1.00 or (b) for any fiscal quarter ending thereafter, the ratio set forth below corresponding to the Consolidated MLP Total Leverage Ratio as of the end of such fiscal quarter:
+
+Consolidated MLP Total Leverage Ratio
+
+Minimum Interest Coverage Ratio
+
+Greater than or equal to 5.00:1.00
+
+2.75:1.00
+
+Less than 5.00:1.00
+
+2.50:1.00
+
+1.3    The aggregate Revolving Credit Commitment is hereby permanently reduced to $400,000,000 as of the First Amendment Effective Date, and Schedule 1.1-2 of the Credit Agreement is hereby amended and restated in its entirety in the form of Schedule 1.1-2 attached hereto. The Revolving Credit Commitment is held by the Lenders as of the First Amendment Effective Date (after giving effect to this Amendment) as set forth on Schedule 1.1-2 hereto. 
+
+ARTICLE II
+
+CONDITIONS OF EFFECTIVENESS
+
+2.1    The amendments set forth in 
+
+ARTICLE I
+
+ shall become effective as of the date (the “
+
+First Amendment Effective Date
+
+”) when, and only when, each of the following conditions precedent shall have been satisfied:
+
+(a)    The Administrative Agent shall have received an executed counterpart of this Amendment from each of the Credit Parties and Lenders constituting the Required Lenders.
+
+(b)    The Borrower shall have paid all fees and expenses due with this Amendment and under the other Loan Documents required to have been paid on or prior to the effectiveness of this Amendment, including all fees, charges and disbursements of counsel to the Administrative Agent.
+
+(c)    Both immediately before and after giving effect to this Amendment, each of the representations and warranties contained in Article III herein shall be true and correct as of the First Amendment Effective Date, with the same effect as if made on and as of such date.
+
+ARTICLE III
+
+REPRESENTATIONS AND WARRANTIES
+
+Each of the Credit Parties hereby represents and warrants, on and as of the First Amendment Effective Date, that (i) the representations and warranties contained in the Credit Agreement and the other Loan Documents qualified as to materiality are true and correct in all respects and those not so qualified are true and correct in all material respects, both immediately before and after giving effect to this Amendment (except to the extent any such representation or warranty is expressly stated to have been made as of a specific date, in which case such representation or warranty is true and correct in all respects (if qualified as to materiality) or true and correct in all material respects (if not so qualified), in each case only on and as of such specific date), (ii) this Amendment has been duly authorized, executed and delivered by such Person and constitutes the legal, valid and binding obligation of such Person enforceable against it in accordance with its terms, except as enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium or other similar laws affecting creditors’ rights generally, by general equitable principles or by principles of good faith and fair dealing (regardless of 
+
+2
+
+whether enforcement is sought in equity or at law), (iii) such Credit Party has the right, power and authority and has taken all necessary corporate and other action to authorize the execution, delivery and performance by such Person of this Amendment, (iv) the execution, delivery and performance of this Amendment and the transactions contemplated hereby do not and will not, by the passage of time, the giving of notice or otherwise, (a) require any Governmental Approval or violate any Applicable Law relating to such Credit Party where the failure to obtain such Governmental Approval or such violation would reasonably be expected to have a Material Adverse Effect, (b) conflict with, result in a breach of or constitute a default under the articles of incorporation, bylaws or other organizational documents of such Credit Party, (c) conflict with, result in a breach of or constitute a default under any indenture, agreement or other instrument to which such Person is a party or by which any of its properties may be bound or any Governmental Approval relating to such Person, which could, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect, (d) result in or require the creation or imposition of any Lien upon or with respect to any property now owned or hereafter acquired by such Person other than Permitted Liens or (e) require any consent or authorization of, filing with, or other act in respect of, an arbitrator or Governmental Authority and no consent of any other Person is required in connection with the execution, delivery, performance, validity or enforceability of this Agreement other than consents, authorizations, filings or other acts or consents for which the failure to obtain or make would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect and (v) no Default or Event of Default shall have occurred and be continuing on the First Amendment Effective Date, both immediately before and immediately after giving effect to this Amendment and the amendments contemplated hereby.
+
+ARTICLE IV
+
+ACKNOWLEDGEMENT AND CONFIRMATION
+
+Each Credit Party hereby ratifies the Credit Agreement as amended by this Amendment and acknowledges and reaffirms (a) that it is bound by all terms of the Credit Agreement and Loan Documents applicable to it and (b) that it is responsible for the observance and full performance of its respective Obligations.
+
+ARTICLE V
+
+MISCELLANEOUS
+
+5.1    
+
+Governing Law
+
+. This Amendment and any claim, controversy, dispute or cause of action (whether in contract or tort or otherwise) based upon, arising out of or relating to this Amendment and the transactions contemplated hereby and thereby shall be governed by, and construed in accordance with, the law of the State of New York.
+
+5.2    
+
+Loan Document
+
+. As used in the Credit Agreement, “hereinafter,” “hereto,” “hereof,” and words of similar import shall, unless the context otherwise requires, mean the Credit Agreement after amendment by this Amendment. Any reference to the Credit Agreement or any of the other Loan Documents herein or in any such documents shall refer to the Credit Agreement and the other Loan Documents as amended hereby. This Amendment is limited to the matters expressly set forth herein, and shall not constitute or be deemed to constitute an amendment, modification or waiver of any provision of the Credit Agreement except as expressly set forth herein. Except to the extent expressly set forth herein, all of the terms and conditions of the Credit Agreement and the other Loan Documents remain unchanged and shall continue in full force and effect. This Amendment shall constitute a Loan Document under the terms of the Credit Agreement.
+
+3
+
+5.3    
+
+Expenses
+
+. The Borrower shall pay all reasonable and documented out-of-pocket fees and expenses of counsel to the Administrative Agent in connection with the preparation, negotiation, execution and delivery of this Amendment in accordance with Section 13.3(a) of the Credit Agreement.
+
+5.4    
+
+Severability
+
+. To the extent any provision of this Amendment is prohibited by or invalid under the applicable law of any jurisdiction, such provision shall be ineffective only to the extent of such prohibition or invalidity and only in any such jurisdiction, without prohibiting or invalidating such provision in any other jurisdiction or the remaining provisions of this Amendment in any jurisdiction.
+
+5.5    
+
+Successors and Assigns
+
+. This Amendment shall be binding upon, inure to the benefit of and be enforceable by the respective successors and permitted assigns of the parties hereto.
+
+5.6    
+
+Construction
+
+. The headings of the various sections and subsections of this Amendment have been inserted for convenience only and shall not in any way affect the meaning or construction of any of the provisions hereof.
+
+5.7    
+
+Counterparts; Integration
+
+. This Amendment may be executed and delivered via facsimile or other electronic method of transmission as set forth in Section 13.17(b) of the Credit Agreement with the same force and effect as if an original were executed and may be signed in any number of counterparts, each of which shall be an original, with the same effect as if the signatures hereto were upon the same instrument. This Amendment constitutes the entire contract among the parties hereto with respect to the subject matter hereof and supersedes any and all prior agreements and understandings, oral or written, relating to the subject matter hereof.
+
+[
+
+REMAINDER OF PAGE INTENTIONALLY LEFT BLANK
+
+]
+
+4
+
+IN WITNESS WHEREOF
+
+, the parties hereto have caused this Amendment to be executed by their duly authorized officers as of the date first above written.
+
+AMERIGAS PROPANE, L.P.
+
+, as Borrower
+
+By: AmeriGas Propane GP, LLC, its general partner
+
+By: 
+
+    /s/ Jason I. Rich            
+
+Name: Jason I. Rich
+
+Title: Treasurer
+
+AMERIGAS PROPANE, INC.
+
+, as a Guarantor
+
+By: 
+
+    /s/ Jason I. Rich            
+
+Name: Jason I. Rich
+
+Title: Treasurer
+
+SIGNATURE PAGE TO
+
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION
+
+, as Administrative Agent, Swingline Lender, Issuing Lender and Lender
+
+By: 
+
+    /s Patrick Engel                
+
+Name: Patrick Engel
+
+Title:     Managing Director
+
+SIGNATURE PAGE TO
+
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+Bank of America, N.A.
+
+, as a Lender 
+
+By: 
+
+    /s/ Tommy Nguyen                
+
+Name: Tommy Nguyen
+
+Title:     Vice President
+
+SIGNATURE PAGE TO
+
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK
+
+, as a Lender
+
+By: 
+
+    /s/ Julien Tizorin                
+
+Name: Julien Tizorin
+
+Title:     Managing Director
+
+By: 
+
+    /s/ Nathalie Huet Rousset            
+
+Name: Nathalie Huet Rousset
+
+Title:     Director
+
+SIGNATURE PAGE TO
+
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+JPMORGAN CHASE BANK, N.A.
+
+ as a Lender
+
+By: 
+
+    /s/ Umar Hassan                
+
+Name: Umar Hassan
+
+Title:     Authorized Officer
+
+SIGNATURE PAGE TO
+
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+CITIZENS BANK, N.A.,
+
+ as a Lender
+
+By: 
+
+    /s/ David W. Dinella                
+
+Name: David W. Dinella
+
+Title:     Senior Vice President
+
+SIGNATURE PAGE TO
+
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+TRUIST BANK
+
+, as a Lender
+
+By: 
+
+    /s/ Lincoln LaCour                
+
+Name: Lincoln LaCour
+
+Title:     Director
+
+SIGNATURE PAGE TO
+
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+T.D. Bank, N.A.
+
+, as a Lender
+
+By: 
+
+    /s/ Richard A. Zimmerman            
+
+Name: Richard A. Zimmerman
+
+Title:     Managing Director
+
+SIGNATURE PAGE TO
+
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+M&T Bank
+
+, as a Lender
+
+By: 
+
+    /s/ Stephen Hoffman                
+
+Name: Stephen Hoffman
+
+Title:     Managing Director
+
+SIGNATURE PAGE TO
+
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+THE BANK OF NEW YORK MELLON
+
+, as a Lender
+
+By: 
+
+    /s/ Molly H. Ross                
+
+Name: Molly H. Ross
+
+Title:     Senior Vice President
+
+SIGNATURE PAGE TO
+
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+COBANK, ACB
+
+, as a Lender
+
+By: 
+
+    /s/ Jared Greene                
+
+Name: Jared Greene
+
+Title:     Assistant Corporate Secretary
+
+SIGNATURE PAGE TO
+
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+HSBC Bank USA, National Association
+
+, as a Lender
+
+By: 
+
+    /s/ Kyle O’Reilly                
+
+Name: Kyle O’Reilly
+
+Title:     SVP #23203
+
+SIGNATURE PAGE TO
+
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+REGIONS BANK
+
+, as a Lender
+
+By: 
+
+    /s/ Tedrick Tarver                
+
+Name: Tedrick Tarver
+
+Title:     Director
+
+SIGNATURE PAGE TO
+
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+Santander Bank, NA
+
+ as a Lender
+
+By: 
+
+    /s/ Felix Nebrat                
+
+Name: Felix Nebrat
+
+Title:     SVP
+
+SIGNATURE PAGE TO
+
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+BNP Paribas
+
+,
+
+ 
+
+as a Lender
+
+By: 
+
+    /s/ Nicolas Anberrée                
+
+Name: Nicolas Anberrée
+
+Title:     Director
+
+By: 
+
+    /s/ Victor Padilla                
+
+Name: Victor Padilla
+
+Title:     Vice President
+
+SIGNATURE PAGE TO
+
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+Schedule 1.1-2
+
+Commitments
+
+Revolving Credit Commitments
+
+Name of Initial Lender
+
+Revolving Credit Commitment
+
+Letter of Credit Commitment
+
+Swing Line Commitment
+
+Wells Fargo Bank, National Association
+
+$37,000,000
+
+$100,000,000
+
+$60,000,000
+
+Bank of America, N.A.
+
+$37,000,000
+
+--
+
+--
+
+Credit Agricole Corporate and Investment Bank
+
+$37,000,000
+
+--
+
+--
+
+JPMorgan Chase Bank, N.A.
+
+$37,000,000
+
+--
+
+--
+
+Citizens Bank, N.A.
+
+$37,000,000
+
+--
+
+--
+
+Truist Bank
+
+$37,000,000
+
+--
+
+--
+
+TD Bank, N.A.
+
+$26,000,000
+
+--
+
+--
+
+Manufacturers and Traders Trust Company
+
+$26,000,000
+
+--
+
+--
+
+Credit Suisse AG, New York Branch
+
+$18,000,000
+
+--
+
+--
+
+The Bank of New York Mellon
+
+$18,000,000
+
+--
+
+--
+
+CoBank ACB
+
+$18,000,000
+
+--
+
+--
+
+HSBC Bank USA, National Association
+
+$18,000,000
+
+--
+
+--
+
+Regions Bank
+
+$18,000,000
+
+--
+
+--
+
+Santander Bank, N.A.
+
+$18,000,000
+
+--
+
+--
+
+BNP Paribas
+
+$18,000,000
+
+--
+
+--
+
+Total:
+
+$400,000,000
+
+$100,000,000
+
+$60,000,000

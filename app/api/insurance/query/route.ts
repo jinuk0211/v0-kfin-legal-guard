@@ -1,11 +1,13 @@
 import { NextRequest, NextResponse } from "next/server"
 import { codefPost, rsaEncrypt } from "@/lib/codef-client"
 import { getSession, saveSession } from "@/lib/session-store"
+import { saveQueryHistory } from "@/lib/db/history"
+import { saveRegisteredUser } from "@/lib/db/registered-user"
 
 export async function POST(req: NextRequest) {
   try {
     const { sessionId } = await req.json()
-    const session = getSession(sessionId)
+    const session = await getSession(sessionId)
     if (!session) return NextResponse.json({ status: "error", error: "인증이 만료됐습니다. 처음부터 다시 시도해주세요." }, { status: 400 })
 
     const params = {
@@ -34,7 +36,7 @@ export async function POST(req: NextRequest) {
 
     if (code === "CF-03002") {
       const extraInfo = result?.data?.extraInfo || {}
-      saveSession(sessionId, {
+      await saveSession(sessionId, {
         queryTwoWayInfo: {
           jobIndex: result?.data?.jobIndex ?? 0,
           threadIndex: result?.data?.threadIndex ?? 0,
@@ -47,6 +49,27 @@ export async function POST(req: NextRequest) {
     }
 
     if (code === "CF-00000") {
+      // 조회가 성공했다 = 자격증명이 동작한다. 다음부턴 재인증 없이 인식되도록 저장.
+      const loginId = session.loginId || session.finalId || session.regId || ""
+      const loginPw = session.loginPw || session.finalPw || session.regPw || ""
+      if (loginId && loginPw) {
+        try {
+          await saveRegisteredUser(
+            String(session.baseParams.phoneNo),
+            String(session.baseParams.birthDate),
+            loginId,
+            loginPw
+          )
+        } catch (e) {
+          console.error("등록 사용자 저장 실패:", e instanceof Error ? e.message : e)
+        }
+      }
+      // 이력 저장은 부가 기능 — 실패해도 사용자 조회 응답은 막지 않는다.
+      try {
+        await saveQueryHistory(session.baseParams, result?.data)
+      } catch (e) {
+        console.error("조회 이력 저장 실패:", e instanceof Error ? e.message : e)
+      }
       return NextResponse.json({ status: "success", data: result?.data })
     }
 

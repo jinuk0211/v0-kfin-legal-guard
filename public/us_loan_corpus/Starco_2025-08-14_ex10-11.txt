@@ -1,0 +1,649 @@
+EX-10.11
+
+2
+
+ex10-11.htm
+
+EX-10.11
+
+ 
+
+ 
+
+Exhibit
+10.11
+
+ 
+
+AMENDMENT
+NUMBER TWO TO CONSOLIDATED SECURED PROMISSORY NOTE
+
+ 
+
+This
+Amendment Number Two to Consolidated Secured Promissory Note (this “
+Amendment
+”) is entered into as of August 13, 2025,
+by and between 
+
+Starco Brands, Inc.
+
+, a Nevada corporation (“
+Borrower
+”
+or the “
+Company
+”), and 
+
+Ross Sklar
+
+, an individual (“
+Lender
+”).
+Capitalized terms used in this Amendment without definition shall have the meanings given to them in the Consolidated Note (as defined
+below).
+
+ 
+
+RECITALS
+
+ 
+
+WHEREAS,
+the Lender and Borrower are parties to a Consolidated Secured Promissory Note, dated August 11, 2023 (as restated, supplemented, or otherwise
+modified from time to time, collectively, the “
+Consolidated Note
+”), pursuant to which the Lender had loaned to Borrower
+the aggregate principal sum of Four Million Dollars ($4,000,000).
+
+ 
+
+WHEREAS,
+the Borrower and certain of its subsidiaries (the “
+Borrower Group
+”) entered into a Loan and Security Agreement dated
+as of May 24, 2024 (as restated, supplemented or otherwise modified from time to time, collectively, the “
+LSA
+”) with
+Gibraltar Business Capital, LLC (“
+Gibraltar
+”), pursuant to which Gibraltar has agreed to extend certain financing
+arrangements to the Borrower Group;
+
+ 
+
+WHEREAS,
+in connection with the LSA, the Lender and Gibraltar entered into that certain Subordination Agreement, dated as of May 24, 2024, between
+Lender and Gibraltar (the “
+Subordination Agreement
+”), pursuant to which the Lender has agreed to subordinate its rights
+under the Consolidated Note to Gibraltar’s rights under the LSA as set forth in the Subordination Agreement;
+
+ 
+
+WHEREAS,
+the Lender, Borrower and Gibraltar, entered into Amendment Number One to the Consolidated Note, on May 31, 2024, pursuant to which, among
+other things, the Consolidated Note was made subject to the Subordination Agreement;
+
+ 
+
+WHEREAS,
+in connection with the proceeds received by Borrower under the LSA and the terms of the Subordination Agreement, Borrower repaid Lender
+a sum of One Million Five Hundred Twenty-Seven Thousand Five Hundred Dollars ($1,527,500) on the original principal amount of the Consolidated
+Note, and as of the date hereof, the outstanding principal balance of the Consolidated Note is Two Million Four Hundred Seventy-Two Thousand
+Dollars Five Hundred ($2,472,500);
+
+ 
+
+WHEREAS,
+the LSA has been amended by (a) that certain Waiver and Amendment No. 1 to Loan and Security Agreement, dated as of September 17, 2024
+(the “
+First Amendment
+”), and (b) that certain Forbearance Agreement and Amendment No. 2 to Loan Agreement, dated as
+of July 18, 2025 (the “
+Forbearance and Amendment
+”);
+
+ 
+
+WHEREAS,
+pursuant to the terms of the Forbearance and Amendment, Lender has (i) made an additional loan to Borrower in an amount equal to $500,000
+as of July 15, 2025 (the “
+July 2025 Loan
+”), and (b) Lender intends to make an additional loan to Borrower in an amount
+equal to $500,000 on or prior to August 15, 2025 (the “
+August 2025 Loan
+”, and together with the July 2025 Loan, collectively,
+the “
+2025 Loans
+”), and has agreed that the 2025 Loans shall constitute Subordinated Debt under the terms of the LSA
+and Subordination Agreement; and
+
+ 
+
+WHEREAS,
+Borrower has requested, and Lender has agreed, to consolidate the 2025 Loans as part of the obligations due and owing to Lender pursuant
+to the Consolidated Note, and to make such other amendments to the Consolidated Note pursuant to the terms hereof.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NOW,
+THEREFORE, for good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties agree as follows:
+
+ 
+
+1.
+
+Recitals
+. Each of the parties hereto acknowledges and agrees that the recitals set forth above in this Amendment are true and
+accurate and are hereby incorporated into and made a part of this Amendment.
+
+ 
+
+2.
+
+Amendments to the Consolidated Note
+.
+
+ 
+
+a.
+The Consolidated Note is hereby amended by removing “
+$4,000,000
+” from the heading of the Consolidated Note and replacing
+it with “
+$3,472,500
+”.
+
+ 
+
+b.
+The preamble of the Consolidated Note is hereby amended and restated in its entirety to read as follows:
+
+ 
+
+“FOR
+VALUE OF RECEIVED 
+Starco Brands, Inc.
+, a Nevada corporation, its successors and assigns (“
+Borrower
+), enter into this
+Consolidated Secured Promissory Note (this “
+Consolidated Secured Promissory Note
+”) to consolidate (a) the Prior Notes
+(as defined below), (b) that certain loan to Borrower in an amount equal to $500,000 as of July 15, 2025 (the “
+July 2025 Loan
+”),
+and (c) that certain loan to Borrower in an amount equal to $500,000 to be made by Lender on or prior to August 15, 2025 (the “
+August
+2025 Loan
+”, and together with the July 2025 Loan, collectively, the “
+2025 Loans
+”). Borrower promises to
+pay to the order of 
+Ross Sklar
+, an individual (“
+Sklar
+” or “
+Lender
+”), at Lender’s current
+address of 706 N. Citrus Ave, Los Angeles, CA 90038, or at such other addresses as Lender may from time to time designate in writing
+to Borrower, the principal sum of THREE MILLION FOUR HUNDRED SEVENTY-TWO THOUSAND FIVE HUNDRED AND ZERO CENTS ($3,472,500.00) (the “
+Loan
+Amount
+”), together with interest thereon and all other sums due and/or payable under any Loan Document (the “
+Loan
+”);
+such principal and other sums to be calculated and payable as provided in this Consolidated Secured Promissory Note.”
+
+ 
+
+c.
+The following 
+Section 15
+ is hereby added to Consolidated Note, immediately following 
+Section 14
+, to read as follows:
+
+ 
+
+“15.
+
+Subordination
+. This Consolidated Secured Promissory Note is subject to that certain Subordination Agreement dated as of May 24,
+2024 (as amended, restated, supplemented or otherwise modified from time to time, the “
+Subordination Agreement
+”),
+by and between Lender and Gibraltar Business Capital, LLC, a Delaware limited liability company (“
+Senior Lender
+”).
+Notwithstanding anything to the contrary in this Consolidated Secured Promissory Note, the obligations of Borrower in respect of this
+Consolidated Secured Promissory Note and Lender’s rights hereunder shall be subordinate and junior, to the extent and in the manner
+set forth in the Subordination Agreement, to the Senior Indebtedness. The provisions of this Section 15 are included solely for the purpose
+of defining the relative rights of Lender and Senior Lender, and nothing herein shall impair, as between Borrower and Lender, Borrower’s
+unconditional and absolute obligation to pay Lender all amounts owing hereunder when due in accordance with the tern’s of this
+Note and otherwise comply with the terms hereof. In the event of any conflict between the terms of the Consolidated Secured Promissory
+Note and the Subordination Agreement, the Subordination Agreement shall control.”
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.
+
+Representations and Warranties
+. In order to induce Lender to enter into this Amendment, Borrower, for itself, and for its affiliates,
+successors and assigns, hereby acknowledges, represents, warrants and agrees as follows:
+
+ 
+
+a.
+Borrower has full power and authority to enter into this Amendment and to incur and perform all obligations and covenants contained herein,
+all of which have been duly authorized by all proper and necessary action. No consent, approval, filing or registration with or notice
+to any governmental authority is required as a condition to the validity of this Amendment or the performance of any of the obligations
+of Borrower hereunder.
+
+ 
+
+b.
+There is no fact known to Borrower or which should be known to Borrower which Borrower has not disclosed to Lender on or prior to the
+date of this Amendment which would or could materially and adversely affect the understanding of Lender expressed in this Amendment or
+any representation, warranty, or recital contained in this Amendment.
+
+ 
+
+c.
+Except as expressly set forth in (i) this Amendment, (ii) the Subordination Agreement, and (iii) the LSA, Borrower acknowledges and agrees
+that neither the execution and delivery of this Amendment nor any of the terms, provisions, covenants, or agreements contained in this
+Amendment shall in any manner release, impair, lessen, modify, waive, or otherwise affect the liability and obligations of Borrower under
+the terms of any other agreement between Lender and Borrower.
+
+ 
+
+d.
+Borrower has no defenses, affirmative or otherwise, rights of setoff, rights of recoupment, claims, counterclaims, actions or causes
+of action of any kind or nature whatsoever against Lender, directly or indirectly, arising out of, based upon, or in any manner connected
+with, the transactions contemplated hereby, whether known or unknown, which occurred, existed, was taken, permitted, or begun prior to
+the execution of this Amendment and occurred, existed, was taken, permitted or begun in accordance with, pursuant to, or by virtue of
+any of the terms or conditions of any agreements between Lender and Borrower. To the extent any such defenses, affirmative or otherwise,
+rights of setoff, rights of recoupment, claims, counterclaims, actions or causes of action exist or existed, such defenses, rights, claims,
+counterclaims, actions and causes of action are hereby waived, discharged and released. Borrower hereby acknowledges and agrees that
+the execution of this Amendment by Lender shall not constitute an acknowledgment of or admission by Lender of the existence of any claims
+or of liability for any matter or precedent upon which any claim or liability may be asserted.
+
+ 
+
+e.
+Borrower represents and warrants that as of the date hereof no events of default or other material breaches exist under any agreements
+between Lender and Borrower, or have occurred prior to the date hereof.
+
+ 
+
+4.
+
+Certain Acknowledgements
+. Borrower and Lender each acknowledge and agree that (i) (a) Lender’s right to receive payments
+under the Consolidated Note; and (b) the lien granted by Borrower to Lender under the Consolidated Note are expressly subordinate and
+junior to Gibraltar’s right to receive payments under the LSA and to the lien granted by Borrower to Gibraltar under the LSA, pursuant
+to the terms of the Subordination Agreement, and (ii) Borrower’s repayment of principal and interest under the Consolidated Note
+are only permitted strictly in accordance with the terms set forth in Section 3.7 of the Subordination Agreement. In the event of a conflict
+between the terms of the Consolidated Note and the terms of the Subordination Agreement, the terms of the Subordination Agreement shall
+govern and prevail.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.
+
+Other Terms Unchanged
+. The Consolidated Note, as amended by this Amendment, remains and continues in full force and effect, constitutes
+legal, valid, and binding obligations of each of the parties, and is in all respects agreed to, ratified, and confirmed. Any reference
+to the Consolidated Note after the date of this Amendment is deemed to be a reference to the Consolidated Note as amended by this Amendment.
+If there is a conflict between the terms of this Amendment and the Consolidated Note, the terms of this Amendment shall control. No forbearance
+or waiver may be implied by this Amendment. Except as expressly set forth herein, the execution, delivery, and performance of this Amendment
+shall not operate as a waiver of, or as an amendment to, any right, power, or remedy of Borrower under the Consolidated Note, as in effect
+prior to the date hereof. For the avoidance of doubt, this Amendment shall be subject to the governing law and venue provisions, as set
+forth in the Consolidated Note.
+
+ 
+
+6.
+
+No Reliance
+. Borrower acknowledges and agrees that neither Lender nor any of its officers, directors, members, managers, equity
+holders, representatives or agents has made any representations or warranties to Borrower or any of its agents, representatives, officers,
+directors, or employees except as expressly set forth in this Amendment and, in making its decision to enter into the transactions contemplated
+by this Amendment, Borrower is not relying on any representation, warranty, covenant or promise of Borrower or its officers, directors,
+members, managers, equity holders, agents or representatives other than as set forth in this Amendment.
+
+ 
+
+7.
+
+Counterparts
+. This Amendment may be executed in any number of counterparts, each of which shall be deemed an original, but all
+of which together shall constitute one instrument. The parties hereto confirm that any electronic copy of another party’s executed
+counterpart of this Amendment (or such party’s signature page thereof) will be deemed to be an executed original thereof.
+
+ 
+
+8.
+
+Further Assurances
+. Each party shall do and perform or cause to be done and performed, all such further acts and things, and shall
+execute and deliver all such other agreements, certificates, instruments and documents, as the other party may reasonably request in
+order to carry out the intent and accomplish the purposes of this Amendment and the consummation of the transactions contemplated hereby.
+
+ 
+
+[Remainder
+of page intentionally left blank]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, the undersigned have executed this Amendment as of the date set forth above.
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Borrower
+”
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+STARCO BRANDS,
+ INC.
+,
+
+ 
+
+ 
+
+ 
+
+a Nevada corporation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Darin Brown 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Darin Brown
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief Operating Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Lender
+”
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+/s/ Ross
+ Sklar
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ross Sklar
+, an individual
+
+ 
+
+Amendment
+Number Two
+
+to
+Consolidated Secured Promissory Note
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Accepted
+and Agreed on and as of
+
+the
+date of this Amendment:
+
+ 
+
+“
+Gibraltar
+”
+
+ 
+
+ 
+
+GIBRALTAR
+ BUSINESS CAPITAL, LLC
+,
+
+ 
+
+ 
+
+ 
+
+a Delaware limited
+ liability company
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Todd A. Seehase 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Todd A. Seehase
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Senior Vice President
+
+ 
+
+ 
+
+ 
+
+Amendment
+Number Two
+
+to
+Consolidated Secured Promissory Note

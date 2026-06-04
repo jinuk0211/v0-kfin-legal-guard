@@ -1,0 +1,301 @@
+{
+  "session_id": "US_APGFCU_Visa_Disclosure_P01",
+  "generated_at": "2026-05-05T17:14:06.841661+00:00",
+  "product": "APGFCU_Visa_Disclosure",
+  "doc_type": "credit_card_agreement",
+  "user_profile": {
+    "id": "P01",
+    "age": 45,
+    "occupation": "salaried employee",
+    "financial_status": "middle income",
+    "risk_flags": [
+      "carry_balance"
+    ]
+  },
+  "executive_summary": "Analysis of APGFCU_Visa_Disclosure identified 5 consumer vulnerabilities. Overall risk level: HIGH. Key concerns: Variable APR tied to Prime Rate, Average daily balance including new purchases, Cash advance fee with high maximum.",
+  "overall_risk_level": "HIGH",
+  "vulnerability_count": {
+    "CRITICAL": 2,
+    "HIGH": 3,
+    "MEDIUM": 0,
+    "LOW": 0,
+    "uncategorized": 1
+  },
+  "findings": [
+    {
+      "finding_id": "US-V001",
+      "taxonomy": "CC-02",
+      "title": "Variable APR tied to Prime Rate",
+      "triggered_by": "This APR will vary with the market based on the Prime Rate.",
+      "description": "Variable APR tied to Prime Rate",
+      "status": "CONFIRMED",
+      "confidence": 0.8,
+      "user_relevance_score": 1.0,
+      "search_query_used": "credit card variable APR Prime Rate increase consumer harm",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1666i",
+            "verified": true
+          },
+          {
+            "law_name": "Credit CARD Act 2009",
+            "article": "15 U.S.C. \u00a7 1637",
+            "verified": true
+          }
+        ],
+        "precedents": [
+          {
+            "case_number": "64297648",
+            "case_name": "In re Capital One Bank Credit Card Interest Rate Litigation",
+            "court": "gand",
+            "date": "2014-11-03",
+            "summary": "",
+            "relevance_score": 1.0,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/7309171/in-re-capital-one-bank-credit-card-interest-rate-litigation/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:1\uac74 | US statute:2\uac74",
+      "severity": "CRITICAL",
+      "plain_language_explanation": "Your credit card interest rate will go up and down with the Prime Rate. When the Federal Reserve raises rates, your card rate increases too.",
+      "user_impact": "Since you carry a balance, higher rates mean you'll pay more in interest charges each month.",
+      "estimated_risk_scenario": "If Prime Rate rises 2%, your monthly interest could increase $15-30 on a $10,000 balance. Over time, this adds hundreds in extra costs you can't predict or control.",
+      "recommended_actions": [
+        {
+          "action": "Ask for the current rate and how it's calculated (Prime + X%)",
+          "priority": "pre-signing",
+          "contact": "Card issuer customer service"
+        },
+        {
+          "action": "Consider fixed-rate alternatives or balance transfer cards",
+          "priority": "immediate",
+          "contact": "Multiple card issuers for comparison"
+        },
+        {
+          "action": "Create a payoff plan to reduce balance before rates potentially rise",
+          "priority": "immediate",
+          "contact": "Non-profit credit counseling agency"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "finding_id": "US-V004",
+      "taxonomy": "CC-03",
+      "title": "Average daily balance including new purchases",
+      "triggered_by": "We use a method called \"average daily balance (including new purchases).\"",
+      "description": "Average daily balance including new purchases",
+      "status": "CONFIRMED",
+      "confidence": 0.75,
+      "user_relevance_score": 1.0,
+      "search_query_used": "average daily balance including new purchases unfair billing method",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1637",
+            "verified": true
+          },
+          {
+            "law_name": "CFPB Regulation Z",
+            "article": "12 CFR \u00a7 1026.51",
+            "verified": true
+          }
+        ],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74 | US statute:2\uac74",
+      "severity": "CRITICAL",
+      "plain_language_explanation": "This credit card calculates interest on your daily balance AND adds new purchases right away, even if you pay some of your bill each month.",
+      "user_impact": "You'll pay more interest because new purchases get charged interest immediately.",
+      "estimated_risk_scenario": "If you carry a $2,000 balance and make $500 in new purchases, you pay interest on the full amount right away instead of getting a grace period on new purchases.",
+      "recommended_actions": [
+        {
+          "action": "Look for cards with 'adjusted balance' or 'previous balance' methods that charge less interest",
+          "priority": "pre-signing",
+          "contact": "Compare cards on bank websites or credit comparison sites"
+        },
+        {
+          "action": "Pay off your full balance each month to avoid interest charges completely",
+          "priority": "immediate",
+          "contact": "Set up automatic payments through your bank"
+        },
+        {
+          "action": "Stop making new purchases until you pay off your existing balance",
+          "priority": "immediate",
+          "contact": "Lock your card temporarily through your bank's app"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "finding_id": "US-V002",
+      "taxonomy": "CC-01",
+      "title": "Cash advance fee with high maximum",
+      "triggered_by": "$5.00 or 2.00% of the amount of each cash advance, whichever is greater (Maximum Fee: $500.00)",
+      "description": "Cash advance fee with high maximum",
+      "status": "CONFIRMED",
+      "confidence": 0.85,
+      "user_relevance_score": 0.75,
+      "search_query_used": "credit card cash advance fee $500 maximum unfair",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1601",
+            "verified": true
+          },
+          {
+            "law_name": "CFPB Regulation Z",
+            "article": "12 CFR Part 1026",
+            "verified": true
+          }
+        ],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74 | US statute:2\uac74",
+      "severity": "HIGH",
+      "plain_language_explanation": "This credit card charges a cash advance fee of $5 or 2% per transaction, whichever is higher, up to $500 maximum per advance.",
+      "user_impact": "Since you carry balances, cash advances will cost you extra fees plus immediate high interest.",
+      "estimated_risk_scenario": "Taking a $500 cash advance costs $10 upfront, then 25-30% interest starts immediately. With your balance-carrying habit, this debt could cost $200+ yearly.",
+      "recommended_actions": [
+        {
+          "action": "Avoid cash advances completely - use debit card or bank withdrawal instead",
+          "priority": "immediate",
+          "contact": "Your bank for debit card options"
+        },
+        {
+          "action": "Set up emergency fund to avoid needing cash advances",
+          "priority": "optional",
+          "contact": "Your bank's financial advisor"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "finding_id": "US-V005",
+      "taxonomy": "UNCATEGORIZED",
+      "title": "Broad collateral security for California borrowers",
+      "triggered_by": "Credit extended under this credit card account is secured by various personal property and money including, but not limited to: (a) any goods you purchase with this account, (b) any shares you specifically pledge as collateral for this account on a separate Pledge of Shares, (c) all shares you have in any individual or joint account with the Credit Union excluding shares in an Individual Retirement Account or in any other account that would lose special tax treatment under state or federal law, and (d) collateral securing other loans you have with the Credit Union excluding dwellings.",
+      "description": "Excessive collateral requirements that secure credit card debt with consumer's other assets and accounts",
+      "status": "CONFIRMED",
+      "confidence": 0.85,
+      "user_relevance_score": 0.75,
+      "search_query_used": "credit extended under this credit card account secured credit card consumer rights",
+      "legal_grounds": {
+        "statutes": [],
+        "precedents": [
+          {
+            "case_number": "64317360",
+            "case_name": "Derosa v. Computer Credit, Inc.",
+            "court": "nyed",
+            "date": "2018-03-28",
+            "summary": "",
+            "relevance_score": 0.919,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/7328876/derosa-v-computer-credit-inc/"
+          },
+          {
+            "case_number": "65337826",
+            "case_name": "Lakewood Credit Union v. Goodrich",
+            "court": "wisctapp",
+            "date": "2016-09-07",
+            "summary": "",
+            "relevance_score": 0.919,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/8239279/lakewood-credit-union-v-goodrich/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:2\uac74",
+      "severity": "HIGH",
+      "plain_language_explanation": "This credit card uses your purchases and other property as collateral. If you can't pay, the lender can take back items you bought with the card.",
+      "user_impact": "Since you carry balances, your purchases could be repossessed if you fall behind on payments.",
+      "estimated_risk_scenario": "If you miss payments while carrying a balance, the lender could seize items you purchased with the card, like electronics or furniture, even if those items are worth less than what you owe.",
+      "recommended_actions": [
+        {
+          "action": "Ask the lender for a complete list of what property they can take as collateral",
+          "priority": "immediate",
+          "contact": "Credit card customer service"
+        },
+        {
+          "action": "Consider switching to an unsecured credit card to avoid collateral risks",
+          "priority": "optional",
+          "contact": "Other credit card companies"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "finding_id": "US-V003",
+      "taxonomy": "CC-01",
+      "title": "Pay-by-phone fee",
+      "triggered_by": "Pay-by-Phone Fee: $10.00.",
+      "description": "Pay-by-phone fee",
+      "status": "CONFIRMED",
+      "confidence": 0.8,
+      "user_relevance_score": 0.7,
+      "search_query_used": "credit card pay by phone fee $10 consumer harm",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1601",
+            "verified": true
+          },
+          {
+            "law_name": "CFPB Regulation Z",
+            "article": "12 CFR Part 1026",
+            "verified": true
+          }
+        ],
+        "precedents": [
+          {
+            "case_number": "1086043",
+            "case_name": "At & T Universal Card Services v. Ellingsworth (In Re Ellingsworth)",
+            "court": "mowb",
+            "date": "1997-08-26",
+            "summary": "",
+            "relevance_score": 1.0,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/1535377/at-t-universal-card-services-v-ellingsworth-in-re-ellingsworth/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:1\uac74 | US statute:2\uac74",
+      "severity": "HIGH",
+      "plain_language_explanation": "You'll be charged $10 every time you make a credit card payment over the phone. This fee applies even for urgent payments to avoid late fees.",
+      "user_impact": "Since you carry balances, you likely make frequent payments. Each phone payment costs you $10 extra.",
+      "estimated_risk_scenario": "Making just one phone payment monthly adds $120 yearly in fees. If you need to make urgent payments to avoid late fees, you're paying $10 each time on top of interest charges.",
+      "recommended_actions": [
+        {
+          "action": "Set up free online account and autopay to avoid phone payment fees",
+          "priority": "immediate",
+          "contact": "Card issuer customer service or website"
+        },
+        {
+          "action": "Ask card issuer to waive pay-by-phone fees or switch to a card without this fee",
+          "priority": "optional",
+          "contact": "Card issuer retention department"
+        }
+      ],
+      "rank": 5
+    }
+  ],
+  "general_recommendations": [
+    "Read all terms carefully before signing any credit card agreement.",
+    "Compare APR and fees across multiple issuers before applying.",
+    "Note any arbitration clauses that waive your right to sue.",
+    "Contact CFPB (1-855-411-2372) if you believe a term is unfair.",
+    "For disputes, contact your state Attorney General's consumer protection office."
+  ],
+  "disclaimer": "This report is generated by AI analysis and has no legal effect. For specific legal advice, consult a consumer protection attorney or contact the CFPB."
+}

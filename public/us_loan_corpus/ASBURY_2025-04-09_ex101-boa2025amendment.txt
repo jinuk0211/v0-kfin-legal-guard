@@ -1,0 +1,3421 @@
+EX-10.1
+
+2
+
+ex101-boa2025amendment.htm
+
+EX-10.1
+
+Document
+
+Exhibit 10.1
+
+FIRST AMENDMENT TO 
+
+FOURTH AMENDED AND RESTATED CREDIT
+
+ 
+
+AGREEMENT
+
+This 
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+, dated as of April 9, 2025 (this “
+
+Amendment
+
+”) is by and among 
+
+ASBURY AUTOMOTIVE GROUP, INC
+
+., a Delaware corporation (“
+
+Company
+
+”), certain Subsidiaries of the Company party hereto as New Vehicle Borrowers (each a “
+
+New Vehicle Borrower
+
+” and collectively with the Used Vehicle Borrowers (defined below), the “
+
+Vehicle Borrowers
+
+”), certain Subsidiaries of the Company party hereto as Used Vehicle Borrowers (each a “
+
+Used Vehicle Borrower
+
+”, and collectively with the Company, the “
+
+Used Vehicle Borrowers
+
+”), the Guarantors party hereto, the Lenders party hereto (the “
+
+Consenting Lenders
+
+”), and 
+
+BANK OF AMERICA, N.A.
+
+, as Administrative Agent, Revolving Swing Line Lender, New Vehicle Floorplan Swing Line Lender, Used Vehicle Floorplan Swing Line Lender and an L/C Issuer. The Vehicle Borrowers, including the Company in its capacity as Borrower under the Revolving Credit Facility, are referred to collectively as the “
+
+Borrowers
+
+” and individually as a “
+
+Borrower
+
+”. 
+
+W I TN E S S E T H:
+
+WHEREAS
+
+, the Administrative Agent, Revolving Swing Line Lender, New Vehicle Floorplan Swing Line Lender, Used Vehicle Floorplan Swing Line Lender, L/C Issuer, certain financial institutions from time to time party thereto as lenders and the Borrowers are parties to that certain Fourth Amended and Restated Credit Agreement, dated as of October 20, 2023 (as otherwise amended, supplemented or modified from time to time, the “
+
+Credit Agreement
+
+”; capitalized terms used but not defined herein shall have the meanings set forth in the Credit Agreement).
+
+WHEREAS
+
+, the Company and the Borrowers have advised the Administrative Agent and the Lenders of their desire (a) to consummate the acquisition by the Company or one or more of its Subsidiaries of all or substantially all of the assets of certain automotive dealerships owned, directly or indirectly, by Herbert G. Chambers, Jennings Road Management Corp., the HGC Dealership Companies (as defined below) or the HGC Real Estate Companies (as defined below) (collectively, the “
+
+HGC Sellers
+
+”) pursuant to that certain Purchase and Sale Agreement, dated as of February 14, 2025 (the “
+
+HGC Acquisition Agreement
+
+” and, together with the documents, agreements, certificates and instruments executed in connection therewith, collectively, the “
+
+HGC Acquisition Documents
+
+” and such acquisition, the “
+
+HGC Acquisition
+
+”), by and among Asbury Automotive Group L.L.C., a Delaware limited liability company, and the HGC Sellers, and (b) for the Company or any of its Subsidiaries to incur Indebtedness under the Credit Agreement, the proceeds of which will be used to consummate the transactions contemplated by the HGC Acquisition Documents.
+
+WHEREAS
+
+, the Company and the Borrowers have requested (a) an increase in the Aggregate Revolving Commitments and the Aggregate New Vehicle Floorplan Commitments, so that after giving effect to such increase, (i) the Aggregate Revolving Commitments will be $925,000,000, and (ii) the Aggregate New Vehicle Floorplan Commitments will be $2,250,000,000 (the increases described in clause (a) hereof are collectively referred to herein as the “
+
+2025 Commitment Increase
+
+”), and (b) certain other amendments to the Credit Agreement, as more specifically set forth herein. 
+
+WHEREAS
+
+, each Lender providing a portion of the 2025 Commitment Increase is willing to provide the 2025 Commitment Increase and the Administrative Agent and the Consenting Lenders have agreed to such requests, subject to the terms and conditions of this Amendment. 
+
+#517664085
+
+WHEREAS
+
+, by this Amendment, the Administrative Agent, the Consenting Lenders, the Company and the Borrowers desire and intend to evidence the amendments set forth herein.
+
+NOW, THEREFORE, 
+
+in consideration of the premises and the agreements, provisions and covenants herein contained, the parties hereto agree as follows:
+
+SECTION 1 - DEFINITIONS; AMENDMENTS
+
+1.1    Definitions. 
+
+As used in the Amendment, the following terms shall have the meanings set forth below: 
+
+“
+
+2025 Commitment Increase Effective Date
+
+” has the meaning specified in 
+
+Section 2.2
+
+.
+
+“
+
+2025 Amendment Effective Date
+
+” has the meaning specified in 
+
+Section 2.1
+
+.
+
+“
+
+Joining Lender
+
+” has the meaning specified in 
+
+Section 3.11
+
+.
+
+1.2    Amendments to Credit Agreement Effective on 2025 Commitment Increase Effective Date. 
+
+Simultaneously with the 2025 Commitment Increase Effective Date, the parties hereby agree that:
+
+(a)    The following new definitions will be added to Section 1.02 of the Credit Agreement in proper alphabetical order:
+
+“
+
+2025 Commitment Increase Effective Date
+
+” has the meaning set forth in the First Amendment.
+
+“
+
+First Amendment
+
+” means that certain First Amendment to Fourth Amended and Restated Credit Agreement, dated as of April 9, 2025, by and among the Company, the New Vehicle Borrowers, the Used Vehicle Borrower, the Guarantors party thereto, the Lenders party thereto and the Administrative Agent. 
+
+“
+
+HGC Acquisition
+
+” means the acquisition by the Company and/or its Subsidiaries of dealership assets, real estate and real estate related rights and other assets of the HGC Owner, the HGC Dealership Companies, the HGC Real Estate Companies and the HGC Management Company (each as defined in the definition of HGC Purchase Agreement) pursuant to the HGC Purchase Agreement, without giving effect to any modifications, amendments, consents or waivers thereto that are material and adverse to the interests of the Lenders, as reasonably determined by the Administrative Agent, without the prior consent of the Administrative Agent (not to be unreasonably withheld, delayed or conditioned).
+
+“
+
+HGC Acquisition Documents
+
+” means the HGC Purchase Agreement and all documents, agreements, certificates and instruments executed in connection therewith.
+
+“
+
+HGC Acquisition Indebtedness
+
+” means Indebtedness incurred by the Company or any of its Subsidiaries (which may include Indebtedness incurred hereunder), the proceeds of which will be used to consummate the transactions contemplated by the HGC Acquisition Documents.
+
+2
+
+“
+
+HGC Dealership Company
+
+” means each of Herb Chambers Route 1, Inc., Silver Star, Inc., Herb Chambers 1172, Inc., Herb Chambers Commonwealth Avenue, Inc., Herb Chambers Cadillac, Inc., Herb Chambers 1186, Inc., Herb Chambers 128, Inc., Herb Chambers 44, Inc., Herb Chambers I-95, Inc., Herb Chambers of Millbury, Inc., Herb Chambers of Auburn, Inc., Herb Chambers 1168, Inc., Dave Dinger Ford, Inc., Herb Chambers 22 Brighton Ave., Inc., Herb Chambers of Westborough, Inc., Herb Chambers Andover Street Inc., Herb Chambers Cambridge Street, Inc., Herb Chambers 62 Cambridge, Inc., Herb Chambers of Natick, Inc., Herb Chambers Boston Post Road, Inc., Herb Chambers of Sudbury, Inc., Herb Chambers of Burlington, Inc., Herb Chambers of Wayland, Inc., Herb Chambers 75 Otis Street, Inc., Herb Chambers of Millbury II, Inc., Herb Chambers 395 Broadway, Inc., Herb Chambers Boston Turnpike, Inc., Herb Chambers of Brookline, Inc., Herb Chambers of Norwood, Inc., and Herb Chambers 1188, Inc., as the case may be, and collectively, they are the “
+
+HGC Dealership Companies
+
+”.
+
+“
+
+HGC Purchase Agreement
+
+” means that certain Purchase and Sale Agreement dated as of February 14, 2025, by and among the Company, as Buyer, Herbert G. Chambers, an individual resident of the Commonwealth of Massachusetts (the “
+
+HGC Owner
+
+”), Jennings Road Management Corp., a Connecticut corporation (the “
+
+HGC Management Company
+
+”), the HGC Dealership Companies and the HGC Real Estate Companies, as such document was provided to the Administrative Agent on or about February 25, 2025, with such changes, amendments, waivers or other modifications thereto prior to the 2025 Commitment Increase Effective Date which, to the extent material and adverse to the interests of the Lenders, have been consented to by the Administrative Agent (such consent not to be unreasonably withheld, conditioned or delayed).
+
+“
+
+HGC Real Estate Company
+
+” means each of the following Herb Chambers of Lynnfield, Inc., Herb Chambers Peabody, LLC, Herb Chambers Holliston, LLC, Herb Chambers MB Sudbury, LLC, Herb Chambers 130 Boston Post Road, LLC, Avonwood Associates Limited Partnership, Herb Chambers Medford, LLC, Herb Chambers 83 Boston Post Road, LLC, Herb Chambers 533 Boston Post Road, LLC, Herb Chambers of Warwick, Inc., Herb Chambers Cambridge Street, LLC, Herb Chambers of Norwood, LLC, Herb Chambers Plank Street, LLC, Herb Chambers of Seekonk, LLC, Geo Missy Limited Partnership, Herb Chambers 529 & 533 Winthrop Street, Inc., Herb Chambers of Danvers, LLC, Herb Chambers Latti Farm Road, LLC, Herb Chambers 93 Cambridge Street, LLC, Herb Chambers Washington Street, Inc., Herb Chambers of Braintree, Inc., Herb Chambers of Braintree II, LLC, Herb Chambers of Chicopee, Inc., Herb Chambers Derby Street, LLC, Herb Chambers Turnpike Road, LLC, Herb Chambers 312 Turnpike Road, LLC, Herb Chambers Otis Street, LLC, Broadway Lynnfield Properties, LLC, Herb Chambers 400 Mystic, LLC, Herb Chambers 720 Morrissey, LLC, Herb Chambers 90 Andover Street Danvers, LLC or Herb Chambers North Main Street, LLC, as the case may be, and collectively, they are the “
+
+HGC Real Estate Companies
+
+”.
+
+“
+
+HGC Sellers
+
+” means the HGC Owner, the HGC Management Company, the HGC Dealership Companies and the HGC Real Estate Companies.
+
+“
+
+Specified HGC Acquisition Agreement Representations
+
+” means, with respect to the date of any Credit Extension, the representations made by the HGC Sellers or their 
+
+3
+
+subsidiaries in the HGC Acquisition Documents that are material to the interests of the Administrative Agent or the Lenders, but only to the extent that the Company or any of the Company’s affiliates have the right to terminate the Company’s or such affiliate’s obligations under the HGC Acquisition Documents or to decline to consummate the acquisition of the business to be financed by a Credit Extension on such date as a result of a breach of such representations in the HGC Acquisition Documents without liability to the Company or such affiliate. 
+
+(b)    The definition of “Permitted Acquisition” will be amended and restated in its entirety as follows:
+
+“
+
+Permitted Acquisition
+
+” means (i) any Acquisition permitted by 
+
+Section 7.19
+
+ and (ii) the HGC Acquisition.
+
+(c)    The following new Section 4.02(j) will be added to the Credit Agreement in proper numerical order:
+
+(j)    Notwithstanding the conditions specified in 
+
+Sections 4.02(a)
+
+ and 
+
+(b)
+
+ above, with respect to the portion of any Credit Extension that is used solely to finance any part of the HGC Acquisition, 
+
+Sections 4.02(a)
+
+ and 
+
+(b)
+
+ shall not apply with respect to such Credit Extension, but the following conditions shall apply:
+
+(i)    The Administrative Agent shall have received all documents, and evidence reasonably satisfactory to the Administrative Agent that all other actions have been taken, in each case required by 
+
+Sections 2.24
+
+, 
+
+2.25
+
+ and 
+
+6.14
+
+ hereof with respect to any Subsidiary that (a) did not execute (or join) this Agreement prior to the 2025 Commitment Increase Effective Date as a New Vehicle Borrower and Used Vehicle Borrower and (b) will acquire assets in connection with the HGC Acquisition or whose Equity Interests will be acquired in connection with the HGC Acquisition (each an “
+
+Additional HGC Restricted Subsidiary
+
+”; each such Subsidiary, together with any other Subsidiary which will acquire assets in connection with the HGC Acquisition, the “
+
+HGC Restricted Subsidiaries
+
+”), each in form and substance reasonably satisfactory to the Administrative Agent.
+
+(ii)    The Administrative Agent shall have received the following, each of which (in the case of clauses (D) and (G)) shall be originals or telecopies (followed promptly by originals) unless otherwise specified, each of which (in the case of clauses (B) and (C)) shall be properly executed by a Responsible Officer of the signing Loan Party, each dated the date of such Credit Extension (or, in the case of certificates of governmental officials or the items referred to in clauses (B)(y) and (E) below, a recent date before the date of such Credit Extension) and each in form and substance reasonably satisfactory to the Administrative Agent:
+
+(A)    evidence that all insurance required to be maintained with respect to each HGC Restricted Subsidiary pursuant to the Loan Documents has been obtained and is in effect, including endorsements naming the Administrative Agent (on behalf of the Secured Parties) as an 
+
+4
+
+additional insured or lender’s loss payee, as the case may be, on all insurance policies maintained with respect to properties of such HGC Restricted Subsidiary constituting part of the Collateral;
+
+(B)    to the extent there are any Additional HGC Restricted Subsidiaries at such time, (x) such certificates of resolutions and incumbency certificates of Responsible Officers of each Additional HGC Restricted Subsidiary as the Administrative Agent may reasonably require evidencing the identity, authority and capacity of each Responsible Officer thereof authorized to act as a Responsible Officer in connection with the Loan Documents to which such Additional HGC Restricted Subsidiary is a party, (y) the Organization Documents of each such Additional HGC Restricted Subsidiary and customary certifications as the Administrative Agent may reasonably require to evidence that each Additional HGC Restricted Subsidiary is in good standing and qualified to engage in business in the jurisdiction of its organization or formation, and each other jurisdiction where its ownership, lease or operation of properties or the conduct of its business requires such qualification, except to the extent that failure to do so could not reasonably be expected to have a Material Adverse Effect and (z) favorable opinions of Jones Day, counsel to the Loan Parties, and, if requested by the Administrative Agent in its sole discretion, of local counsel to the Loan Parties in each state where an Additional HGC Restricted Subsidiary is organized, in each case addressed to the Administrative Agent and each Lender, in form and substance reasonably satisfactory to the Administrative Agent;
+
+(C)    a certificate signed by a Responsible Officer of the Company certifying that the conditions specified in 
+
+Sections 4.02(j)(iii)
+
+, 
+
+(iv)
+
+ and 
+
+(v)
+
+ have been satisfied;
+
+(D)    each of the documents required to be delivered pursuant to 
+
+Section 7.19
+
+, (including a duly completed Pro Forma Compliance Certificate, Pro Forma Revolving Borrowing Base Certificate and Pro Forma Used Vehicle Floorplan Borrowing Base Certificate and the financial statements required to be delivered thereby);
+
+(E)    UCC search results with respect to all sellers under the HGC Acquisition Documents and all Additional HGC Restricted Subsidiaries showing only Liens permitted hereunder (or pursuant to which arrangements reasonably satisfactory to the Administrative Agent shall have been made to remove any Liens not permitted hereunder on or prior to the date of such Credit Extension);
+
+(F)    with respect to any Eligible Borrowing Base Real Estate that is reflected in the Revolving Borrowing Base Certificate delivered pursuant to clause (D) above, each of the following, in form and substance reasonably acceptable to the Administrative Agent: (A) a FIRREA-conforming appraisal (or, in the event that a FIRREA-
+
+5
+
+conforming appraisal cannot be obtained prior to the date of such certificate after commercially reasonable efforts, a report as to the tax assessed value for such property), and (B) such other reports or certifications related to such Eligible Borrowing Base Real Estate as the Administrative Agent may reasonably request; and
+
+(G)    if any HGC Restricted Subsidiary has a service loaner program with any Manufacturer or financial affiliate of a Manufacturer, a Service Loaner Intercreditor Agreement with respect to such program.
+
+(iii)    The Specified HGC Acquisition Agreement Representations shall be true and correct on the date of such Credit Extension, both immediately before and after giving effect to the HGC Acquisition and the HGC Acquisition Indebtedness. 
+
+(iv)    The Specified Representations shall be true and correct on the date of such Credit Extension in all material respects, both immediately before and after giving effect to the HGC Acquisition and the HGC Acquisition Indebtedness. 
+
+(v)    No Specified Event of Default shall have occurred and be continuing as of the date of such Credit Extension, both immediately before and after giving effect to the HGC Acquisition and the HGC Acquisition Indebtedness.
+
+(vi)    There has been no event or circumstance since the date of execution of the HGC Acquisition Documents that has had or could be reasonably expected to have, either individually or in the aggregate, a Material Adverse Effect (as defined in the HGC Acquisition Agreement). 
+
+(vii)    (A) Upon the reasonable request of any Lender made at least ten (10) Business Days prior to the date of such Credit Extension, each Borrower shall have provided to such Lender, and such Lender shall be reasonably satisfied with, the documentation and other information so requested in connection with applicable “know your customer” and anti-money-laundering rules and regulations, including, without limitation, the Act, in each case at least three (3) Business Days prior to the date of such Credit Extension and (B) at least three (3) Business Days prior to the date of such Credit Extension, any Loan Party that qualifies as a “legal entity customer” under the Beneficial Ownership Regulation shall have delivered, to each Lender that so requests, a Beneficial Ownership Certification in relation to such Loan Party.
+
+ 
+
+(d)    The aggregate Commitments of each of the Lenders under the Credit Agreement shall be increased by the respective amount specified on the schedule attached as Annex A hereto; and
+
+(e)    In order to effect the 2025 Commitment Increase, Schedule 2.01 to the Credit Agreement shall be deleted and replaced in its entirety by the corresponding Schedule 2.01 attached as Annex B hereto. 
+
+6
+
+1.3    Assignments; Allocations and Conversions.
+
+(a)    Simultaneously with the 2025 Commitment Increase Effective Date, the parties hereby agree that (i) the Revolving Commitment of each of the Revolving Lenders under the Credit Agreement shall be as set forth in 
+
+Schedule 2.01
+
+ (as amended hereby), the outstanding amount of the Revolving Loans (as defined in and
+
+ 
+
+under the Credit Agreement, without giving effect to any Revolving Borrowings of Revolving Loans under the Credit Agreement on the 2025 Commitment Increase Effective Date, but after giving effect to any repayment or reduction thereof with the proceeds of any applicable sources) shall be reallocated in accordance with such Revolving Commitments and the requisite assignments shall be deemed to be made in such amounts by and between the Revolving Lenders and from each Revolving Lender
+
+ 
+
+to each other Revolving Lender (including to Revolving Lenders who increase their Revolving Commitments in connection with this Amendment), with the same force and effect as if such assignments were evidenced by applicable Assignments and Assumptions (as defined in the Credit Agreement) under the Credit Agreement but without the payment of any related assignment fee, and no other documents or instruments shall be, or shall be required to be, executed in connection with such assignments (all of which requirements are hereby waived), (ii) the New Vehicle Floorplan Commitment of each of the New Vehicle Floorplan Lenders under the Credit Agreement shall be as set forth in 
+
+Schedule 2.01
+
+ (as amended hereby), the outstanding amount of the New Vehicle Floorplan Loans (as defined in and
+
+ 
+
+under the Credit Agreement, without giving effect to any New Vehicle Floorplan Borrowings of New Vehicle Floorplan Loans under the Credit Agreement on the 2025 Commitment Increase Effective Date, but after giving effect to any repayment or reduction thereof with the proceeds of any applicable sources) shall be reallocated in accordance with such New Vehicle Floorplan Commitments and the requisite assignments shall be deemed to be made in such amounts by and between the New Vehicle Floorplan Lenders and from each New Vehicle Floorplan Lender
+
+ 
+
+to each other New Vehicle Floorplan Lender (including to New Vehicle Floorplan Lenders who increase their New Vehicle Floorplan Commitments in connection with this Amendment), with the same force and effect as if such assignments were evidenced by applicable Assignments and Assumptions (as defined in the Credit Agreement) under the Credit Agreement but without the payment of any related assignment fee, and no other documents or instruments shall be, or shall be required to be, executed in connection with such assignments (all of which requirements are hereby waived), (iii) the Used Vehicle Floorplan Commitment of each of the Used Vehicle Floorplan Lenders under the Credit Agreement shall be as set forth in 
+
+Schedule 2.01
+
+ (as amended hereby), the outstanding amount of the Used Vehicle Floorplan Loans (as defined in and
+
+ 
+
+under the Credit Agreement, without giving effect to any Used Vehicle Floorplan Borrowings of Used Vehicle Floorplan Loans under the Credit Agreement on the 2025 Commitment Increase Effective Date, but after giving effect to any repayment or reduction thereof with the proceeds of any applicable sources) shall be reallocated in accordance with such Used Vehicle Floorplan Commitments and the requisite assignments shall be deemed to be made in such amounts by and between the Used Vehicle Floorplan Lenders and from each Used Vehicle Floorplan Lender
+
+ 
+
+to each other Used Vehicle Floorplan Lender (including to Used Vehicle Floorplan Lenders who increase their Used Vehicle Floorplan Commitments in connection with this Amendment), with the same force and effect as if such assignments were evidenced by applicable Assignments and Assumptions (as defined in the Credit Agreement) under the Credit Agreement but without the payment of any related assignment fee, and no other documents or instruments, shall be, or shall be required to be, executed in connection with such assignments (all of which requirements are hereby waived) and (iv) the Commitments as set forth on 
+
+Schedule 2.01
+
+ (as amended hereby) give effect to a conversion of
+
+ 
+
+Commitments pursuant to Section 2.14 of the Credit Agreement occurring immediately after giving effect to the 2025 Commitment Increase and the parties hereto waive any requirement that the Company deliver prior notice of such conversion.
+
+7
+
+(b)    On the 2025 Commitment Increase Effective Date, the applicable Lenders shall make full cash settlement with one another, in each case through the Administrative Agent, as the Administrative Agent may direct or approve, with respect to all assignments, reallocations, conversions and other changes in Commitments, such that after giving effect to such settlements, each Lender’s Applicable Percentage of the Aggregate Commitments equals (with customary rounding) its Applicable Percentage of the Outstanding Amount of all Loans. 
+
+(c)    The parties agree that the increase in Commitments pursuant to this Amendment is not an exercise of Section 2.22 of the Credit Agreement; and therefore the Facility allocation requirements under Section 2.22 of the Credit Agreement do not apply to the increase in Commitments pursuant to this Amendment. However, nothing contained herein shall modify or alter such requirement of Section 2.22 of the Credit Agreement in the event the Company requests a separate increase in Commitments pursuant to Section 2.22 of the Credit Agreement at any time after the date hereof. For the avoidance of doubt, the increase in Commitments pursuant to this Amendment shall not occur unless the 2025 Commitment Increase Effective Date has occurred.
+
+(d)    In the event of any assignment of a Commitment by a Lender, any increase in Commitments pursuant to Section 2.22 of the Credit Agreement, any reduction in Commitments pursuant to Section 2.14 of the Credit Agreement, any conversion of Aggregate Revolving Commitments to Aggregate New Vehicle Floorplan Commitments or Aggregate Used Vehicle Floorplan Commitments pursuant to Section 2.14 of the Credit Agreement or any conversion of Aggregate New Vehicle Floorplan Commitments or Aggregate Used Vehicle Floorplan Commitments to Aggregate Revolving Commitments pursuant to Section 2.14 of the Credit Agreement between the 2025 Amendment Effective Date and the 2025 Commitment Increase Effective Date, the Company, each other Loan Party and each Consenting Lender agrees that the Administrative Agent shall modify Schedule 2.01 as appropriate to reflect any such assignments, increases, reductions or conversions, as applicable, and the Company, each other Loan Party and each Consenting Lender authorizes the Administrative Agent to so modify Schedule 2.01 and attach Schedule 2.01 (as so modified) to this Amendment.
+
+SECTION 2 - CONDITIONS PRECEDENT TO EFFECTIVENESS
+
+2.1
+
+    This Amendment (other than the amendments contained in Sections 1.2 and 1.3 of this Amendment) shall become effective upon the satisfaction or waiver by the Administrative Agent and Consenting Lenders of the following condition precedent (the date of such satisfaction or waiver, the “
+
+2025 Amendment Effective Date
+
+”): the Administrative Agent’s receipt of executed counterparts of this Amendment from the Administrative Agent, the Borrowers, the Guarantors, Lenders constituting Required Lenders and each Lender increasing any of its Commitments or joining the Credit Agreement pursuant to this Amendment. 
+
+2.2    
+
+The amendments contained in Sections 1.2 and 1.3 of this Amendment shall be conditioned upon the consummation of the HGC Acquisition and shall only be effective upon the later of (1) the date that the Company specifies in the notice described in clause (e) below and (2) the date of the satisfaction or waiver by the Administrative Agent and each Lender (including, without limitation each Lender increasing any of its Commitments or joining the Credit Agreement pursuant to this Amendment) of each of the following conditions precedent (such later date, the “
+
+2025 Commitment Increase Effective Date
+
+”) (provided that such specified date and such satisfaction or waiver must occur on or before August 1, 2025) (in addition to the condition set forth in Section 2.1 of this Amendment):
+
+8
+
+(a)    The Administrative Agent’s receipt of the following, each of which (in the case of clause (i)), shall be originals or telecopies (followed promptly by originals) unless otherwise specified, each of which (in the case of clauses (i), (ii), and (iii)), shall be properly executed by a Responsible Officer of the signing Loan Party, each dated the 2025 Commitment Increase Effective Date (or, in the case of certificates of governmental officials or the items referred to in clause (v) below, a recent date before the 2025 Commitment Increase Effective Date) and each in form and substance reasonably satisfactory to the Administrative Agent and each of the Lenders:
+
+(i)    a Note(s) executed by the Company in favor of each Lender requesting a Note(s);
+
+ 
+
+(ii)    such certificates of resolutions or other action, incumbency certificates and/or other certificates of Responsible Officers of each Loan Party as the Administrative Agent may require evidencing the identity, authority and capacity of each Responsible Officer thereof authorized to act as a Responsible Officer in connection with this Amendment and the other Loan Documents to which such Loan Party is a party;
+
+(iii)    such documents and certifications as the Administrative Agent may reasonably require to evidence that each Loan Party is duly organized or formed, and that such Loan Party is validly existing, in good standing and qualified to engage in business in the jurisdiction of its organization or formation, and each other jurisdiction where its ownership, lease or operation of properties or the conduct of its business requires such qualification, except to the extent that failure to do so could not reasonably be expected to have a Material Adverse Effect; 
+
+(iv)    favorable opinions of Jones Day, counsel to the Loan Parties, and, if requested by the Administrative Agent in its sole discretion, of local counsel to the Loan Parties in each state where a Loan Party is organized, in each case addressed to the Administrative Agent and each Lender, in form and substance reasonably satisfactory to the Administrative Agent; and
+
+(v)    if reasonably requested by the Administrative Agent, a form FR U-1 executed by the Company and a duly authorized representative of the Administrative Agent.
+
+(b)    (i) Upon the reasonable request of any Lender made at least ten (10) Business Days prior to the 2025 Commitment Increase Effective Date, each Borrower shall have provided to such Lender, and such Lender shall be reasonably satisfied with, the documentation and other information so requested in connection with applicable “know your customer” and anti-money-laundering rules and regulations, including, without limitation, the Act, in each case at least three (3) Business Days prior to the 2025 Commitment Increase Effective Date and (ii) at least three (3) Business Days prior to the 2025 Commitment Increase Effective Date, any Loan Party that qualifies as a “legal entity customer” under the Beneficial Ownership Regulation shall have delivered, to each Lender that so requests, a Beneficial Ownership Certification in relation to such Loan Party.
+
+ 
+
+(c)    All fees set forth in that certain letter agreement, dated March 11, 2025, among the Company, the Administrative Agent and the Arranger, and any other fees required to be paid on or before the 2025 Commitment Increase Effective Date, shall have been paid.
+
+ 
+
+(d)    The Company shall have paid all reasonable accrued fees, charges and disbursements of counsel to the Administrative Agent (directly to such counsel if requested by the Administrative Agent) to the extent invoiced prior to or on the 2025 Commitment Increase Effective 
+
+9
+
+Date, 
+
+plus
+
+ such additional amounts of such fees, charges and disbursements as shall constitute its reasonable estimate of such fees, charges and disbursements incurred or to be incurred by it through the closing proceedings (
+
+provided
+
+ that such estimate shall not thereafter preclude a final settling of accounts between the Company and the Administrative Agent).
+
+ 
+
+(e)    Borrowers shall have delivered to the Administrative Agent not less than five (5) Business Days’ prior written notice specifying the date (which must be before August 1, 2025) that they elect for the amendments set forth in Sections 1.2 and 1.3 of this Amendment to become effective, which notice must be received on or before July 25, 2025.
+
+SECTION 3 - MISCELLANEOUS
+
+3.1
+
+    
+
+Binding Effect
+
+.
+
+ 
+
+This Amendment shall be binding upon the parties hereto and their respective successors and assigns and shall inure to the benefit of the parties hereto and the successors and assigns of Lender.
+
+3.2    
+
+Affirmation of Borrowers and Guarantors
+
+.
+
+ 
+
+Each Borrower and each Guarantor hereby (a) consents to the amendments and modifications to the Credit Agreement effected hereby, and (b) confirms and agrees that, notwithstanding the effectiveness of this Amendment, each Loan Document to which such Borrower or such Guarantor, as applicable, is a party is, and the obligations of such Borrower or such Guarantor, as applicable, contained in the Credit Agreement, as amended and modified hereby, or in any other Loan Documents to which it is a party are, and shall continue to be, in full force and effect and are hereby ratified and confirmed in all respects, in each case as amended and modified by this Amendment. Without limiting the generality of the foregoing, the execution of this Amendment shall not constitute a novation or discharge of, any obligation of any Loan Party under the Credit Agreement or any other Loan Document, and each Loan Party agrees that the Security Instruments and any other documents or instruments executed, filed or recorded in connection therewith, shall remain outstanding and in full force and effect, and all of the Collateral described therein and Liens granted in favor of the Administrative Agent created thereunder do and shall continue to secure the Obligations and the “Obligations”, “Guarantied Obligations” or “Secured Obligations” (as those terms are defined in the Company Guaranty and the Subsidiary Guaranty) and any other obligations to the extent provided in the Security Instruments and that all such Liens continue to be perfected as security for the Obligations and the “Obligations”, “Guarantied Obligations” or “Secured Obligations” (as those terms are defined in the Company Guaranty and the Subsidiary Guaranty) and any other obligations secured thereby. 
+
+3.3    
+
+Representations and Warranties
+
+. 
+
+Each Borrower and each Guarantor hereby represents and warrants to Administrative Agent and the Lenders that:
+
+(a)    This Amendment has been duly authorized, executed and delivered by each of the other Loan Parties party hereto and constitutes a legal, valid and binding obligation of each such party, except as may be limited by general principles of equity or by the effect of any applicable bankruptcy, insolvency, reorganization, moratorium or similar law affecting creditors’ rights generally.
+
+(b)    The representations and warranties made by each Loan Party in Article V of the Credit Agreement and in each of the other Loan Documents to which such Loan Party is a party are true and correct in all material respects (or if qualified by materiality or Material Adverse Effect, in all respects) on and as of the 2025 Amendment Effective Date, except to the extent that such representations and warranties expressly relate to an earlier date in which case they are true and correct in all material respects (or if qualified by materiality or Material Adverse Effect, in all respects) as of such earlier date.
+
+10
+
+(c)     No Default or Event of Default has occurred and is continuing as of the 2025 Amendment Effective Date.
+
+3.4    
+
+Severability
+
+. In case any provision in or obligation hereunder shall be invalid, illegal or unenforceable in any jurisdiction, the validity, legality and enforceability of the remaining provisions or obligations, or of such provision or obligation in any other jurisdiction, shall not in any way be affected or impaired thereby.
+
+3.5     
+
+Reference to and Effect on Credit Agreement and the Loan Documents
+
+.
+
+(a)    On and after the effectiveness of this Amendment, each reference in the Credit Agreement to “this Agreement”, “hereunder”, “hereof” or words of like import referring to the Credit Agreement, and each reference in the Notes and each of the other Loan Documents to “the Credit Agreement”, “thereunder”, “thereof” or words of like import referring to the Credit Agreement, shall mean and be a reference to the Credit Agreement, as amended and modified by this Amendment and as further amended, restated or modified from time to time in accordance with the terms thereof.
+
+(b)    The Credit Agreement and each of the other Loan Documents, as specifically amended and modified by this Amendment, are and shall continue to be in full force and effect and are hereby in all respects ratified and confirmed. 
+
+(c)    The Administrative Agent, the Lenders and the Loan Parties agree that this Amendment shall be a Loan Document for all purposes of the Credit Agreement (as specifically amended by this Amendment) and the other Loan Documents.
+
+3.6    
+
+No Waiver.
+
+ 
+
+The execution, delivery and effectiveness of this Amendment shall not, except as expressly provided herein, constitute a waiver or novation of any right, power or remedy of any Lender, L/C Issuer, Revolving Swing Line Lender, New Vehicle Floorplan Swing Line Lender, Used Vehicle Floorplan Swing Line Lender or the Administrative Agent under any of the Loan Documents, nor constitute a waiver or novation of any provision of any of the Loan Documents. This Amendment is limited to the matters expressly referred to herein and shall not constitute an amendment or waiver of, or an indication of the Lender's willingness to amend or waive, any other provisions of the Credit Agreement or the same provisions for any other date or purpose.
+
+3.7    
+
+Waiver, Modification, Etc
+
+.
+
+ No provision or term of this Amendment may be modified, altered, waived, discharged or terminated orally, but only by an instrument in writing executed by the party against whom such modification, alteration, waiver, discharge or termination is sought to be enforced.
+
+During the period from the date of this Amendment through the earlier of August 1, 2025 and the 2025 Commitment Increase Effective Date, no amendment or waiver of any provision of any Loan Document:
+
+(a)    that requires the written consent of each Lender pursuant to Section 10.01 of the Credit Agreement shall be effective unless such amendment or waiver shall also have received the written consent of each Joining Lender;
+
+(b)    that would extend or increase the Revolving Commitment, the New Vehicle Floorplan Commitment or the Used Vehicle Floorplan Commitment of any Joining Lender (beyond any 
+
+11
+
+such Commitment made pursuant to the express terms of this Amendment) shall be effective without the written consent of such Joining Lender; or
+
+(c)    that requires the written consent of each Lender directly affected thereby pursuant to Section 10.01 of the Credit Agreement and that would directly affect any Joining Lender shall be effective unless such amendment or waiver shall also have received the written consent of such Joining Lender.
+
+3.8
+
+    
+
+Headings
+
+.
+
+ 
+
+Section headings herein are included herein for convenience of reference only and shall not constitute a part hereof for any other purpose or be given any substantive effect.
+
+3.9
+
+    
+
+GOVERNING LAW
+
+. THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+
+3.10    
+
+Counterparts
+
+. This Amendment may be executed in any number of counterparts, each of which when so executed and delivered shall he deemed an original, but all such counterparts together shall constitute but one and the same instrument. Signature pages may be detached from multiple separate counterparts and attached to a single counterpart so that all signature pages are attached to the same document. Delivery of an executed signature page of this Amendment by facsimile transmission or electronic mail shall be as effective as delivery of a manually executed counterpart hereof.
+
+3.11    
+
+Lender Joinder
+
+. As of the 2025 Commitment Increase Effective Date, each of the Persons identified on the signature pages hereto as a Joining Lender (each a “
+
+Joining Lender
+
+”) acknowledges, agrees and confirms, by its execution of this Amendment, (a) it will be deemed to be a party to the Credit Agreement and a “Lender” for all purposes of the Credit Agreement and the other Loan Documents, and shall have all of the obligations of a Lender under the Credit Agreement as if it had executed the Credit Agreement; (b) to be bound by, all of the terms, provisions and conditions contained in the Credit Agreement; (c) its Commitment and Applicable Percentage shall be as set forth on 
+
+Schedule 2.01
+
+ attached as 
+
+Annex B
+
+ hereto; (d) it is sophisticated with respect to decisions to acquire assets of the type represented by its Commitment and either it, or the Person exercising discretion in making its decision to acquire such Commitment, is experienced in acquiring assets of such type; (e) it has received a copy of the Credit Agreement, and has received or has been accorded the opportunity to receive copies of the most recent financial statements delivered pursuant to 
+
+Section 6.01
+
+ thereof, as applicable, and such other documents and information as it deems appropriate to make its own credit analysis and decision to enter into this Amendment and to acquire its Commitment; (f) it will, independently and without reliance upon the Administrative Agent, any other Lender or any of their Related Parties and based on such documents and information as it shall from time to time deem appropriate, continue to make its own decisions in taking or not taking action under or based upon the Credit Agreement, any other Loan Document or any related agreement or any document furnished hereunder or thereunder; (g) it is not primarily engaged in the business of owning or operating automobile dealerships, (h) it is not a Competitor; (i) it has full power and authority, and has taken all action necessary, to execute and deliver this Amendment and to consummate the transactions contemplated hereby and to become a Lender under the Credit Agreement; (j) it has provided the Administrative Agent with its administrative details, together with any documentation required to be delivered pursuant to the terms of the Credit Agreement if such Joining Lender is a Foreign Lender; and (k) it will perform in accordance with their terms all of the obligations which by the terms of the Loan Documents are required to be performed by it as a Lender.
+
+(Signature Pages Follow)
+
+12
+
+IN WITNESS WHEREOF
+
+, the parties hereto have caused this Amendment to be duly executed as of the date first above written.
+
+ASBURY AUTOMOTIVE GROUP, INC.
+
+By:
+
+        /s/ David W. Hult            
+
+Typed Name:    David W. Hult 
+
+Typed Title:    President and Chief Executive Officer
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+NEW VEHICLE BORROWERS:
+
+ASBURY ANT, LLC
+
+ASBURY AR NISS L.L.C.
+
+ASBURY ARLINGTON MB, LLC 
+
+ASBURY ART, LLC
+
+ASBURY ATLANTA AC L.L.C.
+
+ASBURY ATLANTA AU L.L.C.
+
+ASBURY ATLANTA BM L.L.C.
+
+ASBURY ATLANTA CHEV, LLC
+
+ASBURY ATLANTA HON L.L.C.
+
+ASBURY ATLANTA HUND L.L.C.
+
+ASBURY ATLANTA INF L.L.C.
+
+ASBURY ATLANTA INFINITI L.L.C.
+
+ASBURY ATLANTA K L.L.C.
+
+ASBURY ATLANTA LEX L.L.C.
+
+ASBURY ATLANTA NIS II, LLC
+
+ASBURY ATLANTA NIS L.L.C.
+
+ASBURY ATLANTA TOY 2 L.L.C.
+
+ASBURY ATLANTA TOY L.L.C.
+
+ASBURY ATLANTA VB L.L.C.
+
+ASBURY AURORA TOY, LLC
+
+ASBURY AUTOMOTIVE BRANDON, L.P.
+
+ASBURY AUTOMOTIVE ST. LOUIS, L.L.C.
+
+ASBURY AUTOMOTIVE WEST, LLC 
+
+ASBURY CATONSVILLE M, LLC
+
+ASBURY CH MOTORS L.L.C.
+
+ASBURY CLARKSVILLE CBG, LLC
+
+ASBURY CO CDJR, LLC
+
+ASBURY CO GEN, LLC
+
+ASBURY CO HG, LLC
+
+ASBURY CO LEX, LLC
+
+ASBURY CO SUB, LLC 
+
+ASBURY DALLAS MB, LLC
+
+ASBURY DALLAS POR, LLC
+
+ASBURY DALLAS VOL, LLC
+
+ASBURY DELAND HUND, LLC
+
+ASBURY-DELAND IMPORTS, L.L.C.
+
+ASBURY DFW JLR, LLC
+
+ASBURY EASTON T, LLC
+
+ASBURY FORT WORTH MB, LLC
+
+ASBURY GEORGIA TOY, LLC
+
+ASBURY GREELEY SUB, LLC 
+
+ASBURY IN CBG, LLC
+
+ASBURY IN CDJ, LLC
+
+By:
+
+        /s/ David W. Hult            
+
+Typed Name:     David W. Hult
+
+Typed Title:     President and Chief Executive Officer
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+NEW VEHICLE BORROWERS, 
+
+continued
+
+:
+
+ASBURY IN CHEV, LLC 
+
+ASBURY IN FORD, LLC
+
+ASBURY IN HON, LLC
+
+ASBURY IN TOY, LLC
+
+ASBURY INDY CHEV, LLC    
+
+ASBURY JAX AC, LLC
+
+ASBURY JAX HON L.L.C.
+
+ASBURY LAKEWOOD CHEV, LLC
+
+ASBURY LAKEWOOD TOY, LLC
+
+ASBURY LITTLETON JLR, LLC
+
+ASBURY LITTLETON POR, LLC
+
+ASBURY LONGMONT HUND, LLC
+
+ASBURY MS CHEV L.L.C.
+
+ASBURY NOBLESVILLE CDJR, LLC
+
+ASBURY OMK, LLC
+
+ASBURY PLANO LEX, LLC
+
+ASBURY SC JPV L.L.C.
+
+ASBURY SC LEX L.L.C.
+
+ASBURY SC TOY L.L.C.
+
+ASBURY ST. LOUIS LEX L.L.C.
+
+ASBURY ST. LOUIS LR L.L.C.
+
+ASBURY ST. LOUIS M L.L.C.
+
+ASBURY TX AUCTION, LLC
+
+ASBURY TYSONS CBG, LLC
+
+ASBURY TYSONS CDJR, LLC
+
+ASBURY TYSONS T, LLC
+
+ASBURY WESTMINSTER T, LLC
+
+ASBURY WILMINGTON L, LLC
+
+ASBURY WMC, LLC
+
+ASBURY WMV, LLC
+
+CH MOTORS L.L.C.
+
+CHO PARTNERSHIP, LTD.
+
+CN MOTORS L.L.C.
+
+COGGIN CARS L.L.C.
+
+COGGIN CHEVROLET L.L.C.
+
+CROWN CHH L.L.C.
+
+CROWN FDO L.L.C.
+
+CROWN GAC L.L.C.
+
+CROWN GBM L.L.C.
+
+CROWN GDO L.L.C.
+
+CROWN GHO L.L.C.
+
+CROWN GNI L.L.C.
+
+CROWN GVO L.L.C.
+
+By:
+
+        /s/ David W. Hult            
+
+Typed Name:    David W. Hult 
+
+Typed Title:    President and Chief Executive Officer
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+NEW VEHICLE BORROWERS, 
+
+continued
+
+:
+
+CROWN MOTORCAR COMPANY L.L.C.
+
+ASBURY WOODBRIDGE BG, LLC
+
+ASBURY WOODBRIDGE H, LLC
+
+ASBURY WOODBRIDGE K, LLC
+
+AVENUES MOTORS, LTD.
+
+BFP MOTORS L.L.C.
+
+CFP MOTORS L.L.C.
+
+CROWN PBM L.L.C.
+
+CROWN RIA L.L.C.
+
+CROWN RIB L.L.C.
+
+CROWN SNI L.L.C.    
+
+CSA IMPORTS L.L.C.
+
+ESCUDE-NN L.L.C.
+
+ESCUDE-NS L.L.C.
+
+ESCUDE-T L.L.C.
+
+HFP MOTORS L.L.C.
+
+KP MOTORS L.L.C.
+
+LARRY H. MILLER COMPANY – BOUNTIFUL, L.L.C.
+
+LHM ACD, LLC
+
+LHM ACJ, LLC
+
+LHM ADR, LLC
+
+LHM ALH, LLC
+
+LHM AMT, LLC
+
+LHM ANI, LLC
+
+LHM AVW, LLC
+
+LHM BCD, LLC
+
+LHM BSU, LLC
+
+LHM BUC, LLC
+
+LHM CHV, LLC
+
+LHM CTO, LLC
+
+LHM DCJ, LLC
+
+LHM DDR, LLC
+
+LHM DNI, LLC
+
+LHM FLT, LLC
+
+LHM HOB, LLC
+
+LHM HON, LLC
+
+LHM HYN, LLC
+
+LHM LCJ, LLC
+
+LHM LEX, LLC
+
+LHM LFO, LLC
+
+LHM LMD, LLC
+
+LHM MBL, LLC
+
+LHM MNI, LLC
+
+LHM MUR, LLC
+
+By:
+
+        /s/ David W. Hult            
+
+Typed Name:    David W. Hult
+
+Typed Title:    President and Chief Executive Officer
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+NEW VEHICLE BORROWERS, 
+
+continued
+
+:
+
+LHM NHR, LLC
+
+LHM PCD, LLC
+
+LHM PCH, LLC
+
+LHM PEORIA GEN, LLC
+
+LHM PFL, LLC
+
+LHM PNX, LLC
+
+LHM QCH, LLC
+
+LHM QCJ, LLC
+
+LHM RCD, LLC
+
+LHM SCD, LLC
+
+LHM SFL, LLC
+
+LHM SFO, LLC
+
+LHM SHO, LLC    
+
+LHM SWH, LLC
+
+LHM TCD, LLC
+
+LHM TCJ, LLC
+
+LHM TDR, LLC
+
+LHM TSD, LLC
+
+LHM TVW, LLC
+
+LHM UCN, LLC
+
+LHM UCO, LLC
+
+LHM UCS, LLC
+
+MCDAVID AUSTIN-ACRA, L.L.C.
+
+MCDAVID FRISCO-HON, L.L.C.
+
+MCDAVID HOUSTON-NISS, L.L.C.
+
+MCDAVID IRVING-HON, L.L.C.
+
+MCDAVID PLANO-ACRA, L.L.C.
+
+NP MZD L.L.C.
+
+NP VKW L.L.C.
+
+OSBORN/MILLER AUTOMOTIVE, L.L.C.
+
+PRECISION INFINITI, INC.
+
+PRECISION MOTORCARS, INC.
+
+PRECISION NISSAN, INC.
+
+PREMIER NSN L.L.C.
+
+PREMIER PON L.L.C.
+
+PRESTIGE BAY L.L.C.
+
+PRESTIGE TOY L.L.C.
+
+Q AUTOMOTIVE BRANDON FL, LLC 
+
+Q AUTOMOTIVE CUMMING GA, LLC 
+
+Q AUTOMOTIVE FT. MYERS FL, LLC
+
+Q AUTOMOTIVE HOLIDAY FL, LLC 
+
+Q AUTOMOTIVE JACKSONVILLE FL, LLC
+
+Q AUTOMOTIVE KENNESAW GA, LLC
+
+By:
+
+        /s/ David W. Hult            
+
+Typed Name:    David W. Hult 
+
+Typed Title:    President and Chief Executive Officer 
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+NEW VEHICLE BORROWERS, 
+
+continued
+
+:
+
+Q AUTOMOTIVE ORLANDO FL, LLC 
+
+Q AUTOMOTIVE TAMPA FL, LLC
+
+TAMPA HUND, L.P.
+
+TAMPA KIA, L.P.
+
+WTY MOTORS, L.P.
+
+By:
+
+        /s/ David W. Hult            
+
+Typed Name:    David W. Hult 
+
+Typed Title:    President and Chief Executive Officer 
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+USED VEHICLE BORROWERS:
+
+ASBURY AUTOMOTIVE GROUP, INC.
+
+AF MOTORS, L.L.C.
+
+ASBURY ANT, LLC
+
+ASBURY AR NISS L.L.C.
+
+ASBURY ARLINGTON MB, LLC
+
+ASBURY ART, LLC
+
+ASBURY ATLANTA AC L.L.C.
+
+ASBURY ATLANTA AU L.L.C.
+
+ASBURY ATLANTA BM L.L.C.
+
+ASBURY ATLANTA CHEV, LLC
+
+ASBURY ATLANTA FORD, LLC
+
+ASBURY ATLANTA HON L.L.C.
+
+ASBURY ATLANTA HUND L.L.C.
+
+ASBURY ATLANTA INF L.L.C.
+
+ASBURY ATLANTA INFINITI L.L.C.
+
+ASBURY ATLANTA K L.L.C.
+
+ASBURY ATLANTA LEX L.L.C.
+
+ASBURY ATLANTA NIS II, LLC
+
+ASBURY ATLANTA NIS L.L.C.
+
+ASBURY ATLANTA TOY 2 L.L.C.
+
+ASBURY ATLANTA TOY L.L.C.
+
+ASBURY ATLANTA VB L.L.C.
+
+ASBURY AURORA TOY, LLC
+
+ASBURY AUTOMOTIVE BRANDON, L.P.
+
+ASBURY AUTOMOTIVE ST. LOUIS, L.L.C.
+
+ASBURY AUTOMOTIVE WEST, LLC
+
+ASBURY BALTIMORE F, LLC
+
+ASBURY CATONSVILLE M, LLC
+
+ASBURY CH MOTORS L.L.C.
+
+ASBURY CLARKSVILLE CBG, LLC
+
+ASBURY CO CDJR, LLC
+
+ASBURY CO GEN, LLC
+
+ASBURY CO HG, LLC
+
+ASBURY CO LEX, LLC
+
+ASBURY CO SUB, LLC
+
+ASBURY DALLAS MB, LLC
+
+ASBURY DALLAS POR, LLC
+
+ASBURY DALLAS VOL, LLC
+
+ASBURY DELAND HUND, LLC
+
+ASBURY-DELAND IMPORTS, L.L.C.
+
+ASBURY DFW JLR, LLC
+
+ASBURY EASTON T, LLC
+
+ASBURY FCF, LLC
+
+ASBURY FORT WORTH MB, LLC
+
+By:
+
+        /s/ David W. Hult            
+
+Typed Name:    David W. Hult 
+
+Typed Title:    President and Chief Executive Officer
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+USED VEHICLE BORROWERS, 
+
+continued
+
+:
+
+ASBURY FT. WORTH FORD, LLC
+
+ASBURY GEORGIA TOY, LLC
+
+ASBURY GREELEY SUB, LLC 
+
+ASBURY IN CBG, LLC
+
+ASBURY IN CDJ, LLC
+
+ASBURY IN CHEV, LLC     
+
+ASBURY IN FORD, LLC
+
+ASBURY IN HON, LLC
+
+ASBURY IN TOY, LLC
+
+ASBURY INDY CHEV, LLC
+
+ASBURY JAX AC, LLC
+
+ASBURY JAX FORD, LLC
+
+ASBURY JAX HON L.L.C.
+
+ASBURY LAKEWOOD CHEV, LLC
+
+ASBURY LAKEWOOD TOY, LLC
+
+ASBURY LITTLETON JLR, LLC
+
+ASBURY LITTLETON POR, LLC
+
+ASBURY LONGMONT HUND, LLC
+
+ASBURY MS CHEV L.L.C.
+
+ASBURY MS GRAY-DANIELS L.L.C.
+
+ASBURY NOBLESVILLE CDJR, LLC
+
+ASBURY OMK, LLC
+
+ASBURY PLANO LEX, LLC
+
+ASBURY SC JPV L.L.C.
+
+ASBURY SC LEX L.L.C.
+
+ASBURY SC TOY L.L.C.
+
+ASBURY ST. LOUIS LEX L.L.C.
+
+ASBURY ST. LOUIS LR L.L.C.
+
+ASBURY ST. LOUIS M L.L.C.
+
+ASBURY STERLING F, LLC
+
+ASBURY TX AUCTION, LLC
+
+ASBURY TYSONS CBG, LLC
+
+ASBURY TYSONS CDJR, LLC
+
+ASBURY TYSONS T, LLC
+
+ASBURY WESTMINSTER T, LLC
+
+ASBURY WILMINGTON L, LLC
+
+ASBURY WMC, LLC
+
+ASBURY WMV, LLC
+
+ASBURY WOODBRIDGE BG, LLC
+
+ASBURY WOODBRIDGE F, LLC
+
+ASBURY WOODBRIDGE H, LLC
+
+ASBURY WOODBRIDGE K, LLC
+
+AVENUES MOTORS, LTD.
+
+BFP MOTORS L.L.C.
+
+By:
+
+        /s/ David W. Hult            
+
+Typed Name:    David W. Hult 
+
+Typed Title:    President and Chief Executive Officer
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+USED VEHICLE BORROWERS, 
+
+continued
+
+:
+
+CFP MOTORS L.L.C.
+
+CH MOTORS L.L.C.
+
+CHO PARTNERSHIP, LTD.
+
+CN MOTORS L.L.C.
+
+COGGIN CARS L.L.C.
+
+COGGIN CHEVROLET L.L.C.
+
+CROWN CHH L.L.C.
+
+CROWN FDO L.L.C.
+
+CROWN FFO L.L.C.
+
+CROWN GAC L.L.C.
+
+CROWN GBM L.L.C.
+
+CROWN GDO L.L.C.    
+
+CROWN GHO L.L.C.
+
+CROWN GNI L.L.C.
+
+CROWN GVO L.L.C.
+
+CROWN MOTORCAR COMPANY L.L.C.
+
+CROWN PBM L.L.C.
+
+CROWN RIA L.L.C.
+
+CROWN RIB L.L.C.
+
+CROWN SNI L.L.C.
+
+CSA IMPORTS L.L.C.
+
+ESCUDE-NN L.L.C.
+
+ESCUDE-NS L.L.C.
+
+ESCUDE-T L.L.C.
+
+HFP MOTORS L.L.C.
+
+KP MOTORS L.L.C.
+
+LARRY H. MILLER COMPANY – BOUNTIFUL, L.L.C.
+
+LHM ACD, LLC
+
+LHM ACJ, LLC
+
+LHM ADR, LLC
+
+LHM ALH, LLC
+
+LHM AMT, LLC
+
+LHM ANI, LLC
+
+LHM AVW, LLC
+
+LHM BCD, LLC
+
+LHM BSU, LLC
+
+LHM BUC, LLC
+
+LHM CHV, LLC
+
+LHM CTO, LLC
+
+LHM DCJ, LLC
+
+LHM DDR, LLC
+
+LHM DNI, LLC
+
+LHM FLT, LLC
+
+LHM HOB, LLC
+
+By:
+
+        /s/ David W. Hult            
+
+Typed Name:    David W. Hult 
+
+Typed Title:    President and Chief Executive Officer
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+USED VEHICLE BORROWERS, 
+
+continued
+
+:
+
+LHM HON, LLC
+
+LHM HYN, LLC
+
+LHM LCJ, LLC
+
+LHM LEX, LLC
+
+LHM LFO, LLC
+
+LHM LMD, LLC
+
+LHM MBL, LLC
+
+LHM MFD, LLC
+
+LHM MNI, LLC
+
+LHM MUR, LLC
+
+LHM NHR, LLC
+
+LHM PCD, LLC
+
+LHM PCH, LLC
+
+LHM PEORIA GEN, LLC
+
+LHM PFL, LLC
+
+LHM PNX, LLC    
+
+LHM QCH, LLC
+
+LHM QCJ, LLC
+
+LHM RCD, LLC
+
+LHM SCD, LLC
+
+LHM SFL, LLC
+
+LHM SFO, LLC
+
+LHM SHO, LLC
+
+LHM SWH, LLC
+
+LHM TCD, LLC
+
+LHM TCJ, LLC
+
+LHM TDR, LLC
+
+LHM TSD, LLC
+
+LHM TVW, LLC
+
+LHM UCN, LLC
+
+LHM UCO, LLC
+
+LHM UCS, LLC
+
+MCDAVID AUSTIN-ACRA, L.L.C.
+
+MCDAVID FRISCO-HON, L.L.C.
+
+MCDAVID HOUSTON-NISS, L.L.C.
+
+MCDAVID IRVING-HON, L.L.C.
+
+MCDAVID PLANO-ACRA, L.L.C.
+
+NP FLM L.L.C.
+
+NP MZD L.L.C.
+
+NP VKW L.L.C.
+
+OSBORN/MILLER AUTOMOTIVE, L.L.C.
+
+PLANO LINCOLN-MERCURY, INC.
+
+PRECISION INFINITI, INC.
+
+PRECISION MOTORCARS, INC.
+
+By:
+
+        /s/ David W. Hult            
+
+Typed Name:    David W. Hult 
+
+Typed Title:    President and Chief Executive Officer
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+USED VEHICLE BORROWERS, 
+
+continued
+
+:
+
+PRECISION NISSAN, INC.
+
+PREMIER NSN L.L.C.
+
+PREMIER PON L.L.C.
+
+PRESTIGE BAY L.L.C.
+
+PRESTIGE TOY L.L.C.
+
+Q AUTOMOTIVE BRANDON FL, LLC 
+
+Q AUTOMOTIVE CUMMING GA, LLC
+
+Q AUTOMOTIVE FT. MYERS FL, LLC
+
+Q AUTOMOTIVE HOLIDAY FL, LLC 
+
+Q AUTOMOTIVE JACKSONVILLE FL, LLC
+
+Q AUTOMOTIVE KENNESAW GA, LLC
+
+Q AUTOMOTIVE ORLANDO FL, LLC 
+
+Q AUTOMOTIVE TAMPA FL, LLC
+
+TAMPA HUND, L.P.
+
+TAMPA KIA, L.P.
+
+WTY MOTORS, L.P.
+
+By:
+
+        /s/ David W. Hult            
+
+Typed Name:    David W. Hult 
+
+Typed Title:    President and Chief Executive Officer
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+GUARANTORS:
+
+ASBURY AUTOMOTIVE GROUP, INC.
+
+By:
+
+        /s/ David W. Hult            
+
+Typed Name:    David W. Hult 
+
+Typed Title:    President and Chief Executive Officer
+
+SUBISIDIARY GUARANTORS:
+
+AF MOTORS, L.L.C.
+
+ANL, L.P.
+
+ARKANSAS AUTOMOTIVE SERVICES, L.L.C.
+
+ASBURY ANT, LLC
+
+ASBURY AR NISS L.L.C.
+
+ASBURY ARLINGTON MB, LLC
+
+ASBURY ART, LLC
+
+ASBURY ATLANTA AC L.L.C.
+
+ASBURY ATLANTA AU L.L.C.
+
+ASBURY ATLANTA BM L.L.C.
+
+ASBURY ATLANTA CHEV, LLC
+
+ASBURY ATLANTA CHEVROLET L.L.C.
+
+ASBURY ATLANTA FORD, LLC
+
+ASBURY ATLANTA HON L.L.C.
+
+ASBURY ATLANTA HUND L.L.C.
+
+ASBURY ATLANTA INF L.L.C.
+
+ASBURY ATLANTA INFINITI L.L.C.
+
+ASBURY ATLANTA JAGUAR L.L.C.
+
+ASBURY ATLANTA K L.L.C.
+
+ASBURY ATLANTA LEX L.L.C.
+
+ASBURY ATLANTA NIS II, LLC
+
+ASBURY ATLANTA NIS L.L.C.
+
+ASBURY ATLANTA TOY 2 L.L.C.
+
+ASBURY ATLANTA TOY L.L.C.
+
+ASBURY ATLANTA VB L.L.C.
+
+ASBURY ATLANTA VL L.L.C.
+
+ASBURY AURORA TOY, LLC
+
+ASBURY AUTOMOTIVE ARKANSAS DEALERSHIP HOLDINGS L.L.C.
+
+ASBURY AUTOMOTIVE ARKANSAS L.L.C.
+
+ASBURY AUTOMOTIVE ATLANTA II L.L.C.
+
+ASBURY AUTOMOTIVE ATLANTA L.L.C.
+
+ASBURY AUTOMOTIVE BRANDON, L.P.
+
+By:
+
+ /s/ David W. Hult    
+
+Typed Name:    David W. Hult 
+
+Typed Title:    President and Chief Executive Officer
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+SUBSIDIARY GUARANTORS
+
+, continued
+
+:
+
+ASBURY AUTOMOTIVE CENTRAL FLORIDA, L.L.C.
+
+ASBURY AUTOMOTIVE DELAND, L.L.C.
+
+ASBURY AUTOMOTIVE FRESNO L.L.C.
+
+ASBURY AUTOMOTIVE GROUP L.L.C.
+
+ASBURY AUTOMOTIVE JACKSONVILLE GP L.L.C.
+
+ASBURY AUTOMOTIVE JACKSONVILLE, L.P.
+
+ASBURY AUTOMOTIVE MANAGEMENT L.L.C.
+
+ASBURY AUTOMOTIVE MISSISSIPPI L.L.C.
+
+ASBURY AUTOMOTIVE NORTH CAROLINA DEALERSHIP HOLDINGS L.L.C. 
+
+ASBURY AUTOMOTIVE NORTH CAROLINA L.L.C.
+
+ASBURY AUTOMOTIVE NORTH CAROLINA MANAGEMENT L.L.C.
+
+ASBURY AUTOMOTIVE NORTH CAROLINA REAL ESTATE HOLDINGS L.L.C.
+
+ASBURY AUTOMOTIVE OREGON L.L.C.
+
+ASBURY AUTOMOTIVE SOUTHERN CALIFORNIA L.L.C.
+
+ASBURY AUTOMOTIVE ST. LOUIS II L.L.C.
+
+ASBURY AUTOMOTIVE ST. LOUIS, L.L.C.
+
+ASBURY AUTOMOTIVE TAMPA GP L.L.C.
+
+ASBURY AUTOMOTIVE TAMPA, L.P.
+
+ASBURY AUTOMOTIVE TEXAS L.L.C.
+
+ASBURY AUTOMOTIVE TEXAS REAL ESTATE HOLDINGS L.L.C.
+
+ASBURY AUTOMOTIVE WEST, LLC
+
+ASBURY BALTIMORE F, LLC
+
+ASBURY CATONSVILLE M, LLC
+
+ASBURY CH MOTORS L.L.C.
+
+ASBURY CLARKSVILLE CBG, LLC
+
+ASBURY CO CDJR, LLC
+
+ASBURY CO GEN, LLC
+
+ASBURY CO HG, LLC
+
+ASBURY CO LEX, LLC
+
+ASBURY CO SUB, LLC
+
+ASBURY DALLAS MB, LLC
+
+ASBURY DALLAS POR, LLC
+
+ASBURY DALLAS VOL, LLC
+
+ASBURY DELAND HUND, LLC
+
+ASBURY-DELAND IMPORTS, L.L.C.
+
+By:
+
+ /s/ David W. Hult    
+
+Typed Name:    David W. Hult 
+
+Typed Title:    President and Chief Executive Officer
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+SUBSIDIARY GUARANTORS
+
+, continued
+
+:
+
+ASBURY DELAND IMPORTS 2, L.L.C.
+
+ASBURY DFW JLR, LLC
+
+ASBURY EASTON T, LLC
+
+ASBURY FCF, LLC
+
+ASBURY FRESNO IMPORTS L.L.C.
+
+ASBURY FT. WORTH FORD, LLC
+
+ASBURY FORT WORTH MB, LLC
+
+ASBURY GEORGIA TOY, LLC
+
+ASBURY GREELEY SUB, LLC
+
+ASBURY IN CBG, LLC
+
+ASBURY IN CDJ, LLC
+
+ASBURY IN CHEV, LLC
+
+ASBURY IN FORD, LLC
+
+ASBURY IN HON, LLC
+
+ASBURY IN TOY, LLC
+
+ASBURY INDY CHEV, LLC
+
+ASBURY JAX AC, LLC
+
+ASBURY JAX FORD, LLC
+
+ASBURY JAX HOLDINGS, L.P.
+
+ASBURY JAX HON L.L.C.
+
+ASBURY JAX K L.L.C.
+
+ASBURY JAX MANAGEMENT L.L.C.
+
+ASBURY JAX VW L.L.C.
+
+ASBURY LAKEWOOD CHEV, LLC
+
+ASBURY LAKEWOOD TOY, LLC
+
+ASBURY LITTLETON JLR, LLC
+
+ASBURY LITTLETON POR, LLC
+
+ASBURY LONGMONT HUND, LLC
+
+ASBURY MID-ATLANTIC, LLC
+
+ASBURY MS CHEV L.L.C.
+
+ASBURY MS GRAY-DANIELS L.L.C.
+
+ASBURY NO CAL NISS L.L.C.
+
+ASBURY NOBLESVILLE CDJR, LLC
+
+ASBURY OMK, LLC
+
+ASBURY PLANO LEX, LLC
+
+ASBURY RISK SERVICES, LLC
+
+ASBURY SACRAMENTO IMPORTS L.L.C.
+
+ASBURY SC JPV L.L.C.
+
+ASBURY SC LEX L.L.C.
+
+ASBURY SC TOY L.L.C.
+
+ASBURY SO CAL DC L.L.C.
+
+ASBURY SO CAL HON L.L.C.
+
+ASBURY SO CAL NISS L.L.C.
+
+By:
+
+ /s/ David W. Hult        
+
+Typed Name:    David W. Hult 
+
+Typed Title:    President and Chief Executive Officer
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+SUBSIDIARY GUARANTORS
+
+, continued
+
+:
+
+ASBURY SOUTH CAROLINA REAL ESTATE HOLDINGS L.L.C.
+
+ASBURY ST. LOUIS CADILLAC L.L.C.
+
+ASBURY ST. LOUIS FSKR, L.L.C.
+
+ASBURY ST. LOUIS LEX L.L.C.
+
+ASBURY ST. LOUIS LR L.L.C.
+
+ASBURY ST. LOUIS M L.L.C.
+
+ASBURY STERLING F, LLC
+
+ASBURY TAMPA MANAGEMENT L.L.C.
+
+ASBURY TEXAS D FSKR, L.L.C.
+
+ASBURY TEXAS H FSKR, L.L.C.
+
+ASBURY TX AUCTION, LLC
+
+ASBURY TYSONS CBG, LLC
+
+ASBURY TYSONS CDJR, LLC
+
+ASBURY TYSONS T, LLC
+
+ASBURY WESTMINSTER T, LLC
+
+ASBURY WILMINGTON L, LLC
+
+ASBURY WMC, LLC
+
+ASBURY WMV, LLC
+
+ASBURY WOODBRIDGE BG, LLC
+
+ASBURY WOODBRIDGE F, LLC
+
+ASBURY WOODBRIDGE H, LLC
+
+ASBURY WOODBRIDGE K, LLC
+
+ATLANTA REAL ESTATE HOLDINGS L.L.C.
+
+AVENUES MOTORS, LTD.
+
+BAYWAY FINANCIAL SERVICES, L.P.
+
+BFP MOTORS L.L.C.
+
+C & O PROPERTIES, LTD.
+
+CAMCO FINANCE II L.L.C.
+
+CFP MOTORS L.L.C.
+
+CH MOTORS L.L.C.
+
+CHO PARTNERSHIP, LTD.
+
+CK CHEVROLET L.L.C.
+
+CK MOTORS LLC
+
+CN MOTORS L.L.C.
+
+COGGIN AUTOMOTIVE CORP.
+
+COGGIN CARS L.L.C.
+
+COGGIN CHEVROLET L.L.C.
+
+COGGIN MANAGEMENT, L.P.
+
+CP-GMC MOTORS L.L.C.
+
+CROWN ACURA/NISSAN, LLC
+
+CROWN CHH L.L.C.
+
+CROWN CHO L.L.C.
+
+CROWN CHV L.L.C.
+
+By:
+
+        /s/ David W. Hult            
+
+Typed Name:    David W. Hult 
+
+Typed Title:    President and Chief Executive Officer
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+SUBSIDIARY GUARANTORS
+
+, continued
+
+:
+
+CROWN FDO L.L.C.
+
+CROWN FFO HOLDINGS L.L.C.
+
+CROWN FFO L.L.C.
+
+CROWN GAC L.L.C.
+
+CROWN GBM L.L.C.
+
+CROWN GCA L.L.C.
+
+CROWN GDO L.L.C.
+
+CROWN GHO L.L.C.
+
+CROWN GNI L.L.C.
+
+CROWN GPG L.L.C.
+
+CROWN GVO L.L.C.
+
+CROWN HONDA, LLC
+
+CROWN MOTORCAR COMPANY L.L.C.
+
+CROWN PBM L.L.C.
+
+CROWN RIA L.L.C.
+
+CROWN RIB L.L.C.
+
+CROWN SJC L.L.C.
+
+CROWN SNI L.L.C.
+
+CSA IMPORTS L.L.C.
+
+ESCUDE-NN L.L.C.
+
+ESCUDE-NS L.L.C.
+
+ESCUDE-T L.L.C.
+
+FLORIDA AUTOMOTIVE SERVICES L.L.C.
+
+HFP MOTORS L.L.C.
+
+JC DEALER SYSTEMS, LLC
+
+KP MOTORS L.L.C.
+
+LARRY H. MILLER COMPANY – BOUNTIFUL, L.L.C.
+
+LHM ACD, LLC
+
+LHM ACJ, LLC
+
+LHM ADR, LLC
+
+LHM ALH, LLC
+
+LHM AMT, LLC
+
+LHM ANI, LLC
+
+LHM AUTO GP HOLDINGS, LLC
+
+LHM AUTO INTERMEDIATE HOLDINGS I, LLC
+
+LHM AUTO INTERMEDIATE HOLDINGS II, LLC
+
+LHM AVW, LLC
+
+LHM BCD, LLC
+
+LHM BSU, LLC
+
+LHM BUC, LLC
+
+LHM CHV, LLC
+
+LHM COLLISION CSCO, LLC
+
+LHM COLLISION OCC, LLC
+
+LHM CTO, LLC
+
+By:
+
+        /s/ David W. Hult            
+
+Typed Name:    David W. Hult 
+
+Typed Title:    President and Chief Executive Officer
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+SUBSIDIARY GUARANTORS
+
+, continued
+
+:
+
+LHM DCJ, LLC
+
+LHM DDR, LLC
+
+LHM DNI, LLC
+
+LHM FLT, LLC
+
+LHM HOB, LLC
+
+LHM HON, LLC
+
+LHM HYN, LLC
+
+LHM LCJ, LLC
+
+LHM LEX, LLC
+
+LHM LFO, LLC
+
+LHM LMD, LLC
+
+LHM MBL, LLC
+
+LHM MFD, LLC
+
+LHM MNI, LLC
+
+LHM MUR, LLC
+
+LHM NHR, LLC
+
+LHM PCD, LLC
+
+LHM PCH, LLC
+
+LHM PEORIA GEN, LLC
+
+LHM PFL, LLC
+
+LHM PNX, LLC
+
+LHM QCH, LLC
+
+LHM QCJ, LLC
+
+LHM RCD, LLC
+
+LHM SAX, LLC
+
+LHM SCD, LLC
+
+LHM SFL, LLC
+
+LHM SFO, LLC
+
+LHM SHO, LLC
+
+LHM SPO HOLDINGS, LLC
+
+LHM SWH, LLC
+
+LHM TCD, LLC
+
+LHM TCJ, LLC
+
+LHM TDR, LLC
+
+LHM TSD, LLC
+
+LHM TVW, LLC
+
+LHM UCN, LLC
+
+LHM UCO, LLC
+
+LHM UCS, LLC
+
+MCDAVID AUSTIN-ACRA, L.L.C.
+
+MCDAVID FRISCO-HON, L.L.C.
+
+MCDAVID GRANDE, L.L.C.
+
+MCDAVID HOUSTON-HON, L.L.C.
+
+MCDAVID HOUSTON-NISS, L.L.C.
+
+MCDAVID IRVING-HON, L.L.C.
+
+MCDAVID OUTFITTERS, L.L.C.
+
+By:
+
+        /s/ David W. Hult            
+
+Typed Name:    David W. Hult 
+
+Typed Title:    President and Chief Executive Officer
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+SUBSIDIARY GUARANTORS
+
+, continued
+
+:
+
+MCDAVID PLANO-ACRA, L.L.C.
+
+MID-ATLANTIC AUTOMOTIVE SERVICES, L.L.C.
+
+MISSISSIPPI AUTOMOTIVE SERVICES, L.L.C.
+
+MISSOURI AUTOMOTIVE SERVICES, L.L.C.
+
+NP FLM L.L.C.
+
+NP MZD L.L.C.
+
+NP VKW L.L.C.
+
+OSBORN/MILLER AUTOMOTIVE, L.L.C.
+
+PLANO LINCOLN-MERCURY, INC.
+
+PRECISION COMPUTER SERVICES, INC.
+
+PRECISION ENTERPRISES TAMPA, INC.
+
+PRECISION INFINITI, INC.
+
+PRECISION MOTORCARS, INC.
+
+PRECISION NISSAN, INC.
+
+PREMIER NSN L.L.C.
+
+PREMIER PON L.L.C.
+
+PRESTIGE BAY L.L.C.
+
+PRESTIGE TOY L.L.C.
+
+Q AUTOMOTIVE BRANDON FL, LLC
+
+Q AUTOMOTIVE CUMMING GA, LLC
+
+Q AUTOMOTIVE FT. MYERS FL, LLC
+
+Q AUTOMOTIVE GROUP L.L.C.
+
+Q AUTOMOTIVE HOLIDAY FL, LLC
+
+Q AUTOMOTIVE JACKSONVILLE FL, LLC
+
+Q AUTOMOTIVE KENNESAW GA, LLC
+
+Q AUTOMOTIVE ORLANDO FL, LLC
+
+Q AUTOMOTIVE TAMPA FL, LLC
+
+SOUTHERN ATLANTIC AUTOMOTIVE SERVICES, L.L.C.
+
+TAMPA HUND, L.P.
+
+TAMPA KIA, L.P.
+
+TAMPA LM, L.P.
+
+TAMPA MIT, L.P.
+
+TEXAS AUTOMOTIVE SERVICES, L.L.C.
+
+THOMASON AUTO CREDIT NORTHWEST, INC.
+
+THOMASON DAM L.L.C.
+
+THOMASON FRD L.L.C.
+
+THOMASON HUND L.L.C.
+
+THOMASON PONTIAC-GMC L.L.C.
+
+WMZ MOTORS, L.P.
+
+WTY MOTORS, L.P.
+
+By:
+
+ /s/ David W. Hult        
+
+Typed Name:    David W. Hult 
+
+Typed Title:    President and Chief Executive Officer
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+SUBSIDIARY GUARANTORS
+
+, continued
+
+:
+
+LANDCAR GC, LLC
+
+LANDCAR MANAGEMENT, LTD.
+
+By:
+
+ /s/ David W. Hult        
+
+Typed Name:    David W. Hult 
+
+Typed Title:    President
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+BANK OF AMERICA, N.A.
+
+,
+
+ 
+
+as Administrative Agent
+
+By:
+
+        /s/ Linda Lov                
+
+Typed Name:    Linda Lov 
+
+Typed Title:    Vice President
+
+BANK OF AMERICA, N.A.
+
+,
+
+ 
+
+as a Lender, an L/C Issuer, Revolving Swing Line Lender, New Vehicle Swing Line Lender and Used Vehicle Swing Line Lender
+
+By:
+
+        /s/ David T. Smith            
+
+Typed Name:    David T. Smith 
+
+Typed Title:    Senior Vice President
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+TOYOTA MOTOR CREDIT CORPORATION
+
+,
+
+as a Lender
+
+By:
+
+        /s/ Dominic Calcaterra            
+
+Typed Name:    Dominic Calcaterra 
+
+Typed Title:    National Accounts Manager
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+JPMORGAN CHASE BANK, N.A.
+
+, 
+
+as a Lender
+
+By:
+
+        /s/ Adam Sigman            
+
+Typed Name:    Adam Sigman 
+
+Typed Title:    Executive Director
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION
+
+, as a Lender
+
+By:
+
+        /s/ Chad McNeill            
+
+Typed Name:    Chad McNeill 
+
+Typed Title:    Executive Director
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+AMERICAN HONDA FINANCE CORPORATION
+
+,
+
+as a Lender
+
+By:
+
+        /s/ Rich Sauerbaum            
+
+Typed Name:    Rich Sauerbaum 
+
+Typed Title:    DFS Manager
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+MERCEDES-BENZ FINANCIAL SERVICES USA LLC
+
+,
+
+as a Lender
+
+By:
+
+        /s/ Farrah Vaughn-Dixon        
+
+Typed Name:    Farrah Vaughn-Dixon 
+
+Typed Title:    Regional Dealer Credit Manager-National Accounts
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+U.S. BANK NATIONAL ASSOCIATION
+
+,
+
+as a Lender
+
+By:
+
+        /s/ Katherine Taylor            
+
+Typed Name:    Katherine Taylor 
+
+Typed Title:    Vice President
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+SANTANDER BANK, N.A.
+
+,
+
+as a Lender
+
+By:
+
+        /s/ Scott Bernstein            
+
+Typed Name:    Scott Bernstein 
+
+Typed Title:    SVP
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+MASSMUTUAL ASSET FINANCE LLC
+
+, 
+
+as a Lender
+
+By:
+
+        /s/ Donald L. Buttler            
+
+Typed Name:    Donald L. Buttler 
+
+Typed Title:    Managing Director
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+TD BANK, N.A.
+
+, 
+
+as a Lender
+
+By:
+
+        /s/ Kyle Ludeman            
+
+Typed Name:    Kyle Ludeman 
+
+Typed Title:    Market Credit Manager
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+HYUNDAI CAPITAL AMERICA
+
+, 
+
+as a Lender
+
+By:
+
+        /s/ Mark Boik            
+
+Typed Name:    Mark Boik 
+
+Typed Title:    Director
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+BMW FINANCIAL SERVICES NA, LLC
+
+,
+
+as a Lender
+
+By:
+
+        /s/ Aaron Grener            
+
+Typed Name:    Aaron Grener 
+
+Typed Title:    Section Manager
+
+By:
+
+        /s/ Erik Langanke            
+
+Typed Name:    Erik Langanke 
+
+Typed Title:    Department Manager
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+ZIONS BANCORPORATION, N.A.
+
+,
+
+as a Lender
+
+By:
+
+        /s/ Robert Kastelic            
+
+Typed Name:    Robert Kastelic 
+
+Typed Title:    SVP
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+VW CREDIT, INC.
+
+,
+
+as a Lender
+
+By:
+
+        /s/ William J. Binz            
+
+Typed Name:    William J. Binz 
+
+Typed Title:    Sr. Manager – Commercial Credit
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+PNC BANK, NATIONAL ASSOCIATION
+
+,
+
+as a Lender
+
+By:
+
+        /s/ Amy Tallia                
+
+Typed Name:    Amy Tallia 
+
+Typed Title:    SVP
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+NISSAN MOTOR ACCEPTANCE COMPANY LLC
+
+, as a Lender
+
+By:
+
+                            
+
+Typed Name:
+
+                        
+
+Typed Title:
+
+                        
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+COMERICA BANK
+
+, as a Joining Lender and a Lender
+
+By:
+
+        /s/ Steven J. Engel            
+
+Typed Name:    Steven J. Engel 
+
+Typed Title:    Vice President
+
+Asbury Automotive Group, Inc.
+
+FIRST AMENDMENT TO FOURTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+Signature Page
+
+ANNEX A TO AMENDMENT
+
+Commitments to Increase to Aggregate Commitments
+
+See attached.
+
+ 
+
+COMMITMENTS TO 
+
+INCREASE TO AGGREGATE COMMITMENTS
+
+Lender
+
+Commitment
+
+Bank of America, N.A.
+
+$
+
+125,000,000.00
+
+Toyota Motor Credit Corporation
+
+$
+
+115,000,000.00
+
+JPMorgan Chase Bank, N.A.
+
+$
+
+0.00
+
+Wells Fargo Bank, National Association
+
+$
+
+75,000,000.00
+
+American Honda Finance Corporation
+
+$
+
+75,000,000.00
+
+Mercedes-Benz Financial Services USA LLC
+
+$
+
+65,000,000.00
+
+U.S. Bank, National Association
+
+$
+
+0.00
+
+Hyundai Capital America
+
+$
+
+0.00
+
+MassMutual Asset Finance LLC
+
+$
+
+25,000,000.00
+
+Santander Bank, N.A.
+
+$
+
+35,000,000.00
+
+TD Bank, N.A.
+
+$
+
+0.00
+
+BMW Financial Services NA, LLC
+
+$
+
+30,000,000.00
+
+Zions Bancorporation, N.A.
+
+$
+
+10,000,000.00
+
+VW Credit, Inc. 
+
+$
+
+70,000,000.00
+
+PNC Bank, National Association
+
+$
+
+100,000,000.00
+
+Nissan Motor Acceptance Company LLC
+
+$
+
+0.00
+
+Comerica Bank
+
+$
+
+25,000,000.00
+
+Total
+
+$
+
+    750,000,000.00
+
+ 
+
+ANNEX B TO AMENDMENT
+
+Schedule 2.01
+
+Commitments and Applicable Percentages
+
+See attached.
+
+Schedule 2.01
+
+COMMITMENTS AND APPLICABLE PERCENTAGES
+
+ 
+
+Revolving
+
+ 
+
+Commitments
+
+Lender
+
+Commitment
+
+Applicable Revolving Percentage
+
+Bank of America, N.A.
+
+$
+
+140,704,225.35
+
+15.211267605%
+
+Toyota Motor Credit Corporation
+
+$
+
+134,190,140.85
+
+14.507042254%
+
+JPMorgan Chase Bank, N.A.
+
+$
+
+75,563,380.28
+
+8.169014085%
+
+Wells Fargo Bank, National Association
+
+$
+
+95,105,633.80
+
+10.281690141%
+
+American Honda Finance Corporation
+
+$
+
+87,288,732.39
+
+9.436619718%
+
+Mercedes-Benz Financial Services USA LLC
+
+$
+
+82,077,464.79
+
+8.873239437%
+
+U.S. Bank, National Association
+
+$
+
+50,809,859.15
+
+5.492957746%
+
+Hyundai Capital America
+
+$
+
+26,056,338.03
+
+2.816901408%
+
+MassMutual Asset Finance LLC
+
+$
+
+32,570,422.54
+
+3.521126761%
+
+Santander Bank, N.A.
+
+$
+
+35,176,056.34
+
+3.802816902%
+
+TD Bank, N.A.
+
+$
+
+26,056,338.03
+
+2.816901408%
+
+BMW Financial Services NA, LLC
+
+$
+
+32,570,422.54
+
+3.521126761%
+
+Zions Bancorporation, N.A.
+
+$
+
+26,056,338.03
+
+2.816901408%
+
+VW Credit, Inc. 
+
+$
+
+33,873,239.43
+
+3.661971830%
+
+PNC Bank, National Association
+
+$
+
+39,084,507.04
+
+4.225352112%
+
+Nissan Motor Acceptance Company LLC
+
+$
+
+1,302,816.90
+
+0.140845070%
+
+Comerica Bank
+
+$
+
+6,514,084.51
+
+0.704225352%
+
+Total
+
+$
+
+    925,000,000.00
+
+100.000000000%
+
+New Vehicle Floorplan Commitments
+
+Lender
+
+Commitment
+
+Applicable New Vehicle Floorplan Percentage
+
+Bank of America, N.A.
+
+$
+
+342,253,521.13
+
+15.211267606%
+
+Toyota Motor Credit Corporation
+
+$
+
+  326,408,450.70
+
+14.507042253%
+
+JPMorgan Chase Bank, N.A.
+
+$
+
+  183,802,816.90
+
+8.169014084%
+
+Wells Fargo Bank, National Association
+
+$
+
+  231,338,028.17
+
+10.281690141%
+
+American Honda Finance Corporation
+
+$
+
+  212,323,943.67
+
+9.436619719%
+
+Mercedes-Benz Financial Services USA LLC
+
+$
+
+  199,647,887.32
+
+8.873239436%
+
+U.S. Bank, National Association
+
+$
+
+  123,591,549.30
+
+5.492957747%
+
+Hyundai Capital America
+
+$
+
+  63,380,281.69
+
+2.816901408%
+
+MassMutual Asset Finance LLC
+
+$
+
+  79,225,352.11
+
+3.521126760%
+
+Santander Bank, N.A.
+
+$
+
+  85,563,380.28
+
+3.802816901%
+
+TD Bank, N.A.
+
+$
+
+  63,380,281.69
+
+2.816901408%
+
+BMW Financial Services NA, LLC
+
+$
+
+  79,225,352.11
+
+3.521126760%
+
+Zions Bancorporation, N.A.
+
+$
+
+  63,380,281.69
+
+2.816901408%
+
+VW Credit, Inc. 
+
+$
+
+  82,394,366.20
+
+3.661971831%
+
+PNC Bank, National Association
+
+$
+
+  95,070,422.54
+
+4.225352113%
+
+Nissan Motor Acceptance Company LLC
+
+$
+
+  3,169,014.08
+
+0.140845070%
+
+Comerica Bank
+
+$
+
+  15,845,070.42
+
+0.704225352%
+
+Total
+
+$
+
+2,250,000,000.00
+
+100.000000000%
+
+Used Vehicle Floorplan Commitments
+
+Lender
+
+Commitment
+
+Applicable Used Vehicle Floorplan Percentage
+
+Bank of America, N.A.
+
+$
+
+ 57,042,253.52
+
+15.211267605%
+
+Toyota Motor Credit Corporation
+
+$
+
+54,401,408.45
+
+14.507042253%
+
+JPMorgan Chase Bank, N.A.
+
+$
+
+30,633,802.82
+
+8.169014085%
+
+Wells Fargo Bank, National Association
+
+$
+
+38,556,338.03
+
+10.281690141%
+
+American Honda Finance Corporation
+
+$
+
+35,387,323.94
+
+9.436619717%
+
+Mercedes-Benz Financial Services USA LLC
+
+$
+
+33,274,647.89
+
+8.873239437%
+
+U.S. Bank, National Association
+
+$
+
+20,598,591.55
+
+5.492957747%
+
+Hyundai Capital America
+
+$
+
+10,563,380.28
+
+2.816901408%
+
+MassMutual Asset Finance LLC
+
+$
+
+13,204,225.35
+
+3.521126761%
+
+Santander Bank, N.A.
+
+$
+
+14,260,563.38
+
+3.802816901%
+
+TD Bank, N.A.
+
+$
+
+10,563,380.28
+
+2.816901408%
+
+BMW Financial Services NA, LLC
+
+$
+
+13,204,225.35
+
+3.521126760%
+
+Zions Bancorporation, N.A.
+
+$
+
+10,563,380.28
+
+2.816901408%
+
+VW Credit, Inc. 
+
+$
+
+13,732,394.37
+
+3.661971832%
+
+PNC Bank, National Association
+
+$
+
+15,845,070.42
+
+4.225352112%
+
+Nissan Motor Acceptance Company LLC
+
+$
+
+528,169.02
+
+0.140845072%
+
+Comerica Bank
+
+$
+
+2,640,845.07
+
+0.704225352%
+
+Total
+
+$
+
+    375,000,000.00
+
+100.000000000%
+
+Aggregate
+
+ 
+
+Commitments
+
+Lender
+
+Commitment
+
+Applicable Percentage
+
+Bank of America, N.A.
+
+$
+
+540,000,000.00
+
+15.211267606%
+
+Toyota Motor Credit Corporation
+
+$
+
+515,000,000.00
+
+14.507042254%
+
+JPMorgan Chase Bank, N.A.
+
+$
+
+290,000,000.00
+
+8.169014085%
+
+Wells Fargo Bank, National Association
+
+$
+
+365,000,000.00
+
+10.281690141%
+
+American Honda Finance Corporation
+
+$
+
+335,000,000.00
+
+9.436619718%
+
+Mercedes-Benz Financial Services USA LLC
+
+$
+
+315,000,000.00
+
+8.873239437%
+
+U.S. Bank, National Association
+
+$
+
+195,000,000.00
+
+5.492957746%
+
+Hyundai Capital America
+
+$
+
+100,000,000.00
+
+2.816901408%
+
+MassMutual Asset Finance LLC
+
+$
+
+125,000,000.00
+
+3.521126761%
+
+Santander Bank, N.A.
+
+$
+
+135,000,000.00
+
+3.802816901%
+
+TD Bank, N.A.
+
+$
+
+100,000,000.00
+
+2.816901408%
+
+BMW Financial Services NA, LLC
+
+$
+
+125,000,000.00
+
+3.521126761%
+
+Zions Bancorporation, N.A.
+
+$
+
+100,000,000.00
+
+2.816901408%
+
+VW Credit, Inc. 
+
+$
+
+130,000,000.00
+
+3.661971831%
+
+PNC Bank, National Association
+
+$
+
+150,000,000.00
+
+4.225352113%
+
+Nissan Motor Acceptance Company LLC
+
+$
+
+5,000,000.00
+
+0.140845070%
+
+Comerica Bank
+
+$
+
+25,000,000.00
+
+0.704225352%
+
+Total
+
+$
+
+    3,550,000,000.00
+
+100.000000000%

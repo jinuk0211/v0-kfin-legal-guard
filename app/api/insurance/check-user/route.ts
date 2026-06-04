@@ -1,17 +1,7 @@
 import { NextRequest, NextResponse } from "next/server"
 import { saveSession } from "@/lib/session-store"
+import { findRegisteredUser } from "@/lib/db/registered-user"
 import { randomUUID } from "crypto"
-
-// Simple in-memory user store (replace with DB in production)
-const userStore = new Map<string, { id: string; pw: string; savedAt: string }>()
-
-export function findUser(phoneNo: string, birthDate: string) {
-  return userStore.get(`${phoneNo}_${birthDate}`) ?? null
-}
-
-export function saveUser(phoneNo: string, birthDate: string, id: string, pw: string) {
-  userStore.set(`${phoneNo}_${birthDate}`, { id, pw, savedAt: new Date().toISOString() })
-}
 
 export async function POST(req: NextRequest) {
   try {
@@ -21,11 +11,11 @@ export async function POST(req: NextRequest) {
     }
 
     const clean = phoneNo.replace(/-/g, "")
-    const existing = findUser(clean, birthDate)
+    const existing = await findRegisteredUser(clean, birthDate)
 
     if (existing) {
       const sessionId = randomUUID()
-      saveSession(sessionId, {
+      await saveSession(sessionId, {
         baseParams: {
           organization: "0001",
           userName,

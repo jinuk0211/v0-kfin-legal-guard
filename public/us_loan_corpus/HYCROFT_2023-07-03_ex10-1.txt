@@ -1,0 +1,1246 @@
+EX-10.1
+
+2
+
+ex10-1.htm
+
+ 
+
+ 
+
+Exhibit 10.1
+
+ 
+
+SECOND
+AMENDMENT TO SECOND AMENDED AND RESTATED CREDIT AGREEMENT
+
+ 
+
+THIS
+SECOND AMENDMENT TO SECOND AMENDED AND RESTATED CREDIT AGREEMENT
+ dated as of and effective from the 1
+st
+ day of July, 2023
+(this “
+Agreement
+”)
+
+ 
+
+BETWEEN:
+
+ 
+
+HYCROFT
+MINING HOLDING CORPORATION
+
+, a corporation organized
+and existing under the laws of Delaware
+
+ 
+
+(hereinafter
+referred to as the “
+Borrower
+”)
+
+ 
+
+AND:
+
+AUXAG
+MINING CORPORATION
+, a corporation organized and existing under the laws of Delaware
+
+ 
+
+(hereinafter
+referred to as “
+MUDS Holdco
+”)
+
+ 
+
+AUTAR
+GOLD CORPORATION,
+ a corporation organized and existing under the laws of Delaware
+
+ 
+
+(hereinafter
+referred to as “
+MUDS Acquisition
+”)
+
+ 
+
+HYCROFT
+RESOURCES & DEVELOPMENT, LLC
+, a limited liability company organized and existing under the laws of Delaware
+
+ 
+
+(hereinafter
+referred to as “
+Hycroft Resources
+”)
+
+ 
+
+ALLIED
+VGH LLC
+, a limited liability company organized and existing under the laws of Delaware
+
+ 
+
+(hereinafter
+referred to as “
+Allied VGH
+”, and together with MUDS Holdco, MUDS Acquisition and Hycroft Resources, the “
+Original
+Guarantors
+”)
+
+ 
+
+AND:
+
+ 
+
+SPROTT
+PRIVATE RESOURCE LENDING II (COLLECTOR), LP
+, a limited partnership organized and existing under the laws of the Province of Ontario
+
+ 
+
+(hereinafter
+referred to as the “
+Lender
+”)
+
+ 
+
+AND:
+
+SPROTT
+RESOURCE LENDING CORP.
+
+ 
+
+(hereinafter
+referred to as the “
+Arranger
+”)
+
+ 
+
+ 
+
+ 
+
+ 
+
+-
+2
+-
+
+ 
+
+ 
+
+BACKGROUND
+
+ 
+
+WHEREAS
+
+Hycroft Mining Corporation (as borrower) (the “
+Original Hycroft Borrower
+”), Hycroft Resources (as guarantor),
+Allied VGH (as guarantor), the Lender and the Arranger entered into a credit agreement dated as of October 4, 2019, as amended by the
+first amendment to credit agreement dated as of January 18, 2020 (collectively, the “
+Original Hycroft Credit Agreement
+”)
+pursuant to which the Arranger arranged and the Lender agreed to establish a senior secured credit facility in favour of the Original
+Hycroft Borrower in the principal amount of up to $110,000,000, on and subject to the terms and conditions therein set forth.
+
+ 
+
+AND
+WHEREAS
+ the Borrower assumed all obligations of the Original Hycroft Borrower under the Original Hycroft Credit Agreement pursuant
+to the Borrower Assignment and Transfer Agreement and became the new borrower under the amended and restated credit agreement dated as
+of May 29, 2020 between the Borrower, the Guarantors, the Lender and the Arranger (the “
+First ARCA
+”).
+
+ 
+
+AND
+WHEREAS
+ the Borrower, the Guarantors, the Lender and the Arranger amended and restated the First ARCA on the terms and conditions
+set out in the second amended and restated credit agreement dated as of March 30, 2022 between the Borrower, the Guarantors, the Lender
+and the Arranger (the “
+Second ARCA
+”).
+
+ 
+
+AND
+WHEREAS
+ the Borrower, the Guarantors, the Lender and the Arranger first amended the Second ARCA on the terms and conditions set out
+in a letter agreement dated April 21, 2022 between the Borrower, the Guarantors and the Lender.
+
+ 
+
+AND
+WHEREAS,
+ the Borrower, the Guarantors, the Lender and the Arranger wish to further amend certain provisions of the Second ARCA to
+correct a cross-reference error in Section 9.1(c) of the Second ARCA and to implement the replacement of LIBOR with three-month Term
+SOFR, effective July 1, 2023, pursuant to the terms and conditions of this Agreement.
+
+ 
+
+AGREEMENTS
+
+ 
+
+NOW
+THEREFORE THIS AGREEMENT WITNESSES 
+that, in consideration of the mutual covenants and agreements contained herein, the parties covenant
+and agree as follows:
+
+ 
+
+ARTICLE
+1
+
+DEFINED TERMS
+
+ 
+
+1.1
+Capitalized Terms
+. All capitalized terms used herein without being specifically defined herein shall have the meanings ascribed thereto
+in the Second ARCA.
+
+ 
+
+ARTICLE
+2
+
+AMENDMENTS TO SECOND ARCA
+
+ 
+
+2.1
+General Rule
+. Subject to the terms and conditions herein contained, the Second ARCA is hereby amended to the extent necessary to
+give effect to the provisions of this Agreement and to incorporate the provisions of this Agreement into the Second ARCA.
+
+ 
+
+2.2
+Event of Default Correction
+. Section 9.1(c) of the Second ARCA is hereby amended and restated in its entirety as follows:
+
+ 
+
+“(c)
+if any Credit Party defaults in observing or performing any covenant or condition set out in ‎Sections 8.1(q), 8.1(r), 8.1(aa) or
+Section 8.2;”.
+
+ 
+
+ 
+
+ 
+
+ 
+
+-
+3
+-
+
+ 
+
+ 
+
+2.3
+Definitions
+.
+
+ 
+
+(a)
+The definition of “Business Day” set forth in Section 1.1 of the Second ARCA is hereby amended and restated in its entirety
+as follows:
+
+ 
+
+““
+Business
+Day
+” means:
+
+ 
+
+(a)
+
+for
+ all purposes other than as covered by (b), any day other than a Saturday, Sunday or other
+ day on which commercial banks in Toronto, Ontario or Denver, Colorado are authorized or required
+ by law to be closed for business; and
+
+ 
+
+(b)
+
+with
+ respect to all notices and determinations in connection with, and payments of principal and
+ interest on, Advances, any day other than (i) a Saturday, (ii) a Sunday, or (iii) a day on
+ which the Securities Industry and Financial Markets Association recommends that the fixed
+ income departments of its members be closed for the entire day for purposes of trading in
+ United States government securities;”.
+
+ 
+
+(b)
+The definition of “Interest Period” set forth in Section 1.1 of the Second ARCA is hereby amended and restated in its entirety
+as follows:
+
+ 
+
+““
+Interest
+Period
+” means, initially, the period commencing on the First Tranche Closing Date and ending on the last day of the calendar
+month in which the First Tranche Advance is made, and thereafter each successive calendar month; provided that, in any case, (i) if any
+Interest Period would otherwise end on a day that is not a Business Day, such Interest Period shall be extended to the next succeeding
+Business Day unless the result of such extension would be to carry such Interest Period into another calendar month, in which event such
+Interest Period shall end on the immediately preceding Business Day, (ii) no Interest Period shall extend beyond the Maturity Date and
+(iii) any Interest Period that begins on the last Business Day of a calendar month (or on a day for which there is no numerically corresponding
+day in the calendar month at the end of such Interest Period) shall end on the last Business Day of a calendar month;”.
+
+ 
+
+(c)
+The definition of “
+LIBOR
+” set forth in Section 1.1 of the Second ARCA is hereby deleted in its entirety.
+
+ 
+
+(d)
+The definition of “
+London Banking Day
+” set forth in Section 1.1 of the Second ARCA is hereby deleted in its entirety.
+
+ 
+
+(e)
+Section 1.1 of the Second ARCA is hereby amended by inserting the following definitions in alphabetical order in that section:
+
+ 
+
+“
+Adjusted
+Term SOFR
+” means, for purposes of any calculation, the rate per annum equal to (a) Term SOFR for such calculation, plus (b)
+the Term SOFR Adjustment;
+
+ 
+
+“
+Applicable
+Margin
+” means, with respect to an Advance, 7.00% per annum;
+
+ 
+
+“
+Floor
+”
+means 1.50% per annum;
+
+ 
+
+“
+SOFR
+”
+means a rate per annum equal to the secured overnight financing rate for such Business Day published by the Federal Reserve Bank of New
+York (or a successor administrator of the secured overnight financing rate) on the website of the Federal Reserve Bank of New York, currently
+at http://www.newyorkfed.org (or any successor source for the secured overnight financing rate identified as such by the administrator
+of the secured overnight financing rate from time to time);
+
+ 
+
+ 
+
+ 
+
+ 
+
+-
+4
+-
+
+ 
+
+ 
+
+“
+Term
+SOFR
+” means, for any Interest Period, the Term SOFR Reference Rate for a three month tenor on the day (such day, the “
+Periodic
+Term SOFR Determination Day
+”) that is one Business Day prior to the first day of such Interest Period, as such rate is published
+by the Term SOFR Administrator; provided, however, if as of 5:00 p.m. (New York City time) on any Periodic Term SOFR Determination Day
+the Term SOFR Reference Rate for a three-month tenor has not been published by the Term SOFR Administrator, then Term SOFR will be the
+Term SOFR Reference Rate for a three-month tenor as published by the Term SOFR Administrator on the first Business Day of such Interest
+Period for which such Term SOFR Reference Rate for a three-month tenor was published by the Term SOFR Administrator; 
+provided that
+,
+if Term SOFR determined as provided above shall ever be less than the Floor for any Interest Period, then Term SOFR shall be deemed to
+be the Floor for such Interest Period;
+
+ 
+
+“
+Term
+SOFR Adjustment
+” means 0.26161% per annum;
+
+ 
+
+“
+Term
+SOFR Administrator
+” means CME Group Benchmark Administration Limited (CBA) (or a successor administrator of the Term SOFR Reference
+Rate selected by the Lender in its reasonable discretion);
+
+ 
+
+“
+Term
+SOFR Reference Rate
+” means the forward-looking term rate based on SOFR;
+
+ 
+
+2.4
+Interest
+.
+
+ 
+
+(a)
+Section 2.7 of the Second ARCA is hereby amended and restated in its entirety as follows:
+
+ 
+
+ 
+ 
+
+ 
+
+“2.7
+
+ 
+
+Interest shall accrue on the outstanding principal amount of
+the Facility from and including the date of each Advance, as well as on all overdue amounts outstanding in respect of interest, costs
+or other fees, expenses or other amounts payable under the Facility Documents, in each case at a floating rate equal to Adjusted Term
+SOFR for the applicable Interest Period plus the Applicable Margin, accruing daily, calculated and compounded monthly on the last day
+of each Interest Period, and be payable in arrears on the last Business Day of each Interest Period (each an “
+Interest Payment
+Date
+”) by the Borrower by way of wire transfer, net of all applicable Taxes, as well as after each of maturity, default and
+judgment.
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+If 
+the
+ Term SOFR Reference Rate for a three-month tenor is not determinable at the relevant time, whether by virtue of any disruption,
+ replacement or abandonment of SOFR or otherwise, the applicable reference rate as used above for the determination of the applicable
+ rate of interest payable by the Borrower pursuant to this Section 2.7 shall be determined by the Lender in its sole discretion
+ acting reasonably so as to most closely approximate the Term SOFR Reference Rate to the extent possible.”.
+
+ 
+
+(b)
+The last sentence of Section 2.13 of the Second ARCA is hereby amended and restated in its entirety as follows:
+
+ 
+
+“The
+parties hereto acknowledge and agree that when Adjusted Term SOFR is used herein as a reference rate and that while such reference rate
+is based on the three-month Term SOFR rate, such rate shall be reset to the prevailing three-month Term SOFR rate as of the day which
+is one Business Day prior to the first day of each Interest Period.”.
+
+ 
+
+ 
+
+ 
+
+ 
+
+-
+5
+-
+
+ 
+
+ 
+
+ARTICLE
+3
+
+CONDITIONS PRECEDENT
+
+ 
+
+3.1
+Conditions Precedent
+. This Agreement shall not become effective unless and until the date when the following conditions are met or
+waived by the Lender in writing:
+
+ 
+
+(i)
+the parties hereto shall have executed and delivered this Agreement; and
+
+ 
+
+(ii)
+the Borrower and the Guarantors shall have delivered any other documentation or certificates the Lender may reasonably request.
+
+ 
+
+ARTICLE
+4
+
+MISCELLANEOUS
+
+ 
+
+4.1
+Future References to the Second ARCA
+. On and after the date of this agreement, each reference in the Second ARCA to “this agreement”,
+“hereunder”, “hereof’, or words of like import referring to the Second ARCA, and each reference in any related
+document to the “Credit Agreement”, “thereunder”, “thereof’, or words of like import referring to
+the Second ARCA, shall mean and be a reference to the Second ARCA as amended hereby. The Second ARCA, as amended hereby, is and shall
+continue to be in full force and effect and is ratified and confirmed in all respects.
+
+ 
+
+4.2
+Governing Law
+. This Agreement shall be governed by, construed and enforced in accordance with the laws of the Province of Ontario
+and the federal laws of Canada applicable therein and shall be treated in all respects as an Ontario contract.
+
+ 
+
+4.3
+Choice of Law and Jury Trial Waiver
+. SECTION 1.10 OF THE CREDIT AGREEMENT IS INCORPORATED HEREIN BY THIS REFERENCE 
+MUTATIS MUTANDIS
+.
+
+ 
+
+4.4
+Inurement
+. This Agreement shall inure to the benefit of and shall be binding upon the Borrower, the Guarantors, the Lender and the
+Arranger and their respective successors and permitted assigns.
+
+ 
+
+4.5
+Conflict
+. If any provision of this Agreement is inconsistent or conflicts with any provision of the Credit Agreement, the relevant
+provision of this Agreement shall prevail and be paramount.
+
+ 
+
+4.6
+Further Assurances
+. The Borrower and the Guarantors shall do, execute and deliver or shall cause to be done, executed and delivered
+all such further acts, documents and things as the Administrative Agent may reasonably request for the purpose of giving effect to this
+Agreement and to each and every provision hereof.
+
+ 
+
+4.7
+Counterparts
+. This Agreement may be executed in one or more counterparts, each of which shall be deemed to be an original and all
+of which taken together shall be deemed to constitute one and the same instrument.
+
+ 
+
+[The
+remainder of this page is intentionally left blank.]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF
+ the parties hereto have executed this Agreement under the hands of their proper officers duly authorized in that
+behalf.
+
+ 
+
+ 
+
+ 
+
+HYCROFT
+ MINING HOLDING CORPORATION
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Stanton Rideout
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Stanton
+ Rideout
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Executive
+ Vice President and Chief Financial Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HYCROFT
+ RESOURCES & DEVELOPMENT, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Stanton Rideout
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Stanton
+ Rideout
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Executive
+ Vice President and Chief Financial Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ALLIED
+ VGH LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Stanton Rideout
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Stanton
+ Rideout
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Executive
+ Vice President and Chief Financial Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AUTAR
+ GOLD CORPORATION‎
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Stanton Rideout
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Stanton
+ Rideout
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Executive
+ Vice President and Chief Financial Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+‎
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AUXAG
+ MINING CORPORATION
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Stanton Rideout
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Stanton
+ Rideout
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Executive
+ Vice President and Chief Financial Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signature
+Page to Second Amendment to Second Amended and Restated Credit Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SPROTT
+ PRIVATE RESOURCE LENDING II (COLLECTOR), LP, by
+ its general partner, SPROTT RESOURCE LENDING CORP.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Per:
+
+ 
+
+/s/
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Authorized
+ Signatory
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Per:
+
+ 
+
+/s/
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Authorized
+ Signatory
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SPROTT
+ RESOURCE LENDING CORP.
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Per:
+
+ 
+
+/s/
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Authorized
+ Signatory
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Per:
+
+ 
+
+/s/
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Authorized
+ Signatory
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signature
+Page to Second Amendment to Second Amended and Restated Credit Agreement

@@ -1,0 +1,572 @@
+EX-10.5
+
+2
+
+ex10-5.htm
+
+EX-10.5
+
+ 
+
+ 
+
+Exhibit 10.5
+
+ 
+
+Banzai
+International, Inc.
+
+435
+Ericksen Ave., Suite 250
+
+Bainbridge
+Island, WA 98110
+
+ 
+
+October
+10, 2025
+
+ 
+
+CP
+BF Lending, LLC
+
+1910
+Fairview Ave.
+
+Suite
+200, Seattle WA 98105
+
+Attention:
+Brad Shain
+
+ 
+
+Mr.
+Shain,
+
+ 
+
+This
+letter agreement (this “
+Letter Agreement
+”) is to document an understanding between CP BF Lending, LLC, a Delaware
+limited liability company (“
+Lender
+”), and Banzai International, Inc., a Delaware corporation (“
+Borrower
+”),
+with regard to its proposed amendment of that certain Loan Agreement, dated as of February 19, 2021 (as amended or otherwise modified
+from time to time prior to the date hereof, the “
+Loan Agreement
+”) among Lender, Borrower, Demio Holdings, Inc. (“
+Demio
+”),
+Banzai Operating Co LLC (“
+Operating
+” and together with Demio, the “
+Guarantors
+”). Capitalized terms
+not defined herein shall have the meaning given them in the Loan Agreement.
+
+ 
+
+On
+September 23, 2024, Borrower, Guarantors, and Lender entered into that certain Second Amendment to Loan Agreement whereby Borrower and
+Lender agreed to consolidate previously outstanding debt into a single convertible note (the “
+2024 CP BF Convertible Note
+”).
+As of October 1, 2025, there is an aggregate of $6,861,926.46 outstanding under the 2024 CP BF Convertible Note. Borrower currently has
+222,367 shares of class A common stock, par value $0.0001 (the “
+Class A Common Stock
+”) registered on Form S-1 with
+registration number 333-282306 (the “
+Registered Shares
+”).
+
+ 
+
+Borrower,
+Guarantors, and Lender each desire to amend certain provisions of the Loan Agreement and 2024 CP BF Convertible Note on the terms and
+conditions set forth in this Letter Agreement, and agree as follows:
+
+ 
+
+Conversion
+Price Adjustment and Initial Conversion
+
+ 
+
+The
+2024 CP BF Convertible Note (and related Loan Documents) are hereby amended to reduce the Conversion Price (as defined in the 2024 CP
+BF Convertible Note) to a price equal to 95% of the price of the Class A Common Stock on the trading day (each a “
+Trading Day
+”)
+immediately preceding delivery of any Conversion Notice, as that term is defined in the 2024 CP BF Convertible Note (the “
+Conversion
+Price Adjustment
+” and the “
+Adjusted Conversion Price
+”, respectively), subject to a floor price of $2.50
+(the “
+Floor Price
+”).
+
+ 
+
+Subject
+to the conditions set forth herein, Lender shall take commercially reasonable actions to partially convert the Loans into the Registered
+Shares at the Adjusted Conversion Price, in accordance with the terms of the Loan Agreement as modified herein (the “
+Initial
+Conversion
+”). On any given Trading Day, Lender shall not sell (and shall not be obligated to partially convert the Loans into)
+Registered Shares in an amount exceeding five percent (5%) of the average daily composite trading volume of Borrower’s Class A
+Common Stock as reported by Bloomberg, LP on the immediately preceding Trading Day (the “
+Trading Limit
+”). Borrower
+may, in its sole discretion, waive or modify the Trading Limit upon written notice to Lender. Lender shall not be obligated to convert
+the Loan into Registered Shares if the issuance of such shares of Common Stock would exceed the aggregate number of shares of Common
+Stock which Borrower may issue upon conversion of the 2024 CP BF Convertible Note without breaching Borrower’s obligations under
+the rules or regulations of the NASDAQ Market (the number of shares which may be issued without violating such rules and regulations,
+including rules related to the aggregate of offerings under NASDAQ Listing Rule 5635(d), the “
+Exchange Cap
+”), except
+that such limitation shall not apply in the event that Borrower (A) obtains the approval of its stockholders as required by the applicable
+rules of the NASDAQ Market for issuances of shares of Common Stock in excess of such amount or (B) obtains a written opinion from counsel
+to Borrower that such approval is not required, which opinion shall be reasonably satisfactory to the Holder.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Initial
+Suspension Period
+
+ 
+
+Beginning
+on the date of this Letter Agreement and continuing for until the earlier of (a) sixty (60) days following the date of this Letter Agreement
+and (b) the receipt by Borrower following the date of this Letter Agreement of $10,000,000 in proceeds for the issuance by Borrower of
+Capital Stock (such period, the “
+Suspension Period
+”), Borrower’s obligation under 
+Section 3.2.3
+ of the
+Loan Agreement shall be suspended and be of no effect with regard to the issuance of Capital Stock during the Suspension Period, provided
+that, subject to the Subsequent Suspension Period (defined below), at the end of the Suspension Period, Borrower’s obligation under
+
+Section 3.2.3
+ of the Loan Agreement with regard to the issuance of Capital Stock following the Suspension Period shall resume
+and be in full force and effect and Borrower shall thereafter pay to Lender the Net Cash Proceed from the issuance of Capital Stock as
+required by 
+Section 3.2.3
+ of the Loan Agreement within five (5) business days of the receipt thereof by Lender.
+
+ 
+
+Registration
+of Additional Shares for Conversion
+
+ 
+
+Within
+60 days of this Letter Agreement: (a) Borrower shall reserve and make available a pool of shares of its Class A Common Stock in an amount
+sufficient to fully convert 120% of the then outstanding principal balance of the 2024 CP BF Convertible Note at the then current Adjusted
+Conversion Price (the “
+Additional Shares
+”) to be issuable upon conversion of the 2024 CP BF Convertible Note commencing
+on January 2, 2026 (the “
+Commencement Date
+”); and (b) Borrower shall prepare and file with the Securities and Exchange
+Commission (the “
+SEC
+”) a registration statement on Form S-1 (the “
+Registration Statement
+”) covering
+the resale of all of the Adjustment Shares. Borrower shall use its commercially reasonable best efforts to cause the Registration Statement
+to be declared effective by the SEC as promptly as practicable after filing (the date of such date being the “
+Registration Date
+”),
+and to keep the Registration Statement continuously effective under the Securities Act of 1933, as amended and the rules and regulations
+promulgated thereunder (the “
+Securities Act
+”) until the date on which all Additional Shares covered by the Registration
+Statement (i) have been sold pursuant thereto or (ii) may be sold without restriction under Rule 144 under the Securities Act.
+
+ 
+
+3i
+Loan, Conversion of Additional Shares and Subsequent Suspension Period
+
+ 
+
+On
+or before December 31, 2025, Borrower shall use their commercially reasonable efforts to enter into a convertible note with 3i, LP (the
+“
+3i Loan
+”, respectively) in an amount not to exceed $3,500,000. Borrower will use the net proceeds of the 3i Loan
+to partially prepay the 2024 CP BF Convertible Note in an amount not less than $3,000,000 (the “
+Specified Prepayment
+”).
+Absent an Event of Default, Lender shall refrain from converting the balance of the 2024 CP BF Convertible Note into Additional Shares
+beginning on the date of this Letter Agreement and continuing until the later of (a) December 31, 2025 and (b) if the Specified Prepayment
+is received prior to December 31, 2025, 60 days following the receipt of the Specified Prepayment, and thereafter, Lender shall be free
+to convert any outstanding balance of the 2024 CP BF Convertible Note. The conversion to and sale of the Additional Shares shall be subject
+to the Trading Limit.
+
+ 
+
+Beginning
+on Lender’s receipt of the Specified Prepayment on or before December 31, 2025 and continuing for until the earlier of (a) sixty
+(60) days following such Specified Prepayment and (b) the receipt by Borrower following such Specified Prepayment of $10,000,000 in proceeds
+for the issuance by Borrower of Capital Stock (such period, the “
+Subsequent Suspension Period
+”), Borrower’s
+obligation under 
+Section 3.2.3
+ of the Loan Agreement shall be suspended and be of no effect with regard to the issuance of Capital
+Stock during the Subsequent Suspension Period, provided that, at the end of the Subsequent Suspension Period, Borrower’s obligation
+under 
+Section 3.2.3
+ of the Loan Agreement with regard to the issuance of Capital Stock following the Suspension Period shall resume
+and be in full force and effect and Borrower shall thereafter pay to Lender the Net Cash Proceed from the issuance of Capital Stock as
+required by 
+Section 3.2.3
+ of the Loan Agreement within five (5) business days of the receipt thereof by Lender.
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+General
+Provisions
+
+ 
+
+Lender
+and Borrower acknowledge that Borrower has a Standby Equity Purchase Agreement (the “
+SEPA
+”) in place with YA II PN,
+LTD, a Cayman Islands exempt limited partnership managed by Yorkville Advisors Global, LP (“
+Yorkville
+”). The Borrower
+and Lender hereby acknowledge and agree that, notwithstanding anything to the contrary in the Loan Agreement, all proceeds received by
+the Borrower from the issuance of Class A Common Stock pursuant to the SEPA with Yorkville shall be applied first to satisfy Borrower’s
+obligations to Yorkville under their outstanding promissory note (the “
+SEPA Proceeds
+” and the “
+Yorkville
+Promissory Note
+”, respectively), and 
+Section 3.2.3
+ shall have no application to such proceeds to applied.
+
+ 
+
+Following
+the occurrence of the Registration Date, notwithstanding the terms of the Loan Document, Borrower may, in its sole discretion, prepay
+the 2024 CP BF Convertible Note without the requirement to obtain the prior written consent or approval of Lender.
+
+ 
+
+Subject
+to and conditioned upon the occurrence of the Registration Date, Lender hereby (a) waives any Event of Default that may have arisen on
+or before the date hereof (1) under Section 3.2.3 of the Loan Agreement, (2) under Section 7.1 of the Loan Agreement relating to any
+Indebtedness previously disclosed by Borrower through the SEC’s EDGAR system, or (3) under Section 7.14 relating to Fiscal Quarters
+ending on or before June 30, 2025, (“
+Specified Defaults
+”) occurring prior to or existing as of the date of this Letter
+Agreement and (b) agrees to forbear until December 31, 2025 from exercising any right or remedy on account of any failure by Borrower
+to comply with Section 7.14 of the Loan Agreement for the period ending September 30, 2025. Lender further acknowledges that Borrower
+has those certain Senior Secured Promissory Notes outstanding with an institutional investor (the “
+Junior Notes
+”)
+that are convertible into shares of Class A Common Stock.
+
+ 
+
+Lender
+agrees that Borrower may continue to pay and/or convert such Junior Notes in accordance with their terms.
+
+ 
+
+Except
+as explicitly amended by this Letter Agreement, all of the terms and conditions of the Loan Agreement and the other Loan Documents shall
+remain in full force and effect. Each Credit Party hereby reaffirms its obligations, as applicable, under the Loan Agreement and each
+other Loan Document to which such Credit Party is a party.
+
+ 
+
+Each
+Credit Party agrees (i) that all the obligations, indebtedness and liabilities of such Credit Party to Lender under the Loan Agreement
+are the valid and binding obligations of such Credit Party; (ii) that the obligations, indebtedness and liabilities of such Credit Party
+evidenced by each Note executed and delivered by Borrower are valid and binding without any present right of offset, claim, defense or
+recoupment of any kind and are hereby ratified and confirmed in all respects; and (iii) that the mortgage, liens and security interests
+granted to Lender with respect to the Loans as security for all obligations and liabilities of the Credit Parties under the Loan Agreement.
+
+ 
+
+Except
+for any Specified Defaults, nothing in this Letter Agreement shall be construed to waive, modify, or cure any default or Event of Default
+that exists or may exist under the Loan Agreement or any other Loan Document. Except to the extent amended or modified hereby, all of
+the representations, warranties, terms, covenants and conditions of the Loan Agreement and the other Loan Documents shall remain as written
+originally and in full force and effect in accordance with their respective terms and are hereby ratified and confirmed, and nothing
+herein shall affect, modify, limit or impair any of the rights and powers which Lender may have hereunder or thereunder. Nothing in this
+Letter Agreement shall constitute a novation. The amendments set forth herein shall be limited precisely as provided for herein, and
+shall not be deemed to be a waiver of, amendment of, consent to or modification of any of Lender’s rights under, or of any other
+term or provisions of, the Loan Agreement or any other Loan Document, or of any term or provision of any other instrument referred to
+therein or herein or of any transaction or future action on the part of any such Credit Party which would require the consent of Lender.
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+Each
+Credit Party hereby forever waives, relinquishes, discharges and releases all defenses and claims of every kind or nature, whether existing
+by virtue of state, federal, or local law, by agreement or otherwise, against each Lender and any of its successors, assigns, directors,
+officers, shareholders, agents, employees and attorneys, the Obligations, or the Collateral, whether previously or now existing or arising
+out of or related to any transaction or dealings among any Lender and the Credit Parties, which any Credit Party may have or may have
+made at any time up through and including the date of this Letter Agreement, including without limitation, any affirmative defenses,
+counterclaims, setoffs, deductions or recoupments, by any of the Credit Parties and any of their representatives, successors, assigns,
+agents, employees, officers, directors and heirs. “Claims” includes all debts, demands, actions, causes of action, suits,
+dues, sums of money, accounts, bonds, warranties, covenants, contracts, controversies, promises, agreements or obligations of any kind,
+type or description, and any other claim or demand of any nature whatsoever, whether known or unknown, accrued or unaccrued, disputed
+or undisputed, liquidated or contingent, in contract, tort, at law or in equity, any of them ever had, claimed to have, now has, or shall
+or may have. Nothing contained in this Letter Agreement prevents enforcement of this release.
+
+ 
+
+Borrower’s
+failure to comply with the Letter Agreement shall constitute an Event of Default under the Loan Agreement. This Letter Agreement constitutes
+the entire agreement of the parties hereto with respect to the subject matter hereof, incorporates all prior negotiations and understandings
+with respect to such subject matter. This Letter Agreement may be executed in multiple counterparts (including by electronic means) all
+of which taken together shall constitute one executed original. This Letter Agreement shall be governed by the laws of the state of New
+York.
+
+ 
+
+By
+placing its signature on the following page each of Lender and Credit Party acknowledges its consent to this Letter Agreement.
+
+ 
+
+Lender
+hereby represents that it is an accredited investor as defined in Rule 501(a)(1), (a)(2), (a)(3), (a)(7), (a)(9), (a)(12) or (a)(13)
+under the Securities Act or a “qualified institutional buyer” as defined in Rule 144A(a) under the Securities Act.
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Banzai
+ International, Inc. 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Dean
+ Ditto
+
+ 
+
+ 
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Chief
+ Financial Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+Acknowledged
+ and Agreed,
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+CP
+ BF Lending, LLC
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ CP Business Finance GP, LLC, its manager
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ Columbia Pacific Advisors, LLC, its manager 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Brad
+ Shain
+
+ 
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+President
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+4

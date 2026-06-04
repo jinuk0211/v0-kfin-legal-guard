@@ -1,0 +1,3597 @@
+EX-10.1
+
+2
+
+ex10-1.htm
+
+EX-10.1
+
+ 
+
+ 
+
+Exhibit
+10.1
+
+ 
+
+Execution
+Version
+
+ 
+
+Certain
+personally identifiable information has been omitted from this exhibit pursuant to Item 601(a)(6) of Regulation S-K. [***] indicates
+that information has been redacted.
+
+ 
+
+Certain
+schedules, exhibits and similar attachments have been omitted pursuant to Item 601(a)(5) of Regulation S-K. Kindly MD, Inc. will provide
+a copy of such omitted materials to the Securities and Exchange Commission or its staff upon request.
+
+ 
+
+MASTER
+LOAN AGREEMENT
+
+ 
+
+This
+Master Loan Agreement (this “
+Agreement
+”) is made as of December 3, 2025 (the “
+Effective Date
+”),
+by and between Payward Interactive, Inc. (“
+Lender
+”), a Florida corporation, and Nakamoto Holdings Inc. (“
+Borrower
+”),
+a corporation organized and existing under the laws of Delaware, with its principal place of business at 5097 South 900 East, Suite 100,
+Salt Lake City, UT 84117. Lender and Borrower are each individually, a “
+Party
+,” and collectively the “
+Parties
+”.
+
+ 
+
+RECITALS
+
+ 
+
+WHEREAS
+,
+subject to the terms and conditions of this Agreement, Borrower may, from time to time, seek to initiate a transaction pursuant to which
+Lender will loan certain Fiat Currency or Digital Currency to Borrower for Borrower’s use, and Borrower will pay a Loan Fee as
+provided in the applicable Loan Term Sheet and return such Fiat Currency or Digital Currency to Lender upon the termination of the Loan
+or upon such earlier date in accordance with the terms and conditions of this Agreement; and
+
+ 
+
+WHEREAS
+,
+Borrower intends to use any Fiat Currency or Digital Currency loaned under this Agreement for lawful commercial purposes.
+
+ 
+
+Now,
+therefore, in consideration of the foregoing and other good and valuable consideration, the receipt and sufficiency of which are hereby
+acknowledged, Lender and Borrower hereby agree as follows:
+
+ 
+
+I.
+
+Definitions
+.
+
+ 
+
+“
+
+Account
+Control Agreement
+
+” has the meaning given to such term in Section IV(b).
+
+ 
+
+“
+
+Airdrop
+
+”
+means a distribution of a new token or tokens resulting from the ownership of a preexisting token. An “
+
+Applicable Airdrop
+
+”
+is an Airdrop for which the distribution of new or preexisting tokens can be definitively calculated according to its distribution method,
+such as a pro rata distribution based on the amount of the relevant Digital Currency held at a specified time. A “
+
+Non-Applicable
+Airdrop
+
+” is an Airdrop for which the distribution of new or preexisting tokens cannot be definitively calculated, such
+as a random distribution, a distribution to every wallet of the relevant Digital Currency, or a distribution that depends on a wallet
+of the relevant Digital Currency meeting a threshold requirement.
+
+ 
+
+“
+
+Anti-Corruption
+Laws
+
+” means the Foreign Corrupt Practices Act of 1977, as amended and the rules and regulations thereunder.
+
+ 
+
+“
+
+Anti-Terrorism
+and Sanctions Laws
+
+” means any Applicable Law relating to terrorism, trade sanctions programs and embargoes, or money laundering,
+all as amended, supplemented or replaced from time to time.
+
+ 
+
+“
+
+Applicable
+Law
+
+” means (regardless of jurisdiction) (i) any applicable federal, national, state and local laws, ordinances, regulations,
+orders, statutory instrument, rules, treaties, codes of practice, decrees, injunctions, or judgments and (ii) any applicable ruling,
+declaration, regulation, requirement, or interpretation issued by any regulatory, judicial, administrative or governmental body or Person.
+
+ 
+
+“
+
+Authorized
+Agent
+
+” has the meaning set forth in 
+Exhibit A
+.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+
+Business
+Day
+
+” means any day other than a Saturday or Sunday on which commercial banks are open for business in New York City.
+
+ 
+
+“
+
+Business
+Hours
+
+” means between the hours of 9:00 am to 5:00 pm in New York on a Business Day.
+
+ 
+
+“
+
+Call
+Option
+
+” means the right of Lender to demand immediate repayment of a Loaned Currency Recall Amount at any time pursuant
+to the terms of this Agreement.
+
+ 
+
+“
+
+Change
+in Law
+
+” means that, on or after the Effective Date, (a) due to the adoption of or change in any Applicable Law or any regulation
+or (b) due to the promulgation or announcement of or any change in the interpretation by any Governmental Authority, Lender determines
+in good faith that (X) (i) it has become illegal to maintain or extend a Loan, receive repayment or delivery of Loaned Currency or hold
+and remain secured by Collateral or (ii) the ability to transfer any Loaned Currency or Collateral has become materially impaired or
+(Y) there is an increased risk that it will become subject to regulations to which it is not already subject, whether due to a Digital
+Currency being classified or interpreted as “securities” under the Securities Act or Exchange Act, or otherwise.
+
+ 
+
+“
+
+Collateral
+
+”
+has the meaning given to such term in Section IV(a).
+
+ 
+
+“
+
+Collateral
+Account
+
+” and “Collateral Accounts” each have the meaning given to such term in Section IV(b).
+
+ 
+
+“
+
+Collateral
+Call Margin Ratio
+
+” means, for any Loan, the Margin Ratio at or below which Lender may issue a Collateral Call Notification
+in accordance with this Agreement. The Collateral Call Margin Ratio for each Loan will be specified in the applicable Loan Term Sheet.
+
+ 
+
+“
+
+Collateral
+Return Margin Ratio
+
+” means, for any Loan, the Margin Ratio above which Borrower may issue a Refund Notification in accordance
+with this Agreement. The Collateral Return Margin Ratio for each Loan will be specified in the applicable Loan Term Sheet.
+
+ 
+
+“
+
+Confirmation
+Protocol
+
+” means the requirement that the transfer of a Digital Currency may not be deemed settled and completed until (i)
+the transaction has been recorded in a block and five (5) consecutive subsequent blocks referring back to such block (meaning six (6)
+blocks in total) have been added to the applicable blockchain; or (ii) the transaction has met a different protocol for a specific Digital
+Currency agreed to by the Parties in writing.
+
+ 
+
+“
+
+Covered
+Person
+
+” means Borrower, any direct or indirect subsidiary or parent of Borrower and any director, officer, agent, employee
+or affiliate of Borrower or any of its direct or indirect subsidiaries or parent entities.
+
+ 
+
+“
+
+Custodian
+
+”
+has the meaning given to such term in Section IV(b). “Custody Agreement” has the meaning given to such term in Section IV(b).
+“Default Fee” has the meaning given to such term in Section III(c).
+
+ 
+
+“
+
+Digital
+Currency
+
+” means Bitcoin (BTC), Bitcoin Cash (BCH), Ether (ETH), Ether Classic (ETC), or Litecoin (LTC), or any other digital
+currency as agreed upon by the Parties.
+
+ 
+
+“
+
+Digital
+Currency Address
+
+” means an identifier of alphanumeric characters that represents a digital identity or destination for
+a transfer of Digital Currency.
+
+ 
+
+“
+
+Early
+Return Option
+
+” means, with respect to a Loan, an option to return all or part of the applicable Loaned Currency prior to
+the Loan Termination Date pursuant to the terms of this Agreement; provided that with respect to any Fixed Term Loan, Borrower shall
+have an Early Return Option solely to the extent agreed by Lender and Borrower and set forth in the applicable Loan Term Sheet.
+
+ 
+
+“
+
+Fiat
+Currency
+
+” means official currency of a country issued by a central bank or other monetary authority.
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+
+Fixed
+Term Loan
+
+” means a Loan with a pre-determined Loan Termination Date, where, unless otherwise agreed in the applicable Loan
+Term Sheet, Lender does not have a Call Option and Borrower does not have an Early Return Option.
+
+ 
+
+“
+
+Governmental
+Authority
+
+” means the government of any nation, or of any political subdivision thereof, whether state or local, and any
+agency, authority, instrumentality, regulatory body, court or other entity exercising executive, legislative, judicial, taxing, regulatory
+or administrative powers or functions of or pertaining to government.
+
+ 
+
+“
+
+Hard
+Fork
+
+” means a permanent divergence in the blockchain (e.g., when non-upgraded nodes cannot validate blocks created by upgraded
+nodes that follow newer consensus rules), or an airdrop or any other event which results in the creation of a new token.
+
+ 
+
+“
+
+Liquidation
+Ratio
+
+” means, for any Loan, the Margin Ratio at or below which Collateral will be liquidated. The Liquidation Ratio for
+each Loan will be specified in the applicable Loan Term Sheet.
+
+ 
+
+“
+
+Loan
+
+”
+means a provision of Fiat Currency or Digital Currency made pursuant to and in accordance with this Agreement and the terms and conditions
+set forth in the applicable Loan Term Sheet.
+
+ 
+
+“
+
+Loan
+Documents
+
+” means this Agreement, all Loan Term Sheets entered into between Lender and Borrower from time to time, and any
+and all other documents, instruments and agreements entered into by the Parties in connection with any Loan hereunder.
+
+ 
+
+“
+
+Loan
+Effective Date
+
+” means the date upon which a Loan begins.
+
+ 
+
+“
+
+Loan
+Fee
+
+” means the fee Borrower shall pay to Lender for the provision of a Loan, as specified in the applicable Loan Term Sheet.
+
+ 
+
+“
+
+Loan
+Request
+
+” has the meaning given to such term in Section II(b).
+
+ 
+
+“
+
+Loan
+Term Sheet
+
+” means an agreement entered into by the Parties containing the terms and conditions of a Loan made under this
+Agreement and memorialized substantially in the form attached hereto as 
+Exhibit B
+.
+
+ 
+
+“
+
+Loan
+Termination Date
+
+” means, with respect to a Fixed Term Loan, the date on which such Loan shall terminate (other than upon
+an earlier termination pursuant to Section II(d)), as agreed upon by the Parties in a Loan Term Sheet.
+
+ 
+
+“
+
+Loaned
+Currency
+
+” means any Fiat Currency or Digital Currency transferred in a Loan hereunder until such Fiat Currency or Digital
+Currency is transferred back to Lender hereunder; provided, that if any new or different Digital Currency is created or split by a Hard
+Fork or other alteration in the underlying blockchain and meets the requirements set forth in Section V, such new or different Digital
+Currency shall be deemed to become Loaned Currency in addition to the original Digital Currency for which such exchange is made.
+
+ 
+
+“
+
+Loaned
+Currency Recall Amount
+
+” has the meaning given to such term in Section II(c)(ii).
+
+ 
+
+“
+
+Margin
+Ratio
+
+” has the meaning given to such term in Section IV(a).
+
+ 
+
+“
+
+Market
+Spot Rate
+
+” means, as at the time of determination, the spot rate for the applicable Digital Currency published on CFBenchmarks.com
+or such other reference spot rate mutually agreed by the Parties from time to time.
+
+ 
+
+“
+
+Material
+Adverse Effect
+
+” means (a) a material adverse effect upon (including due to a material disruption of the bitcoin network
+or other blockchain network), the operations, business, assets or financial condition of Borrower; (b) a material impairment of the ability
+of Borrower to perform its obligations under any Loan Document to which it is a party; or (c) a material adverse effect upon the legality,
+validity and/or enforceability of this Agreement or any of the Loan Documents.
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+
+New
+Token
+
+” means incremental tokens distributed to the holder of Digital Currency in connection with a Hard Fork in the Digital
+Currency protocol or an Applicable Airdrop.
+
+ 
+
+“
+
+OFAC
+
+”
+means the United States Department of the Treasury’s Office of Foreign Assets Control.
+
+ 
+
+“
+
+Open
+Loan
+
+” means a Loan without a Loan Termination Date, where Borrower has an Early Return Option and Lender has a Call Option.
+
+ 
+
+“
+
+Person
+
+”
+means any individual, sole proprietorship, partnership, corporation, business trust, joint stock company, trust, unincorporated organization,
+association, limited liability company, limited liability partnership, institution, public benefit corporation, joint venture, entity
+or governmental body (whether federal, state, county, city, municipal or otherwise, including any instrumentality, division, agency,
+body or department thereof).
+
+ 
+
+“
+
+Recall
+Delivery Day
+
+” means the day on which Borrower must return Loaned Currency to Lender in accordance with Lender’s exercise
+of a Call Option.
+
+ 
+
+“
+
+Recall
+Request Day
+
+” means a day, which may be any calendar day, on which Lender exercises a Call Option by notification to Borrower
+and demands return of a portion or the entirety of the Loaned Currency.
+
+ 
+
+“
+
+Redelivery
+Day
+
+” means the date on which Borrower shall return all of the Loaned Currency in accordance with Borrower’s exercise
+of an Early Return Option.
+
+ 
+
+“
+
+Reportable
+Compliance Event
+
+” means that any Covered Person becomes a Sanctioned Person or is charged by indictment, criminal complaint
+or similar charging instrument, arraigned, or custodially detained in connection with any Anti-Terrorism and Sanctions Law or Anti-Corruption
+Law or any predicate crime to any Anti-Terrorism and Sanctions Law or Anti-Corruption Law.
+
+ 
+
+“
+
+Request
+Day
+
+” has the meaning given to such term in Section II(b).
+
+ 
+
+“
+
+Required
+Margin Ratio
+
+” means, for any Loan, the initial Margin Ratio that is required to be satisfied prior to the advance of such
+Loan. The Required Margin Ratio for each Loan will be specified in the applicable Loan Term Sheet.
+
+ 
+
+“
+
+Rewards
+
+”
+means any rewards or other fees, excluding New Tokens, that a holder of certain eligible Digital Currencies may receive (such as in connection
+with a promotion or as compensation for certain on-chain activities) (i) directly from an issuer or administrator of such Digital Currency;
+(ii) from an exchange, custodian, or other service provider; or (iii) as a programmatic distribution automatically effected via the Digital
+Currency’s blockchain network.
+
+ 
+
+“
+
+Rewards
+Account
+
+” has the meaning given to such term in Section V(a).
+
+ 
+
+“
+
+Sanctioned
+Country
+
+” means a country subject to a sanctions program maintained under any Anti-Terrorism and Sanctions Law (including,
+at the time of this Agreement, Russia, Cuba, Iran, North Korea, Syria, and the Crimea, Donetsk and Luhansk regions of the Ukraine).
+
+ 
+
+“
+
+Sanctioned
+Person
+
+” means any Person included on a list of designated or restricted persons maintained by OFAC (including, without
+limitation, OFAC’s Specially Designated Nationals and Blocked Persons List and Sectoral Sanctions Identifications List).
+
+ 
+
+“
+
+Term
+
+”
+has the meaning given to such term in Section XXVII.
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+
+Total
+Loan Balance
+
+” means, as of the date of determination, the sum of: (i) the amount of any outstanding Loaned Currency provided
+to Borrower pursuant to all then outstanding Loans; (ii) the aggregate amount of any outstanding Loan Fees; and (iii) the aggregate amount
+of any other outstanding fees, expenses or indemnities due hereunder or under any other Loan Documents, in each case, including any fees
+accruing during the pendency of any bankruptcy, insolvency, receivership or other similar proceeding, regardless of whether allowed or
+allowable in such proceeding.
+
+ 
+
+“
+
+Uniform
+Commercial Code
+
+” or “
+
+UCC
+
+” means the Uniform Commercial Code as in effect from time to time in
+the State of Wyoming; provided, that if the laws of any other jurisdiction would govern the perfection or enforcement of any lien granted
+hereunder, Uniform Commercial Code or UCC means the Uniform Commercial Code as in effect from time to time in such jurisdiction with
+respect to such lien.
+
+ 
+
+II.
+
+General
+ Fiat Currency and Digital Currency Loan Terms
+.
+
+ 
+
+(a)
+
+Provision
+ of Fiat Currency or Digital Currency
+
+ 
+
+Subject
+to the terms and conditions hereof, Borrower may, from time to time in its sole and absolute discretion, request a Loan from Lender,
+and Lender may but shall have no obligation to, in its sole and absolute discretion, extend such Loan on terms acceptable to and agreed
+by Lender and Borrower and as set forth in a corresponding Loan Term Sheet.
+
+ 
+
+(b)
+
+Loan
+ Procedure
+
+ 
+
+From
+time to time during the Term of this Agreement, on any day (the “
+
+Request Day
+
+”), an Authorized Agent of Borrower
+may request from Lender, by email, Telegram or such other electronic means as agreed by Lender, the provision of a specific quantity
+of a Fiat Currency or Digital Currency (a “
+
+Loan Request
+
+”), for use by Borrower in accordance with the terms
+and conditions of this Agreement; provided, that if such Loan Request is received by Lender at or after 11:00 am New York time, then
+the next day will be deemed to be the Request Day. Once made, Loan Requests may not be withdrawn by Borrower. Upon receipt of a Loan
+Request, Lender shall inform Borrower whether Lender agrees to provide the requested Fiat Currency or Digital Currency on the terms set
+forth in the Loan Request. A Loan Request shall be deemed rejected by Lender unless accepted by Lender at or before 5:00 pm New York
+time on the Request Day or as otherwise agreed by the Parties.
+
+ 
+
+As
+part of its Loan Request, Borrower shall provide the following proposed terms:
+
+ 
+
+(i)
+
+the
+ type of Fiat Currency or Digital Currency requested;
+
+(ii)
+
+the
+ amount of the Fiat Currency or Digital Currency requested;
+
+(iii)
+
+the
+ type of Collateral Borrower is willing to post;
+
+(iv)
+
+whether
+ the Loan is to be a Fixed Term Loan or an Open Loan;
+
+(v)
+
+the
+ Loan Effective Date; and
+
+(vi)
+
+the
+ Loan Termination Date (if a Fixed Term Loan).
+
+ 
+
+Upon
+agreement by and between Lender and Borrower regarding the terms of a Loan Request with respect to a Loan, Lender shall send Borrower
+a proposed Loan Term Sheet for such Loan. The specific and final terms of such Loan, including the Loan Fee and all applicable collateral
+requirements, shall be memorialized in such Loan Term Sheet, which shall be delivered and executed by the Parties after the final terms
+of a Loan are agreed to and prior to the delivery of the applicable Fiat Currency or Digital Currency. In the event of a conflict of
+terms between this Agreement and a Loan Term Sheet, the terms in such Loan Term Sheet shall govern with respect to the applicable Loan.
+
+ 
+
+Upon
+execution of a Loan Term Sheet by Lender and Borrower, Borrower shall commence transmission of any required Collateral to satisfy the
+Required Margin Ratio as specified in such Loan Term Sheet. Following Custodian’s receipt of such Collateral in accordance with
+the Confirmation Protocol, Lender shall commence transmission of the Fiat Currency or Digital Currency specified in the applicable Loan
+Term Sheet to Borrower’s bank account or Digital Currency Address as agreed by the Parties in such Loan Term Sheet or as directed
+by Borrower in writing.
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c)
+
+Return
+ Procedure
+
+ 
+
+(i)
+
+Loaned
+ Currency Return
+
+ 
+
+Borrower
+shall return the relevant amount of Loaned Currency to Lender by 5:00 p.m. New York Time on the earliest to occur of the Loan Termination
+Date, the Recall Delivery Day, and the Redelivery Day for such Loaned Currency. Loaned Currency shall be returned directly to a bank
+account or wallet address designated by Lender.
+
+ 
+
+(ii)
+
+Call
+ Option
+
+ 
+
+Lender
+may, on and as of a Recall Request Day, initiate a Call Option to the extent permitted under this Agreement by notification to Borrower
+and demand the return of a portion or the entirety of one or more Loans, together with all accrued and unpaid fees with respect to each
+such Loan (the “
+Loaned Currency Recall Amount
+”). Borrower shall have twenty-four (24) hours from the time Lender initiates
+a Call Option to deliver the Loaned Currency Recall Amount to Lender.
+
+ 
+
+(iii)
+
+Early
+ Return Option
+
+ 
+
+With
+respect to any Open Loan and, to the extent that Lender has agreed to an Early Return Option in the applicable Loan Term Sheet for a
+Fixed Term Loan, any such Fixed Term Loan, Borrower may notify Lender during Business Hours of Borrower’s intent to return all
+or part of the applicable Loaned Currency prior to the Loan Termination Date or any Recall Request Day, as applicable, which notice shall
+specify the Loaned Currency to be returned and the contemplated Redelivery Day. Borrower shall provide Lender at least one (1) Business
+Day’s prior written notice of its intent to exercise its Early Return Option, which notice shall be irrevocable. In connection
+with its exercise of an Early Return Option with respect to any Open Loan, Borrower will not be responsible for any penalty or premium
+for the early return of Loaned Currency. In connection with its exercise of an Early Return Option with respect to any Fixed Term Loan,
+Borrower shall be responsible for an early return penalty with respect to such Loaned Currency to the extent set forth in the applicable
+Loan Term Sheet.
+
+ 
+
+Borrower’s
+exercise of an Early Return Option shall not relieve it of any of its other obligations herein, including without limitation the payment
+of outstanding fees (including Loan Fees). Upon receipt of Loaned Currency pursuant to an Early Return Option, Lender will promptly notify
+Borrower of any applicable Loan Fees or other fees on such returned amount accrued (but not yet paid) through such Redelivery Day, and
+Borrower shall have up to five Business Days after the Redelivery Day to pay such accrued Loan Fees and other fees (which due date will
+be deemed to be a “Payment Due Date” for purposes of Section III(d)).
+
+ 
+
+(d)
+
+Termination
+ of Loan
+
+ 
+
+A
+Loan will terminate upon the earliest to occur of:
+
+ 
+
+(i)
+
+the
+ Loan Termination Date with respect to such Loan;
+
+ 
+
+(ii)
+
+the
+ date of redelivery by Borrower of all Loaned Currency under such Loan, together with all
+ accrued and unpaid fees with respect to such Loan, pursuant to an exercise of an Early Return
+ Option by Borrower or a Call Option by Lender; and
+
+ 
+
+(iii)
+
+the
+ occurrence of an Event of Default under Section IX(h) or (i) or the occurrence of any other
+ Event of Default and Lender’s exercise of remedies pursuant to Section X.
+
+ 
+
+Termination
+of a Loan shall not terminate, limit, or otherwise affect the Term of this Agreement, except as expressly provided otherwise in this
+Agreement.
+
+ 
+
+ 
+
+6
+
+ 
+
+ 
+
+ 
+
+ 
+
+(e)
+
+Redelivery
+ in an Illiquid Market; Acts by Governmental Authorities; Changes in Applicable Laws; Sanctions
+ Events
+
+ 
+
+(i)
+
+In
+ the event that (A) there is a suspension of or limitation imposed on trading by two or more
+ primary exchanges relating to any applicable Loaned Currency or (B) the reasonably demonstrated
+ illiquidity of a particular Loaned Currency prevents its redelivery in accordance with this
+ Agreement, then in each case, Lender shall have the right to recall any Loans affected thereby,
+ as determined by Lender in its sole discretion. Following such recall, Borrower shall, within
+ five Business Days, return to Lender any outstanding balance of such recalled Loan, such
+ return to be made in the same quantity and type of the applicable Loaned Currency to the
+ extent possible, and if not possible, shall be required to pay Lender for the value in U.S.
+ Dollars of any affected Loaned Currency as calculated by Lender in its reasonable discretion.
+
+ 
+
+(ii)
+
+If
+ a Change in Law occurs with respect to one or more Loans, Lender shall have the right to
+ recall a portion or the entirety of one or more of such affected Loans, together with all
+ accrued and unpaid fees with respect to each such Loan, and within five (5)
+
+ 
+
+Business
+Days:
+
+ 
+
+A.
+
+if
+ legally permissible and possible following such Change in Law, including, without limitation,
+ during any notice or grace period, Borrower shall return to Lender any outstanding balance
+ of such recalled Loan, such return to be made in the same quantity and type of the applicable
+ Loaned Currency; and
+
+ 
+
+B.
+
+if
+ return is not legally permissible and/or possible following such Change in Law, Borrower
+ shall be required to pay Lender for the value in U.S. Dollars of any Loaned Currency so restricted
+ as calculated by Lender in its reasonable discretion.
+
+ 
+
+(iii)
+
+In
+ the event Lender determines, in its sole discretion, that there is a material risk or likelihood
+ that any Covered Person is in violation of any Anti-Terrorism and Sanctions Law or Anti-Corruption
+ Law, or that Lender’s extension or maintenance of a Loan to Borrower may result in
+ a violation of any Anti-Terrorism and Sanctions Law or Anti-Corruption Law, Lender shall
+ have the right to recall any Loans affected thereby. Following such recall, Borrower shall,
+ within five Business Day, return to Lender any outstanding balance of such recalled Loan,
+ such return to be made in the same quantity and type of the applicable Loaned Currency.
+
+ 
+
+(f)
+
+Risk
+ of Loss
+
+ 
+
+During
+the period of Borrower’s use of the Loaned Currency, such use beginning immediately upon Lender’s transfer of the Loaned
+Currency to Borrower’s Digital Currency Address pursuant to the applicable Loan Term Sheet, and ending upon redelivery, all risk
+of loss related to such Loaned Currency passes to Borrower. Borrower acknowledges and agrees that Lender has no liability to Borrower
+or any third party for any loss, theft or misuse of any Loaned Currency that Lender has transferred at the instruction of Borrower as
+provided in this Agreement and the applicable Loan Term Sheet.
+
+ 
+
+ 
+
+7
+
+ 
+
+ 
+
+ 
+
+ 
+
+During
+the period of Borrower’s posting of Collateral, all risk of loss related to such Collateral passes to Lender. Lender acknowledges
+and agrees that Borrower has no liability to Lender or any third party for any loss, theft or misuse of any Collateral that Borrower
+has transferred at the instruction of Lender as provided in this Agreement and the applicable Loan Term Sheet. Lender agrees that it
+will not, and will not permit any of its subsidiaries or affiliates to, lend, rehypothecate, make margin loans, or take similar action
+with respect to any Collateral represented in a Collateral Account while this Agreement is in effect.
+
+ 
+
+III.
+
+Loan
+ Fees
+.
+
+ 
+
+(a)
+
+Loan
+ Fee
+
+ 
+
+Borrower
+agrees to pay Lender a Loan fee (a “
+Loan Fee
+”) on each Loan, at a rate per annum as set forth in the relevant Loan
+Term Sheet. Except as Lender and Borrower may otherwise agree, Loan Fees shall accrue on the outstanding Loaned Currency under a Loan
+from and including the date on which the Loaned Currency is transferred to Borrower to the date on which the Loaned Currency is returned
+in its entirety to Lender. Lender shall calculate any Loan Fees owed on a daily basis and provide Borrower with such calculation upon
+request.
+
+ 
+
+(b)
+
+Origination
+ Fee
+
+ 
+
+From
+time to time, Lender and Borrower may agree that a fee (the “Origination Fee”) shall be paid in connection with the origination
+of a Loan. Any such Origination Fee shall be specified in the applicable Loan Term Sheet.
+
+ 
+
+(c)
+
+Default
+ Fee
+
+ 
+
+For
+each calendar day after the Loan Termination Date, the Redelivery Day, or the Recall Delivery Day (whichever is applicable) on which
+Borrower has not returned any Loaned Currency by the relevant due date or failed to timely pay when due any fees or other amounts hereunder,
+and for each calendar day during any period in which an Event of Default has occurred and is continuing, Borrower shall incur an additional
+fee (the “
+
+Default Fee
+
+”) that is equal to the sum of (i) five percent (5%) per annum of additional interest
+on all outstanding portions of the Total Loan Balance, including accrued and unpaid fees and expenses, and (ii) any losses, costs, expenses
+or other damages reasonably incurred by Lender as a result of such late return, payment or Event of Default (including, in case of a
+failure by Borrower to return Loaned Currency by the relevant due date, any relevant and reasonable borrowing costs or hedging costs
+(including any reasonable break costs, amounts required to be posted as collateral or borrowing costs incurred in order to borrow required
+collateral amounts in connection with such hedging arrangements) that are incurred by Borrower in order to (x) borrow such Loaned Currency,
+or (y) synthetically borrow, by purchasing and simultaneously entering into hedging arrangements to minimize its exposure to the purchased
+position in such Loaned Currency, in each case in (x) and (y), in an amount up to the amount of the relevant insufficiency in such Loaned
+Currency), which shall be reasonably calculated by Lender and payable by Borrower in addition to the Loan Fee. Any Default Fee imposed
+by Lender resulting from an event that constitutes an Event of Default shall not constitute a waiver of any such Event of Default.
+
+ 
+
+(d)
+
+Payment
+ of Fees
+
+ 
+
+Unless
+otherwise agreed, any Loan Fee or other fee payable hereunder shall be paid by Borrower no later than 5:00 p.m. New York time on the
+fifth (5th) Business Day of each month (the “
+
+Payment Due Date
+
+”); provided that Default Fees shall be payable
+on demand. An invoice for Loan Fees and any other fees or amounts due hereunder (the “
+
+Invoice Amount
+
+”) shall
+be sent out by Lender on the first Business Day of the month and shall include any Loan Fees and other fees incurred during the previous
+month as well as any outstanding Loan Fees and other fees. Any fees or other amounts owed under this Agreement shall be payable, unless
+otherwise agreed by Lender and Borrower in the applicable Loan Term Sheet or as expressly provided otherwise in this Agreement, in the
+same type of Fiat Currency or Digital Currency that was loaned to Borrower in the applicable Loan, subject to Section II(e). Any failure
+by Lender to timely invoice Borrower shall not be deemed a default or breach of this Agreement by Lender nor shall any such failure relieve
+Borrower of its obligation to pay any fees owed under this Agreement or negate any Event of Default resulting from Borrower’s failure
+to timely pay such fees.
+
+ 
+
+ 
+
+8
+
+ 
+
+ 
+
+ 
+
+ 
+
+(e)
+
+Application
+ of Payments and Deliveries
+
+ 
+
+Borrower
+shall, at the time of making each payment or delivery under this Agreement, specify to Lender the Loan to which such payment or delivery
+is to be applied. In the event that Borrower fails to so specify, or if an Event of Default has occurred and is continuing, Lender may
+apply the payment or delivery in such manner as it may determine to be appropriate in its sole discretion.
+
+ 
+
+(f)
+
+Application
+ of Insufficient Payments or Deliveries
+
+ 
+
+If
+at any time insufficient amounts are received by Lender to pay fully all amounts of applicable fees and other amounts then due and payable
+hereunder, Lender may apply such payment received as it may determine to be appropriate in its sole discretion. Lender may, in its sole
+discretion and if there is more than one outstanding Loan between the Parties, apply payments by Borrower in one Loaned Currency towards
+the satisfaction of obligations outstanding with respect to a Loan of another Loaned Currency; provided, that Lender shall make any conversions
+between such Loaned Currency based upon the applicable Market Spot Rate.
+
+ 
+
+(g)
+
+Computations
+
+ 
+
+Fees
+shall be computed on the basis of a year of 360 days for the actual number of days (including the first day but excluding the last day)
+occurring in the period for which payable. Calculation of fees shall be based on the date when the relevant transfer is deemed to have
+occurred. Digital Currency shall be deemed to have been transferred by one Party to the other when the applicable Confirmation Protocol
+for the relevant Digital Currency has been completed and Fiat Currency shall be deemed to have been transferred by one Party to the other
+when received in the transferee’s bank account. If the requirements of the Confirmation Protocol are not met, or Fiat Currency
+is not received, by 5:00 pm New York time, the transfer shall be deemed to have been made on the following day.
+
+ 
+
+(h)
+
+Taxes
+
+ 
+
+(i)
+
+Withholding
+ and/or Deduction for Taxes
+
+ 
+
+All
+payments in respect of any Loan under this Agreement will be made free and clear of and without withholding or deduction for or on account
+of any present or future taxes (including without limitation goods and services tax, levies, imposts deductions, charges, and all liabilities
+with respect to any such present or future taxes, excluding taxes imposed on net income and (all such non-excluded taxes hereinafter
+referred to as “
+
+Taxes
+
+”)) other than any deduction or withholding required by Applicable Law.
+
+ 
+
+Borrower
+shall use its best efforts (provided that the Lender shall cooperate as may be reasonably required) to ensure that such payments can
+be made without deduction of withholding tax, or with deduction of withholding tax at a reduced rate, by discharging the liability to
+such tax by notification pursuant to applicable law (including tax treaties) rather than payment of the tax.
+
+ 
+
+If
+Borrower becomes obliged to withhold or deduct from any payment to Lender any amount in respect of Taxes it will pay to the relevant
+governmental authority the full amount required to be deducted or withheld promptly upon determining that such deduction or withholding
+is required or upon receiving notice that such amount has been assessed against it. Borrower shall promptly notify the Lender that such
+notification or, as the case may be, deduction has been made, and provide the Lender with evidence that such a notification has been
+made or, as the case may be, such taxes deducted have been paid to the relevant taxing authority.
+
+ 
+
+ 
+
+9
+
+ 
+
+ 
+
+ 
+
+ 
+
+Upon
+request, Lender shall furnish Borrower a properly completed and executed US tax information certificate on the appropriate U.S. Internal
+Revenue Service Form W-8 or Form W-9, as applicable. Borrower shall report, if required under Applicable Law, all fees paid to Lender
+and any withheld taxes under this Agreement to the Internal Revenue Service and any relevant state revenue authority, and shall furnish
+Lender a copy of the applicable U.S. Internal Revenue Service Form 1099, Form 1042-S or other form required by Applicable Law.
+
+ 
+
+(ii)
+
+Tax
+ Gross-Up
+
+ 
+
+In
+case any tax deduction or withholding is required by law on any payment from Borrower to Lender, then Borrower shall pay to the Lender
+such additional amounts as necessary in order that the net amounts received by the Lender after such deduction or withholding shall equal
+the respective amounts which would have been received had no such deduction or withholding been required.
+
+ 
+
+(iii)
+
+Tax
+ Treatment of Loans
+
+ 
+
+For
+tax purposes, in the case of a Loan, each of Lender and Borrower intend that, absent a change in law or administrative practice to the
+contrary, the transfer and delivery of the Digital Currency shall be treated as a loan and not be treated as an exchange of property
+for other property differing materially in kind or extent (within the meaning of Section 1001 of the Internal Revenue Code of 1986, as
+amended, as well as the corresponding Treasury Regulations), and each of Lender and Borrower agrees that it will not take any position
+inconsistent with such treatment for all such tax purposes.
+
+ 
+
+(iv)
+
+CARF
+ and CRS
+
+ 
+
+On
+October 10, 2022, the Organization for Economic Co-operation and Development (“
+
+OECD
+
+”) published the final rules
+and commentary of the Crypto-Asset Reporting Framework (“
+
+CARF
+
+”) as well as enhancements to the Common Reporting
+Standard (“
+
+CRS
+
+”).
+
+ 
+
+The
+local implementation of CARF and CRS for the jurisdictions in which the Parties operate may require the Parties to obtain additional
+documentation from each other, including, but not limited to, self-certification and supporting documentation. The Parties may also be
+required to report to their local tax authority under the local enactment and transposition of CARF and CRS. The Parties hereby agree
+to timely provide documentation requested by the other Party to enable reporting under CARF, CRS, and any future tax information reporting
+requirement, as required. The Parties also agree to comply with any reporting requirements resulting from the local enactment of CARF,
+CRS or other applicable reporting requirements, as applicable.
+
+ 
+
+IV.
+
+Collateral
+ Requirements
+
+ 
+
+(a)
+
+Collateral
+
+ 
+
+Borrower
+shall provide and maintain from time to time as collateral an amount of U.S. Dollars or Digital Currency (other than Loaned Currency)
+to be determined and agreed upon by Lender and Borrower (together with (i) all “security entitlement” (as defined in UCC
+Section 8-102(17) of the UCC) or “general intangibles” (as defined in UCC Section 9-102(42) of the UCC) of Borrower in respect
+of or relating to such Digital Currency, (ii) the Collateral Accounts, and (iii) all proceeds (as defined in the UCC) of the foregoing,
+the “
+
+Collateral
+
+”) and memorialized in a Loan Term Sheet; provided that upon the provision of any Additional
+Collateral (as defined below), the Collateral shall be deemed to include the Additional Collateral. The collateralization of any Loan,
+as of any date of determination, shall be measured as a percentage (the “
+
+Margin Ratio
+
+”), obtained by dividing
+(i) the value as of such date of the Collateral supporting such Loan (the “
+
+Collateral Value
+
+”), by (ii) the
+value as of such date of the outstanding Loaned Currency under such Loan, together with all accrued and unpaid fees with respect to such
+Loan, in each case, valued at the Market Spot Rate as determined by Lender in its sole discretion. To the extent applicable, the Collateral
+Value may be determined by converting any Digital Currency that serves as Collateral to U.S. Dollars, in each case using the applicable
+Market Spot Rate as determined by Lender in its sole discretion; provided that Collateral provided in U.S. Dollars shall always be valued
+at the face value thereof.
+
+ 
+
+ 
+
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+Borrower
+shall transfer to Custodian, or cause to be maintained in a Collateral Account, Collateral with a Collateral Value sufficient to satisfy
+the applicable Required Margin Ratio prior to Lender’s transfer to Borrower of any Loaned Currency pursuant to a particular Loan,
+and Lender shall have no obligation to transfer any Loaned Currency pursuant to a Loan prior to completion of the Confirmation Protocol
+with respect to the applicable Collateral. Notwithstanding the foregoing, if Lender provides a Loan to Borrower and Borrower does not
+transfer, or cause to be maintained in a Collateral Account, Collateral sufficient to satisfy the applicable Required Margin Ratio with
+respect to such Loan, Lender shall have the absolute right to the immediate return of the applicable Loaned Currency.
+
+ 
+
+(b)
+
+Grant
+ of Security Interest
+
+ 
+
+As
+security for the prompt and complete payment by Borrower of the Loaned Currency in respect of a Loan, all related fees, expenses and
+indemnities due hereunder, and all other obligations owing by Borrower to Lender hereunder or under any other Loan Document, Borrower
+hereby pledges, collaterally assigns and grants to Lender a continuing first priority perfected security interest in, and a lien upon,
+Borrower’s right, title and interest in and to, or otherwise with respect to, the Collateral (including any Additional Collateral),
+whether now owned or existing or hereafter acquired or arising and regardless of where located (the “
+
+Security Interest
+
+”).
+The Security Interest shall immediately and automatically attach upon the provision of the applicable Loaned Currency from Lender to
+Borrower in respect of such Loan and shall immediately and automatically terminate upon the return and repayment in full of the Loaned
+Currency under such Loan and all related fees, expenses and indemnities due hereunder and under any other Loan Documents. In addition
+to the rights and remedies granted to Lender hereunder, Lender shall have all the rights and remedies of a secured party under the Uniform
+Commercial Code.
+
+ 
+
+Unless
+expressly provided otherwise in the applicable Loan Term Sheet, Borrower hereby agrees and affirms Lender’s entitlement to the
+Collateral. Such entitlement shall not relieve Borrower of any of its obligations hereunder. All Collateral transferred to Custodian
+by Borrower shall be held in one or more segregated accounts, vaults or wallets maintained with or under the control of Lender or one
+of its affiliates (the “
+
+Custodian
+
+”) for the benefit of Borrower (together with any successor account, each,
+a “
+
+Collateral Account
+
+” and, collectively, the “
+
+Collateral Accounts
+
+”). To the extent
+any Collateral Account is maintained by the Custodian, such Collateral Account shall be subject to both (i) a custody agreement between
+the Custodian and Borrower (a “
+
+Custody Agreement
+
+”) and (ii) an account control agreement by and between each
+of the Custodian, Borrower and Lender (the “
+
+Account Control Agreement
+
+”). Borrower and Lender hereby agree that
+all U.S. Dollars and Digital Currency included in Collateral that are maintained in a Collateral Account with the Custodian that is a
+“securities account” (as defined in the UCC) will be treated as a “financial asset” under UCC Section 8-102.
+In the event Collateral is transferred to Lender or any of its affiliates (including Custodian), all such Collateral transferred to Lender
+or its affiliates by Borrower shall be held in one or more segregated accounts, vaults or wallets and shall not be commingled with any
+other assets or property owned or held by Lender or its affiliates.
+
+ 
+
+For
+the avoidance of doubt, each Collateral Account (including income, if any, earned on the investments of Collateral in the Collateral
+Account) will be owned by Borrower for federal income tax purposes. Borrower shall provide to Lender a U.S. Internal Revenue Service
+Form W-9 or appropriate U.S. Internal Revenue Service Form W-8 no later than the date hereof. Upon the reasonable request of Lender,
+Borrower shall provide to Lender any additional U.S. Internal Revenue Service forms (or updated versions of any previously submitted
+U.S. Internal Revenue Service forms) or other documentation at such time or times required by applicable law as may be necessary (i)
+to reduce or eliminate the imposition of U.S. federal withholding taxes and (ii) to permit Lender to fulfill its federal tax reporting
+obligations under applicable law with respect to each Collateral Account or any amounts paid to Borrower. If any U.S. Internal Revenue
+Service form or other documentation previously delivered becomes inaccurate or incomplete in any material respect, Borrower shall promptly
+provide to Lender accurately updated and complete versions of such U.S. Internal Revenue Service forms or other documentation. Lender
+shall have no liability to Borrower or any other person in connection with any tax withholding amounts paid or withheld from a Collateral
+Account pursuant to applicable law to the extent arising from Borrower’s failure to timely provide an accurate, correct and complete
+U.S. Internal Revenue Service Form W-9, an appropriate U.S. Internal Revenue Service Form W-8 or such other documentation requested by
+Lender under this paragraph.
+
+ 
+
+ 
+
+11
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c)
+
+Perfection
+ of Security Interest
+
+ 
+
+Borrower
+shall take all action that may be necessary and that Lender may reasonably request so as at all times to maintain the validity, perfection,
+enforceability and first priority of Lender’s security interest in and lien on the Collateral and to enable Lender to protect,
+exercise or enforce its rights hereunder and in the Collateral, including, but not limited to, (i) promptly discharging all liens on
+the Collateral other than Lender’s security interest or any other liens permitted by this Agreement and (ii) executing and delivering
+financing statements, control agreements, instruments of pledge, notices and collateral assignments, in each case, in form and substance
+reasonably satisfactory to Lender, relating to the creation, validity, perfection, maintenance or continuation of Lender’s security
+interest in and lien on the Collateral under the UCC or other Applicable Law. Borrower hereby authorizes Lender to file against Borrower
+one or more financing, continuation or amendment statements pursuant to the UCC in form and substance reasonably satisfactory to Lender,
+provided that the description of the collateral in any such statement is limited to only the Collateral.
+
+ 
+
+(d)
+
+Collateral
+ Calls
+
+ 
+
+If
+at any time while a Loan is outstanding the Margin Ratio with respect to such Loan, as determined by Lender in its sole discretion, is
+equal to or less than the Collateral Call Margin Ratio as set forth in the applicable Loan Term Sheet, Lender shall have the right to
+require Borrower to contribute additional Collateral (such Collateral, the “
+
+Additional Collateral
+
+”) or return
+sufficient Loaned Currency so that the Margin Ratio with respect to such Loan is equal to or greater than the Required Margin Ratio at
+the time of such contribution or repayment.
+
+ 
+
+If
+Lender requires Borrower to increase the Margin Ratio so that it is equal to or greater than the Required Margin Ratio, it shall send
+a notification substantially in the form attached hereto as 
+Exhibit C
+ (the “
+
+Collateral Call Notification
+
+”)
+to Borrower that sets forth: (i) the Margin Ratio as of such time and (ii) the amount of Additional Collateral required to return to
+the Required Margin Ratio (using the applicable Market Spot Rate if required) as of such time, in each case, as determined by Lender
+in its sole discretion. Borrower shall have forty-eight (48) hours from the time Lender sends the Collateral Call Notification to either
+(i) deliver the required amount of Additional Collateral to Lender or (ii) return to Lender the amount of Loaned Currency necessary,
+in each case, to cause the Margin Ratio to return to the Required Margin Ratio at the time of such delivery or return (which amount may
+differ than the amount specified in the Collateral Call Notification). Failure by Borrower to transfer sufficient Additional Collateral
+or return sufficient Loaned Currency in response to a Collateral Call Notification shall give Lender the option to declare an Event of
+Default under Section IX.
+
+ 
+
+Delivery
+of the Additional Collateral shall be made by bank wire to the account, or if applicable, delivery to the Digital Currency Address designated
+by Lender, in each case, specified in the Collateral Call Notification, Loan Term Sheet, or as otherwise directed by Lender in a written
+notice to Borrower, as applicable.
+
+ 
+
+Borrower
+acknowledges and agrees that its obligations hereunder, including those contained in this Section IV, shall continue regardless of any
+request by Lender for Additional Collateral. Borrower further acknowledges and agrees that any failure by Lender to request Additional
+Collateral when it is entitled to pursuant to this Section (IV)(c) shall not constitute a waiver of its right to Additional Collateral.
+
+ 
+
+(e)
+
+Refund
+ of Excess Collateral
+
+ 
+
+If
+at any time while a Loan is outstanding the Margin Ratio for such Loan, as determined by Lender in its sole discretion, is greater than
+the Collateral Return Margin Ratio as set forth in the applicable Loan Term Sheet for such duration as specified in such Loan Term Sheet,
+Borrower may request that Lender return such portion of the Collateral such that, after giving effect to the return of such Collateral,
+the Margin Ratio will not exceed the Required Margin Ratio for such Loan (such Collateral, the “
+
+Excess Collateral
+
+”).
+
+ 
+
+ 
+
+12
+
+ 
+
+ 
+
+ 
+
+ 
+
+Borrower
+shall request the withdrawal of Excess Collateral by notice to Lender and Custodian on a Business Day (the “
+
+Refund Notification
+
+”)
+which shall set forth: (i) the applicable Loan, the outstanding Loaned Currency under such Loan and all accrued and unpaid fees with
+respect to such Loan, (ii) the applicable Collateral Value, (iii) the applicable Market Spot Rate; and (iv) the amount of Excess Collateral
+to be withdrawn. Borrower may not proceed with a withdrawal of Excess Collateral without Lender’s prior approval. If a Refund Notification
+is received by Lender prior to 10:00 am New York time on a Business Day, Lender shall approve the Borrower’s withdrawal of Excess
+Collateral by 6:00 pm New York time on the following Business Day. If a Refund Notification is received by Lender after 10:00 am New
+York time on a Business Day, Lender shall approve the Borrower’s withdrawal of Excess Collateral by 6:00 pm New York time on the
+second Business Day following the date that the Refund Notification is received. Excess Collateral shall be withdrawn by Borrower to
+a Digital Currency Address specified by Borrower or by bank wire to an account specified by Borrower, as applicable. Unless otherwise
+agreed by Lender in its sole discretion, Borrower shall not be permitted to submit more than two Refund Notifications during any seven-day
+period. Notwithstanding the foregoing, a Refund Notification shall be null and void and the Lender shall have no obligation to approve
+the withdrawal of any Excess Collateral if (i) prior to the deadline for the withdrawal of such Excess Collateral, the Margin Ratio does
+not exceed the Collateral Return Coverage Ratio, or (iii) a default or Event of Default hereunder exists or would result from the withdrawal
+of such Excess Collateral. For the avoidance of doubt, Lender shall have no obligation to approve the withdrawal of any Excess Collateral
+to the extent that the withdrawal of such Excess Collateral would result in the Margin Ratio, as determined by Lender in its sole discretion,
+being less than the Required Margin Ratio after giving effect to such withdrawal of Excess Collateral.
+
+ 
+
+(f)
+
+Collateral
+ Liquidation
+
+ 
+
+If
+at any time while a Loan is outstanding the Margin Ratio for such Loan is equal to or less than the Liquidation Ratio (as calculated
+by Lender in its sole discretion and whether or not a Collateral Call Notification has been sent or is awaiting response) (a “
+
+Liquidation
+Trigger
+
+”), Lender may, at its sole discretion and with no notice required to Borrower, immediately liquidate Collateral
+and apply the proceeds of such liquidation, less the amount of the Liquidation Fee, to repayment of the Total Loan Balance, as provided
+below.
+
+ 
+
+Upon
+the occurrence of a Liquidation Trigger and Lender’s election to liquidate Collateral:
+
+ 
+
+(i)
+
+the
+ Total Loan Balance shall become immediately due and payable;
+
+ 
+
+(ii)
+
+Lender
+ shall be entitled to a liquidation fee equal to 1.0% of the proceeds of the sale of the Collateral
+ (the “Liquidation Fee”), which shall be deducted from the sale proceeds by Lender;
+
+ 
+
+(iii)
+
+the
+ proceeds of the sale of Collateral, less the Liquidation Fee, shall be applied to Borrower’s
+ obligations hereunder in any order as Lender may determine in its sole discretion;
+
+ 
+
+(iv)
+
+Borrower
+ shall be responsible for any shortfall to the extent the proceeds of the sale of Collateral
+ are insufficient to pay all such amounts that are due and payable; and
+
+ 
+
+(v)
+
+any
+ remaining excess shall be remitted to Borrower.
+
+ 
+
+Borrower
+shall be responsible for any tax consequences resulting from Lender’s sale of Collateral and application of proceeds in accordance
+with the foregoing.
+
+ 
+
+ 
+
+13
+
+ 
+
+ 
+
+ 
+
+ 
+
+(g)
+
+Return
+ of Collateral
+
+ 
+
+Upon
+redelivery of Loaned Currency to Lender by Borrower and completion of the applicable Confirmation Protocol, Lender shall promptly but
+in no event later than three (3) Business Days after such redelivery (the “
+
+Return Timing
+
+”) return to Borrower
+the applicable Collateral. For the avoidance of doubt, any Collateral or Excess Collateral returned by Lender shall be the same type
+and amount provided by Borrower to Lender, except as otherwise provided herein.
+
+ 
+
+V.
+
+Distributions
+
+ 
+
+(a)
+
+New
+ Tokens
+
+ 
+
+In
+the event of a Hard Fork or an Airdrop in the blockchain for any Loaned Currency or Collateral, any affected outstanding Loans will not
+be automatically terminated. Lender will be entitled to receive the benefit and ownership of any incremental tokens generated from Loaned
+Currency, and, subject to the immediately succeeding sentence, Borrower will be entitled to receive the benefit and ownership of any
+incremental tokens generated from Digital Currency provided as Collateral, in each case, as a result of a Hard Fork in the Digital Currency
+protocol or an Applicable Airdrop (each, a “
+
+New Token
+
+”), to the full extent that Lender or Borrower, as applicable,
+would have been entitled to such benefit and ownership had the applicable Digital Currency not been provided as Loaned Currency or Collateral,
+respectively. Notwithstanding anything herein to the contrary, Borrower’s entitlement to any New Tokens in accordance herewith
+shall be dependent upon Lender’s or its applicable affiliates’ agreement to support such New Tokens, as determined in its
+or their sole discretion.
+
+ 
+
+If
+Lender is entitled to any New Tokens in accordance with the foregoing, Lender shall have the right, in its sole discretion, to elect
+to receive or forfeit such New Tokens. If Lender elects to receive such New Tokens, Borrower shall promptly, and in any event within
+five days following the applicable Hard Fork or Applicable Airdrop, transfer such New Tokens to a Digital Currency Address designated
+by Lender or as otherwise directed in writing by Lender. If Borrower fails to transfer the New Tokens as and to the extent directed by
+Lender within 30 days following the applicable Hard Fork or Applicable Airdrop, such failure will be considered an Event of Default hereunder.
+If Borrower is entitled to any New Tokens in accordance with this subsection and such New Tokens are issued to Lender, such New Tokens
+shall be held by Lender as Additional Collateral hereunder, subject to the terms of this Agreement. Lender’s and Borrower’s
+rights to New Tokens as set forth in this section shall survive the termination of the relevant Loan, return of the applicable Loaned
+Currency and Collateral, and termination of this Agreement.
+
+ 
+
+(b)
+
+Rewards
+
+ 
+
+Borrower
+will be entitled to receive the benefit and ownership of any Rewards derived from Digital Currency provided as Collateral, to the full
+extent that Borrower would have been entitled to such Rewards had the applicable Digital Currency not been provided as Collateral. If
+Borrower is entitled to any Rewards in accordance with this Section and such Rewards are distributed to Lender, Lender shall transfer
+such Rewards to a Digital Currency Address maintained by Custodian, designated by Borrower, as specified in the applicable Loan Term
+Sheet (“
+
+Rewards Account
+
+”).
+
+ 
+
+VI.
+
+Conditions
+ Precedent
+
+ 
+
+This
+Agreement and the obligations set forth hereunder shall not become effective until the date on which the following conditions are satisfied
+in a manner satisfactory to, or waived in writing by, Lender in its sole discretion:
+
+ 
+
+(a)
+
+Lender
+ shall have received counterparts of this Agreement and each other applicable Loan Document
+ duly executed and delivered by an authorized officer of Borrower;
+
+ 
+
+ 
+
+14
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+
+Lender
+ shall have received an incumbency certificate or other documents evidencing Borrower’s
+ authority to execute this Agreement, in form and substance satisfactory to Lender;
+
+ 
+
+(c)
+
+Lender
+ shall have received such documentation and other information requested by Lender in connection
+ with regulatory requirements under the applicable “know-your-customer” and anti-money-laundering
+ rules and regulations, including, without limitation, the PATRIOT Act;
+
+ 
+
+(d)
+
+Lender
+ shall have received UCC, insolvency, tax, judgment lien and execution searches, or equivalent
+ reports or searches with respect to Borrower, each as of a recent date, in each of the jurisdictions
+ where Borrower is organized and the assets of Borrower are located (and other jurisdictions
+ as may be required by Lender at its sole discretion), and Lender shall be satisfied with
+ the results of such searches; and
+
+ 
+
+(e)
+
+The
+ Lender shall have received all such other information with respect to Borrower and its business
+ as it shall have requested prior to the Effective Date.
+
+ 
+
+VII.
+
+Representations
+ and Warranties
+
+ 
+
+Borrower
+hereby represent and warrants, as of the date hereof and as of the date of execution of each Loan Term Sheet, as follows:
+
+ 
+
+(a)
+
+(i)
+ Borrower has the power to execute and deliver this Agreement, to enter into the Loans contemplated
+ hereby and to perform its obligations hereunder, (ii) Borrower has taken all necessary action
+ to authorize such execution, delivery and performance, (iii) this Agreement constitutes a
+ legal, valid, and binding obligation enforceable against Borrower in accordance with its
+ terms, and (iv) Borrower’s execution of this Agreement and entry into Loans contemplated
+ hereby will not contravene (x) the constitutive documents of Borrower, (y) any Applicable
+ Law, to the extent such contravention would be reasonably likely to result in a Material
+ Adverse Effect, or (z) any judgment, award, injunction or similar legal restriction with
+ respect to Borrower.
+
+ 
+
+(b)
+
+The
+ state of Borrower’s organization and Borrower’s principal place of business are
+ accurately set forth in the preamble to this Agreement, and Borrower does not have any other
+ physical addresses in the United States, and does not maintain books and records or any inventory,
+ equipment or other property in the United States. Borrower’s chief executive office
+ is located at 5097 South 900 East, Suite 100, Salt Lake City, UT 84117. In the past five
+ years, (i) Borrower has not used any other names (including fictitious names, d/b/a’s,
+ trade names or similar names) and (ii) no other entities have been merged into Borrower except
+ for on August 14, 2025, Kindly Holdco Corp, a Delaware corporation and a direct, and wholly
+ owned subsidiary of Kindly MD Inc., merged with and into Borrower, with Borrower surviving
+ as a wholly owned subsidiary of Kindly MD Inc.
+
+ 
+
+(c)
+
+No
+ license, consent, authorization or approval or other action by, or notice to or filing or
+ registration with, any Governmental Authority, and no other third-party consent or approval,
+ is necessary for the due execution, delivery and performance by such party of this Agreement
+ or for the legality, validity or enforceability thereof against such party, except for those
+ actions or consents that have already been taken or obtained or the failure of which to obtain
+ would not be reasonably likely to result in a Material Adverse Effect.
+
+ 
+
+(d)
+
+Borrower
+ has not relied on Lender for any tax or accounting advice concerning this Agreement and it
+ has made its own determination as to the tax and accounting treatment of any Loan, Fiat Currency,
+ Digital Currency, Collateral or funds received or provided hereunder.
+
+ 
+
+ 
+
+15
+
+ 
+
+ 
+
+ 
+
+ 
+
+(e)
+
+Borrower
+ (i) is acting for its own account and (ii) is a sophisticated party and fully familiar with
+ the inherent risks involved in the transaction contemplated in this Agreement, including,
+ without limitation, risk of new financial regulatory requirements, potential loss of money
+ and risks due to volatility of the price of any Loaned Currency or Collateral, and voluntarily
+ takes full responsibility for any risk to that effect.
+
+ 
+
+(f)
+
+Borrower
+ is not insolvent and is not subject to any bankruptcy or insolvency proceedings under any
+ Applicable Laws.
+
+ 
+
+(g)
+
+There
+ are no proceedings pending or, to its knowledge, threatened, against Borrower in writing,
+ which could reasonably be anticipated to have any adverse effect on the transactions contemplated
+ by this Agreement or the accuracy of the representations and warranties hereunder.
+
+ 
+
+(h)
+
+No
+ default or Event of Default hereunder has occurred and is continuing, and no default or Event
+ of Default hereunder shall occur as a result of the provision of the Loan as requested in
+ the applicable Loan Term Sheet.
+
+ 
+
+(i)
+
+The
+ transactions contemplated in this Agreement are not prohibited by Applicable Law or other
+ authority in the jurisdiction of Borrower’s place of incorporation, place of principal
+ office, or residence and it has all necessary licenses and registrations to operate in the
+ manner contemplated in this Agreement.
+
+ 
+
+(j)
+
+Borrower
+ has, or will have at the time of return of any Loaned Currency, the right to transfer such
+ Loaned Currency pursuant to the terms and conditions hereof, free and clear of all liens
+ and encumbrances other than those arising under this Agreement.
+
+ 
+
+(k)
+
+Borrower
+ has, or will have at the time of transfer of any Collateral, the right to grant a first priority
+ security interest therein and the right to transfer such Collateral pursuant to the terms
+ and conditions hereof, free and clear of all liens and encumbrances other than those arising
+ under this Agreement. Except with respect to the financing statements filed by Lender, no
+ financing statement covering any of the Collateral or any proceeds thereof is or will be
+ on file in any public office.
+
+ 
+
+(l)
+
+[Reserved.]
+
+ 
+
+(m)
+
+[Reserved].
+
+ 
+
+(n)
+
+[Reserved].
+
+ 
+
+(o)
+
+(i)
+ No Covered Person is a Sanctioned Person and (ii) no Covered Person (A) has any of its assets
+ in a Sanctioned Country or in the possession, custody or control of a Sanctioned Person in
+ violation of any Anti-Terrorism and Sanctions Law; (B) does business in or with, or derives
+ any of its income from investments in or transactions with, any Sanctioned Country or Sanctioned
+ Person in violation of any Anti-Terrorism and Sanctions Law; or (C) engages in any dealings
+ or transactions prohibited by any Anti-Terrorism and Sanctions Law.
+
+ 
+
+(p)
+
+All
+ information furnished by Borrower or on its behalf to Lender is true, accurate and complete
+ in every material respect and no information provided herein or pursuant to the terms hereof
+ is incorrect or misleading in any material respect. The parties acknowledge and agree that
+ all forward looking statements and projections are subject to uncertainty.
+
+ 
+
+ 
+
+16
+
+ 
+
+ 
+
+ 
+
+ 
+
+VIII.
+
+Covenants
+.
+
+ 
+
+Until
+the return of all Loaned Currency and the termination of this Agreement, Borrower hereby covenants and agrees with Lender as follows:
+
+ 
+
+(a)
+
+Delivery
+ of Financial Statements, Notices of Default, etc
+. Borrower shall furnish to Lender:
+
+ 
+
+(i)
+
+as
+ soon as available and in any event within one hundred twenty (120) days of the end of each
+ fiscal year of Borrower, a copy of the annual reviewed consolidated financial statements
+ of Borrower and its consolidated subsidiaries as of the close of such fiscal year, including
+ statements of income, stockholders’ or shareholders’ equity and cash flow and
+ a balance sheet as at the end of such fiscal year, prepared in accordance with generally
+ accepted accounting principles consistently applied, which financial statements shall be
+ reviewed by independent public accountants of recognized national standing;
+
+ 
+
+(ii)
+
+as
+ soon as available and in any event within sixty (60) days of the end of each fiscal quarter
+ of Borrower, a copy of the quarterly unaudited consolidated financial statements of Borrower
+ and its consolidated subsidiaries as of the close of such fiscal quarter, including statements
+ of income, stockholders’ or shareholders’ equity and cash flow and a balance
+ sheet as at the end of such fiscal quarter prepared in accordance with generally accepted
+ accounting principles consistently applied, which financial statements shall be certified
+ by a financial officer of Borrower as fairly presenting the consolidated financial condition
+ and results of operations of Borrower and its consolidated subsidiaries, all in conformity
+ with generally accepted accounting principles consistently applied;
+
+ 
+
+(iii)
+
+[Reserved];
+
+ 
+
+(iv)
+
+promptly,
+ but in any event within two (2) Business Days of, Borrower becoming aware of the occurrence
+ of any default or Event of Default under this Agreement, a written notice setting forth the
+ nature of such occurrence and the steps being taken by Borrower to remedy such occurrence;
+
+ 
+
+(v)
+
+promptly,
+ but in any event within one (1) Business Day of, delivery to its investors, any investor
+ communications;
+
+ 
+
+(vi)
+
+promptly,
+ but in any event within one (1) Business Day after obtaining knowledge thereof, written notice
+ of (i) any material investigation by a Governmental Authority or any litigation commenced
+ against Borrower where Borrower is specifically named in such investigation or litigation,
+ and (ii) any lien or “adverse claim” (within the meaning of Section 8-502 of
+ the UCC) made or asserted against any Collateral; and
+
+ 
+
+(vii)
+
+from
+ time to time, such further information (whether or not of the kind mentioned above) regarding
+ the business, affairs and financial condition of Borrower as Lender may reasonably request
+ in writing.
+
+ 
+
+Notwithstanding
+anything to the contrary herein, for so long as the Borrower is a wholly-owned subsidiary of KindlyMD, Inc. (“
+KindlyMD
+”),
+the Borrower shall not be required to comply with clauses (i) and (ii) of this Section VIII(a) so long as KindlyMD is in compliance with
+all of its reporting requirements under the Securities and Exchange Act of 1934, as amended, and its annual and quarterly reports are
+available on the website of the SEC at http://www.sec.gov.
+
+ 
+
+ 
+
+17
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+
+Notice
+ of Certain Actions
+. Borrower shall provide Lender immediate notice (i) if at any time
+ there is entered against Borrower any order, decree, determination or instruction issued
+ on the authority of any rule, regulation or proceeding of any governmental commission, bureau
+ or other administrative agency or self-regulatory organization, including the SEC and the
+ NYSE, which could adversely affect the borrowing of Loaned Currency by Borrower, (ii) if
+ at any time any litigation, arbitration or similar proceeding against or affecting Borrower
+ is commenced which could adversely affect the borrowing of Loaned Currency by Borrower, (iii)
+ if at any time there is commenced any investigation or proceeding which is reasonably likely
+ to result in the expulsion of Borrower from any stock exchange, including the NYSE, or from
+ the National Association of Securities Dealers, Inc., or from any material self-regulatory
+ organization, or a suspension of Borrower’s power under Federal or state law to transact
+ business as a broker or dealer in securities or if Borrower is so expelled or suspended,
+ (iv) if at any time any communication is received by Borrower from the SEC or any stock exchange,
+ including the NYSE, constituting a warning to Borrower of the violation, or threatened violation,
+ of any rule of the SEC or of such exchange a failure to comply with which could adversely
+ affect the borrowing of Loaned Currency by Borrower, (v) if at any time Borrower shall receive
+ information that Borrower is under special surveillance by any stock exchange, including
+ the NYSE, or by any other self-regulatory organization, (vi) if at any time Borrower shall
+ receive information that the SEC or any material self-regulatory organization, including
+ the NYSE, has notified the Securities Investor Protection Corporation (“
+
+SIPC
+
+”)
+ pursuant to Section 5(a)(1) of the Securities Investor Protection Act of 1970 (“
+
+SIPC
+ Act
+
+”) of facts which indicate that Borrower is in or is approaching financial
+ difficulty, or (vii) if at any time SIPC shall file an application for a protective decree
+ with respect to Borrower under Section 5(a)(3) of the SIPC Act. Any such notice shall set
+ forth in reasonable detail a description of the event which has occurred and of the action,
+ if any, which Borrower proposes to take with respect thereto. Borrower shall forward to Lender
+ a copy of any order, decree, determination, instruction or other written evidence received
+ by it of or with respect to any matter referred to in the first sentence of this subparagraph
+ (b) with respect to which notice is required to be given to Lender by such sentence. Borrower
+ shall comply with any such order, decree, determination or instruction within the time required
+ for such compliance and with any changes of rules or regulations of the SEC or the NYSE or
+ any other self-regulatory organization by the effective date thereof or the time for compliance
+ specified therein or, within the time required for compliance, shall cause the same to be
+ revoked, reversed, challenged or modified, provided that such modification avoids the occurrence
+ of an event described in this Section VIII(c).
+
+ 
+
+(c)
+
+Further
+ Acts
+. Borrower shall, from time to time, do and perform any and all acts and execute
+ any and all further instruments necessary or reasonably requested by Lender to more fully
+ effect the purposes of this Agreement and the pledge of the Collateral hereunder, including,
+ without limitation, the execution and filing of financing statements and continuation statements
+ relating to the Collateral under the provisions of the Uniform Commercial Code.
+
+ 
+
+(d)
+
+Compliance
+ with Laws
+. Borrower shall comply in all material respects with all Applicable Laws with
+ respect to the Collateral or any part thereof or to the operation of Borrower’s business.
+
+ 
+
+(e)
+
+Conduct
+ of Business and Maintenance of Existence and Assets
+. Borrower shall (i) conduct continuously
+ and operate actively its business according to good business practices in the ordinary course
+ of business; (b) keep in full force and effect its existence and comply in all material respects
+ with the laws and regulations governing the conduct of its business where the failure to
+ do so could reasonably be expected to have a Material Adverse Effect; and (c) make all such
+ reports and pay all such franchise and other taxes and license fees and do all such other
+ acts and things as may be lawfully required to maintain its rights, licenses, leases, powers
+ and franchises under any Applicable Laws, where the failure to do so could reasonably be
+ expected to have a Material Adverse Effect.
+
+ 
+
+ 
+
+18
+
+ 
+
+ 
+
+ 
+
+ 
+
+(f)
+
+Books
+ and Records
+. Borrower shall keep proper books of record and account in which full, true
+ and correct entries, in all material respects, will be made of all dealings or transactions
+ of or in relation to its business and affairs (including without limitation accruals for
+ taxes), all in accordance with, or as required by, GAAP consistently applied in the opinion
+ of such independent public accountant as shall then be regularly engaged by Borrower.
+
+ 
+
+(g)
+
+Payment
+ of Taxes
+. Borrower shall pay, when due, all material taxes, assessments and other charges
+ lawfully levied or assessed upon Borrower or any of the Collateral, including material personal
+ property taxes, assessments and charges and all material franchise, income, employment, social
+ security benefits, withholding, and sales taxes.
+
+ 
+
+(h)
+
+[Reserved]
+.
+
+ 
+
+(i)
+
+Insurance
+.
+ Borrower shall maintain, at a minimum, commercial general liability insurance in an amount
+ satisfactory to Lender, and such other insurance coverages, as is customary in the case of
+ companies engaged in businesses similar to Borrower and having deductibles consistent with
+ customary practice.
+
+ 
+
+(j)
+
+Payment
+ of Indebtedness
+. Borrower shall pay, discharge or otherwise satisfy at or before maturity
+ (subject, where applicable, to specified grace periods) all its material indebtedness.
+
+ 
+
+(k)
+
+Standards
+ of Financial Statements
+. Borrower shall cause all financial statements referred to in
+ Section VIII(a) to be complete and correct in all material respects (subject, in the case
+ of interim financial statements, to normal year-end audit adjustments) and to be prepared
+ in reasonable detail throughout the periods reflected therein (except as disclosed therein
+ and agreed to by the reporting accountants or officer, as applicable).
+
+ 
+
+(l)
+
+Additional
+ Beneficial Ownership Certification
+. Borrower shall provide to Lender, reasonably promptly,
+ any change in the information provided in the most recent Beneficial Ownership Certification
+ (if any) delivered to Lender that would result in a change to the list of beneficial owners
+ identified in such certification.
+
+ 
+
+(m)
+
+Operational
+ Security
+. Borrower shall follow and maintain operational security standard practices
+ throughout the term of this Agreement, including, without limitation, ensuring that all communications
+ initiated by Borrower to Lender involving private or public keys or other sensitive information
+ are accomplished through secure means, such as encrypted email communication. Borrower shall
+ employ adequate security measures to safeguard any passwords, personal identification numbers
+ and other credentials that can be used to access information about any Loan, the Loaned Currency,
+ the Collateral and any related transfers of Digital Currency.
+
+ 
+
+(n)
+
+Anti-Terrorism
+ and Sanctions
+. (i) Borrower shall ensure that (A) no Covered Person shall become a Sanctioned
+ Person, (B) no Covered Person shall use any Loan to fund any operations in, finance any investments
+ or activities in, or, make any payments to, a Sanctioned Country or Sanctioned Person in
+ violation of any Anti-Terrorism and Sanctions Law, (C) the funds used to repay any amounts
+ owing Lender hereunder shall not be derived from any unlawful activity and (D) with regard
+ to the use of any Loan, each Covered Person shall comply with all Anti-Terrorism and Sanctions
+ Laws and Anti-Corruption Laws, and (ii) Borrower shall promptly notify Lender in writing
+ upon obtaining knowledge of the occurrence of a Reportable Compliance Event, except to the
+ extent such notice is prohibited by Applicable Law.
+
+ 
+
+(o)
+
+Sale
+ of Collateral
+. Borrower shall not sell, lease, transfer or otherwise dispose of any Collateral
+ in violation of this Agreement.
+
+ 
+
+ 
+
+19
+
+ 
+
+ 
+
+ 
+
+ 
+
+(p)
+
+Creation
+ of Liens
+. Borrower shall not create or suffer to exist any lien or transfer upon or against
+ any of the Collateral in violation of this Agreement. Notwithstanding anything to the contrary
+ in the foregoing, the following liens are permitted: (a) liens arising as a matter of law
+ (other than liens arising out of violations by Borrower of Applicable Law) incurred in the
+ ordinary course of business and (b) liens on the Collateral in favor of Lender.
+
+ 
+
+(q)
+
+Nature
+ of Business
+. Borrower shall not substantially change the nature of the business in which
+ it is presently engaged other than in the ordinary course of Borrower’s business and
+ business activities reasonably incidental thereto, substantially related thereto, reasonable
+ extensions thereof or complementary thereto.
+
+ 
+
+(r)
+
+Fiscal
+ Year and Accounting Changes
+. Borrower shall not change its fiscal year end or make any
+ change (a) in accounting treatment and reporting practices except as required or permitted
+ by GAAP, whether or not GAAP applies, or (b) in tax reporting treatment except as required
+ by Applicable Law.
+
+ 
+
+(s)
+
+Organizational
+ Changes
+. Borrower shall not, without providing Lender thirty (30) calendar days’
+ prior written notice, change (i) its legal name, (ii) its jurisdiction of organization or,
+ if not a registered organization, location for purposes of the UCC, (iii) its type of organization,
+ (iv) the location of its principal place of business or chief executive office or (v) its
+ constituent documents in a manner materially adverse to Lender.
+
+ 
+
+(t)
+
+Lawful
+ Commercial Purposes
+. Borrower shall use all Loaned Currency solely for lawful commercial
+ (i.e., not for consumer, household, family or personal) purposes.
+
+ 
+
+IX.
+
+Events
+ of Default
+
+ 
+
+Any
+of the following events shall constitute an event of default, and shall be herein referred to as an “
+Event of Default
+”
+or “
+Events of Default
+”:
+
+ 
+
+(a)
+
+the
+ failure of Borrower to return Loaned Currency upon the termination of any Loan, in accordance
+ with applicable return terms and conditions;
+
+ 
+
+(b)
+
+the
+ failure of Borrower to pay any and all Loan Fees, Default Fees or other fees or to remit
+ any New Tokens, in each case, when due hereunder;
+
+ 
+
+(c)
+
+the
+ failure of Borrower to transfer Collateral or Additional Collateral as required hereunder
+ or pursuant to a Loan Term Sheet, or the failure by Borrower to timely and sufficiently respond
+ to a Collateral Call Notification (including through the return of Loaned Currency) by increasing
+ the Margin Ratio to no less than the Required Margin Ratio in accordance with Section IV(c);
+
+ 
+
+(d)
+
+the
+ failure of Borrower to perform, comply with or observe any agreement, covenant or obligation
+ under Sections VIII(a), (b), (h), (o), (p), (q) or (t);
+
+ 
+
+(e)
+
+the
+ failure of Borrower to perform, comply with or observe any agreement, covenant or obligation
+ under any provision of this Agreement or the Loan Documents (other than those provisions
+ referred to in Sections IX(a), (b), (c) and (d)), and such default shall not have been remedied
+ within ten (10) Business Days following the date Borrower receives notice of such default
+ or otherwise becomes aware of such default;
+
+ 
+
+(f)
+
+any
+ representation or warranty made or furnished by Borrower in any of the Loan Documents shall
+ prove to be incorrect or false in any material respect (or if already qualified by materiality,
+ in any respect) as of the date of making or deemed making thereof;
+
+ 
+
+ 
+
+20
+
+ 
+
+ 
+
+ 
+
+ 
+
+(g)
+
+the
+ occurrence of a Liquidation Trigger;
+
+ 
+
+(h)
+
+any
+ case or proceeding shall be commenced against Borrower or any of its subsidiaries in a court
+ having competent jurisdiction seeking a decree, order or other relief in respect of Borrower
+ or any of its subsidiaries (i) under Title 11 of the United States Code, as now constituted
+ or hereafter amended, or any other applicable United States federal or state bankruptcy or
+ other similar law or, in each case, a similar case or proceeding under the laws of a foreign
+ jurisdiction, or (ii) appointing a custodian, receiver, liquidator, assignee, trustee or
+ sequestrator (or similar official) of Borrower or any of its subsidiaries or of any substantial
+ part of its or their assets, and such case or proceeding shall remain undismissed or unstayed
+ for 60 consecutive days or such court shall enter a decree or order granting the relief sought
+ in such case or proceeding;
+
+ 
+
+(i)
+
+Borrower
+ or any of its subsidiaries shall (i) file a petition seeking relief under Title 11 of the
+ United States Code, as now constituted or hereafter amended, or any other applicable United
+ States federal or state bankruptcy or other similar law or, in each case, a similar case
+ or proceeding under the laws of a foreign jurisdiction, (ii) consent to the institution of
+ proceedings thereunder or to the filing of any such petition or to the appointment of or
+ taking possession by a custodian, receiver, liquidator, assignee, trustee or sequestrator
+ (or similar official) of Borrower or any of its subsidiaries, or of any substantial part
+ of its or their assets, or (iii) take any action in furtherance of any such action;
+
+ 
+
+(j)
+
+the
+ issuance of a notice of lien, levy, assessment, injunction or attachment against any material
+ portion of the Collateral which is not stayed or lifted within thirty (30) days;
+
+ 
+
+(k)
+
+any
+ judgment or judgments, writ(s), order(s) or decree(s) by a court having competent jurisdiction
+ for the payment of money are rendered against Borrower for an aggregate amount in excess
+ of $10,000,000, and such judgment, action or lien shall remain undischarged or unstayed for
+ a period of forty five (45) days;
+
+ 
+
+(l)
+
+the
+ occurrence of any event or development which would reasonably be expected to have a Material
+ Adverse Effect;
+
+ 
+
+(m)
+
+any
+ lien created hereunder or provided for hereby or under any related agreement ceases to be
+ or is not a valid and perfected lien having a first priority interest;
+
+ 
+
+(n)
+
+(i)
+ Borrower shall default in the payment (whether at stated maturity, upon acceleration, upon
+ required prepayment or otherwise), beyond any period of grace provided therefor, of any principal
+ of or interest on any indebtedness with a principal amount (individually or in the aggregate)
+ in excess of $10,000,000, or (ii) any other breach or default (or other event or condition),
+ beyond any period of grace provided therefor, shall occur under any agreement, indenture
+ or instrument relating to any such indebtedness with a principal amount (individually or
+ in the aggregate) in excess of $10,000,000, if the effect of such breach or default (or such
+ other event or condition) is to cause, or to permit, the holder or holders of such other
+ indebtedness (or a Person on behalf of such holder or holders) to cause (upon the giving
+ of notice or otherwise), such other indebtedness to become or be declared due and payable,
+ or required to be prepaid, redeemed, purchased or defeased (or an offer of prepayment, redemption,
+ purchase or defeasance be made), prior to its stated maturity (other than by a scheduled
+ mandatory prepayment), regardless of whether the holder or holders of such indebtedness (or
+ any Person on their behalf) shall actually accelerate, terminate or otherwise exercise any
+ rights or remedies with respect to such indebtedness;
+
+ 
+
+(o)
+
+any
+ material portion of this Agreement or any Loan Document shall, for any reason, cease to be
+ valid and binding on Borrower, or Borrower notifies Lender in writing of its inability to
+ or its intention not to perform any of its obligations hereunder, or otherwise disaffirms,
+ rejects, or repudiates any of its obligations hereunder in writing; or
+
+ 
+
+ 
+
+21
+
+ 
+
+ 
+
+ 
+
+ 
+
+(p)
+
+any
+ material portion of the Collateral shall be seized, subject to garnishment or taken by a
+ Governmental Body, and as a result, the Margin Ratio is less than the Required Margin Ratio,
+ and Borrower has not remedied such default within one (1) Business Day of the occurrence
+ of such default.
+
+ 
+
+X.
+
+Remedies
+
+ 
+
+(a)
+
+Upon
+ the occurrence and during the continuation of any Event of Default, Lender may, at its option,
+ do any or all of the following: (1) declare the entire outstanding Total Loan Balance and
+ any outstanding fees or other amounts accrued hereunder immediately due and payable; (2)
+ terminate this Agreement and any Loan hereunder upon written notice to Borrower; and (3)
+ exercise all other rights and remedies available to Lender hereunder, under Applicable Law,
+ or in equity; provided, that upon any Event of Default under Section IX(h) or (i), this Agreement
+ and any and all Loans provided pursuant to this Agreement shall automatically be terminated
+ and all fees and other amounts accrued hereunder shall become due and payable immediately.
+
+ 
+
+(b)
+
+In
+ connection with the exercise of its remedies pursuant to this Section X, Lender may (1) exchange,
+ enforce, waive or release any portion of the Collateral or Loaned Currency in favor of Lender;
+ (2) apply such Collateral or security and direct the order or manner of sale thereof as Lender
+ may, from time to time, determine; and (3) settle, compromise, collect or otherwise liquidate
+ any such Collateral or security in any manner upon the occurrence and during the continuation
+ of an Event of Default, without affecting or impairing Lender’s right to take any other
+ further action with respect to any Collateral or security or any part thereof. The proceeds
+ of the sale of Collateral by Lender shall be applied to Borrower’s obligations hereunder
+ in any order as Lender may determine in its sole discretion. In connection the sale of Collateral
+ or other assets of Borrower as an exercise of remedies pursuant to this Section X, Lender
+ shall be entitled to a liquidation fee equal to 1.0% of the proceeds of the sale of the Collateral,
+ which shall be deducted from the sale proceeds by Lender prior to application to any other
+ amounts owed hereunder.
+
+ 
+
+(c)
+
+Lender
+ shall also have the right, in connection with the exercise of its remedies pursuant to this
+ Section X, to purchase any relevant Fiat Currency or Digital Currency in the amount of any
+ insufficiency in a commercially reasonable manner, or foreclose on, liquidate, sell or collect
+ on the Collateral or any other assets of the Borrower that Lender or any affiliate of Lender
+ may then hold (including any such assets of Borrower held in a customer account at Lender
+ or any affiliate of Lender), and apply the proceeds to satisfy any and all obligations of
+ Borrower to Lender or any affiliate, whether arising under a different Loan or agreement,
+ or net, set off and/or recoup any and all obligations of Lender or any affiliate of Lender
+ to Borrower, against either the purchase price of such replacement Fiat Currency or Digital
+ Currency or any such obligations of Borrower to Lender or any affiliate of Lender. In connection
+ with the exercise of such remedies, Lender and its affiliates are hereby authorized to apply
+ or transfer any Collateral of Borrower interchangeably between Borrower and its affiliates
+ solely to satisfy any obligations of Borrower to Lender or its affiliates at any time with
+ prior notice (email sufficient) to Borrower.
+
+ 
+
+(d)
+
+Borrower
+ acknowledges that the price of Digital Currency is (i) volatile and thus may decline speedily
+ in value, and (ii) Digital Currencies are a type of asset customarily sold on a recognized
+ market. Accordingly, Borrower acknowledges and agrees that it would not be necessary under
+ Section 9-611(b) of the Uniform Commercial Code to give notice of any proposed disposition
+ of the Collateral. Borrower acknowledges that upon the occurrence of an Event of Default
+ and the exercise of remedies pursuant to the Loan Documents, (x) a commercially reasonable
+ bulk sale of the Collateral may occur which may result in a substantially discounted realization
+ value with respect to the Collateral compared to the then current market price, and (b) a
+ commercially reasonable private sale of the Collateral may occur which may result in less
+ proceeds than in a public sale.
+
+ 
+
+ 
+
+22
+
+ 
+
+ 
+
+ 
+
+ 
+
+XI.
+
+Rights
+ and Remedies Cumulative
+.
+
+ 
+
+No
+delay or omission by a Party in exercising any right or remedy hereunder shall operate as a waiver of the future exercise of that right
+or remedy or of any other rights or remedies hereunder. All rights of each Party stated herein are cumulative and in addition to all
+other rights provided by law, in equity.
+
+ 
+
+XII.
+
+Survival
+.
+
+ 
+
+Any
+expiration or termination of this Agreement will not affect any accrued claims, rights or liabilities of the Parties, and all provisions
+which must survive to fulfill their intended purposes, or by their nature are intended to survive such expiration or termination will
+survive, including Sections XII, XVI, XXVI, XXIX.
+
+ 
+
+XIII.
+
+Collection
+ Costs
+.
+
+ 
+
+In
+the event Borrower fails to return any Loaned Currency or upon the occurrence and during the continuation of any Event of Default hereunder,
+Borrower shall, upon demand, pay to Lender all reasonable costs and expenses, including without limitation, reasonable attorneys’
+fees and court costs, broker fees, and technology costs incurred by Lender in connection with the enforcement of its rights hereunder.
+
+ 
+
+XIV.
+
+Passwords
+ and Security
+.
+
+ 
+
+Each
+Party is responsible for maintaining adequate security and control of any and all passwords, private keys, and any other codes that it
+uses to transfer or receive Loaned Currency hereunder. Each Party will be solely responsible for the private keys that it uses to make
+the transfers and maintaining secure back-ups. Borrower will promptly notify Lender of any security breach of its accounts, systems or
+networks as soon as possible. Borrower will reasonably cooperate with Lender in the investigation of any suspected unauthorized transfers
+or attempted transfers using a Party’s account credentials or private keys, and any security breach of a Party’s accounts,
+systems, or networks, and Borrower shall provide Lender with the results of any third-party forensic investigation that it may undertake.
+Each Party will be responsible for any unauthorized transfers made utilizing its passwords, private keys, and any other codes it uses
+to make or receive transfers.
+
+ 
+
+XV.
+
+Governing
+ Law; Dispute Resolution
+.
+
+ 
+
+This
+Agreement and each Collateral Account (and any account agreement governing such Collateral Account is hereby amended to provide that
+such Collateral Account) is governed by, and shall be construed and enforced under, the laws of the State of Wyoming without regard to
+any choice or conflict of laws rules. If a dispute arises out of or relates to this Agreement, or the breach thereof, and if such dispute
+cannot be settled through negotiation it shall be finally resolved by binding arbitration administered in the County of Santa Clara,
+State of California, by the American Arbitration Association under its Commercial Arbitration Rules, or such other applicable arbitration
+body as required by law or regulation. The Parties agree to waive their rights to a jury trial. If any proceeding is brought for the
+enforcement of this Agreement, then the successful or prevailing Party shall be entitled to recover reasonable and documented attorneys’
+fees and other costs incurred in such proceeding in addition to any other relief to which it may be entitled.
+
+ 
+
+XVI.
+
+Confidentiality
+.
+
+ 
+
+(a)
+
+Each
+ Party to this Agreement shall hold in confidence all information obtained from the other
+ Party in connection with this Agreement and the transactions contemplated hereby, including
+ without limitation any discussions preceding the execution of this Agreement (collectively,
+ “
+Confidential Information
+”). Confidential Information shall not include
+ information that the receiving Party demonstrates with competent evidence was, or becomes,
+ (i) available to the public through no violation of this Section XVI, (ii) rightfully in
+ the possession of the receiving Party on a non-confidential basis prior to disclosure, (iii)
+ available to the receiving Party on a non-confidential basis from a source other than the
+ other Party or its affiliates, subsidiaries, officers, directors, employees, contractors,
+ attorneys, accountants, bankers or consultants (the “
+
+Representatives
+
+”),
+ or (iv) independently developed by the receiving Party without reference to or use of such
+ Confidential Information.
+
+ 
+
+ 
+
+23
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+
+Each
+ Party shall (i) keep and maintain such Confidential Information confidential in the same
+ manner as it treats its own confidential information and shall not, without the prior written
+ consent of the other Party, disclose or allow the disclosure of such Confidential Information
+ to any third party, except as otherwise herein provided, and (ii) restrict internal access
+ to and reproduction of the Confidential Information to a Party’s Representatives only
+ on a bona fide need to know basis related to effecting the purpose of this Agreement; provided,
+ however, that such Representatives shall be under an obligation of confidentiality at least
+ as strict as set forth in this Section XVI.
+
+ 
+
+(c)
+
+Each
+ Party also agrees not to use Confidential Information for any purpose other than in connection
+ with transactions contemplated by this Agreement.
+
+ 
+
+(d)
+
+The
+ provisions of this Section XVI will not restrict a Party from disclosing the other Party’s
+ Confidential Information to the extent required by any law, regulation, or direction by a
+ court of competent jurisdiction or government agency or regulatory authority with jurisdiction
+ over said Party; provided that the Party required to make such a disclosure, to the extent
+ practicable and permitted by law, uses reasonable efforts to give the other Party reasonable
+ advance notice of such required disclosure in order to enable the other Party to prevent
+ or limit such disclosure.
+
+ 
+
+(e)
+
+The
+ obligations with respect to Confidential Information shall survive so long as a Party retains
+ the other Party’s Confidential Information. Notwithstanding anything in this Agreement
+ to the contrary, a Party may retain copies of Confidential Information (the “
+
+Retained
+ Confidential Information
+
+”) to the extent necessary (i) to comply with its legal,
+ regulatory recordkeeping obligations, (ii) in the routine backup of data storage systems
+ in the event that such stored data is unreasonably burdensome to remove, and (iii) in order
+ to determine the scope of, and compliance with, its obligations under this Section XVI; provided,
+ however, that such Party agrees that any Retained Confidential Information shall be accessible
+ only by legal or compliance personnel of such Party and the confidentiality obligations of
+ this Section XVI shall survive with respect to the Retained Confidential Information for
+ so long as such information is retained.
+
+ 
+
+(f)
+
+Neither
+ Party will use any name, trade name, trademark, or other designation of the other Party in
+ advertising, publicity, promotional, or marketing materials, or any other activity, including
+ announcements about this Agreement, without the express prior written consent of the other
+ Party in each instance.
+
+ 
+
+ 
+
+24
+
+ 
+
+ 
+
+ 
+
+ 
+
+XVII.
+
+Notices
+.
+
+ 
+
+Unless
+otherwise provided in this Agreement, all notices or demands relating to this Agreement shall be in writing and shall be personally delivered
+or sent by express or certified mail (postage prepaid, return receipt requested) or overnight courier to the respective address set forth
+below, by electronic mail (at such email addresses as set forth below or as a Party may designate in accordance herewith), or by Telegram
+or through other electronic means as agreed between the Parties:
+
+ 
+
+Lender
+:
+
+ 
+
+Payward
+Interactive, Inc.
+
+106
+E. Lincolnway
+
+Fourth
+Floor
+
+Cheyenne,
+Wyoming, 82001
+
+Email:
+[***]
+
+ 
+
+Borrower
+:
+
+ 
+
+Nakamoto
+Holdings Inc.
+
+6339
+Charlotte Pike, Unit #B321
+
+Nashville,
+TN 37209
+
+Attention:
+President, Chief Operating Officer and General Counsel
+
+Email:
+[***]
+
+ 
+
+Either
+Party may change its address by giving the other Party written notice of its new address as herein provided.
+
+ 
+
+Collateral
+Call Notifications may be provided by telephone, with written confirmation to be provided thereafter.
+
+ 
+
+Notices
+and other communications sent by hand or overnight courier service, or mailed by express or certified mail, shall be deemed to have been
+given when received. For all purposes under this Agreement, an email is deemed to be received immediately after the time sent (as recorded
+on the device or system from which the sender sent the email), unless the sender receives an automated message that the email has not
+been delivered within 30 minutes of such email being sent (it being understood that an “out of office” or similar reply does
+not constitute a failure to deliver message for this purpose). Notices or communications sent via Telegram shall be deemed received immediately
+after the time sent.
+
+ 
+
+XVIII.
+
+Modifications
+.
+
+ 
+
+All
+modifications or amendments to this Agreement shall be effective only when reduced to writing and signed by both Parties hereto. Loan
+Term Sheets may be amended (other than with respect to increases in principal) when reduced to a writing by both parties, with email,
+Telegram and other forms of electronic written communication being sufficient.
+
+ 
+
+XIX.
+
+Single
+ Agreement
+.
+
+ 
+
+Lender
+and Borrower acknowledge that and have entered into this Agreement in reliance on the fact that all Loans hereunder constitute a single
+business and contractual relationship and have been entered into in consideration of each other. Accordingly, Lender and Borrower hereby
+agree that payments, deliveries, and other transfers made by either of them in respect of any Loan shall be deemed to have been made
+in consideration of payments, deliveries, and other transfers in respect of any other Loan hereunder, and the obligations to make any
+such payments, deliveries and other transfers may be applied against each other and netted. In addition, Lender and Borrower acknowledge
+that, and have entered into this Agreement in reliance on the fact that, all Loans hereunder have been entered into in consideration
+of each other. Accordingly, Borrower hereby agrees that (a) it shall perform all of its obligations in respect of each Loan hereunder,
+and that a default in the performance of any such obligation by Borrower in any Loan hereunder shall constitute a default by the Borrower
+under all such Loans hereunder, and (b) Lender shall be entitled to set off claims and apply property held by it in respect of any Loan
+hereunder against obligations owing to it in respect of any other Loan with Borrower.
+
+ 
+
+ 
+
+25
+
+ 
+
+ 
+
+ 
+
+ 
+
+XX.
+
+Entire
+ Agreement
+.
+
+ 
+
+This
+Agreement, each exhibit referenced herein, and all Loan Term Sheets constitute the entire Agreement among the Parties with respect to
+the subject matter hereof and supersede any prior negotiations, understandings and agreements with respect to the subject matter of this
+Agreement. This Agreement shall govern the terms of the transactions contemplated hereunder, and such transactions shall not be governed
+by the Lender’s or any of its affiliates’ Terms of Service, and in the case of any inconsistency between this Agreement and
+such Terms of Service, this Agreement shall control.
+
+ 
+
+XXI.
+
+Successors
+ and Assigns
+.
+
+ 
+
+This
+Agreement shall bind and inure to the benefit of the respective successors and assigns of each of the Parties; provided, that neither
+Party may assign this Agreement or any rights or duties hereunder without the prior written consent of the other Party, except Lender
+may assign its rights or obligations hereunder to one or more of its affiliates without Borrower’s consent. Lender shall provide
+notice to Borrower of any such assignment to an affiliate. Notwithstanding anything to the contrary, the Lender may assign, by novation
+or otherwise, all or any portion of its rights and obligations under the Loan Documents to a special purpose vehicle (an “
+
+Assignee
+SPV
+
+”), provided that: (a) the Lender or one of its Affiliates retains a continuing direct or indirect economic interest
+in the Loan of not less than ten percent (10%) of the aggregate principal amount and the related economic risk, which may be satisfied
+through the Lender’s or one of its Affiliates’ rights with respect to the Assignee SPV, including through a security interest
+in the Loan in favor of the Lender or one of its Affiliates; (b) the Lender or one of its Affiliates remains the servicer and primary
+point of contact for the Borrower; and (c) the Collateral will continue to be held and maintained in accordance with the Loan Documents
+without change, other than with respect to the identity of the secured party. Any such assignment shall not increase the Borrower’s
+costs, taxes, indemnities, or reporting, shall not modify rates, fees, maturity, collateral, or other material terms, and shall not adversely
+affect any defenses, setoff rights, or other rights of the Borrower. The Lender shall provide the Borrower at least five (5) Business
+Days’ prior written notice of any such assignment, and prior to effectiveness of any such assignment, the Borrower shall have the
+right to terminate and prepay any Loan hereunder upon five (5) Business Days’ written notice to the Lender, subject to any applicable
+prepayment penalties or makewhole. The Borrower shall reasonably cooperate, at the Lender’s expense, to effect the assignment (including
+by executing customary assignment documents that do not expand the Borrower’s obligations). For the avoidance of doubt, the Lender
+or one of its Affiliates shall remain the primary point of contact for the Borrower, and, absent the occurrence of an Event of Default,
+the Borrower shall have no obligation to deal with the Assignee SPV except as the Lender may reasonably request in writing.
+
+ 
+
+XXII.
+
+Severability
+ of Provisions
+.
+
+ 
+
+Each
+provision of this Agreement shall be severable from every other provision of this Agreement for the purpose of determining the legal
+enforceability of any specific provision.
+
+ 
+
+XXIII.
+
+Counterpart
+ Execution
+.
+
+ 
+
+This
+Agreement may be executed in any number of counterparts and by different parties on separate counterparts, each of which, when executed
+and delivered, shall be deemed to be an original, and all of which, when taken together, shall constitute but one and the same Agreement.
+Delivery of an executed counterpart of this Agreement by email or other electronic method of transmission (including email transmission
+of a PDF image or the use of a third-party platform, including DocuSign) shall be equally as effective as delivery of an original executed
+counterpart of this Agreement. The words “execute,” “execution,” “signed,” “signature,”
+and words of like import in or related to any document to be signed in connection with this Agreement and the transactions contemplated
+hereby shall be deemed to include electronic signatures, deliveries or the keeping of records in electronic form, each of which shall
+be of the same legal effect, validity or enforceability as a manually executed signature, physical delivery thereof or the use of a paper-based
+recordkeeping system, as the case may be, to the extent and as provided for in any applicable law, including the Federal Electronic Signatures
+in Global and National Commerce Act, the California Uniform Electronic Transactions Act, or any other similar state laws based on the
+Uniform Electronic Transactions Act. The parties hereto consent to the use of electronic signatures and records with respect to this
+Agreement.
+
+ 
+
+ 
+
+26
+
+ 
+
+ 
+
+ 
+
+ 
+
+XXIV.
+
+Relationship
+ of Parties
+.
+
+ 
+
+Nothing
+contained in this Agreement shall be deemed or construed by the Parties, or by any third party, to create the relationship of partnership
+or joint venture between the Parties hereto, it being understood and agreed that no provision contained herein shall be deemed to create
+any relationship between the parties hereto other than the relationship of Lender and Borrower.
+
+ 
+
+XXV.
+
+No
+ Waiver
+.
+
+ 
+
+The
+failure of or delay by either Party to enforce an obligation or exercise a right or remedy under any provision of this Agreement or to
+exercise any election in this Agreement shall not be construed as a waiver of such provision, and the waiver of a particular obligation
+in one circumstance will not prevent such Party from subsequently requiring compliance with the obligation or exercising the right or
+remedy in the future. No waiver or modification by either Party of any provision of this Agreement shall be deemed to have been made
+unless expressed in writing and signed by both parties.
+
+ 
+
+XXVI.
+
+Indemnification
+.
+
+ 
+
+(a)
+
+IN
+ NO EVENT SHALL EITHER PARTY, ITS AFFILIATES, OR ANY OF THEIR RESPECTIVE OFFICERS, DIRECTORS,
+ AGENTS, EMPLOYEES OR REPRESENTATIVES, BE LIABLE TO THE OTHER PARTY FOR ANY SPECIAL, INCIDENTAL,
+ INDIRECT, INTANGIBLE, OR CONSEQUENTIAL DAMAGES OR DAMAGES FOR LOSS OF PROFITS, WHETHER BASED
+ ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR OTHERWISE, ARISING OUT OF OR IN CONNECTION
+ WITH THIS AGREEMENT, INCLUDING BUT NOT LIMITED TO AUTHORIZED OR UNAUTHORIZED LOANS SUBJECT
+ TO THIS AGREEMENT.
+
+ 
+
+(b)
+
+Borrower
+ shall indemnify and hold harmless Lender, its affiliates and their respective owners, directors,
+ officers, employees, representatives and agents (each, an “
+
+Indemnified Person
+
+”)
+ from and against any and all third-party claims, demands, losses, expenses and liabilities
+ of any and every nature (including reasonable and documented attorneys’ fees of the
+ Indemnified Person’s choosing to defend against any such claims, demands, losses, expenses
+ and liabilities) that any Indemnified Person may sustain or incur or that may be asserted
+ against it arising out of any investigation, litigation or other proceeding related to the
+ entering into and/or performance of this Agreement or any other Loan Document or the provision
+ by Lender of any Loan hereunder or the consummation of any other transaction contemplated
+ herein or in any other Loan Document or the exercise of any of their rights or remedies provided
+ herein or in the other Loan Documents or from Borrower’s breach of any covenant, representation
+ or warranty made to Lender herein, except for any and all claims, demands, losses, expenses
+ and liabilities arising out of or relating to Lender’s bad faith, gross negligence
+ or willful misconduct in the performance of its duties under this Agreement. The obligations
+ of Borrower under this Section XXVI shall be continuing and survive termination of this Agreement.
+
+ 
+
+XXVII.
+
+Term
+ and Termination
+.
+
+ 
+
+The
+term of this Agreement (the “
+
+Term
+
+”) shall commence on the date hereof for a period of one year and shall automatically
+renew for successive one-year terms annually, unless either Party provides notice of a desire to terminate this Agreement no less than
+ten (10) days prior to the end of such one-year period, as applicable. The foregoing notwithstanding, this Agreement may be terminated
+as set forth in Section X or upon 30 days’ written notice (email sufficient) by either Party to the other. Notwithstanding anything
+herein to the contrary, if there are any Loans outstanding at the time either Party sends a notice of termination pursuant to this Section
+XXVII, such termination of this Agreement will not be effective until all Loans are terminated on the relevant Loan Termination Date
+or pursuant to Section (II)(d). In the event of a termination of this Agreement, all fees and other amounts owed hereunder shall be payable
+immediately.
+
+ 
+
+ 
+
+27
+
+ 
+
+ 
+
+ 
+
+ 
+
+XXVIII.
+
+Compliance
+.
+
+ 
+
+Borrower
+must maintain systems, safeguards, and procedures sufficient to ensure its compliance with its obligations in this Agreement and maintain
+related records for at least two (2) years after the termination of the Agreement. Lender reserves the right to conduct an audit of Borrower’s
+systems, safeguards, procedures, and records for compliance with its obligations under this Agreement. This section shall survive termination
+of the Agreement for a period of two (2) years.
+
+ 
+
+XXIX.
+
+Fee
+ Limitation
+.
+
+ 
+
+Notwithstanding
+anything herein to the contrary, if at any time the fees, charges and other amounts that are treated as interest on any Loan under Applicable
+Law (collectively the “
+
+Charges
+
+”), will exceed the maximum lawful rate (the “
+
+Maximum Rate
+
+”)
+which may be contracted for, charged, taken, received or reserved by Lender in accordance with Applicable Law, the Loan Fees hereunder,
+together with all Charges payable in respect of all Loans, will be limited to the Maximum Rate and, to the extent lawful, the Loan Fees
+and Charges that would have been payable in respect of this Agreement but were not payable as a result of the operation of this Section
+XXVIII will be cumulated and the Loan Fees and Charges payable to Lender in respect of other periods will be increased (but not above
+the Maximum Rate therefor) until such cumulated amount, together with Loan Fees thereon, will have been received by Lender.
+
+ 
+
+XXX.
+
+Miscellaneous
+.
+
+ 
+
+(a)
+
+Whenever
+ used herein, the singular number shall include the plural, the plural the singular, and the
+ use of the masculine, feminine, or neuter gender shall include all genders where necessary
+ and appropriate. This Agreement is solely for the benefit of the Parties hereto and their
+ respective successors and assigns, and no other Person shall have any right, benefit, priority
+ or interest under, or because of the existence of, this Agreement. The section headings are
+ for convenience only and shall not affect the interpretation or construction of this Agreement.
+ The Parties acknowledge that this Agreement and any Loan Term Sheet are the result of negotiation
+ between the Parties which are represented by sophisticated counsel and therefore none of
+ the Agreement’s provisions will be construed against the drafter.
+
+ 
+
+(b)
+
+If
+ an error is made hereunder in connection with a payment under any Loan Document, and such
+ payment is an overpayment or a payment not anticipated thereunder, the party receiving the
+ payment in error shall refund the mistaken amount to the paying party as promptly as is commercially
+ practicable; provided that the paying party may, in its sole discretion and upon written
+ notice of the amount and basis for such offset, elect to set-off such amounts against future
+ payments hereunder.
+
+ 
+
+[signatures
+appear on next page]
+
+ 
+
+ 
+
+28
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, the parties have caused this Agreement to be executed and delivered as of the date first above written.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Lender:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PAYWARD
+ INTERACTIVE, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Cynthia
+ Del Pozo
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief
+ Executive Officer and President
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Borrower:
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NAKAMOTO
+ HOLDINGS INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Tyler
+ Evans
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief
+ Executive Officer and President
+
+ 
+
+ 
+
+[Signature
+Page to Master Loan Agreement]
+
+ 
+
+ 
+
+29
+
+ 
+
+ 
+
+ 
+
+ 
+
+EXHIBITS
+
+ 
+
+EXHIBIT
+A - AUTHORIZED AGENTS
+
+ 
+
+EXHIBIT
+B - FORM OF LOAN TERM SHEET
+
+ 
+
+EXHIBIT
+C - FORM OF COLLATERAL CALL NOTIFICATION
+
+ 
+
+ 
+
+30

@@ -1,0 +1,728 @@
+EX-10.1
+
+2
+
+ex10-1.htm
+
+ 
+
+ 
+
+EXHIBIT
+10.1
+
+ 
+
+FORBEARANCE
+AGREEMENT
+
+ 
+
+THIS
+FORBEARANCE AGREEMENT (the “
+Agreement
+”) made, as of February 14, 2024, by and among WORKSPORT NEW YORK OPERATIONS
+CORPORATION, a New York corporation, having an address at 2500 North America Drive, West Seneca, New York 14224 (the “
+Borrower
+”),
+WORKSPORT LTD., a Nevada corporation, having an address at 123 W. Nye Lane, Carson City, Nevada 89706 (the “
+Guarantor
+”),
+and NORTHEAST BANK having an address at One Marina Park Drive, Boston, Massachusetts 02210 or its successors and/or assigns (the “
+Lender
+”).
+Borrower, Guarantor and Lender shall hereinafter collectively be referred to as the “
+Parties
+”.
+
+ 
+
+W
+I T N E S S E T H :
+
+ 
+
+WHEREAS,
+Lender has made a loan (the “
+Loan
+”) to Borrower in the principal amount of Five Million Three Hundred Thousand and
+00/100 Dollars ($5,300,000.00), which Loan is evidenced by (i) that certain Loan Agreement, dated as of May 4, 2022, between Borrower
+and Lender (the “
+Loan Agreement
+”) and (ii) that certain Promissory Note, dated as of May 4, 2022, made by Borrower
+in favor of Lender (the “
+Note
+”), and secured by, among other things, that certain Mortgage and Security Agreement,
+dated as of May 4, 2022, and recorded in the Erie County Clerk’s Office in Book 14501 of Mortgages at Page 4768 (the “
+Mortgage
+”),
+and guaranteed by Guarantor pursuant to that certain Guaranty of Payment, dated as of May 4, 2022 (the “
+Guaranty
+”,
+together with Loan Agreement, Note, Mortgage and all other documents, instruments and agreements entered into in connection with the
+Loan, collectively, the “
+Loan Documents”
+). Capitalized terms used but not otherwise defined herein shall have the
+meaning set forth in the Loan Documents; and
+
+ 
+
+WHEREAS,
+the Mortgage is now a first (1
+st
+) priority lien upon the property commonly known as 2500 North America Drive, West Seneca,
+New York, as more particularly described in 
+Schedule A-I
+ annexed hereto, and V/L North America Drive West Seneca, New York, as
+more particularly described in 
+Schedule A-2
+ annexed hereto (collectively, the “
+Premises
+”); and
+
+ 
+
+WHEREAS,
+pursuant to Section 8.18 of the Loan Agreement, Borrower violated the DSCR Covenant (the “
+DSCR Covenan
+t”) with respect
+to the Calculation Date on May 10, 2023 (the “
+DSCR Covenant Violation
+”); and
+
+ 
+
+WHEREAS,
+pursuant to a certain letter agreement dated as of August 7, 2023 between Borrower and Lender (the “
+Letter Agreement
+”),
+Borrower acknowledged and agreed that Borrower violated the DSCR Covenant, and Lender was willing to offer a one-time conditional waiver
+of the DSCR Covenant Violation, subject to Borrower’s and Guarantor’s compliance with the conditions set forth in the Letter
+Agreement and Lender submits said conditions were not timely satisfied and the one-time waiver of the DSCR Covenant Violation was not
+granted;
+
+ 
+
+WHEREAS,
+subsequent to the DSCR Covenant Violation, Lender submits that Borrower then violated Section 8.6.1 of the Loan, which prohibits Borrower
+from selling any direct or indirect ownership interest in Borrower without the written consent of the Lender, as a result of the Guarantor,
+which was the sole shareholder of Borrower, raising capital via a stock sale on October 31, 2023 (the “
+Ownership Transfer
+”);
+and
+
+ 
+
+WHEREAS,
+by notice of default dated November 16, 2023 (the “
+Notice of Default
+”), the Lender declared the Loan in default pursuant
+to Sections 10.1.1, 10.2.1(E), and 10.2.1(F) of the Loan Agreement as a result of the DSCR Covenant Violation and the Ownership Transfer;
+and
+
+ 
+
+WHEREAS,
+the Lender, at the request of Borrower and Guarantor (and without obligation to do so) has agreed as hereinafter provided during the
+Forbearance Period (hereinafter defined) to forbear from immediately enforcing its rights in connection with the Loan Agreement, the
+Note, the Mortgage, the Guaranty and the other Loan Documents to move for judgment of foreclosure and sale and seek the appointment of
+a receiver, and to otherwise immediately enforce its rights under the Loan Documents, subject to Borrower’s and Guarantor’s
+fully and timely compliance with this Forbearance Agreement, on the express condition that Borrower and Guarantor shall satisfy the conditions
+set forth in this Agreement and comply with all of the terms of the Loan Agreement, the Note, the Mortgage, the Guaranty and the other
+Loan Documents, all as amended by this Agreement.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NOW,
+THEREFORE, in consideration of Ten Dollars ($10.00) and for other good and valuable consideration, the receipt and sufficiency of which
+are hereby acknowledged, the parties do hereby agree as follows:
+
+ 
+
+1.
+Borrower and Guarantor acknowledge, confirm and agree that: (i) the Loan Agreement, the Note, the Mortgage, the Guaranty and the Loan
+Documents are in full force and effect as of the date hereof; (ii) the covenants, agreements and obligations of Borrower and Guarantor
+contained in or incurred under the Loan Agreement, the Note, the Mortgage, the Guaranty and the other Loan Documents constitute the legal,
+valid binding obligations of Borrower and Guarantor and, as the case may be, are enforceable against the Borrower and Guarantor in accordance
+with the terms and conditions of the Loan Documents; (iii) the outstanding principal balance due under the Note and Mortgage is $5,300,000.00;
+(iv) interest thereon has been paid through December 10, 2023; (v) there is presently a balance of $675,786.81 in the Interest Reserve
+Account on deposit with Lender pursuant to Section 8.21 of the Loan Agreement; (vi) the Mortgage constitutes a first (1st) priority lien
+on the Premises; and (vii) there are no offsets or defenses to the repayment of such indebtedness.
+
+ 
+
+2.
+The Parties, pursuant to this Agreement, shall have bound itself to comply with the requirements of this Agreement and to otherwise comply
+with the requirements of and perform the obligations set forth in the Loan Agreement, the Note, the Mortgage, the Guaranty and the other
+Loan Documents, simultaneously with the signing of this Agreement.
+
+ 
+
+3.
+Borrower and Guarantor acknowledge that (i) the Recitals in this Agreement are true and correct in all material respects and are deemed
+to be incorporated herein, (ii) the DSCR Covenant Violation has occurred and constitutes an Event of Default under the Loan Documents
+(the “
+DSCR Default
+”), (iii) Borrower failed to timely satisfy the conditions set forth in the Letter Agreement for
+the one-time waiver of the DSCR Covenant Violation and therefore the DSCR Default remains in effect, and (iv) the transfer of ownership
+interests related to the Ownership Transfer has occurred, which Lender has deemed an Event of Default under the Loan Documents (which
+together with the DSCR Default shall collectively be referred to herein as the “
+Existing Defaults
+”), and Borrower
+hereby waives any and all defenses to said Existing Defaults. Borrower and Guarantor acknowledge and agree that with the exception to
+the Existing Defaults and to the best of their knowledge, no further Defaults or Events of Default exist under any of the Loan Documents.
+The Borrower and Guarantor acknowledge by entering this Agreement (i) the Lender does not and has not waived and is not ever obligated
+to waive any Default or Event of Default under the Loan Documents, including, without limitation, the Existing Defaults, subject to the
+terms of this Agreement; (ii) all of the Existing Defaults and the rights and remedies of Lender arising in connection therewith are
+hereby preserved, subject to the terms of this Agreement; and (iii) except as specifically set forth herein, nothing contained herein
+constitutes an amendment or modification of any terms, covenants or conditions of the Loan Documents, or a waiver of any Default or Event
+of Default which may hereafter occur under the Loan Documents.
+
+ 
+
+4.
+Prior to a Termination Event (as hereinafter defined) and during the Borrower’s and Guarantor’s performance of the Forbearance
+Conditions (as hereinafter defined) and its other obligations under this Agreement, and so long as such performance persists during such
+period, Lender shall forebear from commencing an action for a judgment of foreclosure and sale, seeking the appointment of a receiver
+and/or collecting the Accrued Default Interest (as hereinafter defined) (provided that the same shall continue to accrue pursuant to
+the terms of the Note), from the date the DSCR Covenant Violation occurred through the occurrence of a Termination Event (the “
+Forbearance
+Period
+”). All outstanding principal, together with all accrued and unpaid interest thereon (including, without limitation,
+the Accrued Default Interest, as applicable), as the case may be, and any and all other amounts of any nature whatsoever due hereunder
+and under the Loan Documents, shall be due and payable in full on the earlier of (i) the Maturity Date, (ii) the payment in full of the
+Loan prior to the Maturity Date or (iii) the occurrence of a Termination Event. Notwithstanding the foregoing or anything contained to
+the contrary herein, the Parties hereby acknowledge and agree that interest at the Default Rate, which has and shall continue to accrue
+from the date of the DSCR Covenant Violation (the “
+Accrued Default Interest
+”), shall only be due and payable to Lender
+(i) upon the occurrence of an Event of Default with exception to the Existing Defaults, (ii) upon the occurrence of a Termination Event,
+and/or (iii) in the event of a default by Borrower or Guarantor in the performance of any of the Forbearance Conditions or any other
+covenants, conditions and agreements contained in this Agreement.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.
+Lender’s agreement to forbear from commencing an action for a judgment of foreclosure and sale, seeking the appointment of a receiver
+and/or collecting Accrued Default Interest during the Forbearance Period shall be contingent upon the satisfaction of the following conditions
+(the “
+Forbearance Conditions
+”) in the Lender’s sole but commercially reasonable determination:
+
+ 
+
+(a)
+During the term of the Loan and during the Forbearance Period, Borrower, Guarantor and all of their Affiliates shall hereafter maintain,
+all operating accounts and deposit accounts with Lender, other than the certain foreign transaction accounts, as more particularly described
+on 
+Schedule B
+ annexed hereto (together, the “
+Excluded Accounts
+”), which Excluded Accounts shall not, in the
+aggregate, maintain a balance in excess of $400,000.00 at any time (the “
+Excluded Account Maximum Balance
+”), without
+the prior written consent of Lender. Borrower shall furnish to Lender monthly bank statements for the Excluded Accounts evidencing a
+balance less than the Excluded Account Maximum Balance;
+
+ 
+
+(b)
+In addition to the financial reporting requirements set forth in Section 8.2 of the Loan Agreement, Borrower and Guarantor shall furnish
+to Lender the following financial statements, reports and information to Lender within the time periods set forth below:
+
+ 
+
+i.
+Within thirty (30) days of each quarter end, quarterly projections including profit and loss, balance sheet, and cash flow related to
+Guarantor’s business operations;
+
+ 
+
+ii.
+Within thirty (30) days of each quarter end, accounts receivable, accounts payable and inventory aging schedules related to Guarantor’s
+business operations;
+
+ 
+
+iii.
+Within thirty (30) days of each quarter end, copies of all purchase orders related to Guarantor’s business operations;
+
+ 
+
+iv.
+Within thirty (30) days of each quarter end, profit and loss and income statements related to Guarantor’s business operations.
+
+ 
+
+6.
+Each of the following shall constitute a “
+Termination Event
+” under this Agreement:
+
+ 
+
+(a)
+The occurrence of a monetary Event of Default or a material non-monetary Event of Default (as determined by Lender in Lender’s
+sole but commercially reasonable discretion) under the Loan Documents (other than the Existing Defaults);
+
+ 
+
+(b)
+Borrower shall fail to timely pay the entire unpaid principal balance of Loan, together with all accrued and unpaid interest and any
+other charges due thereon on or before the Maturity Date;
+
+ 
+
+(c)
+Borrower, Guarantor and/or their Affiliates shall fail to satisfy any of the Forbearance Conditions or any other covenants, conditions
+and agreements contained in this Agreement;
+
+ 
+
+(d)
+a sale and/or transfer of the direct or indirect ownership in Borrower and/or Guarantor (other than a Permitted Transfer as defined in
+Section 8.6.3 of the Loan Agreement, as amended by Section 7 of this Agreement); and/or
+
+ 
+
+(e)
+any other default under this Agreement.
+
+ 
+
+Lender’s
+rights and remedies under the Loan Documents from and after the occurrence of a Default or an Event of Default shall not be diminished
+or affected pursuant to the above definition of Termination Event and the use of such term herein.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7.
+The Parties hereby agree that the definition of “
+Permitted Transfers
+” in Section 8.6.3 of the Loan Agreement shall
+be amended to include the following:
+
+ 
+
+(a)
+“The transfer of direct or indirect interest in Guarantor solely as the result of a stock sale to raise additional capital in Guarantor,
+provided that in all cases: (i) no Default or Event of Default shall exist under the Loan Documents (other than the Existing Defaults);
+(ii) the transfer shall not change the direct ownership in Borrower or the management control of Borrower; (iii) the transfer shall not
+result in a change of control of Guarantor such that Steven Rossi is no longer a controlling member of the Board of Directors of Guarantor;
+(iv) the transfer shall not result in any new individual or entity owning a 10% or greater ownership interest in Guarantor (other than
+those shares of Guarantor publicly traded on the NASDAQ exchange for which notice will be given to Lender if any single individual or
+entity holds 10% or greater of such shares) or a 10% or greater indirect ownership interest in Borrower; (v) no transferee shall be a
+Sanctioned Person; (vi) Borrower shall provide Lender with at least ten (10) days prior written notice of any capital raise by Guarantor
+(which notice may be given by email); and (vii) Borrower shall deliver to Lender satisfactory reporting of the results of such capital
+raise within three (3) days after the conclusion of the same.”
+
+ 
+
+8.
+Notwithstanding anything to the contrary contained herein, Borrower shall continue to make monthly payments of interest in accordance
+with the terms of the Note. Lender represents that the monthly payment of interest due December 10, 2023 has been made. During the Forbearance
+Period, Borrower shall at all times continue to maintain the Minimum Balance Requirement in the Interest Reserve in accordance with Section
+8.21.2 of the Loan Agreement.
+
+ 
+
+9.
+Upon the occurrence of a Default or an Event of a Default by Borrower and/or Guarantor during the Forbearance Period, including a default
+in the performance of any of the Forbearance Conditions or any other covenants and agreements contained in this Agreement, the Loan Agreement,
+the Note, the Mortgage and/or the other Loan Documents, Borrower shall be afforded the notice, if any, and opportunity to cure as provided
+for in the Loan Documents.
+
+ 
+
+10.
+In the event the Note and Mortgage are not paid in full prior to the end of the Forbearance Period or immediately upon the occurrence
+of a Termination Event, the Lender shall be entitled to all remedies provided in this Agreement and the Loan Documents, including, but
+not limited to, collecting the Accrued Default Interest from the date of the occurrence of the DSCR Covenant Violation until the earlier
+date of (i) entry of the judgment of foreclosure and sale or (ii) payment in full of the Loan.
+
+ 
+
+11.
+Until the full completion by the Borrower and/or Guarantor of the performance required of Borrower under this Agreement, the Loan Agreement,
+the Note, the Mortgage and the other Loan Documents throughout the Forbearance Period, Lender’s acceptance of any payments is expressly
+without prejudice to any of the Lender’s rights, does not constitute a waiver or estoppel for any purpose whatsoever.
+
+ 
+
+12.
+The Lender agrees that, subject to the performance of Borrower and/or Guarantor, as the case may be, pursuant to the terms of this Agreement
+(including, without limitation, Borrower timely complying with the Forbearance Conditions), it will not commence an action to foreclose
+the Mortgage, seek the appointment of a receiver, or to enforce the Loan Agreement, the Note, the Guaranty or other Loan Documents, during
+the Forbearance Period, on the express condition that Borrower complies with all terms of the Mortgage, the Loan Agreement, the Note,
+the Guaranty, the other Loan Documents and this Agreement (other than the Existing Defaults). In addition, this Agreement shall automatically
+terminate, without further act or instrument upon the occurrence of a Termination Event.
+
+ 
+
+13.
+Each of Borrower and Guarantor (the “
+Borrower Parties
+”), for itself and its successors and assigns, hereby waives,
+releases and forever discharges Lender, its agents, employees, members, managers, officers, attorneys and affiliates from all claims,
+damages, losses, demands, liabilities, actions, suits, causes of action, offsets, counterclaims, and defenses (collectively, “
+Claims
+”)
+that it may now have or claim to have, whether presently known or unknown, foreseen or unforeseen, in any way arising out of or relating,
+directly or indirectly to any circumstances or state of facts existing on or before the date hereof and pertaining to the Loan and/or
+the Loan Documents, including but not limited to claims related to Lender’s actions in administering the Loan or negotiating the
+Loan Documents and claims of lender liability, fraud, duress, illegality, usury, waiver, bad faith, interference in Borrower’s
+business, or any nonperformance of any agreement or obligation related thereto. Each of the Borrower Parties acknowledges the possibility
+that unknown losses or claims may exist, or that known losses or claims may have been underestimated in amount or severity. Each of the
+Borrower Parties confirms that it has taken such possibility into account in determining the consideration to be given for this Agreement
+and in giving a full accord, satisfaction and discharge of the aforesaid Claims.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+14.
+Subject to the terms of this Agreement, Borrower’s failure to pay any sums due pursuant to the Mortgage, the Note, the Loan Agreement,
+the other Loan Documents or this Agreement, and any other Defaults or Events of Default under the Mortgage, the Loan Agreement, the Note,
+the other Loan Documents and this Agreement, will, in each instance, entitle the Lender to pursue any and all of its remedies provided
+herein and as may be contained in the Loan Documents, including, but not limited to, commencing a foreclosure action under the Mortgage,
+including the recovery of the full amount due from Borrower and/or Guarantor (less a credit for monies paid), including interest at the
+Default Rate from the date of the DSCR Covenant Violation until the earlier date of (i) entry of the judgment of foreclosure and sale
+or (ii) payment in full of the Loan, and shall entitle Lender to the entry of a judgment for the amount due under the Mortgage and for
+a judgment of foreclosure and sale in foreclosure to satisfy the judgment for the amount due to Lender, to which Borrower, in such instance,
+hereby consents, and waives all further notice and demand. Lender shall be entitled to the entry of a judgment for all of the relief
+described in this Paragraph 14 upon the filing of an affidavit with the court, made by an officer of Lender, setting forth the fact of
+Borrower’s and/or Guarantor’s default under this Agreement and failure to cure. Borrower and Guarantor hereby waive any and
+all defenses to an action to foreclose the mortgage or to collect under the Guaranty, respectively, other than mandatory counterclaims.
+Borrower acknowledges, consents and agrees that upon a Default or an Event of Default by Borrower under this Agreement, the Note, the
+Loan Agreement, the Mortgage and/or any other Loan Documents, all rents in the possession of Borrower or its representatives or agents
+shall be turned over to Lender and that all rent shall be payable to Lender.
+
+ 
+
+15.
+Guarantor confirms and approves this Agreement, and ratifies and affirms the Guaranty, and agrees that the Guaranty is in full force
+and effect following the execution and delivery of this Agreement. The representations and warranties of Guarantor in the Guaranty are,
+as of the date hereof, true and correct and Guarantor does not know of any default thereunder. The Guaranty continues to be the valid
+and binding obligation of Guarantor, enforceable in accordance with its terms and Guarantor has no claims or defenses to the enforcement
+of the rights and remedies of Lender thereunder, except as provided in the Guaranty.
+
+ 
+
+16.
+Except as specifically modified herein, all other terms of the Mortgage, the Loan Agreement, the Note, the Guaranty and the other Loan
+Documents, are hereby ratified and confirmed by the Parties, and nothing contained herein shall be deemed to diminish or modify the provisions
+thereof or the Lender’s rights under same. Whenever the terms and conditions of this Agreement shall in any way conflict with the
+terms and conditions of the Loan Documents, the terms and conditions of this Agreement shall control and prevail over the said Loan Documents.
+
+ 
+
+17.
+No failure or delay on the part of the Lender to exercise any right, power or remedy hereunder shall operate as a waiver thereof, nor
+shall any single or partial exercise of any such right, power or remedy preclude any other or further exercise thereof or the exercise
+of any right, power or remedy hereunder.
+
+ 
+
+18.
+Any notices required to be given hereunder must be made in accordance with the notice provisions set forth in the Loan Documents.
+
+ 
+
+19.
+Each of the parties hereto hereby irrevocably waive its rights to a jury trial of any claim or cause of action based upon or arising
+out of this Agreement, the Loan Documents and/or the Loan.
+
+ 
+
+20.
+
+Time is of the essence
+
+ of each of Borrower’s and Guarantor’s obligations under this Agreement.
+
+ 
+
+21.
+This Agreement may not be amended except in a writing signed by the parties hereto and this Agreement shall be governed by and construed
+in accordance with the laws of the State of New York in the event any one or more of the provisions of this Agreement shall for any reason
+be invalid, illegal or unenforceable in any respect, such invalidity, illegality, or unenforceability shall not affect any other provision
+of this Agreement, but this Agreement shall be construed as if such invalid, illegal or unenforceable provision had never been contained
+herein.
+
+ 
+
+22.
+This Agreement shall inure to the benefit of and shall be binding upon the parties hereto and their respective heirs, administrators,
+executors, successors and assigns. Nothing in this Agreement, express or implied, is intended to confer on any person other than the
+parties hereto, or their respective heirs, administrators, executors, successors and assigns, any rights, remedies, obligations or liabilities.
+
+ 
+
+23.
+This Agreement may be executed in one or more counterparts, all of which, when taken together, shall constitute one (1) original Agreement.
+
+ 
+
+[Remainder
+of Page Intentionally Left Blank]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, this Agreement has been duly executed and delivered by the Borrower, Guarantor and Lender.
+
+ 
+
+ 
+ 
+
+ 
+
+BORROWER
+:
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+WORKSPORT
+ 
+NEW YORK OPERATIONS CORPORATION
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Steven Rossi
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Steven Rossi
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+
+ 
+
+ 
+ 
+
+ 
+
+GUARANTOR:
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+WORKSPORT
+ 
+LTD.
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Steven
+ Rossi
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Steven Rossi
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief Executive Officer
+
+ 
+
+ 
+ 
+
+ 
+
+LENDER:
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+NORTHEAST 
+ 
+BANK
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Brian R. Doherty
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Brian R. Doherty
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+Managing Director

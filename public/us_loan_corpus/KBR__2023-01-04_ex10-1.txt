@@ -1,0 +1,3927 @@
+EX-10.1
+
+2
+
+ex10-1.htm
+
+AMENDMENT NO. 7 TO THE CREDIT AGREEMENT, DATED AS OF DECEMBER 30, 2022
+
+ 
+
+ 
+
+KBR, INC. 8-K
+ 
+
+ 
+
+Exhibit 10.1
+
+ 
+
+AMENDMENT
+NO. 7 TO CREDIT AGREEMENT (REFINANCING AMENDMENT)
+
+ 
+
+This AMENDMENT NO.
+7 TO CREDIT AGREEMENT (this “
+Amendment
+”), dated as of December 30, 2022, is entered into by and among KBR, INC.,
+a Delaware corporation (“
+KBR
+”), the Guarantors (as identified on the signature pages hereto, and together with
+KBR, the “
+Loan Parties
+”), each Permitted Refinancing 2022 Lender (as defined below), BANK OF AMERICA, N.A.,
+as administrative agent (in such capacity, the “
+Administrative Agent
+”) and as the Swing Line Lender (as defined
+in the Existing Credit Agreement (as defined below)), and each L/C Issuer (as defined in the Existing Credit Agreement).
+
+ 
+
+RECITALS
+
+ 
+
+WHEREAS
+, the
+Borrowers, the Administrative Agent and certain banks and other financial institutions (to the extent of their Loans and Commitments
+under the Existing Credit Agreement as in effect immediately prior to giving effect to this Amendment, the “
+Existing Lenders
+”)
+are parties to that certain Syndicated Facility Agreement, dated as of April 25, 2018 (as previously amended, as amended hereby
+and as further amended, restated, amended and restated, extended, supplemented or otherwise modified from time to time, the “
+Credit
+Agreement
+” and the Credit Agreement prior to giving effect to this Amendment being referred to as the “
+Existing
+Credit Agreement
+”), pursuant to which the Existing Lenders have extended certain revolving and term loan facilities to
+KBR;
+
+ 
+
+WHEREAS
+, subject
+to the terms and conditions of the Existing Credit Agreement, and pursuant to Section 2.15 of the Existing Credit Agreement, KBR
+has requested that (a) the Lenders party hereto agree to provide Permitted Refinancing Term Loans in an aggregate principal amount
+of $99,266,146.01 (the “
+2022 Refinancing Term Loan
+”), and each of the Lenders with a commitment to the 2022
+Refinancing Term Loan in the amount listed on 
+Exhibit A
+ hereto (such Lenders, the “
+Permitted Refinancing 2022 Lenders
+”)
+is willing to effect such 2022 Refinancing Term Loans, as provided in, and on the terms and conditions contained in, this Amendment
+and the Existing Credit Agreement and (b) the Existing Credit Agreement be amended in the manner provided herein (the transactions
+described in this paragraph, collectively, the “
+Transactions
+”).
+
+ 
+
+NOW, THEREFORE
+,
+for valuable consideration, the receipt and adequacy of which are hereby acknowledged, the parties hereto hereby agree as follows:
+
+ 
+
+1.
+             
+
+Defined Terms
+. Unless otherwise defined herein, capitalized terms used herein shall have the meanings, if any, assigned
+to such terms in the Existing Credit Agreement.
+
+ 
+
+2.
+             
+
+2022 Refinancing Term Loans
+. Subject to the terms and conditions hereof and in accordance with 
+Section 2.15
+
+of the Existing Credit Agreement:
+
+ 
+
+(a)
+           
+
+Making of 2022 Refinancing Term Loans
+. Each Permitted Refinancing 2022 Lender hereby severally agrees to make 2022
+Refinancing Term Loans to KBR in an aggregate amount equal to $99,266,146.01 in a single drawing on the Amendment No. 7 Effective
+Date (as defined below), with each such Permitted Refinancing 2022 Lender making 2022 Refinancing Term Loans in the aggregate principal
+amount set forth for such Permitted Refinancing 2022 Lender on 
+Exhibit A
+ hereto, on the terms and subject to the conditions
+set forth in this Amendment. Any 2022 Refinancing Term Loans borrowed and subsequently repaid or prepaid may not be reborrowed.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+           
+
+2022 Refinancing Term Loans Provisions
+. The 2022 Refinancing Term Loans shall: (i) constitute Obligations, Permitted
+Refinancing Term Loans, Term Loans and Loans under the Credit Agreement and the other Loan Documents and have all of the benefits
+thereof, (ii) be secured by the Collateral and rank pari passu in right of payment and security with the existing Loans under the
+Credit Agreement, (iii) refinance and replace the existing Term A-1 Loans under the Term A-1 Facility under the Existing Credit
+Agreement and, from and after the Amendment No. 7 Effective Date, constitute the “Term A-1 Loans” under the Credit
+Agreement, with all uses of the term “Term A-1 Loans” under the Credit Agreement on and after the Amendment No. 7 Effective
+Date (except as otherwise set forth below) to be deemed to refer to the 2022 Refinancing Term Loans provided under this Amendment
+and, with respect to references to the Term A-1 Lenders, to the Permitted Refinancing 2022 Lenders (as applicable), including without
+limitation the definition of Maturity Date and (iv) except as specifically provided in this Amendment, be subject to all the same
+terms and conditions (including, without limitation, prepayment rights and rights with respect to Events of Default) as the Term
+A-1 Loans under the Term A-1 Facility. The 2022 Refinancing Term Loans constitute term “A” loans and not term “B”
+loans. Notwithstanding, but without limitation of, the foregoing:
+
+ 
+
+(i)
+                
+
+the following new definitions are added to the Credit Agreement in their proper alphabetical order:
+
+ 
+
+“
+2022
+Refinancing Base Rate
+” means for any day a fluctuating rate per annum equal to the highest of (a) the Federal Funds Rate
+plus 1/2 of 1% (b) the rate of interest in effect for such day as publicly announced from time to time by Bank of America as its
+“prime rate”, (c) 2022 Refinancing Term SOFR plus 1.00% and (d) 1.00%. The “prime rate” is a rate set by
+Bank of America based upon various factors including Bank of America’s costs and desired return, general economic conditions
+and other factors, and is used as a reference point for pricing some loans, which may be priced at, above, or below such announced
+rate. Any change in such prime rate announced by Bank of America shall take effect at the opening of business on the day specified
+in the public announcement of such change. If the 2022 Refinancing Base Rate is being used as an alternate rate of interest, then
+the 2022 Refinancing Base Rate shall be the greater of clauses (a), (b) and (d) above and shall be determined without reference
+to clause (c) above.
+
+ 
+
+“
+2022
+Refinancing Base Rate Loan
+” means any 2022 Refinancing Term Loan that bears interest at the 2022 Refinancing Base Rate.
+
+ 
+
+“
+2022
+Refinancing Interest Payment Date
+” means, as to any 2022 Refinancing Term Loan, the last day of each 2022 Refinancing
+Interest Period applicable to such Loan and the Maturity Date with respect to the 2022 Refinancing Term Loan.
+
+ 
+
+“
+2022
+Refinancing Interest Period
+” means as to each 2022 Refinancing Term SOFR Loan, the period commencing on the date such
+2022 Refinancing Term SOFR Loan is disbursed or converted to or continued as a 2022 Refinancing Term SOFR Loan and ending on the
+date one or three months thereafter (in the case of each requested 2022 Refinancing Interest Period, subject to availability),
+as selected by KBR in its 2022 Refinancing Term Loan Notice; 
+provided
+ that:
+
+ 
+
+(a)       any
+2022 Refinancing Interest Period that would otherwise end on a day that is not a Business Day shall be extended to the next succeeding
+Business Day unless, in the case of a 2022 Refinancing Term SOFR Loan, such Business Day falls in another calendar month, in which
+case such 2022 Refinancing Interest Period shall end on the next preceding Business Day;
+
+ 
+
+(b)       any
+2022 Refinancing Interest Period pertaining to a 2022 Refinancing Term SOFR Loan that begins on the last Business Day of a calendar
+month (or on a day for which there is no numerically corresponding day in the calendar month at the end of such 2022 Refinancing
+Interest Period) shall end on the last Business Day of the calendar month at the end of such 2022 Refinancing Interest Period;
+and
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c)        no
+2022 Refinancing Interest Period shall extend beyond the Maturity Date with respect to the 2022 Refinancing Term Loans.
+
+ 
+
+“
+2022
+Refinancing SOFR
+” means the Secured Overnight Financing Rate as administered by the Federal Reserve Bank of New York
+(or a successor administrator).
+
+ 
+
+“
+2022
+Refinancing Successor Rate
+” means any successor to 2022 Refinancing Term SOFR for purposes of the 2022 Refinancing Term
+Loans as provided in this Amendment.
+
+ 
+
+“
+2022
+Refinancing Term Loan Conforming Changes
+” means, with respect to the use, administration of or any conventions associated
+with 2022 Refinancing SOFR, 2022 Refinancing Term SOFR or any proposed Successor Rate for Dollars, as applicable, any conforming
+changes to the definitions of “2022 Refinancing Base Rate”, “2022 Refinancing SOFR”, “2022 Refinancing
+Term SOFR” and “2022 Refinancing Interest Period”, timing and frequency of determining rates and making payments
+of interest and other technical, administrative or operational matters (including, for the avoidance of doubt, the definitions
+of “Business Day” and “U.S. Government Securities Business Day”, timing of borrowing requests or prepayment,
+conversion or continuation notices and length of lookback periods) as may be appropriate, in the discretion of the Administrative
+Agent, to reflect the adoption and implementation of such applicable rate(s) and to permit the administration thereof by the Administrative
+Agent in a manner substantially consistent with market practice for Dollars (or, if the Administrative Agent determines that adoption
+of any portion of such market practice is not administratively feasible or that no market practice for the administration of such
+rate for Dollars exists, in such other manner of administration as the Administrative Agent determines is reasonably necessary
+in connection with the administration of this Agreement and any other Loan Document).
+
+ 
+
+“
+2022
+Refinancing Term Loan Notice
+” means a notice of (a) a borrowing of the 2022 Refinancing Term Loans on the Amendment No.
+7 Effective Date, (b) a conversion of 2022 Refinancing Term Loans from one 2022 Refinancing Term Loan Type to the other, or (c)
+a continuation of 2022 Refinancing Term SOFR Loans pursuant to this Amendment, which shall be substantially in the form of 
+Exhibit
+B
+ to this Amendment or such other form as may be approved by the Administrative Agent (including any form on an electronic
+platform or electronic transmission system as shall be approved by the Administrative Agent), appropriately completed and signed
+by a Responsible Officer of KBR.
+
+ 
+
+“
+2022
+Refinancing Term Loan Type
+” means, with respect to a 2022 Refinancing Term Loan, its character as a 2022 Refinancing
+Base Rate Loan or a 2022 Refinancing Term SOFR Loan.
+
+ 
+
+“
+2022 Refinancing
+Term SOFR
+” means:
+
+ 
+
+(a)       for
+any 2022 Refinancing Interest Period with respect to a 2022 Refinancing Term SOFR Loan, the rate per annum equal to the 2022 Refinancing
+Term SOFR Screen Rate two U.S. Government Securities Business Days prior to the commencement of such 2022 Refinancing Interest
+Period with a term equivalent to such 2022 Refinancing Interest Period; provided that if the rate is not published prior to 11:00
+a.m. on such determination date then 2022 Refinancing Term SOFR means the 2022 Refinancing Term SOFR Screen Rate on the first U.S.
+Government Securities Business Day immediately prior thereto, in each case, 
+plus
+ the SOFR Adjustment for such Interest Period;
+and
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)       for
+any interest calculation with respect to a 2022 Refinancing Base Rate Loan on any date, the rate per annum equal to the 2022 Refinancing
+Term SOFR Screen Rate with a term of one month commencing that day;
+
+ 
+
+provided
+ that if 2022 Refinancing
+Term SOFR determined in accordance with any of the foregoing provisions of this definition would otherwise be less than zero, 2022
+Refinancing Term SOFR shall be deemed zero for purposes of this Agreement.
+
+ 
+
+“
+2022
+Refinancing Term SOFR Loan
+” means a 2022 Refinancing Term Loan that bears interest at a rate based on 
+clause (a)
+
+of the definition of 2022 Refinancing Term SOFR.
+
+ 
+
+“
+2022
+Refinancing Term SOFR Screen Rate
+” means the forward-looking 2022 Refinancing SOFR term rate administered by CME (or
+any successor administrator satisfactory to the Administrative Agent) and published on the applicable Reuters screen page (or such
+other commercially available source providing such quotations as may be designated by the Administrative Agent from time to time).
+
+ 
+
+“
+CME
+”
+means CME Group Benchmark Administration Limited.
+
+ 
+
+“
+Seventh
+Amendment
+” means that certain Amendment No. 7 to Credit Agreement (Refinancing Amendment) dated as of the Amendment No.
+7 Effective Date, among KBR, each Subsidiary of KBR party thereto, the Permitted Refinancing 2022 Lenders party thereto and the
+Administrative Agent.
+
+ 
+
+“
+SOFR
+Adjustment
+” means 0.10%.
+
+ 
+
+“
+U.S.
+Government Securities Business Day
+” means any Business Day, except any Business Day on which any of the Securities Industry
+and Financial Markets Association, the New York Stock Exchange or the Federal Reserve Bank of New York is not open for business
+because such day is a legal holiday under the federal laws of the United States or the laws of the State of New York, as applicable.
+
+ 
+
+(ii)
+          
+the definition of “Designated Borrower” shall be amended and restated to read as follows”
+
+ 
+
+“ ‘Designated Borrower’
+has the meaning specified in the introductory paragraph hereto, and means, with respect to (a) the Term A-3 Facility, the Term
+A-3 Borrower and (b) the Revolving Credit Facility, means any Subsidiary of the Borrower (i) that is organized under the laws of
+the United States, the United Kingdom, the Netherlands, Australia or any other jurisdiction reasonably acceptable to each Revolving
+Credit Lender and (ii) (x) which is designated as a Designated Borrower pursuant to Section 2.18.”
+
+ 
+
+(iii)
+         
+the definition of “Term A-1 Borrower” shall be amended and restated to read as follows:
+
+ 
+
+“ ‘
+Term A-1 Borrower
+’
+means, prior to the Amendment No. 7 Effective Date, Kellogg Brown & Root Pty Ltd., a proprietary limited company organized
+under the laws of Australia and an indirect Subsidiary of KBR and, on and after the Amendment No. 7 Effective Date, KBR. Upon the
+occurrence of the Amendment No. 7 Effective Date, the Term A-1 Borrower shall cease to be a Designated Borrower.”;
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+(iv)
+         
+the definition of “Term A-1 Borrowing” shall be amended and restated to read as follows:
+
+ 
+
+“ “
+Term A-1 Borrowing
+’
+means, (a) prior to the Amendment No. 7 Effective Date, a borrowing consisting of simultaneous Term A-1 Loans of the same Type
+and having the same Interest Period made by each of the Term A-1 Lenders pursuant to Section 2.01(a)(i) and (b) on and after the
+Amendment No. 7 Effective Date, the borrowing of the 2022 Refinancing Term Loans under the Seventh Amendment on the Amendment No.
+7 Effective Date.”;
+
+ 
+
+(v)
+          
+the definition of “Term A-1 Commitment” shall be amended and restated to read as follows:
+
+ 
+
+“ “
+Term A-1 Commitment
+’
+means, (a) prior to the Amendment No. 7 Effective Date, as to each Term A-1 Lender, its obligation to make Term A-1 Loans to the
+Term A-1 Borrower pursuant to Section 2.01(a)(i) in an aggregate principal amount at any one time outstanding not to exceed the
+amount set forth opposite such Term A-1 Lender’s name on Schedule 2.01 under the caption “Term A-1 Commitment”
+or opposite such caption in the Assignment and Assumption pursuant to which such Term A-1 Lender becomes a party hereto, as applicable,
+as such amount maybe adjusted from time to time in accordance with this Agreement and (b) on or after the Amendment No. 7 Effective
+Date, the commitment of the Permitted Refinancing 2022 Lenders to make the 2022 Refinancing Term Loans pursuant to the Seventh
+Amendment on the Amendment No. 7 Effective Date, as set forth on 
+Exhibit A
+ of the Seventh Amendment, and such Term A-1 Commitment
+shall be reduced to $0 on the Amendment No. 7 Effective Date immediately after the advance of the 2022 Refinancing Term Loans on
+such date.”
+
+ 
+
+(vi)
+         
+the definition of “Term A-1 Facility” shall be amended and restated to read as follows:
+
+ 
+
+“‘
+Term
+A-1 Facility
+’ means (a) prior to the Amendment No. 7 Effective Date, the aggregate principal amount of the Term A-1 Loans
+of all Term A-1 Lenders outstanding at such time (b) on the Amendment No. 7 Effective Date, the aggregate amount of the Permitted
+Refinancing 2022 Term Loans at such time, and (c) thereafter, the aggregate principal amount of the Term A-1 Loans of all
+Term A-1 Lenders outstanding at such time. Prior to the Amendment No. 7 Effective Date, the Term A-1 Facility shall be denominated
+in Australian Dollars, and on and after the Amendment No. 7 Effective Date, the Term A-1 Facility shall be denominated in Dollars.
+The aggregate outstanding principal amount of the Term A-1 Facility on the Amendment No. 7 Effective Date is $99,266,146.01.”
+
+ 
+
+(vii)
+        
+
+Section 2.01(a)(i)
+ shall be amended to add a new paragraph at the end of 
+Section 2.01(a)(i)
+ to read as follows:
+
+ 
+
+“Notwithstanding
+anything to the contrary herein, subject to the terms and conditions set forth in the Seventh Amendment, each Term A-1 Lender severally
+agrees to make a single loan in Dollars to the Term A-1 Borrower on the Amendment No. 7 Effective Date, in an aggregate amount
+not to exceed such Term A-1 Lender’s Term A-1 Commitment. The Term A-1 Borrowing shall consist of Term A-1 Loans made simultaneously
+by the Term A-1 Lenders in accordance with their respective Term A-1 Commitments. Amounts borrowed under this 
+Section 2.01(a)(i)
+
+and repaid or prepaid may not be reborrowed. Term A-1 Loans may be 2022 Refinancing Base Rate Loans or 2022 Refinancing Term SOFR
+Loans as further provided herein and in the Seventh Amendment.”
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+(viii)
+       
+
+Section 2.02
+ shall be amended to add a new Section 2.02(h) to read as follows:
+
+ 
+
+“Notwithstanding
+anything in this Section 2.02 to the contrary, each Borrowing of 2022 Refinancing Term Loans, each conversion of 2022 Refinancing
+Term Loans from one 2022 Refinancing Term Loan Type to the other, and each continuation of 2022 Refinancing Term SOFR Loans shall
+be made upon KBR’s irrevocable notice to the Administrative Agent, which may be given by (A) telephone or (B) a 2022 Refinancing
+Term Loan Notice; 
+provided
+ that any telephonic notice must be confirmed immediately by delivery to the Administrative Agent
+of a 2022 Refinancing Term Loan Notice. Each such 2022 Refinancing Term Loan Notice must be received by the Administrative Agent
+not later than 11:00 a.m. (Eastern time) (1) two Business Days prior to the requested date of any Borrowing of, conversion to or
+continuation of 2022 Refinancing Term SOFR Loans or of any conversion of 2022 Refinancing Term SOFR Loans to 2022 Refinancing Base
+Rate Loans or (2) on the date of any proposed Borrowing of 2022 Refinancing Base Rate Loans. Each Borrowing of, conversion to or
+continuation of 2022 Refinancing Term SOFR Loans shall be in a principal amount of $5,000,000 or a whole multiple of $1,000,000
+in excess thereof. Each 2022 Refinancing Term Loan Notice shall specify (i) whether KBR is requesting a Borrowing, a conversion
+of 2022 Refinancing Term Loans from one 2022 Refinancing Term Loan Type to the other, or a continuation of 2022 Refinancing Term
+SOFR Loans, (ii) the requested date of the Borrowing, conversion or continuation, as the case may be (which shall be a Business
+Day), (iii) the principal amount of 2022 Refinancing Term Loans to be borrowed, converted or continued, (iv) the 2022 Refinancing
+Term Loan Type of 2022 Refinancing Term Loans to be borrowed or to which existing 2022 Refinancing Term Loans are to be converted,
+and (v) if applicable, the duration of the 2022 Refinancing Interest Period with respect thereto. If KBR fails to specify a 2022
+Refinancing Term Loan Type of 2022 Refinancing Term Loan in a 2022 Refinancing Term Loan Notice or if KBR fails to give a timely
+notice requesting a conversion or continuation, then the applicable 2022 Refinancing Term Loans shall be made as, or converted
+to, 2022 Refinancing Base Rate Loans. Any such automatic conversion to 2022 Refinancing Base Rate Loans shall be effective as of
+the last day of the 2022 Refinancing Interest Period then in effect with respect to the applicable 2022 Refinancing Term SOFR Loans.
+If KBR requests a Borrowing of, conversion to, or continuation of 2022 Refinancing Term SOFR Loans in any such Loan Notice, but
+fails to specify a 2022 Refinancing Interest Period, it will be deemed to have specified a 2022 Refinancing Interest Period of
+one month. For purposes of a Borrowing of 2022 Refinancing Term Loans as 2022 Refinancing Term SOFR Loans, or a continuation of
+a 2022 Refinancing Term SOFR Loan, KBR shall use the 2022 Refinancing Term Loan Notice attached to the Seventh Amendment as 
+Exhibit
+B
+.”
+
+ 
+
+(ix)
+          
+
+Section 2.07(a)(i)
+ shall be amended and restated to read in its entirety as follows:
+
+ 
+
+“(i) Prior
+to the Amendment No. 7 Effective Date, the Term A-1 Borrower shall repay to the Term A-1 Lenders the aggregate principal amount
+of all Term A-1Loans in quarterly principal installments equal to (x) on the last Business Day of each of March, 2022, June 2022,September
+2022, December 2022, March, 2023, June 2023, September 2023 and December 2023, 0.625% of the aggregate principal amount of the
+Term A-1 Loans outstanding on the Fifth Amendment Closing Date and (y) thereafter on the last Business Day of each March, June,
+September and December, 1.25% of the aggregate principal amount of the Term A-1Loans outstanding on the Fifth Amendment Closing
+Date (which principal amounts shall be reduced in each case as a result of the application of prepayments in accordance with the
+order of priority set forth in 
+Section 2.05
+).
+
+ 
+
+ 
+
+6
+
+ 
+
+ 
+
+ 
+
+ 
+
+After the Amendment
+No. 7 Effective Date, the Term A-1 Borrower shall repay to the Term A-1 Lenders the aggregate principal amount of all Term A-1
+Loans in quarterly principal installments equal to (x) on the last Business Day of each of March 2023, June 2023, September 2023
+and December 2023, $636,321.45 and (y) thereafter on the last Business Day of each March, June, September and December, $1,272,642.90
+(which principal amounts shall be reduced in each case as a result of the application of prepayments in accordance with the order
+of priority set forth in 
+Section 2.05
+).”
+
+ 
+
+(x)
+           
+
+Section 6.11
+ shall be amended and restated to read in its entirety as follows:
+
+ 
+
+“Use the
+proceeds of the Loans on or after the Closing Date, (a) with respect to proceeds of the Term B Facility, solely to fund a portion
+of the Transactions (including the Acquisition) on the Closing Date, (b) with respect to proceeds of the Term A-1 Facility prior
+to the Amendment No. 7 Effective Date and the Term A-2 Facility, solely to fund completion payments required to be funded in connection
+with the completion of the Ichthys Project through the Ichthys Project Joint Ventures and/or for reimbursements for any such completion
+payments funded prior to the Closing Date, (c) with respect to the proceeds of the Term A-3 Facility, to repay outstandings under
+the Revolving Credit Facility on or about the Fifth Amendment Closing Date and to pay fees and expenses in connection with the
+Fifth Amendment, (d) with respect to the Revolving Credit Facility, to finance a portion of the Transactions and otherwise to provide
+ongoing working capital and for other general corporate purposes (including Permitted Acquisitions) not in contravention of any
+Law or of any Loan Document and (e) with respect to proceeds of the Term A-1 Facility on and after the Amendment No. 7 Effective
+Date, solely to refinance in full the Term A-1 Loans outstanding immediately prior to the Amendment No. 7 Effective Date.”
+
+ 
+
+(c)
+               
+
+Interest on 2022 Refinancing Term Loans
+.
+
+ 
+
+(i)
+    
+
+Subject to the provisions of the Credit Agreement with respect to default interest, the 2022 Refinancing Term Loans shall
+bear interest on the outstanding principal amount thereof from the date when made at a rate per annum equal to 2022 Refinancing
+Term SOFR or the 2022 Refinancing Base Rate, as the case may be, 
+plus
+ the Applicable Rate
+.
+
+ 
+
+(ii)
+  
+
+Interest on each 2022 Refinancing Term Loans that is a 2022 Refinancing Term SOFR Loan shall be due and payable in arrears
+on each 2022 Refinancing Interest Payment Date applicable thereto and at such other times as may be specified in the Credit Agreement;
+
+provided
+, that any prepayment of any 2022 Refinancing Term SOFR Loan shall be accompanied by all accrued interest on the
+amount prepaid, together with any additional amounts required pursuant to 
+Section 3.05
+ of the Credit Agreement. Interest
+on each 2022 Refinancing Term Loans that is a 2022 Refinancing Base Rate Loan shall be due and payable in accordance with the payment
+of interest on 2022 Refinancing Base Rate Loans under the Credit Agreement. Interest on the 2022 Refinancing Term Loans shall be
+due and payable in accordance with the terms hereof before and after judgment, and before and after the commencement of any proceeding
+under any debtor relief law.
+
+ 
+
+ 
+
+7
+
+ 
+
+ 
+
+ 
+
+ 
+
+(d)
+              
+
+Miscellaneous
+.
+
+ 
+
+(i)
+    
+
+With respect to 2022 Refinancing SOFR or 2022 Refinancing Term SOFR, the Administrative Agent will have the right to make
+2022 Refinancing Term Loan Conforming Changes from time to time and, notwithstanding anything to the contrary herein, in the Credit
+Agreement or in any other Loan Document, any amendments implementing such 2022 Refinancing Term Loan Conforming Changes will become
+effective without any further action or consent of any other party to this Amendment, the Credit Agreement or any other Loan Document;
+
+provided
+ that, with respect to any such amendment effected, the Administrative Agent shall post each such amendment implementing
+such Conforming Changes to KBR and the applicable Lenders promptly upon such amendment becoming effective.
+
+ 
+
+(ii)
+  
+
+The Administrative Agent does not warrant, nor accept responsibility, nor shall the Administrative Agent have any liability
+with respect to the administration, submission or any other matter related to any reference rate referred to herein or with respect
+to any rate (including, for the avoidance of doubt, the selection of such rate and any related spread or other adjustment) that
+is an alternative or replacement for or successor to any such rate (including, without limitation, any 2022 Refinancing Successor
+Rate) (or any component of any of the foregoing) or the effect of any of the foregoing, or of any 2022 Refinancing Term Loan Conforming
+Changes. The Administrative Agent and its affiliates or other related entities may engage in transactions or other activities unrelated
+to the Credit Agreement or any Borrower that affect any reference rate referred to herein, or any alternative, successor or replacement
+rate (including, without limitation, any 2022 Refinancing Successor Rate) (or any component of any of the foregoing) or any related
+spread or other adjustments thereto, in each case, in a manner adverse to any Borrower. The Administrative Agent may select information
+sources or services commonly used in the banking industry for such purposes in its reasonable good faith discretion to ascertain
+any reference rate referred to herein or any alternative, successor or replacement rate (including, without limitation, any 2022
+Refinancing Successor Rate) (or any component of any of the foregoing), in each case pursuant to the terms of this Agreement, and
+shall have no liability to any Borrower, any Lender or any other person or entity for damages of any kind, including direct or
+indirect, special, punitive, incidental or consequential damages, costs, losses or expenses (whether in tort, contract or otherwise
+and whether at law or in equity), for any error or other action or omission related to or affecting the selection, determination,
+or calculation of any rate (or component thereof) provided by any such information source or service.
+
+ 
+
+(iii) References
+to the Eurocurrency Rate with respect to Dollars and Eurocurrency Rate Loans denominated in Dollars in provisions of the Credit
+Agreement and the other Loan Documents that are not specifically addressed herein (other than the definitions of Eurocurrency Rate
+and Eurocurrency Rate Loan) shall be deemed to include 2022 Refinancing Term SOFR and 2022 Refinancing Term SOFR Loans, as applicable,
+with respect to the 2022 Refinancing Term Loans.
+
+ 
+
+(iv) For
+purposes of any requirement for any Borrower to compensate Lenders for losses in the Credit Agreement resulting from any continuation,
+conversion, payment or prepayment of any Loan on a day other than the last day of any 2022 Refinancing Interest Period (as defined
+in the Credit Agreement), references to the 2022 Refinancing Interest Period (as defined in the Credit Agreement) shall be deemed
+to include any relevant interest payment date or payment period for a 2022 Refinancing Term Loan that is a 2022 Refinancing Term
+SOFR Loan.
+
+ 
+
+(v)
+  
+
+All computations of interest for 2022 Refinancing Term Loans that are 2022 Refinancing Base Rate Loans (including 2022 Refinancing
+Base Rate Loans determined by reference to 2022 Refinancing Term SOFR) shall be made on the basis of a year of 365 or 366 days,
+as the case may be, and actual days elapsed. All other computations of fees and interest with respect to 2022 Refinancing Term
+Loans that are 2022 Refinancing Term SOFR Loans shall be made on the basis of a 360-day year and actual days elapsed (which results
+in more fees or interest, as applicable, being paid than if computed on the basis of a 365-day year). Interest shall accrue on
+each 2022 Refinancing Term Loan for the day on which the 2022 Refinancing Term Loan is made, and shall not accrue on a 2022 Refinancing
+Term Loan, or any portion thereof, for the day on which the 2022 Refinancing Term Loan or such portion is paid, provided that any
+2022 Refinancing Term Loan that is repaid on the same day on which it is made shall, subject to the provisions in the Credit Agreement
+addressing payments generally, bear interest for one day. Each determination by the Administrative Agent of an interest rate or
+fee hereunder shall be conclusive and binding for all purposes, absent demonstrable error.
+
+ 
+
+ 
+
+8
+
+ 
+
+ 
+
+ 
+
+ 
+
+(vi) The
+provisions in the Credit Agreement addressing a LIBOR Successor Rate for Dollars shall be deemed to apply to 2022 Refinancing Term
+SOFR Loans and 2022 Refinancing Term SOFR, as applicable, and the related defined terms shall be deemed to include Dollars and
+2022 Refinancing Term SOFR, as applicable.
+
+ 
+
+3.
+             
+
+Representations and Warranties
+. By its execution hereof, each Loan Party hereby represents and warrants to the Administrative
+Agent and the Permitted Refinancing 2022 Lenders as follows:
+
+ 
+
+(a)
+           
+the execution, delivery and performance by such Loan Party of this Amendment have been duly authorized by all necessary
+corporate or other organizational action and do not and will not (i) contravene the terms of any of such Loan Party’s Organization
+Documents; (ii) conflict with or result in any breach or contravention of, or the creation of any Lien under, or require any payment
+to be made under (A) any Contractual Obligation to which such Loan Party is a party or affecting such Person or the properties
+of such Person or any of its Subsidiaries or (B) any order, injunction, writ or decree of any Governmental Authority or any arbitral
+award to which such Loan Party or its property is subject; or (iii) violate any applicable Law, except, in the cases of clause
+(ii) and (iii) as could not reasonably be expected to have a Material Adverse Effect;
+
+ 
+
+(b)
+           
+this Amendment has been duly executed and delivered by each Loan Party, and constitutes a legal, valid and binding obligation
+of each Loan Party (and the Credit Agreement, as amended hereby, and each other Loan Document constitutes the legal, valid and
+binding obligation of each Loan Party party thereto), in each case enforceable against each Loan Party in accordance with its terms,
+subject to applicable bankruptcy, insolvency, reorganization, moratorium or other laws affecting creditors’ rights generally
+and subject to general principles of equity, regardless of whether considered in a proceeding in equity or at law;
+
+ 
+
+(c)
+           
+before and after giving effect to this Amendment (including the incurrence of the 2022 Refinancing Term Loans and the refinancing
+of the Term A-1 Loans outstanding immediately prior to the Amendment No. 7 Effective Date with the proceeds thereof), the representations
+and warranties of each Loan Party contained in 
+Article V
+ of the Credit Agreement and each other Loan Document are true
+and correct in all material respects (or, with respect to representations and warranties modified by materiality standards, in
+all respects) on and as of the Amendment No. 7 Effective Date, except to the extent that such representations and warranties specifically
+refer to an earlier date, in which case they shall be true and correct in all material respects (or, with respect to representations
+and warranties modified by materiality standards, in all respects) as of such earlier date, and except that for purposes of this
+clause (c), the representations and warranties contained in 
+Sections 5.05(a)
+ and 
+(b)
+ of the Credit Agreement shall
+be deemed to refer to the most recent statements furnished pursuant to 
+Sections 6.01(a)
+ and 
+(b)
+ of the Credit Agreement,
+respectively; and
+
+ 
+
+(d)
+           
+before and after giving effect to this Amendment (including the incurrence of the 2022 Refinancing Term Loans and the refinancing
+of the Term A-1 Loans outstanding immediately prior to the Amendment No. 7 Effective Date with the proceeds thereof), no Default
+exists.
+
+ 
+
+ 
+
+9
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.
+             
+
+Amendment No. 7 Effective Date
+.
+
+ 
+
+(a)
+           
+This Amendment (including the incurrence of the 2022 Refinancing Term Loans and the refinancing of the Term A-1 Loans outstanding
+immediately prior to the Amendment No. 7 Effective Date with the proceeds thereof) will become effective on the first date (the
+“
+Amendment No. 7 Effective Date
+”) on which the following conditions precedent are satisfied:
+
+ 
+
+(i)
+            
+the Administrative Agent and the Permitted Refinancing 2022 Lenders shall have received, in form and substance reasonably
+satisfactory to them, each of the following:
+
+ 
+
+(A)          counterparts
+of this Amendment duly executed by (1) each Loan Party, (2) the Administrative Agent, and (3) each Permitted Refinancing 2022 Lender;
+
+ 
+
+(B)          (1)
+the documentation and other information with respect to each Loan Party that is required by regulatory authorities under applicable
+“know your customer” and anti-money-laundering rules and regulations, including, without limitation, the Act, and (2)
+if KBR qualifies as a “legal entity customer” under the Beneficial Ownership Regulation, a Beneficial Ownership Certification
+in relation to KBR;
+
+ 
+
+(C)          one
+or more certificates of a Responsible Officer of each Loan Party, each in form and substance reasonably satisfactory to the Administrative
+Agent and together with all attachments identified below, certifying in his/her capacity as such, as of the Amendment No. 7 Effective
+Date:
+
+ 
+
+(1)        as
+to the accuracy of the representations and warranties set forth in 
+Section 3
+ above;
+
+ 
+
+(2)        that
+since December 31, 2021, there has been no event or circumstance, either individually or in the aggregate, that has had or could
+reasonably be expected to have a Material Adverse Effect;
+
+ 
+
+(3)       that
+the resolutions or written consent adopted by such Loan Party approving or consenting to the 2022 Refinancing Term Loans and the
+Organization Documents (including all amendments thereto) of such Loan Party (A) have not been modified, amended, rescinded or
+replaced since such Organization Documents were last delivered and certified to the Administrative Agent and continue to be in
+full force and effect as of the Amendment No. 7 Effective Date or (B) are attached thereto and are true and correct copies thereof,
+in full force and effect as of the Amendment No. 7 Effective Date and, in the case of the certificate of formation or articles
+of incorporation or organization (as the case may be) under this clause (B), shall be certified (to the extent such certificates
+are routinely issued in such jurisdiction) as of a recent date by the appropriate Governmental Authority in such Loan Party’s
+jurisdiction of incorporation or formation; and
+
+ 
+
+(4)       that
+the attached document(s) and certification(s) as reasonably required by the Administrative Agent to evidence that such Loan Party
+is duly organized or formed, validly existing, in good standing (to the extent applicable) and qualified to engage in business
+in such Loan Party’s jurisdiction of incorporation or formation are true and correct copies thereof, in full force and effect
+as of the Amendment No. 7 Effective Date and certified by the appropriate Governmental Authority in such Loan Party’s jurisdiction
+of incorporation or formation (to the extent such certificates are routinely issued in such jurisdiction) as of a recent date prior
+to the Amendment No. 7 Effective Date reasonably satisfactory to the Administrative Agent;
+
+ 
+
+ 
+
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+(D)          to
+the extent requested not later than two Business Days prior to the Amendment No. 7 Effective Date, the Administrative Agent shall
+have received notes (which shall constitute Term A-1 Notes), if any, executed by KBR in favor of each Permitted Refinancing 2022
+Lender requesting such Term A-1 Notes; 
+provided
+ that any failure to request any such Term A-1 Note in connection with the
+Amendment No. 7 Effective Date shall not limit the ability of any Permitted Refinancing 2022 Lender to request a Term A-1 Note
+from time to time pursuant to the Credit Agreement;
+
+ 
+
+(E)           opinions
+of counsel for KBR in each relevant jurisdiction (as agreed by KBR and the Administrative Agent), dated the Amendment No. 7 Effective
+Date and addressed to the Administrative Agent and the Permitted Refinancing 2022 Lenders, in form and substance reasonably acceptable
+to the Administrative Agent;
+
+ 
+
+(ii)
+           
+substantially concurrently with the Amendment No. 7 Effective Date (A) the Administrative Agent and the applicable Borrowers
+shall prepay in full the entire principal amount of the Term A-1 Loans outstanding immediately prior to the Amendment No. 7 Effective
+Date, along with all accrued and unpaid interest and fees thereon and (B) to the extent such amounts are provided at least three
+Business Days prior to the Amendment No. 7 Effective Date, KBR shall have paid any amounts under 
+Section 3.05
+ of the Credit
+Agreement or other amounts provided by the Credit Agreement or any other Loan Document (including this Amendment) in connection
+with such repayment; 
+provided
+ that the repayment provided in this section may be accomplished by the Administrative Agent
+netting or otherwise utilizing the proceeds of the 2022 Refinancing Term Loans;
+
+ 
+
+(iii)
+          
+all fees and expenses required to be paid in connection with this Amendment (including all reasonable and documented out-of-pocket
+expenses incurred by the Administrative Agent and/or its Affiliates (including the reasonable and documented fees, disbursements
+and other out-of-pocket charges of counsel (subject to the limitations set forth in 
+Section 10.04(a)(i)
+ of the Credit Agreement)))
+shall have been paid (in the case of expenses, to the extent that KBR has received an invoice therefor at least three Business
+Days prior to the Amendment No. 7 Effective Date (without prejudice to any post-closing settlement of such fees, costs and expenses
+to the extent not so invoiced)); and
+
+ 
+
+(iv)
+          
+the Administrative Agent shall have received a 2022 Refinancing Term Loan Notice for the advance of the 2022 Refinancing
+Term Loans to occur on the Amendment No. 7 Effective Date, provided that if such notice requests that the 2022 Refinancing Term
+Loans be made on the Amendment No. 7 Effective Date as 2022 Refinancing Term SOFR Loans, such notice shall have been received at
+least two Business Days prior to the Amendment No. 7 Effective Date.
+
+ 
+
+(b)
+           
+Each Permitted Refinancing 2022 Lender that has executed this Amendment and delivered it to the Administrative Agent shall
+be deemed to have consented to, approved or accepted, or to be satisfied with, each document or other matter required under this
+
+Section 4
+ to be consented to or approved by or acceptable or satisfactory to a Permitted Refinancing 2022 Lender unless
+the Administrative Agent shall have received notice from such Permitted Refinancing 2022 Lender prior to this Amendment being deemed
+effective by the Administrative Agent on the Amendment No. 7 Effective Date specifying its objection thereto.
+
+ 
+
+ 
+
+11
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c)
+           
+From and after the Amendment No. 7 Effective Date, the Credit Agreement is amended as set forth herein.
+
+ 
+
+(d)
+           
+Except as expressly amended and/or waived pursuant hereto, the Existing Credit Agreement and each other Loan Document shall
+remain unchanged and in full force and effect and each is hereby ratified and confirmed in all respects, and any waiver contained
+herein shall be limited to the express purpose set forth herein and shall not constitute a waiver of any other condition or circumstance
+under or with respect to the Credit Agreement or any of the other Loan Documents.
+
+ 
+
+(e)
+           
+The Administrative Agent will notify KBR and the Lenders of the occurrence of the Amendment No. 7 Effective Date.
+
+ 
+
+5.
+             
+
+No Novation; Reaffirmation
+. Neither the execution and delivery of this Amendment nor the consummation of any other
+transaction contemplated hereunder is intended to constitute a novation of the Existing Credit Agreement, the Credit Agreement
+or of any of the other Loan Documents or any obligations thereunder. Each Loan Party (a) acknowledges and consents to all of the
+terms and conditions of this Amendment, including the 2022 Refinancing Term Loans constituting Loans and Obligations under the
+Credit Agreement, (b) confirms and affirms all of its obligations under the Loan Documents, (c) confirms and affirms that each
+of the Liens granted in or pursuant to the Loan Documents are valid and subsisting as security for the payment and performance
+of the Obligations outstanding on the Amendment No. 7 Effective Date immediately prior to and immediately after the effectiveness
+of the amendments provided by this Agreement and any Obligations outstanding at any time under the Credit Agreement, and (d) agrees
+that this Amendment and all documents executed in connection herewith (i) do not operate to reduce or discharge any Loan Party’s
+obligations under the Loan Documents and (ii) in no manner impair or otherwise adversely affect any of the Liens granted in or
+pursuant to the Loan Documents.
+
+ 
+
+6.
+             
+
+Miscellaneous
+.
+
+ 
+
+(a)
+           
+Except as herein expressly amended, all terms, covenants and provisions of the Credit Agreement and each other Loan Document
+are and shall remain in full force and effect. All references in any Loan Document to the “Credit Agreement” or “this
+Agreement” (or similar terms intended to reference the Credit Agreement) shall henceforth refer to the Credit Agreement as
+amended by this Amendment. This Amendment shall be deemed incorporated into, and a part of, the Credit Agreement.
+
+ 
+
+(b)
+           
+This Amendment shall be binding upon and inure to the benefit of the parties hereto, each other Permitted Refinancing 2022
+Lender and each other Loan Party, and their respective successors and assigns.
+
+ 
+
+(c)
+           
+THIS AMENDMENT AND ANY CLAIMS, CONTROVERSY, DISPUTE OR CAUSE OF ACTION (WHETHER IN CONTRACT OR TORT OR OTHERWISE) BASED
+UPON, ARISING OUT OF OR RELATING TO THIS AMENDMENT AND THE TRANSACTIONS CONTEMPLATED HEREBY SHALL BE GOVERNED BY, AND CONSTRUED
+IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK. WITHOUT LIMITING THE FOREGOING SENTENCE, THIS AMENDMENT IS SUBJECT TO THE
+PROVISIONS OF 
+SECTIONS 10.14
+ AND 
+10.15
+ OF THE CREDIT AGREEMENT RELATING TO GOVERNING LAW, VENUE AND WAIVER OF RIGHT
+TO TRIAL BY JURY, THE PROVISIONS OF WHICH ARE BY THIS REFERENCE INCORPORATED HEREIN IN FULL.
+
+ 
+
+(d)
+           
+This Amendment may be in the form of an electronic record (in “.pdf” form or otherwise) and may be executed
+using electronic signatures, which shall be considered as originals and shall have the same legal effect, validity and enforceability
+as a paper record. This Amendment may be executed in as many counterparts as necessary or convenient, including both paper and
+electronic counterparts, but all such counterparts shall be one and the same Amendment.  For the avoidance of doubt, the authorization
+under this paragraph may include, without limitation, use or acceptance by the Administrative Agent of a manually signed Amendment
+which has been converted into electronic form (such as scanned into “.pdf” format), or an electronically signed Amendment
+converted into another format, for transmission, delivery and/or retention. This Amendment may not be amended except in accordance
+with the provisions of 
+Section 10.01
+ of the Credit Agreement.
+
+ 
+
+ 
+
+12
+
+ 
+
+ 
+
+ 
+
+ 
+
+(e)
+           
+If any provision of this Amendment, the Existing Credit Agreement as amended hereby or the other Loan Documents is held
+to be illegal, invalid or unenforceable, (a) the legality, validity and enforceability of the remaining provisions of this Amendment,
+the Credit Agreement and the other Loan Documents shall not be affected or impaired thereby and (b) the parties shall endeavor
+in good faith negotiations to replace the illegal, invalid or unenforceable provisions with valid provisions the economic effect
+of which comes as close as possible to that of the illegal, invalid or unenforceable provisions. The invalidity of a provision
+in a particular jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+
+ 
+
+(f)
+            
+The Borrowers agree to pay in accordance with 
+Section 10.04
+ of the Credit Agreement all reasonable out of pocket
+expenses incurred by the Administrative Agent and its Affiliates in connection with the preparation, execution, delivery, administration
+of this Amendment and the other instruments and documents to be delivered hereunder, including, without limitation, the reasonable
+and documented fees, charges and disbursements of counsel to the Administrative Agent with respect thereto and with respect to
+advising the Administrative Agent as to its rights and responsibilities hereunder and thereunder.
+
+ 
+
+(g)
+           
+This Amendment shall constitute a “Loan Document” under and as defined in the Credit Agreement.
+
+ 
+
+7.
+             
+
+References
+. All references in any of the Loan Documents to the “Credit Agreement” shall mean the Credit
+Agreement as amended hereby, and as further amended, restated, supplemented or modified from time to time in accordance with the
+terms thereof.
+
+ 
+
+8.
+             
+
+Entire Agreement
+. This Amendment constitutes the entire contract among the parties relating to the subject matter
+hereof and supersedes any and all previous agreements and understandings, oral or written, relating to the subject matter hereof.
+
+ 
+
+9.
+             
+
+Headings
+. The headings of this Amendment are for purposes of reference only and shall not limit or otherwise affect
+the meaning hereof.
+
+ 
+
+10.
+           
+
+Agents and Arrangers
+. Each Lender (or Affiliate thereof) listed on the cover page of the Existing Credit Agreement
+as a “Co-Syndication Agent”, “Co-Documentation Agent”, “Joint Lead Arranger” and/or “Joint
+Bookrunner” shall have each such title with respect to this Amendment and the 2022 Refinancing Term Loans provided hereunder.
+
+ 
+
+[
+Signature Pages Follow.
+]
+
+ 
+
+ 
+
+13
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN WITNESS WHEREOF,
+the parties hereto have caused this Amendment to be duly executed as of the date first above written.
+
+ 
+
+LOAN PARTIES:
+
+ 
+
+ 
+ 
+
+ 
+
+KBR, INC., a Delaware corporation, as KBR, a Borrower and a Guarantor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Stuart J.B. Bradie
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Stuart J.B. Bradie
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President and Chief Executive Officer
+
+ 
+
+ 
+ 
+
+ 
+
+KELLOGG BROWN & ROOT LLC, a Delaware limited liability company, as a Guarantor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Stuart J.B. Bradie
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Stuart J.B. Bradie
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President and Chief Executive Officer
+
+ 
+
+ 
+ 
+
+ 
+
+KBR ENGINEERING COMPANY, LLC, a Delaware limited liability company, as a Guarantor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Jay Ibrahim
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Jay Ibrahim
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President, Energy Solutions
+
+ 
+
+ 
+ 
+
+ 
+
+KBR SERVICES, LLC, a Delaware limited liability company, as a Guarantor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ William Byron Bright
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+William Byron Bright
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President Government Solutions
+
+ 
+
+KBR, Inc. 
+
+Signature
+Pages 
+
+Amendment No. 7 to Credit Agreement (Refinancing Amendment)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+KBR WYLE SERVICES, LLC, a Delaware limited liability company, as a Guarantor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ William Byron Bright
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+William Byron Bright
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President Government Solutions
+
+ 
+
+ 
+ 
+
+ 
+
+KBR CONSTRUCTION COMPANY, LLC, a Delaware limited liability company, as a Guarantor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Jay Ibrahim
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Jay Ibrahim
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President, Energy Solutions
+
+ 
+
+ 
+ 
+
+ 
+
+KBR GROUP HOLDINGS, LLC, a Delaware limited liability company, as a Guarantor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Stuart J.B. Bradie
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Stuart J.B. Bradie
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President and Chief Executive Officer
+
+ 
+
+ 
+ 
+
+ 
+
+GLOBAL LOGISTICS SUPPORT, LLC, a Delaware limited liability company, as a Guarantor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ William Byron Bright
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+William Byron Bright
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President Government Solutions
+
+ 
+
+ 
+ 
+
+ 
+
+KBR DIEGO GARCIA, LLC, a Delaware limited liability company, as a Guarantor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Ella Studer
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Ella Studer
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+Senior Vice President & Chairman
+
+ 
+
+KBR, Inc. 
+
+Signature
+Pages 
+
+Amendment No. 7 to Credit Agreement (Refinancing Amendment)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+KBR HOLDINGS, LLC, a Delaware limited liability company, as a Guarantor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Stuart J.B. Bradie
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Stuart J.B. Bradie
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President and Chief Executive Officer 
+
+ 
+
+ 
+ 
+
+ 
+
+KBR OVERSEAS, INC., a Delaware corporation, as a Guarantor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Stuart J.B. Bradie
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Stuart J.B. Bradie
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President and Chief Executive Officer
+
+ 
+
+ 
+ 
+
+ 
+
+KBR TECHNICAL SERVICES, INC., a Delaware corporation, as a Guarantor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Stuart J.B. Bradie
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Stuart J.B. Bradie
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President and Chief Executive Officer
+
+ 
+
+ 
+ 
+
+ 
+
+KBR USA LLC, a Delaware limited liability company, as a Guarantor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Stuart J.B. Bradie
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Stuart J.B. Bradie
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President and Chief Executive Officer
+
+ 
+
+ 
+ 
+
+ 
+
+WYLE INC., a Delaware corporation, as a Guarantor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ William Byron Bright
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+William Byron Bright
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President Government Solutions
+
+ 
+
+KBR, Inc. 
+
+Signature
+Pages 
+
+Amendment No. 7 to Credit Agreement (Refinancing Amendment)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+3 MAST HOLDINGS, LLC, a Virginia limited liability company, as a Guarantor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ William Byron Bright
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+William Byron Bright
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President Government Solutions
+
+ 
+
+ 
+ 
+
+ 
+
+Dependable Global Solutions
+
+, LLC, a Virginia limited liability company, as a Guarantor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ William Byron Bright
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+William Byron Bright
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President Government Solutions
+
+ 
+
+ 
+ 
+
+ 
+
+Kord Technologies, LLC
+
+, a Delaware limited liability company, as a Guarantor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ William Byron Bright
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+William Byron Bright
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President Government Solutions
+
+ 
+
+ 
+ 
+
+ 
+
+Technical Staffing Resources, LLC
+
+, a Delaware limited liability company, as a Guarantor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Sonia Galindo
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Sonia Galindo
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+Executive Vice President & General Counsel
+
+ 
+
+ 
+ 
+
+ 
+
+Titus Group, LLC
+
+, a Virginia limited liability company, as a Guarantor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ William Byron Bright
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+William Byron Bright
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President Government Solutions
+
+ 
+
+KBR, Inc. 
+
+Signature
+Pages 
+
+Amendment No. 7 to Credit Agreement (Refinancing Amendment)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Windjammer, LLC
+
+, a Delaware limited liability company, as a Guarantor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ William Byron Bright
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+William Byron Bright
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President Government Solutions
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+WYLE
+INFORMATION SYSTEMS, LLC
+
+, a Delaware limited liability company, as a Guarantor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ William Byron Bright
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+William Byron Bright
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+President Government Solutions
+
+ 
+
+KBR, Inc. 
+
+Signature
+Pages 
+
+Amendment No. 7 to Credit Agreement (Refinancing Amendment)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+BANK OF AMERICA, N.A.
+, as
+ Administrative Agent
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Kyle
+ D. Harding
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Kyle
+ D. Harding
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+Vice
+ President
+
+ 
+
+KBR,
+Inc.
+
+Signature
+Pages 
+
+Amendment
+No. 7 to Credit Agreement (Refinancing Amendment)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+bank
+ of america, n.a.
+
+, 
+
+as
+ a Permitted Refinancing 2022 Lender
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Mukesh
+ Singh
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Mukesh
+ Singh
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+Director
+
+ 
+
+KBR,
+Inc.
+
+Signature
+Pages 
+
+Amendment
+No. 7 to Credit Agreement (Refinancing Amendment)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+PNC
+ BANK, N.A
+
+. 
+
+as
+ a Permitted Refinancing 2022 Lender
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Jennifer
+ Morelan
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Jennifer
+ Morelan
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+Assistant
+ Vice President
+
+ 
+
+KBR,
+Inc.
+
+Signature
+Pages 
+
+Amendment
+No. 7 to Credit Agreement (Refinancing Amendment)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+BNP
+ PARIBAS
+
+, 
+
+as
+ a Permitted Refinancing 2022 Lender
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Rick
+ Pace
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Rick
+ Pace
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+Managing
+ Director
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Kyle Fitzpatrick
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Kyle
+ Fitzpatrick
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+Director
+
+ 
+
+KBR,
+Inc.
+
+Signature
+Pages 
+
+Amendment
+No. 7 to Credit Agreement (Refinancing Amendment)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+CAPITAL
+ ONE, NATIONAL ASSOCIATION
+
+, 
+
+as
+ a Permitted Refinancing 2022 Lender
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ David
+ Baynash
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+David
+ Baynash
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+Director
+
+ 
+
+KBR,
+Inc.
+
+Signature
+Pages 
+
+Amendment
+No. 7 to Credit Agreement (Refinancing Amendment)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+CITIBANK,
+ N.A.
+
+, 
+
+as
+ a Permitted Refinancing 2022 Lender
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Jim
+ Oleskewicz
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Jim Oleskewicz
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+Vice
+ President
+
+ 
+
+KBR,
+Inc.
+
+Signature
+Pages 
+
+Amendment
+No. 7 to Credit Agreement (Refinancing Amendment)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+CITIZENS
+ BANK, N.A.
+
+ 
+(as successor by merger
+ to CITIZENS BANK OF PENNSYLVANIA), 
+
+as a Permitted Refinancing
+ 2022 Lender
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Dan
+ Laurenzi
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Dan Laurenzi
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+Director
+
+ 
+
+KBR,
+Inc.
+
+Signature
+Pages 
+
+Amendment
+No. 7 to Credit Agreement (Refinancing Amendment)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+REGIONS
+ BANK
+
+, 
+
+as
+ a Permitted Refinancing 2022 Lender
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Katherine
+ Jomantas
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Katherine
+ Jomantas
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+Vice
+ President
+
+ 
+
+KBR,
+Inc.
+
+Signature
+Pages 
+
+Amendment
+No. 7 to Credit Agreement (Refinancing Amendment)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+THE
+ BANK OF NOVA SCOTIA, HOUSTON BRANCH
+
+,
+ 
+
+as a Permitted Refinancing 2022 Lender
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Joe
+ Lattanzi
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Joe Lattanzi
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+Managing
+ Director
+
+ 
+
+KBR,
+Inc.
+
+Signature
+Pages 
+
+Amendment
+No. 7 to Credit Agreement (Refinancing Amendment)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+TRUIST
+ BANK
+
+, 
+
+as
+ a Permitted Refinancing 2022 Lender
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Anika
+ Kirs
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Anika
+ Kirs
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+Director
+
+ 
+
+KBR,
+Inc.
+
+Signature
+Pages 
+
+Amendment
+No. 7 to Credit Agreement (Refinancing Amendment)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+MUFG
+ BANK, LTD.
+
+, 
+
+as
+ a Permitted Refinancing 2022 Lender
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Maria
+ F. Maia
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Maria
+ F. Maia
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+Director
+
+ 
+
+KBR,
+Inc.
+
+Signature
+Pages 
+
+Amendment
+No. 7 to Credit Agreement (Refinancing Amendment)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+SANTANDER
+ BANK, N.A.
+
+, 
+
+as
+ a Permitted Refinancing 2022 Lender
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Felix
+ Nebrat
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Felix
+ Nebrat
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+SVP,
+ Underwriting & Portfolio Management
+
+ 
+
+KBR,
+Inc.
+
+Signature
+Pages 
+
+Amendment
+No. 7 to Credit Agreement (Refinancing Amendment)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Sumitomo Mitsui Banking Corporation,
+ 
+as a Permitted Refinancing 2022 Lender
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Jeffrey
+ Cobb
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Jeffrey
+ Cobb
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+Director
+
+ 
+
+KBR,
+Inc.
+
+Signature
+Pages 
+
+Amendment
+No. 7 to Credit Agreement (Refinancing Amendment)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+HSBC
+ 
+
+Bank 
+USA,
+ N.A.
+, 
+
+as a Permitted Refinancing 2022 Lender
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Jay
+ Fort
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Jay Fort
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+Regional
+ Head – Credit Management
+
+ 
+
+KBR,
+Inc.
+
+Signature
+Pages 
+
+Amendment
+No. 7 to Credit Agreement (Refinancing Amendment)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exhibit A
+
+Commitments and Applicable Percentages
+for 2022 Refinancing Term Loan
+
+ 
+
+ 
+
+Lender
+
+ 
+
+2022 Refinancing Term Loan
+
+Commitment
+
+ 
+
+Applicable Percentage of
+
+2022 Refinancing Term Loan
+
+ 
+
+Bank of America, N.A.
+
+ 
+
+$  8,781,236.05
+
+ 
+
+8.846153903%
+
+ 
+
+PNC Bank, National Association
+
+ 
+
+$  7,826,753.81
+
+ 
+
+7.884615375%
+
+ 
+
+BNP Paribas
+
+ 
+
+$  7,826,753.81
+
+ 
+
+7.884615375%
+
+ 
+
+Capital One, National Association
+
+ 
+
+$  7,826,753.81
+
+ 
+
+7.884615375%
+
+ 
+
+Citibank, N.A.
+
+ 
+
+$  7,826,753.81
+
+ 
+
+7.884615375%
+
+ 
+
+Citizens Bank, N.A.
+
+ 
+
+$  7,826,753.81
+
+ 
+
+7.884615375%
+
+ 
+
+Regions Bank
+
+ 
+
+$  7,826,753.81
+
+ 
+
+7.884615375%
+
+ 
+
+The Bank of Nova Scotia, Houston Branch
+
+ 
+
+$  7,826,753.81
+
+ 
+
+7.884615375%
+
+ 
+
+Truist Bank
+
+ 
+
+$  7,826,753.81
+
+ 
+
+7.884615375%
+
+ 
+
+MUFG Bank, Ltd.
+
+ 
+
+$  7,826,753.81
+
+ 
+
+7.884615375%
+
+ 
+
+Santander Bank, N.A.
+
+ 
+
+$  7,826,753.81
+
+ 
+
+7.884615375%
+
+ 
+
+Sumitomo Mitsui Banking Corporation
+
+ 
+
+$  6,108,685.93
+
+ 
+
+6.153846176%
+
+ 
+
+HSBC Bank USA, N.A.
+
+ 
+
+$  6,108,685.93
+
+ 
+
+6.153846176%
+
+ 
+
+Total
+
+ 
+
+$99,266,146.01
+
+ 
+
+100.000000000%
+
+ 
+
+Exhibit A
+
+(to Amendment No. 7 of KBR Inc.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exhibit B
+
+ 
+
+FORM OF 2022 REFINANCING TERM LOAN NOTICE
+
+ 
+
+Date: ___________, 202_
+
+ 
+
+To:
+
+Bank of America, N.A., as Administrative Agent
+
+ 
+
+Ladies and Gentlemen:
+
+ 
+
+Reference is made to
+that certain Credit Agreement, dated as of April 25, 2018 (as amended, restated, amended and restated, extended, supplemented or
+otherwise modified in writing from time to time, the “
+Agreement
+”; the terms defined therein being used herein
+as therein defined), among KBR, Inc., a Delaware corporation (“
+KBR
+”), the other Borrowers party thereto, the
+Lenders from time to time party thereto, and Bank of America, N.A., as Administrative Agent, Swing Line Lender and an L/C Issuer.
+
+ 
+
+KBR hereby requests
+(select one):
+
+ 
+
+☐
+
+a Term A-1 Borrowing of
+2022 Refinancing Term Loans
+
+ 
+
+☐
+
+a conversion or continuation
+of 2022 Refinancing Term Loans
+
+ 
+
+1.
+
+On ________________________________ (a Business Day).
+
+ 
+
+2.
+
+In the amount of $________________________.
+
+ 
+
+3.
+
+Comprised of _______________________________.
+
+[2022 Refinancing Term Loan Type requested]
+
+ 
+
+4.
+
+For 2022 Refinancing Term SOFR Loans: with an Interest Period of [1][3] months.
+
+ 
+
+[Signature page follows.]
+
+ 
+
+Exhibit B
+
+(to Amendment No. 7 of KBR Inc.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+KBR, INC.
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+By:
+
+ 
+ 
+
+ 
+ 
+
+ 
+Name:
+
+ 
+                         
+
+ 
+ 
+
+ 
+Title:
+
+ 
+ 
+
+ 
+
+Exhibit B
+
+(to Amendment No. 7 of KBR Inc.)

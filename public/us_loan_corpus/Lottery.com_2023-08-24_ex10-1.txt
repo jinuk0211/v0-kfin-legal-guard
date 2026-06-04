@@ -1,0 +1,951 @@
+EX-10.1
+
+2
+
+ex10-1.htm
+
+ 
+
+ 
+
+Exhibit
+10.1
+
+ 
+
+ 
+
+Dated
+August 18, 2023
+
+ 
+
+Amendment
+Agreement
+
+ 
+
+in
+respect of a
+
+ 
+
+Loan
+Agreement (Deed)
+
+dated
+26 July 2023 and amended and restated on 8 August 2023
+
+ 
+
+between
+
+ 
+
+United
+Capital Investments London Limited
+
+as
+Lender
+
+ 
+
+and
+
+ 
+
+Lottery.com
+Inc
+
+as
+Borrower
+
+ 
+
+White
+& Case 
+llp
+
+5
+Old Broad Street
+
+London
+EC2N 1DW
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table
+of Contents
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page
+
+ 
+
+ 
+
+1.
+
+ 
+
+Definitions
+ and Interpretation
+
+ 
+
+1
+
+ 
+
+ 
+
+2.
+
+ 
+
+Definitions
+ and Interpretation
+
+ 
+
+1
+
+ 
+
+ 
+
+3.
+
+ 
+
+Amendments
+ to the Loan Agreement
+
+ 
+
+1
+
+ 
+
+ 
+
+4.
+
+ 
+
+Confirmations
+
+ 
+
+3
+
+ 
+
+ 
+
+5.
+
+ 
+
+Representations
+ and Warranties
+
+ 
+
+3
+
+ 
+
+ 
+
+6.
+
+ 
+
+Costs
+ and Expenses
+
+ 
+
+3
+
+ 
+
+ 
+
+7.
+
+ 
+
+Incorporation
+ of Terms
+
+ 
+
+3
+
+ 
+
+ 
+
+8.
+
+ 
+
+Counterparts
+
+ 
+
+3
+
+ 
+
+ 
+
+9.
+
+ 
+
+Governing
+ Law
+
+ 
+
+3
+
+ 
+
+ 
+
+10.
+
+ 
+
+Enforcement
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+(
+i
+)
+
+ 
+
+ 
+
+ 
+
+ 
+
+This
+Agreement
+ is dated August 18, 2023 and made between:
+
+ 
+
+(1)
+
+United
+ Capital Investments London Limited
+
+,
+ 
+
+a company
+ existing under the laws of England and Wales, company registration number 10490012, having
+ its registered office at: 18 (2
+nd
+ Floor) Savile Row, London, England, W1S 3PW,
+ the United Kingdom (the “
+Lender
+”); and
+
+ 
+
+ 
+
+(2)
+
+Lottery.com,
+ INC
+, a company existing under the laws of the State of Delaware, having its registered
+ office at: 20808 State Hwy. 71W, Unit B, Spicewood, Texas 78669, the United States (the “
+Borrower
+”).
+
+ 
+
+Whereas:
+
+ 
+
+(A)
+
+Reference
+ is made to the loan agreement dated 26 July 2023 (as amended and restated on 8 August 2023)
+ and made between the Lender and the Borrower (as may be further amended, restated, supplemented,
+ varied or extended from time to time, the “
+Loan Agreement
+”).
+
+ 
+
+ 
+
+(B)
+
+The
+ Parties wish to amend the Loan Agreement on the terms and subject to the conditions set out
+ in this Agreement.
+
+ 
+
+ 
+
+(C)
+
+It
+ is intended that this Agreement takes effect as a deed notwithstanding the fact that a party
+ may only execute this Agreement under hand.
+
+ 
+
+It
+is agreed
+ as follows:
+
+ 
+
+1.
+
+Definitions
+ and Interpretation
+
+ 
+
+1.1
+
+Interpretation
+ 
+
+ 
+
+(a)
+
+Save
+ as defined in this Agreement, words and expressions defined in the Loan Agreement shall have
+ the same meanings in this Agreement.
+
+ 
+
+ 
+
+ 
+
+(b)
+
+Clauses
+ 1.2 through 1.7 and 19 (
+Third Party right
+s) of the Loan Agreement shall be deemed
+ to be incorporated into this Agreement, save that references in the Loan Agreement to “this
+ Agreement” shall be construed as references to this Agreement.
+
+ 
+
+1.2
+
+Definitions
+ 
+
+ 
+
+In
+this Agreement the following expressions shall have the following meanings:
+
+ 
+
+“
+Effective
+Date
+” means the date of this Agreement.
+
+ 
+
+2.
+
+Definitions
+ and Interpretation
+
+ 
+
+2.1
+
+Interpretation
+ 
+
+ 
+
+(a)
+
+Save
+ as defined in this Agreement, words and expressions defined in the Loan Agreement shall have
+ the same meanings in this Agreement.
+
+ 
+
+ 
+
+ 
+
+(b)
+
+Clauses
+ 1.2 (
+Construction
+) and 1.3 (
+Third Party right
+s) of the Loan Agreement shall
+ be deemed to be incorporated into this Agreement save that references in the Loan
+
+ 
+
+3.
+
+Amendments
+ to the Loan Agreement
+
+ 
+
+3.1
+
+Pursuant
+ to the terms of the Loan Agreement, each Party consents to the amendments to the Loan Agreement
+ contemplated by this Agreement.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.2
+
+With
+ effect from the Effective Date paragraphs (c) and (d) of clause 9.1 (
+Conversion
+) of
+ the Loan Agreement shall be deleted in their entirety and the following paragraphs (e) through
+ (f) (inclusive) shall be inserted to clause 9.1 (
+Conversion
+) of the Loan Agreement
+ instead:
+
+ 
+
+“(c)
+
+Unless
+ paragraph (f) applies, at any time while common stock shares of the Borrower are registered
+ under the Securities Exchange Act of 1934, as amended (the “
+Exchange Act
+”),
+ the Lender may not hold more than 4.99% of the issued and outstanding common stock shares
+ of the Borrower (the “
+Disclosure Threshold
+”), without acknowledging and
+ agreeing that holding beneficial ownership above the Disclosure Threshold shall require disclosure
+ requirements pursuant to Nasdaq and SEC rules by Borrower. 
+
+ 
+
+ 
+
+ 
+
+(d)
+
+The
+ Borrower shall not issue or sell any Shares (including shares of common stock underlying
+ the Warrant) pursuant to this Agreement and the Lender shall not purchase or acquire any
+ Shares pursuant to this Agreement, to the extent that after giving effect thereto, the aggregate
+ number of Shares that could be issued pursuant to this Agreement and the transactions contemplated
+ hereby would exceed such number of shares equal to 19.99% of the Shares issued and outstanding
+ immediately prior to the execution of this Agreement, which number of shares shall be reduced,
+ on a share-for-share basis, by the number of shares issued or issuable pursuant to any transaction
+ or series of transactions (including any warrants or other securities convertible into Shares)
+ that may be aggregated with the transactions contemplated by this Agreement under applicable
+ rules of Nasdaq (such maximum number of shares, the “
+Exchange Cap
+”), unless
+ the Borrower’s stockholders have approved the issuance of Shares pursuant to this Agreement
+ in excess of the Exchange Cap in accordance with the applicable rules of Nasdaq. The Exchange
+ Cap shall apply during the life of the Agreement notwithstanding whether the Shares remain
+ listed on Nasdaq. 
+
+ 
+
+ 
+
+ 
+
+(e)
+
+The
+ Parties further acknowledge that:
+
+ 
+
+(i)
+
+the
+ Borrower may not issue or sell any Shares if such sale would result in violation of any Nasdaq
+ rules applicable to the Borrower or its Shares; and
+
+ 
+
+ 
+
+ 
+
+(ii)
+
+any
+ Shares issued in accordance with this Agreement or issued or issuable pursuant to any transaction
+ or series of transactions (including any warrants or other securities convertible into Shares)
+ that may be aggregated with the transactions contemplated by this Agreement under applicable
+ rules of Nasdaq cannot be voted on (and any such vote will be ignored) to remove the Exchange
+ Cap.
+
+ 
+
+(f)
+
+If
+ there is a shareholders or similar agreement executed directly or indirectly in relation
+ to common stock shares of the Borrower or otherwise affecting governance in relation to the
+ Borrower (the “
+Relevant SHA
+”) that has the effect of disapplying, varying
+ or otherwise affecting the Disclosure Threshold (as applicable)( such threshold calculated
+ taking into account the terms of a Relevant SHA, the “SHA Threshold”), then,
+ at any time while common stock shares of the Borrower are listed on the Nasdaq, no Lender
+ may hold more than the SHA Threshold without acknowledging and agreeing that holding beneficial
+ ownership above the SHA Threshold shall require disclosure pursuant to Nasdaq and SEC rules
+ by Borrower.”
+
+ 
+
+3.3
+
+With
+ effect from the Effective Date:
+
+ 
+
+(a)
+
+all
+ references in the Loan Agreement to “this Agreement” shall include the Loan Agreement
+ as amended by this Agreement; and
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+
+the
+ Loan Agreement and this Agreement shall be read and construed as one document and references
+ in the Loan Agreement and in each Transaction Document shall be read and construed as references
+ to the Loan Agreement as amended by this Agreement.
+
+ 
+
+3.4
+
+Save
+ as amended by this Agreement, the Loan Agreement and each Transaction Document to which it
+ is a party shall continue in full force and effect.
+
+ 
+
+4.
+
+Confirmations
+
+ 
+
+4.1
+
+The
+ Borrower shall, at the request of the Lender, and at its own expense, do all such acts and
+ things necessary or desirable to give effect to the amendments effected or intended to be
+ effected pursuant to this Agreement.
+
+ 
+
+5.
+
+Representations
+ and Warranties
+
+ 
+
+The
+Borrower on the Effective Date makes the representations and warranties set out in Clause 5 (
+Borrower’s Representations and
+Warranties
+) of the Loan Agreement as if references to “this Agreement” in those representations were references to this
+Agreement.
+
+ 
+
+6.
+
+Costs
+ and Expenses
+
+ 
+
+The
+provisions of Clause 23 (
+Costs
+) of the Loan Agreement shall apply to this Agreement as if it were expressly set out in this Agreement
+with the necessary changes being made and with each reference in the Loan Agreement to “this Agreement” being construed as
+references to this Agreement.
+
+ 
+
+7.
+
+Incorporation
+ of Terms
+
+ 
+
+The
+terms of clauses 12 (
+Notices
+), 17 (
+Invalidity
+) and 22 (
+Remedies
+) of the Loan Agreement shall be deemed to be incorporated
+into this Agreement save that references in the Loan Agreement to “this Agreement” shall be construed as references to this
+Agreement.
+
+ 
+
+8.
+
+Counterparts
+
+ 
+
+This
+Agreement may be executed in any number of counterparts and all of such counterparts taken together shall be deemed to constitute one
+and the same instrument.
+
+ 
+
+9.
+
+Governing
+ Law
+
+ 
+
+This
+Agreement and any dispute or claim arising out of or in connection with this Agreement or their subject matter, existence, negotiation,
+validity, termination, enforceability or breach (including non-contractual disputes or claims) shall be governed by, and construed in
+accordance with, English law.
+
+ 
+
+10.
+
+Enforcement
+
+ 
+
+Any
+dispute arising out of or in connection with this Agreement, including any question regarding its existence, validity or termination,
+shall be referred to and finally resolved by the LCIA under the LCIA Rules (the “
+Rules
+”), which Rules are deemed to
+be incorporated by reference into this Clause 10. The number of arbitrators shall be one (1). The seat, or legal place, of arbitration
+shall be London, the United Kingdom. The language to be used in the arbitral proceedings shall be English. The Parties agree that any
+restriction in the Rules upon the nomination or appointment of an arbitrator by reason of nationality shall not apply to any arbitration
+commenced pursuant to this Clause 10. Any decision under such arbitration proceedings shall be final and binding on the Parties. The
+tribunal shall order an unsuccessful Party in the arbitration to pay the legal and other costs incurred in connection with the arbitration
+by a successful Party. Each Party consents to be joined in the arbitration commenced under the arbitration agreement set out in this
+Clause 10. For the avoidance of doubt, this Clause 10 constitutes each Party’s consent to joinder in writing for the purposes of
+the Rules. Each Party agrees to be bound by any award rendered in the arbitration, to which it was joined pursuant to this Clause 10.
+Each Party consents to the consolidation, in accordance with the Rules, of two (2) or more arbitrations commenced under the arbitration
+agreement set out in this Clause 10. For the avoidance of doubt, this Clause 10 constitutes each Party’s agreement to consolidation
+in writing for the purposes of the Rules.
+
+ 
+
+This
+Agreement has been entered into on the date stated at the beginning of this Agreement and executed as a deed by the Borrower and is intended
+to be and is delivered by them as a deed on the date specified above.
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signatories
+
+ 
+
+ 
+
+ 
+
+The
+ Borrower
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Executed as a deed by
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Lottery.com Inc
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+/s/ Paul
+ Jordan
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+Paul Jordan
+
+ 
+
+ 
+
+ 
+
+ 
+
+The
+ Lender
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Executed as a deed by
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+United Capital Investments
+ London Limited
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+/s/
+ Barney Battles
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+Barney Battles
+
+ 
+
+ 
+
+ 
+
+4

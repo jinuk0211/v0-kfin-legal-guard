@@ -1,0 +1,1900 @@
+EX-10.5
+
+2
+
+ex105-keybank_gnlxfourtham.htm
+
+EX-10.5 CREDIT FACILITY AMENDMENT
+
+Document
+
+EXHIBIT 10.5
+
+FOURTH AMENDMENT TO 
+
+SECOND AMENDED AND RESTATED CREDIT AGREEMENT
+
+THIS FOURTH AMENDMENT TO SECOND AMENDED AND RESTATED CREDIT AGREEMENT 
+
+(this “
+
+Amendment
+
+”) made as of the 28th
+
+ 
+
+day of March, 2025, by and among 
+
+GLOBAL NET LEASE OPERATING PARTNERSHIP, L.P.
+
+, a Delaware limited partnership (“
+
+Borrower
+
+”), 
+
+GLOBAL NET LEASE, INC.
+
+, a Maryland corporation (“
+
+REIT
+
+”), 
+
+ARC GLOBAL HOLDCO, LLC
+
+, a Delaware limited liability company (“
+
+International Holdco
+
+”), 
+
+ARC GLOBAL II HOLDCO, LLC
+
+, a Delaware limited liability company (“
+
+Global II Holdco
+
+”), 
+
+THE PARTIES EXECUTING BELOW AS SUBSIDIARY GUARANTORS
+
+ (the “
+
+Subsidiary Guarantors
+
+”; and REIT, International Holdco, Global II Holdco and the Subsidiary Guarantors, collectively, the “
+
+Guarantors
+
+”), 
+
+KEYBANK NATIONAL ASSOCIATION 
+
+(“
+
+KeyBank
+
+”), individually and as Agent for itself and the other Lenders from time to time a party to the Credit Agreement (as hereinafter defined) (KeyBank, in its capacity as Agent, is hereinafter referred to as “
+
+Agent
+
+”), and 
+
+THE OTHER “LENDERS” WHICH ARE SIGNATORIES HERETO
+
+ (KeyBank and such Lenders hereinafter referred to collectively as the “
+
+Lenders
+
+”).
+
+W I T N E S S E T H:
+
+WHEREAS
+
+, Borrower, Agent and certain of the Lenders entered into that certain Second Amended and Restated Credit Agreement dated as of April 8, 2022, as amended by that certain First Amendment to Second Amended and Restated Credit Agreement dated as of July 26, 2022, that certain Second Amendment to Second Amended and Restated Credit Agreement dated as of September 12, 2023, and that certain Third Amendment to Second Amended and Restated Credit Agreement dated as of June 5, 2024 (as varied, extended, supplemented, consolidated, replaced, increased, renewed, modified or amended from time to time prior to the effectiveness of this Amendment, the “
+
+Existing Credit Agreement
+
+”, and the Existing Credit Agreement, as amended by this Amendment is referred to herein as the “
+
+Credit Agreement
+
+”); and
+
+WHEREAS
+
+, Borrower, Agent and the Lenders have agreed to make certain modifications to the terms of the Existing Credit Agreement subject to the execution and delivery by the parties of this Amendment;
+
+NOW, THEREFORE
+
+, for good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties hereto do hereby covenant and agree as follows:
+
+1.
+
+Definitions
+
+. All the terms used herein which are not otherwise defined herein shall have the meanings set forth in the Credit Agreement (as modified and amended by this Amendment).
+
+2.
+
+Modification of the Credit Agreement
+
+. As of the Effective Date, Borrower and Agent do hereby modify and amend the Existing Credit Agreement as follows:
+
+(a)
+
+By inserting the following new definitions into §1.1 of the Credit Agreement, in the appropriate alphabetical order:
+
+US_ACTIVE\129599399\V-3
+
+“
+
+Fourth Amendment Date
+
+. March 28, 2025.”
+
+(b)
+
+By deleting the word “and” appearing immediately prior to clause (v) in the second (2
+
+nd
+
+) sentence of §8.7(a) of the Credit Agreement, and by inserting the following at the end of said second (2
+
+nd
+
+) sentence: 
+
+“, and (vi) the REIT may, and Borrower may make Distributions to allow the REIT to, make payments for share repurchases of the REIT’s common stock not to exceed $300,000,000.00 in the aggregate in connection with any stock buyback program authorized by the Board of the REIT.” 
+
+(c)
+
+By deleting in its entirety §9.7 of the Credit Agreement and inserting in lieu thereof the following new §9.7:
+
+“§9.7    
+
+Minimum Consolidated Tangible Net Worth
+
+. The Borrower will not at any time permit Consolidated Tangible Net Worth to be less than the sum of (i) $2,500,000,000.00, plus (ii) eighty percent (80%) of the sum of any additional Net Offering Proceeds after the Fourth Amendment Date.”
+
+3.
+
+References to Loan Documents
+
+. All references in the Loan Documents to the Credit Agreement shall be deemed a reference to the Existing Credit Agreement as modified and amended hereby. 
+
+4.
+
+Consent and Acknowledgment of Borrower and Guarantors
+
+. By execution of this Amendment, the Guarantors hereby expressly consent to the modifications and amendments relating to the Credit Agreement as set forth herein and any other agreements or instruments executed in connection herewith, and Borrower and the Guarantors hereby acknowledge, represent and agree that (a) the Credit Agreement, as modified and amended herein, and the other Loan Documents remains in full force and effect and constitutes the valid and legally binding obligation of Borrower and the Guarantors, as applicable, enforceable against such Persons in accordance with their respective terms, (b) that the Guaranty extends to and applies to the Credit Agreement as modified and amended herein, and (c) that the execution and delivery of this Amendment and any other agreements or instruments executed in connection herewith does not constitute, and shall not be deemed to constitute, a release, waiver or satisfaction of Borrower’s or any Guarantor’s obligations under the Loan Documents.
+
+5.
+
+Representations and Warranties
+
+. Borrower and the Guarantors represent and warrant to Agent and the Lenders as follows:
+
+(a)
+
+Authorization
+
+. The execution, delivery and performance of this Amendment and any other agreements or instruments executed in connection herewith and the transactions contemplated hereby and thereby (i) are within the authority of Borrower and Guarantors, (ii) have been duly authorized by all necessary proceedings on the part of the Borrower and Guarantors, (iii) do not and will not conflict with or result in any breach or contravention of any provision of law, statute, rule or regulation to which Borrower or any Guarantor is subject or any judgment, order, writ, injunction, license or permit applicable to Borrower or any Guarantor, (iv) do not and will not conflict with or constitute a default (whether with the passage of time or the giving of notice, or both) under any provision of the partnership agreement, articles of incorporation or other charter documents or bylaws of, or any agreement or other instrument binding upon, Borrower or any Guarantor or any of their respective properties, (v) do not and will not result in or require the imposition of any lien or other 
+
+2
+
+US_ACTIVE\129599399\V-3
+
+encumbrance on any of the properties, assets or rights of Borrower or any Guarantor, other than those in favor of Agent, on behalf of itself and the other Lenders, pursuant to the Loan Documents, and (vi) do not require the approval or consent of any Person other than those already obtained and delivered to Agent.
+
+(b)
+
+Enforceability
+
+. This Amendment and any other agreements or instruments executed in connection herewith to which Borrower or any Guarantor is a party are the valid and legally binding obligations of Borrower and Guarantors enforceable in accordance with the respective terms and provisions hereof, except as enforceability is limited by bankruptcy, insolvency, reorganization, moratorium or other laws relating to or affecting generally the enforcement of creditors’ rights and the effect of general principles of equity.
+
+(c)
+
+Governmental Approvals
+
+. The execution, delivery and performance of this Amendment and any other agreements or instruments executed in connection herewith and the transactions contemplated hereby and thereby do not require the approval or consent of, or any filing or registration with, or the giving of any notice to, any court, department, board, governmental agency or authority other than those already obtained, and filings after the date hereof of disclosures with the SEC, or as may be required hereafter with respect to tenant improvements, repairs or other work with respect to any Real Estate.
+
+(d)
+
+Reaffirmation of Representations and Warranties
+
+. Each of the representations and warranties made by or on behalf of the Borrower, the Guarantors or any of their respective Subsidiaries contained in the Credit Agreement, the other Loan Documents or in any document or instrument delivered pursuant to or in connection with the Credit Agreement or this Amendment is true and correct in all material respects as of the date hereof, with the same effect as if made at and as of the date hereof, except to the extent of changes resulting from transactions permitted by the Loan Documents (it being understood and agreed that, with respect to any representation or warranty which by its terms is made as of a specified date, such representation or warranty is reaffirmed hereby only as of such specified date). To the extent that any of the representations and warranties contained in the Credit Agreement, any other Loan Document or in any document or instrument delivered pursuant to or in connection with the Credit Agreement or this Amendment is qualified by “Material Adverse Effect” or any other materiality qualifier, then the qualifier “in all material respects” contained in this Paragraph 7(d) shall not apply with respect to any such representations and warranties.
+
+6.
+
+No Default
+
+. By execution hereof, the Borrower and the Guarantors certify that, immediately after giving effect to this Amendment, there exists no Default or Event of Default as of the date of this Amendment.
+
+7.
+
+Waiver of Claims
+
+. Borrower and Guarantors acknowledge, represent and agree that none of such Persons has any defenses, setoffs, claims, counterclaims or causes of action of any kind or nature whatsoever arising on or before the date hereof with respect to the Loan Documents, the administration or funding of the Loan or the Letters of Credit or with respect to any acts or omissions of Agent or any Lender, or any past or present officers, agents or employees of Agent or any Lender pursuant to or relating to the Loan Documents, and each of such Persons does hereby expressly waive, release and relinquish any and all such defenses, setoffs, claims, counterclaims and causes of action arising on or before the date hereof, if any.
+
+8.
+
+Ratification
+
+. Except as hereinabove set forth, all terms, covenants and provisions of the Credit Agreement remain unaltered and in full force and effect, and the parties hereto do hereby expressly ratify and confirm the Credit Agreement as modified and amended herein. Nothing in this Amendment or any other document delivered in connection herewith shall be deemed or construed to constitute, and there has not otherwise occurred, a novation, cancellation, satisfaction, release, extinguishment or substitution of the indebtedness evidenced by the Notes or the other obligations of Borrower and Guarantors under the Loan Documents.
+
+3
+
+US_ACTIVE\129599399\V-3
+
+9.
+
+Effective Date
+
+. This Amendment shall be deemed effective and in full force and effect (the “
+
+Effective Date
+
+”) upon confirmation by Agent of the satisfaction of the following conditions:
+
+(a)
+
+the execution and delivery of this Amendment by Borrower, Guarantors, Agent and the Majority Lenders; 
+
+(b)
+
+receipt by Agent of evidence that the Borrower shall have paid all fees due and payable with respect to this Amendment;
+
+(c)
+
+receipt by Agent of such other resolutions, certificates, documents, instruments and agreements as Agent may reasonably request; and
+
+(d)
+
+the Borrower shall have paid the reasonable fees and expenses of Agent in connection with this Amendment. 
+
+10.
+
+Amendment as Loan Document
+
+. This Amendment shall constitute a Loan Document.
+
+11.
+
+Counterparts
+
+. This Amendment may be executed in any number of counterparts which shall together constitute but one and the same agreement.
+
+12.
+
+MISCELLANEOUS
+
+. THIS AMENDMENT SHALL, PURSUANT TO NEW YORK GENERAL OBLIGATIONS LAW SECTION 5-1401, BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK. This Amendment shall be binding upon and shall inure to the benefit of the parties hereto and their respective permitted successors, successors-in-title and assigns as provided in the Credit Agreement. 
+
+13.
+
+Electronic Signatures
+
+. Delivery of an executed counterpart of a signature page to this Amendment by facsimile or as an attachment to an electronic mail message in .pdf, .jpeg, .TIFF or similar electronic format shall be effective as delivery of a manually executed counterpart of this Amendment for all purposes. The words “execution,” “signed,” “signature,” “delivery,” and words of like import in or relating to this Amendment and any other Loan Document to be signed in connection with this Amendment, the other Loan Documents and the transactions contemplated hereby and thereby shall be deemed to include Electronic Signatures, deliveries or the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability as manually executed signature, physical delivery thereof or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided for in any Applicable Law, including the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act; provided that nothing herein shall require Agent to accept electronic signatures in any form or format without its prior written consent. For the purposes hereof, “Electronic Signatures” means an electronic sound, symbol, or process attached to, or associated with, a contract or other record and adopted by a Person with the intent to sign, authenticate or accept such contract or record. Each of the parties hereto represents and warrants to the other parties hereto that it has the corporate capacity and authority to execute this Amendment through electronic means and there are no restrictions for doing so in that party’s constitutive documents. Without limiting the generality of the foregoing, the Borrower hereby (i) agrees that, for all purposes, including without limitation, in connection with any workout, restructuring, enforcement of remedies, bankruptcy proceedings or litigation among any of Agent or the Lenders and any of the Borrower or Guarantors, electronic images of this Agreement or any other Loan Document (in each case, including with respect to any signature pages thereto) shall have the same legal effect, validity and enforceability as any paper original, and (ii) waives any argument, defense or right to contest the validity or enforceability of 
+
+4
+
+US_ACTIVE\129599399\V-3
+
+any Loan Document based solely on the lack of paper original copies of such Loan Document, including with respect to any signature pages thereto.
+
+[Signatures Begin On Next Page]
+
+5
+
+US_ACTIVE\129599399\V-3
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+IN WITNESS WHEREOF
+
+, the parties hereto have hereto set their hands and affixed their seals as of the day and year first above written.
+
+BORROWER
+
+:
+
+GLOBAL NET LEASE OPERATING
+
+PARTNERSHIP, L.P.
+
+, a Delaware limited partnership
+
+By:    GLOBAL NET LEASE, INC., a Maryland corporation, its general partner
+
+By: 
+
+/s/ Christopher Masterson    
+
+Name: Christopher Masterson
+Title: Chief Financial Officer, Treasurer and Secretary
+
+REIT
+
+:
+
+GLOBAL NET LEASE, INC.
+
+, a Maryland corporation
+
+By: 
+
+/s/ Christopher Masterson    
+
+Name: Christopher Masterson
+Title: Chief Financial Officer, Treasurer and Secretary
+
+INTERNATIONAL HOLDCO
+
+:
+
+ARC GLOBAL HOLDCO, LLC
+
+, a Delaware limited
+
+liability company
+
+By: 
+
+/s/ Jesse C. Galloway
+
+    
+Name: Jesse C. Galloway
+Title: Authorized Signatory
+
+GLOBAL II HOLDCO
+
+:
+
+ARC GLOBAL II HOLDCO, LLC
+
+, a Delaware limited
+
+liability company
+
+By: 
+
+/s/ Jesse C. Galloway
+
+     
+Name: Jesse C. Galloway
+Title: Authorized Signatory
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Omnibus Amendment to Guaranty and Contribution Agreement
+
+US_ACTIVE\129599399\V-3
+
+[Signatures Continue on Following Page]
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+SUBSIDIARY GUARANTORS
+
+:
+
+ARC GSFRNTN001, LLC
+
+,
+
+ARC TFDPTIA001, LLC
+
+,
+
+ARC NOWILND001, LLC
+
+,
+
+ARC GSDVRDE001, LLC
+
+,
+
+ARC GSGTNPA001, LLC
+
+,
+
+ARC GSMSSTX001, LLC
+
+,
+
+ARC GSDALTX001, LLC
+
+,
+
+ 
+
+ARC NOPLNTX001, LLC
+
+,
+
+ 
+
+ARC DRINDIN001, LLC
+
+,
+
+ 
+
+ARC VALWDCO001, LLC
+
+,
+
+ARC GBLMESA001, LLC
+
+,
+
+ARC FEAMOTX001, LLC
+
+,
+
+ARC FECPEMA001, LLC
+
+,
+
+ARC WNBRNMO001, LLC
+
+,
+
+ARC CTFTMSC001, LLC
+
+,
+
+ARC SWWSVOH001, LLC
+
+,
+
+ARC WMWSLNC001, LLC
+
+,
+
+ARC DG40PCK001, LLC
+
+,
+
+ARC FEWTRNY001, LLC
+
+, and
+
+ARC DNDUBOH001, LLC
+
+,
+
+ 
+
+each a Delaware limited liability company
+
+By: 
+
+/s/ Jesse C. Galloway    
+
+Name: Jesse C. Galloway
+
+Title: Authorized Signatory
+
+ 
+
+[Signatures Continue on Following Page]
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+ARC FEBILMA001, LLC
+
+,
+
+ARC FESALUT001, LLC
+
+,
+
+ARC CGJNSMI001, LLC
+
+,
+
+ARC CGFRSMI001, LLC
+
+,
+
+ 
+
+ARC FEPIESD001, LLC
+
+,
+
+ARC GSFFDME001, LLC
+
+,
+
+ARC GSRNGME001, LLC
+
+,
+
+ARC GSRPCSD001, LLC
+
+,
+
+ARC TRLIVMI001, LLC
+
+,
+
+ARC FEHBRKY001, LLC
+
+,
+
+ARC CGMARSC001, LLC
+
+,
+
+ARC CGLGNIN001, LLC
+
+,
+
+ARC JTCHATN001, LLC
+
+,
+
+ARC JTCHATN002, LLC
+
+,
+
+ARC FEMANMN001, LLC
+
+,
+
+ARC GSRTNNM001, LLC
+
+,
+
+ARC ODVLONET001, LLC
+
+,
+
+ARG VAGNVFL001, LLC
+
+,
+
+ARG LSWYGMI001, LLC
+
+,
+
+ARG LSCHIIL001, LLC
+
+, and
+
+ARG LSCHIIL003, LLC
+
+,
+
+ 
+
+each a Delaware limited liability company
+
+By: 
+
+/s/ Jesse C. Galloway    
+
+Name: Jesse C. Galloway
+
+Title: Authorized Signatory
+
+ 
+
+[Signatures Continue on Following Page]
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+ARG FCSTHMI001, LLC
+
+,
+
+ARG DPSPNIA001, LLC
+
+,
+
+ARC FEGBRNC001, LLC
+
+,
+
+ARG NIGTNMA001, LLC
+
+,
+
+ARG LKCLLAL001, LLC
+
+,
+
+ARG SNCSPCO001, LLC
+
+  ARG VSSRACA001, LLC
+
+,
+
+  ARG VSSRACA002, LLC
+
+, 
+
+ARC WHAMSNE001, LLC
+
+,
+
+ARG FRAHLMI001, LLC
+
+,
+
+ARG PSBRDFL001, LLC
+
+,
+
+ARG PSLKCLA001, LLC
+
+,
+
+ 
+
+ARG PSGRLTX001, LLC
+
+,
+
+ARG PSELPTX001, LLC
+
+,
+
+ARG PSHCKNC001, LLC
+
+,
+
+ARG PSPRAIL001, LLC
+
+,
+
+ARG PSMSNTX001, LLC
+
+, and
+
+ARG PSMRDMS001, LLC
+
+,
+
+each a Delaware limited liability company
+
+By: 
+
+/s/ Jesse C. Galloway    
+
+Name: Jesse C. Galloway
+
+Title: Authorized Signatory
+
+[Signatures Continue on Following Page]
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+ARG NIFLNNH001, LLC
+
+,
+
+ 
+
+ARG MT2PKSLB002, LLC
+
+,
+
+ 
+
+ARG VSSRACA003, LLC
+
+,
+
+ 
+
+ARG FEBTHNB001, LLC
+
+,
+
+ARG FELWDNB001, LLC
+
+,
+
+ARG FEMTNNB001, LLC
+
+,
+
+ARG KLSLBNC001, LLC
+
+,
+
+ARG PSDANVA001, LLC
+
+,
+
+ARG PSDEMIA001, LLC
+
+,
+
+ARG PSYNSOH001, LLC
+
+,
+
+ARG PSDAYOH001, LLC
+
+,
+
+ARG NIFLNNH002, LLC
+
+,
+
+ARG STELDCA001, LLC
+
+,
+
+ARG STWINCT001, LLC
+
+,
+
+ARG STKNCMO001, LLC
+
+,
+
+ 
+
+ARG STFALNY001, LLC
+
+, 
+
+ARG KLSLBNC002, LLC
+
+, 
+
+ARG WPOTWOH001, LLC
+
+,
+
+ARG WPCLDOH001, LLC
+
+,
+
+ARG WPCLDOH002, LLC
+
+,
+
+ARG WPMRNOH001, LLC
+
+,
+
+ARG WPFNDOH001, LLC
+
+, and
+
+ARG WPCLVTN001, LLC
+
+, 
+
+each a Delaware limited liability company
+
+By: 
+
+/s/ Jesse C. Galloway    
+
+Name: Jesse C. Galloway
+
+Title: Authorized Signatory
+
+[Signatures Continue on Following Page]
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+ARG SBPSLTX001, LLC
+
+, 
+
+ARG NIAMHNH001, LLC
+
+,
+
+ARG WMBVLAR001, LLC
+
+,
+
+ARG PPSPPTX001, LLC
+
+,
+
+ARG PPSHLTX001, LLC
+
+,
+
+ARG THDEXMI001, LLC
+
+,
+
+ARG THAARMI001, LLC
+
+,
+
+ARG THMISIN001, LLC
+
+,
+
+ARG PRBRIMI001, LLC
+
+,
+
+ARG PRBRIMI002, LLC
+
+,
+
+ARG PRBRIMI003, LLC
+
+,
+
+ARG PF4PCAN001 US, LLC
+
+,
+
+ARG PFB4PCK001, LLC
+
+,
+
+ARG NXHSNTX001, LLC
+
+,
+
+ 
+
+ARC ACHNETH001, LLC
+
+,
+
+ARG EMSPHIL001, LLC
+
+, 
+
+ARC TKMANUK001, LLC
+
+,
+
+ARG NIGETMA001, LLC
+
+,
+
+ARG BOOT8UK001, LLC
+
+,
+
+ARG BOOT8UK002, LLC
+
+,
+
+ARG BOOT8UK003, LLC
+
+,
+
+ARG BOOT8UK004, LLC
+
+,
+
+ARG BOOT8UK005, LLC
+
+,
+
+ARG BOOT8UK006, LLC
+
+,
+
+ARG BOOT8UK007, LLC
+
+, and
+
+ARG BOOT8UK008, LLC
+
+,
+
+each a Delaware limited liability company
+
+By: 
+
+/s/ Jesse C. Galloway    
+
+Name: Jesse C. Galloway
+
+Title: Authorized Signatory
+
+[Signatures Continue on Following Page]
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+ARC RMNUSGER01, LLC
+
+,
+
+ARC OBMYNGER01, LLC
+
+, 
+
+ARC REXREGER01, LLC
+
+,
+
+METHAGER01, LLC
+
+,
+
+ARC HPDFS HOLDCO, LLC
+
+,
+
+ARC MCCARUK001, LLC
+
+,
+
+ARC WKBPLUK001, LLC
+
+,
+
+ARC EEMTRUK001, LLC
+
+,
+
+ARC TWSWDUK001, LLC
+
+,
+
+ARC WKSOTUK001, LLC
+
+,
+
+ARC NRSLDUK001, LLC
+
+,
+
+ARC WKMCRUK001, LLC
+
+,
+
+ARC PFBFDUK001, LLC
+
+,
+
+ARC CCLTRUK001, LLC
+
+,
+
+ARC ALSFDUK001, LLC
+
+,
+
+ARC DFSMCUK001, LLC
+
+,
+
+ARC AMWORUK001, LLC
+
+,
+
+ARC MEROXUK001, LLC
+
+,
+
+ARC BKSCOUK001, LLC
+
+,
+
+ARC FUMANUK001, LLC
+
+,
+
+ARC CABIRUK001, LLC
+
+,
+
+ARC IAREDUK001, LLC
+
+, and
+
+ARC HPNEWUK001, LLC
+
+,
+
+each a Delaware limited liability company
+
+By: 
+
+/s/ Jesse C. Galloway    
+
+Name: Jesse C. Galloway
+
+Title: Authorized Signatory
+
+ARG PF4PCAN001, ULC,
+
+an Alberta unlimited liability corporation
+
+By: 
+
+/s/ Jesse C. Galloway    
+
+Name: Jesse C. Galloway
+
+Title: Authorized Signatory
+
+[Signatures Continue on Following Page]
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+ARC GLOBAL II EUROPE HOLDING S.À R.L.
+
+, a Luxembourg private limited liability company (société à responsabilité limitée), having its registered office at 17, Boulevard F.W. Raiffeisen, L-2411 Luxembourg, Grand Duchy of Luxembourg and registered with the Luxembourg Register of Commerce and Companies (Registre de commerce et des Sociétés) under number B 278689.
+
+By: 
+
+/s/ Edward M. Weil, Jr.    
+
+Name: Edward M. Weil, Jr.
+
+Title: Manager A
+
+By: 
+
+/s/ Razvan Ifrim    
+
+Name: Razvan Ifrim
+
+Title: Manager B
+
+  
+
+[Signatures Continue on Following Page]
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+ARC GLOBAL II (LUXEMBOURG) HOLDINGS
+
+ 
+
+S.À R.L.
+
+, a Luxembourg private limited liability company (
+
+société à responsabilité limitée
+
+), having its registered office at 17, Boulevard F.W. Raiffeisen, L-2411 Luxembourg, Grand Duchy of Luxembourg and registered with the Luxembourg Register of Commerce and Companies (Registre de commerce et des Sociétés) under number B 196379
+
+  By: 
+
+/s/ Edward M. Weil, Jr.    
+
+  Name: Edward M. Weil, Jr.
+
+  Title: Manager A
+
+  By: 
+
+/s/ Razvan Ifrim    
+
+  Name: Razvan Ifrim
+
+  Title: Manager B
+
+ARC GLOBAL II DB LUX
+
+ 
+
+S.À R.L.
+
+, a Luxembourg private limited liability company (
+
+société à responsabilité limitée
+
+), having its registered office at 17, Boulevard F.W. Raiffeisen, L-2411 Luxembourg, Grand Duchy of Luxembourg and registered with the Luxembourg Register of Commerce and Companies (Registre de commerce et des Sociétés) under number B 96624
+
+  By: 
+
+/s/ Edward M. Weil, Jr.    
+
+  Name: Edward M. Weil, Jr.
+
+  Title: Manager A
+
+  By: 
+
+/s/ Razvan Ifrim    
+
+  Name: Razvan Ifrim
+
+  Title: Manager B
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Omnibus Amendment to Guaranty and Contribution Agreement
+
+US_ACTIVE\129599399\V-3
+
+[Signatures Continue on Following Page]
+
+ARG WPFBRIT001 S.R.L.
+
+, an Italian 
+
+società a responsabilità limitata
+
+By: 
+
+/s/ Edward M. Weil, Jr.    
+
+Name: Edward M. Weil, Jr.
+
+Title: Director
+
+ARC GLOBAL II (HOLDING)
+
+, a French 
+
+société civile immobilière
+
+By: 
+
+/s/ Jesse C. Galloway    
+
+Name: Jesse C. Galloway
+
+Title: Gérant
+
+ARC GLOBAL II BORDEAUX
+
+, a French 
+
+société civile immobilière
+
+By: 
+
+/s/ Jesse C. Galloway    
+
+Name: Jesse C. Galloway
+
+Title: Gérant
+
+ARC GLOBAL II MARSEILLE
+
+, a French 
+
+société civile immobilière
+
+By: 
+
+/s/ Jesse C. Galloway    
+
+Name: Jesse C. Galloway
+
+Title: Gérant
+
+[Signatures Continue on Following Page]
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+ARC GLOBAL II AMIENS
+
+, a French 
+
+société civile immobilière
+
+By:
+
+ /s/ Jesse C. Galloway    
+
+Name: Jesse C. Galloway
+
+Title: Gérant
+
+ARC GLOBAL II BLOIS
+
+, a French 
+
+société civile immobilière 
+
+By:
+
+ /s/ Jesse C. Galloway    
+
+Name: Jesse C. Galloway
+
+Title: Gérant
+
+ARC GLOBAL II STRASBOURG
+
+, a French 
+
+société civile immobilière
+
+By:
+
+ /s/ Jesse C. Galloway    
+
+Name: Jesse C. Galloway
+
+Title: Gérant
+
+ARC GLOBAL II BREST
+
+, a French 
+
+société civile immobilière
+
+By:
+
+ /s/ Jesse C. Galloway    
+
+Name: Jesse C. Galloway
+
+Title: Gérant
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+[Signatures Continue on Following Page]
+
+    
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+ARC GLOBAL (GUERNSEY) HOLDINGS LIMITED
+
+, a Guernsey company
+
+By: 
+
+/s/ Gavin Farrell    
+
+Name: Gavin Farrell
+
+Title: Director
+
+LPE LIMITED
+
+, a Guernsey company
+
+By:
+
+ /s/ Gavin Farrell    
+
+Name: Gavin Farrell
+
+Title: Director
+
+ARC GLOBAL II LIMITED
+
+, a Guernsey company
+
+By:
+
+ /s/ Gavin Farrell    
+
+Name: Gavin Farrell
+
+Title: Director
+
+ARC GLOBAL II (MIDCO) LIMITED
+
+, a Guernsey company
+
+By:
+
+ /s/ Gavin Farrell    
+
+Name: Gavin Farrell
+
+Title: Director
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+[Signatures Continue on Following Page]
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+ARC GLOBAL II (FRANCE) HOLDINGS LIMITED
+
+, a Guernsey company
+
+By:
+
+ /s/ Gavin Farrell    
+
+Name: Gavin Farrell
+
+Title: Director
+
+TYCO MANCHESTER LIMITED
+
+, a Guernsey company
+
+By:
+
+ /s/ Gavin Farrell    
+
+Name: Gavin Farrell
+
+Title: Director
+
+ARC GLOBAL II (GERMANY) HOLDINGS LIMITED
+
+, a Guernsey company
+
+By:
+
+ /s/ Gavin Farrell    
+
+Name: Gavin Farrell
+
+Title: Director
+
+ARC GLOBAL II WEILBACH LIMITED
+
+, a Guernsey company
+
+By:
+
+ /s/ Gavin Farrell    
+
+Name: Gavin Farrell
+
+Title: Director
+
+ARC GLOBAL II (UK) HOLDINGS LIMITED
+
+, a Guernsey company
+
+By:
+
+ /s/ Gavin Farrell    
+
+Name: Gavin Farrell
+
+Title: Director
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Omnibus Amendment to Guaranty and Contribution Agreement
+
+US_ACTIVE\129599399\V-3
+
+[Signatures Continue on Following Page]
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+ARC GLOBAL II NCR LIMITED
+
+, a Guernsey company
+
+By:
+
+ /s/ Gavin Farrell    
+
+Name: Gavin Farrell
+
+Title: Director
+
+HC GLASGOW LIMITED
+
+, a Guernsey company
+
+By:
+
+ /s/ Gavin Farrell    
+
+Name: Gavin Farrell
+
+Title: Director
+
+ARG UK PROPERTY LIMITED
+
+, a Guernsey company
+
+By:
+
+ /s/ Gavin Farrell    
+
+Name: Jacquelyn Shimmin
+
+Title: Director
+
+ARG GLOBAL (GUERNSEY) ONE LIMITED
+
+, a Guernsey company
+
+By:
+
+ /s/ Gavin Farrell    
+
+Name: Gavin Farrell
+
+Title: Director
+
+[Signatures Continue on Following Page]
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Second Amendment to Second Amended and Restated Credit Agreement
+
+US_ACTIVE\129599399\V-3
+
+ARC GLOBAL II (NETHERLANDS) HOLDINGS LIMITED
+
+, a Guernsey company
+
+By:
+
+ /s/ Gavin Farrell    
+
+Name: Gavin Farrell
+
+Title: Director    
+
+ARC GLOBAL II ING LIMITED
+
+, a Guernsey company
+
+By:
+
+ /s/ Gavin Farrell    
+
+Name: Gavin Farrell
+
+Title: Director
+
+OSMOSIS SUB I, LLC
+
+, a Maryland limited liability company
+
+By: Global Net Lease, Inc., a Maryland corporation, its Sole Member
+
+By: 
+
+/s/ Jesse C. Galloway    
+
+Name: Jesse C. Galloway
+
+Title: Authorized Signatory
+
+THE NECESSITY RETAIL REIT OPERATING PARTNERSHIP, L.P.
+
+, a Delaware limited partnership
+
+By: GNL Retail GP, LLC, a Delaware limited liability company, its General Partner
+
+By:
+
+ /s/ Jesse C. Galloway    
+
+Name: Jesse C. Galloway
+
+Title: Authorized Signatory
+
+GNL RETAIL GP, LLC
+
+, a Delaware limited liability company
+
+By:
+
+ /s/ Jesse C. Galloway    
+
+Name: Jesse C. Galloway
+
+Title: Authorized Signatory
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+[Signatures Continue on Following Page]
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+ARG DDFLTMI001, LLC
+
+,
+
+ 
+
+ARG NCD5PCK001, LLC
+
+,
+
+ARG DG17PCK001, LLC
+
+,
+
+ARG ARDRDLA001, LLC
+
+,
+
+ARG AR16PCK001, LLC
+
+,
+
+ARG IRL8SLB001, LLC
+
+,
+
+ARC MFTSEFL002, LLC
+
+,
+
+ARC MFMCDGA001, LLC
+
+,
+
+ 
+
+ARC MFHLDMI001, LLC
+
+, 
+
+ARC MFSGWMI001, LLC
+
+, 
+
+ARC MFAKNSC001, LLC
+
+,
+
+ARC MFVALGA001, LLC
+
+,
+
+ARC MFMDNID001, LLC
+
+, and
+
+ARG KGOMHNE001, LLC
+
+, 
+
+each a Delaware limited liability company
+
+By:
+
+ /s/ Jesse C. Galloway    
+
+Name: Jesse C. Galloway
+
+Title: Authorized Signatory
+
+[Signatures Continue on Following Page]
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+ARG WO19PCK001, LLC
+
+,
+
+ARC DB5SAAB001, LLC
+
+, 
+
+ARC HR5STP3002, LLC
+
+,
+
+ARC HR5STP3001, LLC
+
+,
+
+ARC HR5STP1002, LLC
+
+,
+
+ARC HR5STP1001, LLC
+
+,
+
+ARC HR5STP2001, LLC
+
+,
+
+ARG DDHBLTX001, LLC
+
+,
+
+ARG SCSPFOH001, LLC
+
+,
+
+ 
+
+ARG FEMARIL001, LLC
+
+,
+
+ARG MCWOKUK001, LLC
+
+, 
+
+ARC KPHTNNE001, LLC
+
+, and
+
+GNL CANADIAN HOLDCO, LLC
+
+,
+
+each a Delaware limited liability company
+
+By:
+
+ /s/ Jesse C. Galloway    
+
+Name: Jesse C. Galloway
+
+Title: Authorized Signatory
+
+[Signatures Continue on Following Page]
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Second Amendment to Second Amended and Restated Credit Agreement
+
+US_ACTIVE\129599399\V-3
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Second Amendment to Second Amended and Restated Credit Agreement
+
+US_ACTIVE\129599399\V-3
+
+    
+
+AGENT AND LENDERS
+
+:
+
+KEYBANK NATIONAL ASSOCIATION
+
+,
+
+ 
+
+individually and as Agent
+
+By: 
+
+/s/ Angela Kara    
+
+Name: Angela Kara
+
+Title: Vice President
+
+BMO BANK N.A.
+
+By: 
+
+/s/ Darin Mainquist    
+
+Name: 
+
+Darin Mainquist    
+
+Title: 
+
+Director    
+
+TRUIST BANK
+
+By: 
+
+/s/ Ryan Almond    
+
+Name: 
+
+Ryan Almond    
+
+Title: 
+
+Director    
+
+CAPITAL ONE, NATIONAL ASSOCIATION 
+
+By: 
+
+/s/ Melissa DeVito    
+
+Name: 
+
+Melissa DeVito    
+
+Title: 
+
+Authorized Signatory    
+
+[Signatures Continue on Following Page]
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+SUMITOMO MITSUI BANKING CORPORATION 
+
+By: 
+
+/s/ Khrystyna Manko    
+
+Name: 
+
+Khrystyna Manko    
+
+Title: 
+
+Director    
+
+THE HUNTINGTON NATIONAL BANK
+
+By: 
+
+/s/ Joe White    
+
+Name:
+
+ Joe White    
+
+    
+Title: 
+
+Senior Vice President    
+
+SOCIÉTÉ GÉNÉRALE 
+
+By: 
+
+/s/ Richard Bernal    
+
+Name:
+
+ Richard Bernal    
+
+    
+Title: 
+
+Managing Director    
+
+BARCLAYS BANK PLC
+
+By: 
+
+/s/ Craig Malloy    
+
+Name: 
+
+Craig Malloy
+
+_________________________    
+Title: _
+
+Director
+
+______________________________
+
+[Signatures Continue on Following Page]
+
+SYNOVUS BANK
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement
+
+By: 
+
+/s/ Tejas Patel    
+
+Name: 
+
+Tejas Patel    
+
+Title: 
+
+Senior Director    
+
+COMERICA BANK
+
+By: 
+
+/s/ Charles Weddell    
+
+Name: 
+
+Charles Weddell    
+
+Title: 
+
+Senior Vice President    
+
+UBS AG, STAMFORD BRANCH 
+
+(as successor in interest to Credit Suisse AG, New York Branch)
+
+By: 
+
+/s/ Muhammad Afzal    
+
+Name: 
+
+Muhammad Afzal
+
+_____________________    
+Title: 
+
+Director
+
+______________________________    
+
+By: 
+
+/s/ Danielle Calo    
+
+Name: 
+
+Danielle Calo
+
+_________________________    
+Title: 
+
+Director
+
+_______________________________
+
+KeyBank/Global Net Lease Operating Partnership, L.P.
+
+Signature Page to Fourth Amendment to Second Amended and Restated Credit Agreement

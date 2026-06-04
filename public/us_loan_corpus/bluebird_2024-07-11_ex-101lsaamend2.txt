@@ -1,0 +1,373 @@
+EX-10.1
+
+2
+
+ex-101lsaamend2.htm
+
+EX-10.1
+
+Document
+
+Exhibit 10.1
+
+SECOND AMENDMENT TO LOAN AND SECURITY AGREEMENT
+
+THIS 
+
+SECOND AMENDMENT TO LOAN AND SECURITY AGREEMENT
+
+ (this “
+
+Amendment
+
+”), dated as of July 9, 2024 (the “
+
+Second Amendment Effective Date
+
+”), is entered into by and among BLUEBIRD BIO, INC., a Delaware corporation (“
+
+Company
+
+”), and each other Person that has delivered a Joinder Agreement from time to time party to the Existing Loan Agreement (together with Company, individually or collectively, as the context may require, “
+
+Borrower
+
+”), the several banks and other financial institutions or entities from time to time parties to the Existing Loan Agreement (each, a “
+
+Lender
+
+”, and collectively “
+
+Lenders
+
+”) that are party hereto and HERCULES CAPITAL, INC., a Maryland corporation, in its capacity as administrative agent and collateral agent for itself and Lenders (in such capacities, including any successors or permitted assigns, “
+
+Agent
+
+”).
+
+A.    Borrower, Lenders and Agent are parties to that certain Loan and Security Agreement, dated as of March 15, 2024 (as amended, restated, amended and restated, supplemented or otherwise modified from time to time to date, the “
+
+Existing Loan Agreement
+
+” and the Existing Loan Agreement, as amended by this Amendment, the “
+
+Amended Loan Agreement
+
+”). Borrower, Lenders and Agent have agreed to certain amendments to the Existing Loan Agreement upon the terms and conditions more fully set forth herein.
+
+SECTION 1
+
+Definitions; Interpretation.
+
+(a)    
+
+Defined Terms
+
+. All capitalized terms used in this Amendment (including in the recitals hereof) and not otherwise defined herein shall have the meanings assigned to them in the Amended Loan Agreement.
+
+(b)    
+
+Rules of Construction
+
+. The rules of construction that appear in 
+
+Section 1.3
+
+ of the Amended Loan Agreement shall be applicable to this Amendment and are incorporated herein by this reference.
+
+SECTION 2
+
+Amendments to the Existing Loan Agreement.
+
+(a)    The Existing Loan Agreement shall be amended as follows effective as of the date hereof (except as otherwise noted):
+
+(i)    The following defined terms are hereby added, in appropriate alphabetical order, or amended and restated, as applicable, in 
+
+Section 1.1
+
+ of the Existing Loan Agreement, as set forth below:
+
+“
+
+Second Amendment
+
+” means that certain Second Amendment to Loan and Security Agreement, dated as of the Second Amendment Effective Date by and among Borrower, Lenders and Agent.
+
+“
+
+Second Amendment Effective Date
+
+” means July 9, 2024.
+
+(ii)    
+
+Section 7.1(a)
+
+, 
+
+Section 7.1(b)
+
+ and 
+
+Section 7.1(c)
+
+ of the Existing Loan Agreement are hereby amended and restated to read as follows:
+
+“(a)    as soon as practicable (and in any event within thirty (30) days or such longer period as may be agreed by Agent in its sole discretion) after the end of each month, unaudited interim and year-to-date financial statements as of the end of such month (prepared on a consolidated and consolidating basis, if prepared) of Company and its Subsidiaries, including balance sheet and related statements of income, all certified by a duly authorized officer of Company to the effect that they have been prepared in accordance with GAAP, except (i) for the absence of footnotes, (ii) that they are subject to normal year-end or quarter-end adjustments, and (iii) they do not contain certain non-cash items that are customarily included in quarterly and annual financial statements; provided that, with respect to the monthly financial statements for the months ending on March 31, 2024 through September 30, 2024, Borrower shall be in compliance with this clause (a) so long as the financial statements provided to Agent for such months shall be 
+
+in a form substantially similar to the example sent by Borrower to Agent after the Closing Date and prior to the First Amendment Effective Date; 
+
+(b)    as soon as practicable (and in any event (i) by August 31, 2024 for the fiscal quarter ended March 31, 2024, (ii) by September 30, 2024 for the fiscal quarter ended June 30, 2024 and (iii) within forty-five (45) days or, in each case of the foregoing clauses (i), (ii) and (iii), such longer period as may be agreed by Agent in its sole discretion) after the end of each of the first three fiscal quarters of each fiscal year, unaudited interim and year-to-date financial statements as of the end of such calendar quarter (prepared on a consolidated and consolidating basis, if prepared) of Company and its Subsidiaries, including balance sheet and related statements of income and cash flows accompanied by a report detailing
+
+ 
+
+any occurrence that could reasonably be expected to have a Material Adverse Effect (including the commencement of any material litigation by or against Borrower), certified by a duly authorized officer of Company to the effect that they have been prepared in accordance with GAAP, except (i) for the absence of footnotes, and (ii) that they are subject to normal year-end adjustments;
+
+    (c)    as soon as practicable (and in any event (i) by August 31, 2024 for the fiscal year ended December 31, 2023 and (ii) ninety (90) days for each fiscal year thereafter, or in each case of the foregoing clauses (i) and (ii), such longer period as may be agreed by Agent in its sole discretion) after the end of each fiscal year, audited financial statements as of the end of such year (prepared on a consolidated and consolidating basis, if prepared), including balance sheet and related statements of income and cash flows, and setting forth in comparative form the corresponding figures for the preceding fiscal year, certified without qualification (other than a “going concern” qualification as it relates to Borrower’s cash levels so long as no Event of Default has occurred or is continuing) by a firm of independent certified public accountants selected by Borrower and reasonably acceptable to Agent, accompanied by any management report from such accountants (it being understood that Ernst & Young LLP and any other accounting firm of national standing are reasonably acceptable to Agent);”
+
+(iii)    
+
+Section 7.20(a)
+
+ of the Existing Loan Agreement is hereby amended and restated to read as follows:
+
+“(a)    Borrower (i) shall maintain, and shall cause its Subsidiaries to maintain, compliance in all material respects with all applicable laws, rules or regulations (including any law, rule or regulation with respect to the making or brokering of loans or financial accommodations and it being agreed by the parties hereto that Borrower’s late delivery and filing of its Form 10-K for the fiscal year ended December 31, 2023 and its Form 10-Q for the fiscal quarter ended March 31, 2024 shall be deemed not to violate this 
+
+Section 7.20(a)
+
+ so long as such documents are filed by August 31, 2024 and that Borrower’s late delivery and filing of its Form 10-Q for the fiscal quarter ended June 30, 2024 shall be deemed not to violate this 
+
+Section 7.20(a)
+
+ so long as such document is filed by September 30, 2024), and (ii) shall, or cause its Subsidiaries to, obtain and maintain all material required Governmental Approvals reasonably necessary in connection with the conduct of Borrower’s business. Borrower shall not become an “investment company,” a company that would be an “investment company” except for the exclusion from the definition of “investment company” in Section 3(c) of the 1940 Act, or a company controlled by an “investment company” under the 1940 Act, or undertake as one of its important activities extending credit to purchase or carry margin stock (as defined in Regulation X, T and U of the Federal Reserve Board of Governors).”
+
+(b)    
+
+References Within Amended Loan Agreement
+
+. Each reference in the Amended Loan Agreement to “this Agreement” and the words “hereof,” “herein,” “hereunder,” or words of like import, shall mean and be a reference to the Amended Loan Agreement. This Amendment shall be a Loan Document. Any failure by Borrower to perform any obligation under this Amendment shall constitute an Event of Default under the Amended Loan Agreement.
+
+    
+
+2
+
+SECTION 3
+
+Conditions to Effectiveness
+
+. The effectiveness of this Amendment shall be subject to satisfaction of each of the following conditions precedent: 
+
+(a)    Agent shall have received this Amendment, executed by Agent, Required Lenders, and Borrower; 
+
+(b)    immediately after giving effect to this Amendment, the representations and warranties contained in 
+
+Section 4
+
+ hereof shall be true and correct on and as of the Second Amendment Effective Date as though made on and as of such date; and
+
+(c)    immediately after giving effect to this Amendment, there exist no Events of Default or events that, with the passage of time, could result in an Event of Default. 
+
+SECTION 4
+
+Representations and Warranties
+
+. To induce Agent and Lenders to enter into this Amendment, Borrower hereby confirms, as of the date hereof and immediately after giving effect to this Amendment, (a) that the representations and warranties made by it in 
+
+Section 5
+
+ of the Amended Loan Agreement and in the other Loan Documents are true and correct in all material respects; 
+
+provided
+
+, 
+
+however
+
+, that such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof (except to the extent such representations and warranties relate to an earlier date, in which case they are true and correct in all material respects as of such date); and (b) that there has not been and there does not exist a Material Adverse Effect. 
+
+SECTION 5
+
+Miscellaneous.
+
+(a)    
+
+Loan Documents Otherwise Not Affected; Reaffirmation
+
+. Except as expressly amended pursuant hereto or referenced herein, the Existing Loan Agreement and the other Loan Documents shall remain unchanged and in full force and effect and are hereby ratified and confirmed in all respects. Lenders’ and Agent’s execution and delivery of, or acceptance of, this Amendment shall not be deemed to create a course of dealing or otherwise create any express or implied duty by any of them to provide any other or further amendments, consents or waivers in the future. Borrower hereby reaffirms the security interest granted pursuant to the Loan Documents and hereby reaffirms that such grant of security in the Collateral granted as of the Closing Date continues without novation and secures all Secured Obligations under the Amended Loan Agreement and the other Loan Documents. Borrower acknowledges and agrees that it does not have any defense, set-off, counterclaim or challenge against the payment of any sums owing under the Existing Loan Agreement and the other Loan Documents, or the enforcement of any of the terms or conditions thereof.
+
+(b)    
+
+Conditions
+
+. For purposes of determining compliance with the conditions specified in 
+
+Section 3
+
+ hereof, each Lender that has signed this Amendment shall be deemed to have consented to, approved or accepted or to be satisfied with, each document or other matter required thereunder to be consented to or approved by or acceptable or satisfactory to a Lender unless Agent shall have received notice from such Lender prior to the date hereof specifying its objection thereto.
+
+(c)    
+
+Release
+
+. In consideration of the agreements of Agent and Lenders contained herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Borrower, on behalf of itself and its successors and assigns, hereby fully, absolutely, unconditionally and irrevocably releases, remises and forever discharges Agent and each Lender, and its successors and assigns, and its present and former shareholders, affiliates, subsidiaries, divisions, predecessors, directors, officers, attorneys, employees, agents and other representatives (Agent, Lenders and all such other persons being hereinafter referred to collectively as the “
+
+Releasees
+
+” and individually as a “
+
+Releasee
+
+”), of and from all demands, actions, causes of action, suits, covenants, contracts, controversies, agreements, promises, sums of money, accounts, bills, reckonings, damages and any and all other claims, counterclaims, defenses, rights of set-off, demands and liabilities whatsoever of every name and nature, known or unknown, suspected or unsuspected, both at law and in equity, which Borrower, or any of its successors, assigns, or other legal representatives may now or hereafter own, hold, have or claim to have against the Releasees or any of them for, upon, or by reason of any circumstance, action, cause or thing whatsoever which arises at any time on or prior to the day and date of this Amendment, including, without limitation, for or on account of, or 
+
+    
+
+3
+
+in relation to, or in any way in connection with the Existing Loan Agreement, or any of the other Loan Documents or transactions thereunder or related thereto (collectively, the “
+
+Released Claims
+
+”). Borrower waives the provisions of California Civil Code section 1542, which states: 
+
+A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS THAT THE CREDITOR OR RELEASING PARTY DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE AND THAT, IF KNOWN BY HIM OR HER, WOULD HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR OR RELEASED PARTY.
+
+Borrower understands, acknowledges and agrees that the release set forth above may be pleaded as a full and complete defense and may be used as a basis for an injunction against any action, suit or other proceeding which may be instituted, prosecuted or attempted in breach of the provisions of such release.
+
+ 
+
+Borrower agrees that no fact, event, circumstance, evidence or transaction which could now be asserted or which may hereafter be discovered shall affect in any manner the final, absolute and unconditional nature of the release set forth above. The provisions of this section shall survive payment in full of the Secured Obligations, full performance of all the terms of this Amendment and the other Loan Documents.
+
+In addition to the release contained above, and not in limitation thereof, Borrower hereby agrees that it will never prosecute, nor voluntarily aid in the prosecution of, any action or proceeding relating to the Released Claims, whether by claim, counterclaim or otherwise.
+
+ 
+
+If, and to the extent that, any of the Released Claims are, for any reason whatsoever, not fully, finally and forever released and discharged pursuant to the terms above, Borrower hereby absolutely and unconditionally grants, sells, bargains, transfers, assigns and conveys to Agent all of the Released Claims and any proceeds, settlements and distributions relating thereto.
+
+(d)    
+
+No Reliance
+
+. Borrower hereby acknowledges and confirms to Agent and Lenders that Borrower is executing this Amendment on the basis of its own investigation and for its own reasons without reliance upon any agreement, representation, understanding or communication by or on behalf of any other Person.
+
+(e)    
+
+Binding Effect
+
+. This Amendment binds and is for the benefit of the successors and permitted assigns of each party. 
+
+(f)    
+
+Governing Law.
+
+ This Amendment and the other Loan Documents shall be governed by, and construed and enforced in accordance with, the laws of the State of California, excluding conflict of laws principles that would cause the application of laws of any other jurisdiction.
+
+(g)    
+
+Complete Agreement; Amendments
+
+. This Amendment and the Loan Documents represent the entire agreement about this subject matter and supersede prior negotiations or agreements with respect to such subject matter. All prior agreements, understandings, representations, warranties, and negotiations between the parties about the subject matter of this Amendment and the Loan Documents merge into this Amendment and the Loan Documents. 
+
+(h)    
+
+Severability of Provisions.
+
+ Each provision of this Amendment is severable from every other provision in determining the enforceability of any provision.
+
+(i)    
+
+Counterparts
+
+. This Amendment may be executed in any number of counterparts and by different parties on separate counterparts, each of which, when executed and delivered, is an original, and all taken together, constitute one Amendment. Delivery of an executed counterpart of a signature page of this Amendment by facsimile, portable document format (.pdf) or other electronic transmission will be as effective as delivery of a manually executed counterpart hereof.
+
+(j)    
+
+Electronic Execution of Certain Other Documents
+
+. The words “execution,” “execute”, “signed,” “signature,” and words of like import in or related to any document to be signed in connection with this 
+
+    
+
+4
+
+Amendment and the transactions contemplated hereby (including without limitation assignments, assumptions, amendments, waivers and consents) shall be deemed to include electronic signatures, the electronic matching of assignment terms and contract formations on electronic platforms approved by Agent, or the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided for in any applicable law, including the Federal Electronic Signatures in Global and National Commerce Act, the California Uniform Electronic Transaction Act, or any other similar state laws based on the Uniform Electronic Transactions Act.
+
+(k)    
+
+Inconsistencies
+
+. To the extent of any inconsistency between the terms and conditions of this Amendment and the terms and conditions of the Existing Loan Agreement and the other Loan Documents, the terms and conditions of this Amendment shall prevail.
+
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+    
+
+5
+
+IN WITNESS WHEREOF, the parties hereto have duly executed this Amendment, as of the date first above written.
+
+BORROWER:
+
+BLUEBIRD BIO, INC.
+
+Signature:    
+
+/s/ Andrew Obenshain        
+
+Print Name:     Andrew Obenshain
+
+Title:     Chief Executive Officer
+
+[Signature Page to Second Amendment to Loan and Security Agreement]
+
+AGENT:
+
+HERCULES CAPITAL, INC.
+
+Signature:    
+
+/s/ Seth H. Meyer            
+
+Print Name:     Seth Meyer
+
+Title:         Chief Financial Officer
+
+LENDERS:
+
+HERCULES CAPITAL, INC.
+
+Signature:    
+
+/s/ Seth H. Meyer            
+
+Print Name:     Seth Meyer
+
+Title:         Chief Financial Officer
+
+HERCULES PRIVATE CREDIT FUND 1 L.P.
+
+By: Hercules Private Global Venture Growth Fund GP I LLC, its general partner
+By: Hercules Partner Holdings LLC, its sole member
+
+Signature:    
+
+/s/ Seth H. Meyer            
+
+Print Name:     Seth Meyer
+
+Title:         Authorized Signatory
+
+HERCULES PRIVATE GLOBAL VENTURE GROWTH FUND I L.P.
+
+By: Hercules Private Global Venture Growth Fund GP I LLC, its general partner
+By: Hercules Partner Holdings LLC, its sole member
+
+Signature:    
+
+/s/ Seth H. Meyer            
+
+Print Name:     Seth Meyer
+
+Title:         Authorized Signatory
+
+[Signature Page to Second Amendment to Loan and Security Agreement]

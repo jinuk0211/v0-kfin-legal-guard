@@ -1,0 +1,6870 @@
+EX-10.2
+
+3
+
+ex10-2.htm
+
+AMENDED AND RESTATED INTERCREDITOR AGREEMENT
+
+ 
+
+ 
+
+VERTEX ENERGY INC. 8-K
+
+Exhibit 10.2
+
+ 
+
+ 
+
+ 
+
+Execution
+Version
+
+ 
+
+AMENDED AND RESTATED INTERCREDITOR AGREEMENT
+
+ 
+
+originally dated as of April 1, 2022, and as amended and restated as of May 26, 2023
+
+ 
+
+among
+
+ 
+
+CANTOR FITZGERALD SECURITIES,
+
+ 
+
+as the Term Loan Agent,
+
+ 
+
+MACQUARIE ENERGY NORTH AMERICA TRADING INC.,
+
+ 
+
+as the Intermediation Facility Secured Party,
+
+ 
+
+MACQUARIE ENERGY NORTH AMERICA TRADING INC.,
+
+ 
+
+ 
+
+as the Renewables Intermediation Facility Secured Party,
+
+ 
+
+ 
+
+VERTEX
+REFINING ALABAMA LLC,
+ 
+
+ 
+
+as the Company,
+
+ 
+
+ 
+
+VERTEX
+RENEWABLES ALABAMA LLC,
+ 
+
+ 
+
+as the Renewables Company,
+
+ 
+
+ 
+
+and
+
+ 
+
+THE OTHER ACKNOWLEDGING AFFILIATES PARTY HERETO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE
+ OF CONTENTS 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+PAGE
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ARTICLE 1
+
+ 
+
+DEFINITIONS
+
+ 
+ 
+
+ 
+
+2
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Section 1.01.
+
+ 
+
+UCC Definitions
+
+ 
+
+2
+
+ 
+
+Section 1.02.
+
+ 
+
+Definitions
+
+ 
+
+2
+
+ 
+
+Section 1.03.
+
+ 
+
+Terms Generally
+
+ 
+
+17
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ARTICLE 2
+
+ 
+
+LIEN PRIORITIES
+
+ 
+
+18
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Section 2.01.
+
+ 
+
+Lien Priorities
+
+ 
+
+18
+
+ 
+
+Section 2.02.
+
+ 
+
+Nature of Obligations
+
+ 
+
+19
+
+ 
+
+Section 2.03.
+
+ 
+
+Additional Liens
+
+ 
+
+20
+
+ 
+
+Section 2.04.
+
+ 
+
+[Reserved]
+
+ 
+
+20
+
+ 
+
+Section 2.05.
+
+ 
+
+Delivery of Termination Date Notices
+
+ 
+
+20
+
+ 
+
+Section 2.06.
+
+ 
+
+Reinstatement
+
+ 
+
+21
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ARTICLE 3
+
+ 
+
+ENFORCEMENT RIGHTS
+
+ 
+
+21
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Section 3.01.
+
+ 
+
+Exclusive Enforcement
+
+ 
+
+21
+
+ 
+
+Section 3.02.
+
+ 
+
+Standstill and Waivers
+
+ 
+
+21
+
+ 
+
+Section 3.03.
+
+ 
+
+[Reserved]
+
+ 
+
+22
+
+ 
+
+Section 3.04.
+
+ 
+
+Cooperation with respect to Collateral
+
+ 
+
+23
+
+ 
+
+Section 3.05.
+
+ 
+
+[Reserved]
+
+ 
+
+28
+
+ 
+
+Section 3.06.
+
+ 
+
+[Reserved]
+
+ 
+
+28
+
+ 
+
+Section 3.07.
+
+ 
+
+Actions Upon Breach
+
+ 
+
+28
+
+ 
+
+Section 3.08.
+
+ 
+
+Intermediation Facility Secured Parties and Proceeds of Business Interruption Insurance
+
+ 
+
+29
+
+ 
+
+Section 3.09.
+
+ 
+
+Renewables Intermediation Facility Secured Parties and Proceeds of Business Interruption Insurance
+
+ 
+
+29
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ARTICLE 4
+
+ 
+
+APPLICATION OF PROCEEDS OF COLLATERAL; DISPOSITIONS AND RELEASES OF COLLATERAL; INSPECTION AND INSURANCE
+
+ 
+30
+
+ 
+ 
+
+ 
+
+ 
+
+Section 4.01.
+
+ 
+
+Application of Proceeds; Turnover Provisions
+
+ 
+
+30
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ARTICLE 5
+
+ 
+
+INSOLVENCY PROCEEDINGS
+
+ 
+
+32
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Section 5.01.
+
+ 
+
+Filing of Motions
+
+ 
+
+32
+
+ 
+
+Section 5.02.
+
+ 
+
+Financing Matters
+
+ 
+
+33
+
+ 
+
+ 
+
+i
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section 5.03.
+
+ 
+
+[Reserved]
+
+ 
+
+34
+
+ 
+
+Section 5.04.
+
+ 
+
+Adequate Protection
+
+ 
+
+35
+
+ 
+
+Section 5.05.
+
+ 
+
+Avoidance Issues
+
+ 
+
+36
+
+ 
+
+Section 5.06.
+
+ 
+
+Asset Dispositions in an Insolvency Proceeding
+
+ 
+
+36
+
+ 
+
+Section 5.07.
+
+ 
+
+[Reserved]
+
+ 
+
+37
+
+ 
+
+Section 5.08.
+
+ 
+
+Plans of Reorganization
+
+ 
+
+37
+
+ 
+
+Section 5.09.
+
+ 
+
+Other Matters
+
+ 
+
+37
+
+ 
+
+Section 5.10.
+
+ 
+
+No Waiver of Rights of First Priority Secured Parties
+
+ 
+
+38
+
+ 
+
+Section 5.11.
+
+ 
+
+Effectiveness in Insolvency Proceedings
+
+ 
+
+38
+
+ 
+
+Section 5.12.
+
+ 
+
+Section 1111 of the Bankruptcy Code
+
+ 
+
+38
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ARTICLE 6
+
+ 
+
+MATTERS RELATING TO FINANCE DOCUMENTS
+
+ 
+
+38
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Section 6.01.
+
+ 
+
+Amendments to Finance Documents
+
+ 
+
+38
+
+ 
+
+Section 6.02.
+
+ 
+
+Consents
+
+ 
+
+39
+
+ 
+
+ARTICLE 7
+
+ 
+
+RELIANCE; WAIVERS; ETC
+
+ 
+
+39
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Section 7.01.
+
+ 
+
+Reliance
+
+ 
+
+39
+
+ 
+
+Section 7.02.
+
+ 
+
+No Warranties or Liability
+
+ 
+
+39
+
+ 
+
+Section 7.03.
+
+ 
+
+No Waivers
+
+ 
+
+39
+
+ 
+
+Section 7.04.
+
+ 
+
+Obligations Unconditional
+
+ 
+
+40
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ARTICLE 8
+
+ 
+
+MISCELLANEOUS
+
+ 
+
+40
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Section 8.01.
+
+ 
+
+Conflicts
+
+ 
+
+40
+
+ 
+
+Section 8.02.
+
+ 
+
+Continuing Nature of Provisions
+
+ 
+
+40
+
+ 
+
+Section 8.03.
+
+ 
+
+Amendments; Waivers
+
+ 
+
+40
+
+ 
+
+Section 8.04.
+
+ 
+
+Information Concerning Financial Condition of the Company and the Renewables Company
+
+ 
+
+40
+
+ 
+
+Section 8.05.
+
+ 
+
+Additional Grantors
+
+ 
+
+41
+
+ 
+
+Section 8.06.
+
+ 
+
+GOVERNING LAW; JURISDICTION; CONSENT TO SERVICE OF PROCESS
+
+ 
+
+41
+
+ 
+
+Section 8.07.
+
+ 
+
+WAIVER OF JURY TRIAL
+
+ 
+
+42
+
+ 
+
+Section 8.08.
+
+ 
+
+Notices
+
+ 
+
+42
+
+ 
+
+Section 8.09.
+
+ 
+
+Successors and Assigns
+
+ 
+
+44
+
+ 
+
+Section 8.10.
+
+ 
+
+Headings
+
+ 
+
+44
+
+ 
+
+Section 8.11.
+
+ 
+
+Further Assurances
+
+ 
+
+44
+
+ 
+
+Section 8.12.
+
+ 
+
+Subrogation
+
+ 
+
+44
+
+ 
+
+Section 8.13.
+
+ 
+
+Severability
+
+ 
+
+44
+
+ 
+
+Section 8.14.
+
+ 
+
+Counterparts; Integration; Effectiveness
+
+ 
+
+44
+
+ 
+
+Section 8.15.
+
+ 
+
+Provisions Solely to Define Relative Rights
+
+ 
+
+45
+
+ 
+
+Section 8.16.
+
+ 
+
+No Third Party Beneficiaries
+
+ 
+
+45
+
+ 
+
+Section 8.17.
+
+ 
+
+Concerning the Term Loan Agent
+
+ 
+
+45
+
+ 
+
+ 
+
+ii
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARTICLE 9
+
+ 
+
+AGREEMENTS WITH RESPECT TO INTERMEDIATION TITLE PROPERTY
+
+ 
+
+45
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Section 9.01.
+
+ 
+
+Turnover
+
+ 
+
+45
+
+ 
+
+Section 9.02.
+
+ 
+
+UCC Notices
+
+ 
+
+45
+
+ 
+
+Section 9.03.
+
+ 
+
+Further Assurances with Respect to Intermediation Title Property
+
+ 
+
+45
+
+ 
+
+Section 9.04.
+
+ 
+
+Additional Understanding and Agreements with Respect to Intermediation Title Property
+
+ 
+
+46
+
+ 
+
+Section 9.05.
+
+ 
+
+Additional Understanding and Agreements of the Term Loan Agent
+
+ 
+
+46
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ARTICLE 10
+
+ 
+ 
+
+ 
+
+47
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+AGREEMENTS WITH RESPECT TO RENEWABLES INTERMEDIATION TITLE PROPERTY
+
+ 
+
+47
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Section 10.01.
+
+ 
+
+Turnover
+
+ 
+
+47
+
+ 
+
+Section 10.02.
+
+ 
+
+UCC Notices
+
+ 
+
+47
+
+ 
+
+Section 10.03.
+
+ 
+
+Further Assurances with Respect to Renewables Intermediation Title Property
+
+ 
+
+47
+
+ 
+
+Section 10.04.
+
+ 
+
+Additional Understanding and Agreements with Respect to Renewables Intermediation Title Property
+
+ 
+
+48
+
+ 
+
+Section 10.05.
+
+ 
+
+Additional Understanding and Agreements of the Term Loan Agent
+
+ 
+
+48
+
+ 
+
+ 
+
+Annex I
+
+ 
+
+–
+
+ 
+
+[Reserved]
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Annex II
+
+ 
+
+–
+
+ 
+
+Provisions for Finance Documents
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Annex III
+
+ 
+
+–
+
+ 
+
+Joinder Agreement
+
+    
+
+ 
+
+iii
+
+ 
+
+ 
+
+ 
+
+AMENDED
+AND RESTATED INTERCREDITOR AGREEMENT
+
+ 
+
+This
+AMENDED AND RESTATED INTERCREDITOR AGREEMENT (this “
+Agreement
+”), originally dated as of April 1, 2022 and amended
+and restated as of May 26, 2023 by and among Cantor Fitzgerald Securities, as collateral agent (in such capacity, with its successors
+and assigns, the “
+Term Loan Agent
+”) for the Term Loan Secured Parties, Macquarie Energy North America Trading
+Inc., in its capacity as intermediator under the Intermediation Facility Documents (in such capacity, with its successor and assigns,
+the “
+Intermediation Facility Secured Party
+”), Macquarie Energy North America Trading Inc., in its capacity
+as intermediator under the Renewables Intermediation Facility Documents (in such capacity, with its successor and assigns, the
+“
+Renewables Intermediation Facility Secured Party
+”), Vertex Refining Alabama LLC, a Delaware limited liability
+company (the “
+Company
+”), Vertex Renewables Alabama LLC, a Delaware limited liability company (“
+Renewables
+Company
+”, together with the Company, the “
+Grantors
+” and each, individually, a “
+Grantor
+”)
+and each of the other companies appearing on the signature pages hereto (collectively, the “
+Acknowledging Affiliates
+”).
+
+ 
+
+WHEREAS,
+the Company is a borrower under the Term Loan Agreement, pursuant to which the lenders party thereto have made and/or will make
+term loans to the Company on the terms and conditions set forth therein; and
+
+ 
+
+WHEREAS,
+the Company has or will become a party to the Intermediation Agreement, which provide certain arrangements for (i) the provision
+of intermediation services by the Intermediation Facility Secured Party to the Company and (ii) certain other transactions between
+the Intermediation Facility Secured Party and the Company related thereto; and
+
+ 
+
+WHEREAS,
+the Renewables Company has or will become a party to the Renewables Intermediation Agreement, which provide certain arrangements
+for (i) the provision of intermediation services by the Renewables Intermediation Facility Secured Party to the Renewables Company
+and (ii) certain other transactions between the Renewables Intermediation Facility Secured Party and the Renewables Company related
+thereto; and
+
+ 
+
+WHEREAS,
+the Grantors have granted, or will grant, Liens on certain of their respective assets (i) to the Term Loan Agent pursuant to the
+Term Loan Collateral Documents to secure the Term Loan Obligations; (ii) to the Intermediation Facility Secured Party pursuant
+to the Intermediation Facility Documents to secure the Intermediation Facility Obligations; and/or (iii) to the Renewables Intermediation
+Facility Secured Party pursuant to the Renewables Intermediation Facility Documents to secure the Renewables Intermediation Facility
+Obligations; and
+
+ 
+
+WHEREAS,
+it is the desire of the parties hereto to set forth their respective rights and priorities with respect to the Collateral.
+
+ 
+
+NOW,
+THEREFORE, in consideration of the foregoing and the mutual covenants herein contained and other good and valuable consideration,
+the existence and sufficiency of which is expressly recognized by all of the parties hereto, the parties agree as follows:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARTICLE
+1
+
+DEFINITIONS
+
+ 
+
+Section
+1.01.    
+UCC Definitions
+. Unless otherwise defined herein, the following terms are used herein as defined
+in the Uniform Commercial Code: Accounts, Chattel Paper, Commercial Tort Claims, Commodities Account, Deposit Account, Documents,
+Electronic Chattel Paper, Equipment, Financial Assets, Fixtures, General Intangibles, Instruments, Investment Property, Letter-of-Credit
+Rights, Letters of Credit, Money, Payment Intangibles, Proceeds, Records, Securities Account, Security Entitlements, and Supporting
+Obligations.
+
+ 
+
+Section
+1.02.     
+Definitions
+. The following terms, as used herein, have the following meanings:
+
+ 
+
+“
+Access
+Period
+” has the meaning set forth in Section 3.04(b)(iv).
+
+ 
+
+“
+Acknowledging
+Affiliates
+” has the meaning set forth in the introductory paragraph of this Agreement.
+
+ 
+
+“
+Adequate
+Protection Liens
+” means any Liens granted in any Insolvency Proceeding to any Secured Party as adequate protection for
+the value of the Liens securing the Secured Obligations held by such Secured Party.
+
+ 
+
+“
+Affiliate
+”
+means, with respect to any Person, any Person that owns or Controls such Person, any Person that Controls or is Controlled by
+or is under common Control with such Person or each of such Person’s senior executive officers, directors, members or partners.
+Notwithstanding anything to the contrary, no Secured Party (nor any of their Affiliates), shall be an Affiliate of any Grantor
+or of any Subsidiary of any Grantor.
+
+ 
+
+“
+Amendment
+and Restatement Date
+” means May 26, 2023.
+
+ 
+
+“
+Applicable
+Law
+” means, as to any Person, all applicable laws of any Governmental Authority binding upon such Person or to which
+such a Person is subject.
+
+ 
+
+“
+BTCs
+”
+means Biodiesel Blender’s Tax Credits.
+
+ 
+
+“
+Business
+Interruption Insurance Percentage
+” shall mean, as of any date of determination, (i) with respect to the Intermediation
+Facility Secured Parties, the percentage determined by dividing the Intermediation Facility Secured Parties’ respective
+Intermediation Facility Obligations outstanding after the Intermediation Facility Secured Parties have marshalled, taken, liquidated
+and exhausted all remedies and recoveries available to such Intermediation Facility Secured Parties from any other Intermediation
+Facility Priority Collateral and any insurance rights owned or held by the Intermediation Facility Secured Parties in their own
+name covering such Collateral in accordance with Section 3.08 hereof to the Intermediation Facility Obligations under the respective
+Intermediation Facility Documents, by the sum of such Intermediation Facility Obligations, plus the sum of the outstanding Term
+Loan Obligations and the outstanding Renewables Intermediation Facility Obligations, in each case, as of the time of the occurrence
+of the event giving rise to the payment of business interruption insurance; (ii) with respect to the Renewables Intermediation
+Facility Secured Parties, the percentage determined by dividing the Renewables Intermediation Facility Secured Parties respective
+Renewables Intermediation Facility Obligations outstanding after the Renewables Intermediation Facility Secured Parties have marshalled,
+taken, liquidated and exhausted all remedies and recoveries available to such Renewables Intermediation Facility Secured Parties
+from any other Renewables Intermediation Facility Priority Collateral and any insurance rights owned or held by the Renewables
+Intermediation Facility Secured Parties in their own name covering such Collateral in accordance with Section 3.09 hereof to the
+Renewables Intermediation Facility Obligations under the respective Renewables Intermediation Facility Documents, by the sum of
+such Renewables Intermediation Facility Obligations, plus the sum of the outstanding Term Loan Obligations and the outstanding
+Intermediation Facility Obligations, in each case, as of the time of the occurrence of the event giving rise to the payment of
+business interruption insurance; and (iii) with respect to the Term Loan Secured Parties, the difference between 100% and the
+sum of percentages determined in items (i) and (ii) of this definition.
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+“
+Cash
+Equivalents
+” means, as to any Person: (a) securities issued or directly and guaranteed or insured by the United States
+or any agency or instrumentality thereof having maturities of not more than twelve (12) months from the date of acquisition; (b)
+securities issued by any state of the United States or any political subdivision of any such state or any public instrumentality
+thereof having maturities of not more than twelve (12) months from the date of acquisition and having one of the two highest ratings
+from either Standard & Poor’s, a division of The McGraw-Hill Companies, Inc., or Moody’s Investors Service, Inc.;
+(c) certificates of deposit, denominated solely in U.S. Dollars, maturing within 180 days after the date of acquisition, issued
+by any commercial bank organized under the laws of the United States or any state thereof or the District of Columbia or that
+is a U.S. subsidiary of a foreign commercial bank; in each of the foregoing cases, solely to the extent that: (i) such commercial
+bank’s short-term commercial paper is rated at least A-1 or the equivalent by Standard & Poor’s, a division of
+The McGraw-Hill Companies, Inc., or at least P-1 or the equivalent thereof by Moody’s Investors Service, Inc. (any such
+commercial bank, an “
+Approved Bank
+”); or (ii) the par amount of all certificates of deposit acquired from such
+commercial bank are fully insured by the Federal Deposit Insurance Corporation; or (d) commercial paper issued by any Approved
+Bank (or by the parent company thereof), in each case maturing not more than twelve months after the date of the acquisition thereof.
+
+ 
+
+“
+Catalyst
+Assets
+” means any catalyst assets and inventory constituting catalyst, precious metals assets and precious metals inventory
+and all additions, accessions and all rights related thereto.
+
+ 
+
+“
+CFP
+”
+means any current or future U.S. federal, state, regional or local renewable or clean transportation fuel program, other than
+the RFS Program, the LCFS, and the OCFP.
+
+ 
+
+“
+CFP
+Credits
+” means credits generated and traded under the relevant CFP.
+
+ 
+
+“
+Class
+”
+refers to the determination in relation to any particular Type of Collateral: (i) with respect to any Secured Obligations and
+(ii) with respect to any Secured Party.
+
+ 
+
+“
+Collateral
+”
+means, collectively, the Intermediation Facility Priority Collateral, the Renewables Intermediation Facility Priority Collateral
+and the Term Loan Priority Collateral.
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+“
+Company
+”
+has the meaning set forth in the introductory paragraph of this Agreement.
+
+ 
+
+“
+Conforming
+Renewable Product
+” means a renewable diesel that (i) is produced from one hundred percent (100%) Renewable Biomass
+and no portion of which is produced from non-renewable feedstock, including petroleum products; (ii) meets the Renewable
+Product Specifications, and (iii) is eligible to generate a valid RIN with a D Code of 4 under the RFS Program.
+
+ 
+
+“
+Control
+”
+means the ability to directly or indirectly vote more than thirty percent (30%) of the outstanding voting stock of any Person.
+“
+Controlled
+” shall have the correlative meaning thereto.
+
+ 
+
+“
+Controlling
+Term Loan Agent
+” means the collateral agent under the replacement Term Loan Agreement (if any) holding the largest outstanding
+principal amount of Term Loan Obligations then outstanding.
+
+ 
+
+“
+Copyrights
+”
+means any and all copyright rights in the United States (whether registered or unregistered and whether published or unpublished),
+copyright applications, copyright registrations and like protections in each work or authorship and derivative work thereof, together
+with any and all (i) rights and privileges arising under Applicable Law with respect thereto and (ii) renewals and extensions
+thereof.
+
+ 
+
+“
+Debtor
+Relief Laws
+” means the Bankruptcy Code, and all other liquidation, conservatorship, bankruptcy, assignment for the benefit
+of creditors, moratorium, rearrangement, receivership, insolvency, reorganization, or similar debtor relief laws of the United
+States or other applicable jurisdictions from time to time in effect and affecting the rights of creditors generally.
+
+ 
+
+“
+DIP
+Financing
+” has the meaning set forth in Section 5.02(a).
+
+ 
+
+“
+Discharge
+of Intermediation Facility Obligations
+” means both of the following have occurred: (a) the Intermediation Agreement
+has been terminated including all commitments for further purchases of inventory thereunder, either (i) at the expiration or deemed
+expiration of its stated term, (ii) by mutual written agreement by the parties thereto or (iii) otherwise in accordance with the
+Intermediation Agreement, and (b) payment has been made in full in cash of all Intermediation Facility Obligations (including
+all termination amounts or settlement amounts, if any) that are due and payable or otherwise accrued and owing in connection with
+any such termination of the Intermediation Agreement (other than those that constitute Unasserted Contingent Obligations).
+
+ 
+
+“
+Discharge
+of Renewables Intermediation Facility Obligations
+” means both of the following have occurred: (a) the Renewables Intermediation
+Agreement has been terminated including all commitments for further purchases of inventory thereunder, either (i) at the expiration
+or deemed expiration of its stated term, (ii) by mutual written agreement by the parties thereto or (iii) otherwise in accordance
+with the Renewables Intermediation Agreement, and (b) payment has been made in full in cash of all Renewables Intermediation Facility
+Obligations (including all termination amounts or settlement amounts, if any) that are due and payable or otherwise accrued and
+owing in connection with any such termination of the Renewables Intermediation Agreement (other than those that constitute Unasserted
+Contingent Obligations).
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+“
+Discharge
+of Term Loan Obligations
+” means that both of the following have occurred (a) the Term Loan Agreement has been terminated
+including all commitments for further extensions of credit thereunder, either (i) at the expiration or deemed expiration of its
+stated term, (ii) by mutual written agreement by the parties thereto or (iii) otherwise in accordance with the Term Loan Agreement,
+and (b) payment has been made in full in cash of all Term Loan Obligations (including all regular and/or default interest, premiums,
+fees, expenses, and indemnities if any that are due and payable or otherwise accrued and owing in connection with the termination
+of the Term Loan Agreement (other than those that constitute Unasserted Contingent Obligations)).
+
+ 
+
+“
+Enforcement
+Action
+” means, with respect to any Class of Secured Obligations, the exercise of any rights and remedies with respect
+to any Collateral securing such obligations or the commencement or prosecution of enforcement of any of the rights and remedies
+under the Finance Documents of such Class, or Applicable Law, in each case, with respect to any Collateral, including the exercise
+of any rights of set-off or recoupment, and the exercise of any rights or remedies of a secured creditor under the Uniform Commercial
+Code, the Bankruptcy Code or other similar creditors’ rights, bankruptcy, insolvency, reorganization or similar laws of
+any applicable jurisdiction.
+
+ 
+
+“
+Environmental
+Attributes
+” means any and all attributes, credits, benefits, emission reductions, offsets, and allowances, howsoever
+entitled, attributable to the characteristics, production, use or combustion of renewable diesel or its displacement or reduction
+in the use of transportation fuel, but only to the extent that any of the foregoing is generated, produced and verified through
+and in compliance with the RFS Program, the LCFS, the OCFP, and any other applicable CFP. For sake of clarity, Environmental Attributes
+(i) to the extent verified, includes RINs, BTCs, LCFS Credits, OCFP Credits, and CFP Credits, and (ii) excludes
+any federal or state tax credits, development credits, or similar incentives (other than any BTCs, which, for the avoidance of
+doubt, shall be included in the definition of “Environmental Attributes”).
+
+ 
+
+“
+Equity
+Interests
+” mean shares of capital stock, partnership interests, membership interests in a limited liability company,
+beneficial interests in a trust or other equity interests in any Person, and any option, warrant, convertible debt or other right
+entitling the holder thereof to purchase or otherwise acquire any such equity interest.
+
+ 
+
+“
+Event
+of Default
+” means an “Event of Default” or “Termination Event”, as applicable, in each case,
+as defined in the applicable First Priority Documents or any corresponding definition thereunder.
+
+ 
+
+“
+Finance
+Document
+” means any of the Intermediation Facility Documents, the Renewables Intermediation Facility Documents or the
+Term Loan Documents, as applicable.
+
+ 
+
+“
+First
+Priority Documents
+” means, with respect to any Type of Collateral, the relevant Finance Documents governing the First
+Priority Obligations.
+
+ 
+
+“
+First
+Priority Lien
+” means any Lien on any Type of Collateral securing any First Priority Obligation.
+
+ 
+
+“
+First
+Priority Obligations
+” means, at any time of determination, (i) with respect to the Intermediation Facility Priority
+Collateral, all Intermediation Facility Obligations; (ii) with respect to the Renewables Intermediation Facility Priority Collateral,
+all Renewables Intermediation Facility Obligations; and (iii) with respect to the Term Loan Priority Collateral, all Term Loan
+Obligations.
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+“
+First
+Priority Obligations Payment Date
+” means (i) with respect to the Intermediation Facility Priority Collateral, the Intermediation
+Facility Termination Date; (ii) with respect to the Renewables Intermediation Facility Priority Collateral, the Renewables Intermediation
+Facility Termination Date; and (iii) with respect to the Term Loan Priority Collateral, the Term Loan Termination Date.
+
+ 
+
+“
+First
+Priority Representative
+” means, at any time of determination, with respect to any Type of Collateral, the applicable
+Representative for the holders of the First Priority Obligations with respect to such Collateral.
+
+ 
+
+“
+First
+Priority Secured Parties
+” means, with respect to any Type of Collateral, the relevant First Priority Representative
+and the holders of such First Priority Obligations.
+
+ 
+
+“
+Governmental
+Authority
+” means the government of the United States of America, any other nation or any political subdivision thereof,
+whether state or local, and any agency, authority, instrumentality, regulatory body, court, central bank or other entity exercising
+executive, legislative, judicial, taxing, regulatory or administrative functions of or pertaining to any government (including
+any supernational bodies such as the European Union, the European Central Bank or the Organisation for Economic Co-operation and
+Development).
+
+ 
+
+“
+Grantor
+”
+means the Company and the Renewables Company that have granted a Lien on any assets that constitute Collateral.
+
+ 
+
+“
+Hydrocarbon
+Credit Support”
+ means, as of any time, all Inventory constituting or consisting of “Hydrocarbons” (as defined
+in the Intermediation Agreement ) then owned or at any time hereafter acquired by the Company, that is located at a Company Storage
+Location (as defined in the Intermediation Facility Documents); 
+provided that
+ “Hydrocarbon Credit Support”
+shall not include any Excluded Property (as defined in the Intermediation Facility Security Documents) or any Catalyst Assets.
+
+ 
+
+“
+Idemitsu
+Parent Guaranty
+” means that certain guaranty entered into by between the Renewables Company (as beneficiary) and Idemitsu
+Kosan Co., Ltd (as guarantor) on February 8, 2022, as such agreement may be amended, restated, supplemented or otherwise modified
+from time to time.
+
+ 
+
+“
+Idemitsu
+Product Offtake Agreement
+” means that certain Idemitsu Product Offtake Agreement as defined in the Renewables Intermediation
+Agreement, as such agreement may be amended, restated, supplemented or otherwise modified from time to time.
+
+ 
+
+“
+Indebtedness
+”
+means and includes all obligations and liabilities that constitute “Indebtedness” under and as defined in the Term
+Loan Agreement, “Transaction Obligations” under and as defined in the Intermediation Agreement or “Transaction
+Obligations” under and as defined in the Renewables Intermediation Agreement, as applicable.
+
+ 
+
+ 
+
+6
+
+ 
+
+ 
+
+ 
+
+“
+Independent
+Amount Letter
+” means the independent amount letter entered into between the Company and the Intermediation Facility
+Secured Party on April 1, 2022 in connection with the Intermediation Agreement, as may be amended from time to time.
+
+ 
+
+“
+Insolvency
+Proceeding
+” shall mean any of the following: (a) the filing by any Grantor of a voluntary petition in bankruptcy under
+any state, federal or foreign Debtor Relief Law (including the Bankruptcy Code) or a petition to take advantage of any receivership
+or insolvency laws, including any petition seeking the dissolution, winding up, total liquidation, reorganization, composition,
+arrangement, adjustment or readjustment or other relief of such Grantor, such Grantor’s debts or such Grantor’s assets
+or the appointment of a trustee, receiver, liquidator, custodian or similar official for such Grantor or a material part of such
+Grantor’s property; (b) the appointment of a receiver, liquidator, trustee, custodian or other similar official for such
+Grantor or all or a material part of such Grantor’s assets; (c) the filing of any petition against such Grantor under any
+state, federal or foreign Debtor Relief Law (including the Bankruptcy Code) or other receivership or insolvency law, including
+any petition seeking the dissolution, winding up, total liquidation, reorganization, composition, arrangement, adjustment or readjustment
+or other relief of such Grantor, such Grantor’s debts or such Grantor’s assets or the appointment of a trustee, receiver,
+liquidator, custodian or similar official for such Grantor or a material part of such Grantor’s property; (d) the general
+assignment by such Grantor for the benefit of creditors or any other marshaling of the assets and liabilities of such Grantor;
+or (e) any other case or proceeding of any type or nature in which substantially all claims of creditors of the Grantors are determined
+and any payment or distribution is or may be made on account of such claims.
+
+ 
+
+“
+Intellectual
+Property
+” means all of a Person’s right, title, and interest in and to the following: Copyrights, Trademarks and
+Patents (including registrations and applications therefor prior to granting, and whether or not filed, recorded or issued); domain
+names; all trade secrets and related rights, including without limitation rights to unpatented inventions, know-how and manuals;
+all design rights; claims for damages by way of past, present and future infringement of any of the rights included above; all
+amendments, renewals and extensions of any Copyrights, Trademarks or Patents; all licenses or other rights to use any of the foregoing
+and all license fees and royalties arising from such use; and all proceeds and products of the foregoing.
+
+ 
+
+“
+Intermediation
+Agreement
+” means the Supply and Offtake Agreement entered into between the Company and the Intermediation Facility Secured
+Party on April 1, 2022 in relation to, amongst other matters, the sale and purchase of “Crude Oil” and “Products”
+(each as defined in the Intermediation Agreement), as amended from time to time.
+
+ 
+
+“
+Intermediation
+Cash Collateral
+” means the “Independent Amount” (as defined in the Independent Amount Letter).
+
+ 
+
+“
+Intermediation
+Facility Documents
+” means the Intermediation Agreement, the Intermediation Facility Guaranty, the Intermediation Facility
+Parent Guaranty, the Independent Amount Letter and the other “Transaction Documents” (as defined in the Intermediation
+Agreement as amended from time to time in accordance herewith) and each of the other agreements, documents and instruments providing
+for or evidencing any other Intermediation Facility Obligations, and any other document or instrument executed or delivered at
+any time in connection with any Intermediation Facility Obligations, including any intercreditor or joinder agreement among holders
+of Intermediation Facility Obligations, to the extent such are effective at the relevant time, as each may be amended or modified
+from time to time in accordance with this Agreement.
+
+ 
+
+ 
+
+7
+
+ 
+
+ 
+
+ 
+
+“
+Intermediation
+Facility Guaranty
+” means that certain unsecured Guaranty, dated on or around the Amendment and Restatement Date, made
+by Renewables Company in favor of the Intermediation Facility Secured Party with respect to the Guaranteed Obligations (as defined
+therein).
+
+ 
+
+“
+Intermediation
+Facility Obligations
+” means all obligations of every nature of the Company under the Intermediation Facility Documents,
+the Parent under the Intermediation Facility Parent Guaranty and the Renewables Company under the Intermediation Facility Guaranty,
+including obligations to purchase Inventory, repay principal, pay interest (including default interest accruing pursuant to the
+terms of the applicable Intermediation Facility Document), fees (including prepayment fees), Post-Petition Interest, costs, expenses,
+indemnities or otherwise (including all fees and disbursements of counsel to the Intermediation Facility Secured Parties or any
+other holder of Intermediation Facility Obligations that, in each case, are required to be paid or reimbursed by the Company pursuant
+to the terms of any such Intermediation Facility Document, Parent pursuant to the Intermediation Facility Parent Guaranty or Renewables
+Company pursuant to the Intermediation Facility Guaranty), in each case, whether fixed or contingent, whether direct or indirect,
+whether due or to become due and whether now existing or hereafter incurred, but for the avoidance of doubt, excluding (x) all
+Term Loan Bank Product Obligations and (y) all Renewables Intermediation Facility Obligations under any Renewables Intermediation
+Facility Documents.
+
+ 
+
+“
+Intermediation
+Facility Parent Guaranty
+” means that certain unsecured Guaranty, dated as of April 1, 2022 made by Parent in favor of
+the Intermediation Facility Secured Party with respect to the Guaranteed Obligations (as defined therein).
+
+ 
+
+“
+Intermediation
+Facility Priority Collateral
+” means all of the following assets of the Company with respect to which a Lien is granted
+as security for the Intermediation Facility Obligations in each case whether tangible or intangible: (a) all Inventory subject
+to or intended to be sold as Intermediation Title Property under the Intermediation Facility Documents; (b) all Inventory constituting
+Hydrocarbon Credit Support; (c) the Intermediation Facility Secured Parties’ Business Interruption Insurance Percentage
+of the proceeds of business interruption insurance policies (subject in all respects to Section 3.08); and (d) all Proceeds of
+(including other proceeds of insurance with respect to the foregoing), and Supporting Obligations (including Letter-of-Credit
+Rights) with respect to, any of the foregoing.
+
+ 
+
+“
+Intermediation
+Facility Representative
+” means, initially, the Intermediation Facility Secured Party as set forth in the introductory
+paragraph of this Agreement or, from and after the date of any Refinancing in full or replacement of the Intermediation Agreement
+(or entry into any other permitted Intermediation Agreement), the Person(s) identified as the intermediation facility representative
+under such replacement or additional Intermediation Agreement; 
+provided 
+that the Intermediation Agreement (or any other
+of the Transaction Documents (as defined in the Intermediation Agreement)) in effect on April 1, 2022, as amended, modified or
+waived, shall not constitute a “replacement” Intermediation Agreement.
+
+ 
+
+ 
+
+8
+
+ 
+
+ 
+
+ 
+
+“
+Intermediation
+Facility Secured Parties
+” means the Intermediation Facility Secured Party and all other holders of the Intermediation
+Facility Obligations.
+
+ 
+
+“
+Intermediation
+Facility Security Documents
+” means, individually or collectively, as context requires, all “Lien Documents”
+(under and as defined in the Intermediation Agreement) or other agreements which grant or transfer for security executed and delivered
+by any Grantor creating (or purporting to create) a Lien upon Intermediation Facility Priority Collateral in favor of the Intermediation
+Facility Secured Party or contains any right for remedies or enforcement in favor of the Intermediation Facility Secured Party
+involving Collateral, in each case, as amended, restated, amended and restated, modified, renewed, restated or replaced, in whole
+or in part, from time to time.
+
+ 
+
+“
+Intermediation
+Facility Termination Date
+” means the first date on which the Discharge of Intermediation Facility Obligations in respect
+of the applicable Intermediation Facility Documents shall have occurred. Notwithstanding the foregoing, if at any time substantially
+concurrently with or after any Intermediation Facility Termination Date has occurred, any Grantor enters into any Intermediation
+Facility Document evidencing any Intermediation Facility Obligations permitted hereby, then such Intermediation Facility Termination
+Date shall automatically be deemed to not have occurred for all purposes of this Agreement, and the obligations under such Intermediation
+Facility Document shall automatically be treated as “Intermediation Facility Obligations” for all purposes of this
+Agreement, including for purposes of the Lien priorities and rights in respect of Collateral set forth herein.
+
+ 
+
+“Intermediation
+Title Property”
+ means the volumes of Inventory that are owned or under contract to be acquired and owned by the Intermediation
+Facility Secured Parties and held in any of the “Included Storage Locations” (as defined in the Intermediation Agreement)
+pursuant to the Intermediation Agreement.
+
+ 
+
+“
+Inventory
+”
+means any and all inventory of any Grantor, including (i) crude oil, refined products, sulfur or other hydrocarbon inventory of
+the Grantors (including hydrocarbons in storage, in transit, in process or in pipelines of the Refinery), Renewable Feedstock
+and refined product (including Renewable Biomass), (ii) Renewable Product, (iii) Environmental Attributes, (iv) RINs and (v) all
+other property or assets included within the scope of the definition of “Inventory” as such term is defined in the
+UCC but excluding Catalyst Assets which are not intended to be Intermediation Facility Priority Collateral or Renewable Intermediation
+Facility Priority Collateral.
+
+ 
+
+“
+LCFS
+”
+means the California Low Carbon Fuel Standard as set forth in Section 95484 of Title 17 of the California Code of Regulations,
+as amended or supplemented.
+
+ 
+
+“
+LCFS
+Credits
+” means a Credit as defined in the LCFS Regulations.
+
+ 
+
+“
+LCFS
+Regulations
+” means the regulations, orders, decrees and standards issued by a Governmental Authority implementing or
+otherwise applicable to the LCFS as set forth in 17 CCR § 95480 et seq. and each successor regulation.
+
+ 
+
+“
+License
+Expiration Date
+” has the meaning set forth in Section 3.04(c).
+
+ 
+
+ 
+
+9
+
+ 
+
+ 
+
+ 
+
+“
+Lien
+”
+means any pledge, bailment, lease, mortgage, deed of trust (or similar instrument), hypothecation, conditional sales and title
+retention agreement, charge, claim, encumbrance or other lien in favor of any Person.
+
+ 
+
+“
+Macquarie
+BONY Account
+” means that certain deposit account held at Bank of New York and subject to an account control agreement
+in favor of the Renewables Intermediation Facility Secured Party, and any successor account similarly subject to an account control
+agreement satisfactory to the Renewables Intermediation Facility Secured Party.
+
+ 
+
+“
+Mortgage
+”
+means each of the mortgages and deeds of trust made by any Grantor to secure any Secured Obligations or under which rights or
+remedies with respect to any such Lien are governed.
+
+ 
+
+“
+Non-Conforming
+Renewable Product
+” means a renewable diesel that (i) is produced from one hundred percent (100%) Renewable Biomass
+and no portion of which is produced from non-renewable feedstock, including petroleum products; and (ii) does not meet the
+Renewable Product Specifications.
+
+ 
+
+“
+OCFP
+”
+means the Oregon Clean Fuels Program as set forth in Oregon Administrative Rules 340-253-0060(4) and each successor regulation.
+
+ 
+
+“
+OCFP
+Credits
+” means a credit as defined in the OCFP Regulations.
+
+ 
+
+“
+OCFP
+Regulations
+” mean the regulations, orders, decrees and standards issued by a Governmental Authority implementing or
+otherwise applicable to the OCFP.
+
+ 
+
+“
+Parent
+”
+means Vertex Energy, Inc., a Nevada corporation.
+
+ 
+
+“
+Patents
+”
+means all issued patents, patent applications and like protections including without limitation rights and privileges arising
+under Applicable Law with respect thereto (in the United States), inventions, improvements, divisions, continuations, renewals,
+reissues, extensions and continuations-in-part of the same.
+
+ 
+
+“
+Person
+”
+means any natural person, corporation, limited liability company, trust, joint venture, association, company, partnership, Governmental
+Authority or other entity.
+
+ 
+
+“
+Post-Petition
+Interest
+” means any interest or entitlement to fees or expenses or other charges that accrues after the commencement
+of any Insolvency Proceeding, whether or not such interest, fees, expenses or other charges are allowed or allowable against the
+Company, the Renewables Company or Parent in such Insolvency Proceeding.
+
+ 
+
+“
+Re-Characterization
+”
+means the actual or purported re-characterization by any court, arbitrator or Governmental Authority re-characterizing all or
+part of the transactions contemplated by the Intermediation Agreement or the Renewables Intermediation Agreement (whether as a
+financing transaction or otherwise) in such manner as to give any Grantor rights, title or interest in any Intermediation Title
+Property or any Renewables Intermediation Title Property or otherwise purport to include any Intermediation Title Property or
+any Renewables Intermediation Title Property in the debtor’s estate of any Grantor. “
+Re-Characterized
+”
+shall have a correlative meaning.
+
+ 
+
+ 
+
+10
+
+ 
+
+ 
+
+ 
+
+“
+Real
+Property
+” means, at any time, any of the real property owned or leased by any Grantor.
+
+ 
+
+“
+Recovery
+”
+has the meaning set forth in Section 5.05.
+
+ 
+
+“
+Refinance
+”
+means, in respect of any indebtedness or other obligation, to refinance, extend, renew, defease, supplement, restructure, replace,
+refund or repay, or to issue other indebtedness or obligation in exchange or replacement for such indebtedness or obligation,
+in whole or in part, whether with the same or different lenders, arrangers, agents or buyers. “
+Refinanced
+”
+and “
+Refinancing
+” shall have correlative meanings.
+
+ 
+
+“
+Refinery
+”
+means that certain facility acquired by the Company, located at Mobile, Alabama consisting of petroleum processing equipment and
+related facilities.
+
+ 
+
+“
+Renewable
+Biomass
+” has the meaning set forth in 42 U.S.C. § 7545(o)(I).
+
+ 
+
+“
+Renewable
+Feedstock
+” means all renewable feedstocks, including Renewable Biomass.
+
+ 
+
+“
+Renewable
+Product
+” means all Conforming Renewable Product or Non-Conforming Renewable Product.
+
+ 
+
+“
+Renewable
+Product Specifications
+” means (i) the requirements and specifications for fuels and fuel additives established
+by the U.S. Environmental Protection Agency in Part 79 of Title 40 of the Code of Federal Regulations; (ii) the requirements
+and specifications established by the California Air Resources Board in Sections 2281, 2282, and 2284 of Title 13 of the California
+Code of Regulations; (iii) the requirements and specifications of American Society of Testing and Materials specification
+D 975; and (iv) all requirements under Applicable Law governing the production and composition of renewable diesel sold and
+used as vehicle fuel, including those imposed by any Governmental Authority and under any CFP.
+
+ 
+
+“
+Renewables
+Company
+” has the meaning set forth in the introductory paragraph of this Agreement.
+
+ 
+
+“
+Renewables
+Company EMTS Account
+” means the Renewables Company’s EPA Moderated Transaction System Account for RINs maintained
+in the name of the Renewables Company with EMTS, with identifier number 2215.
+
+ 
+
+“
+Renewables
+Credit Support”
+ means, as of any time, all Inventory constituting or consisting of “Renewables” and other
+goods used in the production of “Renewable Product” (as each such term is defined in the Renewables Intermediation
+Agreement) then owned or at any time hereafter acquired by the Renewables Company, as applicable, that is located at a Company
+Storage Location (as defined in the Renewables Intermediation Agreement; 
+provided that
+ “Renewables Credit Support”
+shall not include any Excluded Property (as defined in the Renewables Intermediation Facility Security Documents) or any Catalyst
+Assets.
+
+ 
+
+ 
+
+11
+
+ 
+
+ 
+
+ 
+
+“
+Renewables
+Independent Amount Letter
+” means the independent amount letter entered into between the Renewables Company and the Renewables
+Intermediation Facility Secured Party on or around the Amendment and Restatement Date in connection with the Renewables Intermediation
+Agreement, as the same may be amended from time to time.
+
+ 
+
+“
+Renewables
+Intermediation Agreement
+” means the Supply and Offtake Agreement entered into between the Renewables Company and the
+Renewables Intermediation Facility Secured Party dated on or around the Amendment and Restatement Date in relation to, amongst
+other matters, the sale and purchase of “Permitted Feedstock” and provision of certain financing accommodations in
+respect of “Renewable Products” (each as defined in the Renewables Intermediation Agreement), as amended from time
+to time.
+
+ 
+
+“
+Renewables
+Intermediation Cash Collateral
+” means the “Independent Amount” (as defined in the Renewables Independent
+Amount Letter).
+
+ 
+
+“
+Renewables
+Intermediation Facility Documents
+” means the Renewables Intermediation Agreement, the Renewables Independent Amount
+Letter, the Renewables Intermediation Facility Guaranty, the Renewables Intermediation Facility Parent Guaranty and the other
+“Transaction Documents” (as defined in the Renewables Intermediation Agreement as amended from time to time in accordance
+herewith) and each of the other agreements, documents and instruments providing for or evidencing any other Renewables Intermediation
+Facility Obligations, and any other document or instrument executed or delivered at any time in connection with any Renewables
+Intermediation Facility Obligations, including any intercreditor or joinder agreement among holders of Renewables Intermediation
+Facility Obligations, to the extent such are effective at the relevant time, as each may be amended or modified from time to time
+in accordance with this Agreement.
+
+ 
+
+“
+Renewables
+Intermediation Facility Guaranty
+” means that certain unsecured Guaranty, dated on or around the Amendment and Restatement
+Date, made by Company in favor of the Renewables Intermediation Facility Secured Party with respect to the Guaranteed Obligations
+(as defined therein).
+
+ 
+
+“
+Renewables
+Intermediation Facility Obligations
+” means all obligations of every nature of the Renewables Company under the Renewables
+Intermediation Facility Documents, the Parent under the Renewables Intermediation Facility Parent Guaranty and the Company under
+the Renewables Intermediation Facility Guaranty, including obligations to purchase Inventory, repay principal, pay interest (including
+default interest accruing pursuant to the terms of the applicable Renewables Intermediation Facility Document), fees (including
+prepayment fees), Post-Petition Interest, costs, expenses, indemnities or otherwise (including all fees and disbursements of counsel
+to the Renewables Intermediation Facility Secured Parties or any other holder of Renewables Intermediation Facility Obligations
+that, in each case, are required to be paid or reimbursed by the Renewables Company pursuant to the terms of any such Renewables
+Intermediation Facility Document, the Parent pursuant to the Renewables Intermediation Facility Parent Guaranty or the Company
+pursuant to the Renewables Intermediation Facility Guaranty), in each case, whether fixed or contingent, whether direct or indirect,
+whether due or to become due and whether now existing or hereafter incurred, but for the avoidance of doubt, excluding (x) all
+Term Loan Bank Product Obligations and (y) all Intermediation Facility Obligations under any Intermediation Facility Documents.
+
+ 
+
+ 
+
+12
+
+ 
+
+ 
+
+ 
+
+“
+Renewables
+Intermediation Facility Parent Guaranty
+” means that certain unsecured Guaranty, dated on or around the Amendment and
+Restatement Date made by Parent in favor of the Renewables Intermediation Facility Secured Party with respect to the Guaranteed
+Obligations (as defined therein).
+
+ 
+
+“
+Renewables
+Intermediation Facility Priority Collateral
+” means all of the following assets of the Renewables Company with respect
+to which a Lien is granted as security for the Renewables Intermediation Facility Obligations in each case whether tangible or
+intangible: (a) all Inventory, including Inventory subject to or intended to be sold as Renewables Intermediation Title Property
+under the Renewables Intermediation Facility Documents; (b) all Inventory constituting Renewable Products and Renewable Feedstock;
+(c) all Environmental Attributes; (d) all BTCs; (e) all Inventory constituting Renewables Credit Support, (f) the Renewable Company’s
+EMTS Account (to the extent containing any RINs); (g) the Renewables Intermediation Facility Secured Parties’ Business Interruption
+Insurance Percentage of the proceeds of business interruption insurance policies (subject in all respects to Section 3.09); (h)
+all Proceeds of (including other proceeds of insurance with respect to the foregoing) and Supporting Obligations (including Letter-of-Credit
+Rights) with respect to any of the foregoing; (i) the Accounts (together with all Proceeds and Payment Intangibles deriving therefrom
+and the Supporting Obligations provided in connection therewith, including, without limitation, the Idemitsu Parent Guaranty)
+relating to the Idemitsu Product Offtake Agreement and the Idemitsu Parent Guaranty; and (j) the Macquarie BONY Account and the
+cash or Cash Equivalents within the Macquarie BONY Account.
+
+ 
+
+“
+Renewables
+Intermediation Facility Representative
+” means, initially, the Renewables Intermediation Facility Secured Party as set
+forth in the introductory paragraph of this Agreement or, from and after the date of any Refinancing in full or replacement of
+the Renewables Intermediation Agreement (or entry into any other permitted Renewables Intermediation Agreement), the Person(s)
+identified as the intermediation facility representative under such replacement or additional Renewables Intermediation Agreement;
+
+provided 
+that the Renewables Intermediation Agreement (or any other of the Transaction Documents (as defined in the Renewables
+Intermediation Agreement)) in effect on the Amendment and Restatement Date, as amended, modified or waived, shall not constitute
+a “replacement” Renewables Intermediation Agreement.
+
+ 
+
+“
+Renewables
+Intermediation Facility Secured Parties
+” means the Renewables Intermediation Facility Secured Party and all other holders
+of the Renewables Intermediation Facility Obligations.
+
+ 
+
+“
+Renewables
+Intermediation Facility Security Documents
+” means, individually or collectively, as context requires, all “Lien
+Documents” (under and as defined in the Renewables Intermediation Agreement) or other agreements which grant or transfer
+for security executed and delivered by any Grantor creating (or purporting to create) a Lien upon Renewables Intermediation Facility
+Priority Collateral in favor of the Renewables Intermediation Facility Secured Party or contains any right for remedies or enforcement
+in favor of the Renewables Intermediation Facility Secured Party involving Collateral, in each case, as amended, restated, amended
+and restated, modified, renewed, restated or replaced, in whole or in part, from time to time.
+
+ 
+
+ 
+
+13
+
+ 
+
+ 
+
+ 
+
+“
+Renewables
+Intermediation Facility Termination Date
+” means the first date on which the Discharge of Renewables Intermediation Facility
+Obligations in respect of the applicable Renewables Intermediation Facility Documents shall have occurred. Notwithstanding the
+foregoing, if at any time substantially concurrently with or after any Renewables Intermediation Facility Termination Date has
+occurred, any Grantor enters into any Renewables Intermediation Facility Document evidencing any Renewables Intermediation Facility
+Obligations permitted hereby, then such Renewables Intermediation Facility Termination Date shall automatically be deemed to not
+have occurred for all purposes of this Agreement, and the obligations under such Renewables Intermediation Facility Document shall
+automatically be treated as “Renewables Intermediation Facility Obligations” for all purposes of this Agreement, including
+for purposes of the Lien priorities and rights in respect of Collateral set forth herein.
+
+ 
+
+“Renewables
+Intermediation Title Property”
+ means the volumes of Inventory that are owned or under contract to be acquired and owned
+by the Renewables Intermediation Facility Secured Parties and held in any of the “Included Storage Locations” (as
+defined in the Renewables Intermediation Agreement) pursuant to the Renewables Intermediation Agreement.
+
+ 
+
+“
+Renewables
+License Expiration Date
+” has the meaning set forth in Section 3.04(c).
+
+ 
+
+“
+Representatives
+”
+means the Intermediation Facility Representative, the Renewables Intermediation Facility Representative or the Term Loan Agent,
+as applicable.
+
+ 
+
+“
+RFS
+Program
+” means the renewable fuel program and policies established section 211(o) of the Clean Air Act (42 U.S.C. §
+7545(o)) as implemented by the U.S. Environmental Protection Agency under Subpart M of Part 80 of Title 40 of the Code of Federal
+Regulations.
+
+ 
+
+“
+RIN
+”
+means renewable identification number, which is the serial number assigned to a batch of biofuel for the purpose of tracking biofuel
+production, use and trading as required by the RFS Program.
+
+ 
+
+“
+Secured
+Obligations
+” means the Intermediation Facility Obligations, the Renewables Intermediation Facility Obligations and the
+Term Loan Obligations.
+
+ 
+
+“
+Secured
+Parties
+” means the Intermediation Facility Secured Parties, the Renewables Intermediation Facility Secured Parties and
+the Term Loan Secured Parties.
+
+ 
+
+“
+Security
+Document
+” means any of the Intermediation Facility Security Documents, the Renewables Intermediation Facility Security
+Documents and the Term Loan Collateral Documents.
+
+ 
+
+“
+Subsidiary
+”
+means any Person that is an entity of which a majority of the outstanding capital stock, membership interests, partnership interests
+or other equity interests entitled to vote for the election of directors, managers or the equivalent is owned by Parent directly
+or indirectly through Subsidiaries including any Subsidiary formed after April 1, 2022. Unless otherwise specified, all references
+herein to a “
+Subsidiary
+” or to “
+Subsidiaries
+” shall refer to a Subsidiary or Subsidiaries
+of the Parent.
+
+ 
+
+ 
+
+14
+
+ 
+
+ 
+
+ 
+
+“
+Supporting
+Obligations
+” means all supporting obligations, as such term is defined in Section 9-102 of the New York UCC, and shall
+include, without limitation, the Idemitsu Parent Guaranty.
+
+ 
+
+“
+Term
+Loan Agent
+” means, initially, the Term Loan Agent as set forth in the introductory paragraph of this Agreement or, from
+and after the date of any Refinancing in full or replacement of the Term Loan Agreement, the Person identified as the collateral
+agent under such replacement Term Loan Agreement or, if there is more than one replacement Term Loan Agreement outstanding at
+any time, the Controlling Term Loan Agent; 
+provided 
+that the Term Loan Agreement in effect on April 1, 2022, as amended,
+modified or waived, shall not constitute a “replacement” Term Loan Agreement.
+
+ 
+
+“
+Term
+Loan Agreement
+” means (i) that certain Loan and Security Agreement, dated as of April 1, 2022, among the Parent, Company,
+the other guarantors party thereto, the lenders party thereto and the Term Loan Agent, as amended, restated, amended and restated,
+supplemented or otherwise modified from time to time after April 1, 2022 in accordance with this Agreement and (ii) any credit
+agreement, loan agreement, note agreement, promissory note, indenture or other agreement or instrument evidencing or governing
+the terms of any Indebtedness or other financial accommodation incurred or provided in connection with any Refinancing of Indebtedness
+thereunder.
+
+ 
+
+“
+Term
+Loan Bank Product Obligations
+” shall mean all “Bank Product Obligations” (as defined in the Term Loan Agreement)
+arising under Secured Bank Product Agreements and Secured Hedge Agreements (each as defined in the Term Loan Agreement); 
+provided
+
+that Term Loan Bank Product Obligations shall not include any Intermediation Facility Obligations or any Renewables Intermediation
+Facility Obligations (including, without limitation, any Transaction Obligations and Related Hedges (in each case, under and as
+defined under the Intermediation Agreement (as in effect on April 1, 2022) or the Renewables Intermediation Agreement (as in effect
+on the Amendment and Restatement Date), respectively) under any Intermediation Facility Document or any Renewables Intermediation
+Facility Document, including, without limitation, by virtue of setoff or indemnification rights under any such Intermediation
+Facility Documents or Renewables Intermediation Facility Documents).
+
+ 
+
+“
+Term
+Loan Collateral Documents
+” means the “Collateral Documents” as defined in the Term Loan Agreement or any
+corresponding definition thereunder.
+
+ 
+
+“
+Term
+Loan Documents
+” means the Term Loan Agreement, the Term Loan Collateral Documents and any other “Loan Documents”
+(as defined in the Term Loan Agreement or any corresponding definition thereunder), other than this Agreement.
+
+ 
+
+“
+Term
+Loan Obligations
+” means all “Secured Obligations” as defined in the Term Loan Agreement or any corresponding
+definition thereunder.
+
+ 
+
+ 
+
+15
+
+ 
+
+ 
+
+ 
+
+“
+Term
+Loan Priority Collateral
+” means all of the assets and property of any Grantor whether real, personal or mixed, to which
+a Lien has been granted as security for the Term Loan Priority Collateral that does not constitute Intermediation Facility Priority
+Collateral or Renewables Intermediation Facility Priority Collateral, and including, for the avoidance of doubt, all of the following:
+(a) all Equipment, all Real Property and interests therein (including both fee and leasehold interests) and all fixtures including
+all buildings, terminals, storage tanks, refining and other facilities, pipelines, pipeline rights, loading racks, rail spurs
+and loading facilities; (b) all Intellectual Property; (c) all cash, Cash Equivalents, checks and other negotiable Instruments,
+funds and other evidences of payment and all Financial Assets, in each case, held on deposit therein and credited thereto, all
+Security Entitlements arising therefrom which for the avoidance of doubt, includes all cash and Cash Equivalents in any Deposit
+Account of the Company or Renewables Company (other than cash and Cash Equivalents in the Macquarie BONY Account); (d) all Equity
+Interests; (e) all Commercial Tort Claims; (f) all Accounts, Payment Intangibles and any other rights arising thereunder; (g)
+all Payments Intangibles that represent tax refunds in respect of or otherwise related to real property or Fixtures or other extraordinary
+receipts of any kind; (h) all other General Intangibles, all Investment Property, all Documents, all Instruments (including all
+promissory notes), all Chattel Paper (including Electronic Chattel Paper) and all Letter-of-Credit Rights; (i) all other assets
+not constituting Intermediation Facility Priority Collateral or Renewables Intermediation Facility Priority Collateral, including
+for the avoidance of doubt, all Inventory of each Grantor other than the Company and the Renewables Company; (j) all Proceeds,
+including all insurance proceeds, including for the avoidance of doubt, the Term Loan Secured Parties’ Business Interruption
+Insurance Percentage of proceeds of all business interruption insurance policies or Proceeds of any of the foregoing and all collateral
+security guarantees, Supporting Obligations or other credit support given by any Person with respect to any of the foregoing;
+and (k) all books and records relating to any of the foregoing.
+
+ 
+
+“
+Term
+Loan Required Lenders
+” means the “Required Lenders” as defined in the Term Loan Agreement or any corresponding
+definition thereunder.
+
+ 
+
+“
+Term
+Loan Secured Parties
+” means the Term Loan Agent and all other holders of the Term Loan Obligations.
+
+ 
+
+“
+Term
+Loan Termination Date
+” means the first date on which the Discharge of Term Loan Obligations shall have occurred. For
+the avoidance of doubt, a Refinancing of the Term Loan Obligations shall not give rise to the Term Loan Termination Date unless
+the terms thereof expressly so provide with reference to this Agreement.
+
+ 
+
+“
+Termination
+Date
+” means any of the Intermediation Facility Termination Date, the Renewables Intermediation Facility Termination
+Date and the Term Loan Termination Date, as applicable.
+
+ 
+
+“
+Trademarks
+”
+means any and all trademark and service mark rights, whether registered or not, applications to register and registrations of
+the same and like protections (whether filed with the USPTO or any similar offices in any State of the United States), and the
+entire goodwill of the business of the Grantor connected with and symbolized by such trademarks, together with any and all (i)
+rights and privileges arising under Applicable Law, (ii) extensions and renewals thereof and (iii) rights corresponding thereto
+throughout the world.
+
+ 
+
+ 
+
+16
+
+ 
+
+ 
+
+ 
+
+“
+Type
+”
+when used to describe any Collateral, refers to whether such Collateral is Intermediation Facility Priority Collateral, Renewables
+Intermediation Facility Priority Collateral or Term Loan Priority Collateral.
+
+ 
+
+“
+Unasserted
+Contingent Obligations
+” means, at any time, with respect to any Class of Secured Obligations, Secured Obligations of
+such Class for taxes, costs, indemnifications, reimbursements, damages and other liabilities (excluding (i) the principal of,
+and interest and premium (if any) on, and fees and expenses relating to, any Secured Obligation of such Class and (ii) contingent
+reimbursement obligations in respect of amounts that may be drawn under outstanding letters of credit) in respect of which no
+assertion of liability (whether oral or written) and no claim or demand for payment (whether oral or written) has been made (and,
+in the case of Secured Obligations of such Class for indemnification, no notice for indemnification has been issued by the indemnitee)
+at such time.
+
+ 
+
+“
+Uniform
+Commercial Code
+” or “
+UCC
+” means the Uniform Commercial Code as in effect from time to time in the
+State of New York or, when the laws of any other jurisdiction govern the perfection or enforcement of any Lien, the Uniform Commercial
+Code of such jurisdiction.
+
+ 
+
+“
+United
+States
+” means the United States of America.
+
+ 
+
+Section
+1.03.     
+Terms Generally
+. The definitions of terms herein shall apply equally to the singular and
+plural forms of the terms defined. Whenever the context may require, any pronoun shall include the corresponding masculine, feminine
+and neuter forms. The words “include”, “includes” and “including” shall be deemed to be followed
+by the phrase “without limitation”. The word “will” shall be construed to have the same meaning and effect
+as the word “shall”. Unless the context requires otherwise (a) any definition of or reference to any agreement, instrument
+or other document herein shall be construed as referring to such agreement, instrument or other document as from time to time
+amended, supplemented, modified, restated, replaced, refinanced, extended, renewed or restructured (subject to any restrictions
+on such supplements, amendments, modifications, replacements, refinancings, extensions, renewals, restatements or restructurings
+set forth herein), (b) any reference herein to any Person shall be construed to include such Person’s successors and permitted
+assigns, (c) the words “herein”, “hereof” and “hereunder”, and words of similar import, shall
+be construed to refer to this Agreement in its entirety and not to any particular provision hereof, (d) all references herein
+to Articles, Sections, Exhibits and Schedules shall be construed to refer to Articles and Sections of, and Exhibits and Schedules
+to, this Agreement, (e) the words “asset” and “property” shall be construed to have the same meaning and
+effect and to refer to any and all tangible and intangible assets and properties, including cash, securities, accounts and contract
+rights, (f) references to any law shall include all statutory and regulatory provisions consolidating, amending, replacing, supplementing
+or interpreting such law (including by succession of comparable successor laws), and (g) in the computation of periods of time
+from a specified date to a later specified date, the word “from” means “from and including”; the words
+“to” and “until” each mean “to but excluding”; and the word “through” means “to
+and including”.
+
+ 
+
+ 
+
+17
+
+ 
+
+ 
+
+ 
+
+ARTICLE
+2
+
+LIEN PRIORITIES
+
+ 
+
+Section
+2.01.     
+Lien Priorities
+.
+
+ 
+
+(a)            
+Each Representative hereby (i) acknowledges that the Grantors (x) have granted or will grant Liens on the Collateral in favor
+of the Term Loan Agent (for the benefit of itself and/or the other Term Loan Secured Parties) to secure the Term Loan Obligations,
+(y) have granted or will grant Liens on the Collateral in favor of the Intermediation Facility Secured Parties to secure the Intermediation
+Facility Obligations and (z) have granted or will grant Liens on the Collateral in favor of the Renewables Intermediation Facility
+Secured Parties to secure the Renewables Intermediation Facility Obligations. Notwithstanding anything to the contrary herein
+or any Finance Document, any and all Liens now existing or hereafter created or arising, regardless of how or when acquired, whether
+by grant, statute, operation of law, subrogation or otherwise, are expressly, and shall remain, junior in priority, operation
+and effect to any and all First Priority Liens now existing or hereafter created or arising, notwithstanding (i) the date, time,
+method, manner or order of grant, attachment, or perfection of any Liens granted to any Secured Party in respect of all or any
+portion of the Collateral, (ii) the order or time of filing or recordation of any document or instrument for perfecting the Liens
+in favor of any Secured Party in any Collateral, (iii) any provision of the UCC, any other applicable law or any of the Finance
+Documents, (iv) whether the Liens securing any of the Secured Obligations are valid, enforceable, void, avoidable, subordinated,
+disputed, or allowed, (v) whether any Term Loan Agent, Intermediation Facility Secured Party or Renewables Intermediation Facility
+Secured Party, in each case directly or through agents, has control over all or any portion of the Collateral, (vi) any defect
+or deficiencies in, or non-perfection or alleged or purported defect or deficiency in any of the foregoing (including any failure
+to perfect or lapse in perfection), setting aside, Re-Characterization, or avoidance (including as a fraudulent conveyance or
+otherwise) of, any Lien, or (vii) the fact that any such First Priority Liens are (x) subordinated to any Lien securing any obligation
+of any Grantor or (y) otherwise subordinated, voided, avoided, invalidated or lapsed in any manner.
+
+ 
+
+(b)           
+No Secured Party shall object to or contest, or support any other Person in contesting or objecting to, in any proceeding (including
+any Insolvency Proceeding), the validity, extent, perfection, priority or enforceability of any Lien on the Collateral granted
+to any other Secured Party to secure any Secured Obligations. No Secured Party shall take, or cause to be taken, any action the
+purpose of which is to make any other Lien 
+pari passu 
+with or senior to the First Priority Lien. Nothing in this 
+Section
+2.01(b)
+ shall be construed to prevent or impair the rights of any party hereto to enforce the terms of this Agreement, or
+in accordance with the terms of this Agreement, any of the Finance Documents, or to prohibit any Secured Party from exercising
+any rights expressly granted to it under this Agreement.
+
+ 
+
+(c)            
+Notwithstanding any failure by any Secured Party to perfect any Lien on the Collateral securing Secured Obligations or any avoidance,
+setting aside, Re-Characterization, invalidation or subordination by any third party or court of competent jurisdiction of the
+security interests in the Collateral granted to such Secured Party to secure any Secured Obligations, the priority and rights
+as among the Secured Parties with respect to the Collateral shall be as set forth herein.
+
+ 
+
+ 
+
+18
+
+ 
+
+ 
+
+ 
+
+(d)           
+Nothing in this Agreement shall affect the right of (i) any Secured Party to receive payments of interest, principal and other
+required amounts in respect of their respective Secured Obligations, unless the payment or receipt of amounts or performance thereof
+is expressly prohibited by this Agreement or any of the Finance Documents pursuant to which it is acting as a Secured Party, (ii)
+the Intermediation Facility Secured Parties to (A) require performance from the Company pursuant to the Intermediation Facility
+Documents, from Parent pursuant to the Intermediation Facility Parent Guaranty or from Renewables Company pursuant to the Intermediation
+Facility Guaranty or (B) terminate the commitments and/or other arrangements under the Intermediation Facility Documents in accordance
+therewith, in each case of this clause (ii) unless such performance or termination and/or other arrangements is expressly prohibited
+by this Agreement or any of the Intermediation Facility Documents, (iii) the Renewables Intermediation Facility Secured Parties
+to (A) require performance from the Renewables Company pursuant to the Renewables Intermediation Facility Documents, from Parent
+pursuant to the Renewables Intermediation Facility Parent Guaranty or from the Company pursuant to the Renewables Intermediation
+Facility Guaranty or (B) terminate the commitments and/or other arrangements under the Renewables Intermediation Facility Documents
+in accordance therewith, in each case of this clause (iii) unless such performance or termination and/or other arrangements is
+expressly prohibited by this Agreement or any of the Renewables Intermediation Facility Documents or (iv) the Term Loan Agent
+(or any other Term Loan Secured Party) to (A) require performance from the Company, the Renewables Company, Parent and Acknowledging
+Affiliates pursuant to the Term Loan Documents or (B) terminate the commitments and/or other arrangements under the Term Loan
+Documents in accordance therewith, in each case of this clause (iv) unless such performance or termination and/or other arrangements
+is expressly prohibited by this Agreement or any of the Term Loan Documents.
+
+ 
+
+Section
+2.02.     
+Nature of Obligations
+.
+
+ 
+
+(a)            
+The Term Loan Agent, for and on behalf of itself and the other Term Loan Secured Parties, and the Renewables Intermediation Facility
+Representative, for itself and the other Renewables Intermediation Facility Secured Parties, each expressly acknowledge and agree
+that, subject to the limitations set forth in this Agreement and the applicable Intermediation Facility Documents, (i) certain
+of the Intermediation Facility Obligations are revolving in nature and that the amount thereof that may be outstanding at any
+time, or from time to time, may be increased or reduced and subsequently reborrowed, as applicable, (ii) the terms of such Intermediation
+Facility Obligations may be modified, supplemented, renewed, restructured, replaced, refinanced, extended or otherwise amended
+from time to time, and that the aggregate amount of the Intermediation Facility Obligations may be increased, replaced, renewed,
+extended, restructured or refinanced, in each such event, without notice to or consent by the Secured Parties and (iii) all Intermediation
+Facility Priority Collateral received by the Intermediation Facility Secured Parties may be applied, reversed, reapplied and credited
+or reborrowed, in whole or in part, to the Intermediation Facility Obligations at any time, in each case, without affecting the
+provisions hereof. The Lien priorities provided in Section 2.01 shall not be altered or otherwise affected by any such amendment,
+modification, supplement, extension, repayment, reborrowing, increase, replacement, renewal, restructuring, application, reversal,
+restatement or refinancing of or waiver, consent or accommodation with respect to, any Intermediation Facility Obligations, or
+any portion thereof, to the extent in compliance with the terms of this Agreement.
+
+ 
+
+ 
+
+19
+
+ 
+
+ 
+
+ 
+
+(b)           
+The Intermediation Facility Representative, for itself and the other Intermediation Facility Secured Parties, and the Renewables
+Intermediation Facility Representative, for itself and the other Renewables Intermediation Facility Secured Parties, each expressly
+acknowledge and agree that, subject to the limitations set forth in this Agreement and the applicable Term Loan Documents, (i)
+the terms of the Term Loan Obligations may be modified, supplemented, renewed, restructured, replaced, refinanced, extended or
+otherwise amended from time to time, and that the aggregate amount of the Term Loan Obligations may be replaced, renewed, extended,
+restructured or refinanced, in each event, without notice to or consent by the Secured Parties (except to the extent required
+under Article 6) and (ii) all Term Loan Priority Collateral received by the Term Loan Agent may be applied, reversed, reapplied,
+reborrowed or credited in whole or in part, to the Term Loan Obligations in accordance with the Term Loan Agreement at any time,
+in each case, without affecting the provisions hereof. The Lien priorities provided in Section 2.01 shall not be altered or otherwise
+affected by any such amendment, modification, supplement, extension, repayment, reborrowing, increase, replacement, renewal, restructuring,
+application, reversal, restatement or refinancing of or waiver, consent or accommodation with respect to, any Term Loan Obligations,
+or any portion thereof, to the extent in compliance with the terms of this Agreement.
+
+ 
+
+(c)            
+The Term Loan Agent, for and on behalf of itself and the other Term Loan Secured Parties, and the Intermediation Facility Representative,
+for itself and the other Intermediation Facility Secured Parties, each expressly acknowledge and agree that, subject to the limitations
+set forth in this Agreement and the applicable Renewables Intermediation Facility Documents, (i) certain of the Renewables Intermediation
+Facility Obligations are revolving in nature and that the amount thereof that may be outstanding at any time, or from time to
+time, may be increased or reduced and subsequently reborrowed, as applicable, (ii) the terms of such Renewables Intermediation
+Facility Obligations may be modified, supplemented, renewed, restructured, replaced, refinanced, extended or otherwise amended
+from time to time, and that the aggregate amount of the Renewables Intermediation Facility Obligations may be increased, replaced,
+renewed, extended, restructured or refinanced, in each such event, without notice to or consent by the Secured Parties and (iii)
+all Renewables Intermediation Facility Priority Collateral received by the Renewables Intermediation Facility Secured Parties
+may be applied, reversed, reapplied and credited or reborrowed, in whole or in part, to the Renewables Intermediation Facility
+Obligations at any time, in each case, without affecting the provisions hereof. The Lien priorities provided in Section 2.01 shall
+not be altered or otherwise affected by any such amendment, modification, supplement, extension, repayment, reborrowing, increase,
+replacement, renewal, restructuring, application, reversal, restatement or refinancing of or waiver, consent or accommodation
+with respect to, any Renewables Intermediation Facility Obligations, or any portion thereof, to the extent in compliance with
+the terms of this Agreement.
+
+ 
+
+Section
+2.03.     
+Additional Liens. 
+The Term Loan Agent, the Intermediation Facility Representative and the
+Renewables Intermediation Facility Representative each agree that it will not assert Liens on the other Secured Party’s
+Type of Collateral and that there is not intended to be shared Collateral other than business interruption insurance policies
+and the proceeds thereof which are subject to Sections 3.08 and 3.09. The Term Loan Agent additionally agrees that it will not
+assert Liens on the Intermediation Title Property or the Renewables Intermediation Title Property.
+
+ 
+
+Section
+2.04.     
+[Reserved]
+.
+
+ 
+
+Section
+2.05.    
+Delivery of Termination Date Notices
+. Upon the occurrence of the Termination Date in respect
+of any Class of Secured Obligations, the Representative in respect of such Class of Secured Obligations shall deliver a written
+notice to the Representatives of the other Classes of Secured Obligations then outstanding stating that such Termination Date
+has occurred.
+
+ 
+
+ 
+
+20
+
+ 
+
+ 
+
+ 
+
+Section
+2.06.     
+Reinstatement
+. To the extent any payment with respect to any First Priority Obligation (whether
+by or on behalf of any Grantor, as proceeds of security, enforcement of any right of setoff or otherwise) is declared to be avoided
+as a fraudulent conveyance, fraudulent transfer, or a preference in any respect, set aside or required to be paid to a debtor
+in possession or any trustee appointed therefor, any other Secured Party, receiver or similar Person, then the obligation or part
+thereof originally intended to be satisfied shall, for the purposes of this Agreement and the rights and obligations of the First
+Priority Secured Parties and the other Secured Parties, be deemed to be reinstated and outstanding as if such payment, or payments,
+have not occurred and the terms and conditions of this Article 2 shall be fully applicable thereto until all such First Priority
+Obligations shall again have been paid in full in cash. To the extent any payment with respect to any Secured Obligation other
+than the First Priority Obligations (whether by or on behalf of any Grantor, as proceeds of security, enforcement of any right
+or setoff or otherwise) is declared to be avoided as a fraudulent conveyance, fraudulent transfer, or a preference in any respect,
+set aside or required to be paid to a debtor in possession or any trustee appointed therefor, any First Priority Secured Party,
+receiver or similar Person, then the obligation or part thereof originally intended to be satisfied shall, for the purposes of
+this Agreement and the rights and obligations of the First Priority Secured Parties and the other Secured Parties, be deemed to
+be reinstated and outstanding as if such payment, or payments, have not occurred.
+
+ 
+
+ARTICLE
+3
+
+ENFORCEMENT RIGHTS
+
+ 
+
+Section
+3.01.     
+Exclusive Enforcement
+.
+
+ 
+
+With
+respect to each Type of Collateral, until the First Priority Obligations Payment Date, whether or not an Insolvency Proceeding
+has been commenced by or against any Grantor, the First Priority Representative (on behalf of itself and the other First Priority
+Secured Parties) shall have the exclusive right to take and continue (or refrain from taking or continuing) any Enforcement Action
+with respect to such Collateral in accordance with the applicable First Priority Documents, without any consultation with or consent
+of any other Secured Parties with respect to such Collateral. With respect to each Type of Collateral, upon the occurrence and
+during the continuance of an Event of Default (and subject to the provisions of the First Priority Documents), the First Priority
+Representative (on behalf of itself and the other First Priority Secured Party) may take and continue any Enforcement Action with
+respect to the applicable First Priority Obligations and such Collateral.
+
+ 
+
+Section
+3.02.     
+Standstill and Waivers
+.
+
+ 
+
+(a)            
+With respect to each Type of Collateral, the other Representatives, on behalf of itself and the other Secured Parties, agrees,
+for the benefit of the First Priority Representative and each other First Priority Secured Party, that it will not (i) oppose,
+object to, interfere with, hinder or delay, in any manner, whether by judicial proceedings (including the filing of an Insolvency
+Proceeding) or otherwise, any foreclosure, sale, lease, exchange, transfer or other disposition of such Type of Collateral pursuant
+to an Enforcement Action or any other Enforcement Action with respect to Collateral taken by or on behalf of the First Priority
+Representative or any other First Priority Secured Party or (ii) take any action that is otherwise prohibited under this Agreement;
+
+ 
+
+ 
+
+21
+
+ 
+
+ 
+
+ 
+
+(b)           
+With respect to each Type of Collateral, each Representative, on behalf of itself and the other Secured Parties, agrees, for the
+benefit of the First Priority Representative and each other First Priority Secured Party, that until the First Priority Obligations
+Payment Date, they have no right to (x) direct the First Priority Representative or any other First Priority Secured Party to
+take any Enforcement Action with respect to such Collateral or (y) consent or object to the taking by the First Priority Representative
+or any other First Priority Secured Party of any Enforcement Action with respect to such Collateral or to the timing or manner
+thereof (or, to the extent they may have any such right described in this clause (b) as a junior lien creditor, they hereby irrevocably
+waive such right) regardless of whether any action or failure to act by or on behalf of the First Priority Representative or First
+Priority Secured Parties is adverse to the interest of the other Secured Parties;
+
+ 
+
+(c)            
+With respect to each Type of Collateral, each Representative, on behalf of itself and the other Secured Parties, agrees, for the
+benefit of the First Priority Representative and each other First Priority Secured Party, that until the First Priority Obligations
+Payment Date, it will not institute any suit or other proceeding or assert in any suit, Insolvency Proceeding or other proceeding
+any claim against the First Priority Representative or any other First Priority Secured Party seeking damages from or other relief
+by way of specific performance, instructions or otherwise, with respect to, and none of the First Priority Representative nor
+any other First Priority Secured Party shall be liable for, any action taken or omitted to be taken by the First Priority Representative
+or any First Priority Secured Party with respect to such Collateral or pursuant to the First Priority Documents; 
+provided 
+that
+nothing in this Section 3.02(c) shall be construed to prevent or limit any party hereto from instituting any such suit or other
+proceeding to enforce the terms of this Agreement;
+
+ 
+
+(d)           
+With respect to each Type of Collateral, each Representative, on behalf of itself and the other Secured Parties, agrees, for the
+benefit of the First Priority Representative and each other First Priority Secured Party, that until the First Priority Obligations
+Payment Date it will not take any Enforcement Action with respect to such Collateral;
+
+ 
+
+(e)            
+With respect to each Type of Collateral, each Representative, on behalf of itself and the other Secured Parties, agrees, for the
+benefit of the First Priority Representative and each other First Priority Secured Party, that until the First Priority Obligations
+Payment Date they will not commence judicial or nonjudicial foreclosure proceedings with respect to, seek to have a trustee, receiver,
+liquidator or similar official appointed for or over, attempt any action to take possession of, exercise any right, remedy or
+power with respect to, or otherwise take any action to enforce their interest in or realize upon, such Collateral; and
+
+ 
+
+(f)            
+With respect to each Type of Collateral, each Representative, on behalf of itself and the other Secured Parties, agrees, for the
+benefit of the First Priority Representative and each other First Priority Secured Party, that until the First Priority Obligations
+Payment Date, they will not seek, and hereby waive any right, to have such Collateral or any part thereof marshaled upon any foreclosure
+or other disposition of such Collateral.
+
+ 
+
+Section
+3.03.     
+[Reserved]
+.
+
+ 
+
+ 
+
+22
+
+ 
+
+ 
+
+ 
+
+Section
+3.04.     
+Cooperation with respect to Collateral
+.
+
+ 
+
+(a)            
+
+Access to Information
+. If any Representative takes actual possession of any documentation of a Grantor in accordance with
+the terms and conditions of the applicable Finance Documents (whether such documentation is in the form of a writing or is stored
+in any data equipment or data record in the physical possession of such Representative), then upon request of any other Representatives
+and reasonable advance notice, such Representative will permit such other Representative or its representative to inspect and
+copy such documentation if and to the extent such other Representative certifies to such Representative that:
+
+ 
+
+(i)        such documentation contains or may contain information necessary or appropriate, in the good faith opinion of the Representative,
+to the enforcement of the Representative’s Liens upon any Collateral; and
+
+ 
+
+(a)       such Representative is entitled to receive and use such information under applicable law and the applicable Finance Documents
+and, in doing so, will comply with all obligations imposed by law or contract in respect of the disclosure, or use of such information
+(including any applicable confidentiality restrictions).
+
+ 
+
+(b)           
+
+Access by Intermediation Facility Secured Party or Renewables Intermediation Facility Secured Party to Property to Process
+and Sell Inventory constituting Intermediation Facility Priority Collateral or Intermediation Title Property, Renewables Intermediation
+Facility Priority Collateral or Renewables Intermediation Title Property, respectively
+.
+
+ 
+
+(i)        In the event the Term Loan Agent shall acquire control or possession of any of the Term Loan Priority Collateral or shall, through
+the exercise of remedies under the Term Loan Priority Collateral Documents or otherwise, sell any of the Term Loan Priority Collateral
+to any third party purchaser (“
+Third Party Purchaser
+”), the Term Loan Agent shall, to the extent permitted
+by law, permit each of the Intermediation Facility Representative and the Renewables Intermediation Facility Representative (or
+shall require as a condition of such sale to the Third Party Purchaser that the Third Party Purchaser agree to permit each of
+the Intermediation Facility Representative and the Renewables Intermediation Facility Representative), at the Intermediation Facility
+Representative’s or the Renewables Intermediation Facility Representative’s option respectively: (i) to enter any of the premises
+of any Grantor (or Third Party Purchaser) constituting such Term Loan Priority Collateral under such control or possession (or
+sold to a Third Party Purchaser) in order to inspect, remove or take any action with respect to the Intermediation Facility Priority
+Collateral, Intermediation Title Property, Renewables Intermediation Facility Priority Collateral or Renewables Intermediation
+Title Property, as applicable, or to enforce the Intermediation Facility Representative’s or Renewables Intermediation Facility
+Representative’s respective rights or remedies with respect thereto, including, but not limited to, the removal of Intermediation
+Facility Priority Collateral, Intermediation Title Property, Renewables Intermediation Facility Priority Collateral and/or Renewables
+Intermediation Title Property, as applicable, and the examination and duplication of any property (to the extent not Intermediation
+Facility Priority Collateral, Intermediation Title Property, Renewables Intermediation Facility Priority Collateral or Renewables
+Intermediation Title Property) under such control or possession (or sold to a Third Party Purchaser) consisting of books and records
+of any Grantor related to the Intermediation Facility Priority Collateral, the Intermediation Title Property, Renewables Intermediation
+Facility Priority Collateral and/or Renewables Intermediation Title Property, as applicable; (ii) to use such property for
+the purpose of manufacturing or processing raw materials or work-in-process into finished inventory; and (iii) to use any
+of the property under such control or possession (or sold to a Third Party Purchaser) consisting of computers or other data processing
+equipment related to the storage or processing of records, documents or files pertaining to the Intermediation Facility Priority
+Collateral, the Intermediation Title Property, Renewables Intermediation Facility Priority Collateral or Renewables Intermediation
+Title Property, as applicable, and to use any of the property under such control or possession (or sold to a Third Party Purchaser)
+consisting of other equipment to handle, deal with or dispose of any (A) Intermediation Facility Priority Collateral or Renewables
+Intermediation Facility Priority Collateral pursuant to the Intermediation Facility Representative’s rights or remedies as set
+forth in the Intermediation Facility Security Documents or the Renewables Intermediation Facility Representative’s rights or remedies
+as set forth in the Renewables Intermediation Facility Security Documents, respectively, or the Uniform Commercial Code of any
+applicable jurisdiction and other applicable law; or (B) Intermediation Title Property or Renewables Intermediation Title Property,
+as applicable. Such use by the Intermediation Facility Representative or the Renewables Intermediation Facility Representative
+of such property shall not be on an exclusive basis.
+
+ 
+
+ 
+
+23
+
+ 
+
+ 
+
+ 
+
+(b)      The Intermediation Facility Representative, for itself and on behalf of the other Intermediation Facility Secured Parties, hereby
+acknowledges that, during the period any Intermediation Facility Priority Collateral or Intermediation Title Property shall be
+under control or possession of the Term Loan Agent, the Term Loan Agent shall not be obligated to take any action to protect or
+to procure insurance with respect to such Intermediation Facility Priority Collateral or Intermediation Title Property, it being
+understood that the Term Loan Agent shall not have any responsibility for loss or damage to the Intermediation Facility Priority
+Collateral or Intermediation Title Property (other than as a result of the gross negligence or willful misconduct of the Term
+Loan Agent or its agents (as applicable), as determined by a final non-appealable judgment of a court of competent jurisdiction)
+and that all the risk of loss or damage to the Intermediation Facility Priority Collateral or the Intermediation Title Property
+remain with the Intermediation Facility Secured Parties; 
+provided, that
+, to the extent insurance obtained by the Term
+Loan Agent provides coverage for risks relating to access to or use of any Intermediation Facility Priority Collateral or Intermediation
+Title Property, the Intermediation Facility Representative will be made an additional named insured or a loss payee (as applicable)
+thereunder.
+
+ 
+
+(ii)      The Renewables Intermediation Facility Representative, for itself and on behalf of the other Renewables Intermediation Facility
+Secured Parties, hereby acknowledges that, during the period any Renewables Intermediation Facility Priority Collateral or Renewables
+Intermediation Title Property shall be under control or possession of the Term Loan Agent, the Term Loan Agent shall not be obligated
+to take any action to protect or to procure insurance with respect to such Renewables Intermediation Facility Priority Collateral
+or Renewables Intermediation Title Property, it being understood that the Term Loan Agent shall not have any responsibility for
+loss or damage to the Renewables Intermediation Facility Priority Collateral or Renewables Intermediation Title Property (other
+than as a result of the gross negligence or willful misconduct of the Term Loan Agent or its agents (as applicable), as determined
+by a final non-appealable judgment of a court of competent jurisdiction) and that all the risk of loss or damage to the Renewables
+Intermediation Facility Priority Collateral or the Renewables Intermediation Title Property remain with the Renewables Intermediation
+Facility Secured Parties; 
+provided, that
+, to the extent insurance obtained by the Term Loan Agent provides coverage
+for risks relating to access to or use of any Renewables Intermediation Facility Priority Collateral or Renewables Intermediation
+Title Property, the Renewables Intermediation Facility Representative will be made an additional named insured or a loss payee
+(as applicable) thereunder.
+
+ 
+
+ 
+
+24
+
+ 
+
+ 
+
+ 
+
+(c)      The rights of each of the Intermediation Facility Representative and the Renewables Intermediation Facility Representative set
+forth in clauses (i) through (iii) above shall continue until the later of (x) 180 days after the date on which the Intermediation
+Facility Representative and the Renewables Intermediation Facility Representative receives written notice from the Term Loan Agent
+that the Term Loan Agent has control or possession of the Term Loan Priority Collateral at issue and (y) the sale or other disposition
+of such Term Loan Priority Collateral by the Term Loan Agent or the Term Loan Secured Parties (such period, the “
+Access
+Period
+”). The Access Period shall be tolled during the pendency of any Insolvency Proceeding of any Grantor or other
+proceedings pursuant to which any of the Intermediation Facility Representative or the other Intermediation Facility Secured Parties
+or the Renewables Intermediation Facility Representative or the other Renewables Intermediation Facility Secured Parties are effectively
+stayed from enforcing any of their rights against, as applicable, the Intermediation Facility Priority Collateral, the Intermediation
+Title Property, the Renewables Intermediation Facility Priority Collateral or the Renewables Intermediation Title Property. In
+no event shall any Term Loan Secured Parties take any action to interfere with, limit or restrict the rights of the Intermediation
+Facility Representative, any other Intermediation Facility Secured Parties, the Renewables Intermediation Facility Representative
+or any other Renewables Intermediation Facility Secured Parties, or the exercise of such rights by the Intermediation Facility
+Representative, any other Intermediation Facility Secured Party, the Renewables Intermediation Facility Representative or any
+other Renewables Intermediation Facility Secured Parties, to have access to or to use any of such Collateral pursuant to this
+Section 3.04(b) prior to the expiration of such period.
+
+ 
+
+ 
+
+25
+
+ 
+
+ 
+
+ 
+
+(iii)     During the period of actual occupation, use and/or control by the Intermediation Facility Representative or the Renewables Intermediation
+Facility Representative (or their respective employees, agents, advisers and representatives) of any parcel or item of Term Loan
+Priority Collateral (constituting Real Property subject to a Mortgage), the Intermediation Facility Representative or the Renewables
+Intermediation Facility Representative, as the case may be, shall (v) use the Term Loan Priority Collateral in accordance with
+applicable law, (w) insure for damage to property and liability to persons, including property and liability insurance for the
+benefit of the Term Loan Secured Parties, (x) pay any utility, rental, lease or similar charges and payments owed to third parties
+that accrue during, or that arise as a result of, such use and/or control to the extent not paid for by the Grantors, (y) indemnify
+each Term Loan Secured Party from any claim, loss, damage, cost or liability arising from such Intermediation Facility Representative’s
+or the Renewables Intermediation Facility Representative’s or any of the Secured Parties represented by its use of the Term
+Loan Priority Collateral (except for those arising from the gross negligence or willful misconduct of such Term Loan Secured Party),
+and (z) be obligated to repair at their expense any physical damage to such Term Loan Priority Collateral resulting from such
+occupancy, use or control, and to leave such Term Loan Priority Collateral in substantially the same condition as it was at the
+commencement of such occupancy, use or control, ordinary wear and tear excepted. Notwithstanding the foregoing, (i) in no event
+shall the Intermediation Facility Representative, any other Intermediation Facility Secured Party, the Renewables Intermediation
+Facility Representative or any other Renewables Intermediation Facility Secured Party have any liability to the Term Loan Secured
+Parties pursuant to this Section 3.04(b) as a result of any condition (including any environmental condition, claim or liability)
+on or with respect to the Term Loan Priority Collateral existing prior to the date of the exercise by the Intermediation Facility
+Representative or the Renewables Intermediation Facility Representative of any of their respective rights under this Section 3.04(b)
+and (ii) neither the Intermediation Facility Representative nor the Renewables Intermediation Facility Representative, as the
+case may be, shall have any duty or liability to maintain the Term Loan Priority Collateral in a condition or manner better than
+that in which it was maintained prior to the use thereof by the Intermediation Facility Representative, the Renewables Intermediation
+Facility Representative, any other Intermediation Facility Secured Party or any other Renewables Intermediation Facility Secured
+Party, or for any diminution in the value of the Term Loan Priority Collateral that results from ordinary wear and tear resulting
+from the use of the Term Loan Priority Collateral by the Intermediation Facility Secured Parties or the Renewables Intermediation
+Facility Secured Parties in the manner and for the time periods specified under this Section 3.04(b). Notwithstanding the rights
+granted in this Section 3.04(b), the Intermediation Facility Secured Parties and the Renewables Intermediation Facility Secured
+Parties shall cooperate with the Term Loan Secured Parties in connection with any efforts made by the Term Loan Secured Parties
+to sell any Term Loan Priority Collateral or otherwise exercise their rights and remedies with respect thereto, including, without
+limitation, the right to commence foreclosure of the Term Loan Priority Collateral or show the Term Loan Priority Collateral to
+prospective purchasers and to ready the Term Loan Priority Collateral for sale. The rights of the Intermediation Facility Secured
+Parties and the Renewables Intermediation Facility Secured Parties under this Section 3.04(b) shall automatically cease to apply
+to any Term Loan Priority Collateral from and after the date, if any, on which such Term Loan Priority Collateral is no longer
+physically located on any property subject to a Mortgage. No Representative nor any Secured Parties shall be responsible for perfecting
+or maintaining the perfection of Liens with respect to the Collateral for the benefit of the other Representatives or Secured
+Parties.
+
+ 
+
+ 
+
+26
+
+ 
+
+ 
+
+ 
+
+(c)            
+
+License
+. The Term Loan Agent, on behalf of the Term Loan Secured Parties, hereby irrevocably grants each of the Intermediation
+Facility Secured Party and the Renewables Intermediation Facility Secured Party a non-exclusive worldwide license to or right
+to use, to the maximum extent permitted by applicable law, exercisable without payment of royalty or other compensation, any of
+the Intellectual Property now or hereafter owned by, licensed to, or otherwise exclusively used by the Grantors in order for:
+(i) the Intermediation Facility Secured Parties to purchase, use, market, repossess, possess, store, assemble, manufacture, process,
+sell, transfer, distribute or otherwise dispose of any asset included in the Intermediation Facility Priority Collateral, or the
+Intermediation Title Property in connection with the liquidation, disposition, foreclosure or realization upon the Intermediation
+Facility Priority Collateral and the Intermediation Title Property in accordance with the terms of the Intermediation Facility
+Documents, in each case of the foregoing, in connection with an Enforcement Action with respect to such Intermediation Facility
+Priority Collateral or Intermediation Title Property, and (ii) the Renewables Intermediation Facility Secured Parties to purchase,
+use, market, repossess, possess, store, assemble, manufacture, process, sell, transfer, distribute or otherwise dispose of any
+asset included in the Renewables Intermediation Facility Priority Collateral, or the Renewables Intermediation Title Property
+in connection with the liquidation, disposition, foreclosure or realization upon the Renewables Intermediation Facility Priority
+Collateral and the Renewables Intermediation Title Property in accordance with the terms of the Renewables Intermediation Facility
+Documents, in each case of the foregoing, in connection with an Enforcement Action with respect to such Renewables Intermediation
+Facility Priority Collateral or Renewables Intermediation Title Property; 
+provided 
+that, in each case, such license shall
+expire on the earlier of (i) the Intermediation Facility Termination Date (in the case of the Intermediation Facility Secured
+Parties) or the Renewables Intermediation Facility Termination Date (in the case of the Renewables Intermediation Facility Secured
+Parties), (ii) in each case, the expiration of the Access Period (iii) with respect to the Intermediation Facility Secured Parties
+only, the date that all or substantially all of the Intermediation Facility Priority Collateral or the Intermediation Title Property,
+in each case, has been liquidated, disposed of, foreclosed on or realized upon in full (the “
+License Expiration Date
+”)
+and (iv) with respect to the Renewables Intermediation Facility Secured Parties only, the date that all or substantially all of
+the Renewables Intermediation Facility Priority Collateral or the Renewables Intermediation Title Property, in each case, has
+been liquidated, disposed of, foreclosed on or realized upon in full (the “
+Renewables License Expiration Date
+”);
+
+provided
+, further that the Intermediation Facility Representative or the Renewables Intermediation Facility Representative,
+as applicable, exercising such rights and the Secured Parties represented by each of the foregoing shall be subject to the same
+obligations set forth in clauses Section 3.04(b)(ii) through Section 3.04(b)(v) above. The Term Loan Agent agrees that any of
+the Intellectual Property constituting Term Loan Priority Collateral that is sold, transferred or otherwise disposed of (whether
+pursuant to an Enforcement Action or otherwise) prior to the License Expiration Date or the Renewables License Expiration Date
+shall be subject to the rights of the Intermediation Facility Secured Party or the Renewables Intermediation Facility Secured
+Party, respectively, as set forth in this Section 3.04.
+
+ 
+
+(d)           
+
+Grantor and Acknowledging Affiliate Consent
+.
+
+ 
+
+(i)        The Grantors and Acknowledging Affiliates consent to the performance by the Term Loan Agent of the obligations set forth in this
+Section 3.04 and acknowledge and agree that neither the Term Loan Agent nor any other Term Loan Secured Party, shall ever be liable
+for any action taken or omitted by the Intermediation Facility Representative, the Renewables Intermediation Facility Representative,
+any other Intermediation Facility Secured Party or any other Renewables Intermediation Facility Secured Party, or any of their
+respective officers, employees, agents successors or assigns in connection therewith or incidental thereto or in consequence thereof,
+including any improper use or disclosure of any proprietary information or other Intellectual Property by the Intermediation Facility
+Secured Parties, the Renewables Intermediation Facility Secured Parties or their respective officers, employees, agents, successors
+or assigns or any other damage to or misuse or loss of any property of the Grantors as a result of any action taken or omitted
+by the Intermediation Facility Secured Parties, the Renewables Intermediation Facility Secured Parties or any of their respective
+officers, employees, agents, successors or assigns.
+
+ 
+
+ 
+
+27
+
+ 
+
+ 
+
+ 
+
+(ii)       The Grantors and Acknowledging Affiliates consent to the performance by the Intermediation Facility Secured Parties of the obligations
+set forth in this Section 3.04 and acknowledge and agree that the Intermediation Facility Secured Parties shall not be accountable
+or liable for any action taken or omitted by the Term Loan Agent or any holder of Term Loan Obligations, the Renewables Intermediation
+Facility Representative, or any other Renewables Intermediation Facility Secured Party, or any of their respective officers, employees,
+agents successors or assigns in connection therewith or incidental thereto or in consequence thereof, including any improper use
+or disclosure of any proprietary information or other Intellectual Property by the Term Loan Agent, Term Loan Secured Party, the
+Renewables Intermediation Facility Secured Parties or any of their respective officers, employees, agents, successors or assigns
+or any other damage to or misuse or loss of any property of the Grantors as a result of any action taken or omitted by the Term
+Loan Agent, any holder of Term Loan Obligations, the Renewables Intermediation Facility Secured Parties or any of their respective
+officers, employees, agents, successors or assigns.
+
+ 
+
+(iii)      The Grantors and Acknowledging Affiliates consent to the performance by the Renewables Intermediation Facility Secured Parties
+of the obligations set forth in this Section 3.04 and acknowledge and agree that the Renewables Intermediation Facility Secured
+Parties shall not be accountable or liable for any action taken or omitted by the Term Loan Agent or any holder of Term Loan Obligations,
+the Intermediation Facility Representative, any other Intermediation Facility Secured Party or any of their respective officers,
+employees, agents successors or assigns in connection therewith or incidental thereto or in consequence thereof, including any
+improper use or disclosure of any proprietary information or other Intellectual Property by the Term Loan Agent, Term Loan Secured
+Party, the Intermediation Facility Secured Parties or any of their respective officers, employees, agents, successors or assigns
+or any other damage to or misuse or loss of any property of the Grantors as a result of any action taken or omitted by the Term
+Loan Agent or any holder of Term Loan Obligations, the Intermediation Facility Secured Parties or any of their respective officers,
+employees, agents, successors or assigns.
+
+ 
+
+Section
+3.05.     
+[Reserved]
+.
+
+ 
+
+Section
+3.06.     
+[Reserved]
+.
+
+ 
+
+Section
+3.07.    
+Actions Upon Breach. 
+With respect to each Type of Collateral, if any Secured Party (or any
+agent or other representative thereof) other than the First Priority Secured Parties with respect to such Type of Collateral in
+any way takes, attempts to or threatens to take any action with respect to such Type of Collateral (including any attempt to enforce
+any remedy on such Collateral, whether pursuant to the terms hereof or any other Finance Document or otherwise) in violation of
+this Agreement, or fails to take any action required by this Agreement, any First Priority Secured Party (in its or their own
+name or in the name of any Grantor) may obtain relief against such other Secured Party or agent or other representative thereof
+by injunction, specific performance and/or other appropriate equitable relief, including interposing as a defense or dilatory
+plea the making of this Agreement, it being understood and agreed by the other Representatives on behalf of each other Secured
+Party that (i) the damages of the First Priority Secured Parties from its actions may at that time be difficult to ascertain and
+may be irreparable, and (ii) each such other Secured Party waives any defense that any Grantor and/or the First Priority Secured
+Parties cannot demonstrate damage and/or be made whole by the awarding of damages.
+
+ 
+
+ 
+
+28
+
+ 
+
+ 
+
+ 
+
+Section
+3.08.    
+Intermediation Facility Secured Parties and Proceeds of Business Interruption Insurance
+.
+Notwithstanding anything to the contrary in this Agreement or any Intermediation Facility Documents, with respect to any and all
+proceeds of business interruption insurance constituting Intermediation Facility Priority Collateral, the Intermediation Facility
+Secured Parties shall be required to marshall, take, liquidate and exhaust all remedies and recoveries available to such Intermediation
+Facility Secured Parties with respect to (x) all other categories of Intermediation Facility Priority Collateral and (y) all insurance
+owned and held in the name of the Intermediation Facility Representative and/or the Intermediation Facility Secured Parties with
+respect to the Intermediation Facility Priority Collateral prior to receiving any recovery with respect to such proceeds of business
+interruption insurance with respect to Intermediation Facility Priority Collateral maintained by the Company as required by Section
+17.1(b) of the Intermediation Agreement and such policy shall be the secondary policy with respect to Intermediation Facility
+Priority Collateral.
+
+ 
+
+Section
+3.09.    
+Renewables Intermediation Facility Secured Parties and Proceeds of Business Interruption Insurance
+.
+Notwithstanding anything to the contrary in this Agreement or any Renewables Intermediation Facility Documents, with respect to
+any and all proceeds of business interruption insurance constituting Renewables Intermediation Facility Priority Collateral, the
+Renewables Intermediation Facility Secured Parties shall be required to marshall, take, liquidate and exhaust all remedies and
+recoveries available to such Renewables Intermediation Facility Secured Parties with respect to (x) all other categories of Renewables
+Intermediation Facility Priority Collateral and (y) all insurance owned and held in the name of the Renewables Intermediation
+Facility Representative and/or the Renewables Intermediation Facility Secured Parties with respect to the Renewables Intermediation
+Facility Priority Collateral prior to receiving any recovery with respect to such proceeds of business interruption insurance
+with respect to Renewables Intermediation Facility Priority Collateral maintained by the Company as required by Section 17.1(b)
+of the Intermediation Agreement and such policy shall be the secondary policy with respect to Renewables Intermediation Facility
+Priority Collateral.
+
+ 
+
+ 
+
+29
+
+ 
+
+ 
+
+ 
+
+ARTICLE
+4
+
+APPLICATION OF PROCEEDS OF COLLATERAL; DISPOSITIONS AND RELEASES OF COLLATERAL; INSPECTION AND INSURANCE
+
+ 
+
+Section
+4.01.     
+Application of Proceeds; Turnover Provisions
+.
+
+ 
+
+(a)            
+All proceeds of the Intermediation Facility Priority Collateral resulting from any Enforcement Action, and whether or not pursuant
+to any Insolvency Proceeding, and any distribution made in respect of Intermediation Facility Priority Collateral in any Insolvency
+Proceeding with respect to any Grantor, but subject in all respects to the conditions and limitations set forth in Section 3.08,
+shall be distributed as follows:
+
+ 
+
+first
+,
+to the Intermediation Facility Representative for the payment in full in cash of all out of pocket fees, costs, indemnities and
+expenses (including reasonable and documented attorney’s fees and disbursements) of the Intermediation Facility Representative
+(in such capacity) in connection with any such Enforcement Action or protection of its rights under any Intermediation Facility
+Document or otherwise by reason of the occurrence of a default thereunder;
+
+ 
+
+second
+,
+to the Intermediation Facility Secured Parties for the payment in full in cash of the Intermediation Facility Obligations not
+paid pursuant to clause 
+first 
+above in accordance with the Intermediation Facility Documents;
+
+ 
+
+finally
+,
+to the relevant Grantor, or as a court of competent jurisdiction may direct.
+
+ 
+
+If
+any Enforcement Action with respect to the Intermediation Facility Priority Collateral produces non-cash proceeds, then such non-cash
+proceeds shall be held by the Intermediation Facility Representative and, at such time as such non-cash proceeds are monetized,
+shall be applied as set forth above.
+
+ 
+
+(b)           
+All proceeds of the Renewables Intermediation Facility Priority Collateral resulting from any Enforcement Action, and whether
+or not pursuant to any Insolvency Proceeding, and any distribution made in respect of Renewables Intermediation Facility Priority
+Collateral in any Insolvency Proceeding with respect to any Grantor, but subject in all respects to the conditions and limitations
+set forth in Section 3.09, shall be distributed as follows:
+
+ 
+
+first
+,
+to the Renewables Intermediation Facility Representative for the payment in full in cash of all out of pocket fees, costs, indemnities
+and expenses (including reasonable and documented attorney’s fees and disbursements) of the Renewables Intermediation Facility
+Representative (in such capacity) in connection with any such Enforcement Action or protection of its rights under any Renewables
+Intermediation Facility Document or otherwise by reason of the occurrence of a default thereunder;
+
+ 
+
+second
+,
+to the Renewables Intermediation Facility Secured Parties for the payment in full in cash of the Renewables Intermediation Facility
+Obligations not paid pursuant to the clause 
+first 
+above in accordance with the Renewables Intermediation Facility Documents;
+
+ 
+
+finally
+,
+to the relevant Grantor, or as a court of competent jurisdiction may direct.
+
+ 
+
+If
+any Enforcement Action with respect to the Renewables Intermediation Facility Priority Collateral produces non-cash proceeds,
+then such non-cash proceeds shall be held by the Renewables Intermediation Facility Representative and, at such time as such non-cash
+proceeds are monetized, shall be applied as set forth above.
+
+ 
+
+ 
+
+30
+
+ 
+
+ 
+
+ 
+
+(c)            
+All proceeds of the Term Loan Priority Collateral resulting from any Enforcement Action, and whether or not pursuant to an Insolvency
+Proceeding, and any distribution made in respect of Term Loan Priority Collateral in any Insolvency Proceeding with respect to
+any Grantor, shall be distributed as follows:
+
+ 
+
+first
+,
+to the Term Loan Agent, for the payment in full in cash out of pocket fees, costs, indemnities and expenses (including reasonable
+and documented attorney’s fees and disbursements) of the Term Loan Agent (in such capacity) in connection with any such
+Enforcement Action or protection of its rights under the Term Loan Documents or otherwise by reason of the occurrence of a default
+thereunder;
+
+ 
+
+second
+,
+to the Term Loan Agent for the payment in full in cash of the Term Loan Obligations not paid pursuant to clause 
+first
+ above
+in accordance with the Term Loan Documents to be further paid in accordance with the provisions of the Term Loan Credit Agreement;
+
+ 
+
+finally
+,
+to the relevant Grantor, or as a court of competent jurisdiction may direct.
+
+ 
+
+If
+any Enforcement Action with respect to the Term Loan Priority Collateral produces non-cash proceeds, then such non-cash proceeds
+shall be held by the Term Loan Agent and, at such time as such non-cash proceeds are monetized, shall be applied as set forth
+above.
+
+ 
+
+(d)           
+With respect to each Type of Collateral, until the occurrence of the First Priority Obligations Payment Date, no Secured Party
+other than the First Priority Secured Party with respect to such Collateral may accept any such Type of Collateral, including
+any such Collateral constituting proceeds, in satisfaction, in whole or in part, of its Secured Obligations in violation of Section
+3.08, 3.09, 4.01(a), 4.01(b) or 4.01(c). Any Type of Collateral received by any such other Secured Party that is not permitted
+to be received pursuant to the preceding sentence shall be segregated and held in trust and promptly turned over to the First
+Priority Representative to be applied in accordance with Section 3.08, 3.09, 4.01(a), 4.01(b) or 4.01(c), as the case may be,
+in the same form as received, with any necessary endorsements, and each Secured Party hereby authorizes the First Priority Representative
+to make any such endorsements as agent for such other Representative (which authorization, being coupled with an interest, is
+irrevocable until the First Priority Obligations Payment Date). Upon the turnover of such Type of Collateral as contemplated by
+the immediately preceding sentence, the other Secured Obligations purported to be satisfied by the payment of such Type of Collateral
+shall be immediately reinstated in full as though such payment had never occurred.
+
+ 
+
+(e)            
+In connection with any asset sale by a Grantor that includes any of the Intermediation Facility Priority Collateral, Renewables
+Intermediation Facility Priority Collateral and Term Loan Priority Collateral (unless otherwise agreed by each of the Intermediation
+Facility Representative, the Renewables Intermediation Facility Representative and the Term Loan Agent and as provided by Sections
+3.08 and 3.09), such proceeds thereof shall be allocated as follows: (i) all proceeds attributable to Intermediation Facility
+Priority Collateral shall be allocated to the Intermediation Facility Priority Collateral (ii) all proceeds attributable to Renewables
+Intermediation Facility Priority Collateral shall be allocated to the Renewables Intermediation Facility Priority Collateral and
+(iii) all proceeds attributable to Term Loan Priority Collateral shall be allocated to the Term Loan Priority Collateral.
+
+ 
+
+ 
+
+31
+
+ 
+
+ 
+
+ 
+
+(f)            
+Notwithstanding anything to the contrary contained in this Agreement, any Term Loan Document, any Intermediation Facility Document
+or any Renewables Intermediation Facility Document, each Grantor, the Intermediation Facility Representative, and the Renewables
+Intermediation Facility Representative agrees that prior to the receipt of any notice of an Enforcement Action from the Intermediation
+Facility Representative or the Renewables Intermediation Facility Representative, the Term Loan Agent is hereby permitted to treat
+all cash, Cash Equivalents, Money, collections and payments deposited in any deposit account subject to a deposit account control
+agreement or similar agreements (the “
+Term Loan Deposit Accounts
+”) in favor of the Term Loan Agent or otherwise
+received by the Term Loan Agent as Term Loan Priority Collateral. For the avoidance of doubt, (1) the Term Loan Agent hereby agrees
+that if the Term Loan Deposit Accounts contain any cash, Cash Equivalents or Money, which constitutes proceeds of the Intermediation
+Facility Priority Collateral or the Renewables Intermediation Facility Priority Collateral, then, upon obtaining knowledge or
+notice from the Intermediation Facility Representative, the Renewables Intermediation Facility Representative or any Grantor that
+such cash, Cash Equivalents or Money constitute proceeds of the Intermediation Facility Priority Collateral or the Renewables
+Intermediation Facility Priority Collateral, the Term Loan Agent shall (i) in respect of the proceeds of the Intermediation Facility
+Priority Collateral (x) hold such proceeds in trust for the Intermediation Facility Representative and turn over such proceeds
+to the Company to be applied to the Intermediation Facility Obligations or reinvested, in each case, in accordance with the Intermediation
+Agreement to the extent required or (y) if an Event of Default (as defined in the Intermediation Agreement) has occurred and is
+continuing, hold such proceeds in trust for the Intermediation Facility Representative and turn over such proceeds to the Intermediation
+Facility Representative as soon as practicable in accordance with Section 4.01(d), and (ii) in respect of the proceeds of the
+Renewables Intermediation Facility Priority Collateral (x) hold such proceeds in trust for the Renewables Intermediation Facility
+Representative and turn over such proceeds to the Renewables Company to be applied to the Renewables Intermediation Facility Obligations
+or reinvested, in each case, in accordance with the Renewables Intermediation Agreement to the extent required or (y) if an Event
+of Default (as defined in the Renewables Intermediation Agreement) has occurred and is continuing, hold such proceeds in trust
+for the Renewables Intermediation Facility Representative and turn over such proceeds to the Renewables Intermediation Facility
+Representative as soon as practicable in accordance with Section 4.01(d) and (2) the Macquarie BONY Account shall not constitute
+a Term Loan Deposit Account.
+
+ 
+
+ARTICLE
+5
+
+INSOLVENCY PROCEEDINGS
+
+ 
+
+Section
+5.01.     
+Filing of Motions
+. No Secured Party shall, in or in connection with any Insolvency Proceeding,
+file any pleadings or motions, take any position at any hearing or proceeding of any nature, or otherwise take any action whatsoever,
+in each case to challenge, contest or otherwise object to the scope, validity, enforceability, perfection or priority of any Liens
+held by any other Secured Party on account of Secured Obligations, the value or allowability of any claims (including any claims
+for Post-Petition Interest) of any other Secured Party under Section 506(a) of the Bankruptcy Code or otherwise, or assert or
+support any claim for costs or expenses of preserving or disposing of any Collateral under Section 506(c) of the Bankruptcy Code
+or any similar provision of any other Debtor Relief Law, and no Secured Party shall support any other Person doing any of the
+foregoing.
+
+ 
+
+ 
+
+32
+
+ 
+
+ 
+
+ 
+
+Section 5.02.
+     
+
+Financing Matters
+.
+
+ 
+
+(a)
+           
+With respect to each Type of Collateral, prior to the First Priority Obligations Payment Date, if any Grantor becomes subject
+to any Insolvency Proceeding, and if the First Priority Representative (acting at the direction of the requisite First Priority
+Secured Parties) consents to the use of such Type of Collateral (for the avoidance of doubt, including to the use of cash collateral)
+by any Grantor during any Insolvency Proceeding or provides financing to any Grantor under the Bankruptcy Code or consents to the
+provision of such financing to any Grantor by any third party to be secured (pari or senior to the First Priority Obligations on
+such Type of Collateral at the option of such First Priority Secured Parties) at least in part by such Type of Collateral (and,
+if also secured by the other Type of Collateral, secured only by Liens on such other Collateral that are junior to the Liens on
+such Collateral securing the First Priority Obligations on such other Type of Collateral) (any such financing, whether provided
+by the First Priority Secured Parties or any third party, being referred therein as a “
+DIP Financing
+”), then
+the other Representatives agrees, on behalf of itself and the other Secured Parties, that each such Secured Party (i) will
+be deemed to have consented to, will raise no objection to, and will not support any other Person objecting to, the use of such
+Collateral or to such DIP Financing, (ii) shall only request or accept adequate protection in connection with the use of such Collateral
+or such DIP Financing as permitted by Section 5.04, (iii) to the extent the Liens on the Collateral securing any First Priority
+Obligations are subordinated or pari passu with such DIP Financing, will subordinate (and will be deemed hereunder to have subordinated)
+the other Liens and any Adequate Protection Liens provided in respect thereof, (A) to the Liens on such Collateral securing the
+DIP Financing (and all obligations relating thereto) on the same terms and conditions as the First Priority Liens on such Collateral
+are subordinated, if applicable, thereto (and such subordination will not alter in any manner the terms of this Agreement), (B)
+to any adequate protection, including Adequate Protection Liens, provided to the First Priority Secured Parties with respect to
+such Collateral and (C) to any customary “carve-out” from such Collateral for professional and United States Trustee
+fees agreed to by the First Priority Representative (or the other First Priority Secured Parties) and, if not the First Priority
+Secured Parties, the Person providing such DIP Financing, as applicable, (iv) that any notice of such events found to be adequate
+by the court presiding over the Insolvency Proceeding shall be adequate notice, (v) that such DIP Financing does not compel any
+Grantor to seek confirmation of any specific plan of reorganization for which all or substantially all of the materials terms are
+set forth in the court order authorizing such DIP Financing or the accompanying financing documentation, or as may be acceptable
+to the First Priority Representative (each, acting at the direction of the respective requisite Secured Parties), (vi) will not
+oppose or object to the exercise by the First Priority Representative and the First Priority Secured Parties of the right to “credit
+bid” any of the First Priority Obligations pursuant to Section 363(k) of the Bankruptcy Code or other applicable law (or
+the amount of such credit bid), (vii) will not seek to “credit bid” any of its Secured Obligations other than its First
+Priority Obligations pursuant to Section 363(k) of the Bankruptcy Code or other applicable law, without providing for payment in
+full in cash of the First Priority Obligations upon the closing of such credit bid, and (viii) and will not propose, seek and/or
+support confirmation of any plan of reorganization to which the First Priority Representative and the First Priority Secured Parties
+have not consented in writing unless such plan provides for payment in full in cash of the First Priority Obligations. All Liens
+granted to the Intermediation Facility Secured Party, the Renewables Intermediation Facility Secured Party or the Term Loan Agent
+in any Insolvency Proceeding, whether as adequate protection or otherwise, are intended by the parties to be and shall be deemed
+to be subject to the Lien priority and the other terms and conditions of this Agreement. For clarity, none of the: (i) Term Loan
+Agent nor the Term Loan Secured Parties shall seek to “prime” the Lien of the Intermediation Facility Secured Party
+on the Intermediation Facility Priority Collateral or of the Renewables Intermediation Facility Secured Party on the Renewables
+Intermediation Facility Priority Collateral, or request, seek or receive a Lien on the Intermediation Facility Priority Collateral
+or the Renewables Intermediation Facility Priority Collateral pursuant to Section 364(d) of the Bankruptcy Code, (ii) the Intermediation
+Facility Secured Party shall not seek to “prime” the Liens of the Term Loan Agent and the Term Loan Secured Parties
+on the Term Loan Priority Collateral or of the Renewables Intermediation Facility Secured Party on the Renewables Intermediation
+Facility Priority Collateral, or request, seek or receive a Lien on the Term Loan Priority Collateral or the Renewables Intermediation
+Facility Priority Collateral pursuant to Section 364(d) of the Bankruptcy Code and (iii) the Renewables Intermediation Facility
+Secured Party shall not seek to “prime” the Liens of the Term Loan Agent and the Term Loan Secured Parties on the Term
+Loan Priority Collateral or of the Intermediation Facility Secured Party on the Intermediation Facility Priority Collateral, or
+request, seek or receive a Lien on the Term Loan Priority Collateral or the Intermediation Facility Priority Collateral pursuant
+to Section 364(d) of the Bankruptcy Code.
+
+ 
+
+ 
+
+ 
+33
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+           
+Notwithstanding the foregoing, the provisions of Section 5.02(a) permitting the provision of DIP Financing to be secured
+by Collateral to the extent the amount of such DIP Financing does not exceed the sum of (i) the aggregate outstanding principal
+amount of the applicable First Priority Obligations as of the date of commencement of any such Insolvency Proceeding (the “
+Petition
+Date
+”) plus (ii) an amount equal to 10% of the applicable First Priority Obligations as of the Petition Date. For purposes
+of this clause (b), the “principal amount” of all First Priority Obligations shall refer to the aggregate amount of
+all monetary payment obligations that are First Priority Obligations as of such date.
+
+ 
+
+Section 5.03.
+     
+
+[Reserved]
+.
+
+ 
+
+ 
+
+34
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section 5.04.
+     
+
+Adequate Protection
+. With respect to each Type of Collateral, each Representative, on behalf of itself and the other
+respective Secured Parties, agrees that none of them shall object to, contest, or support any other Person objecting to or contesting,
+(i) any request by the First Priority Representative or any other First Priority Secured Party for adequate protection with respect
+to their First Priority Liens in such Collateral, including, without limitation, in the form of Adequate Protection Liens, superpriority
+claims, interest, fees, expenses or other amounts or (ii) any objection by the First Priority Representative or any other First
+Priority Secured Party to any motion, relief, action or proceeding based on a claim of a lack of adequate protection with respect
+to such Type of Collateral or (iii) the payment of interest, fees, expenses or other amounts to the First Priority Representative
+or any other First Priority Secured Party under section 506(b) of the Bankruptcy Code or otherwise with respect to such Type of
+Collateral. Notwithstanding anything contained in this Agreement, in any Insolvency Proceeding, the Representative and the other
+Secured Parties with respect to each Type of Collateral, may seek, support, accept or retain adequate protection solely in the
+form of (v) only if the First Priority Secured Parties are granted an Adequate Protection Lien on additional or replacement collateral
+(whether consisting of existing or future assets) as adequate protection for the value of their First Priority Liens in connection
+with any DIP Financing secured by such Collateral or any use of such Collateral, an Adequate Protection Lien on such additional
+or replacement collateral, subordinated to any Liens of the First Priority Secured Parties on such additional or replacement collateral,
+(w) only if the First Priority Secured Parties are granted superpriority claims (other than any superpriority claims granted to
+First Priority Secured Parties providing DIP Financing on account of obligations with respect to such DIP Financing), superpriority
+claims junior in all respects to the superpriority claims granted to the First Priority Secured Parties, (x) payment of the fees
+and expenses of the other Secured Parties, (y) any form of adequate protection that is consistent with the priorities set forth
+in this Agreement and (z) non-monetary adequate protection that is customarily provided in an Insolvency Proceeding, including,
+without limitation, the provision of information and the ability to monitor such Type of Collateral. With respect to each Type
+of Collateral, in the event any Secured Party receives adequate protection for its Liens on such Collateral in the form of Adequate
+Protection Liens on additional or replacement collateral (whether consisting of existing or future assets), then the Representative,
+on behalf of itself and the other Secured Parties, (i) consents to the First Priority Representative having a senior Adequate Protection
+Lien on such additional or replacement collateral as adequate protection for the First Priority Liens on such Collateral and agrees
+that any such Adequate Protection Liens granted to the other Secured Parties on additional or replacement collateral shall be subordinated
+to the Liens on such additional or replacement collateral securing the First Priority Obligations and any DIP Financing (and all
+obligations relating thereto) and any Adequate Protection Liens on such replacement or additional collateral granted to the First
+Priority Secured Parties, with such subordination to be on the same terms that the other Liens on such Collateral are subordinated
+to the First Priority Liens under this Agreement and (ii) agrees that, if the court in the Insolvency Proceeding does not grant
+the First Priority Secured Parties a senior Adequate Protection Lien on such additional collateral, then the other Secured Parties
+shall be deemed to hold and have held their Adequate Protection Lien on such additional collateral for the benefit of the First
+Priority Secured Parties (and each such Lien so deemed to have been held shall be subject in all respects to the provisions of
+this Agreement, including without limitation the Lien priority provisions set forth in Section 2.01) and until the First Priority
+Obligations Payment Date, any distributions in respect of such additional collateral received by the other Secured Parties shall
+be segregated and held in trust and promptly turned over to the First Priority Representative to repay the First Priority Obligations;
+provided that, in each case, any Lien granted on any additional or replacement collateral shall be subject to this Agreement with
+its priority based on the Type of Collateral hereunder. Upon the turnover of such distributions as contemplated by the immediately
+preceding sentence, the other Secured Obligations purported to be satisfied by such distributions shall be immediately reinstated
+in full as though such payment had never occurred.
+
+ 
+
+ 
+
+35
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section 5.05.
+     
+
+Avoidance Issues
+. With respect to each Type of Collateral, if any First Priority Secured Party is required in any
+Insolvency Proceeding or otherwise to disgorge, turn over or otherwise pay to the estate of any Grantor, because such amount was
+avoided or ordered to be paid or disgorged for any reason, including because it was found to be a fraudulent or preferential transfer,
+any amount (a “
+Recovery
+”), whether received as proceeds of security, enforcement of any right of set-off, recoupment,
+or otherwise, then the First Priority Obligations shall be reinstated to the extent of such Recovery and deemed to be outstanding
+as if such payment had not occurred, and the First Priority Obligations Payment Date shall be deemed not to have occurred for all
+purposes hereunder. If this Agreement shall have been terminated prior to such Recovery, this Agreement shall be reinstated in
+full force and effect, and each such prior termination shall not diminish, release, discharge, impair or otherwise affect the obligations
+of the parties hereto with respect to such Recovery. The Secured Parties (other than the First Priority Secured Parties) with respect
+to each Type of Collateral agree that none of them shall be entitled to benefit from any avoidance action affecting or otherwise
+relating to any distribution or allocation with respect to Collateral made in accordance with this Agreement, whether by preference
+or otherwise, it being understood and agreed that the benefit of such avoidance action otherwise allocable to them shall instead
+be allocated and turned over for application in accordance with the priorities set forth in this Agreement.
+
+ 
+
+Section 5.06.
+     
+
+Asset Dispositions in an Insolvency Proceeding
+.
+
+ 
+
+(a)
+           
+With respect to each Type of Collateral, each Representative, on behalf of itself and the other Secured Parties, without
+limiting any rights under 
+Section 3.01
+, agrees that, until the First Priority Obligations Payment Date, they will not contest,
+protest or object (or support any other Person in contesting, protesting or objecting) to, will not request adequate protection
+in connection with, and will be deemed to have consented pursuant to Section 363(f) of the Bankruptcy Code or any similar
+provision of any other Debtor Relief Law to, any sale or disposition of any such Collateral free and clear of their Liens on or
+other interests in such Collateral under Section 363 or Section 1129 of the Bankruptcy Code or any similar provision of any
+other Debtor Relief Law (and to any proposed bid protections, sale procedures, retention of professionals in connection with such
+sale or disposition and other similar matters related to such sale or disposition) if the First Priority Representative consents
+in writing to the sale or disposition, in each case so long as (i) either (A) pursuant to court order, all First Priority Liens
+attach to the proceeds of the sale or disposition for application in accordance with the distribution and allocation provisions
+of 
+Section 4.01
+ (it being understood and agreed that such proceeds may not be sufficient to effect the occurrence of the
+First Priority Obligations Payment Date), or (B) the proceeds of the sale or disposition of such Collateral received by First Priority
+Representative in excess of those necessary to achieve the occurrence of the First Priority Obligations Payment Date, are distributed
+in accordance with this Agreement, the UCC and applicable law, and (ii) the rights of each Representative and Secured Parties to
+credit bid on such Collateral in any such sale or disposition in accordance with 
+Section 5.06(b)
+ are not impaired; 
+provided
+
+that the cash component of such bid must be sufficient to, and must, cause the First Priority Obligations Payment Date to occur
+immediately upon the closing of any resulting sale or disposition.
+
+ 
+
+(b)
+           
+Notwithstanding anything contained in this Agreement to the contrary, each Secured Party shall expressly have the right
+to bid or credit bid any of its Secured Obligations for or purchase the Collateral at any public, private or judicial foreclosure
+or sale of any Collateral (including a “partial credit bid”) or in an Insolvency Proceeding or otherwise; 
+provided
+
+that any such credit bid or partial credit bid of the Secured Obligations (other than the First Priority Obligations) must
+provide for the payment in full in cash of the First Priority Obligations on closing of any resulting disposition (to the extent
+then outstanding).
+
+ 
+
+(c)
+           
+If a single sale or disposition of Collateral includes any of the Intermediation Facility Priority Collateral, the Renewables
+Intermediation Facility Priority Collateral or the Term Loan Priority Collateral, the allocation of proceeds shall be as provided
+in Section 4.01(e). If the parties are unable, after negotiating in good faith, to agree on the allocation of the purchase price
+between the Intermediation Facility Priority Collateral, the Renewables Intermediation Facility Priority Collateral and the Term
+Loan Priority Collateral, as applicable, any party may apply to the court in such Insolvency Proceeding to make a determination
+of such allocation, and the court’s determination, once final and non-appealable, shall be binding upon the parties.
+
+ 
+
+ 
+
+36
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section 5.07.
+     
+
+[Reserved]
+.
+
+ 
+
+Section 5.08.
+     
+
+Plans of Reorganization
+.
+
+ 
+
+(a)
+          
+
+With respect to each Type of Collateral, if the claims of the First Priority Secured Parties and the claims held
+by the other Secured Parties constitute only one secured claim pursuant to any plan of reorganization or similar dispositive restructuring
+plan proposed in an Insolvency Proceeding (rather than separate classes of secured claims subject to the relative Lien priorities
+set forth in this Agreement), notwithstanding the objection to, and vote against, such plan by such Secured Parties in accordance
+with Section 5.07, no Secured Party other than the First Priority Secured Parties (whether in the capacity of a secured or an unsecured
+creditor) shall support or vote in favor of such plan of reorganization or similar dispositive restructuring plan unless such plan
+(i) pays off, in cash in full, all First Priority Obligations or (ii) is supported by the First Priority Representative. With respect
+to each Type of Collateral, each Representative (other than the First Priority Representative), on behalf of itself and the other
+applicable Secured Parties, further agrees that no such Secured Party (whether in the capacity of a secured or an unsecured creditor)
+shall propose, support or vote in favor of any plan of reorganization or similar dispositive restructuring plan that (i) is inconsistent
+with the priorities and other provisions of this Agreement or (ii) without the consent of the First Priority Representative or
+the support of the requisite First Priority Secured Parties in accordance with Section 1126(c) of the Bankruptcy Code, does not
+pay off, in cash in full, all First Priority Obligations on the effective date of such plan.
+
+ 
+
+(b)
+          
+
+With respect to each Type of Collateral, if, in any Insolvency Proceeding, debt obligations of the reorganized debtor
+secured by Liens upon any property of the reorganized debtor are distributed pursuant to a plan of reorganization or similar dispositive
+restructuring plan, on account of any Secured Obligations, then, to the extent the debt obligations distributed on account of the
+Secured Obligations are secured by Liens upon the same property, the provisions of this Agreement will survive the distribution
+of such debt obligations pursuant to such plan and will apply with like effect to the Liens securing such debt obligations
+
+ 
+
+Section 5.09.
+     
+
+Other Matters
+. With respect to each Type of Collateral, to the extent that any Representative or any other Secured
+Party other than the First Priority Representative or any other First Priority Secured Party has or acquires rights under Section
+363 or Section 364 of the Bankruptcy Code with respect to any of such Type of Collateral, each Representative agrees, on behalf
+of itself and the other Secured Parties, not to assert any of such rights in violation of this Agreement; provided that if requested
+by the First Priority Representative, the other Representative shall timely exercise such rights in the manner requested by the
+other Representative, including any rights to payments in respect of such rights.
+
+ 
+
+ 
+
+37
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section 5.10.
+     
+
+No Waiver of Rights of First Priority Secured Parties
+. With respect to each Type of Collateral, nothing contained
+herein shall prohibit or in any way limit the First Priority Representative or any other First Priority Secured Party from objecting
+in any Insolvency Proceeding or otherwise to any action taken by any other Secured Party in respect of the Collateral, other than
+any action taken by such other Secured Party that is expressly permitted by this Agreement.
+
+ 
+
+Section 5.11.
+     
+
+Effectiveness in Insolvency Proceedings
+. This Agreement, which the parties hereto expressly acknowledge is a “subordination
+agreement” under Section 510(a) of the Bankruptcy Code, shall be effective before, during and after the commencement of an
+Insolvency Proceeding. All references in this Agreement to any Grantor shall include such Grantor as a debtor-in-possession and
+any receiver or trustee for such Grantor in any Insolvency Proceeding, and the rights and obligations hereunder of the Secured
+Parties with respect to each Type of Collateral shall be fully enforceable as between such parties regardless of the pendency of
+Insolvency Proceedings or any related limitations on the enforcement of this Agreement against any Grantor.
+
+ 
+
+Section 5.12.
+     
+
+Section 1111 of the Bankruptcy Code
+. Until the First Priority Obligations Payment Date, no Representative nor any
+Secured Party (other than the First Priority Representative and the First Priority Secured Parties) shall seek to exercise any
+rights under Section 1111(b) of the Bankruptcy Code or any similar provision under any Debtor Relief Law. All rights of First Priority
+Secured Parties to exercise any rights under Section 1111(b) of the Bankruptcy Code or any similar provision of any other Debtor
+Relief Law, if any, are reserved and unaltered by this Agreement.
+
+ 
+
+ARTICLE
+6
+
+MATTERS RELATING TO FINANCE DOCUMENTS
+
+ 
+
+Section 6.01.
+     
+
+Amendments to Finance Documents
+.
+
+ 
+
+(a)
+           
+The Finance Documents may be amended, amended and restated, supplemented, modified, refinanced, replaced, renewed, extended
+or restructured from time to time in accordance with their terms, and the Indebtedness thereunder may be Refinanced; 
+provided
+,
+
+however
+, that no such amendment, amendment and restatement, supplement, modification, replacement, renewal, extension, restructuring
+or Refinancing shall (it being understood and agreed that any DIP Financing under Section 5.02 shall not be subject to the terms
+of this Article 6), without the consent of the Intermediation Facility Secured Parties, the Renewables Intermediation Facility
+Secured Parties and the Term Loan Required Lenders, (i) contravene any provision of this Agreement (
+provided
+, that (x) if
+the Intermediation Facility Termination Date shall have occurred, the consent of the Intermediation Facility Secured Parties shall
+not be required, (y) if the Renewables Intermediation Facility Termination Date shall have occurred, the consent of the Renewables
+Intermediation Facility Secured Parties shall not be required and (z) if the Term Loan Termination Date shall have occurred, the
+consent of the Term Loan Required Lenders shall not be required); 
+provided further 
+that, in the case of a Refinancing, the
+holders of the Indebtedness resulting from such Refinancing, or a duly authorized agent on their behalf, agree in writing to be
+bound by the terms of this Agreement, (ii) [reserved], (iii) [reserved], (iv) [reserved], (v) change (to an earlier date) the scheduled
+maturity date (as defined in the Term Loan Agreement), (vi) make the conditions to permit prepayments more restrictive and (vii)
+converting revolving loans to term loans.
+
+ 
+
+ 
+
+38
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+           
+Each of the Grantors and the Representatives agrees that each of the Term Loan Documents, the Intermediation Facility Security
+Documents and the Renewables Intermediation Facility Security Documents shall contain the applicable provisions set forth on Annex
+II hereto, or similar provisions approved by the Representatives, which approval shall not be unreasonably withheld or delayed.
+
+ 
+
+Section 6.02.
+     
+
+Consents. 
+The Term Loan Agent, the Intermediation Facility Secured Party, the Renewables Intermediation Facility
+Secured Party, the Company and the Renewables Company each hereby consent to (i) the entry into and performance of the Intermediation
+Facility Documents and the transactions thereunder, (ii) the entry into and performance of the Renewables Intermediation Facility
+Documents and the transactions thereunder and (iii) the entry into and performance of the Term Loan Documents and the transactions
+thereunder.
+
+ 
+
+ARTICLE
+7
+
+RELIANCE; WAIVERS; ETC.
+
+ 
+
+Section 7.01.
+     
+
+Reliance
+. The First Priority Documents with respect to each Type of Collateral are deemed to have been executed and
+delivered, and all extensions of credit thereunder are deemed to have been made or incurred, in reliance upon this Agreement. With
+respect to each Type of Collateral, the Representative, on behalf of it itself and the other applicable Secured Parties, expressly
+waives all notice of the acceptance of and reliance on this Agreement by the other Secured Parties.
+
+ 
+
+Section 7.02.
+     
+
+No Warranties or Liability
+. The First Priority Representative with respect to each Type of Collateral acknowledges
+and agrees that it has not made any express or implied representation or warranty including with respect to the execution, validity,
+legality, completeness, collectability or enforceability of any First Priority Document or the ownership of any Type of Collateral.
+Except as otherwise provided in this Agreement and the First Priority Representative with respect to each Type of Collateral will
+be entitled to manage and supervise their respective extensions of credit to any Grantor in accordance with law and their usual
+practices, modified from time to time as they deem appropriate.
+
+ 
+
+Section 7.03.
+     
+
+No Waivers
+. No right or benefit of any party hereunder shall at any time in any way be prejudiced or impaired by
+any act or failure to act on the part of such party or any other party hereto or by any noncompliance by any Grantor with the
+terms and conditions of any of the Finance Documents. Until the First Priority Obligations Payment Date the other Secured Parties
+agree not to assert and hereby waive, to the fullest extent permitted by law, any right to demand, request, plead or otherwise
+assert or otherwise claim the benefit of, any appraisal, valuation or other similar right that may otherwise be available under
+applicable law with respect to the Collateral or any other similar rights a junior secured creditor may have under applicable
+law. 
+
+ 
+
+ 
+
+ 
+39
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section 7.04.
+     
+
+Obligations Unconditional
+. All rights, interests, agreements and obligations of the Intermediation Facility Representative,
+the Intermediation Facility Secured Parties, the Renewables Intermediation Facility Representative, the Renewables Intermediation
+Facility Secured Parties and the Term Loan Agent and the Term Loan Secured Parties, respectively, hereunder shall remain in full
+force and effect irrespective of:
+
+ 
+
+(a)
+           
+any lack of validity or enforceability of any First Priority Document and regardless of whether the Liens of the First Priority
+Secured Parties are not perfected or are voidable for any reason;
+
+ 
+
+(b)
+           
+any change in the time, manner or place of payment of, or in any other terms of, all or any of the First Priority Obligations,
+or any amendment or waiver or other modification, including any increase in the amount thereof or any refinancing, whether by course
+of conduct or otherwise, of the terms of any First Priority Document;
+
+ 
+
+(c)
+           
+any exchange, release or lack of perfection of any Lien on any Type of Collateral or any other asset, or any amendment,
+waiver or other modification, whether in writing or by course of conduct or otherwise, of all or any of the First Priority Obligations
+or any guarantee thereof;
+
+ 
+
+(d)
+           
+the commencement of any Insolvency Proceeding in respect of any Grantor; or
+
+ 
+
+(e)
+           
+any other circumstances which otherwise might constitute a defense available to, or a discharge of, any Grantor in respect
+of any Secured Obligation or of any Secured Party (other than the applicable First Priority Secured Party) in respect of this Agreement.
+
+ 
+
+ARTICLE
+8
+
+MISCELLANEOUS
+
+ 
+
+Section 8.01.
+     
+
+Conflicts
+. Except as otherwise provided herein, in the event of any conflict between the provisions of this Agreement
+and the provisions of any First Priority Document, the provisions of this Agreement shall govern.
+
+ 
+
+Section 8.02.
+     
+
+Continuing Nature of Provisions
+. This Agreement shall continue to be effective, and shall not be revocable by any
+party hereto, until the First Priority Obligations Payment Date shall have occurred with respect to each Type of Collateral. This
+is a continuing agreement and the First Priority Secured Parties may continue, at any time and without notice to the other parties
+hereto, to extend credit and other financial accommodations, lend monies and provide indebtedness to, or for the benefit of, any
+Grantor on the faith hereof.
+
+ 
+
+Section 8.03.
+     
+
+Amendments; Waivers
+. No amendment or modification of any of the provisions of this Agreement shall be effective unless
+the same shall be in writing and signed by each of the Intermediation Facility Representative, the Renewables Intermediation Facility
+Representative and the Term Loan Agent, and, in the case of amendments or modifications that adversely affect the rights, duties
+or obligations of the Company and the Renewables Company, the Company and the Renewables Company.
+
+ 
+
+Section 8.04.
+     
+
+Information Concerning Financial Condition of the Company and the Renewables Company
+. With respect to each Type of
+Collateral, the First Priority Representative, on behalf of itself and the other First Priority Secured Parties, hereby agree that
+each Secured Party assumes responsibility for keeping itself informed of the financial condition of the relevant Grantors and all
+other circumstances bearing upon the risk of nonpayment of the First Priority Obligations. With respect to each Type of Collateral,
+the Secured Parties, and the Representatives, on behalf of itself and the other Secured Parties, hereby agree that no party shall
+have any duty to advise any other party of information known to it regarding such condition or any such circumstances. In the event
+any Secured Party, in its sole discretion, undertakes at any time or from time to time to provide any information to any other
+Secured Party, it shall be under no obligation (a) to provide any such information to such other party or any other party on any
+subsequent occasion, (b) to undertake any investigation or (c) to disclose any other information.
+
+ 
+
+ 
+
+ 
+40
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section 8.05.
+     
+
+Additional Grantors
+. The Grantors agree that, if any Person shall become a Subsidiary of the Company or the Renewables
+Company to the extent it owns any assets that would constitute Renewables Intermediation Facility Priority Collateral or Intermediation
+Facility Priority Collateral after the Amendment and Restatement Date, it will promptly cause such Subsidiary to become a Grantor
+hereto by executing and delivering an instrument in the form of Annex III. The Grantors agree that, if any Person shall become
+a Subsidiary of the Parent that is not required to become a Grantor under the foregoing sentence after the Amendment and Restatement
+Date, it will promptly cause such Subsidiary to become an Acknowledging Affiliate. Whether or not such instrument is executed and
+delivered, such Person shall be bound as a Grantor hereunder with the same force and effect as if originally named as a Grantor
+herein. The execution and delivery of such instrument shall not require the consent of any other party hereunder and will be acknowledged
+by the Representatives. The rights and obligations of each Grantor hereunder shall remain in full force and effect notwithstanding
+the addition of any new Grantor as a party to this Agreement.
+
+ 
+
+Section 8.06.
+     
+
+GOVERNING LAW; JURISDICTION; CONSENT TO SERVICE OF PROCESS
+.
+
+ 
+
+(a)
+           
+THIS AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER THIS AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED AND
+INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+
+ 
+
+(b)
+           
+Each party hereto hereby irrevocably and unconditionally submits, for itself and its property, to the exclusive jurisdiction
+of the Supreme Court of the State of New York sitting in New York County and of the United States District Court of the Southern
+District of New York, and any appellate court from any thereof, in any action or proceeding arising out of or relating to this
+Agreement, or for recognition or enforcement of any judgment, and each of the parties hereto hereby irrevocably and unconditionally
+agrees that all claims in respect of any such action or proceeding will be heard and determined in such New York State or, to the
+extent permitted by law, in such Federal court. Each of the parties hereto agrees that a final judgment in any such action or proceeding
+shall be conclusive and may be enforced in other jurisdictions by suit on the judgment or in any other manner provided by law.
+Nothing in this Agreement shall affect any right that any party may otherwise have to bring any action or proceeding relating to
+this Agreement against any other party or their respective properties in the courts of any jurisdiction.
+
+ 
+
+(c)
+           
+Each party hereto hereby irrevocably and unconditionally waives, to the fullest extent it may legally and effectively do
+so, any objection which it may now or hereafter have to the laying of venue of any suit, action or proceeding arising out of or
+relating to this Agreement in any court referred to in Section 8.06(b). Each of the parties hereto hereby irrevocably waives, to
+the fullest extent permitted by law, the defense of an inconvenient forum to the maintenance of such action or proceeding in any
+such court.
+
+ 
+
+ 
+
+ 
+41
+
+ 
+
+ 
+
+ 
+
+ 
+
+(d)
+           
+Each party to this Agreement irrevocably consents to service of process in the manner provided for notices in Section 8.08.
+Nothing in this Agreement will affect the right of any party to this Agreement to serve process in any other manner permitted by
+law.
+
+ 
+
+Section 8.07.
+     
+
+WAIVER OF JURY TRIAL. EACH PARTY HERETO HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVE TRIAL BY JURY IN ANY LEGAL ACTION
+OR PROCEEDING RELATING TO THIS AGREEMENT OR ANY OTHER FINANCE DOCUMENT AND FOR ANY COUNTERCLAIM THEREIN OR RELATED THERETO.
+Section
+8.08.
+ 
+
+Notices
+.
+
+ 
+
+(a)
+           
+Unless otherwise specifically provided herein, any notice or other communication herein required or permitted to be given
+shall be in writing and shall be delivered by hand or overnight courier service, mailed by certified or registered mail or sent
+by telecopy, as follows:
+
+ 
+
+(i)
+          
+If to a Grantor:
+
+ 
+
+Vertex Refining Alabama LLC
+
+1331 Gemini, #250
+
+Houston, Texas 77058
+
+Attention: Ben Cowart, President
+
+E-mail: benc@vertexenergy.com
+
+ 
+
+with a copy to (which shall not constitute notice):
+
+ 
+
+Stroock & Stroock & Lavan LLP
+
+180 Maiden Lane
+
+New York, NY 10038
+
+Attention: Scott Le Bouef; Brian Rogers
+
+Email: slebouef@stroock.com; brogers@stroock.com
+
+ 
+
+(ii)
+         
+If to Cantor Fitzgerald Securities, as Term Loan Agent:
+
+ 
+
+Cantor Fitzgerald Securities, as Agent
+
+110 East 59th Street
+
+New York, NY 10022
+
+Attn: M. Bennett/Contract Management (Vertex)
+
+E-mail: CantorContractManagement-NY@cantor.com;
+
+ 
+Michael.Bennett@cantor.com
+
+ 
+
+with a copy to:
+
+ 
+
+Cantor Fitzgerald Securities
+
+900 West Trade, Suite 725
+
+ 
+
+Charlotte, NC 28202
+
+Attn: B. Young
+
+Email: 
+BYoung@cantor.com
+
+ 
+
+ 
+
+ 
+42
+
+ 
+
+ 
+
+ 
+
+  
+
+With a copy to (which shall not constitute notice):
+
+ 
+
+Shipman & Goodwin LLP
+
+One Constitution Plaza
+
+Hartford, CT 06103
+
+Attention: Nate Plotkin
+
+Email: nplotkin@goodwin.com
+
+ 
+
+(iii)
+            
+
+If to Macquarie Energy North America Trading Inc., as Intermediation Facility Representative or as Renewables Intermediation
+Facility Representative:
+
+ 
+
+All Legal Notices:
+
+ 
+
+Macquarie Energy North America Trading Inc.
+
+500 Dallas Street, Suite 3300
+
+Houston, Texas 77002
+
+Attn: Legal Risk Management Department
+
+Email: CGMLegalHouston@macquarie.com
+
+ 
+
+Deal Management
+:
+
+ 
+
+500 Dallas Street, Suite 3300
+
+Houston, Texas 77002
+
+Attn: US Deal Management Team
+
+Email: cfmemdvertexoperations@macquarie.com and 
+
+CGMCMFVertexRenewables@macquarie.com
+
+ 
+
+(iv)
+            
+
+If to the Lenders:
+
+ 
+
+with a copy to:
+
+ 
+
+Sidley Austin LLP
+
+787 7th Avenue
+
+New York, NY 10019
+
+Attention: Leslie Plaskon, Michele Nudelman
+
+Email: lplaskon@sidley.com; mnudelman@sidley.com
+
+ 
+
+(b)
+           
+The parties hereto may, in their discretion, agree to accept notices and other communications to it hereunder by electronic
+communications pursuant to procedures approved by it; 
+provided
+ that approval of such procedures may be limited to particular
+notices or communications. All notices hereunder shall be deemed to have been given when received at the address, electronic mail,
+or telecopy set forth above.
+
+ 
+
+ 
+
+ 
+43
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section 8.09.
+     
+
+Successors and Assigns
+. This Agreement shall be binding upon and inure to the benefit of each of the parties hereto
+and each of the Secured Parties and their respective successors and permitted assigns, and nothing herein is intended, or shall
+be construed to give, any other Person any right, remedy or claim under, to or in respect of this Agreement, any Collateral or
+any Type thereof, any Intermediation Title Property or any Renewables Intermediation Title Property. All references to any Grantor
+shall include any Grantor as debtor-in-possession and any receiver or trustee for such Grantor in any Insolvency Proceeding.
+
+ 
+
+Section 8.10.
+     
+
+Headings
+. Section headings used herein are for convenience of reference only, are not part of this Agreement and
+shall not affect the construction of, or be taken into consideration in interpreting, this Agreement.
+
+ 
+
+Section 8.11.
+     
+
+Further Assurances
+. The First Priority Representative, on behalf of itself and the First Priority Secured Parties,
+the Company and the Renewables Company agree that each of them shall take (and, in the case of the Company and the Renewables Company,
+shall each cause the other Grantors to take, to the extent applicable) such further action and shall execute and deliver such additional
+documents and instruments (in recordable form, if requested) as the First Priority Representative may reasonably request, at the
+expense of the Grantors, to effectuate the terms of and the Lien priorities contemplated by this Agreement.
+
+ 
+
+Section 8.12.
+     
+
+Subrogation
+. With respect to the value of any payments or distributions in cash, property or other assets that any
+Representative pays over to the First Priority Secured Parties under the terms of this Agreement, the other junior Secured Parties
+shall be subrogated to the rights of the First Priority Secured Parties; provided, that, the other Representatives hereby agrees
+not to assert or enforce any such rights of subrogation it may acquire as a result of any payment hereunder until the First Priority
+Obligations Payment Date has occurred. The Company and Renewables Company each acknowledge and agree that the value of any payments
+or distributions in cash, property or other assets so paid over shall not reduce any of the payor’s Secured Obligations.
+
+ 
+
+Section 8.13.
+     
+
+Severability
+. Any provision of this Agreement held to be invalid, illegal or unenforceable in any jurisdiction shall,
+as to such jurisdiction, be ineffective to the extent of such invalidity, illegality or unenforceability without affecting the
+validity, legality and enforceability of the remaining provisions hereof; and the invalidity of a particular provision in a particular
+jurisdiction shall not invalidate such provision in any other jurisdiction.
+
+ 
+
+Section 8.14.
+     
+
+Counterparts; Integration; Effectiveness
+. This Agreement may be executed in counterparts (and by different parties
+hereto on different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute
+a single contract. Delivery of an executed counterpart of a signature page of this Agreement by telecopy or electronic transmission
+(e.g., “pdf” file) shall be effective as delivery of a manually executed counterpart of this Agreement. This Agreement
+shall become effective when it shall have been executed by each party hereto.
+
+ 
+
+ 
+
+44
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section 8.15.
+     
+
+Provisions Solely to Define Relative Rights
+. The provisions of this Agreement are and are intended solely for the
+purpose of defining the relative rights as between each of the (i) Intermediation Facility Secured Party, (ii) the Renewables Intermediation
+Facility Secured Party and (iii) the Term Loan Agent and the Term Loan Secured Parties, with respect to (x) the Collateral, (y)
+the Intermediation Title Property and the Intermediation Facility Priority Collateral and (z) the Renewables Intermediation Title
+Property and the Renewables Intermediation Facility Priority Collateral. Nothing in this Agreement shall create vary or modify
+the rights or duties of the Term Loan Secured Parties, inter se, under the Term Loan Documents, the rights or duties of the Intermediation
+Facility Secured Parties under the Intermediation Facility Documents or the rights or duties of the Renewables Intermediation Facility
+Secured Parties under the Renewables Intermediation Facility Documents. Except with respect to liability for breach of an obligation
+under this Agreement, no Representative shall have any liability to any other party hereto relating to this Agreement or the matters
+contemplated hereby.
+
+ 
+
+Section 8.16.
+     
+
+No Third Party Beneficiaries
+. This Agreement and the rights and benefits hereof shall inure to the benefit of each
+of the parties hereto and its respective successors and assigns and shall inure to the benefit of and bind each of First Priority
+Secured Parties and the other Secured Parties. Subject to Section 8.03, in no event shall any Grantor be a party to or a third
+party beneficiary of this Agreement.
+
+ 
+
+Section 8.17.
+     
+
+Concerning the Term Loan Agent
+. Except as expressly set forth herein, the Term Loan Agent shall not have any duties
+or obligations in respect of any of the Collateral, all of such duties and obligations, if any, being subject to and governed by
+the applicable Term Loan Documents. To the extent that it does not supersede or contradict any of the terms set forth in this Agreement,
+it is understood and agreed that Cantor Fitzgerald Securities is entering into this Agreement in its capacity as collateral agent
+under the Term Loan Agreement and the provisions of the Term Loan Agreement applicable to Cantor Fitzgerald Securities as collateral
+agent thereunder (including its rights, privileges, immunities and indemnities) shall also apply to Cantor Fitzgerald Securities
+as Term Loan Agent hereunder.
+
+ 
+
+ARTICLE
+9
+
+AGREEMENTS WITH RESPECT TO INTERMEDIATION TITLE PROPERTY
+
+ 
+
+Section 9.01.
+     
+
+Turnover
+. Unless and until the Discharge of Intermediation Facility Obligations, in the event that any of the Term
+Loan Agent or the Term Loan Secured Parties now or hereafter obtains possession of any Intermediation Title Property and is actually
+aware thereof, such Person shall immediately deliver to the Intermediation Facility Representative (or as the Intermediation Facility
+Representative may reasonably direct), at the expense of the Grantors, such Intermediation Title Property in whatever form possessed
+by the Term Loan Agent or the Term Loan Secured Parties (and until delivered to the Intermediation Facility Representative such
+Intermediation Title Property shall be held in trust for the Intermediation Facility Representative for itself and for the benefit
+of the other Intermediation Facility Secured Parties).
+
+ 
+
+Section 9.02.
+     
+
+UCC Notices
+. In the event that any party hereto shall be required by the UCC or any other applicable law to give
+notice to the other of an intended disposition of Intermediation Title Property or Collateral, respectively, such notice shall
+be given in accordance with Section 8.08 hereof and ten (10) days’ notice shall be deemed to be commercially reasonable.
+
+ 
+
+Section 9.03.
+     
+
+Further Assurances with Respect to Intermediation Title Property. 
+Each of the Intermediation Facility Representative
+and the Term Loan Agent agrees to take such actions as may be reasonably requested by the other party, whether before, during or
+after an exercise by any Intermediation Facility Secured Party of any rights or remedies with respect to any Intermediation Title
+Property, in order to effectuate the terms and Lien priorities hereof and to otherwise give effect to the provisions of this Agreement
+including, without limitation, to the extent that such party has the ability to do so, to allow access to and removal of their
+respective assets and collateral.
+
+ 
+
+ 
+
+45
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section 9.04.
+     
+
+Additional Understanding and Agreements with Respect to Intermediation Title Property
+. Each of the parties hereto
+agrees that:
+
+ 
+
+(a)
+           
+nothing in this Agreement impairs or otherwise adversely affects any rights or remedies (including any netting, right of
+set-off or recoupment under any of the Intermediation Facility Documents) that the Intermediation Facility Secured Parties may
+have with respect to that Intermediation Title Property; provided that in no event shall (x) any Intermediation Facility Obligations
+whether by netting, right of set-off, recoupment or assertion of any claims whatsoever, including by any Affiliate of any Intermediation
+Facility Secured Parties be added to the Term Loan Obligations or (y) any Term Loan Obligations whether by netting, right of set-off,
+recoupment or assertion of any claims whatsoever, including by any Affiliate of any Intermediation Facility Secured Parties be
+permitted to be asserted against the Intermediation Facility Priority Collateral;
+
+ 
+
+(b)
+           
+nothing in this Agreement is intended to impair or shall impair the obligations of any Grantor, which obligations are absolute
+and unconditional, to pay the Intermediation Facility Obligations and the Term Loan Obligations as and when the same shall become
+due and payable in accordance with their terms (after giving effect to any netting, rights of set-off or recoupment under the Intermediation
+Facility Documents); provided that in no event shall (x) any Intermediation Facility Obligations whether by netting, rights of
+set-off, recoupment, or assertion of any claims whatsoever, including by any Affiliate of any Intermediation Facility Secured Parties
+be added in the Term Loan Obligations or (y) any Term Loan Obligations whether by netting, rights of set-off, recoupment or assertion
+of any claims whatsoever, including by any Affiliate of any Intermediation Facility Secured Parties be permitted to be asserted
+against the Intermediation Facility Priority Collateral; and
+
+ 
+
+(c)
+           
+for the avoidance of doubt, the Intermediation Facility Secured Party shall be entitled to sell Intermediation Facility
+Priority Collateral and Intermediation Title Property free and clear of all Liens of the Term Loan Agent.
+
+ 
+
+Section 9.05.
+     
+
+Additional Understanding and Agreements of the Term Loan Agent
+. Notwithstanding any rights or remedies (if any) available
+under the Term Loan Documents, any related documents, the UCC, other applicable law or otherwise, the Term Loan Agent (on behalf
+of itself and the other Term Loan Secured Parties) shall not:
+
+ 
+
+(a)
+           
+contest, protest or object to, or support any other person in contesting, protesting or objecting to, in any proceeding
+or action (including any bankruptcy, insolvency or liquidation proceeding) the Intermediation Facility Secured Parties’ title
+to or ownership of, or other rights in, all or any part of the Intermediation Title Property;
+
+ 
+
+ 
+
+ 
+46
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+           
+directly or indirectly, exercise or seek to exercise any rights or remedies with respect to any of the Intermediation Title
+Property or institute any action or proceeding with respect to such rights or remedies, including any action to foreclose, execute,
+levy, collect on, take possession or control of, sell or otherwise realize upon any of the Intermediation Title Property (and to
+the extent the Term Loan Agent receives proceeds of any such actions, the Term Loan Agent shall hold such proceeds in trust for
+the Intermediation Facility Secured Party and promptly pay over such proceeds to the Intermediation Facility Secured Party in the
+form received with all necessary endorsements); or
+
+ 
+
+(c)
+           
+contest, protest or object to, or support any other person in contesting, protesting or objecting to, in any proceeding
+or action (including any bankruptcy, insolvency or liquidation proceeding) any proceeding or action brought by or on behalf of
+the Intermediation Facility Secured Parties to execute, levy, collect on, take possession or control of, sell or otherwise realize
+upon any of the Intermediation Title Property, or any other exercise by or on behalf of the Intermediation Facility Secured Parties
+of any rights and remedies relating to, the Intermediation Title Property under the Intermediation Documents, the UCC, other applicable
+law or otherwise.
+
+ 
+
+ARTICLE
+10
+
+ 
+
+AGREEMENTS WITH RESPECT
+TO RENEWABLES INTERMEDIATION TITLE PROPERTY
+
+ 
+
+Section 10.01.
+ 
+
+Turnover
+. Unless and until the Discharge of Renewables Intermediation Facility Obligations, in the event that any
+of the Term Loan Agent or the Term Loan Secured Parties now or hereafter obtains possession of any Renewables Intermediation Title
+Property and is actually aware thereof, such Person shall immediately deliver to the Renewables Intermediation Facility Representative
+(or as the Renewables Intermediation Facility Representative may reasonably direct), at the expense of the Grantors, such Renewables
+Intermediation Title Property in whatever form possessed by the Term Loan Agent or the Term Loan Secured Parties (and until delivered
+to the Renewables Intermediation Facility Representative such Renewables Intermediation Title Property shall be held in trust for
+the Renewables Intermediation Facility Representative for itself and for the benefit of the other Renewables Intermediation Facility
+Secured Parties).
+
+ 
+
+Section 10.02.
+ 
+
+UCC Notices
+. In the event that any party hereto shall be required by the UCC or any other applicable law to give
+notice to the other of an intended disposition of Renewables Intermediation Title Property or Collateral, respectively, such notice
+shall be given in accordance with Section 8.08 hereof and ten (10) days’ notice shall be deemed to be commercially reasonable.
+
+ 
+
+Section 10.03.
+ 
+
+Further Assurances with Respect to Renewables Intermediation Title Property. 
+Each of the Renewables Intermediation
+Facility Representative and the Term Loan Agent agrees to take such actions as may be reasonably requested by the other party,
+whether before, during or after an exercise by any Renewables Intermediation Facility Secured Party of any rights or remedies with
+respect to any Renewables Intermediation Title Property, in order to effectuate the terms and Lien priorities hereof and to otherwise
+give effect to the provisions of this Agreement including, without limitation, to the extent that such party has the ability to
+do so, to allow access to and removal of their respective assets and collateral.
+
+ 
+
+ 
+
+ 
+47
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section 10.04.
+ 
+
+Additional Understanding and Agreements with Respect to Renewables Intermediation Title Property
+. Each of the parties
+hereto agrees that:
+
+ 
+
+(a)
+           
+nothing in this Agreement impairs or otherwise adversely affects any rights or remedies (including any netting, right of
+set-off or recoupment under any of the Renewables Intermediation Facility Documents) that the Renewables Intermediation Facility
+Secured Parties may have with respect to that Renewables Intermediation Title Property; provided that in no event shall (x) any
+Renewables Intermediation Facility Obligations whether by netting, right of set-off, recoupment or assertion of any claims whatsoever,
+including by any Affiliate of any Renewables Intermediation Facility Secured Parties be added to the Term Loan Obligations or (y)
+any Term Loan Obligations whether by netting, right of set-off, recoupment or assertion of any claims whatsoever, including by
+any Affiliate of any Renewables Intermediation Facility Secured Parties be permitted to be asserted against the Renewables Intermediation
+Facility Priority Collateral;
+
+ 
+
+(b)
+           
+nothing in this Agreement is intended to impair or shall impair the obligations of any Grantor, which obligations are absolute
+and unconditional, to pay the Renewables Intermediation Facility Obligations and the Term Loan Obligations as and when the same
+shall become due and payable in accordance with their terms (after giving effect to any netting, rights of set-off or recoupment
+under the Renewables Intermediation Facility Documents); provided that in no event shall (x) any Renewables Intermediation Facility
+Obligations whether by netting, rights of set-off, recoupment, or assertion of any claims whatsoever, including by any Affiliate
+of any Renewables Intermediation Facility Secured Parties be added in the Term Loan Obligations or (y) any Term Loan Obligations
+whether by netting, rights of set-off, recoupment or assertion of any claims whatsoever, including by any Affiliate of any Renewables
+Intermediation Facility Secured Parties be permitted to be asserted against the Renewables Intermediation Facility Priority Collateral;
+and
+
+ 
+
+(c)
+           
+for the avoidance of doubt, the Renewables Intermediation Facility Secured Party shall be entitled to sell Renewables Intermediation
+Facility Priority Collateral and Renewables Intermediation Title Property free and clear of all Liens of the Term Loan Agent.
+
+ 
+
+Section 10.05.
+ 
+
+Additional Understanding and Agreements of the Term Loan Agent
+. Notwithstanding any rights or remedies (if any) available
+under the Term Loan Documents, any related documents, the UCC, other applicable law or otherwise, the Term Loan Agent (on behalf
+of itself and the other Term Loan Secured Parties) shall not:
+
+ 
+
+(a)
+           
+contest, protest or object to, or support any other person in contesting, protesting or objecting to, in any proceeding
+or action (including any bankruptcy, insolvency or liquidation proceeding) the Renewables Intermediation Facility Secured Parties’
+title to or ownership of, or other rights in, all or any part of the Renewables Intermediation Title Property;
+
+ 
+
+ 
+
+ 
+48
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+           
+directly or indirectly, exercise or seek to exercise any rights or remedies with respect to any of the Renewables Intermediation
+Title Property or institute any action or proceeding with respect to such rights or remedies, including any action to foreclose,
+execute, levy, collect on, take possession or control of, sell or otherwise realize upon any of the Renewables Intermediation Title
+Property (and to the extent the Term Loan Agent receives proceeds of any such actions, the Term Loan Agent shall hold such proceeds
+in trust for the Renewables Intermediation Facility Secured Party and promptly pay over such proceeds to the Renewables Intermediation
+Facility Secured Party in the form received with all necessary endorsements); or
+
+ 
+
+(c)
+           
+contest, protest or object to, or support any other person in contesting, protesting or objecting to, in any proceeding
+or action (including any bankruptcy, insolvency or liquidation proceeding) any proceeding or action brought by or on behalf of
+the Renewables Intermediation Facility Secured Parties to execute, levy, collect on, take possession or control of, sell or otherwise
+realize upon any of the Renewables Intermediation Title Property, or any other exercise by or on behalf of the Renewables Intermediation
+Facility Secured Parties of any rights and remedies relating to, the Renewables Intermediation Title Property under the Renewables
+Intermediation Documents, the UCC, other applicable law or otherwise.
+
+ 
+
+[SIGNATURE PAGES FOLLOW]
+
+ 
+
+ 
+
+ 
+49
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN WITNESS WHEREOF,
+the parties hereto have executed this Agreement as of the date first written above.
+
+ 
+
+ 
+
+GRANTORS
+:
+
+ 
+
+VERTEX
+ REFINING ALABAMA LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Benjamin P. Cowart
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin P. Cowart
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President and Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VERTEX
+ RENEWABLES ALABAMA LLC 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin P.
+Cowart 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+and Chief Executive Officer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ACKNOWLEDGING AFFILIATES:
+
+ 
+
+VERTEX
+ ENERGY, INC. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Benjamin
+P. Cowart 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin P.
+Cowart 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+and Chief Executive Officer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VERTEX
+ ENERGY OPERATING, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin
+P. Cowart
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+and Chief Executive Officer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VERTEX
+ REFINING, LA, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin P.
+Cowart 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+and Chief Executive Officer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Signature Page to Amended and Restated
+Intercreditor Agreement]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VERTEX
+ RECOVERY MANAGEMENT, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Benjamin P. Cowart
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+Benjamin P. Cowart
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+and Chief Executive Officer   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VERTEX
+ REFINING NV, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+ Benjamin
+P. Cowart
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+and Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VERTEX
+ SPLITTER CORPORATION
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin P.
+Cowart 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+and Chief Executive Officer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VERTEX
+ REFINING MYRTLE GROVE LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin P.
+Cowart 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+and Chief Executive Officer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CRYSTAL
+ ENERGY, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+/s/ Benjamin P. Cowart
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+Benjamin P. Cowart 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+and Chief Executive Officer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Signature Page to Amended and Restated
+Intercreditor Agreement]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VERTEX
+ ACQUISITION SUB, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+/s/ Benjamin P. Cowart
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin P.
+Cowart
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+and Chief Executive Officer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BANGO
+ OIL LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin P.
+Cowart 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+and Chief Executive Officer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CEDAR
+ MARINE TERMINALS, L.P.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin P.
+Cowart 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+and Chief Executive Officer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CROSSROAD
+ CARRIERS, L.P.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin P.
+Cowart 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+and Chief Executive Officer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VERTEX
+ RECOVERY, L.P.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin P.
+Cowart 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+and Chief Executive Officer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+H&H
+ OIL, L.P.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Benjamin P. Cowart 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Benjamin P.
+Cowart 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+and Chief Executive Officer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Signature Page to Amended and Restated
+Intercreditor Agreement]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+VERTEX II GP, LLC
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+By:
+
+ 
+/s/ Benjamin P. Cowart
+
+ 
+ 
+
+ 
+Name:
+
+ 
+Benjamin P. Cowart 
+
+ 
+ 
+
+ 
+Title:
+
+ 
+President and Chief Executive Officer 
+
+ 
+
+[Signature Page to Amended and Restated
+Intercreditor Agreement]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CANTOR
+ FITZGERALD SECURITIES
+,
+
+ as Term Loan Agent
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+/s/ James Buccola
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+James Buccola 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Head of Fixed
+ Income 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MACQUARIE
+ ENERGY NORTH AMERICA TRADING INC.
+,
+
+ 
+
+as
+ Intermediation Facility Secured Party
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Brian Houstoun
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Brian Houstoun
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Senior Managing
+ Director 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+/s/ Travis McCullough
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Travis McCullough
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title: 
+
+ 
+
+Division Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+MACQUARIE
+ ENERGY NORTH AMERICA TRADING INC.
+,
+
+ 
+
+as
+ Renewables Intermediation Facility Secured Party
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+/s/ Brian Houstoun
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Brian Houstoun
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Senior Managing
+ Director 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+/s/ Travis McCullough
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Travis McCullough
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Division Director 
+
+ 
+
+[Signature Page to Amended and Restated
+Intercreditor Agreement]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANNEX I
+
+ 
+
+[Reserved]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANNEX II
+
+ 
+
+Provision for the Finance Agreements
+
+ 
+
+“Reference is made to the Amended
+and Restated Intercreditor Agreement, dated as of May 26, 2023 (as amended, restated, amended and restated, supplemented, modified,
+extended, renewed, replaced, refinanced or restructured from time to time, the “Intercreditor Agreement”), by and among
+Cantor Fitzgerald Securities, as agent for the Term Loan Secured Parties (as defined therein), Macquarie Energy North America Trading
+Inc., as Intermediation Facility Secured Party (as defined therein), Macquarie Energy North America Trading Inc., as Renewables
+Intermediation Facility Secured Party (as defined therein), Vertex Refining Alabama LLC and Vertex Renewables Alabama LLC, as Grantors
+(as defined therein) and the Acknowledging Affiliates (as defined therein). Notwithstanding any provisions in this Agreement or
+any other Loan Document to the contrary, the terms, conditions and provisions of this Agreement and the other Loan Documents are
+subject to the terms of the Amended and Restated Intercreditor Agreement. To the extent there is a conflict between the Loan Documents
+and the Amended and Restated Intercreditor Agreement, the terms and conditions of the Amended and Restated Intercreditor Agreement
+shall control.”
+
+ 
+
+Provision for each Security Documents
+
+ 
+
+“Reference is made to the Amended
+and Restated Intercreditor Agreement, dated as of May 26, 2023 (as amended, restated, amended and restated, supplemented, modified,
+extended, renewed, replaced, refinanced or restructured from time to time, the “Intercreditor Agreement”), by and among
+Cantor Fitzgerald Securities, as agent for the Term Loan Secured Parties (as defined therein), Macquarie Energy North America Trading
+Inc., as Intermediation Facility Secured Party (as defined therein), Macquarie Energy North America Trading Inc., as Renewables
+Intermediation Facility Secured Party (as defined therein), Vertex Refining Alabama LLC and Vertex Renewables Alabama LLC, as Grantors
+(as defined therein) and the Acknowledging Affiliates (as defined therein). Notwithstanding anything herein to the contrary, the
+lien and security interest granted to the [Administrative Agent][Collateral Agent][Intermediation Facility Secured Party][Renewables
+Intermediation Facility Secured Party], [for the benefit of the Secured Parties], pursuant to this Agreement and the exercise of
+any right or remedy by the [Administrative Agent][Collateral Agent][Intermediation Facility Secured Party][Renewables Intermediation
+Facility Secured Party][and the other Secured Parties hereunder] are subject to the provisions of the Amended and Restated Intercreditor
+Agreement. In the event of any conflict or inconsistency between the provisions of the Amended and Restated Intercreditor Agreement
+and this Agreement, the provisions of the Amended and Restated Intercreditor Agreement shall control.”
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANNEX III
+
+ 
+
+JOINDER
+AGREEMENT
+
+ 
+
+THIS JOINDER AGREEMENT
+(this “
+Joinder Agreement
+”), dated as of __________, 20
+__
+, to the AMENDED AND RESTATED INTERCREDITOR AGREEMENT
+dated May 26, 2023 (as amended, restated, amended and restated, supplemented, modified, extended, renewed, replaced, refinanced
+or restructured from time to time, the “
+Intercreditor Agreement
+”), by and among Cantor Fitzgerald Securities,
+as agent (in such capacity, with its successors and assigns, the “
+Term Loan Agent
+”) for the Term Loan Secured
+Parties, 
+Macquarie Energy North America Trading Inc.
+, (including its successors and assigns from time to time, the “
+Intermediation
+Facility Secured Party
+”), 
+Macquarie Energy North America Trading Inc.
+, (including its successors and assigns from
+time to time, the “
+Renewables Intermediation Facility Secured Party
+”), Vertex Refining Alabama LLC and Vertex
+Renewables Alabama LLC (collectively, as “
+Grantors
+”) and the other parties thereto as Acknowledging Affiliates,
+is executed by __________________, a _________________ (the “
+Additional Grantor
+”) in favor of the Term Loan
+Agent, the Intermediation Facility Secured Party and the Renewables Intermediation Facility Secured Party (collectively, the “
+Representatives
+”).
+All capitalized terms used herein and not otherwise defined shall have the meanings set forth in the Intercreditor Agreement.
+
+ 
+
+The Additional Grantor,
+for the benefit of the Representatives, hereby agrees as follows:
+
+ 
+
+(d)
+         
+The Additional Grantor hereby acknowledges the Intercreditor Agreement and acknowledges, agrees and confirms that, by its
+execution of this Joinder Agreement, the Additional Grantor will be deemed to be a Grantor under the Intercreditor Agreement for
+all intents and purposes under the Intercreditor Agreement and shall have all of the obligations of a Grantor thereunder as if
+it had executed the Intercreditor Agreement. The Additional Grantor hereby ratifies, as of the date hereof, and agrees to be bound
+by, all of the terms, provisions and conditions contained in the Intercreditor Agreement.
+
+ 
+
+(e)
+         
+The address of the Additional Grantor for purposes of Section 8.08 of the Intercreditor Agreement is as follows:
+
+ 
+
+______________________
+
+______________________
+
+______________________
+
+______________________
+
+ 
+
+(f)
+           
+THIS JOINDER AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER THIS JOINDER AGREEMENT SHALL BE GOVERNED BY,
+AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, the
+Additional Grantor has caused this Joinder Agreement to be duly executed by its authorized officer, as of the day and year first
+above written.
+
+ 
+
+ 
+ 
+
+ 
+[ADDITIONAL GRANTOR]
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+By:
+
+ 
+
+      
+
+ 
+ 
+
+ 
+Name:
+
+ 
+
+     
+
+ 
+ 
+
+ 
+Title:

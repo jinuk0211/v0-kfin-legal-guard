@@ -1,0 +1,571 @@
+EX-10.1
+
+2
+
+ex101sixthamendmenttoamend.htm
+
+EX-10.1 SIXTH AMENDMENT
+
+Document
+
+Exhibit 10.1
+
+SIXTH AMENDMENT TO AMENDED AND RESTATED LOAN AND SECURITY AGREEMENT
+
+THIS SIXTH AMENDMENT TO AMENDED AND RESTATED LOAN AND SECURITY AGREEMENT 
+
+(the “
+
+Amendment
+
+”) is effective as of August 5, 2025 (“
+
+Effective Date
+
+”), by and between 
+
+INTEST CORPORATION
+
+, a Delaware corporation, (“
+
+Borrower
+
+”), 
+
+AMBRELL CORPORATION
+
+, a Delaware corporation, 
+
+INTEST SILICON VALLEY CORPORATION
+
+, a Delaware corporation, 
+
+INTEST EMS, LLC
+
+, a Delaware limited liability company, 
+
+TEMPTRONIC CORPORATION
+
+, a Delaware corporation, 
+
+VIDEOLOGY IMAGING CORPORATION
+
+, a Delaware corporation, 
+
+ACCULOGIC LTD.
+
+, a Delaware corporation, 
+
+ACCULOGIC INC.
+
+, an Ontario corporation, and 
+
+ALFAMATION, INC.
+
+, a Delaware Corporation, formerly inTEST Italy, Inc., individually and collectively, jointly and severally, the “
+
+Guarantors
+
+”) and 
+
+M&T Bank
+
+ (together with its successors and assigns, 
+
+“
+
+Bank
+
+”).
+
+BACKGROUND
+
+A.
+
+Borrower, Guarantors and Bank have previously entered into a certain Amended and Restated Loan and Security Agreement dated October 15, 2021, as amended by that certain Joinder and Amendment to Amended and Restated Loan and Security Agreement dated October 28, 2021, as amended by that certain Joinder and Second Amendment to Amended and Restated Loan and Security Agreement dated December 30, 2021, as amended by that certain Third Amendment to Amended and Restated Loan and Security Agreement dated as of September 20, 2022, that certain Fourth Amendment to Amended and Restated Loan and Security Agreement dated as of May 2, 2024, and the Joinder and Fifth Amendment to Amended and Restated Loan and Security Agreement dated as of December 18, 2024 (as amended and as it may be further amended, supplemented or restated from time to time, the “
+
+Loan Agreement
+
+”), pursuant to which, 
+
+inter
+
+ 
+
+alia
+
+, Bank agreed to extend to Borrower certain credit facilities subject to the terms and conditions set forth therein.
+
+B.
+
+Pursuant to the Joinder and Fifth Amendment to Amended and Restated Loan and Security Agreement dated as of December 18, 2024, inTEST Italy, Inc. (“
+
+Italy
+
+”) joined the Loan Agreement and Loan Documents as a Guarantor. Borrower has informed Bank that Italy has since changed its name to Alfamation, Inc. (“
+
+Alfamation
+
+”). 
+
+C.
+
+Borrower has requested and Bank has agreed to amend the terms of the Loan Agreement in accordance with the terms and conditions hereof.
+
+D.
+
+Capitalized terms used herein and not otherwise defined in this Amendment shall have the meanings set forth therefor in the Loan Agreement.
+
+NOW THEREFORE, 
+
+the parties hereto, intending to be legally bound hereby, agree as follows:
+
+1.
+
+Fixed Charge Coverage Ratio
+
+. 
+
+Borrower’s compliance with the Fixed Charge Coverage Ratio set forth in 
+
+Section 13.2
+
+ of the Loan Agreement is hereby suspended for the testing periods commencing June 30, 2025, through March 31, 2026, and testing shall resume for the period ending June 30, 2026, and thereafter (such period, the “
+
+FCCR Deferment Period
+
+”).
+
+2.
+
+Revolving Credit Facility – Discretionary Advances
+
+. Bank and Borrower have agreed that during the FCCR Deferment Period, all Advances under the Revolving Credit Facility shall be made only at Bank’s sole and reasonable discretion, accordingly, 
+
+Section 2.1
+
+ of the Loan Agreement is hereby amended such Section in its entirety and replacing it with the following:
+
+2.1
+
+“
+
+2.1    
+
+The Facility
+
+. Subject to the terms and conditions of this Agreement and the Loan Documents, Bank agrees to establish for Borrower a revolving credit facility (the “
+
+Revolving Credit Facility
+
+”) pursuant to which during the Contract Period, Bank agrees to extend to Borrower Advances under the Revolving Credit Facility, provided that, the Revolving Credit Facility Usage shall not exceed at any time the Maximum Revolving Credit Facility Amount.
+
+2.2
+
+Notwithstanding the forgoing, effective during the FCCR Deferment Period, the Revolving Credit Facility shall be a discretionary revolving facility, pursuant to which the Bank may, in its sole and reasonable discretion, agree to extend to Borrower Advances under the Revolving Credit Facility. Borrower expressly acknowledges that because the Revolving Credit Facility is discretionary during such period, the Bank may at any time and for any reasonable reason decline to make an Advance notwithstanding the fact that the amount outstanding under the Revolving Credit Facility is less than the Maximum Revolving Credit Facility Amount. 
+
+2.3
+
+For the avoidance of doubt, after the expiration of the FCCR Deferment Period, provided that (x) Borrower is in compliance with its Fixed Charge Coverage Ratio, and (y) no Event of Default has occurred or is continuing, the Revolving Credit Facility shall resume operating as a committed facility subject to the terms and conditions set forth in the Loan Agreement.”
+
+3.
+
+4.
+
+Pledged Account
+
+. Borrower has agreed to provide cash collateral to Bank as additional security for repayment of the Loans, and in furtherance of the forgoing: 
+
+a.
+
+Section 9.1(j)
+
+ is hereby amended in its entirety as follows:
+
+5.
+
+“(j) all deposit accounts maintained by any Obligor with any financial institution, and during the FCCR Deferment Period specifically including the LPL Account. For the avoidance of doubt, the LPL Account shall no longer constitute collateral for the Loans and shall be automatically released from the Bank’s security interest upon the expiration of the FCCR Deferment Period, provided that Borrower is in compliance with its Fixed Charge Coverage Ratio. To the extent that the Borrower returns to compliance with its Fixed Charge Coverage Ratio, the Bank shall cooperate with the Borrower, at the Borrower’s request and expense, to provide such documentation as may be reasonably necessary to evidence the release of the LPL Account as pledged collateral.” 
+
+b.
+
+A new 
+
+Section 9.6
+
+ is hereby added to the Loan Agreement as follows:
+
+6.
+
+“
+
+9.6
+
+    
+
+Pledged Account
+
+. From and after the Effective Date, Borrower hereby pledges and grants to Bank a lien on and security interest in book entry account #2679-2481 (
+
+the “LPL Account
+
+”) maintained by Borrower with LPL Financial LLC, an Affiliate of Bank to secure the repayment of the Loans. Notwithstanding the forgoing, Bank agrees that it shall, from time to time, and provided no Default or Event of Default has occurred and is continuing, permit, upon Borrower’s request, the release of funds from the LPL Account in an amount not to exceed the then aggregate amount of principal payments actually received by Bank with respect to the Term Loans pursuant to 
+
+Section 7.4
+
+. Borrower acknowledges and agrees that the LPL Account is hereby included in the definition of Collateral through the expiration of the FCCR Deferment Period and Borrower’s return to Fixed Charge Covenant Ratio compliance, and that upon the occurrence and continuance of an Event of Default hereunder, Bank may apply the proceeds of the LPL Account to the Obligations in accordance with the terms hereof.”
+
+4.
+
+Alfamation Confirmation and Ratification
+
+. Alfamation hereby expressly ratifies and confirms its status as a Guarantor and expressly ratifies all actions taken by Italy prior to the change in name.
+
+5.
+
+Confirmation of Collateral
+
+. Nothing contained herein shall be deemed to be a compromise, satisfaction, accord and satisfaction, novation or release of any of the Loan Documents, or any rights or obligations thereunder, or a waiver by Bank of any of its rights under the Loan Documents or at law or in equity. All liens, security interests, rights and remedies granted to Bank in the Loan Documents are hereby ratified, confirmed and continued. 
+
+6.
+
+Covenants, Representations and Warranties
+
+.
+
+ Borrower and each Guarantor (as applicable to itself) hereby:
+
+6.1
+
+ratifies, confirms and agrees that the Loan Agreement, as amended by this Amendment, and all other Loan Documents are valid, binding and in full force and effect as of the date of this Amendment, and enforceable in accordance with their terms.
+
+6.2
+
+agrees that it has no defense, set-off, counterclaim or challenge against the payment of any sums owed or owing under the Loan Documents or the enforcement of any of the terms of the Loan Documents.
+
+6.3
+
+ratifies, confirms and continues all liens, security interests, pledges, rights and remedies granted to Bank in the Loan Documents and agrees that such liens, security interests and pledges shall secure all of the Obligations under the Loan Documents as amended by this Amendment.
+
+6.4
+
+represents and warrants that all representations and warranties in the Loan Documents are true and complete as of the date of this Amendment.
+
+6.5
+
+agrees that its failure to comply with or perform any of its covenants or agreements in this Amendment will constitute an Event of Default under the Loan Documents.
+
+6.6
+
+represents and warrants that no condition or event exists after taking into account the terms of this Amendment which would constitute an Event of Default (or will, upon the giving of notice or the passage of time, or both constitute an Event of Default).
+
+6.7
+
+represents and warrants that the execution and delivery of this Amendment by Borrower and Guarantors and all documents and agreements to be executed and delivered pursuant to this Amendment:
+
+(a)
+
+have been duly authorized by all requisite corporate, company and/or partnership action of Borrower and Guarantors, as applicable;
+
+(b)
+
+will not conflict with or result in a breach of, or constitute a default (or with the passage of time or the giving of notice or both, will constitute a default) under, any of the terms, conditions, or provisions of any applicable statute, law, rule, regulation or ordinance or Borrower’s or any Guarantor’s Governing Documents or any indenture, mortgage, loan or credit agreement or instrument to which Borrower or any Guarantor is a party or by which such may be bound or affected, or any judgment or order of any court or governmental department, commission, board, bureau, agency or instrumentality, domestic or foreign; and
+
+(c)
+
+will not result in the creation or imposition of any lien, charge or encumbrance of any nature whatsoever upon any of the property or assets of Borrower or any Guarantor under the terms or provisions of any such agreement or instrument, except liens in favor of Bank.
+
+7.
+
+Conditions
+
+.  The obligation of Bank to enter into this Amendment is subject to the fulfillment, to the satisfaction of Bank, of each of the following conditions, and all agreements, documents and other items must be in form, content and in all other respects satisfactory to Bank in its sole and reasonable discretion.  Bank is not waiving a breach of any warranty or representation made by any Borrower or Guarantor hereunder or under any agreement, document, or instrument delivered to Bank or otherwise referred to herein, and any claims and rights of the Bank resulting from any breach or misrepresentation by Borrower or any Guarantor are specifically reserved by the Bank.
+
+7.1
+
+Searches
+
+. Bank shall have received copies of record searches (including UCC searches, patent searches, trademark searches, copyright searches and judgments, suits, bankruptcy, litigation, tax and other lien searches) against Borrower and each of the Guarantors.
+
+7.2
+
+Executed Documents
+
+. Borrower, Guarantors and all other required persons and entities will have executed and delivered to Bank: 
+
+(a)
+
+this Amendment;
+
+(b)
+
+a Pledge and Security Agreement in form and substance acceptable to Bank;
+
+(c)
+
+an LPL Financial, LLC - Pledgor Notification of Pledged Account; and
+
+(d)
+
+a resolution duly authorized by Borrower’s board of directors authorizing the execution of this Amendment, the pledge of the LPL Account and any documents related thereto;
+
+(e)
+
+such other documents, as the Bank may reasonably require.
+
+7.3
+
+Representations and Warranties
+
+.  All representations and warranties of Borrower and Guarantors set forth in the Loan Documents shall be true at and as of the date hereof.
+
+7.4
+
+No Default
+
+.   No condition or event shall exist or have occurred which would constitute a default or an Event of Default hereunder or under the Loan Agreement.
+
+7.5
+
+Other
+
+.  All other documents and legal matters in connection with the transactions contemplated by this Amendment shall have been delivered, executed or recorded.
+
+8.
+
+Additional Documents; Further Assurances
+
+.   Borrower and Guarantors covenant and agree to execute and deliver to Bank, or to cause to be executed and delivered to Bank contemporaneously herewith, at the sole cost and expense of Borrower and Guarantors, any and all other documents, agreements, statements, resolutions, certificates, consents and information as Bank may reasonably require in connection with the matters or actions described herein.  Borrower and Guarantors further covenant and agree to execute and deliver to Bank, or to cause to be executed and delivered, at the sole cost and expense of Borrower and Guarantors, from time to time, any and all other documents, agreements, statements, certificates and information as Bank shall request to evidence or effect the terms hereof or to enforce or protect Bank’s rights.  All of such documents, agreements, statements, certificates and information shall be in form and content acceptable to Bank in its sole and reasonable discretion.
+
+9.
+
+Certain Fees, Costs, Expenses and Expenditures.
+
+ Borrower and Guarantors agree to pay all of Bank’s costs and expenses in connection with the review, preparation, negotiation, documentation and closing of this Amendment and the consummation of the transactions contemplated hereunder, including without limitation, costs, fees and expenses of counsel retained by Bank and all fees related to filings, recording of documents and searches, whether or not the transactions contemplated hereunder are consummated. Nothing contained herein shall limit in any manner whatsoever Bank’s right to reimbursement under any of the Loan Documents.
+
+10.
+
+No Novation
+
+.    Nothing contained herein and no actions taken pursuant to the term hereof are intended to constitute a novation of the Loan Agreement or any of the Loan Documents and shall not constitute a release, termination or waiver of any of the liens, security interests, rights or remedies granted to Bank in the Loan Documents.
+
+11.
+
+No Waiver
+
+.  Except as otherwise provided herein, nothing herein contained and no actions taken by Bank in connection herewith shall constitute nor shall they be deemed to be a waiver, release or amendment of or to any rights, remedies, or privileges afforded to Bank under the Loan Documents.  Nothing herein shall constitute a waiver by Bank of Borrower’s’ and Guarantors’ compliance with the terms of the Loan Documents, nor shall anything contained herein constitute an agreement by Bank to enter into any further amendments with Borrower and Guarantors.
+
+12.
+
+Inconsistencies
+
+.  To the extent of any inconsistency between the terms and conditions of this Amendment and the terms and conditions of the other Loan Documents, the terms and conditions of this Amendment shall prevail.  All terms and conditions of the Loan Documents not inconsistent herewith shall remain in full force and effect and are hereby ratified and confirmed by Borrower and Guarantors.
+
+13.
+
+Binding Effect
+
+.  This Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+
+14.
+
+No Third Party Beneficiaries
+
+.  The rights and benefits of this Amendment and the Loan Documents shall not inure to the benefit of any third party.
+
+15.
+
+Time of the Essence
+
+.  Time is of the essence in the performance by Borrower and Guarantors of all the obligations hereunder.
+
+16.
+
+Headings
+
+.  The headings of the Sections of this Amendment are inserted for convenience only and shall not be deemed to constitute a part of this Amendment.
+
+17.
+
+Severability
+
+.  The provisions of this Amendment and all other Loan Documents are deemed to be severable, and the invalidity or unenforceability of any provision shall not affect or impair the remaining provisions which shall continue in full force and effect.
+
+18.
+
+Modifications
+
+.  No modifications of this Amendment or any of the Loan Documents shall be binding or enforceable unless in writing and signed by or on behalf of the party against whom enforcement is sought.
+
+19.
+
+Law Governing
+
+.  This Amendment has been made, executed and delivered in the Commonwealth of Pennsylvania and will be construed in accordance with and governed by the laws of such Commonwealth, without regard to any rules or principles regarding conflicts of law or any rule or canon of construction which interprets agreements against the draftsman.
+
+E.
+
+Counterparts; Electronic Signatures
+
+.  This Amendment and any related document may be executed in any number of counterparts, each of which when so executed and delivered shall be an original, but all of which shall together constitute one and the same instrument. Delivery of an executed counterpart of a signature page to this Amendment by telecopier, facsimile machine, portable document format (“PDF”), Electronic Signature (as defined below) or other electronic means shall be as effective as delivery of a manually executed counterpart of this Amendment. The effectiveness of any such documents and signatures shall have the same force and effect as manually signed originals and shall be binding on the parties. No party may raise the use of a telecopier, facsimile machine, PDF or other electronic means, or the fact that any signature was transmitted through the use of a telecopier, facsimile machine, PDF or other electronic means, as a defense to the enforcement of this Amendment. “Electronic Signature” means any symbol or process attached to a document or instrument and executed or adopted by a person with the intent to sign the document or instrument, including, without limitation, any digital representation of a party’s signature created by scanning such party’s signature or by any electronic signature service such as DocuSign. 
+
+4.
+
+Waiver of Right to Trial by Jury
+
+.  BORROWER, GUARANTORS AND BANK WAIVE ANY RIGHT TO TRIAL BY JURY ON ANY CLAIM, DEMAND, ACTION OR CAUSE OF ACTION (a) ARISING UNDER THIS AMENDMENT, (b) ARISING UNDER ANY OF THE OTHER LOAN DOCUMENTS OR (c) IN ANY WAY CONNECTED WITH OR RELATED OR INCIDENTAL TO THE DEALINGS OF BORROWER OR GUARANTORS, WITH RESPECT TO THIS AMENDMENT OR ANY OF THE OTHER LOAN DOCUMENTS OR THE TRANSACTIONS RELATED HERETO OR THERETO, IN EACH CASE WHETHER SOUNDING IN CONTRACT OR TORT OR OTHERWISE. BORROWER, GUARANTORS AND BANK AGREE AND CONSENT THAT ANY SUCH CLAIM, DEMAND, ACTION OR CAUSE OF ACTION SHALL BE DECIDED BY COURT TRIAL WITHOUT A JURY, AND THAT ANY PARTY TO THIS AMENDMENT MAY FILE AN ORIGINAL COUNTERPART OR A 
+
+COPY OF THIS SECTION WITH ANY COURT AS WRITTEN EVIDENCE OF THE CONSENT OF BORROWER, GUARANTORS AND BANK TO THE WAIVER OF THEIR RIGHT TO TRIAL BY JURY.  BORROWER AND GUARANTORS ACKNOWLEDGE THAT THEY HAVE HAD THE OPPORTUNITY TO CONSULT WITH COUNSEL REGARDING THIS SECTION, THAT THEY FULLY UNDERSTAND ITS TERMS, CONTENT AND EFFECT, AND THAT THEY VOLUNTARILY AND KNOWINGLY AGREE TO THE TERMS OF THIS SECTION.
+
+IN WITNESS WHEREOF
+
+, the parties hereto, intending to be legally bound hereby, have executed this Amendment as of the date first above written.
+
+BORROWER
+
+:
+
+INTEST CORPORATION,
+
+a Delaware corporation
+
+By: 
+
+ /s/ Duncan Gilmour 
+
+Name: Duncan Gilmour
+
+Title: Secretary, Treasurer and Chief Financial Officer
+
+       
+
+GUARANTORS
+
+:
+
+AMBRELL CORPORATION
+
+,
+
+a Delaware corporation
+
+By: 
+
+ /s/ Duncan Gilmour 
+
+Name: Duncan Gilmour
+
+Title: Vice President, Treasurer and Secretary
+
+INTEST SILICON VALLEY CORPORATION
+
+,
+
+a Delaware corporation
+
+By: 
+
+ /s/ Duncan Gilmour 
+
+Name: Duncan Gilmour
+
+Title: Vice President, Treasurer and Secretary
+
+INTEST EMS, LLC
+
+,
+
+a Delaware limited liability company
+
+By: 
+
+ /s/ Duncan Gilmour 
+
+Name: Duncan Gilmour
+
+Title: Vice President, Treasurer and Secretary
+
+TEMPTRONIC CORPORATION
+
+,
+
+a Delaware corporation
+
+By: 
+
+ /s/ Duncan Gilmour 
+
+Name: Duncan Gilmour
+
+Title: Vice President, Treasurer and Secretary
+
+VIDEOLOGY IMAGING CORPORATION
+
+,
+
+a Delaware corporation
+
+By: 
+
+ /s/ Duncan Gilmour 
+
+Name: Duncan Gilmour
+
+Title: Vice President, Treasurer and Secretary
+
+ACCULOGIC LTD.
+
+,
+
+a Delaware corporation
+
+By: 
+
+ /s/ Duncan Gilmour 
+
+Name: Duncan Gilmour
+
+Title: Vice President, Treasurer and Secretary
+
+ACCULOGIC INC.
+
+,
+
+an Ontario corporation
+
+By: 
+
+ /s/ Duncan Gilmour 
+
+Name: Duncan Gilmour
+
+Title: Vice President, Treasurer and Secretary
+
+ALFAMATION,
+
+ 
+
+INC.
+
+,
+
+a Delaware corporation
+
+By: 
+
+ /s/ Duncan Gilmour 
+
+Name: Duncan Gilmour
+
+Title: Vice President, Treasurer and Secretary
+
+BANK:
+
+M&T BANK
+
+By: _
+
+/s/ Steven A. Vilardi
+
+________________
+
+ Steven A. Vilardi, Vice President

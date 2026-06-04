@@ -107,22 +107,34 @@ export function StepResult({ data, onReset, onLogout, userName }: Props) {
             const status = c.resContractStatus || ""
             const statusColor = status === "정상" ? "text-green-600" : status === "실효" ? "text-red-600" : "text-muted-foreground"
 
+            const analyzeHref = `/analyze?product=${encodeURIComponent(name)}${company ? `&company=${encodeURIComponent(company)}` : ""}`
+
             return (
-              <div key={i} className="flex items-center gap-4 border-b border-border p-4 last:border-b-0">
-                <div className={`flex h-11 w-11 flex-shrink-0 items-center justify-center text-[10px] font-bold uppercase tracking-wider ${bg}`}>
-                  {label}
+              <div key={i} className="border-b border-border last:border-b-0">
+                <div className="flex items-center gap-4 p-4 pb-2">
+                  <div className={`flex h-11 w-11 flex-shrink-0 items-center justify-center text-[10px] font-bold uppercase tracking-wider ${bg}`}>
+                    {label}
+                  </div>
+                  <div className="min-w-0 flex-1">
+                    <p className="truncate text-sm font-semibold text-foreground">{name}</p>
+                    <p className="mt-0.5 text-xs text-muted-foreground">
+                      {company && <span>{company} · </span>}
+                      <span className={`font-semibold ${statusColor}`}>{status}</span>
+                      {expire && <span> · 만기 {expire.slice(0,4)}.{expire.slice(4,6)}.{expire.slice(6,8)}</span>}
+                    </p>
+                  </div>
+                  <div className="flex-shrink-0 text-right">
+                    <p className="text-sm font-bold tabular-nums text-foreground">{premium !== "-" ? premium : "-"}</p>
+                    <p className="text-[10px] text-muted-foreground">원/월</p>
+                  </div>
                 </div>
-                <div className="min-w-0 flex-1">
-                  <p className="truncate text-sm font-semibold text-foreground">{name}</p>
-                  <p className="mt-0.5 text-xs text-muted-foreground">
-                    {company && <span>{company} · </span>}
-                    <span className={`font-semibold ${statusColor}`}>{status}</span>
-                    {expire && <span> · 만기 {expire.slice(0,4)}.{expire.slice(4,6)}.{expire.slice(6,8)}</span>}
-                  </p>
-                </div>
-                <div className="flex-shrink-0 text-right">
-                  <p className="text-sm font-bold tabular-nums text-foreground">{premium !== "-" ? premium : "-"}</p>
-                  <p className="text-[10px] text-muted-foreground">원/월</p>
+                <div className="flex justify-end px-4 pb-3">
+                  <a
+                    href={analyzeHref}
+                    className="text-[11px] font-semibold text-primary transition-colors hover:underline"
+                  >
+                    이 약관 취약점 분석하기 →
+                  </a>
                 </div>
               </div>
             )

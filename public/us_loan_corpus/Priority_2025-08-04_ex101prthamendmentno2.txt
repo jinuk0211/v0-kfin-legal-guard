@@ -1,0 +1,903 @@
+EX-10.1
+
+2
+
+ex101prthamendmentno2.htm
+
+EX-10.1
+
+Document
+
+EXHIBIT 10.1
+
+Execution Version
+
+AMENDMENT NO. 2 TO THE CREDIT AND GUARANTY AGREEMENT
+
+AMENDMENT NO. 2 TO THE CREDIT AND GUARANTY AGREEMENT, dated as of July 31, 2025 (this “
+
+Second Amendment
+
+”), among PRIORITY HOLDINGS, LLC, a Delaware limited liability company, as the sole Borrower Representative under the Credit Agreement (as defined below) (the “
+
+Borrower Representative
+
+”), the other Credit Parties party hereto, each of the Lenders party hereto, each 2025-1 Converting Lender (as defined below), each 2025-1 Incremental Revolving Credit Lender (as defined below), each New 2025-1 Refinancing Term Lender (as defined below) party hereto and TRUIST BANK, as the 2025-1 designated fronting lender (in such capacity, the “
+
+Designated 2025 Fronting Lender
+
+”), as the 2025-1 Incremental Term Lender (as defined below) and as Administrative Agent and Collateral Agent under the Credit Agreement (in such capacity, the “
+
+Administrative Agent
+
+”). All capitalized terms used herein (including in this preamble) and not otherwise defined herein shall have the respective meanings provided such terms in the Credit Agreement. The joint lead arrangers and joint bookrunners for this Second Amendment are Truist Securities, Inc. (“
+
+Truist Securities
+
+”), TD Securities (USA) LLC, SouthState Bank N.A., The Huntington National Bank and Synovus Bank (collectively, the “
+
+Arrangers
+
+”).
+
+PRELIMINARY STATEMENTS
+
+WHEREAS, the Borrower Representative has entered into that certain Credit and Guaranty Agreement, dated as of May 16, 2024, among the Borrower Representative, the other Credit Parties party thereto from time to time, the lenders and other financial institutions party thereto from time to time (collectively, the “
+
+Lenders
+
+” and each individually, a “
+
+Lender
+
+”) and Truist Bank, as Administrative Agent, an Issuing Bank, Swing Line Lender and Collateral Agent (as amended, restated, amended and restated, supplemented and/or otherwise modified from time to time to, including by that certain Amendment No. 1 to the Credit and Guaranty Agreement, dated as of November 21, 2024, but not including, the date hereof, the “
+
+Credit Agreement
+
+” and, as amended by this Second Amendment, the “
+
+Amended Credit Agreement
+
+”);
+
+WHEREAS, pursuant to Section 2.25 of the Credit Agreement, the Borrower Representative wishes to amend the Credit Agreement to enable it to incur Refinancing Term Loans in an aggregate principal amount of $949,824,708.89, to, on the Second Amendment Effective Date (as defined below), (i) prepay in full all Initial Term Loans outstanding immediately prior to the Second Amendment Effective Date (the “
+
+Refinanced Term Loans
+
+”), (ii) pay all accrued and unpaid interest with respect to the Refinanced Term Loans and (iii) pay all fees and expenses incurred in connection with the transactions contemplated by this Second Amendment, in each case, as provided herein;
+
+WHEREAS, each 2025-1 Refinancing Term Lender (as defined below) agrees to make available 2025-1 Refinancing Term Loans (as defined below) to the Borrower Representative on the Second Amendment Effective Date on the terms and conditions set forth herein and in an amount equal to its 2025-1 Refinancing Term Commitment (as defined below);
+
+WHEREAS, pursuant to Section 2.24 of the Credit Agreement, (i) the Borrower Representative has requested that Truist Bank (in such capacity, the “
+
+2025-1 Incremental Term Lender
+
+”) make Incremental Term Loans (the “
+
+2025-1 Incremental Term Loans
+
+”) to the Borrowers on the Second Amendment Effective Date (immediately after giving effect to the incurrence of the 2025-1 Refinancing Term Loans on such date) in an aggregate principal amount equal to $50,175,291.11 (the “
+
+2025-1 Incremental Term Commitments
+
+”), which will be added to (and form part of) the existing Class of 2025-1 Refinancing Term Loans and shall constitute “2025-1 Refinancing Term Loans,” “Initial Term Loans” 
+
+1
+
+and “Term Loans” for all purposes under the Amended Credit Agreement, (ii) the Borrower Representative has requested that each institution identified on 
+
+Annex I
+
+ hereto (each, a “
+
+2025-1 Incremental Revolving Credit Lender
+
+”, and collectively with the 2025-1 Incremental Term Lender, the “
+
+2025-1 Incremental Lenders
+
+”) provide a Revolving Commitment Increase to the Borrower on the Second Amendment Effective Date in an aggregate amount equal to the amount set forth on 
+
+Annex I
+
+ hereto opposite its name (such Revolving Commitment Increase, the “
+
+2025-1 Incremental Revolving Credit Commitments
+
+”, and together with the 2025-1 Incremental Term Commitments, the “
+
+2025-1 Incremental Facilities
+
+”), (iii) the 2025-1 Incremental Term Lender agrees to make 2025-1 Incremental Term Loans to the Borrowers on the Second Amendment Effective Date and the 2025-1 Incremental Revolving Credit Lenders agree to provide 2025-1 Incremental Revolving Credit Commitments to the Borrowers on the Second Amendment Effective Date, in each case, on the terms and conditions set forth herein and (iii) this Second Amendment constitutes an Incremental Loan Request delivered to the Administrative Agent (which Incremental Loan Request shall serve as notice pursuant to Section 2.24(a) of the Credit Agreement);
+
+WHEREAS, pursuant to Section 10.05 of the Credit Agreement, the Borrower Representative wishes to amend the Credit Agreement to (i) extend the Maturity Date with respect to the Initial Revolving Credit Commitments, (ii) adjust the interest rate applicable to Revolving Loans and (iii) make certain other amendments to the Credit Agreement as set forth herein and in the Amended Credit Agreement;
+
+WHEREAS, as contemplated by Section 2.24(f), Section 2.25(c) and Section 10.05 of the Credit Agreement, (x) the parties hereto have agreed, subject to the conditions set forth herein, to amend certain terms of the Credit Agreement as hereinafter provided to give effect to the establishment of the 2025-1 Refinancing Term Commitments, the making of the 2025-1 Refinancing Term Loans, the establishment of the 2025-1 Incremental Facilities, the making of the 2025-1 Incremental Term Loans and the other modifications to the Credit Agreement set forth herein and (y) this Second Amendment constitutes an “Incremental Amendment,” a “Refinancing Amendment” and a “Credit Document” for all purposes of the Credit Agreement and the other Credit Documents; and
+
+NOW, THEREFORE, for good and valuable consideration, the receipt and adequacy of which is acknowledged by each party hereto, it is agreed that:
+
+SECTION 1.
+
+RULES OF CONSTRUCTION
+
+. The rules of construction specified in Section 1.03 of the Credit Agreement shall apply to this Second Amendment, including the terms defined in the preamble and recitals hereto.
+
+SECTION 2.
+
+REFINANCING AMENDMENT
+
+. 
+
+(a)
+
+Pursuant to Section 2.25 of the Credit Agreement, and subject to the satisfaction (or waiver in writing by each 2025-1 Refinancing Term Lender party hereto and the Administrative Agent) of the conditions set forth in Section 2.25 of the Credit Agreement and 
+
+Section 7
+
+ hereof, in accordance with Section 2.25 of the Credit Agreement, on and as of the Second Amendment Effective Date:
+
+(i)
+
+Each 2025-1 Refinancing Term Lender severally agrees to make 2025-1 Refinancing Term Loans available to the Borrower Representative on the Second Amendment Effective Date in an amount equal to its 2025-1 Refinancing Term Commitment. On the Second Amendment Effective Date, (x) the Refinanced Term Loans will be repaid in full, (y) all other outstanding Obligations in respect of the Refinanced Term Loans shall have been repaid in full and (z) each 
+
+2
+
+Term Lender that is not also a 2025-1 Refinancing Term Lender will cease to be a Term Lender. It is understood and agreed that (x) the 2025-1 Refinancing Term Loans being made pursuant to this Second Amendment shall constitute “Refinancing Term Loans” as defined in the Credit Agreement and pursuant to Section 2.25 of the Credit Agreement and (y) the Refinanced Term Loans being refinanced shall constitute “Refinanced Debt” as defined in the Credit Agreement and pursuant to Section 2.25 of the Credit Agreement. Except as expressly provided in this Second Amendment (including as to Applicable Margin, maturity, fees and call protection), the 2025-1 Refinancing Term Loans shall be on terms substantially identical to the Refinanced Term Loans (including as to Guarantors, Collateral (and ranking) and payment priority).
+
+(ii)
+
+The Administrative Agent has notified each 2025-1 Refinancing Term Lender of its allocated commitment (with respect to such 2025-1 Refinancing Term Lender, its “
+
+2025-1 Refinancing Term Commitment
+
+” and, collectively, the “
+
+2025-1 Refinancing Term Commitments
+
+”) with respect to the 2025-1 Refinancing Term Loans, and each 2025-1 Refinancing Term Lender, by providing its 2025-1 Refinancing Term Commitment and/or agreeing to the Term Loan Conversion (as defined below), as applicable, has consented to the terms of this Second Amendment and, in the case of any New 2025-1 Refinancing Term Lender, shall become a party to the Amended Credit Agreement pursuant to one or more Assignment Agreements. On the Second Amendment Effective Date, all then outstanding Refinanced Term Loans shall be refinanced in full as follows:
+
+(A)
+
+ the outstanding aggregate principal amount of Refinanced Term Loans of each Term Lender which (i) is an existing Term Lender under the Credit Agreement with respect to Refinanced Term Loans immediately prior to giving effect to this Second Amendment (each, an “
+
+Existing Lender
+
+”) and (ii) is not a 2025-1 Converting Lender (a Lender meeting the requirements of the immediately preceding clauses (i) and (ii), each, a “
+
+Non-Converting Lender
+
+”) shall be repaid in full in cash with respect to its Refinanced Term Loans with the proceeds of the 2025-1 Refinancing Term Loans;
+
+(B)
+
+ to the extent any Existing Lender has a 2025-1 Refinancing Term Commitment that is less than its full outstanding aggregate principal amount of Refinanced Term Loans, such Existing Lender shall be repaid in full in cash in an amount equal to the difference between the outstanding aggregate principal amount of Refinanced Term Loans of such Existing Lender and such Existing Lender’s 2025-1 Refinancing Term Commitment (the “
+
+Non-Converting Portion
+
+”);
+
+(C)
+
+ the outstanding aggregate principal amount of Refinanced Term Loans of each Existing Lender that has a 2025-1 Refinancing Term Commitment (each, a “
+
+2025-1 Converting Lender
+
+”) shall automatically be converted into 2025-1 Refinancing Term Loans (each, a “
+
+Converted 2025-1 Refinancing Term Loan
+
+”) in a principal amount equal to such 2025-1 Converting Lender’s outstanding Refinanced Term Loans less an amount equal to such 2025-1 Converting Lender’s Non-Converting Portion of such 2025-1 Converting Lender’s Refinanced Term Loans, if any (the “
+
+Term Loan Conversion
+
+”); and
+
+(D)
+
+ (1) each Person that is not an Existing Lender with a 2025-1 Refinancing Term Commitment (each, a “
+
+New 2025-1 Refinancing Term Lender
+
+” and, 
+
+3
+
+together with the 2025-1 Converting Lenders, the “
+
+2025-1 Refinancing Term Lenders
+
+”) and (2) each 2025-1 Converting Lender with a 2025-1 Refinancing Term Commitment in an amount in excess of the outstanding aggregate principal amount of Refinanced Term Loans of such 2025-1 Converting Lender (any such difference as to such 2025-1 Converting Lender, a “
+
+New 2025-1 Refinancing Term Commitment
+
+”), agrees to make to the Borrower Representative a new Term Loan (each, a “
+
+New 2025-1 Refinancing Term Loan
+
+” and, collectively, the “
+
+New 2025-1 Refinancing Term Loans
+
+” and, together with the Converted 2025-1 Refinancing Term Loans, the “
+
+2025-1 Refinancing Term Loans
+
+”) in a principal amount equal to such New 2025-1 Refinancing Term Lender’s 2025-1 Refinancing Term Commitment or such 2025-1 Converting Lender’s New 2025-1 Refinancing Term Commitment, as the case may be, on the Second Amendment Effective Date.
+
+(iii)
+
+Each 2025-1 Refinancing Term Lender hereby agrees to “fund” its 2025-1 Refinancing Term Loans in an aggregate principal amount equal to such 2025-1 Refinancing Term Lender’s 2025-1 Refinancing Term Commitment as follows:
+
+(A)
+
+ each 2025-1 Converting Lender shall fund its Converted 2025-1 Refinancing Term Loans to the Borrower Representative by converting its then outstanding principal amount of Refinanced Term Loans (other than such 2025-1 Converting Lender’s Non-Converting Portion, if any) into a Converted 2025-1 Refinancing Term Loan in an equal principal amount as provided in clause (ii)(C) above; and
+
+(B)
+
+ each 2025-1 Converting Lender with a New 2024 Refinancing Term Commitment and each New 2025-1 Refinancing Term Lender with a 2025-1 Refinancing Term Commitment (or, in either case, the Designated 2025-1 Fronting Lender on behalf of such 2025-1 Converting Lender or New 2025-1 Refinancing Term Lender) shall make a loan to the Borrower Representative in an amount equal to (1) in the case of a 2025-1 Converting Lender, such 2025-1 Converting Lender’s New 2025-1 Refinancing Term Commitment or (2) in the case of a New 2025-1 Refinancing Term Lender, such New 2025-1 Refinancing Term Lender’s 2025-1 Refinancing Term Commitment.
+
+(iv)
+
+The Converted 2025-1 Refinancing Term Loans and the New 2025-1 Refinancing Term Loans shall be incurred or be deemed to be incurred, as applicable, pursuant to a single Borrowing of Term Loans on the Second Amendment Effective Date. For the avoidance of doubt, on and after the Second Amendment Effective Date, the Converted 2025-1 Refinancing Term Loans and the New 2025-1 Refinancing Term Loans shall constitute a single Class of Term Loans accruing interest at the same rate per annum and, if applicable, having the same Interest Period.
+
+(v)
+
+On the Second Amendment Effective Date, the Borrower Representative shall pay in cash (x) all accrued but unpaid interest owing with respect to the Refinanced Term Loans through the Second Amendment Effective Date and (y) to each Non-Converting Lender, any amounts owing in respect of the Refinanced Term Loans pursuant to Section 2.17(c) of the Credit Agreement (for the avoidance of doubt, it being understood that the 2025-1 Refinancing Term Loans shall accrue interest in accordance with Section 2.07 of the Amended Credit Agreement on and after the 
+
+4
+
+Second Amendment Effective Date). Notwithstanding anything to the contrary herein, each 2025-1 Converting Lender hereby waives any entitlement or claim to any loss, expense or liability due under Section 2.17(c) of the Credit Agreement with respect to the repayment and/or conversion of the Refinanced Term Loans it holds as an Existing Lender, which have been replaced and/or repaid with 2025-1 Refinancing Term Loans on the Second Amendment Effective Date.
+
+(vi)
+
+Each 2025-1 Refinancing Term Lender and the Administrative Agent acknowledge that this Second Amendment constitutes a Refinancing Amendment in accordance with Section 2.25 of the Credit Agreement.
+
+(vii)
+
+Promptly following the Second Amendment Effective Date, all Notes, if any, evidencing the Refinanced Term Loans shall be cancelled and returned to the Borrower Representative, and any 2025-1 Refinancing Term Lender may request that its 2025-1 Refinancing Term Loans be evidenced by a Note pursuant to Section 2.06(c) of the Amended Credit Agreement.
+
+(viii)
+
+Notwithstanding anything to the contrary contained in the Credit Agreement, all proceeds of the New 2025-1 Refinancing Term Loans (if any) will be used solely to repay the outstanding principal amount of the Refinanced Term Loans of Non-Converting Lenders (if any) and outstanding principal amount of Refinanced Term Loans of 2025-1 Converting Lenders in an amount equal to any applicable Non-Converting Portion (if any) of such 2025-1 Converting Lenders’ Refinanced Term Loans, in each case, on the Second Amendment Effective Date.
+
+(ix)
+
+On the Second Amendment Effective Date (after giving effect to this 
+
+Section 2
+
+ of this Second Amendment but immediately prior to giving effect to the incurrence of the 2025-1 Incremental Term Loans pursuant to 
+
+Section 3
+
+ below), the aggregate outstanding principal amount of the 2025-1 Refinancing Term Loans shall be $949,824,708.89.
+
+SECTION 3.
+
+INCREMENTAL AMENDMENT
+
+. 
+
+(a)
+
+Subject solely to the satisfaction (or waiver in writing) of the conditions precedent set forth in 
+
+Section 7
+
+ hereof, (i) the 2025-1 Incremental Term Lender hereby agrees to provide the full amount of its 2025-1 Incremental Term Commitment and agrees to make, on the Second Amendment Effective Date, 2025-1 Incremental Term Loans to the Borrowers in an aggregate principal amount equal to its 2025-1 Incremental Term Commitment and (ii) each 2025-1 Incremental Revolving Credit Lender hereby agrees to provide the full amount of its 2025-1 Incremental Revolving Credit Commitment to the Borrowers on the Second Amendment Effective Date (in each case, immediately after giving effect to the incurrence of the 2025-1 Refinancing Term Loans pursuant to 
+
+Section 2
+
+ above and the consent set forth in Section 4(b) below). The 2025-1 Incremental Facilities provided pursuant to this 
+
+Section 3
+
+ of this Second Amendment shall be subject to all of the terms and conditions set forth in the Amended Credit Agreement, including, without limitation, Sections 2.01(a)(i) (in the case of the 2025-1 Incremental Term Commitments), 2.01(b) (in the case of the 2025-1 Incremental Revolving Credit Commitments) and 2.24 thereof, and the obligation of the 2025-1 Incremental Lenders to provide the 2025-1 Incremental Facilities on the Second Amendment Effective Date shall be subject to the satisfaction, or waiver in accordance with Section 10.05 of the Credit Agreement, of the conditions precedent set forth in Section 2.24 of the Credit Agreement and 
+
+Section 7
+
+ hereof. The 2025-1 Incremental Lenders, the Administrative Agent and each Credit Party agree that this 
+
+Section 3
+
+ of this Second Amendment is necessary and appropriate, in each of their 
+
+5
+
+reasonable opinions, to effect the provisions of Section 2.24 of the Credit Agreement and shall constitute an “Incremental Amendment” pursuant to and in accordance with Section 2.24(f) of the Credit Agreement.
+
+(b)
+
+Immediately upon the incurrence of the 2025-1 Refinancing Term Loans on the Second Amendment Effective Date, each 2025-1 Incremental Lender (i) shall be obligated to establish the 2025-1 Incremental Facilities (and in the case of the 2025-1 Incremental Term Lender, shall be obligated to make 2025-1 Incremental Term Loans), in each case, as provided in this 
+
+Section 3
+
+ of this Second Amendment on the terms set forth in this Second Amendment and (ii) to the extent provided in this Second Amendment, shall have the rights and obligations of a Lender under the Amended Credit Agreement and under the other applicable Credit Documents.
+
+(c)
+
+Immediately upon the establishment of the 2025-1 Incremental Term Commitments and the incurrence of the 2025-1 Incremental Term Loans pursuant thereto on the Second Amendment Effective Date, (i) such 2025-1 Incremental Term Loans shall be added to (and form part of) the Term Borrowing of 2025-1 Refinancing Term Loans established pursuant to 
+
+Section 2
+
+ above, (ii) the 2025-1 Incremental Term Loans shall constitute a single Class of Term Loans with the 2025-1 Refinancing Term Loans, (iii) the 2025-1 Incremental Term Commitments shall constitute “Term Loan Commitments” for all purposes under, and subject to the provisions of, the Credit Documents and (iv) the 2025-1 Incremental Term Loans shall constitute “2025-1 Refinancing Term Loans,” “Initial Term Loans” and “Term Loans” for all purposes under, and subject to the provisions of, the Credit Documents. Immediately upon the establishment of the 2025-1 Incremental Revolving Credit Commitments pursuant hereto on the Second Amendment Effective Date, (i) the 2025-1 Incremental Revolving Credit Commitments shall be added to, and thereafter constitute a part of, the existing Class of Revolving Commitments immediately prior to giving effect to this Second Amendment and (ii) the 2025-1 Revolving Credit Commitments shall constitute “Revolving Commitments” for all purposes under, and subject to the provisions of the Credit Documents.
+
+(d)
+
+Immediately upon giving effect to the 2025-1 Incremental Revolving Credit Commitments on the Second Amendment Effective Date, (i) each Revolving Credit Lender (other than the 2025-1 Incremental Revolving Credit Lenders) will automatically and without further act be deemed to have assigned to each 2025-1 Incremental Revolving Credit Lender and each 2025-1 Incremental Revolving Credit Lender will automatically and without further act be deemed to have assumed, a portion of such Revolving Credit Lender’s (other than the 2025-1 Incremental Revolving Credit Lenders) participations under the Amended Credit Agreement in outstanding Letters of Credit such that, after giving effect to each such deemed assignment and assumption of participations, the percentage of the aggregate outstanding participations under the Amended Credit Agreement in Letters of Credit held by each Revolving Credit Lender (including each 2025-1 Incremental Revolving Credit Lender) will equal the percentage of the aggregate Revolving Commitments of all Revolving Credit Lenders represented by such Revolving Credit Lender’s Revolving Commitment, (ii) to the extent any Revolving Loans are outstanding, the Revolving Credit Lenders (including, for the avoidance of doubt, each 2025-1 Incremental Revolving Credit Lender) shall purchase and assign at par such amounts of the Revolving Loans outstanding as the Administrative Agent may require such that each Revolving Credit Lender (including, for the avoidance of doubt, each 2025-1 Incremental Revolving Credit Lender) holds its Pro Rata Share of all Revolving Loans outstanding immediately after giving effect to all such assignments, (iii) in connection with the foregoing, the Administrative Agent shall (and is hereby authorized to) take all necessary actions to ensure that all Revolving Credit Lenders participate in each 
+
+6
+
+Revolving Credit Borrowing of Revolving Loans (after giving effect to the 2025-1 Incremental Revolving Credit Commitments) on a 
+
+pro
+
+ 
+
+rata
+
+ basis (based upon the then outstanding principal amount of all Revolving Commitments held by the Revolving Credit Lenders at such time), (iv) the 2025-1 Incremental Revolving Credit Commitments shall constitute a single Class of Revolving Commitments with the existing class of Revolving Commitments and (v) in connection with the foregoing, the minimum borrowing, pro rata borrowing and pro rata payment requirements contained in the Amended Credit Agreement shall not apply.
+
+(e)
+
+The 2025-1 Incremental Term Commitment of the 2025-1 Incremental Term Lender shall automatically terminate upon the funding of the 2025-1 Incremental Term Loans by the 2025-1 Incremental Term Lender on the Second Amendment Effective Date.
+
+SECTION 4.
+
+AMENDMENT OF CREDIT AGREEMENT
+
+. 
+
+(a)
+
+Subject to the satisfaction (or waiver in writing by each Lender party hereto and the Administrative Agent) of the conditions set forth in 
+
+Section 7
+
+ hereof (immediately after giving effect to the incurrence of the 2025-1 Refinancing Term Loans and the establishment of the 2025-1 Incremental Facilities), in accordance with Sections 2.24, 2.25 and 10.05 of the Credit Agreement, (x) the Credit Agreement is hereby amended to delete the stricken text (indicated textually in the same manner as the following example: 
+
+stricken text
+
+) and to add the double-underlined text (indicated textually in the same manner as the following example: 
+
+double-underlined text
+
+) as set forth in the copy of the Credit Agreement attached as 
+
+Exhibit C
+
+ hereto, (y) Schedule 1.01(b) is hereby amended and restated as 
+
+Exhibit D
+
+ hereto and (z) the Pledge and Security Agreement is hereby amended to delete the stricken text (indicated textually in the same manner as the following example: 
+
+stricken text
+
+) and to add the double-underlined text (indicated textually in the same manner as the following example: 
+
+double-underlined text
+
+) as set forth in the copy of the Pledge and Security Agreement attached as 
+
+Exhibit E
+
+ hereto.
+
+(b)
+
+Notwithstanding anything to the contrary in the Amended Credit Agreement, each 2025-1 Refinancing Term Lender and each Revolving Credit Lender party hereto hereby consents to the establishment of the 2025-1 Incremental Facilities on the Second Amendment Effective Date in accordance with the terms hereof and hereby (i) waives the requirement set forth in Section 2.24(a) of the Amended Credit Agreement for the Borrower to comply with the Incremental Cap solely for purposes of establishing such 2025-1 Incremental Facilities and (ii) agrees that no portion of the 2025-1 Incremental Facilities shall be incurred in reliance on the Fixed Incremental Amount.
+
+SECTION 5.
+
+REFERENCE TO AND EFFECT ON THE CREDIT AGREEMENT
+
+. 
+
+(a)
+
+On and after the Second Amendment Effective Date, (i) each reference in the Credit Agreement to “this Agreement,” “hereunder,” “hereof” or text of like import referring to the Credit Agreement shall mean and be a reference to the Amended Credit Agreement, (ii) each 2025-1 Refinancing Term Commitment and each 2025-1 Incremental Term Commitment shall constitute a “Term Loan Commitment” as defined in the Amended Credit Agreement, (iii) each 2025-1 Refinancing Term Loan shall constitute a “Loan,” a “Term Loan,” an “Initial Term Loan” and a “Refinancing Term Loan,” in each case, as defined in the Amended Credit Agreement, (iv) each 2025-1 Incremental Term Loan shall constitute a “Loan,” a “Term Loan,” an “Initial Term Loan” and an “Incremental Term Loan,” in each case, as defined in the Amended Credit Agreement, (v) each 2025-1 Refinancing Term Lender and the 2025-1 Incremental Term Lender shall constitute a “Lender,” an “Additional Lender,” a “Term Lender” and, in the case of the 2025-1 Incremental Term Lender, an “Incremental Term Lender,” in each case, as defined in the Amended Credit Agreement, (vi) each 2025-1 Incremental Revolving Credit Lender shall constitute a “Lender,” a 
+
+7
+
+“Revolving Credit Lender,” an “Additional Lender” and an “Incremental Revolving Credit Lender,” in each case, as defined in the Amended Credit Agreement, (vii) each 2025-1 Incremental Revolving Credit Commitment shall constitute a “Revolving Commitment,” a “Revolving Commitment Increase” and an “Incremental Revolving Credit Commitment,” in each case, as defined in the Amended Credit Agreement and (viii) this Second Amendment shall constitute a “Refinancing Amendment” and an “Incremental Amendment,” in each case, as defined in the Amended Credit Agreement. On and after the effectiveness of this Second Amendment, each of this Second Amendment and the Engagement Letter (as defined below) shall for all purposes constitute a “Credit Document” under and as defined in the Amended Credit Agreement and the other Credit Documents.
+
+(b)
+
+The Amended Credit Agreement and each of the other Credit Documents, as specifically amended by this Second Amendment, are and shall continue to be in full force and effect and are hereby in all respects ratified and confirmed. Without limiting the generality of the foregoing, the Collateral Documents and all of the Collateral described therein do and shall continue to secure the payment of all Obligations of the Credit Parties, as amended by this Second Amendment.
+
+(c)
+
+The execution, delivery and effectiveness of this Second Amendment shall not, except as expressly provided herein, operate as a waiver of any right, power or remedy of any Lender, the Administrative Agent or the Collateral Agent under any of the Credit Documents, nor constitute a waiver of any provision of any of the Credit Documents.
+
+SECTION 6.
+
+REPRESENTATIONS & WARRANTIES
+
+. In order to induce each Lender party hereto and the Administrative Agent to enter into this Second Amendment, each Credit Party hereby represents and warrants to each Lender and the Administrative Agent on and as of the Second Amendment Effective Date, that:
+
+(a)
+
+each Credit Party party hereto has all requisite power and authority to execute, deliver and perform its obligations under this Second Amendment and the Amended Credit Agreement, in each case, to which it is a party and to carry out the transactions contemplated thereby;
+
+(b)
+
+the execution, delivery and performance of this Second Amendment has been duly authorized by all necessary action on the part of each Credit Party that is a party hereto;
+
+(c)
+
+this Second Amendment has been duly executed and delivered by each Credit Party that is a party hereto and is the legally valid and binding obligation of such Credit Party, enforceable against such Credit Party in accordance with its respective terms, except as may be limited by bankruptcy, insolvency, reorganization, moratorium or similar laws relating to or limiting creditors’ rights generally or by equitable principles relating to enforceability; and
+
+(d)
+
+each of the representations and warranties set forth in the Credit Agreement and in the other Credit Documents is true and correct in all material respects on and as of the Second Amendment Effective Date with the same effect as though made on and as of such date, except to the extent such representations and warranties expressly relate to an earlier date, in which case they shall be true and correct in all material respects as of such earlier date; 
+
+provided
+
+, 
+
+however
+
+, that, any representation and warranty that is qualified as to “materiality,” “Material Adverse Effect” or similar language shall be true and correct (after giving effect to any qualification therein) in all respects on such respective dates.
+
+SECTION 7.
+
+CONDITIONS PRECEDENT
+
+. This Second Amendment shall become effective as of the first date (the “
+
+Second Amendment Effective Date
+
+”) when each of the conditions set forth in this 
+
+Section 7
+
+ shall have been satisfied:
+
+8
+
+(i)
+
+There shall have been delivered to the Administrative Agent from the Borrower Representative, each other Credit Party, each 2025-1 Refinancing Term Lender, each 2025-1 Incremental Lender and each Revolving Credit Lender, an executed counterpart of this Second Amendment.
+
+(ii)
+
+The Administrative Agent shall have received a Note or Notes duly executed by the Borrower Representative in favor of any 2025-1 Refinancing Term Lender and any 2025-1 Incremental Lender that has requested the same at least two (2) Business Days prior the Second Amendment Effective Date.
+
+(iii)
+
+The Borrower Representative shall have delivered to the Administrative Agent a certificate, dated as of the Second Amendment Effective Date, signed by an Authorized Officer of the Borrower Representative certifying that the conditions in Section 7(vi), (ix) and (x) hereof have been satisfied as of the Second Amendment Effective Date.
+
+(iv)
+
+The Administrative Agent shall have received (x) a certificate of the secretary or assistant secretary on behalf of each Credit Party, dated the Second Amendment Effective Date, certifying (A) that attached thereto is a satisfactory copy of each Organizational Document of each Credit Party, as applicable, and, to the extent applicable, certified as of a recent date by the appropriate governmental official of the state of its organization; (B) as to the signature and incumbency of the officers of such Person executing this Second Amendment or any other document or instrument delivered in connection therewith on behalf of such Credit Party (together with a certification by another officer or authorized Person as to the signature and incumbency of the Person executing the certificate in this clause (iv); (C) that attached thereto is a true and complete copy of resolutions of the board of directors or similar governing body of each Credit Party approving and authorizing the execution, delivery and performance of this Second Amendment, certified as of the Second Amendment Effective Date by its secretary or an assistant secretary as being in full force and effect without modification, rescission or amendment; and (D) a good standing certificate (or certificate of similar effect or purpose) from the applicable Governmental Authority of each Credit Party’s jurisdiction of incorporation, organization or formation, each dated a recent date prior to the Second Amendment Effective Date; 
+
+provided
+
+ that in the case of the immediately preceding clauses (A) and (B), such documents shall not be required to be delivered if such certificate includes a certification by such officer that the applicable Organizational Document previously delivered to the Administrative Agent remains in full force and effect and have not been amended, modified, revoked or rescinded since the date such Organizational Document was delivered and (y) a “bring down” good standing certificate dated as of or about the Second Amendment Effective Date, as reasonably required by the Administrative Agent.
+
+(v)
+
+The Administrative Agent shall have received a Solvency Certificate in the form of Exhibit G-2 of the Credit Agreement, dated as of the Second Amendment Effective Date, and signed by an Authorized Officer of the Borrower Representative, certifying that after giving effect to the consummation of Sections 2 and 3 of this Second Amendment on the Second Amendment Effective Date, the Credit Parties, on a consolidated basis, are and will be Solvent. 
+
+(vi)
+
+Both immediately before and immediately after giving effect to this Second Amendment on the Second Amendment Effective Date, (i) no Default or Event of Default shall have occurred or be continuing or result therefrom and (ii) the representations and warranties contained in 
+
+Section 6
+
+ of this Second Amendment shall be true and correct.
+
+9
+
+(vii)
+
+Substantially contemporaneously with the Second Amendment Effective Date, the Borrower Representative shall pay all fees and expenses due to the Arrangers and the Administrative Agent related to this Second Amendment (including invoiced reasonable and out-of-pocket legal fees and expenses of White & Case LLP, counsel to the Arrangers and the Administrative Agent) and required to be paid (i) pursuant to this Second Amendment, (ii) pursuant to the Engagement Letter, dated June 20, 2025, among the Borrower Representative and Truist Securities (the “
+
+Engagement Letter
+
+”) or (iii) as otherwise agreed in writing on or prior to the date hereof, and, in the case of expenses, to the extent invoiced at least one (1) Business Day prior to the Second Amendment Effective Date (except as otherwise reasonably agreed by the Borrower Representative).
+
+(viii)
+
+The Administrative Agent shall have received, on behalf of itself and the Lenders party hereto, a customary opinion of Jones Day, counsel to the Credit Parties, as to matters of New York, Delaware, Georgia and California law with respect to the Credit Parties, dated as of the Second Amendment Effective Date and addressed to the Administrative Agent and the Lenders party hereto, in form and substance reasonably satisfactory to the Administrative Agent and covering matters concerning the Credit Parties and the Credit Documents as the Administrative Agent may reasonably request (and as each Credit Party hereby instructs such counsel to deliver such opinions to the Administrative Agent and such Lenders).
+
+(ix)
+
+All of the conditions specified in Section 2.24(d)(i) of the Credit Agreement and Section 2.25(c) of the Credit Agreement, respectively, with respect to the effectiveness of this Second Amendment as an “Incremental Amendment” and a “Refinancing Amendment” thereunder shall have been satisfied.
+
+(x)
+
+The Administrative Agent shall have received fully executed Funding Notices with respect to the 2025-1 Refinancing Term Loans and the 2025-1 Incremental Term Loans in accordance with Section 2.02 of the Credit Agreement.
+
+(xi)
+
+Concurrently with the making of the 2025-1 Refinancing Term Loans, the Borrower Representative shall have paid (or caused to be paid) to the Administrative Agent for the account of each Lender with outstanding Initial Term Loans immediately prior to the Second Amendment Effective Date, all accrued but unpaid interest owing with respect to such Initial Term Loans through the Second Amendment Effective Date.
+
+SECTION 8.
+
+REAFFIRMATION
+
+.
+
+(a)
+
+To induce the parties hereto to enter into this Second Amendment, each of the Credit Parties hereby acknowledges and reaffirms its obligations under each Credit Document to which it is a party, including, without limitation, any grant, pledge or collateral assignment of a lien or security interest, as applicable, contained therein, in each case, as amended, restated, amended and restated, supplemented or otherwise modified prior to or as of the date hereof. The Borrower Representative acknowledges and agrees that each of the Credit Documents to which it is a party or otherwise bound shall continue in full force and effect, that all of its obligations thereunder shall be valid and enforceable (except as may be limited by bankruptcy, insolvency, reorganization, moratorium or similar laws relating to or limiting creditors’ rights generally or by equitable principles relating to enforceability) and shall not be impaired or limited by the execution or effectiveness of this Second Amendment.
+
+(b)
+
+In furtherance of the foregoing 
+
+Section 8(a)
+
+, each Credit Party, in its capacity as a Guarantor under any Guaranty to which it is a party (in such capacity, each a “
+
+Reaffirming Loan 
+
+10
+
+Guarantor
+
+”), reaffirms its guarantee of the Guaranteed Obligations under the terms and conditions of such Guaranty and agrees that such Guaranty remains in full force and effect to the extent set forth in such Guaranty and after giving effect to this Second Amendment. Each Reaffirming Loan Guarantor hereby confirms that it consents to the terms of this Second Amendment and the Amended Credit Agreement. Each Reaffirming Loan Guarantor hereby (i) confirms that each Credit Document to which it is a party or is otherwise bound will continue to guarantee to the fullest extent possible in accordance with the Credit Documents, the payment and performance of the Guaranteed Obligations, including, without limitation, the payment and performance of all such applicable Guaranteed Obligations that are joint and several obligations of each Guarantor now or hereafter existing; (ii) acknowledges and agrees that its Guaranty and each of the Credit Documents to which it is a party or otherwise bound shall continue in full force and effect and that all of its obligations thereunder shall be valid and enforceable (except as may be limited by bankruptcy, insolvency, reorganization, moratorium or similar laws relating to or limiting creditors’ rights generally or by equitable principles relating to enforceability) and shall not be impaired or limited by the execution or effectiveness of this Second Amendment; and (iii) acknowledges, agrees and warrants for the benefit of the Administrative Agent and each Secured Party that there are no rights of set-off or counterclaim, nor any defenses of any kind, whether legal, equitable or otherwise, that would enable such Reaffirming Loan Guarantor to avoid or delay timely performance of its obligations under the Credit Documents.
+
+(c)
+
+In furtherance of the foregoing 
+
+Section 8(a)
+
+, each of the Credit Parties that is party to any Collateral Document, in its capacity as a Grantor (as defined in such Collateral Document) under such Collateral Document (in such capacity, each a “
+
+Reaffirming Grantor
+
+”), hereby acknowledges that it has reviewed and consents to the terms and conditions of this Second Amendment and the transactions contemplated hereby. In addition, each Reaffirming Grantor reaffirms the security interests granted by such Reaffirming Grantor under the terms and conditions of the Security Agreement and each other Credit Document (in each case, to the extent a party thereto) to secure the Obligations and agrees that such security interests remain in full force and effect. Each Reaffirming Grantor hereby (i) confirms that each Collateral Document to which it is a party or is otherwise bound and all Collateral encumbered thereby will continue to secure, to the fullest extent possible in accordance with the Collateral Documents, the payment and performance of the Obligations, as the case may be, including, without limitation, the payment and performance of all such applicable Obligations that are joint and several obligations of each Guarantor and Grantor now or hereafter existing, (ii) confirms its respective grant to the Collateral Agent for the benefit of the Secured Parties of the security interest in and continuing Lien on all of such Grantor’s right, title and interest in, to and under all Collateral, in each case, whether now owned or existing or hereafter acquired or arising and wherever located, as collateral security for the prompt and complete payment and performance in full when due, whether at stated maturity, by required prepayment, declaration, acceleration, demand or otherwise, of all applicable Obligations (including all such Obligations as amended, reaffirmed and/or increased pursuant to this Second Amendment), subject to the terms contained in the applicable Credit Documents, and (iii) confirms its respective pledges, grants of security interests and other obligations, as applicable, under and subject to the terms of each of the Collateral Documents to which it is a party. 
+
+(d)
+
+Each Guarantor acknowledges and agrees that (i) notwithstanding the conditions to effectiveness set forth in this Second Amendment, such Guarantor is not required by the terms of the Credit Agreement or any other Credit Document to consent to this Second Amendment and (ii) nothing in the Credit Agreement, this Second Amendment or any other Credit Document shall be deemed to require the consent of such Guarantor to any future amendment, consent or waiver of the terms of the Credit Agreement.
+
+11
+
+SECTION 9.
+
+LIMITED AMENDMENT
+
+.
+
+ 
+
+Each Credit Party hereto hereby agrees that with respect to each Credit Document to which it is a party, after giving effect to this Second Amendment, this Second Amendment is limited to the matters specified herein and shall not constitute a modification, acceptance or waiver of any other provision of the Credit Agreement or any other Credit Document.
+
+SECTION 10.
+
+CONSENT. 
+
+(a)
+
+The Borrower Representative hereby consents to the assignment of any 2025-1 Refinancing Term Loans and 2025-1 Incremental Term Loans pursuant to and in connection with the terms of this Second Amendment to the extent such consent would be required under Section 10.06 of the Amended Credit Agreement for an assignment of 2025-1 Refinancing Term Loans or 2025-1 Incremental Term Loans, as applicable, to any Eligible Assignee, in each case, to the extent disclosed to the Borrower Representative prior to the date hereof. The Borrower Representative hereby consents to the Administrative Agent’s use of the signature page attached hereto as 
+
+Exhibit A
+
+ in connection with the assignments to Eligible Assignees previously disclosed to the Borrower Representative in accordance with the immediately preceding sentence and the Administrative Agent may affix such signature page to each Assignment Agreement that relates to such assignments. 
+
+(b)
+
+The Administrative Agent hereby consents to the assignment of 2025-1 Refinancing Term Loans and 2025-1 Incremental Term Loans pursuant to and in connection with the terms of this Second Amendment to the extent such consent would be required under Section 10.06 of the Amended Credit Agreement for an assignment of 2025-1 Refinancing Term Loans or 2025-1 Incremental Term Loans, as applicable, to an Eligible Assignee and to use the signature page attached hereto as 
+
+Exhibit B
+
+ in connection with such assignments and that such signature page may be affixed to each applicable Assignment Agreement.
+
+SECTION 11.
+
+MISCELLANEOUS PROVISIONS
+
+.
+
+(a)
+
+Ratification
+
+. This Second Amendment is limited to the matters specified herein and shall not constitute a modification, acceptance or waiver of any other provision of the Credit Agreement or any other Credit Document except as set forth herein. Nothing herein contained shall be construed as a substitution or novation of the obligations outstanding under the Credit Agreement or any other Credit Document or instruments securing the same, which shall remain in full force and effect as modified hereby or by instruments executed concurrently herewith.
+
+(b)
+
+Governing Law; Submission to Jurisdiction, Etc
+
+. 
+
+THIS SECOND AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+
+ Sections 10.15 and 10.16 of the Credit Agreement are incorporated by reference herein as if such Sections appeared herein, 
+
+mutatis mutandis
+
+.
+
+(c)
+
+Severability
+
+. Section 10.11 of the Credit Agreement is incorporated by reference herein as if such Section appeared herein, 
+
+mutatis mutandis
+
+.
+
+(d)
+
+Counterparts; Headings
+
+. This Second Amendment may be executed in one or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. Delivery by telecopier, .pdf or other electronic imaging means of an executed counterpart of a signature page to this Second Amendment shall be effective as delivery of an original executed counterpart of this Second Amendment. The Agent may also require that signatures delivered by telecopier, .pdf or other electronic imaging means be confirmed by a manually signed original thereof; provided that the failure to request or deliver the same shall not limit the effectiveness of 
+
+12
+
+this Second Amendment or signature delivered by telecopier, .pdf or other electronic imaging means. The words “execution,” “execute,” “signed,” “signature,” and words of like import in or related to this Second Amendment or any other document to be signed in connection with this Second Amendment and the transactions contemplated hereby shall be deemed to include electronic signatures, the electronic matching of assignment terms and contract formations on electronic platforms approved by the Administrative Agent, or the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided for in any applicable law, including the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act provided that notwithstanding anything contained herein to the contrary, the Administrative Agent is under no obligation to agree to accept electronic signatures in any form or in any format unless expressly agreed to by the Administrative Agent pursuant to procedures approved by it. Section headings herein are included for convenience of reference only and shall not affect the interpretation of this Second Amendment.
+
+(e)
+
+Costs and Expenses
+
+. The Borrower Representative hereby agrees to pay and reimburse the Administrative Agent for its reasonable and documented out-of-pocket expenses in connection with the negotiation, preparation, syndication and execution and delivery of this Second Amendment, including without limitation, the reasonable fees, charges and disbursements of one counsel for the Administrative Agent, all in accordance with Section 10.02 of the Credit Agreement.
+
+[The remainder of this page is intentionally left blank]
+
+13
+
+IN WITNESS WHEREOF, the parties hereto have executed and delivered this Second Amendment as of the date first above written.
+
+PRIORITY HOLDINGS, LLC
+
+, as the Borrower Representative
+
+By: 
+
+/s/ Thomas C. Priore    
+
+Name: Thomas C. Priore
+
+Title: President and CEO
+
+PRIORITY COMMERCIAL PAYMENTS, LLC
+
+, as a Guarantor
+
+By: 
+
+/s/ Thomas C. Priore    
+
+Name: Thomas C. Priore
+
+Title: President and CEO
+
+PRIORITY PAYMENT SYSTEMS LLC
+
+, as a Guarantor
+
+By:    
+
+/s/ Thomas C. Priore    
+
+Name: Thomas C. Priore
+
+Title: President and CEO
+
+PRIORITY FINANCE, LLC
+
+, as a Guarantor
+
+By:    
+
+/s/ Thomas C. Priore    
+
+Name: Thomas C. Priore
+
+Title: President and CEO
+
+PRIORITY REAL ESTATE TECHNOLOGY, LLC
+
+, as a Guarantor
+
+By:    
+
+/s/ Thomas C. Priore    
+
+Name: Thomas C. Priore
+
+Title: President and CEO
+
+[Signature Page to Second Amendment]
+
+PRIORITY HOSPITALITY TECHNOLOGY, LLC
+
+, as a Guarantor
+
+By:    
+
+/s/ Thomas C. Priore    
+
+Name: Thomas C. Priore
+
+Title: President and CEO
+
+FINXERA HOLDINGS, INC.
+
+, as a Guarantor
+
+By:    
+
+/s/ Thomas C. Priore    
+
+Name: Thomas C. Priore
+
+Title: President and CEO
+
+FINXERA INTERMEDIATE, LLC
+
+, as a Guarantor
+
+By:    
+
+/s/ Thomas C. Priore    
+
+Name: Thomas C. Priore
+
+Title: President and CEO
+
+FINXERA, INC.
+
+, as a Guarantor
+
+By:    
+
+/s/ Thomas C. Priore    
+
+Name: Thomas C. Priore
+
+Title: President and CEO
+
+PRIORITY PAYRIGHT HEALTH SOLUTIONS, LLC
+
+, as a Guarantor
+
+By:    
+
+/s/ Thomas C. Priore    
+
+Name: Thomas C. Priore 
+
+Title: President and CEO
+
+ 
+
+PRIORITY ACCOUNT ADMINISTRATION SERVICES, INC.
+
+, as a Guarantor
+
+By:    
+
+/s/ Thomas C. Priore    
+
+Name: Thomas C. Priore
+
+Title: President and CEO
+
+PRIORITY TECH VENTURES, LLC
+
+, as a Guarantor
+
+By:    
+
+/s/ Thomas C. Priore    
+
+Name: Thomas C. Priore
+
+Title: President and CEO
+
+ 
+
+TRUIST BANK
+
+, as the Administrative Agent, Collateral Agent, the 2025-1 Incremental Term Lender and the 2025-1 Designated Fronting Lender
+
+By:     
+
+/s/ Tyler Stephens    
+
+    Name: Tyler Stephens
+
+    Title: Director
+
+ 
+
+GOLDMAN SACHS PRIVATE CREDIT CORP
+
+, as a New 2025-1 Refinancing Term Lender
+
+By:     
+
+/s/ Matthew Carter    
+
+    Name: Matthew Carter
+
+    Title: Vice President
+
+[Signature Page to Second Amendment]
+
+SYNOVUS BANK
+
+, as a Revolving Credit Lender and a 2025-1 Incremental Revolving Credit Lender
+
+By:     
+
+/s/ Brooks Asger    
+
+    Name: Brooks Asger
+
+    Title: Vice President 
+
+THE HUNTINGTON NATIONAL BANK
+
+, as a Revolving Credit Lender and a 2025-1 Incremental Revolving Credit Lender
+
+By:     
+
+/s/ Michelle Frederick    
+
+    Name: Michelle Frederick
+
+    Title: Vice President
+
+THE TORONTO-DOMINION BANK, NEW YORK BRANCH
+
+, as a Revolving Credit Lender and a 2025-1 Incremental Revolving Credit Lender
+
+By:     
+
+/s/ Archana Joshee    
+
+    Name: Archana Joshee
+
+    Title: Authorized Signatory
+
+SOUTHSTATE BANK, N.A.
+
+, as a Revolving Credit Lender
+
+By:     
+
+/s/ Blair J. Bond    
+
+    Name: Blair J. Bond
+
+    Title: SVP
+
+ 
+
+[2025-1 Converting Lender Signature Pages on file with Administrative Agent]
+
+ 
+
+ANNEX I
+
+2025-1 Incremental Revolving Credit Commitments
+
+2025-1 Incremental Revolving Credit Lender
+
+2025-1 Incremental Revolving Credit Commitment
+
+Synovus Bank
+
+$15,000,000.00
+
+The Huntington National Bank
+
+$10,000,000.00
+
+The Toronto-Dominion Bank, New York Branch
+
+$5,000,000.00
+
+TOTAL:
+
+$30,000,000.00

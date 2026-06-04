@@ -1,12 +1,12 @@
 import { NextRequest, NextResponse } from "next/server"
 import { codefPost, rsaEncrypt } from "@/lib/codef-client"
 import { getSession, saveSession } from "@/lib/session-store"
-import { saveUser } from "@/app/api/insurance/check-user/route"
+import { saveRegisteredUser } from "@/lib/db/registered-user"
 
 export async function POST(req: NextRequest) {
   try {
     const { sessionId, smsAuthNo } = await req.json()
-    const session = getSession(sessionId)
+    const session = await getSession(sessionId)
     if (!session) return NextResponse.json({ error: "세션 만료." }, { status: 404 })
 
     // authMethod "1" = PASS (simpleAuth), "0" = SMS (smsAuthNo)
@@ -25,14 +25,14 @@ export async function POST(req: NextRequest) {
 
     // Already registered
     if (code === "CF-12069") {
-      saveUser(session.baseParams.phoneNo as string, session.baseParams.birthDate as string, session.regId!, session.regPw!)
-      saveSession(sessionId, { loginId: session.regId, loginPw: session.regPw, step: "done" })
+      await saveRegisteredUser(session.baseParams.phoneNo as string, session.baseParams.birthDate as string, session.regId!, session.regPw!)
+      await saveSession(sessionId, { loginId: session.regId, loginPw: session.regPw, step: "done" })
       return NextResponse.json({ status: "registered", sessionId })
     }
 
     // Update twoWayInfo
     if (result?.data?.jti) {
-      saveSession(sessionId, {
+      await saveSession(sessionId, {
         twoWayInfo: {
           jobIndex: result.data.jobIndex ?? session.twoWayInfo?.jobIndex,
           threadIndex: result.data.threadIndex ?? session.twoWayInfo?.threadIndex,
@@ -44,7 +44,7 @@ export async function POST(req: NextRequest) {
 
     // Registration info needed — auto-submit from session
     if ("reqUserId" in extraInfo || "reqUserPass" in extraInfo) {
-      const updated = getSession(sessionId)!
+      const updated = (await getSession(sessionId))!
       const infoParams = {
         ...updated.baseParams,
         id: updated.regId,
@@ -58,7 +58,7 @@ export async function POST(req: NextRequest) {
       const infoExtra = infoResult?.data?.extraInfo || {}
 
       if ("reqEmailAuthNo" in infoExtra || infoCode === "CF-03002") {
-        saveSession(sessionId, {
+        await saveSession(sessionId, {
           step: "email_auth",
           twoWayInfo: {
             jobIndex: infoResult?.data?.jobIndex ?? updated.twoWayInfo?.jobIndex,
@@ -73,14 +73,20 @@ export async function POST(req: NextRequest) {
         return NextResponse.json({ status: "need_email_auth", sessionId })
       }
       if (infoCode === "CF-00000") {
-        saveSession(sessionId, { step: "done" })
+        await saveSession(sessionId, { step: "done" })
+        if (updated.regId && updated.regPw) {
+          await saveRegisteredUser(updated.baseParams.phoneNo as string, updated.baseParams.birthDate as string, updated.regId, updated.regPw)
+        }
         return NextResponse.json({ status: "registered", sessionId })
       }
       return NextResponse.json({ status: "error", error: infoResult?.result?.message, code: infoCode }, { status: 400 })
     }
 
     if (code === "CF-00000") {
-      saveSession(sessionId, { step: "done" })
+      await saveSession(sessionId, { step: "done" })
+      if (session.regId && session.regPw) {
+        await saveRegisteredUser(session.baseParams.phoneNo as string, session.baseParams.birthDate as string, session.regId, session.regPw)
+      }
       return NextResponse.json({ status: "registered", sessionId })
     }
     if (code === "CF-03002") {

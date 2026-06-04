@@ -1,0 +1,163 @@
+EX-10.2
+
+3
+
+ex102eleventhamendmenttocr.htm
+
+EX-10.2 ELEVENTH AMENDMENT TO CREDIT AGREEMENT, DATED SEPTEMBER 30, 2024
+
+Document
+
+Execution Version
+
+ELEVENTH AMENDMENT TO CREDIT AGREEMENT
+
+    THIS ELEVENTH AMENDMENT TO CREDIT AGREEMENT, dated as of September 30, 2024 (this “
+
+Amendment
+
+”), is by and among SIFCO Industries, Inc., an Ohio corporation (“
+
+SIFCO
+
+”), and Quality Aluminum Forge, LLC, an Ohio limited liability company (“
+
+Quality Forge
+
+” and, together with SIFCO, collectively, the “
+
+Borrowers
+
+” and each, individually, a “
+
+Borrower
+
+”), any other Loan Parties party hereto, and JPMorgan Chase Bank, N.A., a national banking association (the “
+
+Lender
+
+”).
+
+RECITALS
+
+                                        
+
+    A.    The Borrowers, any other Loan Parties party thereto, and the Lender are parties to a Credit Agreement dated as of August 8, 2018 (as amended and as it may be further amended or modified from time to time, the “
+
+Credit Agreement
+
+”). 
+
+    B.    The Borrowers and any other Loan Parties desire to amend the Credit Agreement, and the Lender is willing to do so in accordance with the terms hereof.
+
+    
+
+TERMS
+
+    In consideration of the premises and of the mutual agreements herein contained, the parties agree as follows:
+
+    ARTICLE 1. 
+
+AMENDMENTS
+
+. Upon fulfillment of the conditions set forth in Article III hereof, the Credit Agreement shall be amended effective as of the date hereof as follows:
+
+    1.1    Section 2 of the Terms Schedule to the Credit Agreement is hereby amended and restated as follows:
+
+2.    
+
+Maturity Date
+
+ (Definitions Schedule): 
+
+November 6, 2024, or any earlier date on which the Revolving Commitment is reduced to zero or otherwise terminated pursuant to the terms hereof.
+
+    ARTICLE II. 
+
+REPRESENTATIONS
+
+. Each Loan Party represents and warrants to the Lender that:
+
+    2.1    This Amendment has been duly executed and delivered by such Loan Party and constitutes a legal, valid and binding obligation of such Loan Party, enforceable in accordance with its terms, subject to applicable bankruptcy, insolvency, reorganization, moratorium or other laws affecting creditors’ rights generally and subject to general principles of equity, regardless of whether considered in a proceeding in equity or at law. 
+
+    2.2    After giving effect to this Amendment, the representations and warranties contained in Article III of the Credit Agreement and in the other Loan Documents are true in all material respects on and as of the date hereof with the same force and effect as if made on and as of the date hereof (it being understood and agreed that any representation or warranty which by its terms is made as of a specified date shall be required to be true and correct in all material respects only as of such specified date, and that any representation or warranty which is subject to any materiality qualifier shall be required to be true and correct in all respects). 
+
+    2.3    After giving effect to this Amendment, no Default exists or has occurred and is continuing, and no Default will be caused after giving effect to this Amendment.
+
+    2.4    All certifications, representations and other statements made in each Borrower’s Officer’s Certificate dated as of August 8, 2018 and delivered to Lender are true on and as of the date hereof with the same force and effect as if made on and as of the date hereof and all resolutions and other statements referenced therein are in full force and effect, have not been rescinded and authorize the execution, delivery and performance of this Amendment. 
+
+1
+
+    ARTICLE III. 
+
+CONDITIONS OF EFFECTIVENESS
+
+. This Amendment shall become effective as of the date hereof when each of the following conditions is satisfied:
+
+    
+
+    3.1    The Loan Parties and the Lender shall have signed this Amendment.
+
+    3.2    The Lender shall have received a copy of the fully executed Sixth Amendment to the Export Credit Agreement dated as of the date hereof.
+
+    3.3    The Lender shall have received such other documents as disclosed on the closing list provided to the Loan Parties prior to the date hereof.
+
+ARTICLE IV. 
+
+MISCELLANEOUS
+
+.
+
+4.1    No amendment fee shall be incurred upon the execution of this Amendment, provided that the Lender receives payment in full of the Secured Obligations (excluding certain Letter of Credit obligations and continuing Banking Services Obligations that the Lender agrees can be cash collateralized) by October 19, 2024. If the Secured Obligations (excluding certain Letter of Credit obligations and continuing Banking Services Obligations that the Lender agrees can be cash collateralized) are not paid in full by October 19, 2024, the Borrowers will incur an amendment fee in an amount equal to $100,000. This amendment fee shall be due and payable by the Borrowers to the Lender upon the earlier of (i) the final payoff of the Secured Obligations (excluding certain Letter of Credit obligations and continuing Banking Services Obligations that the Lender agrees can be cash collateralized) or (ii) November 6, 2024.
+
+4.2    References in the Credit Agreement or in any other Loan Document to the Credit Agreement shall be deemed to be references to the Credit Agreement as amended hereby, as amended previously and as further amended from time to time. 
+
+4.3    Except as expressly amended hereby, each of the Loan Parties agrees that the Credit Agreement and the other Loan Documents are ratified and confirmed, as amended hereby, and shall remain in full force and effect in accordance with their terms and that they are not aware of any set off, counterclaim, defense or other claim or dispute with respect to any of the foregoing. Each of the Loan Parties further (i) acknowledges and agrees that the Collateral Documents continue to be in full force and effect and are not impaired or adversely affected in any manner whatsoever, (ii) confirms its grant of security interests pursuant to the Collateral Documents to which it is a party in all Collateral and securing all Secured Obligations, and (iii) acknowledges that all Liens granted (or purported to be granted) pursuant to the Collateral Documents remain and continue in full force and effect in respect of, and to secure, the Secured Obligations. The execution, delivery and effectiveness of this Amendment shall not operate as a waiver of any right, power or remedy of the Lender under any of the Loan Documents, nor constitute a waiver of any provision of any of the Loan Documents. Nothing herein shall be deemed to entitle any Loan Party to any future consent to, or waiver, amendment, modification or other change of, any of the terms, conditions, obligations, covenants or agreements contained in the Credit Agreement or any other Loan Document in similar or different circumstances. 
+
+    4.4    Each Loan Party represents and warrants that it is not aware of any claims or causes of action against the Lender or any of its affiliates, successors or assigns, and that it has no defenses, offsets or counterclaims with respect to the Secured Obligations. Notwithstanding this representation and as further consideration for the agreements and understandings herein, each Loan Party, on behalf of itself and its employees, agents, executors, heirs, successors and assigns (the “Releasing Parties”), hereby releases the Lender and its predecessors, officers, directors, employees, agents, attorneys, affiliates, subsidiaries, successors and assigns (the “Released Parties”), from any liability, claim, right or cause of action which now exists or hereafter arises as a result of acts, omissions or events occurring on or prior to the date hereof, whether known or unknown, including but not limited to claims arising from or in any way related to this Agreement, the other Loan Documents, all transactions relating to this Agreement or any of the other Loan Documents or the business relationship among, or any other transactions or dealings among, the Releasing Parties or any of them and the Released Parties or any of them. 
+
+    4.5    Capitalized terms used but not defined herein shall have the respective meanings ascribed thereto in the Credit Agreement. This Amendment is a Loan Document. This Amendment may be signed 
+
+2
+
+upon any number of counterparts with the same effect as if the signatures thereto and hereto were upon the same instrument. Among other provisions of the Credit Agreement, this Amendment is subject to Sections 8.06, 8.09 and 8.10 of the Credit Agreement.
+
+[Signature Pages Follow]
+
+3
+
+    IN WITNESS WHEREOF, the parties signing this Amendment have caused this Amendment to be duly executed and delivered as of the day and year first above written.
+
+BORROWERS:
+
+                        SIFCO INDUSTRIES, INC.
+
+By:____/s/____________________________________
+
+Name: Thomas R. Kubera
+
+Title: Chief Financial Officer
+
+                        
+
+                        QUALITY ALUMINUM FORGE, LLC
+
+By:_____/s/___________________________________
+
+Name: Thomas R. Kubera
+
+Title: Treasurer & Chief Financial Officer
+
+SIFCO Eleventh Amendment Signature Page
+
+                        LENDER:
+
+JPMORGAN CHASE BANK, N.A. 
+
+By:____/s/____________________________________
+
+Name: Karson Malecky
+
+Title: Authorized Officer
+
+SIFCO Eleventh Amendment Signature Page

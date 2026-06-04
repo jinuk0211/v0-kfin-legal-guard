@@ -1,0 +1,1685 @@
+EX-10.1
+
+2
+
+ex101-fourthamendmenttothi.htm
+
+EX-10.1
+
+Document
+
+Exhibit 10.1
+
+Execution Version
+
+FOURTH AMENDMENT TO THIRD AMENDED AND RESTATED
+CREDIT AGREEMENT
+
+This Fourth Amendment to Third Amended and Restated Credit Agreement (this “
+
+Fourth Amendment
+
+”) dated as of December 16, 2024 (the “
+
+Fourth Amendment Effective Date
+
+”), is among Sitio Royalties Operating Partnership, LP, a Delaware limited partnership (the “
+
+Borrower
+
+”), each of the undersigned guarantors (collectively, the “
+
+Guarantors
+
+” and together with the Borrower, the “
+
+Loan Parties
+
+”), each of the Lenders (as defined below) party hereto and JPMorgan Chase Bank, N.A., as the Administrative Agent and as the Issuing Bank (as each such term is defined in the Existing Credit Agreement referred to below).
+
+R E C I T A L S
+
+A.    The Borrower, the Administrative Agent, the financial institutions party thereto as lenders (the “
+
+Lenders
+
+”), the Issuing Bank and the other parties thereto are parties to that certain Third Amended and Restated Credit Agreement dated as of February 3, 2023 (as amended, supplemented or otherwise modified prior to the date hereof, the “
+
+Existing Credit Agreement
+
+”; and the Existing Credit Agreement, as the same may be further amended, amended and restated, supplemented or otherwise modified from time to time, including by and after giving effect to this Fourth Amendment, the “
+
+Credit Agreement
+
+”), pursuant to which the Lenders and the Issuing Bank have agreed to make extensions of credit to the Borrower for the purposes and subject to the terms and conditions set forth therein.    
+
+B.    The parties hereto are entering into this Fourth Amendment to, among other things, (i) effectuate the Scheduled Redetermination of the Borrowing Base intended to be effective on or about November 1, 2024 by increasing the Borrowing Base from $850,000,000 to $925,000,000, (ii) increase the Aggregate Elected Commitment from $850,000,000 to $925,000,000 and (iii) amend certain other terms of the Existing Credit Agreement as provided for in 
+
+Section 2
+
+ hereof, in each case, on the terms and subject to the conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the premises and the mutual covenants herein contained, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows: 
+
+Section 1
+
+Defined Terms
+
+. Each capitalized term used herein and not otherwise defined herein has the meaning assigned to such term in the Credit Agreement. Unless otherwise indicated, all section references in this Fourth Amendment refer to sections of the Credit Agreement.
+
+Section 2
+
+Amendments to Credit Agreement
+
+. In reliance on the representations, warranties, covenants and agreements contained in this Fourth Amendment, and subject to the satisfaction (or waiver) of the conditions precedent set forth in 
+
+Section 5
+
+ hereof, the Existing Credit Agreement is hereby amended effective as of the Fourth Amendment Effective Date as set forth in this 
+
+Section 2
+
+.
+
+2.1
+
+Additional Definitions
+
+. Section 1.02 of the Existing Credit Agreement is hereby amended to add thereto in alphabetical order the following definitions which shall read in full as follows:
+
+“
+
+Fourth Amendment
+
+” means that certain Fourth Amendment to Third Amended and Restated Credit Agreement dated as of the Fourth Amendment Effective Date, by and among the Borrower, the Guarantors party thereto, the Administrative Agent, the Issuing Bank and the Lenders party thereto.
+
+“
+
+Fourth Amendment Effective Date
+
+” means December 16, 2024.
+
+2.2
+
+Amendment to Definitions of “Aggregate Elected Commitment”, “Agreement” and “Loan Documents”
+
+. Section 1.02 of the Existing Credit Agreement is hereby further amended to amend and restate the following definitions in their respective entireties to read in full as follows:
+
+“
+
+Aggregate Elected Commitment
+
+” means, at any time, an amount equal to the sum of the aggregate Elected Commitments, as the same may be increased, reduced or terminated pursuant to 
+
+Section 2.06(c)
+
+. The Aggregate Elected Commitment as of the Fourth Amendment Effective Date is $925,000,000.
+
+“
+
+Agreement
+
+” means this Third Amended and Restated Credit Agreement, including the Annexes, Schedules and Exhibits hereto, as amended by the First Amendment, the Second Amendment, the Third Amendment and the Fourth Amendment and as the same may from time to time be further amended, modified, supplemented or restated.
+
+“
+
+Loan Documents
+
+” means this Agreement, the First Amendment, the Second Amendment, the Third Amendment, the Fourth Amendment, the Notes, the Letter of Credit Agreements, the Letters of Credit, the Security Instruments, the Fee Letters, any certificate required to be delivered under this Agreement by or on behalf of any Loan Party, and any agreement executed by a Credit Party and any Loan Party which states that it is a “Loan Document” as defined herein.
+
+2.3
+
+Amendment to Section 2.07(a) (Borrowing Base)
+
+. The first sentence of Section 2.07(a) of the Existing Credit Agreement is hereby amended and restated in its entirety to read in full as follows:
+
+“On the Fourth Amendment Effective Date, the amount of the Borrowing Base is $925,000,000.”
+
+2.4
+
+Replacement of Annex I
+
+. Annex I to the Existing Credit Agreement is hereby amended and restated in its entirety in the form of 
+
+Annex I
+
+ attached hereto and 
+
+2
+
+Annex I
+
+ attached hereto is hereby deemed to be attached as Annex I to the Credit Agreement.
+
+2.5
+
+Replacement of Schedule 8.19 (Post-Closing Matters)
+
+. Schedule 8.19 of the Existing Credit Agreement is hereby amended and restated in its entirety in the form of 
+
+Schedule 8.19
+
+ attached hereto and 
+
+Schedule 8.19
+
+ attached hereto is hereby deemed to be attached as 
+
+Schedule 8.19
+
+ to the Credit Agreement.
+
+Section 3
+
+Fall 2024 Scheduled Redetermination of Borrowing Base and Aggregate Elected Commitment
+
+. In reliance on the representations, warranties, covenants and agreements contained in this Fourth Amendment, and subject to the satisfaction (or waiver) of the conditions precedent set forth in 
+
+Section 5
+
+ hereof, (a) the Administrative Agent and the Lenders hereby agree that the existing Borrowing Base of $850,000,000 under the Credit Agreement shall be increased to $925,000,000 effective as of the Fourth Amendment Effective Date (the “
+
+Fall 2024 Scheduled
+
+ 
+
+Redetermination
+
+”) and continuing until the next Redetermination Date or other adjustment to the Borrowing Base, whichever occurs first pursuant to the Credit Agreement and (b) the Borrower, the Administrative Agent and the Lenders hereby agree that the Aggregate Elected Commitment shall be increased from $850,000,000 to $925,000,000 effective as of the Fourth Amendment Effective Date. The Borrower, the Administrative Agent and the Lenders party hereto hereby further agree that (i) the Fall 2024 Scheduled Redetermination provided for herein shall constitute the Scheduled Redetermination of the Borrowing Base scheduled to occur on November 1, 2024 or such date promptly thereafter as reasonably practicable for purposes of Section 2.07(b) of the Existing Credit Agreement and (ii) this Fourth Amendment constitutes the New Borrowing Base Notice with respect to the Fall 2024 Scheduled Redetermination. 
+
+Section 4
+
+Reallocation
+
+. In reliance on the representations, warranties, covenants and agreements contained in this Fourth Amendment, and subject to the satisfaction of the conditions precedent set forth in 
+
+Section 5
+
+ hereof, after giving effect to this Fourth Amendment, (a) each Lender hereby agrees that its Maximum Credit Amount, Elected Commitment and Applicable Percentage under the Credit Agreement effective as of the Fourth Amendment Effective Date shall be in the amount set forth opposite such Lender’s name on Annex I to the Credit Agreement (as amended hereby), (b) after giving effect to any Borrowing made on the Fourth Amendment Effective Date, each Lender that has outstanding Loans (and participations in Letters of Credit) in amounts less than its Applicable Percentage of all outstanding Loans (and participations in Letters of Credit) shall purchase outstanding Loans (and participations in Letters of Credit) from Lenders that have outstanding Loans (and participations in Letters of Credit) in amounts greater than their Applicable Percentage of all outstanding Loans (and participations in Letters of Credit) such that each Lender holds Loans (and participations in Letters of Credit) in its Applicable Percentage of all outstanding Loans (and participations in Letters of Credit), including with respect to portions of any outstanding Term Benchmark Loans which Term Benchmark Loans shall otherwise remain outstanding through the last day of the Interest Period applicable thereto unless repaid prior thereto by the Borrower after giving effect to the adjustments described in this 
+
+Section 4
+
+; 
+
+provided
+
+, that in no event shall any such advance, disbursement or other adjustment be considered an extinguishment, novation or retirement of the Obligations under the Credit Agreement or any other Loan Document and (c) the adjustments pursuant to this 
+
+Section 4
+
+ shall 
+
+3
+
+be deemed to occur simultaneously with the Fourth Amendment Effective Date. Notwithstanding anything to the contrary, each Lender that would otherwise be entitled to request or require that the Borrower pay any break-funding payments pursuant to Section 5.02 of the Existing Credit Agreement expressly waives the requirement that the Borrower pay any such break-funding payments pursuant to Section 5.02 of the Existing Credit Agreement as a result of the reallocation of Loans and other adjustments set forth in this 
+
+Section 4
+
+.
+
+Section 5
+
+Conditions Precedent
+
+. The effectiveness of this Fourth Amendment and the amendments to the Credit Agreement set forth in 
+
+Section 2
+
+ hereof and the increase of the Borrowing Base and the Aggregate Elected Commitment set forth in 
+
+Section 3
+
+ hereof is subject to the satisfaction of the following conditions precedent:
+
+5.1    
+
+Counterparts
+
+. The Administrative Agent shall have received counterparts of this Fourth Amendment, duly executed by the Borrower, each Guarantor, the Administrative Agent and each Lender.
+
+5.2    
+
+Fees and Other Expenses
+
+. The Administrative Agent shall have received all fees and other amounts due and payable by the Borrower on or prior to the Fourth Amendment Effective Date.
+
+5.3    
+
+Notes
+
+. The Administrative Agent shall have received Notes duly executed by the Borrower payable to each Lender that has, at least one Business Day prior to the Fourth Amendment Effective Date, requested a Note in a principal amount equal to its Maximum Credit Amount (as amended hereby) dated as of the date hereof.
+
+5.4    
+
+Reserve Report
+
+. The Administrative Agent shall have received a certificate covering the matters described in Section 8.12(c) of the Credit Agreement in respect of the Reserve Report evaluating the proved Oil and Gas Properties of the Loan Parties as of October 1, 2024 prepared by or under the supervision of the chief engineer of the Borrower or prepared by one or more Approved Petroleum Engineers (the “
+
+Fourth Amendment Reserve
+
+ 
+
+Report
+
+”).
+
+5.5    
+
+No Default or Borrowing Base Deficiency
+
+. Immediately prior to and after giving effect to this Fourth Amendment and any Borrowing being made on the Fourth Amendment Effective Date, (a) no Default shall have occurred and be continuing, (b) no Borrowing Base Deficiency shall have occurred and (c) each of the representations and warranties of the Borrower and the Guarantors set forth in the Credit Agreement and in the other Loan Documents shall be true and correct in all material respects (except to the extent any such representations and warranties are (i) limited by materiality or by reference to Material Adverse Effect, in which case, they shall be true and correct in all respects and (ii) expressly limited to an earlier date, in which case, on and as of the date hereof, such representations and warranties shall continue to be true and correct in all material respects as of such specified earlier date) on and as of the Fourth Amendment Effective Date. 
+
+4
+
+Notwithstanding anything to the contrary set forth in Section 12.02 of the Existing Credit Agreement or otherwise, the Administrative Agent is hereby authorized and directed to declare this Fourth Amendment to be effective on the date that it receives the foregoing, to the reasonable satisfaction of the Administrative Agent, or the waiver of such conditions as permitted hereby. Such declaration shall be final, conclusive and binding upon the Lenders and all other parties to the Existing Credit Agreement, as amended hereby, for all purposes.
+
+Section 6
+
+Miscellaneous
+
+.
+
+6.1    
+
+Counterparts
+
+. This Fourth Amendment may be executed in counterparts (and by different parties hereto on different counterparts), each of which shall constitute an original but all of which when taken together shall constitute a single contract, and all parties need not execute the same counterpart. Delivery of an executed counterpart of a signature page of this Fourth Amendment by telecopy, emailed .pdf, .tif or any other electronic means that reproduces an image of the actual executed signature page shall be effective as delivery of a manually executed counterpart of this Fourth Amendment. The words “execution,” “signed,” “signature,” “delivery,” and words of like import in or relating to any document to be signed in connection with this Fourth Amendment and the transactions contemplated hereby shall be deemed to include electronic signatures, deliveries or the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature, physical delivery thereof or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided for in any applicable law, including the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act. 
+
+6.2    
+
+Severability
+
+. Any provision of this Fourth Amendment held to be invalid, illegal or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such invalidity, illegality or unenforceability without affecting the validity, legality and enforceability of the remaining provisions hereof or thereof; and the invalidity of a particular provision in a particular jurisdiction shall not invalidate such provision in any other jurisdiction.
+
+6.3    
+
+Confirmation and Effect
+
+. The provisions of the Existing Credit Agreement (as amended by this Fourth Amendment) shall remain in full force and effect in accordance with its terms following the effectiveness of this Fourth Amendment, and this Fourth Amendment shall not constitute a waiver of any provision of the Existing Credit Agreement or any other Loan Document. Each reference in the Existing Credit Agreement to “this Agreement”, “hereunder”, “hereof”, “herein”, or words of like import shall mean and be a reference to the Existing Credit Agreement as amended hereby, and each reference to the Credit Agreement in any other document, instrument or agreement executed and/or delivered in connection with the Existing Credit Agreement and/or this Fourth Amendment shall mean and be a reference to the Existing Credit Agreement as amended hereby.
+
+5
+
+6.4    
+
+Ratification and Affirmation of Loan Parties
+
+. Each of the Loan Parties hereby expressly (a) acknowledges the terms of this Fourth Amendment, (b) ratifies and affirms its obligations under the Existing Credit Agreement, as amended hereby, and the other Loan Documents to which it is a party, (c) acknowledges and renews its continued liability under the Existing Credit Agreement, as amended hereby, and the other Loan Documents to which it is a party, (d) represents and warrants to the Lenders and the Administrative Agent that each representation and warranty of such Loan Party contained in the Existing Credit Agreement and the other Loan Documents to which it is a party is true and correct in all material respects as of the date hereof and immediately prior to and after giving effect to this Fourth Amendment, except (i) to the extent any such representations and warranties are expressly limited to an earlier date, in which case, on and as of the date hereof, such representations and warranties shall continue to be true and correct in all material respects as of such specified earlier date, and (ii) to the extent that any such representation and warranty is expressly qualified by materiality or by reference to Material Adverse Effect, such representation and warranty (as so qualified) shall continue to be true and correct in all respects, (e) represents and warrants to the Lenders and the Administrative Agent that the execution, delivery and performance by such Loan Party of this Fourth Amendment are within such Loan Party’s corporate, limited partnership or limited liability company powers (as applicable), have been duly authorized by all necessary action and that this Fourth Amendment constitutes the valid and binding obligation of such Loan Party enforceable in accordance with its terms, except as the enforceability thereof may be limited by bankruptcy, insolvency or similar laws affecting creditor’s rights generally, and (f) represents and warrants to the Lenders and the Administrative Agent that, immediately prior to and after giving effect to this Fourth Amendment, no Default exists. 
+
+6.5    
+
+Governing Law
+
+. This Fourth Amendment shall be governed by, and construed in accordance with, the laws of the State of New York, and shall be subject to the provisions of Section 12.09(b) through (d) of the Existing Credit Agreement, and such provisions shall apply to this Fourth Amendment 
+
+mutatis mutandis
+
+.
+
+6.6    
+
+ENTIRE AGREEMENT
+
+. THIS FOURTH AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES.
+
+6.7    
+
+Successors and Assigns
+
+. The provisions of this Fourth Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns permitted by the Credit Agreement.
+
+6.8    
+
+Loan Document
+
+. This Fourth Amendment shall constitute a “Loan Document” for all purposes under the other Loan Documents.
+
+[Remainder of this page intentionally left blank. Signature pages follow.]
+
+6
+
+IN WITNESS WHEREOF, the parties hereto have caused this Fourth Amendment to be executed by their respective officers or other authorized signatory thereunto duly authorized, as of the date first written above.
+
+BORROWER:    SITIO ROYALTIES OPERATING PARTNERSHIP, LP    
+
+By: Sitio Royalties GP, LLC, its general partner
+
+By: 
+
+/s/ Carrie Osicka    
+
+Name: Carrie Osicka
+
+Title: Chief Financial Officer 
+
+GUARANTORS:
+
+SITIO PERMIAN, LP
+
+By: Sitio Royalties Management, LLC, its general partner
+
+ 
+
+By: 
+
+/s/ Carrie Osicka    
+
+Name: Carrie Osicka
+Title: Chief Financial Officer
+
+SITIO EAGLE FORD, LP
+
+By: Sitio Royalties Management, LLC, its general partner
+
+By: 
+
+/s/ Carrie Osicka    
+
+Name: Carrie Osicka
+Title: Chief Financial Officer
+
+SITIO APPALACHIA, LP
+
+By: Sitio Royalties Management, LLC, its general partner
+
+By: 
+
+/s/ Carrie Osicka    
+
+Name: Carrie Osicka
+Title: Chief Financial Officer
+
+SITIO ANADARKO, LP
+
+By: Sitio Royalties Management, LLC, its general partner
+
+By: 
+
+/s/ Carrie Osicka    
+
+Name: Carrie Osicka
+Title: Chief Financial Officer
+
+S
+
+IGNATURE
+
+ P
+
+AGE
+
+ 
+
+TO
+
+ F
+
+OURTH
+
+ A
+
+MENDMENT
+
+ 
+
+TO
+
+ T
+
+HIRD
+
+ A
+
+MENDED
+
+ 
+
+AND
+
+ R
+
+ESTATED
+
+ C
+
+REDIT
+
+ A
+
+GREEMENT - 
+
+S
+
+ITIO
+
+ R
+
+OYALTIES
+
+ O
+
+PERATING
+
+ P
+
+ARTNERSHIP
+
+, LP
+
+SITIO ROCKIES, LP
+
+By: Sitio Royalties Management, LLC, its general partner
+
+By: 
+
+/s/ Carrie Osicka    
+
+Name: Carrie Osicka
+Title: Chief Financial Officer
+
+SITIO ROYALTIES MANAGEMENT HOLDINGS, INC.
+
+By: 
+
+/s/ Carrie Osicka    
+
+Name: Carrie Osicka
+Title: Chief Financial Officer
+
+SITIO ROYALTIES MANAGEMENT, LLC
+
+By: 
+
+/s/ Carrie Osicka    
+
+Name: Carrie Osicka
+Title: Chief Financial Officer
+
+S
+
+IGNATURE
+
+ P
+
+AGE
+
+ 
+
+TO
+
+ F
+
+OURTH
+
+ A
+
+MENDMENT
+
+ 
+
+TO
+
+ T
+
+HIRD
+
+ A
+
+MENDED
+
+ 
+
+AND
+
+ R
+
+ESTATED
+
+ C
+
+REDIT
+
+ A
+
+GREEMENT - 
+
+S
+
+ITIO
+
+ R
+
+OYALTIES
+
+ O
+
+PERATING
+
+ P
+
+ARTNERSHIP
+
+, LP
+
+    JPMORGAN CHASE BANK, N.A.,
+
+as Administrative Agent, Issuing Bank and a Lender
+
+By: 
+
+/s/ Robert Mendoza    
+
+Name: Robert Mendoza
+
+Title: Managing Director
+
+S
+
+IGNATURE
+
+ P
+
+AGE
+
+ 
+
+TO
+
+ F
+
+OURTH
+
+ A
+
+MENDMENT
+
+ 
+
+TO
+
+ T
+
+HIRD
+
+ A
+
+MENDED
+
+ 
+
+AND
+
+ R
+
+ESTATED
+
+ C
+
+REDIT
+
+ A
+
+GREEMENT - 
+
+S
+
+ITIO
+
+ R
+
+OYALTIES
+
+ O
+
+PERATING
+
+ P
+
+ARTNERSHIP
+
+, LP
+
+BANK OF AMERICA, N.A.
+
+,
+
+as a Lender
+
+By: 
+
+/s/ Kimberly Miller            
+
+Name: Kimberly Miller
+
+    Title: Director 
+
+S
+
+IGNATURE
+
+ P
+
+AGE
+
+ 
+
+TO
+
+ F
+
+OURTH
+
+ A
+
+MENDMENT
+
+ 
+
+TO
+
+ T
+
+HIRD
+
+ A
+
+MENDED
+
+ 
+
+AND
+
+ R
+
+ESTATED
+
+ C
+
+REDIT
+
+ A
+
+GREEMENT - 
+
+S
+
+ITIO
+
+ R
+
+OYALTIES
+
+ O
+
+PERATING
+
+ P
+
+ARTNERSHIP
+
+, LP
+
+CAPITAL ONE, NATIONAL ASSOCIATION
+
+,
+
+as a Lender
+
+By: 
+
+/s/ David Lee Garza            
+
+Name: David Lee Garza
+
+    Title: Vice President 
+
+S
+
+IGNATURE
+
+ P
+
+AGE
+
+ 
+
+TO
+
+ F
+
+OURTH
+
+ A
+
+MENDMENT
+
+ 
+
+TO
+
+ T
+
+HIRD
+
+ A
+
+MENDED
+
+ 
+
+AND
+
+ R
+
+ESTATED
+
+ C
+
+REDIT
+
+ A
+
+GREEMENT - 
+
+S
+
+ITIO
+
+ R
+
+OYALTIES
+
+ O
+
+PERATING
+
+ P
+
+ARTNERSHIP
+
+, LP
+
+CANADIAN IMPERIAL BANK OF COMMERCE, NEW YORK BRANCH
+
+,
+
+as a Lender
+
+By: 
+
+/s/ Scott W. Danvers            
+
+Name: Scott W. Danvers
+
+    Title: Authorized Signatory
+
+By: 
+
+/s/ Donovan C. Broussard        
+
+Name: Donovan C. Broussard
+
+    Title: Authorized Signatory 
+
+S
+
+IGNATURE
+
+ P
+
+AGE
+
+ 
+
+TO
+
+ F
+
+OURTH
+
+ A
+
+MENDMENT
+
+ 
+
+TO
+
+ T
+
+HIRD
+
+ A
+
+MENDED
+
+ 
+
+AND
+
+ R
+
+ESTATED
+
+ C
+
+REDIT
+
+ A
+
+GREEMENT - 
+
+S
+
+ITIO
+
+ R
+
+OYALTIES
+
+ O
+
+PERATING
+
+ P
+
+ARTNERSHIP
+
+, LP
+
+CITIBANK, N.A.
+
+,
+
+as a Lender
+
+By: 
+
+/s/ Cliff Vaz                
+
+Name: Cliff Vaz
+
+    Title: Vice President 
+
+S
+
+IGNATURE
+
+ P
+
+AGE
+
+ 
+
+TO
+
+ F
+
+OURTH
+
+ A
+
+MENDMENT
+
+ 
+
+TO
+
+ T
+
+HIRD
+
+ A
+
+MENDED
+
+ 
+
+AND
+
+ R
+
+ESTATED
+
+ C
+
+REDIT
+
+ A
+
+GREEMENT - 
+
+S
+
+ITIO
+
+ R
+
+OYALTIES
+
+ O
+
+PERATING
+
+ P
+
+ARTNERSHIP
+
+, LP
+
+KEYBANK NATIONAL ASSOCIATION
+
+,
+
+as a Lender
+
+By: 
+
+/s/ George E. McKean            
+
+Name: George McKean
+
+Title: Senior Vice President 
+
+S
+
+IGNATURE
+
+ P
+
+AGE
+
+ 
+
+TO
+
+ F
+
+OURTH
+
+ A
+
+MENDMENT
+
+ 
+
+TO
+
+ T
+
+HIRD
+
+ A
+
+MENDED
+
+ 
+
+AND
+
+ R
+
+ESTATED
+
+ C
+
+REDIT
+
+ A
+
+GREEMENT - 
+
+S
+
+ITIO
+
+ R
+
+OYALTIES
+
+ O
+
+PERATING
+
+ P
+
+ARTNERSHIP
+
+, LP
+
+MIZUHO BANK, LTD.
+
+,
+
+as a Lender
+
+By: 
+
+/s/ Edward Sacks                
+
+Name: Edward Sacks
+
+    Title: Managing Director 
+
+S
+
+IGNATURE
+
+ P
+
+AGE
+
+ 
+
+TO
+
+ F
+
+OURTH
+
+ A
+
+MENDMENT
+
+ 
+
+TO
+
+ T
+
+HIRD
+
+ A
+
+MENDED
+
+ 
+
+AND
+
+ R
+
+ESTATED
+
+ C
+
+REDIT
+
+ A
+
+GREEMENT - 
+
+S
+
+ITIO
+
+ R
+
+OYALTIES
+
+ O
+
+PERATING
+
+ P
+
+ARTNERSHIP
+
+, LP
+
+ROYAL BANK OF CANADA
+
+,
+
+as a Lender
+
+By: 
+
+/s/ Kristan Spivey                
+
+Name: Kristan Spivey
+
+    Title: Authorized Signatory 
+
+S
+
+IGNATURE
+
+ P
+
+AGE
+
+ 
+
+TO
+
+ F
+
+OURTH
+
+ A
+
+MENDMENT
+
+ 
+
+TO
+
+ T
+
+HIRD
+
+ A
+
+MENDED
+
+ 
+
+AND
+
+ R
+
+ESTATED
+
+ C
+
+REDIT
+
+ A
+
+GREEMENT - 
+
+S
+
+ITIO
+
+ R
+
+OYALTIES
+
+ O
+
+PERATING
+
+ P
+
+ARTNERSHIP
+
+, LP
+
+TRUIST BANK
+
+,
+
+as a Lender
+
+By: 
+
+/s/ Farhan Iqbal                
+
+Name: FARHAN IQBAL
+
+    Title: Director 
+
+S
+
+IGNATURE
+
+ P
+
+AGE
+
+ 
+
+TO
+
+ F
+
+OURTH
+
+ A
+
+MENDMENT
+
+ 
+
+TO
+
+ T
+
+HIRD
+
+ A
+
+MENDED
+
+ 
+
+AND
+
+ R
+
+ESTATED
+
+ C
+
+REDIT
+
+ A
+
+GREEMENT - 
+
+S
+
+ITIO
+
+ R
+
+OYALTIES
+
+ O
+
+PERATING
+
+ P
+
+ARTNERSHIP
+
+, LP
+
+BARCLAYS BANK PLC
+
+,
+
+as a Lender
+
+By: 
+
+/s/ Sydney G. Dennis            
+
+Name: Sydney G. Dennis
+
+    Title: Director 
+
+S
+
+IGNATURE
+
+ P
+
+AGE
+
+ 
+
+TO
+
+ F
+
+OURTH
+
+ A
+
+MENDMENT
+
+ 
+
+TO
+
+ T
+
+HIRD
+
+ A
+
+MENDED
+
+ 
+
+AND
+
+ R
+
+ESTATED
+
+ C
+
+REDIT
+
+ A
+
+GREEMENT - 
+
+S
+
+ITIO
+
+ R
+
+OYALTIES
+
+ O
+
+PERATING
+
+ P
+
+ARTNERSHIP
+
+, LP
+
+COMERICA BANK
+
+,
+
+as a Lender
+
+By: 
+
+/s/ Isabel Araujo                
+
+Name: Isabel Araujo
+
+    Title: Assistant Vice President 
+
+S
+
+IGNATURE
+
+ P
+
+AGE
+
+ 
+
+TO
+
+ F
+
+OURTH
+
+ A
+
+MENDMENT
+
+ 
+
+TO
+
+ T
+
+HIRD
+
+ A
+
+MENDED
+
+ 
+
+AND
+
+ R
+
+ESTATED
+
+ C
+
+REDIT
+
+ A
+
+GREEMENT - 
+
+S
+
+ITIO
+
+ R
+
+OYALTIES
+
+ O
+
+PERATING
+
+ P
+
+ARTNERSHIP
+
+, LP
+
+GOLDMAN SACHS BANK USA
+
+,
+
+as a Lender
+
+By: 
+
+/s/ Andrew B. Vernon            
+
+Name: Andrew Vernon
+
+    Title: Authorized Signatory 
+
+S
+
+IGNATURE
+
+ P
+
+AGE
+
+ 
+
+TO
+
+ F
+
+OURTH
+
+ A
+
+MENDMENT
+
+ 
+
+TO
+
+ T
+
+HIRD
+
+ A
+
+MENDED
+
+ 
+
+AND
+
+ R
+
+ESTATED
+
+ C
+
+REDIT
+
+ A
+
+GREEMENT - 
+
+S
+
+ITIO
+
+ R
+
+OYALTIES
+
+ O
+
+PERATING
+
+ P
+
+ARTNERSHIP
+
+, LP
+
+TEXAS CAPITAL BANK
+
+,
+
+as a Lender
+
+By: 
+
+/s/ Connor O’Reilly            
+
+Name: Connor O’Reilly
+
+    Title: Vice President
+
+S
+
+IGNATURE
+
+ P
+
+AGE
+
+ 
+
+TO
+
+ F
+
+OURTH
+
+ A
+
+MENDMENT
+
+ 
+
+TO
+
+ T
+
+HIRD
+
+ A
+
+MENDED
+
+ 
+
+AND
+
+ R
+
+ESTATED
+
+ C
+
+REDIT
+
+ A
+
+GREEMENT - 
+
+S
+
+ITIO
+
+ R
+
+OYALTIES
+
+ O
+
+PERATING
+
+ P
+
+ARTNERSHIP
+
+, LP
+
+FIRST HORIZON BANK
+
+, a Tennessee State Bank, as a Lender
+
+By: 
+
+/s/ Blake Norris                
+
+Name: Blake Norris
+
+    Title: Vice President – Energy Finance
+
+S
+
+IGNATURE
+
+ P
+
+AGE
+
+ 
+
+TO
+
+ F
+
+OURTH
+
+ A
+
+MENDMENT
+
+ 
+
+TO
+
+ T
+
+HIRD
+
+ A
+
+MENDED
+
+ 
+
+AND
+
+ R
+
+ESTATED
+
+ C
+
+REDIT
+
+ A
+
+GREEMENT - 
+
+S
+
+ITIO
+
+ R
+
+OYALTIES
+
+ O
+
+PERATING
+
+ P
+
+ARTNERSHIP
+
+, LP

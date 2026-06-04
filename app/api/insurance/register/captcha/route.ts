@@ -5,7 +5,7 @@ import { getSession, saveSession } from "@/lib/session-store"
 export async function POST(req: NextRequest) {
   try {
     const { sessionId, captchaValue } = await req.json()
-    const session = getSession(sessionId)
+    const session = await getSession(sessionId)
     if (!session) return NextResponse.json({ error: "세션 만료. 처음부터 다시 시작해주세요." }, { status: 404 })
 
     const params = {
@@ -17,7 +17,7 @@ export async function POST(req: NextRequest) {
     }
 
     const result = await codefPost("/v1/kr/insurance/0001/credit4u/register", params)
-    saveSession(sessionId, {
+    await saveSession(sessionId, {
       twoWayInfo: {
         jobIndex: result?.data?.jobIndex ?? session.twoWayInfo?.jobIndex,
         threadIndex: result?.data?.threadIndex ?? session.twoWayInfo?.threadIndex,

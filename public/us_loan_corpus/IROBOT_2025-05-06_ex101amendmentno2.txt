@@ -1,0 +1,489 @@
+EX-10.1
+
+2
+
+ex101amendmentno2.htm
+
+EX-10.1
+
+Document
+
+AMENDMENT NO. 2 TO CREDIT AGREEMENT
+
+THIS AMENDMENT NO. 2 TO CREDIT AGREEMENT, dated as of April 30, 2025 (this “
+
+Amendment No. 2
+
+”), is entered into by and among iRobot Corporation, a Delaware corporation (the “
+
+Borrower
+
+”), TCG Senior Funding L.L.C. (“
+
+TCG
+
+”), as administrative agent and collateral agent (in such capacities, the “
+
+Agent
+
+”) and the Lenders party hereto constituting all the Lenders under the Existing Credit Agreement (as defined below).
+
+W I T N E S S E T H
+
+:
+
+WHEREAS, the Borrower, TCG, as administrative agent and as collateral agent (together with its successors in such capacities, the “
+
+Administrative Agent
+
+”) and each lender from time to time party thereto (the “
+
+Lenders
+
+”) have entered into the Credit Agreement, dated as of July 24, 2023 (as amended by the Amendment No. 1, dated as of March 11, 2025, the “
+
+Existing Credit Agreement
+
+”, and as further amended by this Amendment No. 2, the “
+
+Credit Agreement
+
+”). 
+
+WHEREAS, Borrower has requested that the Lenders consent to certain amendments to the Credit Agreement, on the terms and subject to the conditions set forth in this Amendment No. 2;
+
+WHEREAS, Section 10.01 of the Credit Agreement permits the Administrative Agent (with the consent of each Lender) to enter into waivers, amendments, supplements or modifications to the Credit Agreement and the other Loan Documents with the relevant Loan Parties;
+
+WHEREAS, subject to the terms set forth herein, the Lenders party hereto are willing to amend the Credit Agreement as set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual agreements, provisions and covenants contained herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto, hereby agree as follows:
+
+SECTION 1.
+
+Defined Terms
+
+. Capitalized terms used herein (including in the preamble and recitals above) but not otherwise defined herein shall have the respective meanings ascribed to such terms in the Credit Agreement or the Existing Credit Agreement.
+
+SECTION 2.
+
+Amendment to the Existing Credit Agreement.
+
+ In accordance with Section 10.01 of the Credit Agreement, the Borrower, the Administrative Agent and the Lenders consisting of all the existing Lenders under the Credit Agreement hereby agree that on the Amendment No. 2 Effective Date, the Credit Agreement shall hereby be amended to replace the words “May 6, 2025” in the definition of “Amendment No. 1 Period” with the words “June 6, 2025”. 
+
+SECTION 3.
+
+Conditions to Effectiveness
+
+. The effectiveness of this Amendment No. 2 is subject to the satisfaction or waiver of the following conditions precedent (the date of such satisfaction or waiver, the “
+
+Amendment No. 2 Effective Date
+
+):
+
+(a)
+
+the Administrative Agent shall have received a counterpart signature page to this Amendment No. 2, duly executed by the Borrower, the other Loan Parties and the Lenders party to the Existing Credit Agreement;
+
+(b)
+
+on the Amendment No. 2 Effective Date (immediately after giving effect to this Amendment No. 2), (A) no Default or Event of Default shall be existing or be continuing immediately prior and at the time of the execution, delivery and performance of this Amendment No. 2 and (B) the representations and warranties of the Loan Parties set forth in this Amendment No. 2 shall be true and correct in all material respects (and in all respects if any such representation or warranty is already qualified by materiality (including by “Material Adverse Effect”)) on and as of the date of the Amendment No. 2 Effective Date, except to the extent that such representations and warranties specifically refer to an earlier date, in which case they shall be true and correct in all material respects (and in all respects if any such representation or warranty is already qualified by materiality (including by “Material Adverse Effect”)) as of such earlier date; and
+
+(c)
+
+all fees and reasonable and documented out-of-pocket expenses required to be paid on or before the Amendment No. 2 Effective Date in accordance with the Credit Agreement as in effect immediately prior to the Amendment No. 2 Effective Date, to the extent invoiced no later than the Amendment No. 2 Effective Date (or such later date as the Borrower may reasonably agree), shall have been paid, and the Borrower shall have provided to the Administrative Agent evidence of such payment in a form reasonably satisfactory to the Administrative Agent; provided that, for avoidance of doubt, federal reference numbers or analogous intrabank confirmation statements shall constitute evidence reasonably satisfactory to the Administrative Agent.
+
+SECTION 4.
+
+Representations and Warranties
+
+. Each Loan Party party hereto hereby represents and warrants to each Lender party hereto that, as of the Amendment No. 2 Effective Date: 
+
+(a)
+
+the execution, delivery and performance by each Loan Party of this Amendment No. 2, are within such Loan Party’s corporate or other organizational powers, have been duly authorized by all necessary corporate or other organizational action and do not and will not (a) contravene the terms of any of such Person’s Organization Documents, (b) conflict with, or result in any breach or contravention of any material contract that such Person is a party to except to the extent that any such conflict under this clause (b) would not reasonably be expected to have, individually or in the aggregate, a Material Adverse Effect, (c) result in the creation or imposition of any Lien (other than Permitted Liens) on any Collateral of such Person or (d) violate any Law or any writ, judgment, order, decree or arbitral award of any Governmental Authority except to the extent that any such violation under this clause (d) would not reasonably be expected to have, individually or in the aggregate, a Material Adverse Effect;
+
+(b)
+
+no approval, consent, exemption, authorization or other action by, or notice to, or filing with, any Governmental Authority or any other Person is necessary or required in connection with the execution, delivery, performance by, or enforcement against, any Loan Party of this Amendment No. 2, except for the approvals, consents, exemptions, authorizations, 
+
+actions, notices and filings which have been (or will on the Amendment No. 2 Effective Date be) duly obtained, taken, given or made and are in full force and effect; and
+
+(c)
+
+as of the Amendment No. 2 Effective Date (immediately after giving effect to this Amendment No. 2), each of the representations and warranties of the Borrower and each of the other Loan Parties, set forth in Article V of the Amended Credit Agreement and the other Loan Documents are true and correct in all material respects (and in all respects if any such representation or warranty is already qualified by materiality (including by “Material Adverse Effect”)) on and as of the date of the Amendment No. 2 Effective Date as if made on the date hereof, except to the extent that such representations and warranties specifically refer to an earlier date, in which case they shall be true and correct in all material respects (and in all respects if any such representation or warranty is already qualified by materiality (including by “Material Adverse Effect”)) as of such earlier date.
+
+SECTION 5.
+
+No modification
+
+. 
+
+(a)
+
+Except as expressly amended hereby, the Credit Agreement and the other Loan Documents remain unmodified and in full force and effect. The parties hereto agree to be bound by the terms and conditions of the Credit Agreement and the other Loan Documents as amended by this Amendment No. 2, as though such terms and conditions were set forth herein. On and after the Amendment No. 2 Effective Date, each reference in the Credit Agreement to “this Agreement”, “hereunder”, “hereof”, “herein” or words of similar import shall mean and be a reference to the Credit Agreement as amended hereby, and each reference in any other Loan Document (including any notice, request, certificate or other document executed concurrently with or after the execution and delivery of this Amendment No. 2) to the Credit Agreement shall be deemed to be a reference to the Credit Agreement as amended hereby. This Amendment No. 2 shall constitute a Loan Document. 
+
+(b)
+
+Except as otherwise expressly set forth herein, the execution, delivery and effectiveness of this Amendment No. 2 shall not, except as expressly provided herein, (i) operate as a waiver or amendment of any right, power or remedy of any Lender or the Administrative Agent under any of the Loan Documents, (ii) constitute a waiver of any provision of any of the Loan Documents, or (iii) constitute a course of dealing or other basis for altering any Obligations or any other contract or instrument or otherwise impair the future ability of the Administrative Agent or the Lenders to declare a Default or Event of Default under or otherwise enforce the terms of the Credit Agreement or any other Loan Document. 
+
+SECTION 6.
+
+Reaffirmation of Obligations
+
+. Each of the Loan Parties as debtor, grantor, pledgor, guarantor, assignor or in any other similar capacity in which such Loan Party grants liens or security interests in its property or otherwise acts as accommodation party or guarantor, as the case may be, hereby (i) ratifies and reaffirms all of its payment and performance obligations, contingent or otherwise, under each of the Loan Documents to which it is a party (after giving effect hereto) and (ii) to the extent such Loan Party granted liens on or security interests in any of its property pursuant to any such Loan Document as security for or otherwise guaranteed the Secured Obligations, ratifies and reaffirms such guarantee and grant of security interests and liens and confirms and agrees that such security interests and liens hereafter secure 
+
+all of the Secured Obligations as amended hereby. Each of the Loan Parties hereby consents to this Amendment No. 2 and acknowledges that, except as expressly amended hereby, each of the Loan Documents remains in full force and effect and is hereby ratified and reaffirmed.
+
+SECTION 7.
+
+General Release
+
+. In consideration of the Administrative Agent’s and the Lenders’ willingness to enter into this Amendment No. 2, each of the Borrower and the other Loan Parties hereby releases and forever discharges each Agent, the Lenders and each of each Agent’s and the Lenders’ successors, assigns, officers, managers, directors, employees, agents, attorneys, representatives, and Affiliates (hereinafter all of the above collectively referred to as the “
+
+Releasees
+
+”), from any and all claims, counterclaims, damages, suits, liabilities, actions and causes of action of any nature whatsoever, in each case solely to the extent based in whole or in part on facts, whether or not now known, existing before the Amendment No. 2 Effective Date, that relate to, arise out of or otherwise are in connection with the Loan Documents or any of the negotiations, events or circumstances arising out of or related to the Loan Documents through (but not including) the Amendment No. 2 Effective Date, whether now existing or hereafter arising at law or in equity, whether known or unknown, whether liability be direct or indirect, liquidated or unliquidated, whether absolute or contingent, foreseen or unforeseen, and whether or not heretofore asserted, which each of the Loan Parties may have or claim to have against any of the Releasees, except, in each case, of the foregoing, any claims, counterclaims, damages, suits, liabilities, actions and causes of action of any nature whatsoever arising out of the gross negligence, bad faith or willful misconduct of the Releasees, in any case, as determined by a court of competent jurisdiction in a final, non-appealable judgment. 
+
+SECTION 8.
+
+Execution in Counterparts
+
+. This Amendment No. 2 may be executed in counterparts (and by different parties hereto on different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. Delivery of an executed counterpart of a signature page to this Amendment No. 2 by facsimile or by email as a “.pdf” or “.tif” attachment shall be effective as delivery of a manually executed counterpart of this Amendment No. 2. The words “execution,” “signed,” “signature,” “delivery,” and words of like import in or relating to this Amendment No. 2 or any document to be signed in connection with this Amendment No. 2 and the transactions contemplated hereby shall be deemed to include electronic signatures, deliveries or the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature, physical delivery thereof or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided for in any applicable law, including the federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic Signatures and Records Act, or any other state laws based on the Uniform Electronic Transactions Act, and the parties hereto consent to conduct the transactions contemplated hereunder by electronic means.
+
+SECTION 9.
+
+Successors and Assigns
+
+. The provisions of this Amendment No. 2 shall be binding upon and inure to the benefit of the parties hereto and their respective successors and permitted assigns; provided that (a) none of the Loan Parties may assign or transfer any of their rights or obligations under this Amendment No. 2 without the prior written consent of each Lender and the Administrative Agent and (b) none of the Secured Parties may assign or transfer any of their rights or obligations under this Amendment No. 2 except in accordance with Section 10.07 of the Credit Agreement.
+
+SECTION 10.
+
+Governing Law; Jurisdiction; Consent to Service of Process
+
+. 
+
+(a)
+
+THIS AMENDMENT NO. 2 AND ANY CLAIM, CONTROVERSY OR DISPUTE ARISING UNDER OR RELATED TO THIS AMENDMENT NO. 2, WHETHER IN TORT, CONTRACT (AT LAW OR IN EQUITY) OR OTHERWISE, SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK.
+
+(b)
+
+The provisions of 
+
+Sections 10.04
+
+, 
+
+10.05
+
+, 
+
+10.15(b)
+
+, 
+
+10.15(c)
+
+, 
+
+10.16
+
+ and 
+
+10.17
+
+ of the Credit Agreement are hereby incorporated by reference into this Amendment No. 2 
+
+mutatis mutandis
+
+ and shall apply hereto.
+
+SECTION 11.
+
+Severability
+
+. To the extent permitted by applicable Requirements of Law, any provision of this Amendment No. 2 held to be invalid, illegal or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such invalidity, illegality or unenforceability without affecting the validity, legality and enforceability of the remaining provisions thereof; and the invalidity of a particular provision in a particular jurisdiction shall not invalidate such provision in any other jurisdiction.
+
+SECTION 12.
+
+Headings
+
+. Section headings used herein are for convenience of reference only, are not part of this Amendment No. 2 and shall not affect the construction of, or be taken into consideration in interpreting, this Amendment No. 2.
+
+[Remainder of Page Intentionally Left Blank; Signature Pages Follow]
+
+IN WITNESS WHEREOF, each of the undersigned has executed this Amendment No. 2 as of the date set forth above.
+
+BORROWER: 
+
+IROBOT CORPORATION
+
+By: 
+
+/s/ Gary Cohen
+
+ 
+
+Name: Gary Cohen 
+
+Title: Chief Executive Officer
+
+[Signature Page to Amendment No. 2 to Credit Agreement]
+
+GUARANTORS: 
+
+IROBOT US HOLDINGS, LLC
+
+By: IROBOT CORPORATION, its manager
+
+By: 
+
+/s/ Gary Cohen
+
+ 
+
+Name: Gary Cohen 
+
+Title: Chief Executive Officer
+
+IROBOT UK LTD
+
+By: 
+
+/s/ Karian Wong
+
+ 
+
+Name: Karian Wong 
+
+Title: Director
+
+IROBOT France
+
+By: 
+
+/s/ Karian Wong
+
+ 
+
+Name: Karian Wong 
+
+Title: Director
+
+IROBOT IBERIA SLU
+
+By: 
+
+/s/ Karian Wong
+
+ 
+
+Name: Karian Wong 
+
+Title: Director
+
+IROBOT JAPAN G.K.
+
+By: IROBOT CORPORATION, its sole managing member
+
+By: 
+
+/s/ Gary Cohen
+
+ 
+
+Name: Gary Cohen 
+
+Title: Chief Executive Officer
+
+[Signature Page to Amendment No. 2 to Credit Agreement]
+
+ADMINISTRATIVE AGENT:
+
+TCG SENIOR FUNDING L.L.C.
+
+, as Administrative Agent
+
+By: 
+
+/s/ Joshua Lefkowitz
+
+ 
+
+Name: Joshua Lefkowitz 
+
+Title: Chief Legal Officer
+
+[Signature Page to Amendment No. 2 to Credit Agreement]
+
+Signature page to the Amendment No. 2 to Credit Agreement, dated as of the date first written above, among, 
+
+inter alios
+
+, the Borrower, the Administrative Agent and the Lenders party thereto 
+
+CCOF II Master, L.P., as a Lender
+
+By: CCOF II General Partner, L.P., its general partner
+
+By: CCOF II L.L.C., its general partner
+
+By:
+
+ /s/ David Lobe
+
+ 
+
+Name: David Lobe 
+
+Title: Authorized Person
+
+CCOF III Master, L.P., as a Lender
+
+By: CCOF III General Partner, L.P., its general partner
+
+By: CCOF III L.L.C., its general partner
+
+By:
+
+ /s/ David Lobe
+
+ 
+
+Name: David Lobe 
+
+Title: Vice President
+
+Carlyle Bravo Opportunistic Credit Partnership, L.P., as a Lender
+
+By: Carlyle Global Credit Investment Management L.L.C., its attorney-in-fact
+
+By:
+
+ /s/ Joshua Lefkowitz
+
+ 
+
+Name: Joshua Lefkowitz 
+
+Title: Chief Legal Officer
+
+Carlyle Credit Opportunities Fund II-N Main, L.P., as a Lender
+
+By: CCOF II General Partner, L.P., its general partner
+
+By: CCOF II L.L.C., its general partner
+
+By:
+
+ /s/ David Lobe
+
+ 
+
+Name: David Lobe 
+
+Title: Authorized Person
+
+[Signature Page to Amendment No. 2 to Credit Agreement]
+
+Signature page to the Amendment No. 2 to Credit Agreement, dated as of the date first written above, among, 
+
+inter alios,
+
+ the Borrower, the Administrative Agent and the Lenders party thereto 
+
+OCPC Credit Facility SPV LLC, as a Lender
+
+By:
+
+ /s/ Brian Marcus
+
+ 
+
+Name: Brian Marcus 
+
+Title: Managing Director
+
+Carlyle Ontario Credit Partnership, L.P, as a Lender
+
+By: Carlyle Global Credit Investment Management L.L.C., its attorney-in-fact
+
+By:
+
+ /s/ Joshua Lefkowitz
+
+Name: Joshua Lefkowitz 
+
+Title: Chief Legal Officer
+
+Carlyle Skyline Credit Fund, L.P., as a Lender
+
+By: Carlyle Skyline Credit Fund GP, L.P., its general partner
+
+By: Carlyle Skyline Credit Fund GP, L.L.C., its general partner
+
+By:
+
+ /s/ David Lobe
+
+ 
+
+Name: David Lobe 
+
+Title: Vice President
+
+Carlyle Secured Lending, Inc., as a Lender
+
+By:
+
+ /s/ Tom Hennigan
+
+Name: Tom Hennigan 
+
+Title: Managing Director
+
+[Signature Page to Amendment No. 2 to Credit Agreement]
+
+Signature page to the Amendment No. 2 to Credit Agreement, dated as of the date first written above, among, 
+
+inter alios
+
+, the Borrower, the Administrative Agent and the Lenders party thereto 
+
+Carlyle Credit Solutions, Inc., as a Lender
+
+By:
+
+ /s/ Tom Hennigan
+
+Name: Tom Hennigan 
+
+Title: Managing Director
+
+Carlyle Direct Lending Fund (Levered), L.P., as a Lender
+
+By: Carlyle Direct Lending Fund GP, L.L.C., its general partner
+
+By:
+
+ /s/ David Lobe
+
+ 
+
+Name: David Lobe 
+
+Title: Vice President
+
+CDL Offshore Fund (Levered) SPV LLC
+
+By:
+
+ /s/ David Lobe
+
+ 
+
+Name: David Lobe 
+
+Title: Vice President
+
+[Signature Page to Amendment No. 2 to Credit Agreement]

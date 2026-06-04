@@ -1,0 +1,1507 @@
+EX-10.1
+
+2
+
+ex10-1.htm
+
+ 
+
+ 
+
+Exhibit
+10.1
+
+ 
+
+LOAN
+AGREEMENT
+
+ 
+
+LOAN
+AGREEMENT
+, dated as of December 12, 2023 between 
+UG Construction, inc. DBA EMERALD CONSTRUCTION
+MANAGEMENT, INC. ,
+ a Colorado corporation, (referred to herein as the “
+Borrower
+”), and GEMINI FINANCE CORP.,
+a California corporation (the “
+Lender
+”).
+
+ 
+
+RECITALS
+
+ 
+
+The
+Borrower has requested that the Lender extend credit to the Borrower consisting of a term loan or series of loans in an aggregate principal
+amount not to exceed $10,000,000. The proceeds of the term loans will be used by the Borrower for purchase order financing and other
+corporate operating expenses as approved by Lender.
+
+ 
+
+In
+consideration of the premises and the covenants and agreements contained herein, the parties hereto agree as follows:
+
+ 
+
+ARTICLE
+I
+
+DEFINITIONS;
+CERTAIN TERMS
+
+ 
+
+SECTION
+1.01. 
+Definitions
+. As used in this Agreement, the following terms shall have the respective meanings indicated below, such meanings
+to be applicable equally to both the singular and plural forms of such terms:
+
+ 
+
+“
+Agreement
+”
+means this Loan Agreement, including all amendments, modifications and supplements and any exhibit or schedule to any of the foregoing,
+and shall refer to the Agreement as the same may be in effect at the time such reference becomes operative.
+
+ 
+
+“
+Board
+”
+means the Board of Governors of the Federal Reserve System of the United States.
+
+ 
+
+“
+Borrower
+”
+has the meaning specified therefor in the preamble hereto.
+
+ 
+
+“
+Borrower’s
+Account
+” means an account designated by the Borrower to the Lender reasonably satisfactory to the Lender.
+
+ 
+
+“
+Business
+Day
+” means any day other than a Saturday, Sunday or legal holiday on which commercial banks are open for business in Encinitas,
+California.
+
+ 
+
+“
+Collateral
+”
+means the Collateral described in the Security Agreement.
+
+ 
+
+“
+Default
+”
+means any event or condition which upon notice, lapse of time or both would constitute an Event of Default.
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Default
+Rate
+” means the rate per 7-calendar day period (or portion thereof) equal to 1%.
+
+ 
+
+“
+Effective
+Date
+” has the meaning specified therefor in Section 3.01 hereof.
+
+ 
+
+“
+Event
+of Default
+” means any of the events set forth in Section 6.01 hereof.
+
+ 
+
+“
+Governmental
+Authority
+” means any nation or government, any federal, state, city, town, municipality, county, local or other political subdivision
+thereof or thereto and any department, commission, board, bureau, instrumentality, agency or other entity exercising executive, legislative,
+judicial, regulatory or administrative functions of or pertaining to government.
+
+ 
+
+“
+Indebtedness
+”
+means, with respect to any Person, at any time, without duplication, (a) all obligations of such Person for borrowed money, (b) all obligations
+of such Person evidenced by bonds, debentures, notes or other similar instruments, (c) all obligations of such Person upon which interest
+charges are customarily paid (other than current trade liabilities incurred in the ordinary course of business and payable in accordance
+with customary practices), (d) all obligations of such Person under conditional sale or other title retention agreements relating to
+property purchased by such Person, (e) all Indebtedness of others secured by (or for which the holder of such Indebtedness has an existing
+right, contingent or otherwise, to be secured by) any Lien or security interest on property owned or acquired by such Person, whether
+or not the obligations secured thereby have been assumed, and (f) all obligations, contingent or otherwise, of any Person guaranteeing
+or having the economic effect of guaranteeing any Indebtedness or monetary obligation of any other Person in any manner, whether directly
+or indirectly.
+
+ 
+
+“
+Income
+Tax Basis
+” means the income tax basis (modified cash basis) of accounting in effect from time to time in the United States,
+applied on a consistent basis for federal income tax purposes in accordance with the Internal Revenue Code of 1986, as amended.
+
+ 
+
+“
+Lender
+”
+has the meaning specified therefor in the preamble hereto.
+
+ 
+
+“
+Lien
+”
+means any mortgage, pledge, hypothecation, assignment, deposit arrangement, encumbrance, lien (statutory or other), or preference, priority
+or other security agreement or preferential arrangement of any kind or nature whatsoever (including, without limitation, any conditional
+sale or other title retention agreement, any financing lease having substantially the same economic effect as any of the foregoing, and
+the filing of any financing statement under the Uniform Commercial Code or comparable law of any jurisdiction in respect of any of the
+foregoing).
+
+ 
+
+“
+Loan
+”
+means the loan or series of loans made by the Lender to the Borrower pursuant to this Agreement.
+
+ 
+
+“
+Loan
+Documents
+” means this Agreement, the Security Agreement, the Promissory Note, and all other agreements, instruments or other
+documents executed and delivered by or on behalf of the Borrower pursuant to or in connection with this Agreement.
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Material
+Adverse Effect
+” means a material adverse effect on any of (a) the assets, properties or financial condition of the Borrower
+or (b) the legality, validity or enforceability of this Agreement or any of the other Loan Documents or (c) the aggregate rights and
+remedies of the Lender under this Agreement or any of the other Loan Documents.
+
+ 
+
+“
+Maturity
+Date
+” means the earliest of (a) the maturity date(s) specified in the Promissory Notes, and (b) such earlier date on which
+the Loan is due and payable (whether at stated maturity, by acceleration or otherwise) in accordance with the terms of this Agreement.
+
+ 
+
+“
+Obligations
+”
+means (a) the obligation of the Borrower to pay, as and when due and payable (by scheduled maturity or otherwise), all amounts from time
+to time owing by the Borrower in respect of any Loan Document, whether for principal, interest (including, without limitation, all interest
+that accrues after the commencement of any case, proceeding or other action relating to the bankruptcy or insolvency of the Borrower),
+fees, indemnification payments, expense reimbursements or otherwise and (b) the obligation of the Borrower to perform or observe all
+of the Borrower’s other obligations from time to time existing under any Loan Document.
+
+ 
+
+“
+Person
+”
+means an individual, corporation, partnership, limited liability company or partnership, association, joint-stock company, trust, unincorporated
+organization, joint venture or governmental authority or other regulatory body.
+
+ 
+
+“
+Permitted
+Liens
+” means all liens, claims and encumbrances permitted under the Loan Documents, including all liens, claims and encumbrances
+listed on Exhibit B to the Security Agreement.
+
+ 
+
+“
+Security
+Agreement
+” means the Security Agreement, dated as of the date hereof, made by the Borrower in favor of the Lender, substantially
+in the form of Exhibit A annexed hereto, as amended or otherwise modified from time to time.
+
+ 
+
+SECTION
+1.02. 
+Terms Generally; Computation of Time Periods
+. Whenever the context may require, any pronoun shall include the corresponding
+masculine, feminine and neuter forms. The words “include”, “includes” and “including” shall be deemed
+to be followed by the phrase “without limitation”. All references herein to Articles, Sections, Exhibits and Schedules shall
+be deemed references to Articles and Sections of, and Exhibits and Schedules to, this Agreement unless the context shall otherwise require.
+Except as otherwise expressly provided herein, any reference in this Agreement to any Loan Document shall mean such document as amended,
+restated, supplemented or otherwise modified from time to time.
+
+ 
+
+SECTION
+1.03. 
+Accounting and Other Terms
+. Unless otherwise expressly stated herein, all accounting terms used in this Agreement which
+are not otherwise defined herein shall be construed in accordance with the Income Tax Basis applied on a basis consistent with that used
+in preparing the financial statements referred to in Section 4.01(f) hereof. All terms used in this Agreement which are defined in Article
+9 of the Uniform Commercial Code in effect in the State of California on the date hereof and which are not otherwise defined herein shall
+have the same meanings herein as set forth therein.
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARTICLE
+II
+
+THE
+LOAN
+
+ 
+
+SECTION
+2.01. 
+Making the Loan
+. Subject to the terms and conditions and relying upon the representations and warranties herein set forth,
+the Lender agrees to make the Loan to the Borrower on the terms set forth herein and in the Promissory Note (“Promissory Note”)
+attached hereto as Exhibit B, which shall be issued by Borrower in connection with the Loan.
+
+ 
+
+SECTION
+2.02. 
+Interest
+.
+
+ 
+
+(a) 
+Interest
+.
+Interest shall be applied on the outstanding principal amount of the Promissory Note and accrue daily at a monthly rate of one and seventy-five
+hundredths percent (1.75%). The Borrower shall pay to the Lender any and all accrued but unpaid interest hereunder on the Maturity Date.
+
+ 
+
+(b) 
+Default
+Interest
+. Upon the occurrence and during the continuance of an Event of Default, the principal of, and all accrued and unpaid interest
+on, the Loan, and all fees, indemnities or any other Obligations of the Borrower under this Agreement and the other Loan Documents, shall
+(i) bear interest, from the date such Event of Default occurs until the date such Event of Default is cured or waived in writing in accordance
+herewith, equal at all times to the Default Rate, and (ii) be payable in arrears on the first day of each 7-day calendar period after
+the date such Event of Default occurs until the date such Event of Default is cured or waived in writing in accordance herewith.
+
+ 
+
+(c) 
+Post-Maturity
+Interest
+. Any principal of, and all accrued and unpaid interest on, the Loan, and all fees, indemnities or any other Obligations
+of the Borrower under this Agreement and the other Loan Documents that remains outstanding after the Maturity Date shall (i) bear interest
+from the Maturity Date until the date such outstanding amount is paid in full, equal at all times to the Default Rate, and (ii) be payable
+in arrears on the first day of each 30-day calendar period after the Maturity Date until the date such outstanding amount is paid in
+full.
+
+ 
+
+ SECTION
+2.03. 
+Repayment
+. The entire principal amount of the term loan shall be due and payable on the Maturity Date. Specifically,
+the Borrower shall repay to the Lender any unpaid principal of, and all accrued and unpaid interest on, the Loan, and all fees, indemnities or
+any other Obligations of the Borrower under this Agreement and the other Loan Documents on the Maturity Date.
+
+ 
+
+ SECTION
+2.04. 
+Mandatory Prepayment of Loan
+. The Borrower shall be required to make mandatory prepayments pursuant to the following terms:
+
+ 
+
+Upon
+Borrower’s receipt of payment for any invoice previously submitted and approved for financing by Lender, Borrower shall immediately
+pay such amounts owed to Lender.
+
+ 
+
+SECTION
+2.05. 
+Optional Prepayments
+. The Borrower may prepay the Loan or any accrued and unpaid interest thereon, in whole or in part,
+without premium or penalty, upon one (1) Business Day’s irrevocable notice to the Lender, specifying (a) the date of prepayment
+and (b) the principal or any accrued and unpaid interest amount to be prepaid, provided that any such prepayments shall be in an amount
+of not less than $25,000. If any such notice is given, the amount specified in such notice shall be due and payable on the date specified
+therein, together with accrued interest to such date on the amount prepaid.
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECTION
+2.06. 
+Participation Fee.
+ None.
+
+ 
+
+SECTION
+2.07. 
+Payments and Computations
+. The Borrower will make each payment under the Loan Documents on the day when due, in lawful money
+of the United States of America and in immediately available funds, to the Lender at the Lender’s address referred to in Section
+7.01 hereof. Payments shall be credited as of the end of the Business Day and interest shall accrue on the day that the payment is received.
+All payments shall be made by the Borrower without defense, set-off or counterclaim to the Lender. The Borrower hereby authorizes the
+Lender to, and the Lender may, charge from time to time against the Borrower’s Account any amount due under any Loan Document to
+which the Borrower is a party. Whenever any payment to be made under any such Loan Document shall be stated to be due on a day other
+than a Business Day, such payment shall be made on the next succeeding Business Day and such extension of time shall in such case be
+included in the computation of interest or fees, as the case may be. All computations of interest under this Agreement and any other
+Loan Document and all fees shall be computed by the Lender on the basis of the actual number of days occurring in the period for which
+such interest is payable. Each determination by the Lender of an interest rate or fee hereunder shall be conclusive and binding for all
+purposes, absent demonstrable error.
+
+ 
+
+ARTICLE
+III
+
+CONDITIONS
+OF LENDING
+
+ 
+
+SECTION
+3.01. 
+Conditions Precedent to Effectiveness
+. Subject to Lender’s right in its sole discretion to accept or reject any request
+by Borrower for advances under the Promissory Note, this Agreement and the Lender’s obligation to make the Loan to the Borrower
+hereunder shall become effective as of the Business Day when each of the following conditions precedent shall have been satisfied in
+a manner satisfactory to the Lender (the “
+Effective Date
+”):
+
+ 
+
+(a) 
+Payment
+of Fees, Etc.
+ The Borrower shall have paid or caused to be paid the Participation Fee pursuant to Section 2.06 hereof and all other
+fees, costs, expenses and taxes payable on the Effective Date by the Borrower pursuant to Section 7.04 hereof.
+
+ 
+
+(b) 
+Representations
+and Warranties; No Default
+. The following statements shall be true and correct: (i) the representations and warranties of the Borrower
+contained in Section 4.01 hereof and in each other Loan Document and certificate or other writing delivered to the Lender on or before
+the Effective Date are true and correct on and as of the Effective Date; and (ii) on the Effective Date, no Default or Event of Default
+has occurred and is continuing under this Agreement.
+
+ 
+
+(c) 
+Legality
+.
+The obligations of the Lender under this Agreement shall not contravene any law, rule or regulation applicable to the Lender.
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+(d) 
+Delivery
+of Documents
+. The Lender shall have received on or before the Effective Date the agreements, instruments, approvals, opinions and
+other documents as the Lender may reasonably request.
+
+ 
+
+(e) 
+Proceedings;
+Receipt of Documents
+. All proceedings in connection with the transactions contemplated by this Agreement, and all documents incidental
+thereto, shall be reasonably satisfactory to the Lender, and the Lender shall have received all such information and such counterpart
+originals or certified or other copies of such documents as the Lender may reasonably request.
+
+ 
+
+(f) 
+Material
+Adverse Effect
+. The Lender shall have determined that no Material Adverse Effect shall have occurred relating to the Borrower since
+December 31, 2022.
+
+ 
+
+ARTICLE
+IV
+
+REPRESENTATIONS
+AND WARRANTIES
+
+ 
+
+SECTION
+4.01. 
+Representations and Warranties of the Borrower
+. The Borrower represents and warrants as follows:
+
+ 
+
+(a) 
+Capacity
+.
+The Borrower has the legal capacity to execute, deliver and perform this Agreement and each other Loan Document to which the Borrower
+is a party.
+
+ 
+
+(b) 
+No
+Violation
+. The execution, delivery and performance by the Borrower of each Loan Document to which the Borrower is a party (i) do
+not and will not contravene any law or any contractual restriction binding on or otherwise affecting the Borrower, or any of the properties
+of the Borrower, and (ii) do not and will not result in or require the creation of any lien, security interest or other charge or encumbrance
+upon or with respect to any of the properties of the Borrower, other than the security interests created by the Loan Documents.
+
+ 
+
+(c) 
+Approvals
+.
+No authorization or approval or other action by, and no notice to or filing with, any Governmental Authority or other regulatory body,
+and no consent of any other Person, is required for the due execution, delivery and performance by the Borrower of any Loan Document
+to which the Borrower is or will be a party.
+
+ 
+
+(d) 
+Enforceability
+of Loan Documents
+. Each Loan Document to which the Borrower is a party constitutes, and each Loan Document to which the Borrower
+will be a party, when delivered hereunder, will constitute, a legal, valid and binding obligation of the Borrower, enforceable against
+the Borrower in accordance with its respective terms, subject to applicable bankruptcy, insolvency, fraudulent conveyance, reorganization,
+moratorium or other laws affecting creditors’ rights generally and subject to general principles of equity, regardless of whether
+considered in a proceeding in equity or at law.
+
+ 
+
+(e) 
+Litigation
+.
+There is no pending or, to the knowledge of the Borrower, threatened action, suit or proceeding affecting the Borrower before any court
+or other Governmental Authority or any arbitrator, which (i) is reasonably likely to have a Material Adverse Effect or (ii) purports
+to affect the legality, validity or enforceability of any Loan Document or the consummation of any transaction contemplated hereby.
+
+ 
+
+ 
+
+6
+
+ 
+
+ 
+
+ 
+
+ 
+
+(f) 
+Financial
+Condition
+. The financial statements (including the notes relating thereto) of the Borrower dated December 31, 2022, a copy of which
+has been previously delivered to the Lender, fairly presents the financial condition of the Borrower as at the date thereof. Since such
+date no event has occurred which is reasonably likely to have a Material Adverse Effect.
+
+ 
+
+(g) 
+Compliance
+with Law, Etc.
+ The Borrower is not in violation of any law or any term of any material agreement or instrument binding on or otherwise
+affecting the Borrower or any of the properties of the Borrower, the violation of which could reasonably be expected to have a Material
+Adverse Effect.
+
+ 
+
+(h) 
+Taxes,
+Etc.
+ All Federal, state and local tax returns and other reports required by applicable law to be filed by the Borrower have been
+filed, and all taxes and assessments imposed upon the Borrower or any property of the Borrower and which have become due and payable
+on or prior to the date hereof have been paid, except to the extent contested in good faith by proper proceedings which stay the imposition
+of any penalty or fine or stay the foreclosure of any Lien resulting from the non-payment thereof and with respect to which adequate
+reserves have been set aside for the payment thereof.
+
+ 
+
+(i) 
+Regulation
+T, U or X
+. No proceeds of the Loan will be used, directly or indirectly, and whether immediately, incidentally or ultimately, for
+any purpose that entails a violation of, or is inconsistent with, the provisions of any of the regulations of the Board, including Regulation
+T, U or X.
+
+ 
+
+(j) 
+Full
+Disclosure
+. No Loan Document or schedule or exhibit thereto, and no certificate, report, statement or other document or information
+furnished to the Lender by the Borrower in connection herewith or with the consummation of the transactions contemplated hereby, contains
+any material misstatement of fact or omits to state a material fact or any fact necessary to make the statements contained herein or
+therein not misleading in any material respect in light of the circumstances under which they were made. There is no fact known to the
+Borrower that materially adversely affects the financial condition of the Borrower or the value of the Collateral, or that otherwise
+is reasonably likely to have a Material Adverse Effect, that has not been disclosed to the Lender in writing prior to the Effective Date.
+
+ 
+
+ARTICLE
+V
+
+COVENANTS
+OF THE BORROWER
+
+ 
+
+SECTION
+5.01. 
+Affirmative Covenants
+. So long as any principal of or interest on the Loan or any other Obligations (whether or not due)
+shall remain unpaid or the Lender shall have any commitment hereunder, the Borrower will, unless the Lender shall otherwise consent in
+writing:
+
+ 
+
+(a) 
+Reporting
+Requirements
+. Furnish to the Lender:
+
+ 
+
+(i) promptly
+after the commencement thereof but in any event not later than 5 Business Days after service of process with respect thereto on, or the
+obtaining of knowledge thereof by, the Borrower, notice of each action, suit or proceeding at law, in equity, in arbitration or before
+any other Governmental Authority or other regulatory body or arbitrator that could reasonably be expected to have a Material Adverse
+Effect;
+
+ 
+
+ 
+
+7
+
+ 
+
+ 
+
+ 
+
+ 
+
+(ii) promptly
+but in any event not more than 5 days after the occurrence thereof, notice of the occurrence of either any Default or Event of Default
+under this Agreement, which notice shall contain a brief description of the nature of such Default or Event of Default and any action
+with respect thereto taken or contemplated to be taken by the Borrower;
+
+ 
+
+(iii) promptly
+but in any event not more than 5 days after the occurrence thereof, notice of the occurrence of either any default or event of default
+under any agreement, which notice shall contain a brief description of the nature of such default or event of default and any action
+with respect thereto taken or contemplated to be taken by the Borrower; and
+
+ 
+
+(iv) promptly
+upon request, such other information concerning the financial condition of the Borrower or information concerning any of the Collateral,
+in each case, as the Lender from time to time may reasonably request.
+
+ 
+
+(b) 
+Compliance
+with Laws, Etc.
+ Comply in all respects with all applicable laws, rules, regulations and orders, such compliance to include, without
+limitation, (i) paying before the same become delinquent all taxes, assessments and governmental charges or levies imposed upon the Borrower
+or upon the Borrower’s income or profits or upon any of the Borrower’s properties and (ii) paying all lawful claims which
+if unpaid might become a Lien or charge upon any of the Borrower’s properties, except in each case to the extent contested in good
+faith by proper proceedings which stay the imposition of any penalty or fine or stay the foreclosure of any Lien resulting from the non-payment
+thereof and with respect to which adequate reserves have been set aside for the payment thereof, unless the failure to so comply could
+not reasonably be expected to have a Material Adverse Effect.
+
+ 
+
+(c) 
+Further
+Assurances
+. Do, execute, acknowledge and deliver, at the sole cost and expense of the Borrower, all such further acts and assurances
+as the Lender may reasonably require from time to time in order to better assure, convey, grant, assign, transfer and confirm unto the
+Lender the rights now or hereafter intended to be granted to the Lender under this Agreement, any Loan Document or any other instrument
+under which any Borrower may be or may hereafter become bound to effect the intention or facilitate the performance of the terms of this
+Agreement.
+
+ 
+
+(d) 
+Federal
+Regulations
+. If requested by the Lender at any time and from time to time, furnish to the Lender a statement, in conformity with
+the requirements of Federal Reserve Form U-1, to the effect that neither the making of the Loan under this Agreement, nor the use of
+proceeds thereof, nor any other transactions contemplated hereby or by the other Loan Documents will violate or be inconsistent with
+the provisions of Regulation T, U or X.
+
+ 
+
+(e) 
+Collateral
+.
+Take or cause to be taken all steps necessary or reasonably requested by the Lender to grant to the Lender a perfected, security interest
+in the Collateral and to enable the Lender to realize upon and transfer or otherwise dispose of the Collateral, in compliance with all
+applicable laws.
+
+ 
+
+ 
+
+8
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECTION
+5.02. 
+Negative Covenants
+. So long as any principal of or interest on the Loan or any other Obligations (whether or not due) shall
+remain unpaid or the Lender shall have any commitment hereunder, the Borrower will not, without the prior written consent of the Lender:
+
+ 
+
+(a) 
+Liens,
+Pledges, Etc.
+ Create or suffer to exist any Lien or pledge (other than Liens and pledges in favor of the Lender and Permitted Liens),
+or other type of preferential arrangement upon or with respect to any of the Collateral.
+
+ 
+
+(b) 
+Indebtedness
+.
+Create, incur or suffer to exist any Indebtedness, other than:
+
+ 
+
+(i) Indebtedness
+owing to the Lender;
+
+ 
+
+(ii) Indebtedness
+of the Borrower existing on the date hereof, and any extension of maturity, refinancing or other modification of the terms of any such
+Indebtedness, 
+provided
+, 
+however
+, that such extension, refinancing or modification (A) does not accelerate the amortization
+or maturity of such Indebtedness and (B) after giving effect to the extension, refinancing or modification of such Indebtedness, the
+amount of such Indebtedness outstanding is not greater than the amount of such Indebtedness outstanding immediately prior to such extension,
+refinancing or modification;
+
+ 
+
+(iii) Indebtedness
+permitted by paragraph (c) of this Section 5.02; and
+
+ 
+
+(iv) unsecured
+Indebtedness in an aggregate principal amount not to exceed at any one time outstanding $100,000 without the Lender’s prior written
+consent.
+
+ 
+
+(c) 
+Guaranties,
+Etc.
+ Assume, guarantee, indorse or otherwise become directly or contingently liable for Indebtedness of any other Person, other than:
+
+ 
+
+(i) guaranties
+by endorsement of negotiable instruments for deposit or collection in the ordinary course of business;
+
+ 
+
+(ii) guaranties
+existing on the date hereof; and
+
+ 
+
+(iii) guaranties
+in favor of the Lender.
+
+ 
+
+(d) 
+Federal
+Reserve Regulations
+. Permit the Loan or the proceeds of the Loan to be used for any purpose that violates or is inconsistent with
+the provisions of Regulation T, U or X of the Board.
+
+ 
+
+ (e)
+ 
+Changes to Agreements
+. Agree or consent to any amendment, modification, supplement or waiver of any provision of any agreement
+if such amendment, modification, supplement or waiver could reasonably be expected to have a Material Adverse Effect. Enter into any
+agreement that in any way restricts or imposes conditions or fees on the sale, assignment, pledge or other disposition of the Collateral.
+
+ 
+
+ 
+
+9
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARTICLE
+VI
+
+EVENTS
+OF DEFAULT
+
+ 
+
+SECTION
+6.01. 
+Events of Default
+. If any of the following Events of Default shall occur and be continuing:
+
+ 
+
+(a) the
+Borrower shall fail to pay (i) any principal of the Loan when due (whether by scheduled maturity, required prepayment, acceleration,
+demand or otherwise) or (ii) any interest on the Loan, any fee or any other amount payable hereunder or any other Indebtedness of the
+Borrower to the Lender within three (3) Business Days after the date such interest, fee, other amount or other Indebtedness is due; or
+
+ 
+
+(b) any
+representation or warranty made by the Borrower in any Loan Document or in any report, certificate or other document delivered to the
+Lender pursuant to any Loan Document shall have been incorrect in any material respect when made; or
+
+ 
+
+(c) the
+Borrower shall fail to perform or observe any term, covenant or agreement contained in Section 5.02 of this Agreement or any term, covenant
+or agreement contained in the Security Agreement; or
+
+ 
+
+(d) the
+Borrower shall fail to perform or observe any term, covenant or agreement contained in any Loan Document to be performed or observed
+by the Borrower and, except as set forth in subsections (a), (b) and (c) of this Section 6.01, such failure, if capable of being remedied,
+shall remain unremedied for 10 days after written notice thereof shall have been given to the Borrower by the Lender; or
+
+ 
+
+(e) the
+Borrower shall fail to pay any Indebtedness (excluding Indebtedness evidenced by this Agreement) the principal amount of which equals
+or exceeds $25,000, or any interest or premium thereon, when due (whether by scheduled maturity, required prepayment, acceleration, demand
+or otherwise) and such failure shall continue after the applicable grace period, if any, specified in the agreement or instrument relating
+to such Indebtedness; or any other default under any agreement or instrument relating to any such Indebtedness, or any other event, shall
+occur and shall continue after the applicable grace period, if any, specified in such agreement or instrument, if the effect of such
+default or event is to accelerate, or to permit the acceleration of, the maturity of such Indebtedness; or any such Indebtedness shall
+be declared to be due and payable, or required to be prepaid (other than by a regularly scheduled required prepayment), prior to the
+stated maturity thereof; or
+
+ 
+
+(f) the
+Borrower shall be generally not paying its debts as they become due, or shall admit in writing its inability to pay such debts generally,
+or shall make a general assignment for the benefit of creditors; or any proceeding shall be instituted by or against the Borrower, seeking
+to adjudicate the Borrower bankrupt or insolvent, or seeking dissolution, liquidation, winding up, reorganization, arrangement, adjustment,
+protection, relief or composition of the Borrower or the debts of the Borrower under any law relating to bankruptcy, insolvency or reorganization
+or relief of debtors, or seeking the entry of an order for relief or the appointment of a receiver, trustee, custodian or other similar
+official for the Borrower or for any substantial part of the property of the Borrower, and, in the case of any such proceeding instituted
+against the Borrower, the petition commencing such proceeding is not dismissed within 60 calendar days of the date of the filing thereof;
+or the Borrower shall take any action to authorize or effect any of the actions set forth above in this subsection (f); or
+
+ 
+
+ 
+
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+(g) any
+provision of any Loan Document shall at any time for any reason be declared to be null and void, or the validity or enforceability thereof
+shall be contested by the Borrower, or a proceeding shall be commenced by the Borrower or any Governmental Authority or other regulatory
+body having jurisdiction over the Borrower, seeking to establish the invalidity or unenforceability thereof, or the Borrower shall deny
+that such Person has any liability or obligation purported to be created under any Loan Document to which such Person is a party; or
+
+ 
+
+(h) one
+or more judgments or orders for the payment of money exceeding any applicable insurance coverage by more than $25,000 in the aggregate,
+shall be rendered against the Borrower, and either (i) enforcement proceedings shall have been commenced by any creditor upon any such
+judgment or order or (ii) there shall be any period of 30 consecutive days during which a stay of enforcement of any such judgment or
+order, by reason of a pending appeal or otherwise, shall not be in effect.
+
+ 
+
+ARTICLE
+VII
+
+MISCELLANEOUS
+
+ 
+
+SECTION
+7.01. 
+Notices, Etc.
+ Unless otherwise expressly provided herein, all notices and other communications provided for hereunder shall
+be in writing and shall be mailed, telecopied, emailed or delivered to the Borrower and the Lender at the addresses set forth below,
+or at such other addresses as shall be designated by the Borrower or the Lender in a written notice to the other party complying as to
+delivery with the terms of this Section 7.01.
+
+ 
+
+ 
+
+ 
+Borrower
+
+ 
+
+ 
+Lender
+
+ 
+
+ 
+UG Construction, Inc. dba 
+
+Emerald Construction Management, Inc. 
+1751 Panorama Point, Unit G 
+Lafayette, CO 80026 
+Attn: Richard Akright 
+Telephone: 
+e-mail:
+
+ 
+
+ 
+Gemini Finance Corp. 
+1075 Valleyside Lane 
+Encinitas, CA 92024 
+Attn: Steven Winters 
+Telephone: 
+e-mail: 
+
+ 
+
+ 
+
+All
+such notices and other communications shall be effective (a) if mailed, three (3) days after the mailing date, (b) if telecopied or emailed,
+upon receipt or (c) if delivered, upon delivery.
+
+ 
+
+SECTION
+7.02. 
+Amendments, Etc
+. No amendment of any provision of this Agreement shall be effective unless it is in writing and signed by
+the Borrower and the Lender, and no waiver of any provision of this Agreement, nor consent to any departure by the Borrower therefrom,
+shall be effective unless it is in writing and signed by the Lender, and then such waiver or consent shall be effective only in the specific
+instance and for the specific purpose for which given.
+
+ 
+
+ 
+
+11
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECTION
+7.03. 
+No Waiver; Remedies, Etc
+. No failure on the part of the Lender to exercise, and no delay in exercising, any right hereunder
+or under any other Loan Document shall operate as a waiver thereof; nor shall any single or partial exercise of any right under any Loan
+Document preclude any other or further exercise thereof or the exercise of any other right. The rights and remedies of the Lender provided
+herein and in the other Loan Documents are cumulative and are in addition to, and not exclusive of, any rights or remedies provided by
+law. The rights and remedies of the Lender under any Loan Document against any party thereto are not conditional or contingent on any
+attempt by the Lender to exercise any of its rights and remedies under any other Loan Document against such party or against any other
+Person.
+
+ 
+
+SECTION
+7.04. 
+Fees, Costs, Expenses and Taxes
+. The Borrower shall pay or cause to be paid on demand (a) legal fees, costs and expenses
+in connection with (i) the execution and delivery of this Agreement and any other Loan Document up to $5,000 and (ii) the amendment,
+waiver and administration of this Agreement and any other Loan Document and the other documents to be delivered pursuant to the Loan
+Documents, including, without limitation, the reasonable fees, expenses and other client charges, (b) all reasonable costs and expenses,
+if any (including, without limitation, reasonable counsel fees, expenses and other client charges), in connection with the enforcement
+of (or any “work-out” or restructure with respect to) the Loan Documents and the other documents to be delivered pursuant
+to the Loan Documents, and (c) the amount of $25 for each wire transfer sent by Lender to fund the Loan and each wire transfer received
+by Lender as a payment on the Loan. In addition, the Borrower will pay any and all stamp and other taxes and fees payable or determined
+to be payable in connection with the execution, delivery, filing and recording of the Loan Documents and the other documents to be delivered
+pursuant to the Loan Documents, and will save the Lender harmless from and against any and all liabilities with respect to or resulting
+from any delay in paying or omission to pay such taxes and fees.
+
+ 
+
+SECTION
+7.05. 
+Indemnification
+. The Borrower hereby agrees to indemnify, defend and hold the Lender harmless from and against any and all
+claims, charges, actions, suits, proceedings, lawsuits, obligations, liabilities, fines, penalties, costs and expenses (including, without
+limitation, reasonable attorney’s fees, expenses and other client charges) which the Lender shall incur or which shall be claimed
+against the Lender by any Person in any way relating to or arising out of (a) the execution or delivery of this Agreement or any other
+Loan Document or any agreement or instrument contemplated hereby or thereby, the performance by the parties hereto or thereto of their
+respective obligations hereunder or thereunder or the consummation of the transactions contemplated hereby or thereby or (b) the use
+of the proceeds of the Loan including any and all reasonable expenses set forth in Section 7.04 hereof which arise as a result of any
+claims, charges, actions, suits, proceedings or lawsuits described in this Section 7.05. The Borrower shall not have any obligation to
+the Lender under this Section 7.05 with respect to any claims, charges, suits, proceedings, lawsuits, obligations, liabilities, fines,
+penalties, costs and expenses that a court of competent jurisdiction finally determines to have resulted from the gross negligence or
+willful misconduct of the Lender as finally determined by a court of competent jurisdiction. The obligations and provisions of this paragraph
+shall continue and remain in full force and effect after the Obligations of the Borrower under this Agreement and the other Loan Documents
+have been paid and discharged in full and this Agreement and such other Loan Documents are otherwise terminated.
+
+ 
+
+ 
+
+12
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECTION
+7.06. 
+Right of Set-off
+. Upon the occurrence and during the continuance of any Event of Default the Lender may, and is hereby authorized
+to, at any time and from time to time, without notice to the Borrower (any such notice being expressly waived by the Borrower) and to
+the fullest extent permitted by law, set off and apply any and all deposits (general or special, time or demand, provisional or final)
+at any time held and other indebtedness at any time owing by the Lender to or for the credit or the account of the Borrower against any
+and all obligations of the Borrower now or hereafter existing under any Loan Document, irrespective of whether or not the Lender shall
+have made any demand hereunder or thereunder and although such obligations may be contingent or unmatured. The Lender agrees promptly
+to notify the Borrower after any such set-off and application made by the Lender, provided that the failure to give such notice shall
+not affect the validity of such set-off and application. The rights of the Lender under this Section 7.06 are in addition to the other
+rights and remedies (including, without limitation, other rights of set-off) which the Lender may have.
+
+ 
+
+SECTION
+7.07. 
+Severability
+. Any provision of this Agreement, or of any other Loan Document to which the Borrower is a party, which is
+prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability
+without invalidating the remaining portions hereof or thereof or affecting the validity or enforceability of such provision in any other
+jurisdiction.
+
+ 
+
+SECTION
+7.08. 
+Successors and Assigns
+. This Agreement shall be binding upon and inure to the benefit of the Borrower and the Lender and
+their respective successors and assigns, and in the case of the Borrower, the heirs, executors and legal representatives of the Borrower,
+except that the Borrower may not assign the rights of the Borrower hereunder or any interest herein without the prior written consent
+of the Lender and any such assignment without the Lender’s prior written consent shall be null and void. The Lender may assign
+or grant a participation with respect to all or a portion of its rights and obligations under this Agreement without the consent of the
+Borrower or any other Person, and the Lender may at any time create a security interest in all or any portion of its rights under this
+Agreement (including, without limitation, Obligations owing to it) in favor of any Federal Reserve Bank in accordance with Regulation
+A of the Federal Reserve Board.
+
+ 
+
+SECTION
+7.09. 
+Counterparts and Execution
+. This Agreement may be executed in any number of counterparts and by different parties hereto
+in separate counterparts, each of which shall be deemed to be an original, but all of which taken together shall constitute one and the
+same agreement. Delivery of an executed counterpart of this Agreement, or any amendment or modification thereto, by telefacsimile or
+electronic mail (but not by text message) shall be equally as effective as delivery of an original executed counterpart of this Agreement.
+
+ 
+
+SECTION
+7.10. 
+Headings
+. Section headings herein are included for convenience of reference only and shall not constitute a part of this
+Agreement for any other purpose.
+
+ 
+
+SECTION
+7.11. 
+Governing Law
+. THIS AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF CALIFORNIA
+APPLICABLE TO CONTRACTS MADE AND TO BE PERFORMED IN THE STATE OF CALIFORNIA WITHOUT REGARD TO CONFLICTS OF LAW PRINCIPLES.
+
+ 
+
+ 
+
+13
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECTION
+7.12. 
+Consent to Jurisdiction, Etc.
+ ANY LEGAL ACTION OR PROCEEDING WITH RESPECT TO THIS AGREEMENT OR ANY OTHER LOAN DOCUMENT MAY
+BE BROUGHT IN THE COURTS OF THE STATE OF CALIFORNIA OR OF THE UNITED STATES FOR THE SOUTHERN DISTRICT OF CALIFORNIA, IN EACH CASE SITTING
+IN THE CITY OF SAN DIEGO, COUNTY OF SAN DIEGO, AND, BY EXECUTION AND DELIVERY OF THIS AGREEMENT, THE BORROWER HEREBY IRREVOCABLY ACCEPTS
+IN RESPECT OF THE PROPERTY OF THE BORROWER, GENERALLY AND UNCONDITIONALLY, THE JURISDICTION OF THE AFORESAID COURTS. THE BORROWER FURTHER
+IRREVOCABLY CONSENTS TO THE SERVICE OF PROCESS OUT OF ANY OF THE AFOREMENTIONED COURTS AND IN ANY SUCH ACTION OR PROCEEDING BY THE MAILING
+OF COPIES THEREOF BY REGISTERED OR CERTIFIED MAIL, POSTAGE PREPAID, TO THE BORROWER AT THE ADDRESS OF THE BORROWER FOR NOTICES CONTAINED
+IN SECTION 7.01 HERETO. NOTHING HEREIN SHALL AFFECT THE RIGHT OF THE LENDER TO SERVE LEGAL PROCESS IN ANY OTHER MANNER PERMITTED BY LAW
+OR TO COMMENCE LEGAL PROCEEDINGS OR OTHERWISE PROCEED AGAINST THE BORROWER IN ANY OTHER JURISDICTION. THE BORROWER HEREBY EXPRESSLY AND
+IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY LAW, ANY OBJECTION WHICH THE BORROWER MAY NOW OR HEREAFTER HAVE TO THE LAYING
+OF VENUE OF ANY SUCH LITIGATION BROUGHT IN ANY SUCH COURT REFERRED TO ABOVE AND ANY CLAIM THAT ANY SUCH LITIGATION HAS BEEN BROUGHT IN
+AN INCONVENIENT FORUM. TO THE EXTENT THAT THE BORROWER HAS OR HEREAFTER MAY ACQUIRE ANY IMMUNITY FROM JURISDICTION OF ANY COURT OR FROM
+ANY LEGAL PROCESS (WHETHER THROUGH SERVICE OR NOTICE, ATTACHMENT PRIOR TO JUDGMENT, ATTACHMENT IN AID OF EXECUTION OR OTHERWISE) WITH
+RESPECT TO THE BORROWER OR THE PROPERTY OF THE BORROWER, THE BORROWER HEREBY IRREVOCABLY WAIVES SUCH IMMUNITY IN RESPECT OF THE OBLIGATIONS
+OF THE BORROWER UNDER THIS AGREEMENT AND THE OTHER LOAN DOCUMENTS.
+
+ 
+
+SECTION
+7.13. 
+Survival of Agreement
+. All covenants, agreements, representations and warranties made by the Borrower herein and in the
+certificates or other instruments prepared or delivered in connection with or pursuant to this Agreement or any other Loan Document shall
+be considered to have been relied upon by the Lender and shall survive the making by the Lender of the Loan, regardless of any investigation
+made by the Lender or on its behalf, and shall continue in full force and effect so long as the principal of or any accrued interest
+on the Loan or any fee or any other amount payable under this Agreement or any other Loan Document is outstanding and unpaid or the commitment
+has not been terminated. The provisions of Section 7.05 hereof shall remain operative and in full force and effect regardless of the
+expiration of the term of this Agreement or any other Loan Document, the consummation of the transactions contemplated hereby, the repayment
+of the Loan, the expiration of the commitment, the invalidity or unenforceability of any term or provision of this Agreement or any other
+Loan Document, or any investigation made by or on behalf of the Lender.
+
+ 
+
+SECTION
+7.14. 
+Period of Limitations
+. No legal action, lawsuit or proceeding may be brought against Lender under this Loan Agreement or
+related documents after the expiration of one year from the date of accrual of such cause of action, and any claim or cause of action
+against Lender under this Loan Agreement shall be extinguished and deemed released unless asserted by the timely filing of a legal action
+within such one-year period.
+
+ 
+
+ 
+
+14
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECTION
+7.15 
+No Third Party Beneficiaries
+. No Person, other than the parties (and, in the case of the Lender, its successors and assigns
+hereunder) to this Agreement, has been given or shall be deemed to have been given any rights as a third party beneficiary hereunder
+or under any of the other Loan Documents or other instruments and documents executed in connection herewith and therewith.
+
+ 
+
+SECTION
+7.16. 
+Integration
+. This Agreement and the other Loan Documents represent the entire agreement of the Borrower and the Lender with
+respect to the subject matter hereof, and there are no promises, undertakings, representations or warranties by the Lender relative to
+the subject matter thereof not expressly set forth or referred to herein or in the other Loan Documents.
+
+ 
+
+SECTION
+7.17. 
+Acknowledgments
+. The Borrower hereby acknowledges that:
+
+ 
+
+(a)
+the Borrower has been advised by counsel in the negotiation, execution and delivery of this Agreement and the other Loan Documents;
+and
+
+ 
+
+(b) no
+joint venture exists between the Lender and the Borrower.
+
+ 
+
+SECTION
+7.18. 
+Waiver of Trial by Jury
+.
+
+ 
+
+(a) 
+Jury
+Waiver
+. BORROWER, TO THE FULL EXTENT PERMITTED BY LAW, HEREBY KNOWINGLY, INTENTIONALLY AND VOLUNTARILY, WITH AND UPON THE ADVICE
+OF COMPETENT COUNSEL, WAIVES, RELINQUISHES AND FOREVER FORGOES THE RIGHT TO A TRIAL BY JURY IN ANY ACTION OR PROCEEDING BASED UPON, ARISING
+OUT OF, OR IN ANY WAY RELATING TO THE LOAN, THE LOAN DOCUMENTS OR ANY CONDUCT, ACT OR OMISSION OF LENDER OR BORROWER, OR ANY OF THEIR
+DIRECTORS, OFFICERS, PARTNERS, MEMBERS, EMPLOYEES, AGENTS OR ATTORNEYS, OR ANY OTHER PERSONS AFFILIATED WITH LENDER OR BORROWER, IN EACH
+OR THE FOREGOING CASES, WHETHER SOUNDING IN CONTRACT, TORT OR OTHERWISE.
+
+ 
+
+(b)  
+Judicial Reference
+. The parties each prefer that any dispute between them be resolved
+in litigation subject to the jury trial waiver set forth herein, but the California Supreme Court has held that such pre-dispute jury
+trial waivers are unenforceable. This section will be applicable until: (i) the California Supreme Court holds that a pre-dispute jury
+trial waiver provision similar to that contained herein is valid or enforceable; or (ii) the California legislature passes legislation
+and the governor of the State of California signs into law a statute authorizing pre-dispute jury trial waivers and as a result such
+waivers become enforceable.
+
+ 
+
+Accordingly,
+the parties each knowingly and voluntarily agree that any civil action or proceeding involving a dispute arising out of or relating to
+this Agreement, shall be tried solely through a judicial reference as provided in sections 638 through 645.2 of the California Code of
+Civil Procedure (“CCP”) and as described herein (the “Judicial Reference”). The Parties each further realize
+that by agreeing to Judicial Reference as provided in CCP sections 638 through 645.2, the Parties each will have waived their rights
+to trial by jury.
+
+ 
+
+ 
+
+15
+
+ 
+
+ 
+
+ 
+
+ 
+
+The
+parties each further agree that the referee shall be a retired judge or justice selected by mutual written agreement of the parties.
+If the parties do not agree, the referee shall be selected by the trial court. The parties each further agree that the filing of any
+law and motion hearings or the initiation of any hearings to obtain any form of a pre-judgment remedy shall not operate as a waiver of
+the parties’ right to trial solely through a Judicial Reference.
+
+ 
+
+A
+request for appointment of a referee may be heard on an ex parte or expedited basis, and the parties each agree that irreparable harm
+would result if ex parte relief is not granted. The referee shall be appointed to sit with all the powers provided by law. The referee
+shall be required to determine all issues in accordance with existing case law and the statutory laws of the State of California. The
+rules of evidence applicable to proceedings at law in the State of California will be applicable to the reference proceeding. The referee
+shall be empowered to enter equitable as well as legal relief, provide all temporary or provisional remedies, enter equitable orders
+that will be binding on the parties and rule on any motion which would be authorized in a trial, including without limitation motions
+for summary judgment or summary adjudication. The referee shall issue a decision pursuant to CCP section 644 and the referee’s
+decision shall be entered by the court as a judgment or an order in the same manner as if the action had been tried by the court. The
+final judgment or order entered by the referee shall be fully appealable as provided by law. The parties each reserve the right to receive
+findings of fact, conclusions of laws, a written statement of decision, and the right to move for a new trial, which new trial, if granted,
+is also to be a reference proceeding under this provision.
+
+ 
+
+IN
+WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed and delivered as of the date first above written.
+
+ 
+
+ 
+
+ 
+
+BORROWER
+:
+
+ 
+
+ 
+
+ 
+
+LENDER
+:
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+UG
+CONSTRUCTION, INC. dba EMERALD CONSTRUCTION MANAGEMENT, , 
+a Colorado corporation 
+
+ 
+
+ 
+
+ 
+
+GEMINI FINANCE CORP.
+, a California
+ corporation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Richard
+Akright
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Steven
+Winters
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief
+Executive Officer
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+and CEO
+
+ 
+
+ 
+
+EXHIBITS
+
+ 
+
+ 
+
+ 
+
+Exhibit
+ A – Security Agreement
+
+ 
+
+ 
+
+Exhibit
+ B – Secured Promissory Note - Revolving
+
+ 
+
+ 
+
+ 
+
+16

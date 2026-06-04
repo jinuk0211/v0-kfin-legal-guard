@@ -1,0 +1,370 @@
+{
+  "session_id": "US_APGFCU_Visa_Agreement_P03",
+  "generated_at": "2026-05-05T17:21:25.028658+00:00",
+  "product": "APGFCU_Visa_Agreement",
+  "doc_type": "credit_card_agreement",
+  "user_profile": {
+    "id": "P03",
+    "age": 67,
+    "occupation": "retired",
+    "financial_status": "fixed income",
+    "risk_flags": [
+      "elderly",
+      "carry_balance",
+      "credit_risk"
+    ]
+  },
+  "executive_summary": "Analysis of APGFCU_Visa_Agreement identified 7 consumer vulnerabilities. Overall risk level: MEDIUM. Key concerns: Unilateral credit line reduction with termination, Vague 'good cause' termination standard, Balance transfers treated as cash advances.",
+  "overall_risk_level": "MEDIUM",
+  "vulnerability_count": {
+    "CRITICAL": 0,
+    "HIGH": 4,
+    "MEDIUM": 3,
+    "LOW": 0,
+    "uncategorized": 4
+  },
+  "findings": [
+    {
+      "finding_id": "US-V001",
+      "taxonomy": "CC-04",
+      "title": "Unilateral credit line reduction with termination",
+      "triggered_by": "By giving you written notice, we may reduce your Credit Line from time to time, or, with good cause, revoke your card and terminate this Agreement.",
+      "description": "Unilateral credit line reduction with termination",
+      "status": "CONFIRMED",
+      "confidence": 0.85,
+      "user_relevance_score": 1.0,
+      "search_query_used": "credit card change in terms unilateral modification account cancellation",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1637",
+            "verified": true
+          },
+          {
+            "law_name": "Credit CARD Act 2009",
+            "article": "15 U.S.C. \u00a7 1637(i)",
+            "verified": true
+          }
+        ],
+        "precedents": [
+          {
+            "case_number": "59999531",
+            "case_name": "Qualls v. Wright Patt Credit Union",
+            "court": "ohioctapp",
+            "date": "2021-06-18",
+            "summary": "",
+            "relevance_score": 0.416,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/4893399/qualls-v-wright-patt-credit-union/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:1\uac74 | US statute:2\uac74",
+      "severity": "HIGH",
+      "plain_language_explanation": "The bank can cut your credit limit or cancel your card anytime with just a written notice. They don't need your permission or a serious reason.",
+      "user_impact": "If you carry a balance, sudden credit cuts could push you over limit with fees and hurt your score.",
+      "estimated_risk_scenario": "Bank reduces your $5,000 limit to $2,000 while you owe $3,500. You're now over limit, facing penalty fees, higher interest rates, and credit score damage.",
+      "recommended_actions": [
+        {
+          "action": "Pay down existing balances below 30% of current limits before any changes",
+          "priority": "immediate",
+          "contact": "Your card issuer customer service"
+        },
+        {
+          "action": "Apply for a backup credit card from different bank as emergency option",
+          "priority": "immediate",
+          "contact": "Local bank or credit union"
+        },
+        {
+          "action": "Set up account alerts to monitor any credit limit changes immediately",
+          "priority": "immediate",
+          "contact": "Card issuer online banking or app"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "finding_id": "US-V003",
+      "taxonomy": "CC-04",
+      "title": "Vague 'good cause' termination standard",
+      "triggered_by": "Good cause includes your failure to comply with this Agreement, our adverse reevaluation of your creditworthiness or your use of this card in furtherance of any purpose deemed to be illegal under state or federal law.",
+      "description": "Vague 'good cause' termination standard",
+      "status": "CONFIRMED",
+      "confidence": 0.75,
+      "user_relevance_score": 1.0,
+      "search_query_used": "credit card change in terms unilateral modification account cancellation",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1637",
+            "verified": true
+          },
+          {
+            "law_name": "Credit CARD Act 2009",
+            "article": "15 U.S.C. \u00a7 1637(i)",
+            "verified": true
+          }
+        ],
+        "precedents": [
+          {
+            "case_number": "68558300",
+            "case_name": "Canteen v. Charlotte Metro Credit Union",
+            "court": "nc",
+            "date": "2024-05-23",
+            "summary": "",
+            "relevance_score": 0.416,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/9506630/canteen-v-charlotte-metro-credit-union/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:1\uac74 | US statute:2\uac74",
+      "severity": "HIGH",
+      "plain_language_explanation": "The bank can close your credit card account for 'good cause' but doesn't clearly define what that means, giving them too much power to cancel anytime.",
+      "user_impact": "As a retiree who carries a balance, your card could be canceled unexpectedly, hurting your credit score.",
+      "estimated_risk_scenario": "Bank suddenly closes your account while you have a balance, forcing immediate payment you can't afford and damaging your credit score when you're on fixed retirement income.",
+      "recommended_actions": [
+        {
+          "action": "Ask the bank to define 'good cause' in writing before signing",
+          "priority": "pre-signing",
+          "contact": "Card issuer customer service"
+        },
+        {
+          "action": "Shop for cards with clearer termination terms",
+          "priority": "immediate",
+          "contact": "Other credit card companies"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "finding_id": "US-V004",
+      "taxonomy": "CC-01",
+      "title": "Balance transfers treated as cash advances",
+      "triggered_by": "Balances you transfer from other creditors will be treated as cash advances for the purpose of this agreement and will be subject to your standard cash advance APR unless a promotional APR applies.",
+      "description": "Balance transfers treated as cash advances",
+      "status": "CONFIRMED",
+      "confidence": 0.8,
+      "user_relevance_score": 0.7,
+      "search_query_used": "credit card fee disclosure TILA Truth in Lending hidden fees",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1601",
+            "verified": true
+          },
+          {
+            "law_name": "CFPB Regulation Z",
+            "article": "12 CFR Part 1026",
+            "verified": true
+          }
+        ],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74 | US statute:2\uac74",
+      "severity": "HIGH",
+      "plain_language_explanation": "Balance transfers from other credit cards will be charged the higher cash advance rate instead of the regular purchase rate, making debt consolidation expensive.",
+      "user_impact": "Your transferred balances will have higher interest rates, increasing monthly payments on fixed income.",
+      "estimated_risk_scenario": "Transferring $5,000 in debt could cost an extra $50-100 monthly in interest charges, straining your retirement budget and making debt payoff much harder.",
+      "recommended_actions": [
+        {
+          "action": "Ask for written confirmation of balance transfer APR before signing",
+          "priority": "pre-signing",
+          "contact": "Credit card company customer service"
+        },
+        {
+          "action": "Compare with other cards offering true balance transfer rates",
+          "priority": "immediate",
+          "contact": "Local credit union or bank"
+        },
+        {
+          "action": "Consider debt counseling for retirement-friendly options",
+          "priority": "optional",
+          "contact": "National Foundation for Credit Counseling (NFCC.org)"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "finding_id": "US-V006",
+      "taxonomy": "UNCATEGORIZED",
+      "title": "Unilateral payment allocation discretion",
+      "triggered_by": "Subject to applicable law, your payments may be applied to what you owe the Credit Union in any manner the Credit Union chooses.",
+      "description": "Credit union has discretion to apply payments in manner that may not benefit consumer",
+      "status": "CONFIRMED",
+      "confidence": 0.7,
+      "user_relevance_score": 0.7,
+      "search_query_used": "subject applicable your payments applied what credit union credit card consumer rights",
+      "legal_grounds": {
+        "statutes": [],
+        "precedents": [
+          {
+            "case_number": "88586",
+            "case_name": "Edwards v. Your Credit Inc",
+            "court": "ca5",
+            "date": "1998-07-27",
+            "summary": "",
+            "relevance_score": 1.0,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/15125/edwards-v-your-credit-inc/"
+          },
+          {
+            "case_number": "2002771",
+            "case_name": "Connie Edwards v. Your Credit, Inc.",
+            "court": "ca5",
+            "date": "1998-08-17",
+            "summary": "",
+            "relevance_score": 0.927,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/755583/connie-edwards-v-your-credit-inc/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:2\uac74",
+      "severity": "HIGH",
+      "plain_language_explanation": "The credit union can decide how to apply your payments without your input. They might put money toward fees first instead of your balance.",
+      "user_impact": "Your payments may not reduce your debt as expected, keeping you in debt longer with more fees.",
+      "estimated_risk_scenario": "You make payments thinking they'll reduce your main balance, but the credit union applies them to fees and interest first, keeping your debt high and costing you more money.",
+      "recommended_actions": [
+        {
+          "action": "Ask the credit union to explain their payment allocation policy in writing before signing",
+          "priority": "pre-signing",
+          "contact": "Credit union loan officer or member services"
+        },
+        {
+          "action": "Request they agree to apply payments to highest interest debt first",
+          "priority": "pre-signing",
+          "contact": "Credit union loan officer"
+        },
+        {
+          "action": "Consider shopping with other credit unions that offer clearer payment terms",
+          "priority": "optional",
+          "contact": "Local credit unions or NCUA.gov"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "finding_id": "US-V002",
+      "taxonomy": "UNCATEGORIZED",
+      "title": "Balance becomes immediately due on termination",
+      "triggered_by": "Upon revocation of your card any outstanding balance and FINANCE CHARGE shall immediately become due and payable under the terms of this Agreement.",
+      "description": "Entire balance acceleration can create financial hardship for elderly consumers on fixed income",
+      "status": "UNVERIFIED",
+      "confidence": 0.8,
+      "user_relevance_score": 0.85,
+      "search_query_used": "upon revocation your card outstanding balance finance charge credit card consumer rights",
+      "legal_grounds": {
+        "statutes": [],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74",
+      "severity": "MEDIUM",
+      "plain_language_explanation": "If the credit card company cancels your card for any reason, you must pay back everything you owe right away - no more monthly payments allowed.",
+      "user_impact": "On fixed retirement income, you'd need to pay your full balance at once instead of monthly payments.",
+      "estimated_risk_scenario": "Card gets canceled due to late payment or credit changes. With limited retirement income, you can't pay the full balance immediately, leading to collections and damaged credit.",
+      "recommended_actions": [
+        {
+          "action": "Ask the lender to modify this clause to allow reasonable payment arrangements even after cancellation",
+          "priority": "pre-signing",
+          "contact": "Credit card company customer service"
+        },
+        {
+          "action": "Consider cards with more consumer-friendly terms that don't require immediate full payment",
+          "priority": "pre-signing",
+          "contact": "Other credit card companies or credit union"
+        },
+        {
+          "action": "Keep emergency savings equal to your credit card balance to avoid payment problems",
+          "priority": "immediate",
+          "contact": "Your bank or financial advisor"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "finding_id": "US-V005",
+      "taxonomy": "UNCATEGORIZED",
+      "title": "Grace period loss on balance transfers",
+      "triggered_by": "If you transfer your balances you may lose your grace period on purchases.",
+      "description": "Consumer loses beneficial grace period feature without clear disclosure of impact",
+      "status": "UNVERIFIED",
+      "confidence": 0.75,
+      "user_relevance_score": 0.65,
+      "search_query_used": "transfer your balances lose your grace period purchases credit card consumer rights",
+      "legal_grounds": {
+        "statutes": [],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74",
+      "severity": "MEDIUM",
+      "plain_language_explanation": "When you move debt from one card to this one, you lose the time to pay new purchases without interest. You'll pay interest right away on new buys.",
+      "user_impact": "Since you carry balances, new purchases will cost more due to immediate interest charges.",
+      "estimated_risk_scenario": "You transfer $3,000 debt, then buy $500 groceries. Instead of 25 days to pay without interest, you immediately owe interest on the $500 at 24% APR - costing extra $10/month.",
+      "recommended_actions": [
+        {
+          "action": "Avoid new purchases on this card after balance transfer",
+          "priority": "immediate",
+          "contact": "None needed"
+        },
+        {
+          "action": "Ask card company to confirm grace period terms before transferring",
+          "priority": "pre-signing",
+          "contact": "Credit card customer service"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "finding_id": "US-V007",
+      "taxonomy": "UNCATEGORIZED",
+      "title": "Acceptance of partial payments preserves all rights",
+      "triggered_by": "We can accept late payments, partial payments, checks and money orders marked \"paid in full\" or language having the same effect without losing any of our rights under this agreement.",
+      "description": "Consumer cannot resolve disputes through accord and satisfaction even with explicit payment markings",
+      "status": "UNVERIFIED",
+      "confidence": 0.75,
+      "user_relevance_score": 0.65,
+      "search_query_used": "accept late payments partial payments checks money orders credit card consumer rights",
+      "legal_grounds": {
+        "statutes": [],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74",
+      "severity": "MEDIUM",
+      "plain_language_explanation": "Even if you pay part of what you owe or write 'paid in full' on a check, the lender can still demand the full amount and take collection actions.",
+      "user_impact": "You might think partial payments settle your debt, but the lender can still sue or collect.",
+      "estimated_risk_scenario": "You send a partial payment thinking it settles the debt, but the lender accepts it and still pursues you for the remaining balance, potentially leading to lawsuits or damage to credit.",
+      "recommended_actions": [
+        {
+          "action": "Get any payment agreements in writing before sending partial payments",
+          "priority": "immediate",
+          "contact": "Lender's customer service department"
+        },
+        {
+          "action": "Consult with a consumer attorney about debt settlement rights",
+          "priority": "pre-signing",
+          "contact": "State bar association lawyer referral service"
+        }
+      ],
+      "rank": 7
+    }
+  ],
+  "general_recommendations": [
+    "Read all terms carefully before signing any credit card agreement.",
+    "Compare APR and fees across multiple issuers before applying.",
+    "Note any arbitration clauses that waive your right to sue.",
+    "Contact CFPB (1-855-411-2372) if you believe a term is unfair.",
+    "For disputes, contact your state Attorney General's consumer protection office."
+  ],
+  "disclaimer": "This report is generated by AI analysis and has no legal effect. For specific legal advice, consult a consumer protection attorney or contact the CFPB."
+}

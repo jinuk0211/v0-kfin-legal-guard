@@ -1,0 +1,3712 @@
+EX-10.2
+
+3
+
+ex10-2.htm
+
+ 
+
+ 
+
+Exhibit
+10.2
+
+ 
+
+Trademark
+Transfer and License-Back Agreement
+
+ 
+
+This
+Trademark Transfer and License-Back Agreement (this “
+Agreement
+”), effective as of the date of last signature below
+(the “
+Effective Date
+”), is by and between Dragonfly Energy Corp., a Nevada Corporation (“
+Dragonfly Energy
+”),
+and Battle Born Battery Products, LLC, a Nevada limited liability company (“
+Battle Born Battery Products
+”). Dragonfly
+Energy and Battle Born Battery Products are sometimes referred to herein, collectively, as the “
+Parties
+,” and each,
+individually, as a “
+Party
+”.
+
+ 
+
+WHEREAS,
+Dragonfly Energy is the owner of certain rights in and to the Licensed Marks (defined below); and
+
+ 
+
+WHEREAS,
+the Licensed Marks are subject to the lien and security interest of Alter Domus (US), LLC as agent (the “
+Term Loan Agent
+”)
+for the lenders (the “
+Term Loan Lenders
+”) party to the Term Loan, Guarantee and Security Agreement, dated as of October
+7, 2022 (as amended supplemented or otherwise modified prior to the date hereof and as the same may be further amended, supplemented
+or otherwise modified, the “
+Term Loan Agreement
+”) among Dragonfly Energy as Borrower thereunder, the other Credit
+Parties thereunder and as defined therein, and the Term Loan Lenders party thereto; and
+
+ 
+
+WHEREAS,
+Dragonfly Energy desires to transfer the rights in and to the Licensed Marks on an as-is basis to Battle Born Battery Products who desires
+to obtain such rights, in exchange for 100% of the ownership interests in Battle Born Battery Products and an exclusive, sublicensable
+(in the Dragonfly Market (defined below)), license-back of all rights in and to the Licensed Marks worldwide in the Dragonfly Market
+on the terms and conditions set out in this Agreement; and
+
+ 
+
+WHEREAS,
+following the transfer of the Licensed Marks to Battle Born Battery Products and in addition to the licenses granted herein, the Licensed
+Marks will also be licensed to Stryten Energy LLC, a Delaware limited liability company (“
+Stryten
+”), by Battle Born
+Battery Products for Stryten’s exclusive use in the Stryten Market (as defined below) pursuant to that certain Trademark License
+Agreement, dated as of even date herewith, by and between the Parties and Stryten.
+
+ 
+
+NOW,
+THEREFORE, in consideration of the mutual covenants and agreements hereinafter set forth and for other good and valuable consideration,
+the receipt and sufficiency of which are hereby acknowledged, the Parties hereby agree as follows:
+
+ 
+
+1.
+
+Definitions
+. For purposes of this Agreement, the following terms have the following meanings:
+
+ 
+
+“
+Affiliate
+”
+of a Person means any other Person that directly or indirectly, through one or more intermediaries, controls, is controlled by, or is
+under common control with, such Person. The term “control” (including the terms “controlled by” and “under
+common control with”) means the possession, directly or indirectly, of the power to direct or cause the direction of the management
+and policies of a Person, whether through the ownership of voting securities, by contract, or otherwise.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Brand
+Manual/Use Guidelines
+” means Battle Born Battery Products’ guidelines for the form and manner in which the Licensed Marks
+may be used under this Agreement, a copy of which is attached to this Agreement as Schedule 4, including any amendments or updates to
+them as the Parties may agree to in writing from time to time.
+
+ 
+
+“
+Confidential
+Information
+” has the meaning set forth in 
+Error! Bookmark not defined.
+12.
+
+ 
+
+“
+Dragonfly
+Market
+” has the meaning set forth on Schedule 3.
+
+ 
+
+“
+Effective
+Date
+” has the meaning set forth in the preamble.
+
+ 
+
+“
+Law
+”
+means any statute, law, ordinance, regulation, rule, code, order, constitution, treaty, common law, judgment, award, decree, other requirement,
+or rule of law of any federal, state, local, or foreign government, or political subdivision thereof, or any arbitrator, court, or tribunal
+of competent jurisdiction.
+
+ 
+
+“
+Licensed
+Marks
+” means the trademarks and service marks owned by Dragonfly prior to, and Battle Born Battery Products following, the
+assignment pursuant to Section 2 of this Agreement, that consist of or include the wording BATTLE BORN (or variations thereof), whether
+registered or unregistered, including the marks set forth on Schedule 1, along with any iterations or variants thereof owned by Dragonfly
+prior to, and Battle Born Battery Products following, the assignment pursuant to Section 2 of this Agreement.
+
+ 
+
+“
+Licensed
+Products
+” means batteries, and any other products that Battle Born Battery Products and Dragonfly Energy may agree on in writing
+from time to time, for manufacture, advertising, marketing, distribution, and sale under the Licensed Mark.
+
+ 
+
+“
+Person
+”
+means an individual, corporation, partnership, joint venture, limited liability company, governmental authority, unincorporated organization,
+trust, association, or other entity.
+
+ 
+
+“
+Representatives
+”
+means, with respect to any Person, all officers, directors, stockholders, managers, managing directors, managing members, members, principals,
+employees, attorneys, agents, trustees, financial advisors, restructuring advisors, accountants, investment bankers, consultants, managed
+accounts, managed funds and other representatives of such Person.
+
+ 
+
+“
+Specs
+”
+means the written technical specifications to which each Licensed Product must conform that shall be mutually agreed upon by Battle Born
+Battery Products and Dragonfly Energy in good faith.
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Stryten
+Market
+” means business-to-business sales and all sales outside sales of consumer products directly to consumers in the following
+markets: (a) automotive, (b) marine, (c) powersports, (d) lawn & garden, (e) golf carts, and (f) military and defense. Notwithstanding
+anything to the contrary herein, if Stryten’s market under the Trademark License Agreement is expanded in accordance with the terms
+thereof, the definition of “Stryten Market” in this Agreement shall automatically be interpreted to include any such expansion
+and Dragonfly Energy’s (and any sublicensees’) right to use the Licensed Marks in such expanded market shall automatically
+terminate.
+
+ 
+
+“
+Term
+”
+has the meaning set forth in Section 15.
+
+ 
+
+2.
+
+Assignment
+. Dragonfly Energy hereby irrevocably conveys, transfers, and assigns to Battle Born Battery Products all right, title,
+and interest in, under and to all Licensed Marks, and all associated goodwill arising from the use of the Licensed Marks to Battle Born
+Battery Products, free and clear of all liens and other encumbrances (other than the security interest granted pursuant to the Term Loan
+Agreement).
+
+ 
+
+3.
+
+As-Is Transfer; Disclaimer of Warranties
+. Battle Born Battery Products acknowledges and agrees that the Licensed Marks are being
+transferred on an “as-is, where-is” basis, with all faults and defects, and that Dragonfly Energy is not making any representation
+or warranty of any kind with respect to the value or validity of the Licensed Marks. EXCEPT FOR THE SPECIFIC WARRANTIES EXPRESSLY SET
+FORTH IN THIS AGREEMENT, DRAGONFLY ENERGY EXPRESSLY DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY,
+OR OTHERWISE, IN CONNECTION WITH THIS AGREEMENT AND THE LICENSED MARKS, INCLUDING ANY WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY,
+OR FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, EXCEPT AS SET FORTH IN THIS AGREEMENT, DRAGONFLY
+ENERGY MAKES NO REPRESENTATION OR WARRANTY THAT ANY OF THE LICENSED MARKS ARE VALID OR THAT THE EXERCISE BY EITHER PARTY OF ANY RIGHTS
+GRANTED UNDER THIS AGREEMENT WILL NOT INFRINGE THE RIGHTS OF ANY PERSON.
+
+ 
+
+4.
+
+Recordation and Further Actions
+. Concurrently with the execution and delivery of this Agreement, Dragonfly Energy is executing
+and delivering to Battle Born Battery Products a trademark assignment substantially in the form of Schedule 2 hereto (the “
+IP
+Assignment
+”). Dragonfly Energy hereby authorizes Battle Born Battery Products to record the IP Assignment with the relevant
+trademark authorities in each applicable jurisdiction. Following the Effective Date, upon Battle Born Battery Products’ request
+and at Dragonfly Energy’s sole cost and expense, Dragonfly Energy shall take such steps and actions, and provide such cooperation
+and assistance to Battle Born Battery Products and its successors, assigns, and legal Representatives, including the execution and delivery
+of any affidavits, declarations, oaths, exhibits, assignments, powers of attorney, or other documents, as may be reasonably necessary
+to effect, evidence, or perfect the assignment of the Licensed Marks to Battle Born Battery Products.
+
+ 
+
+5.
+
+License
+.
+
+ 
+
+(a)
+
+Grant.
+ In consideration of Dragonfly Energy’s transfer of the Licensed Marks to Battle Born Battery Products as set forth
+in Section 2, Battle Born Battery Products hereby grants to Dragonfly Energy a perpetual (unless terminated in accordance with Section
+15), fully paid up and royalty-free, sublicensable (pursuant to Section 5(b)), non-transferable (except as provided in Section 17), exclusive
+license to use the Licensed Marks throughout the world worldwide in the Dragonfly Markets.
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+
+Sublicensing
+. Dragonfly Energy shall have the limited right to sublicense the Licensed Marks to another Person for the sole purpose
+of allowing such Person to assist Dragonfly Energy in connection with the production, distribution, advertising, commercialization or
+sale of the Licensed Products in the Dragonfly Markets in strict accordance with the terms of this Agreement.
+
+ 
+
+(c)
+
+Reservation of Rights
+. Battle Born Battery Products hereby reserves all rights not expressly granted to Dragonfly Energy under
+this Agreement.
+
+ 
+
+(d)
+
+Market Restrictions
+. Dragonfly Energy shall not: (i) conduct advertising of Licensed Products targeted to any industry outside
+the Dragonfly Markets (which may be expanded in accordance with Section 18(c)); or (ii) purposefully seek orders for Licensed Products
+from outside the Dragonfly Markets (which may be expanded in accordance with Section 18(c)). Dragonfly Energy’s rights in respect
+of the Licensed Marks will apply to all direct sales to consumers on consumer products in the Dragonfly Markets.
+
+ 
+
+6.
+
+Quality Standards and Control
+.
+
+ 
+
+(i)
+
+Brand Manual/Use Guidelines
+. Dragonfly Energy shall ensure that all products and services offered and/or sold under the Licensed
+Marks, as well as all related advertising, promotional and other uses of the Licensed Marks by Dragonfly Energy, conform in all material
+respects to at least the same standards of quality heretofore met by Dragonfly Energy’s products and services it provides and the
+Brand Manual/Use Guidelines.
+
+ 
+
+(ii)
+
+Compliance with Specifications
+. Dragonfly Energy shall comply, in all material respects, with the specifications and standards
+for the Licensed Products contained in the Specs, including their design and manufacture.
+
+ 
+
+(iii)
+
+Compliance with Laws
+. In exercising its rights under this Agreement, each Party shall comply with all applicable Laws. Dragonfly
+Energy shall promptly provide Battle Born Battery Products with copies of all communications with any governmental, regulatory, or industry
+authority relating to the Licensed Marks.
+
+ 
+
+(iv)
+
+Inspection of Facilities
+. Upon reasonable (no less than thirty (30) days’) prior written notice and during Dragonfly Energy’s
+normal business hours, Dragonfly Energy shall permit Battle Born Battery Products to inspect Dragonfly Energy’s facilities used
+for the manufacture, storage, or distribution of the Licensed Products to ensure compliance with the quality standards or any other specifications
+or requirements set forth in this Agreement to the extent necessary under applicable Law to maintain the validity of the Licensed Marks
+and protect the goodwill associated therewith.
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+(v)
+
+Submission of Materials for Approval
+. Prior to any use of the Licensed Mark on a Licensed Product that has not previously been
+approved or is not substantially consistent with a previously approved Licensed Product and thereafter at any time following Battle Born
+Battery Products’ reasonable written request (not to exceed twice a calendar year unless Battle Born Battery Products has reason
+to believe that the Licensed Product does not meet applicable Specs and deems receipt of a production sample of the Licensed Product
+hereunder necessary in its reasonable discretion), Dragonfly Energy shall, at its own expense, supply a representative production sample
+of the Licensed Product to Battle Born Battery Products for approval and Battle Born Battery Products shall grant such approval if such
+Licensed Product meets applicable Specs. If such sample does not meet applicable Specs and Battle Born Battery Products rejects such
+sample, it shall give written notice of such rejection (in reasonable detail to facilitate cure by Dragonfly Energy) to Dragonfly Energy
+within fourteen (14) days of Battle Born Battery Products’ receipt of the sample. In the absence of a written notice of rejection
+within fourteen (14) days of receipt of a sample, the sample will be deemed to have been approved by Battle Born Battery Products.
+
+ 
+
+(vi)
+
+Rejected, Damaged, or Defective Products
+. Dragonfly Energy shall not knowingly sell, market, distribute, or permit any third party
+to sell, market or distribute, any Licensed Products that are damaged or defective.
+
+ 
+
+(vii)
+
+Complaints
+. Dragonfly Energy shall reasonably promptly following Battle Born Battery Products’ written request, provide
+such Parties with details of any complaints it has received relating to the Licensed Products together with reports on the manner in
+which such complaints are being, or have been, resolved, in each case to the extent relating to the Licensed Mark.
+
+ 
+
+(viii)
+
+Subcontracting
+. Dragonfly Energy is liable for all acts and omissions of any authorized subcontractor engaged by Dragonfly Energy
+hereunder.
+
+ 
+
+(ix)
+
+Product Recall
+. Dragonfly Energy agrees to take commercially reasonable steps, which may include, without limitation, product
+recalls, to abate any health or safety risks posed by the Licensed Products reasonably promptly. Upon Battle Born Battery Products’
+reasonable written request, Dragonfly Energy shall provide to Battle Born Battery Products for Battle Born Battery Products’ review
+and approval, a copy of Dragonfly Energy’s recall program for the Licensed Products. Dragonfly Energy has complete responsibility
+for determining if a product recall is required and Dragonfly Energy bears responsibility for all costs and expenses associated with
+any recall of the Licensed Products.
+
+ 
+
+(x)
+
+Cooperation
+. The Parties shall all cooperate in good faith with respect to controlling the quality of any products bearing the
+Licensed Mark, including with respect to monitoring and corrective action processes, warranties and pricing.
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+7.
+
+Use of the Licensed Mark
+
+ 
+
+(a)
+
+Compliance with Battle Born Battery Products’ Directions
+. Dragonfly Energy shall comply in all material respects with the
+directions regarding the form and manner of the application of the Licensed Marks contained in the Brand Manual/Use Guidelines or is
+consented to by Battle Born Battery Products (such consent not to be unreasonably withheld, conditioned or delayed).
+
+ 
+
+(b)
+
+No Other Marks
+. Apart from the Licensed Marks, any other trademark, service mark, trade name or logo affixed to, or used in connection
+with, the Licensed Products, may be so affixed or used provided that such affixation or use complies with the Brand Manual/Use Guidelines.
+
+ 
+
+(c)
+
+Trademark Notices
+. Dragonfly Energy shall ensure that all Licensed Products sold by Dragonfly Energy and all related quotations,
+specifications, and descriptive literature, and all other materials carrying the Licensed Marks, be marked with the appropriate trademark
+notices as set forth in the Brand Manual/Use Guidelines.
+
+ 
+
+8.
+
+Ownership and Registration.
+
+ 
+
+(a)
+
+Acknowledgement of Ownership
+. Dragonfly Energy acknowledges that (i) Battle Born Battery Products is, as of the date hereof, the
+owner of the Licensed Marks throughout the world and all goodwill related thereto, and (ii) all use of the Licensed Marks by Dragonfly
+Energy under this Agreement and any goodwill accruing from such use will inure solely to Battle Born Battery Product’s benefit.
+If Dragonfly Energy acquires any ownership rights in the Licensed Marks, by operation of law or otherwise, Dragonfly Energy hereby irrevocably
+assigns such rights to Battle Born Battery Products without further action by any of the Parties.
+
+ 
+
+(b)
+
+Dragonfly Energy Restrictions
+. Dragonfly Energy agrees that it shall not directly or indirectly:
+
+ 
+
+(i)
+knowingly take, omit to take, or permit any action which will dilute the Licensed Marks or tarnish or bring into disrepute the reputation
+of or goodwill associated with the Licensed Marks, or which will invalidate or jeopardize any registration of the Licensed Marks; or
+
+ 
+
+(ii)
+apply for, or obtain, or assist any Person in applying for or obtaining any registration of the Licensed Marks, or any trademark, service
+mark, trade name, or other indicia confusingly similar to the Licensed Marks.
+
+ 
+
+(c)
+
+No Encumbrances
+. Dragonfly Energy shall not grant any security interest or lien against any application or registration included
+in the Licensed Mark in the United States Patent and Trademark Office or elsewhere (other than the security interest granted pursuant
+to the Term Loan Agreement).
+
+ 
+
+ 
+
+6
+
+ 
+
+ 
+
+ 
+
+ 
+
+(d)
+The Parties hereby agree to amend this Agreement (and any permitted sublicenses granted hereunder) to reflect any expansion of the Stryten
+Market in accordance with the Trademark License Agreement and terminate Dragonfly Energy’s (and any sublicensees’) right
+to use the Licensed Marks in such expanded market.
+
+ 
+
+9.
+
+Maintenance, Enforcement, and Ownership of the Licensed Marks
+.
+
+ 
+
+(a)
+
+Maintenance
+. Battle Born Battery Products shall, at the cost and expense of Dragonfly Energy, diligently and timely maintain all
+registrations of the Licensed Marks in full force and effect, and Battle Born Battery Products shall keep Dragonfly Energy informed of
+all material developments in connection therewith. Dragonfly Energy shall provide, at the request of Battle Born Battery Products and
+at Dragonfly Energy’s sole cost and expense, all reasonably necessary assistance in connection with such maintenance efforts for
+the registrations of the Licensed Marks. Battle Born Battery Products shall not abandon any of the Licensed Marks without the prior written
+consent of Dragonfly.
+
+ 
+
+(b)
+
+Notification and Enforcement
+. Battle Born Battery Products shall promptly notify Dragonfly Energy upon becoming aware of any infringement
+or dilution of the Licensed Marks. Battle Born Battery Products shall, at the sole cost and expense of Dragonfly Energy, take all actions
+reasonably necessary action to enforce the Parties’ rights in and to the Licensed Marks, including, but not limited to, bringing
+actions or proceedings against third parties engaging in actual, suspected, or threatened infringement, counterfeiting, dilution, or
+other conflicting use (an “
+Infringement
+”) of the Licensed Marks. Battle Born Battery Products shall timely notify
+Dragonfly Energy of any actual or potential Infringement of the Licensed Marks by any third party of which it becomes aware, and Battle
+Born Battery Products shall thereafter keep Dragonfly Energy reasonably informed on the status of its efforts to enforce the Parties’
+rights in and to the Licensed Marks. Dragonfly Energy shall provide all reasonably necessary assistance in connection with such enforcement
+efforts for the Licensed Marks. For the avoidance of doubt, Battle Born Battery Products shall have no obligation with respect to enforcement
+of the Licensed Marks other than as set forth in this Section 9(b).
+
+ 
+
+(c)
+
+Retention of Rights
+. For the avoidance of doubt, except for the transfer and license of the right, title, and interest in and
+to the Licensed Marks as expressly provided by this Agreement, the Parties agree and acknowledge that neither Party is transferring to
+the other Party any rights whatsoever in and/or to any other current or future intellectual property of that Party, including, but not
+limited to, any artwork, packaging, labeling, copy, text, or other written, printed, graphic, electronic, audio, or video advertising
+and/or promotional materials used or created for use in connection with any advertising and promotion of that Party, whether or not the
+foregoing utilizes the Licensed Marks.
+
+ 
+
+10.
+Marketing and Advertising Requirements.
+
+ 
+
+(a)
+
+Generally
+. Dragonfly Energy shall not knowingly advertise, market, or promote the Licensed Products in a way that reduces or diminishes
+the reputation, image, and prestige of the Licensed Marks or of products sold under or by reference to the Licensed Marks (including,
+without limitation, the Licensed Products).
+
+ 
+
+ 
+
+7
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+
+Approval of Marketing and Advertising Materials
+. Prior to any use of the Licensed Marks in advertisements, marketing, or promotional
+material, product branding, and educational/informational documentation for the Licensed Products which has not previously been approved
+or is not substantially consistent with a previously approved use, Dragonfly Energy shall send to Battle Born Battery Products for its
+prior approval the visual proof of such proposed advertisements or marketing or promotional material for the Licensed Products and Battle
+Born Battery Products shall grant such approval if such use complies with the Brand Manual/Use Guidelines. If such use does not comply
+with the Brand Manual/Use Guidelines and Battle Born Battery Products disapproves of such material, it shall give written notice of such
+disapproval (in reasonable detail to facilitate cure by Dragonfly Energy) to Dragonfly Energy within ten (10) business days of receipt
+by Battle Born Battery Products of the material. In the absence of a written notice of disapproval within ten (10) business days of receipt
+of such materials, the materials will be deemed to have been approved by Battle Born Battery Products. Dragonfly Energy shall not use
+any material in the advertising, marketing, promotion, branding, or educational materials of Licensed Products that Battle Born Battery
+Products has not approved. Approval of any particular use of any Licensed Marks, once given by Battle Born Battery Products, shall continue
+in effect with respect to such use and use substantially consistent therewith, without need for further approval.
+
+ 
+
+11.
+
+Cost of Marketing and Advertising
+. Except as otherwise provided in this Agreement, as between the Parties, Dragonfly Energy shall
+bear the costs of all advertising, marketing, and promotion for the Licensed Products in the Dragonfly Market during the Term.
+
+ 
+
+12.
+
+Confidentiality
+. Each Party acknowledges that in connection with this Agreement, it may gain access to information that is treated
+as confidential by the other Party, including, without limitation, information about the other Party’s business operations and
+strategies, goods and services, customers, pricing, marketing, and other sensitive and proprietary information (collectively, “
+Confidential
+Information
+”). Each Party shall not use any Confidential Information of the other Party for any purpose other than as reasonably
+necessary to exercise its rights or perform its obligations under this Agreement and shall not disclose the other Party’s Confidential
+Information to any other Person.
+
+ 
+
+13.
+
+Non-Disparagement
+. The Parties agree that they and all those acting in concert with them will not make any disparaging statements
+or representations, either directly or indirectly, whether orally or in writing, by word or gesture, or through use of the Licensed Marks,
+to any Person or entity, about the other Party or Stryten, the other Party’s or Stryten’s products or services, or the other
+Party’s or Stryten’s attorneys, Representatives, affiliates, directors, officers, employees, or agents. For purposes of this
+Section, a disparaging statement or representation shall include any communication or use of the Licensed Marks which, if publicized
+to another, would cause or tend to cause the recipient of the communication to question the business condition, integrity, competence,
+good character, or product/service quality of the person or entity to whom the communication relates.
+
+ 
+
+ 
+
+8
+
+ 
+
+ 
+
+ 
+
+ 
+
+14.
+
+Representations and Warranties
+. Each Party represents and warrants to the other Party that, as of the Effective Date: (i) it is
+duly organized, validly existing, and in good standing under the laws of the state or jurisdiction of its organization; (ii) it has the
+full right, power, and authority to enter into and perform its obligations under this Agreement; (iii) the execution of this Agreement
+by its Representative whose signature is set forth at the end hereof has been duly authorized by all necessary organizational action
+of such Party; and (iv) when executed and delivered by such Party, this Agreement will constitute the legal, valid, and binding obligation
+of that Party, enforceable against that Party in accordance with its terms.
+
+ 
+
+15.
+
+Term and Termination
+.
+
+ 
+
+(a)
+This Agreement is effective as of the Effective Date, and the license granted hereunder will continue in perpetuity unless terminated
+earlier in accordance with this 
+Error! Bookmark not defined.
+15 or the Parties mutually agree in writing to terminate this Agreement,
+in accordance with the terms of this Section 15 (the “
+Term
+”). Notwithstanding anything herein to the contrary, in
+no case will termination of this Agreement terminate or otherwise impact the assignment of intellectual property to Battle Born Battery
+Products under this Agreement.
+
+ 
+
+(b)
+
+Termination for Cause
+. This Agreement may be terminated by a Party, if the other Party materially breaches this Agreement and
+(if such breach is curable) the other Party fails to cure such breach within thirty (30) days of being notified in writing to do so or,
+if such breach cannot reasonably be cured within thirty (30) days, then the other Party shall commence curing the breach within thirty
+(30) days and diligently pursue such cure thereafter.
+
+ 
+
+(c)
+
+Post-Termination Rights and Obligations
+.
+
+ 
+
+(i)
+
+Effect of Termination
+. On the termination of this Agreement for any reason and subject to any express provisions set out elsewhere
+in this Agreement:
+
+ 
+
+(A)
+all rights and licenses granted pursuant to this Agreement shall immediately cease; and
+
+ 
+
+(B)
+Dragonfly Energy shall immediately cease all use of the Licensed Marks.
+
+ 
+
+(d)
+
+Sell-Off Period
+. On termination of this Agreement for any reason, Dragonfly Energy shall have the right to dispose of all stocks
+of Licensed Products in its possession and all Licensed Products in the course of manufacture or production as of the date of termination
+for a period of twelve (12) months after the date of expiration or termination of this Agreement, in each case, in accordance with the
+terms and conditions of this Agreement.
+
+ 
+
+(e)
+Effect of Termination. The rights and obligations of the Parties set forth in this 
+Error! Bookmark not defined.
+15 and Section
+1, Section 2, Section 3, Section 4, Section 5(c), Section 6(iii) & (viii), Section 8, Section 9(c), Section 12, Section 15, Section
+16 and Section 17, and any right, obligation, or required performance of the Parties in this Agreement, which, by its express terms or
+nature and context is intended to survive termination or expiration of this Agreement, will survive any such termination or expiration.
+Without limiting the generality of the foregoing and for the avoidance of doubt, no termination of this Agreement or the license granted
+hereunder shall rescind, compromise, limit or otherwise affect, in any manner whatsoever, the transfer and assignment of all rights,
+title and interests in, to and under the Licensed Marks to Battle Born Battery Products provided in this Agreement or the IP Assignment.
+No Party shall be relieved of any liability with respect of any inaccuracy, breach or non-fulfillment of any provision hereof prior to
+such termination or expiration, or of any provision hereof that survive the termination hereof after the termination hereof.
+
+ 
+
+ 
+
+9
+
+ 
+
+ 
+
+ 
+
+ 
+
+16.
+
+Binding Agreement; Third Party Beneficiary
+. This Agreement is binding upon and inures to the benefit of the Parties and their
+respective successors and assigns. Stryten shall be a third-party beneficiary with regard to Sections 2, 4, 5, 6, 7, 8, 9, 10, 13, 15,
+17, 18 of this Agreement, and shall be entitled to all the benefits thereunder and entitled to enforce such provisions.
+
+ 
+
+17.
+
+Assignment
+. No Party shall assign or otherwise transfer any of its rights, or delegate or otherwise transfer any of its obligations
+or performance, under this Agreement, in each case whether voluntarily, involuntarily, by operation of law, or otherwise, without the
+other Parties’ prior written consent, which consent shall not be unreasonably withheld, conditioned, or delayed. For purposes of
+the preceding sentence, and without limiting its generality, any merger, consolidation, or reorganization involving a Party (regardless
+of whether such Party is a surviving or disappearing entity) or sale of all or substantially all the assets or business of such Party
+to which this Agreement relates will be deemed to be a transfer of rights, obligations, or performance under this Agreement for which
+the other Parties’ prior written consent is not required, provided that, in each case, the successor entity to which this Agreement
+is assigned expressly agrees to be bound by this Agreement and all other related agreements between the Parties. No delegation or other
+transfer will relieve a Party of any of its obligations or performance under this Agreement. Any purported assignment, delegation, or
+transfer in violation of this 
+Error! Bookmark not defined.
+17 is null and void. Notwithstanding anything herein to the contrary,
+the Licensed Marks and Battle Born Battery Products’ obligations under this Agreement, the Trademark License Agreement and all
+other related agreements between the Parties must remain with the same owner and may not be separately assigned or otherwise transferred,
+in whole or in part.
+
+ 
+
+18.
+
+General Provisions
+.
+
+ 
+
+(a)
+
+Notices
+. All correspondence or notices required or permitted to be given under this Agreement must be in writing, in English,
+and addressed to the other Party at its address set out below (or to any other address that the receiving Party may designate from time
+to time in writing). Each Party shall deliver all notices by personal delivery, nationally recognized overnight courier (with all fees
+prepaid), email (with confirmation of transmission), or certified or registered mail (in each case, return receipt requested, postage
+prepaid). Except as otherwise provided in this Agreement, a notice is effective only (i) upon receipt by the receiving Party and (ii)
+if the Party giving the notice has complied with the requirements of this Section 18(a). Such communications must be sent to the respective
+Parties at the following addresses (or at such other address for a Party as specified in a notice given in accordance with this Section):
+
+ 
+
+ 
+
+ 
+
+If
+ to Dragonfly Energy:
+
+ 
+
+1190
+ Trademark Dr., Suite #108
+
+ 
+
+Reno,
+ Nevada 89512 Attn: Dominic Sinnott
+
+ 
+
+E-mail:
+ dsinnott@dragonflyenergy.com
+
+ 
+
+ 
+
+ 
+
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+If
+ to Battle Born Battery Products:
+
+ 
+
+ 
+
+Battle
+ Born Battery Products, LLC
+
+ 
+
+1190 Trademark Dr., Suite #108
+
+ 
+
+Reno,
+ Nevada 89512 Attn: Dominic Sinnott
+
+ 
+
+E-mail:
+ dsinnott@dragonflyenergy.com
+
+ 
+
+ 
+
+(b)
+
+Entire Agreement
+. The recitals set forth at the beginning of this Agreement are incorporated by reference and made a part of this
+Agreement. Sections of this Agreement have been labeled for the convenience of the Parties and such headings are not to be utilized for
+the purpose of construing the meaning of any provision of this Agreement. This Agreement, including and together with any related exhibits
+and schedules, constitutes the entire agreement of the Parties with respect to the subject matter contained herein. The Parties expressly
+acknowledge that they are entering into other agreements contemporaneously herewith and/or after this Agreement, and that this Agreement
+shall survive termination of such other agreements unless otherwise terminated in accordance with Section 15 of this Agreement.
+
+ 
+
+(c)
+
+Amendment; Waiver
+. No amendment to this Agreement will be effective unless it is in writing and signed by both Parties and Stryten
+(provided that Stryten’s consent shall not be unreasonably withheld, conditioned or delayed), excluding any decision related to
+an expansion of the Dragonfly Markets outside the Stryten Market, which shall remain in the sole discretion of Dragonfly and Battle Born
+Battery Products provided that the Parties provide Stryten written notice of any such amendment at least ten (10) business days prior
+to any such amendment taking effect. No waiver by any Party of any of the provisions hereof will be effective unless explicitly set forth
+in writing and signed by the waiving Party. Except as otherwise set forth in this Agreement, no failure to exercise, or delay in exercising,
+any rights, remedy, power, or privilege arising from this Agreement will operate or be construed as a waiver thereof; nor will any single
+or partial exercise of any right, remedy, power, or privilege hereunder preclude any other or further exercise thereof or the exercise
+of any other right, remedy, power, or privilege.
+
+ 
+
+(d)
+
+Severability
+. If any term or provision of this Agreement is invalid, illegal, or unenforceable in any jurisdiction, such invalidity,
+illegality, or unenforceability will not affect any other term or provision of this Agreement or invalidate or render unenforceable such
+term or provision in any other jurisdiction.
+
+ 
+
+(e)
+
+Governing Law and Venue
+. This Agreement, and all matters arising out of or relating to this Agreement, will be governed by, and
+construed in accordance with, the laws of the State of Nevada, without regard to any choice or conflict of laws principles thereof. The
+Parties hereto waive any objection which either may have based on lack of jurisdiction or improper venue or 
+forum non conveniens
+
+to any suit or proceeding instituted by either Party under this Agreement in any state or federal court with jurisdiction over Washoe
+County, state of Nevada, and consent to the granting of such legal or equitable relief as is deemed appropriate by such court.
+
+ 
+
+(f)
+
+Counterparts
+. This Agreement may be executed in counterparts, each of which is deemed an original, but all of which together are
+deemed to be one and the same agreement.
+
+ 
+
+[SIGNATURE
+PAGE FOLLOWS]
+
+ 
+
+ 
+
+11
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, the Patties have caused this Trademark Transfer and License- Back Agreement to be executed as of the last
+signature below by their respective officers thereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dragonfly
+ Energy, Corp.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Denis Phares
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:  
+
+ 
+
+Denis
+ Phares
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+CEO
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dated:
+
+ 
+
+July
+ 29, 2024
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Battle
+ Born Battery Products, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Denis Phares
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Denis
+ Phares
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+CEO
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dated:
+
+ 
+
+July
+ 29, 2024
+
+ 
+
+ 
+
+ 
+
+12
+
+ 
+
+ 
+
+ 
+
+ 
+
+SCHEDULE
+1
+
+ 
+
+Licensed
+Marks
+
+ 
+
+ 
+
+ 
+
+Trademark
+
+ 
+
+ 
+
+ 
+
+Jurisdiction
+
+ 
+
+ 
+
+ 
+
+Trademark
+ Registration / Application No.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+United
+ States
+
+ 
+
+ 
+
+ 
+
+Reg.
+ No. 6895225
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+United
+ States
+
+ 
+
+ 
+
+ 
+
+Reg.
+ No. 7284871
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+United
+ States
+
+ 
+
+ 
+
+ 
+
+Reg.
+ No. 7284872
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+European
+ Union
+
+ 
+
+ 
+
+ 
+
+Reg.
+ No. 018848387
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+United
+ Kingdom
+
+ 
+
+ 
+
+ 
+
+Reg.
+ No. UK00003888983
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+International
+ Registration
+
+ 
+
+ 
+
+ 
+
+(and designated countries granting
+
+ 
+
+protection)
+
+ 
+
+ 
+
+ 
+
+Reg.
+ No. 1683242
+
+ 
+
+ 
+
+ 
+
+13
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Trademark
+
+ 
+
+ 
+
+ 
+
+Jurisdiction
+
+ 
+
+ 
+
+ 
+
+Trademark
+ Registration / Application No.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Australia
+ 
+
+ 
+
+ 
+
+ 
+
+Reg.
+ No. 2300563 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mexico
+
+ 
+
+ 
+
+ 
+
+Reg.
+ No. 2575209
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Canada
+
+ 
+
+ 
+
+ 
+
+App.
+ No. 2209962
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+BATTLE
+ BORN BATTERIES
+
+ 
+
+ 
+
+ 
+
+United
+ Kingdom
+
+ 
+
+ 
+
+ 
+
+Reg.
+ No. UK00003888951
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BATTLE
+ BORN BATTERIES
+
+ 
+
+ 
+
+ 
+
+European
+ Union
+
+ 
+
+ 
+
+ 
+
+Reg.
+ No. 018848379
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BATTLE
+ BORN
+
+ 
+
+ 
+
+ 
+
+International Registration
+
+ 
+ 
+
+ 
+
+(and designated countries granting
+
+ 
+
+protection) 
+
+ 
+
+ 
+
+ 
+
+Reg.
+ No. 1681667 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Australia
+
+ 
+
+ 
+
+ 
+
+Reg.
+ No. 2299023
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mexico
+
+ 
+
+ 
+
+ 
+
+Reg.
+ No. 251881
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Canada
+
+ 
+
+ 
+
+ 
+
+Reg.
+ No.
+
+ 
+
+TMA1228473
+
+ 
+
+ 
+
+ 
+
+14
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Trademark
+
+ 
+
+ 
+
+ 
+
+Jurisdiction
+
+ 
+
+ 
+
+ 
+
+Trademark
+ Registration / Application No.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BATTLE
+ BORN
+
+ 
+
+ 
+
+ 
+
+United
+ States
+
+ 
+
+ 
+
+ 
+
+Reg.
+ No. 4999731
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BATTLE
+ BORN
+
+ 
+
+ 
+
+ 
+
+United
+ States
+
+ 
+
+ 
+
+ 
+
+Reg.
+ No. 7276690
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BATTLE
+ BORN
+
+ 
+
+ 
+
+ 
+
+United
+ States
+
+ 
+
+ 
+
+ 
+
+Reg.
+ No. 7276689
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BATTLE
+ BORN ENERGY
+
+ 
+
+ 
+
+ 
+
+United
+ States
+
+ 
+
+ 
+
+ 
+
+Reg.
+ No. 6428841
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BATTLE
+ BORN SOLAR
+
+ 
+
+ 
+
+ 
+
+United
+ States
+
+ 
+
+ 
+
+ 
+
+Reg.
+ No. 6428842
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+United
+ States
+
+ 
+
+ 
+
+ 
+
+Ser.
+ No. 98197989
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BATTLE
+ BORN BASE STATION
+
+ 
+
+ 
+
+ 
+
+United
+ States
+
+ 
+
+ 
+
+ 
+
+Ser.
+ No. 98198017
+
+ 
+
+ 
+
+ 
+
+15
+
+ 
+
+ 
+
+ 
+
+ 
+
+SCHEDULE
+2
+
+ 
+
+FORM
+OF
+
+ 
+
+TRADEMARK
+ASSIGNMENT
+
+ 
+
+This
+Trademark Assignment (“Assignment”) is entered into as of July 29, 2024 (the “Effective Date”) by Dragonfly Energy
+Corp., a Nevada corporation having an address of 1190 Trademark Drive, Suite 108, Reno, Nevada 89521 (“Assignor”), on the
+one hand, and Battle Born Battery Products, LLC, a Nevada limited liability company having an address 1190 Trademark Drive, Suite 108,
+Reno, Nevada 89521 (“Assignee”), on the other hand. For purpose of this Assignment, Assignor and Assignee may be collectively
+referred to herein as the “Parties” or each separately as “Party.”
+
+ 
+
+In
+consideration of good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the Parties hereby agree
+to the following:
+
+ 
+
+Assignor
+hereby assigns, transfers and conveys to Assignee, and Assignee does hereby accept the assignment, transfer and conveyance of, all right,
+title and interest in, to and under the marks set forth on Exhibit A, the goodwill associated therewith and symbolized thereby, all past,
+present and future claims, counterclaims, credits, causes of action, choses in action, rights of recovery and rights of setoff against
+third persons for infringements, violations, dilutions or contract breaches, together with the right at law or equity to sue and recover
+for any past, continuing and/or future infringements, violations, dilutions or contract breaches and collect any resulting recovery of
+damages, lost profits, legal fees and costs, including from acts which may have occurred prior to the Effective Date (collectively, “Assigned
+Trademarks”), all of the foregoing rights, titles and interests to be held and enjoyed by Assignee, for Assignee’s own use
+and benefit and for the use and benefit of Assignee’s successors, assigns or other legal Representatives, as fully and entirely
+as the same would have been held and enjoyed by Assignor if this assignment, transfer and conveyance had not been made. Assignor makes
+no representation, warranty or covenant with respect to the Assigned Trademark, except that it has the authorization to effectuate this
+assignment and the registrations referenced above are active and pending with the United States Patent and Trademark Office.
+
+ 
+
+Assignor
+authorizes and requests that the Commissioner for Trademarks of the United States Patent and Trademark Office and any other applicable
+government officer record this Assignment.
+
+ 
+
+This
+Assignment may be executed in any number of counterparts, each of which when so executed and delivered shall constitute an original,
+but all of which shall constitute a single contract. Delivery of an executed counterpart of a signature page of this Assignment by facsimile
+or other electronic means of transmission (including, “.pdf”) shall be effective as delivery of a manually executed counterpart
+of this Assignment.
+
+ 
+
+This
+Assignment shall be governed by and construed in accordance with the laws of Nevada without giving effect to its choice of law provisions.
+
+ 
+
+ 
+
+16
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DRAGONFLY
+ ENERGY CORP.
+
+ 
+
+ 
+
+ 
+
+BATTLE
+ BORN BATTERY PRODUCTS, LLC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+As
+ Assignor
+
+ 
+
+ 
+
+ 
+
+As
+ Assignee
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+             
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+           
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+17
+
+ 
+
+ 
+
+ 
+
+ 
+
+EXECUTION
+VERSION
+
+ 
+
+EXHIBIT
+A
+
+ 
+
+ASSIGNED
+TRADEMARKS
+
+ 
+
+ 
+
+ 
+
+TRADEMARK
+
+ 
+
+ 
+
+ 
+
+JURISDICTION
+
+ 
+
+ 
+
+ 
+
+Trademark
+ Registration / Application No.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UNITED
+ STATES
+
+ 
+
+ 
+
+ 
+
+ 
+
+REG.
+ NO. 6895225
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UNITED
+ STATES
+
+ 
+
+ 
+
+ 
+
+REG.
+ NO. 7284871
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UNITED
+ STATES
+
+ 
+
+ 
+
+ 
+
+ 
+
+REG.
+ NO. 7284872
+
+ 
+
+ 
+
+ 
+
+ 
+
+18
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Trademark
+
+ 
+
+ 
+
+ 
+
+Jurisdiction
+
+ 
+
+ 
+
+ 
+
+Trademark
+ Registration / Application No.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EUROPEAN
+ UNION
+
+ 
+
+ 
+
+ 
+
+REG.
+ NO. 018848387
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UNITED
+ KINGDOM
+
+ 
+
+ 
+
+ 
+
+REG.
+ NO. UK00003888983
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INTERNATIONAL
+ REGISTRATION 
+
+ 
+
+ 
+
+ 
+
+(AND
+ DESIGNATED COUNTRIES GRANTING PROTECTION)
+
+ 
+
+ 
+
+ 
+
+REG.
+ NO. 1683242 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AUSTRALIA
+
+ 
+
+ 
+
+ 
+
+REG.
+ NO. 2300563
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MEXICO
+
+ 
+
+ 
+
+ 
+
+REG.
+ NO. 2575209
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CANADA
+
+ 
+
+ 
+
+ 
+
+APP.
+ NO. 2209962
+
+ 
+
+ 
+
+ 
+
+BATTLE
+ BORN BATTERIES
+
+ 
+
+ 
+
+ 
+
+UNITED
+ KINGDOM
+
+ 
+
+ 
+
+ 
+
+REG.
+ NO. UK00003888951
+
+ 
+
+ 
+
+ 
+
+19
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Trademark
+
+ 
+
+ 
+
+ 
+
+Jurisdiction
+
+ 
+
+ 
+
+ 
+
+Trademark
+ Registration / Application No.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BATTLE
+ BORN BATTERIES
+
+ 
+
+ 
+
+ 
+
+EUROPEAN
+ UNION
+
+ 
+
+ 
+
+ 
+
+REG.
+ NO. 018848379
+
+ 
+
+ 
+
+BATTLE
+ BORN
+
+ 
+
+ 
+
+ 
+
+ 
+
+INTERNATIONAL
+ REGISTRATION
+
+ 
+
+ 
+
+ 
+
+(AND
+ DESIGNATED COUNTRIES GRANTING PROTECTION) 
+
+ 
+
+ 
+
+ 
+
+REG.
+ NO. 1681667 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AUSTRALIA
+
+ 
+
+ 
+
+ 
+
+REG.
+ NO. 2299023
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MEXICO
+
+ 
+
+ 
+
+ 
+
+REG.
+ NO. 251881
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CANADA
+
+ 
+
+ 
+
+ 
+
+REG.
+ NO. TMA1228473
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BATTLE
+ BORN
+
+ 
+
+ 
+
+ 
+
+UNITED
+ STATES
+
+ 
+
+ 
+
+ 
+
+REG.
+ NO. 4999731
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BATTLE
+ BORN
+
+ 
+
+ 
+
+ 
+
+UNITED
+ STATES
+
+ 
+
+ 
+
+ 
+
+REG.
+ NO. 7276690
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BATTLE
+ BORN
+
+ 
+
+ 
+
+ 
+
+UNITED
+ STATES
+
+ 
+
+ 
+
+ 
+
+REG.
+ NO. 7276689
+
+ 
+
+ 
+
+ 
+
+20
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Trademark
+
+ 
+
+ 
+
+ 
+
+Jurisdiction
+
+ 
+
+ 
+
+ 
+
+Trademark
+ Registration / Application No.
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+BATTLE BORN ENERGY
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+ 
+
+ 
+
+ 
+
+REG. NO. 6428841
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+BATTLE BORN SOLAR
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+ 
+
+ 
+
+ 
+
+REG. NO. 6428842
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+ 
+
+ 
+
+ 
+
+SER. NO. 98197989
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+BATTLE BORN BASE STATION
+
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+ 
+
+ 
+
+ 
+
+SER. NO. 98198017
+
+ 
+
+ 
+
+ 
+
+21
+
+ 
+
+ 
+
+ 
+
+ 
+
+Execution
+Version
+
+ 
+
+SCHEDULE
+3
+
+ 
+
+DRAGONFLY
+MARKETS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Execution
+Version
+
+ 
+
+SCHEDULE
+4
+
+ 
+
+BRAND
+MANUAL/USE GUIDELINES

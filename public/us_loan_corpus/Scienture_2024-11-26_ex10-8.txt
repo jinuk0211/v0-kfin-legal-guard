@@ -1,0 +1,688 @@
+EX-10.8
+
+9
+
+ex10-8.htm
+
+ 
+
+ 
+
+Exhibit
+10.8 
+
+ 
+
+FIRST
+AMENDMENT OF
+
+LOAN
+AND SECURITY AGREEMENT
+
+ 
+
+THIS
+FIRST AMENDMENT OF LOAN AND SECURITY AGREEMENT (“Amendment”) is made as of the 22nd day of November, 2024 between NVK FINANCE,
+LLC, a Nebraska limited liability company (“Lender”), SCIENTURE, LLC (“Borrower”), a Delaware limited liability
+company and successor by merger of Scienture, Inc., Scienture Holdings, Inc., the sole member of Borrower (“Holdings”), Srivatsav,
+LLC and Shankar Hariharan. This Amendment amends that certain Loan and Security Agreement dated September 8, 2023 between Lender and
+Borrower (as amended, the “Loan Agreement”).
+
+ 
+
+WHEREAS,
+pursuant to the Loan Agreement and the other Loan Documents, Lender extended the Term Loan described in the Loan Agreement to Borrower;
+
+ 
+
+WHEREAS,
+Holdings has entered into that certain Securities Purchase Agreement dated as of the date of this Amendment (the “Purchase Agreement”)
+with the Purchasers party to the Purchase Agreement, under which Holdings has agreed to sell to such Purchasers securities of Holdings
+under the terms and conditions of the Purchase Agreement;
+
+ 
+
+WHEREAS,
+upon the First Closing Date, Borrower shall guarantee the obligations of Holdings under the Purchase Agreement pursuant to that certain
+Guarantee dated of even date with the Purchase Agreement (the “Guaranty”);
+
+ 
+
+WHEREAS,
+Borrower shall secure its obligations under the Guaranty and Holdings shall secure its obligations under the Purchase Agreement with
+the Collateral defined and described in that certain Security Agreement to be executed on or before the First Closing Date (the “Security
+Agreement”);
+
+ 
+
+WHEREAS,
+the Collateral under the Security Agreement also secures the Term Loan and Lender and the Agent for the Purchasers shall, on or prior
+to the First Closing Date, enter into that certain Intercreditor Agreement (the “Intercreditor Agreement”) to allocate their
+respective priorities and rights with respect to such Collateral;
+
+ 
+
+WHEREAS,
+Borrower has requested that Lender consent to the transactions contemplated by the Purchase Agreement and the Transaction Documents (as
+defined in the Purchase Agreement), and Lender has conditioned its consent to such transactions on the conditions that the Intercreditor
+Agreement be executed and delivered by each party thereto contemporaneously with the closing of the Purchase Agreement, that the interest
+payments due under the Loan Agreement be modified as provided for in this Amendment, and that Lender, or a Person designated by Lender
+(“Designee”), be conveyed 50,000 shares of common stock of Holdings in the aggregate owned and held by Srivatsav, LLC and
+Shankar Hariharan in accordance with the terms of this Amendment (the “Shares”);
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WHEREAS,
+the Shares are subject to certain restrictions set forth in lockup agreements executed by Srivatsav, LLC and Shankar Hariharan, dated
+July 25, 2024 (the “Lock-Up Restrictions”); and
+
+ 
+
+WHEREAS,
+Borrower and Lender desire to modify the Loan Agreement as provided for in this Amendment.
+
+ 
+
+NOW,
+THEREFORE, in consideration of the amendments of the Loan Agreement and the terms set forth below, the mutual covenants herein and other
+good and valuable consideration, the sufficiency and receipt of which is hereby acknowledged, the parties agree to amend the Loan Agreement
+as follows:
+
+ 
+
+1. Capitalized
+terms used in this Amendment which are defined in the Loan Agreement shall have the meanings given to them in the Loan Agreement, as
+such definitions may be amended by this Amendment. The provisions of this Amendment shall become effective on the date of this Amendment.
+
+ 
+
+2. Section
+2.2(a) of the Loan Agreement is hereby deleted in its entirety and the following is inserted in lieu thereof:
+
+ 
+
+(a) 
+Payments
+.
+On the Second Closing Date, the Borrower shall pay all accrued and unpaid interest outstanding on the Term Loan on such date, at the
+rate set forth in Section 2.3(a). Commencing on the date that is one (1) month following the Second Closing Date, the Borrower shall
+make monthly payments of interest at the rate set forth in Section 2.3(a), in arrears, and continuing on the same day of each month thereafter
+until the Maturity Date when all accrued and unpaid interest on the Term Loan shall be paid in full by the Borrower. Borrower shall pay
+the outstanding principal balance of the Term Loan in full on the Maturity Date.
+
+ 
+
+3. Section
+13 of the Loan Agreement is amended to add the following new defined terms in the appropriate alphabetical order:
+
+ 
+
+“First
+Closing Date” 
+has the meaning given to such term in the Purchase Agreement.
+
+ 
+
+“Holdings”
+
+means Scienture Holdings, Inc., a Delaware corporation, and its successors and assigns, the sole member of the Borrower.
+
+ 
+
+“Intercreditor
+Agreement”
+ means that Intercreditor Agreement of even date with the Purchase Agreement among Lender, Purchasers and the Agent
+(as defined in such Intercreditor Agreement), as amended, restated, or otherwise modified.
+
+ 
+
+“Purchase
+Agreement”
+ means collectively, that certain Securities Purchase Agreement dated November 21, 2024 among Holdings and the Purchasers
+from time to time party thereto, and the other Transaction Documents, all as amended, restated, or otherwise modified.
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+“Purchasers”
+
+has the meaning given to such term in the Purchase Agreement.
+
+ 
+
+“Second
+Closing Date”
+ has the meaning given to such term in the Purchase Agreement.
+
+ 
+
+“Transaction
+Documents”
+ has the meaning given to such term in the Purchase Agreement.
+
+ 
+
+4. The
+defined term “Loan Documents” in Section 13 is amended to include the Intercreditor Agreement.
+
+ 
+
+5. Pursuant
+to the Loan Agreement, Borrower is prohibited from incurring Indebtedness other than Permitted Indebtedness or granting Liens other than
+Permitted Liens without the prior written consent of Lender. The Purchase Agreement and Transaction Documents create Indebtedness and
+Liens requiring Lender’s consent. Borrower has requested Lender’s consent to the transactions contemplated by the Purchase
+Agreement and Transaction Documents. Conditioned upon (a) the transaction contemplated by the Purchase Agreement and Transaction Documents
+being consummated strictly in accordance with the terms and conditions of the Purchase Agreement and Transaction Documents in the form
+provided to Lender for consent, and (b) no later than the latter of (x) two (2) trading days after the consummation of the transaction
+contemplated by the Purchase Agreement and Transaction Documents, and (y) two (2) trading days after Lender notifies Borrower of the
+name of Lender’s Designee, Srivatsav, LLC and Shankar Hariharan convey to Lender, or Designee, the Shares and making such representations
+and warranties with respect to such stock and its transfer, and taking such actions as are reasonably required by Holdings, Lender or
+Designee to transfer and convey such shares to Lender or Designee, including without limitation, any requested legal opinions, Lender
+consents to the transactions contemplated by the Purchase Agreement and Transaction Documents. Srivatsav, LLC’s and Shankar Hariharan’s
+failure to convey to Lender such shares of Holdings shall constitute and Event of Default under the Loan Agreement. Holdings, Srivatsav,
+LLC and Shankar Hariharan are executing this Amendment to confirm and evidence their respective obligations under this Section, and they
+agree to be contractually and legally bound to comply with their obligations under this Section. Each of Srivatsav, LLC and Shankar Hariharan
+acknowledge that they have an economic interest in Borrower, will directly benefit by and from the continuation of the Term Loan by Lender
+to Borrower, has received legal and adequate consideration for the conveyance of the stock contemplated above, and has executed and delivered
+this Amendment to Lender in good faith in exchange for reasonably equivalent value. Lender agrees that if it designates a Designee, such
+Designee shall have an economic interest in Lender, and will directly benefit by and from the continuation of the Term Loan by Lender
+to Borrower. Lender, on behalf of itself and Designee, if applicable, further agrees and acknowledges that the Shares shall continue
+to be subject to the Lock-Up Restrictions until such time as those restrictions terminate pursuant to their terms.
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+The
+foregoing consent shall only apply to the transactions contemplated by the Purchase Agreement and Transaction Documents. Such consent
+shall not be deemed (i) to be a waiver of, or consent to, or a modification or amendment of, any other term, condition, or covenant of
+the Loan Agreement or any other Loan Document other than as expressly set forth in this Amendment, (ii) to prejudice any right or rights
+which Lender may now have or may have in the future under or in connection with the Loan Agreement or the other Loan Documents or any
+of the instruments or agreements referred to therein, as the same may be amended, restated, supplemented or modified from time to time,
+or (iii) to be a commitment or any other undertaking or expression of any willingness to engage in any further discussion with Borrower,
+Holdings, or any other Person with respect to any other consent, waiver, amendment, modification or any other change to the Loan Agreement
+or the Loan Documents or any rights or remedies arising in favor of Lender under or with respect to any such documents. Such consent
+provides a one-time consent only for the matters and periods described in this Amendment. It does not establish any pattern, practice,
+or course of dealing with respect to compliance strictly with the terms of the Loan Agreement and other Loan Documents.
+
+ 
+
+6. Holdings
+hereby consents to the transfer of the Shares from Srivatsav, LLC and Shankar Hariharan to Lender or Designee, subject to the Shares
+remaining subject to Lock-Up Restrictions until such time as those restrictions terminate pursuant to their terms.
+
+ 
+
+7. Except
+as modified in this Amendment, all other terms, provisions, conditions and obligations imposed under the terms of the Loan Agreement
+and the other Loan Documents shall remain in full force and effect and are hereby ratified, affirmed, assumed, and certified by Borrower
+and Lender. Borrower hereby ratifies and affirms the accuracy and completeness of all representations and warranties contained in the
+Loan Documents. Borrower represents and warrants to the Lender that the representations and warranties set forth in the Loan Agreement,
+and each of the other Loan Documents, are true and complete on the date hereof as if made on and as of the date hereof (or, if any such
+representation or warranty is expressly stated to have been made as of a specific date, such representation or warranty shall be true
+and correct as of such specific date), and as if each reference in the Loan Agreement to “this Agreement” included references
+to this Amendment. Borrower represents, warrants, and confirms to the Lender that no Default or Events of Default is now existing under
+the Loan Documents and that no event or condition exists which would constitute a Default or an Event of Default under the Loan Agreement
+or any other Loan Document. Nothing contained in this Amendment either before or after giving effect thereto, will cause or trigger a
+Default or an Event of Default under any Loan Document. To the extent necessary, the Loan Documents are hereby amended consistent with
+the amendments provided for in this Amendment.
+
+ 
+
+8. This
+Amendment may be executed in any number of counterparts, each of which when so executed and delivered shall be deemed to be an original
+and all of which counterparts, taken together, shall constitute but one and the same instrument. This Amendment shall be governed by
+and construed in accordance with the laws of the State of New York, exclusive of its choice of laws rules.
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+9. The
+execution, delivery and effectiveness of this Amendment shall not, except as expressly provided in this Amendment, operate as a waiver
+of any right, power or remedy of the Lender under any of the Loan Documents, nor, except as expressly provided in this Amendment, constitute
+a waiver or amendment of any provision of any of the Loan Documents. Upon and after the execution of this Amendment by each of the parties
+hereto, each reference in the Loan Agreement to “this Agreement”, “hereunder”, “hereof” or words
+or phrases of like import referring to the Loan Agreement, and each reference in the other Loan Documents to the “Loan Agreement”,
+“thereunder”, “thereof” or words or phrases of like import referring to the Loan Agreement, shall mean and be
+a reference to the Loan Agreement as modified by this Amendment. This Amendment and the rights evidenced by this Amendment shall inure
+to the benefit of and be binding upon the successors and permitted assigns of the parties hereto, and shall be enforceable by any such
+successors and assigns. Borrower will pay on demand all costs and expenses incurred by Lender in connection with the preparation, execution,
+delivery, filing, and administration of this Amendment (including, without limitation, legal fees incurred in connection with the preparation
+of this Amendment and advising Lender as to its rights, and the cost of any credit verification reports or field examinations of Borrower’s
+properties or books and records). Borrower’s obligations to Lender under this Section shall survive the termination of this Amendment
+or the Loan Agreement and the repayment of Borrower’s Obligations to Lender under the Loan Agreement and other Loan Documents.
+
+ 
+
+10. The
+Borrower absolutely, unconditionally, and irrevocably release and forever discharge the Lender, and any and all participants, parent
+corporations, subsidiary corporations, affiliated corporations, insurers, indemnitors, successors, and assigns of each of the foregoing,
+together with all of the present and former directors, members, managers, officers, agents, and employees of any of the foregoing, from
+any and all claims, demands, liabilities, damages, or causes of action of any kind, nature, or description, whether arising in law or
+equity or upon contract, tort, or strict liability, or under any state or federal law, or otherwise, which the Borrower has had, now
+has, or has made claim to have against any such Person for or by reason of any act, omission, matter, cause, or thing whatsoever arising
+from the beginning of time to and including the date of this Amendment, whether such claims, demands, liabilities, damages, and causes
+of action are matured or unmatured or known or unknown.
+
+ 
+
+[SIGNATURE
+PAGE FOLLOWS]
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, the parties have executed and delivered this Amendment on the date first written above.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NVK
+ FINANCE, LLC, a Nebraska limited liability company
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By
+ its Manager, NVK Management, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Arun Agarwal
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Arun
+ Agarwal, Manager
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SCIENTURE,
+ LLC, Delaware limited liability company
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By
+ its Manager, Scienture Holdings, Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Surendra Ajjarapu
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Surendra
+ Ajjarapu, CEO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Srivatsav,
+ LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Mani Narasimhan
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mani
+ Narasimhan, Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+/s/ Shankar Hariharan
+
+ 
+
+ 
+
+ 
+
+ 
+
+Shankar Hariharan
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SCIENTURE
+ HOLDINGS, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ 
+Surendra Ajjarapu
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Surendra
+ Ajjarapu, CEO
+
+ 
+
+ 
+
+ 
+
+6

@@ -44,6 +44,18 @@ export function Header({ currentView, onNavigate }: HeaderProps) {
           >
             내보험 조회
           </Link>
+          <Link
+            href="/cards"
+            className="mb-[-2px] flex h-[51px] items-center border-b-2 border-transparent px-4 text-[10px] font-medium uppercase tracking-[1.5px] text-muted-foreground transition-colors hover:border-primary hover:text-primary"
+          >
+            미국 카드 분석
+          </Link>
+          <Link
+            href="/loans"
+            className="mb-[-2px] flex h-[51px] items-center border-b-2 border-transparent px-4 text-[10px] font-medium uppercase tracking-[1.5px] text-muted-foreground transition-colors hover:border-primary hover:text-primary"
+          >
+            미국 대출 분석
+          </Link>
         </nav>
 
         {/* Status indicator */}

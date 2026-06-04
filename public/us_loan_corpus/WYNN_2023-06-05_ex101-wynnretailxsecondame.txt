@@ -1,0 +1,1072 @@
+EX-10.1
+
+2
+
+ex101-wynnretailxsecondame.htm
+
+EX-10.1
+
+Document
+
+Exhibit 10.1
+
+SECOND AMENDMENT TO
+TERM LOAN AGREEMENT
+
+THIS SECOND AMENDMENT TO TERM LOAN AGREEMENT (this “
+
+Amendment
+
+”) is dated as of June 2, 2023 and effective as of July 3, 2023, by and among 
+
+WYNN/CA PLAZA PROPERTY OWNER, LLC
+
+, a Nevada limited liability company (“
+
+Plaza Owner
+
+”), and 
+
+WYNN/CA PROPERTY OWNER, LLC
+
+, a Nevada limited liability company (“
+
+Esplanade Owner
+
+”) (each individually and collectively, as the context requires, “
+
+Borrower
+
+”), the BANKS listed on the signature pages and any successor or assign thereof (individually, a “
+
+Bank
+
+” and collectively, the “
+
+Banks
+
+”), 
+
+UNITED OVERSEAS BANK LIMITED, NEW YORK AGENCY
+
+, as agent for the Banks (“
+
+Agent
+
+”) and the Parties listed on the signature pages attached hereto and any successor or assign thereof (the “
+
+Borrower Parties
+
+”).
+
+RECITALS:
+
+A.
+
+Borrower, Agent and the Banks entered into that certain Term Loan Agreement dated as of July 25, 2018, as amended by that certain First Amendment to Term Loan Agreement dated as of May 5, 2020 (together, the “
+
+Agreement
+
+”), whereby the Banks agreed to make a secured loan to Borrower in the aggregate principal amount of SIX HUNDRED FIFTEEN MILLION and 00/00 DOLLARS ($615,000,000.00). (Capitalized terms used but not defined herein shall have the meanings ascribed to such terms in the Agreement.)
+
+B.
+
+The Loan is secured, among other things, by the Deed of Trust and the Assignment of Rents and Leases.
+
+C.
+
+Borrower is the owner of the Project.
+
+D.
+
+Borrower has requested certain revisions to the Agreement, and Agent and the Banks are willing to agree to such revisions on the terms and conditions hereinafter set forth.
+
+Therefore, Borrower, Agent, the Banks and the Borrower Parties desire to enter into this Amendment in order to modify certain provisions of the Loan Documents. 
+
+AGREEMENTS:
+
+Accordingly, in consideration of the mutual agreements set forth herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto covenant and agree, as of the date hereof, as follows:
+
+1.
+
+Commencing on the date hereof, the following changes to the Agreement shall take effect:
+
+(a)
+
+The following definitions (and all references thereto) are hereby deleted from Section 1.1 of the Agreement in their entirety:
+
+“
+
+Alternative Index
+
+”;
+
+“
+
+Alternative Index Rate
+
+”;
+
+“
+
+Alternative Index Rate Spread
+
+”;
+
+1
+
+“
+
+Base LIBO Rate
+
+”;
+
+“
+
+Fixed LIBO Rate
+
+”;
+
+“
+
+LIBO Rate
+
+”;
+
+“
+
+LIBOR Breakage Costs
+
+”;
+
+“
+
+LIBOR Termination Date
+
+”;
+
+“
+
+Re-Set Date
+
+”;
+
+“
+
+Roll Over Date
+
+”; and
+
+“
+
+Working Day
+
+”.
+
+(b)
+
+The following definitions are hereby amended and restated in 
+
+Section 1.1
+
+ of the Agreement:
+
+“
+
+Business Day
+
+”  means a day (other than a Saturday or Sunday) on which commercial national banks are not authorized or required to close in New York City and/or the City in which the Project is located and, additionally, whenever such day relates to the determination of a (a) Benchmark, any such day on which Dollar deposits are also carried out and banks are also open for business in the relevant market(s), or (b) Benchmark Replacement Rate, any such day on which Dollar deposits are also carried out and banks are also open for business in the relevant market(s).
+
+“
+
+Default Rate
+
+” means, the lesser of (a) the maximum rate of interest allowed by applicable Legal Requirements or (b) five percent (5%) per annum in excess of the Benchmark plus the Spread (or in the event the Loan is a Prime Rate Loan, the Prime Rate).
+
+“
+
+Interest Period
+
+” means, with respect to any Payment Date, the period commencing on the first (1
+
+st
+
+) Business Day of each calendar month until (but not including) the first (1
+
+st
+
+) Business Day of the next succeeding month until the Obligations are indefeasibly paid in full; provided, however, that no Interest Period shall end later than the Maturity Date (other than for purposes of calculating interest at the Default Rate).  If an Interest Period would otherwise end on a day which is not a Business Day, such Interest Period shall end on (but exclude) the next succeeding Business Day, provided, however, in no event shall any such period extend beyond the Maturity Date.
+
+“
+
+Prime Rate
+
+” means, with respect to each Interest Period, determined as of the SOFR Determination Date with respect to such Interest Period, the per annum rate of interest equal to the sum of the Prime Index Rate 
+
+plus
+
+ the Prime Rate Spread.
+
+“
+
+Principal Balance
+
+” means, at any time, the outstanding principal balance of the Note at such time.
+
+“
+
+Spread
+
+” means one and seven-tenths percent (1.70%) per annum.
+
+(c)
+
+The following definitions are hereby added to 
+
+Section 1.1
+
+ of the Agreement in appropriate alphabetical order:
+
+2
+
+“
+
+Adjusted Daily Simple SOFR
+
+”
+
+ 
+
+means, for any day (a “
+
+SOFR Rate Day
+
+”), a rate per annum equal to the greater of (a) the sum of (i) SOFR for the day (such day, a “
+
+SOFR Determination Day
+
+”) that is five (5) U.S. Government Securities Business Days prior to (A) if such SOFR Rate Day is a U.S. Government Securities Business Day, such SOFR Rate Day or (B) if such SOFR Rate Day is not a U.S. Government Securities Business Day, the U.S. Government Securities Business Day immediately preceding such SOFR Rate Day, in each case, as such SOFR is published by the SOFR Administrator on the SOFR Administrator’s Website; provided that if by 5:00 p.m. (New York City time) on the second (2
+
+nd
+
+) U.S. Government Securities Business Day immediately following any SOFR Determination Day, SOFR in respect of such SOFR Determination Day has not been published on the SOFR Administrator’s Website and a Benchmark Replacement Date with respect to Adjusted Daily Simple SOFR has not occurred, then SOFR for such SOFR Determination Day will be SOFR as published in respect of the first preceding U.S. Government Securities Business Day for which such SOFR was published on the SOFR Administrator’s Website; provided further that SOFR as determined pursuant to this proviso shall be utilized for purposes of calculation of Adjusted Daily Simple SOFR for no more than three (3) consecutive SOFR Rate Days and (ii) the SOFR Adjustment, and (b) the Floor. Any change in Adjusted Daily Simple SOFR due to a change in SOFR shall be effective from and including the effective date of such change in SOFR without notice to the Borrower.
+
+“
+
+Available Tenor
+
+: means, as of any SOFR Determination Date and with respect to the then-current Benchmark, any tenor for such Benchmark or payment period for interest calculated with reference to such Benchmark, corresponding to an Interest Period pursuant to this Agreement as of such date and not including, for the avoidance of doubt, any tenor for such Benchmark that is then-removed from the definition of “Interest Period” pursuant to 
+
+Section 2.6(c)
+
+.
+
+“
+
+Benchmark
+
+” means, initially, Adjusted Daily Simple SOFR; 
+
+provided
+
+ that if a Benchmark Transition Event has occurred with respect to Adjusted Daily Simple SOFR or the then-current Benchmark, then “Benchmark” means the applicable Benchmark Replacement.
+
+“
+
+Benchmark Replacement
+
+” means for any Available Tenor, the sum of: (a) the alternate benchmark rate that has been selected by Agent as the replacement for the then-current Benchmark after consultation with Borrower, giving due consideration to (i) any selection or recommendation of a replacement benchmark rate or the mechanism for determining such a rate by the Relevant Governmental Body or (ii) any evolving or then-prevailing market convention for determining a benchmark rate as a replacement for the then-current Benchmark for U.S. dollar-denominated syndicated credit facilities at such time and (b) an adjustment (which may be a positive or negative value or zero), in each case, that has been selected by Agent as the replacement for such Available Tenor of such Benchmark giving due consideration to any evolving or then-prevailing market convention, including any applicable recommendations made by the Relevant Governmental Body, for U.S. dollar denominated floating rate, commercial real estate loans at such time; provided that, if the Benchmark Replacement would be less than the Floor, the Benchmark Replacement will be deemed to be the Floor for the purposes of this Agreement and the other Loan Documents.
+
+“
+
+Benchmark Replacement Date
+
+” means the earliest to occur of the following events with respect to the then-current Benchmark:
+
+(1)    in the case of clause (1) or (2) of the definition of “Benchmark Transition Event,” the later of (a) the date of the public statement or publication of information referenced 
+
+3
+
+therein and (b) the date on which the administrator of such Benchmark (or the published component used in the calculation thereof) permanently or indefinitely ceases to provide all Available Tenors of such Benchmark (or such component thereof); or
+
+(2)    in the case of clause (3) of the definition of “Benchmark Transition Event,” the date of the public statement or publication of information referenced therein; or
+
+For the avoidance of doubt, (i) if the event giving rise to the Benchmark Replacement Date occurs on the same day as, but earlier than, the SOFR Determination Date in respect of any determination, the Benchmark Replacement Date will be deemed to have occurred prior to the SOFR Determination Date for such determination and (ii) the “Benchmark Replacement Date” will be deemed to have occurred in the case of clause (1) or (2) with respect to any Benchmark upon the occurrence of the applicable event or events set forth therein with respect to all then-current Available Tenors of such Benchmark (or the published component used in the calculation thereof).
+
+“
+
+Benchmark Replacement Rate
+
+” means, with respect to each Interest Period, determined as of the SOFR Determination Date with respect to such Interest Period, the per annum rate of interest equal to the sum of (i) the Benchmark Replacement, plus (ii) the Spread.
+
+“
+
+Benchmark Replacement Rate Loan
+
+” means the Loan at such time as interest thereon accrues at a per annum rate of interest equal to the Benchmark Replacement Rate.
+
+“
+
+Benchmark Transition Event
+
+” means the occurrence of one or more of the following events with respect to the then-current Benchmark:
+
+(1)
+
+a public statement or publication of information by or on behalf of the administrator of such Benchmark (or the published component used in the calculation thereof) announcing that such administrator has ceased or will cease to provide all Available Tenors of such Benchmark (or such component thereof), permanently or indefinitely, provided that, at the time of such statement or publication, there is no successor administrator that will continue to provide any Available Tenor of such Benchmark (or such component thereof);
+
+(2)
+
+a public statement or publication of information by the regulatory supervisor for the administrator of such Benchmark (or the published component used in the calculation thereof), the Federal Reserve Board, the Federal Reserve Bank of New York, an insolvency official with jurisdiction over the administrator for such Benchmark (or such component), a resolution authority with jurisdiction over the administrator for such Benchmark (or such component) or a court or an entity with similar insolvency or resolution authority over the administrator for such Benchmark (or such component), which states that the administrator of such Benchmark (or such component) has ceased or will cease to provide all Available Tenors of such Benchmark (or such component thereof) permanently or indefinitely, provided that, at the time of such statement or publication, there is no successor administrator that will continue to provide any Available Tenor of such Benchmark (or such component thereof); or
+
+(3)
+
+a public statement or publication of information by the regulatory supervisor for the administrator of such Benchmark (or the published component used in the calculation thereof) announcing that all Available Tenors of such Benchmark (or such component thereof) are no longer representative;
+
+4
+
+For the avoidance of doubt, a “
+
+Benchmark Transition Event
+
+” will be deemed to have occurred with respect to any Benchmark if a public statement or publication of information set forth above has occurred with respect to each then-current Available Tenor of such Benchmark (or the published component used in the calculation thereof).
+
+“
+
+Benchmark Unavailability Period
+
+” means the period (if any) (x) beginning at the time that a Benchmark Replacement Date pursuant to clauses (1) or (2) of that definition has occurred if, at such time, no Benchmark Replacement has replaced the then-current Benchmark for all purposes hereunder and under any Loan Document in accordance with 
+
+Section 2.6
+
+ and (y) ending at the time that a Benchmark Replacement has replaced the then-current Benchmark for all purposes hereunder and under any Loan Document in accordance 
+
+Section 2.6
+
+.
+
+“
+
+Breakage Costs
+
+” means such amount or amounts as shall be sufficient (in the opinion of Agent, which shall be conclusive so long as made on a non-discriminatory and reasonable basis) to compensate the Banks for any out-of-pocket loss, cost or expense incurred by the Banks attributable to (i) any payment or prepayment of all or any portion of the Principal Balance on a date other than a Payment Date or the last day of any Interest Period (or such other benchmark, as applicable) or (ii) the conversion (for any reason whatsoever, whether voluntary or involuntary) of the interest rate from a SOFR Rate to the Benchmark Replacement Rate, or from a SOFR Rate or Benchmark Replacement Rate to the Prime Rate, in either case  on a date other than the Payment Date immediately following the last day of an Interest Period, including, without limitation, such loss or expenses arising from interest or fees payable by Banks to lenders of funds obtained by it in order to maintain a SOFR Rate Loan (or if applicable, a Benchmark Replacement Rate Loan) hereunder.
+
+“
+
+Conforming Changes
+
+” means with respect to the use, administration, adoption or implementation of any Benchmark Replacement, any technical, administrative or operational changes (including changes to the definition of “
+
+Business Day
+
+,” the definition of “
+
+Interest Period
+
+,” the definition of “
+
+SOFR Determination Date
+
+,” the timing and frequency of determining rates and making payments of interest, timing of borrowing requests or prepayment, conversion or continuation notices, length of lookback periods, the applicability of breakage provisions, and other technical, administrative or operational matters) appropriate to administer Adjusted Daily Simple SOFR or to reflect the adoption and implementation of such Benchmark Replacement and to permit the administration thereof by Agent in a manner substantially consistent with market practice (or, if Agent decides that adoption of any portion of such market practice is not administratively feasible or if Agent determines after consultation with Borrower that no market practice for the administration of such Benchmark Replacement exists, in such other manner of administration as Agent decides is reasonably necessary in connection with the administration of this Agreement and the other Loan Documents), in each case consistent with Agent’s treatment of similarly situated borrowers under similarly situated loans.
+
+“
+
+Floor
+
+” means (a) zero percent (0%).
+
+“
+
+Prime Index
+
+” means the rate of interest published in 
+
+The Wall Street Journal
+
+ from time to time as the “
+
+Prime Rate
+
+”.  If more than one “Prime Rate” is published in 
+
+The Wall Street Journal
+
+ for a day, the average of such “Prime Rates” will be used, and such average will be rounded up to the nearest 1/1000th of one percent (0.001%).  If 
+
+The Wall Street Journal
+
+ ceases to publish the “Prime Rate,” Agent will select an equivalent publication that publishes such “Prime Rate,” and if such “Prime Rates” are no longer generally published or are limited, regulated or administered by a governmental or quasi-governmental body, then Agent will select a comparable interest rate index.
+
+5
+
+“
+
+Prime Index Rate
+
+” means, with respect to each Interest Period, the per annum rate of interest of the Prime Index, determined as of the SOFR Determination Date immediately preceding the commencement of such Interest Period; provided that in no event will the Prime Index Rate be less than the Floor.
+
+“
+
+Prime Rate Loan
+
+” means the Loan at such time as interest thereon accrues at a rate of interest based upon the Prime Rate.
+
+“
+
+Prime Rate Spread
+
+” means the difference (expressed as the number of basis points) between (a) the sum of (i) Adjusted Daily Simple SOFR, plus (ii) the Spread, all determined on the date Adjusted Daily Simple SOFR was last applicable to the Loan (or if a Benchmark Replacement Rate Loan is being converted to a Prime Rate Loan, the sum of (i) the Benchmark Replacement Rate, plus (ii) the Spread, all determined on the date the Benchmark Replacement Rate was last applicable to the Loan) and (b) the Prime Rate on the date that Adjusted Daily Simple SOFR was last applicable to the Loan (or if a Benchmark Replacement Rate Loan is being converted to a Prime Rate Loan, the Prime Rate on the date that the Benchmark Replacement Rate was last applicable to the Loan).
+
+“
+
+Relevant Governmental Body
+
+” means the Federal Reserve Board or the Federal Reserve Bank of New York, or a committee officially endorsed or convened by the Federal Reserve Board or the Federal Reserve Bank of New York, or any successor thereto.
+
+“
+
+SOFR
+
+” means, with respect to any SOFR Business Day, a rate per annum equal to the secured overnight financing rate for such SOFR Business Day.
+
+“
+
+SOFR Adjustment
+
+” means a percentage equal to .10% per annum.
+
+“
+
+SOFR Administrator
+
+” means the Federal Reserve Bank of New York (or a successor administrator of the secured overnight financing rate).
+
+“
+
+SOFR Administrator’s Website
+
+” means the website of the Federal Reserve Bank of New York, currently at 
+
+http://www.newyorkfed.org
+
+, or any successor source for the secured overnight financing rate identified as such by the SOFR Administrator from time to time.
+
+“
+
+SOFR Business Day
+
+” means any day other than a Saturday or Sunday or a day on which the Securities Industry and Financial Markets Association recommends that the fixed income departments of its members be closed for the entire day for purposes of trading in United States government securities.
+
+“
+
+SOFR Determination Day
+
+” has the meaning specified in the definition of “Adjusted Daily Simple SOFR”. 
+
+“
+
+SOFR Rate
+
+” means, with respect to each Interest Period, determined as of the SOFR Determination Date with respect to such Interest Period, the per annum rate of interest equal to the sum of (i) Adjusted Daily Simple SOFR, plus (ii) the Spread.
+
+“
+
+SOFR Rate Day
+
+” has the meaning specified in the definition of “Adjusted Daily Simple SOFR”.
+
+“
+
+SOFR Rate Loan
+
+” means the Loan at such time as interest thereon accrues at a rate of interest based upon the SOFR Rate. 
+
+6
+
+2.
+
+Section 2.2(a)
+
+ of the Agreement is hereby amended and restated in its entirety as follows:
+
+The Principal Balance of the Loan (including any amounts added to principal under the Loan Documents) shall bear interest at a floating rate of interest equal to (1) (x) for a SOFR Rate Loan, the SOFR Rate with respect to such Interest Period, (y) for a Benchmark Replacement Rate Loan, the Benchmark Replacement Rate, with respect to such Interest Period, or (z) for a Prime Rate Loan, the Prime Rate, with respect to such Interest Period; or (2) when applicable pursuant to this Agreement or any other Loan Document, the Default Rate.  Interest on the Principal Balance shall be computed on the basis of the actual number of days elapsed in the period during which interest or fees accrue and a year of three hundred sixty (360) days. In computing interest on the Loan, the date of the making of a disbursement under the Loan shall be included and the date of payment shall be excluded.  The applicable Adjusted Daily Simple SOFR shall be calculated by Agent based on SOFR, and such determination shall be conclusive absent manifest error. All interest hereunder shall be computed on a daily basis based upon the outstanding principal amount of the Loan as of the applicable date of determination. In connection with the establishment and application of the Benchmark Replacement, this Agreement and the other Loan Documents may be amended solely with the consent of Agent and Borrower, as may be necessary or appropriate, in the opinion of Agent, to effect the provisions of this 
+
+Section 2.2(a)
+
+; 
+
+provided
+
+ that such determination shall be made and applied to Borrower on a non-discriminatory basis along with other similarly situated borrowers under mortgage loans.  Such amendment shall become effective without any further action or consent of any other party to this Agreement so long as Agent shall not have received, within five (5) Business Days after the delivery of such amendment to the Banks, written notices from Banks aggregating to the Required Banks that such Banks object to such amendment (which such notices shall note with specificity the particular provisions of the amendment to which such Banks object).
+
+3.
+
+Section 2.2
+
+ of the Agreement is hereby amended by inserting the following at the end of the Section:
+
+Subject to 
+
+Section 2.6
+
+ hereof, the SOFR Rate shall be the rate for calculating interest on all portions of the Loan. Accordingly, notwithstanding anything to the contrary in this Agreement or any other Loan Document, Borrower shall not be required to affirmatively request that the SOFR Rate be the rate for calculating interest on any portion of the Loan. In addition, for the avoidance of doubt, Borrower shall not have the right to affirmatively elect that any portion of the Loan be treated as a Benchmark Replacement Rate Loan or Prime Rate Loan, as applicable.
+
+Notwithstanding any provision of this Agreement to the contrary, in no event shall Borrower have the right to unilaterally convert (x) a SOFR Rate Loan to a Benchmark Replacement Rate Loan or (y) a Benchmark Replacement Rate Loan accruing interest at a rate based upon the then-current Benchmark to a Benchmark Replacement Rate Loan accruing interest at a rate based upon the applicable Benchmark Replacement for the then-current Benchmark, but the Loan may otherwise be converted in accordance with 
+
+Section 2.6
+
+ hereof.
+
+4.
+
+Section 2.5(e)
+
+ of the Agreement is hereby amended and restated in its entirety as follows:
+
+(e)        
+
+Market Disruption Clause
+
+.  In the event, and on each occasion, that on the day two (2) Business Days prior to the commencement of a particular Interest Period, Agent shall have determined in good faith on a non-discriminatory basis (which determination 
+
+7
+
+shall be conclusive and binding upon Borrower and the Banks absent manifest error) that (i) U.S. dollar deposits, in an amount approximately equal to the Loan, are not generally available at such time, (ii) reasonable means do not exist for ascertaining the Benchmark pursuant to the definition thereof for such Interest Period, (iii) the Benchmark for the requested Interest Period does not cover the cost of funds to the Banks for such Interest Period, or (iv) change in any Legal Requirements or in the interpretation thereof by any Governmental Authority charged with the administration or interpretation thereof shall make it unlawful for Agent or any of the Banks to make or maintain loans bearing interest at the applicable Benchmark with respect to the Principal Balance or any portion thereof or to fund the Principal Balance or any portion thereof at the applicable Benchmark, Agent shall so notify Borrower, and the interest rate applicable to the portion of the Loan with respect to which such Benchmark was to pertain shall automatically convert to a rate of interest equal to the Prime Rate, it being agreed that the Prime Rate shall remain in effect thereafter with respect to such portion of the Loan unless and until Agent shall have determined in good faith on a non-discriminatory basis (which determination shall be conclusive and binding upon Borrower absent manifest error) that the aforesaid circumstances no longer exist, whereupon the interest rate applicable to such portion of the Loan shall be converted back to the then applicable Benchmark determined in the manner hereinabove set forth in this Agreement effective as of the first Payment Date for such portion of the Loan which commences two (2) Business Days or more after such good faith determination by Agent.
+
+After the implementation of a Benchmark Replacement, if Agent shall have determined in good faith (which determination shall be conclusive and binding upon Borrower absent manifest error; provided that such determination shall be made and applied to Borrower on a non-discriminatory basis along with other similarly situated borrowers under mortgage loans) that (i) U.S. dollar deposits, in an amount approximately equal to the Loan (or any portion thereof which is to bear interest at an Benchmark Replacement Rate during any period in accordance with the provisions of this Agreement), are not generally available at such time in the applicable market, (ii) reasonable means do not exist for ascertaining the Benchmark Replacement Rate during such period, or (iii) the Benchmark Replacement Rate for the requested period does not cover the cost of funds to the Banks for such period, Agent shall so notify Borrower, and the interest rate applicable to the portion of the Loan with respect to which such Benchmark Replacement Rate was to pertain shall automatically convert to a rate of interest equal to the Prime Rate, it being agreed that the Prime Rate shall remain in effect thereafter with respect to such portion of the Loan unless and until Agent shall have determined in good faith (which determination shall be conclusive and binding upon Borrower absent manifest error; provided that such determination shall be made and applied to Borrower on a non-discriminatory basis along with other similarly situated borrowers under mortgage loans) that the aforesaid circumstances no longer exist, whereupon the interest rate applicable to such portion of the Loan shall be converted by Agent back to the Benchmark Replacement Rate determined in the manner set forth in this Agreement within two (2) Business Days after such good faith determination by Agent.  
+
+If the interest rate applicable to all or any portion of the Principal Balance is converted from SOFR or a Benchmark Replacement Rate, as applicable, to the Prime Rate on a date other than a Payment Date in accordance with the provisions of the preceding sentence, Borrower shall pay to Agent within ten (10) days after written demand any Breakage Costs.  Any change in the Prime Rate as a result of a change in the Prime Index Rate shall be effective on the effective date of any such change in the Prime Index Rate.  The Prime Rate and the components thereof shall be calculated for the actual number of days elapsed on the basis of a 360-day year.  Each determination of the Prime Rate shall be made by Agent and shall be conclusive and binding upon Borrower absent manifest error.
+
+8
+
+5.
+
+Section 2.6
+
+ of the Agreement is hereby amended and restated in its entirety as follows:
+
+Section 2.6
+
+    
+
+Benchmark Replacement Setting
+
+.
+
+(a)        
+
+Benchmark Replacement
+
+.  Notwithstanding anything to the contrary herein or in any other Loan Document, upon the occurrence of a Benchmark Transition Event, Agent and Borrower may amend this Agreement to replace the then-current Benchmark with a Benchmark Replacement. Any such amendment with respect to a Benchmark Transition Event will become effective at 5:00 p.m. (New York City time) on the fifth (5th) Business Day after Agent has provided such proposed amendment to all affected Banks and Borrower so long as Agent has not received, by such time, written notice of objection to such amendment from Banks comprising the Required Banks. 
+
+(b)        
+
+Notices; Standards for Decisions and Determinations
+
+.  Agent will promptly notify Borrower and the Banks of (i) any occurrence of a Benchmark Transition Event and its related Benchmark Replacement Date, (ii) the implementation of any Benchmark Replacement, (iii) the effectiveness of any Conforming Changes, (iv) the removal or reinstatement of any tenor of a Benchmark pursuant to 
+
+Section 2.6(c)
+
+ below and (v) the commencement or conclusion of any Benchmark Unavailability Period.  Any determination, decision or election that may be made by Agent or, if applicable, any Bank (or group of Banks) pursuant to this 
+
+Section 2.6
+
+, including any determination with respect to a tenor, rate or adjustment or of the occurrence or non-occurrence of an event, circumstance or date and any decision to take or refrain from taking any action or any selection, will be conclusive and binding absent manifest error and may be made in its or their sole discretion and without consent from any other party to this Agreement or any other Loan Document, except, in each case, as expressly required pursuant to this 
+
+Section 2.6
+
+.
+
+(c)        
+
+Unavailability of Tenor of Benchmark
+
+.  Notwithstanding anything to the contrary herein or in any other Loan Document, at any time (including in connection with the implementation of a Benchmark Replacement), (i) if the then-current Benchmark is a term rate and either (A) any Available Tenor for such Benchmark is not displayed on a screen or other information service that publishes such rate from time to time as selected by Agent in its reasonable discretion or (B) the regulatory supervisor for the administrator of such Benchmark has provided a public statement or publication of information announcing that any Available Tenor for such Benchmark is or will be no longer representative, then Agent may modify the definition of “Interest Period” for any Benchmark settings at or after such time to remove such unavailable or non-representative tenor and (ii) if any Available Tenor that was removed pursuant to clause (i) above either (A) is subsequently displayed on a screen or information service for a Benchmark (including a Benchmark Replacement) or (B) is not, or is no longer, subject to an announcement that it is or will no longer be representative for a Benchmark (including a Benchmark Replacement), then Agent may modify the definition of “Interest Period” for all Benchmark settings at or after such time to reinstate such previously removed tenor.
+
+(d)       
+
+Conforming Changes
+
+. In connection with the implementation of any Benchmark Replacement, Agent will have the right to make Conforming Changes from time to time and, notwithstanding anything to the contrary herein or in any other Loan Document but subject to the first sentence of 
+
+Section 2.6(b)
+
+ above, any amendments implementing such Conforming Changes will become effective without any further action or consent of any other party to this Agreement or any other Loan Document.
+
+9
+
+(e)        
+
+Disclaimer
+
+.  Agent does not warrant or accept responsibility for, and shall not have any liability with respect to the administration of, submission of, calculation of or any other matter related to Adjusted Daily Simple SOFR, any component definition thereof or rates referenced in the definition thereof or any alternative, comparable or successor rate thereto (including any then-current Benchmark or any Benchmark Replacement), including whether the composition or characteristics of any such alternative, comparable or successor rate (including any Benchmark Replacement) will be similar to, or produce the same value or economic equivalence of, or have the same volume or liquidity as, Adjusted Daily Simple SOFR or any other Benchmark.
+
+6.
+
+Section 2.8
+
+ 
+
+of the agreement is hereby amended by replacing all references of “LIBOR” with “SOFR”.
+
+7.
+
+Schedule 2.2
+
+ to the Agreement is deleted in its entirety and replaced with the following:
+
+INTENTIONALLY OMITTED 
+
+8.
+
+All references in the Agreement to “LIBOR Breakage Costs” shall be deemed to be “Breakage Costs”.
+
+9.
+
+The effectiveness of this Amendment is subject to the satisfaction of the following conditions precedent:
+
+(a)
+
+the execution and delivery of this Amendment by each Borrower, Agent, each Bank and each of the Borrower Parties; and
+
+(b)
+
+Borrower shall pay Agent’s reasonable and actual out-of-pocket attorneys’ fees.
+
+10.
+
+Borrower acknowledges that the terms and conditions of the Esplanade REA, including, but not limited to, Sections 5.1, 5.3, 5.4, 5.5, and 7.1 thereof, remain in full force and effect, and that the Hotel Owner (as defined therein) is required to pay for and/or maintain all maintenance and repair obligations, utilities, Real Property Taxes (as defined therein), occupant services, and insurance coverage, each of the foregoing as described in the Esplanade REA. 
+
+11.
+
+Borrower acknowledges that the terms and conditions of the Plaza REA, including, but not limited to, Sections 5.1, 5.3, 5.4, 5.5, and 7.1 thereof, remain in full force and effect, and that the Hotel Owner (as defined therein) is required to pay for and/or maintain all maintenance and repair obligations, utilities, Real Property Taxes (as defined therein), occupant services, and insurance coverage, each of the foregoing as described in the Plaza REA.
+
+12.
+
+Borrower acknowledges that nothing contained herein shall be construed to relieve Borrower from its obligations under the Agreement and the other Loan Documents. Borrower further acknowledges the lien of the Deed of Trust to be a valid and existing first lien on the Project, and the lien of the Deed of Trust and other Loan Documents is hereby agreed to continue in full force and effect, unaffected and unimpaired by this Amendment.
+
+13.
+
+Except as herein modified and amended, all of the terms, provisions and conditions of the Agreement and the other Loan Documents, as the same may be amended as of the date hereof, shall remain in full force and effect and Borrower hereby represents and warrants that each and every representation and warranty set forth in Section 4.1, Section 5.1 and Article 6 of the Agreement is (i) true and correct as of the date hereof, except (X) if the subject matter of such representation or warranty relates to the Closing Date or another date or time described 
+
+10
+
+therein (including, without limitation, Sections 5.1(4), 6.3(a) and 6.12) , in which case such representation shall be true and correct in all material respects as of such date or time and (Y) to the extent such representation or warranty is no longer true as a result of the passage of time, changes in facts and circumstances and/or the conduct of Borrower and/or Guarantor, provided that any such changes are not the result of, and any such conduct does not constitute, a default on the part of Borrower or Guarantor (as applicable) under the Agreement and the other Loan Documents (including, without limitation, with respect to the Leases) and (ii) subject to exceptions contemplated by the foregoing clauses (X) and (Y), incorporated herein in full by reference as if fully restated herein in its entirety. Borrower hereby ratifies and confirms all of its covenants, obligations, duties, liabilities, indemnities and guarantees under the Agreement and the other Loan Documents.
+
+14.
+
+Borrower represents, warrants and covenants that, as of the date hereof: (a) each of this Amendment, the Agreement and the other Loan Documents is valid, binding and enforceable (subject to applicable bankruptcy, insolvency or similar Legal Requirements generally affecting the enforcement of creditors’ rights) in accordance with its respective terms and provisions, (b) there are no offsets, counterclaims or defenses which may be asserted with respect to this Amendment, the Agreement and the other Loan Documents, or which may in any manner affect the collection or collectability of the principal, interest and other sums evidenced and secured by this Amendment, the Agreement and the other Loan Documents, nor, to Borrower’s actual knowledge without inquiry, is there any basis whatsoever for any such offset, counterclaim or defense as of the date hereof, (c) Borrower (and its undersigned representative(s)) has the full power, authority and legal right to execute this Amendment and to keep and observe all of the terms of this Amendment, the Agreement and the other Loan Documents on Borrower’s part to be observed and performed and (d) no Event of Default now exists.
+
+15.
+
+Each Person other than Agent, the Banks or Borrower executing or consenting to this Amendment represents, warrants and covenants that as of the date hereof: (a) each of this Amendment and all other Loan Documents to which it is a party is valid, binding and enforceable against it in accordance with the respective terms and provisions thereof to the extent of such terms and provisions, subject to applicable bankruptcy, insolvency or similar Legal Requirements generally affecting the enforcement of creditors’ rights, (b) there are no offsets, counterclaims or defenses which may be asserted with respect to this Amendment, and the other Loan Documents to which it is a party, nor, to such Person’s actual knowledge without inquiry, is there any basis whatsoever for any such offset, counterclaim or defense, (c) it has full power, authority and legal right to execute this Amendment and each other Loan Document executed in connection with this Amendment to which it is a party, to the extent applicable, and to keep and observe all of the terms of this Amendment and such other Loan Documents on its part to be observed and performed.
+
+16.
+
+The amendments set forth herein are limited precisely as written and shall not be deemed to (a) be a consent to or a waiver of any other term or condition of the Agreement or any of the other Loan Documents or (b) prejudice any right or rights which Agent or any Bank may now have or may have in the future under or in connection with the Agreement or any other Loan Document. 
+
+17.
+
+In the event of any conflict or ambiguity between the terms, covenants and provisions of this Amendment and those of the Agreement and the other Loan Documents, the terms, covenants and provisions of this Amendment shall control.
+
+18.
+
+This Amendment may not be modified, amended, waived, changed or terminated orally, but only by an agreement in writing signed by the party against whom the enforcement of the modification, amendment, waiver, change or termination is sought.
+
+11
+
+19.
+
+This Amendment shall be binding upon and inure to the benefit of Borrower, Agent, the Banks and the Borrower Parties and their respective successors and assigns. This Amendment shall, for all purposes, be and constitute a Loan Document.
+
+20.
+
+This Amendment may be executed in any number of duplicate originals and each such duplicate original shall be deemed to constitute but one and the same instrument.
+
+21.
+
+If any term, covenant or condition of this Amendment shall be held to be invalid, illegal or unenforceable in any respect, this Amendment shall be construed without such provision.
+
+22.
+
+THIS AMENDMENT AND THE OTHER LOAN DOCUMENTS AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER AND UNDER THE OTHER LOAN DOCUMENTS SHALL IN ALL RESPECTS BE GOVERNED BY, AND CONSTRUED AND ENFORCED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK (WITHOUT GIVING EFFECT TO NEW YORK’S PRINCIPLES OF CONFLICTS OF LAW). BORROWER, AGENT AND EACH BANK HEREBY IRREVOCABLY (I) SUBMIT TO THE NON-EXCLUSIVE JURISDICTION OF ANY NEW YORK STATE OR FEDERAL COURT SITTING IN THE COUNTY OF NEW YORK OVER ANY SUIT, ACTION OR PROCEEDING ARISING OUT OF OR RELATING TO THIS AMENDMENT OR THE OTHER LOAN DOCUMENTS, (II) WAIVE ANY OBJECTION WHICH IT MAY HAVE AT ANY TIME TO THE LAYING OF VENUE OF ANY ACTION OR PROCEEDING BROUGHT IN ANY SUCH COURT, (III) WAIVE ANY CLAIM THAT SUCH PROCEEDINGS OR ACTIONS HAVE BEEN BROUGHT IN AN INCONVENIENT FORUM AND (IV) WAIVE THE RIGHT TO OBJECT, WITH RESPECT TO SUCH ACTION OR PROCEEDING, THAT SUCH COURT DOES NOT HAVE JURISDICTION OVER SUCH PARTY. EACH OF AGENT, BANKS AND BORROWER HEREBY AGREES AND CONSENTS THAT, IN ADDITION TO ANY METHODS OF SERVICE OF PROCESS PROVIDED FOR UNDER APPLICABLE LAW, ALL SERVICE OF PROCESS IN ANY SUCH SUIT, ACTION OR PROCEEDING IN ANY NEW YORK STATE OR FEDERAL COURT SITTING IN THE COUNTY OF NEW YORK MAY BE MADE BY CERTIFIED OR REGISTERED MAIL, RETURN RECEIPT REQUESTED, DIRECTED TO AGENT, EACH BANK OR BORROWER, AS APPLICABLE AT THE ADDRESS FOR NOTICES PURSUANT TO SECTION 11.1 OF THE AGREEMENT, AND SERVICE SO MADE SHALL BE COMPLETE FIVE DAYS AFTER THE SAME SHALL HAVE BEEN SO MAILED.
+
+[signatures appear on the following pages]
+
+12
+
+ 
+
+IN WITNESS WHEREOF, the parties hereto have executed this Amendment as of the date and year first above written.
+
+AGENT:    UNITED OVERSEAS BANK LIMITED, NEW YORK AGENCY
+
+By:    
+
+/s/ Brian Ike 
+
+Brian Ike
+
+First Vice President 
+
+By:    
+
+/s/ Eriberto De Guzman 
+
+Eriberto De Guzman
+
+Managing Director
+
+[signatures continue on following page]
+
+BANKS:    UNITED OVERSEAS BANK LIMITED, NEW YORK AGENCY
+
+By:    
+
+/s/ Brian Ike 
+
+Brian Ike
+
+First Vice President 
+
+By:    
+
+/s/ Eriberto De Guzman 
+
+Eriberto De Guzman
+
+Managing Director
+
+[signatures continue on following page]
+
+FIFTH THIRD BANK
+
+, 
+National Association
+
+By:    
+
+/s/ Klay Schmeisser 
+
+Klay Schmeisser 
+
+Senior Vice President
+
+[signatures continue on following page]
+
+SUMITOMO MITSUI BANKING CORPORATION
+
+By: 
+
+/s/ Brian T Caldwell 
+
+Name: Brian T Caldwell
+
+Title: Managing Director
+
+[signatures continue on following page]
+
+CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK
+
+, a banking corporation organized under the laws of the Republic of France
+
+By:    
+
+/s/ Steven Jonassen 
+
+Name: Steven Jonassen
+
+Title: Managing Director
+
+By:    
+
+/s/ David Bowers 
+
+Name: David Bowers
+
+Title: Managing Director
+
+[signatures continue on following page]
+
+THE BANK OF EAST ASIA, LIMITED, NEW YORK BRANCH
+
+By: 
+
+/s/ Chong Tan 
+
+Name: Chong Tan
+
+Title: Senior Vice President
+
+By: 
+
+/s/ George Benakis 
+
+Name: George Benakis
+
+Title: Senior Vice President
+
+[signatures continue on following page]
+
+BORROWER
+
+:    
+
+WYNN/CA PLAZA PROPERTY OWNER, LLC,
+
+a Nevada limited liability company
+
+By:    Wynn/CA Plaza JV, LLC, 
+
+a Nevada limited liability company, 
+
+its sole member
+
+By:    Wynn Plaza, LLC,
+
+a Nevada limited liability company,
+
+its managing member
+
+By:    Wynn Resorts, Limited,
+
+a Nevada corporation,
+
+its sole member
+
+By:    
+
+/s/ Julie Cameron-Doe 
+
+Name: Julie Cameron-Doe 
+
+Title: Treasurer
+
+[signatures continue on following page]
+
+BORROWER:
+
+WYNN/CA PROPERTY OWNER, LLC,
+
+a Nevada limited liability company
+
+By:    Wynn/CA JV, LLC, 
+
+a Nevada limited liability company, 
+
+its sole member
+
+By:    Wynn Retail, LLC,
+
+a Nevada limited liability company,
+
+its managing member
+
+By:    Wynn Resorts, Limited,
+
+a Nevada corporation,
+
+its sole member
+
+By:    
+
+/s/ Julie Cameron-Doe 
+
+Name: Julie Cameron-Doe 
+
+Title: Treasurer
+
+ [consent appears on following pages]
+
+HOTEL OWNER CONSENT
+
+The undersigned, 
+
+WYNN LAS VEGAS, LLC
+
+, a Nevada limited liability company, as the Hotel Owner in that certain Declaration of Covenants and Easements, dated as of December 21, 2016, affecting the Esplanade Project and recorded as Instrument Number 20161221-0003705 in the Office of the County Recorder of Clark County, Nevada, as amended by the First Amendment to the Declaration of Covenants and Easements, dated as of October 2, 2017 and recorded as Instrument Number 20171003-0000452 in the Office of the County Recorder of Clark County, Nevada, as further amended by the Second Amendment to the Declaration of Covenants and Easements, dated as of November 17, 2017 and recorded as Instrument Number 20171117-0000854 in the Office of the County Recorder of Clark County, Nevada, hereby acknowledges and agrees with Section 10 in the foregoing Amendment and hereby confirms and agrees that the Esplanade REA is and continues in full
+
+ 
+
+force and effect and is hereby ratified and confirmed in all respects.
+
+Executed as of June 2, 2023.
+
+[signatures continue on following page]
+
+WYNN LAS VEGAS, LLC
+
+,
+
+a Nevada limited liability company
+
+By:    WYNN LAS VEGAS HOLDINGS, LLC, a Nevada limited liability company, its sole member
+
+By:    WYNN AMERICA, LLC, a Nevada limited liability company, its sole member
+
+By:    WYNN RESORTS HOLDINGS, LLC, a Nevada limited liability company, its sole member
+
+By:    WYNN RESORTS LIMITED, a Nevada corporation, its sole member
+
+By:    
+
+/s/ Julie Cameron-Doe 
+
+Name: Julie Cameron-Doe 
+
+Title: Chief Financial Officer
+
+OWNERS OF THE WYNN PROPERTY CONSENT
+
+The undersigned, 
+
+WYNN LAS VEGAS, LLC
+
+, a Nevada limited liability company as the Hotel Owner in that certain Declaration of Covenants and Easements, dated as of October 2, 2017, effecting the Plaza Project and recorded as Instrument Number 20171003-0000451 in the Office of the County Recorder of Clark County, Nevada, as amended, hereby acknowledges and agrees with Section 11 in the foregoing Amendment and hereby confirms and agrees that the Plaza REA is and continues in full
+
+ 
+
+force and effect and is hereby ratified and confirmed in all respects.
+
+Executed as of June 2, 2023.
+
+[signatures continue on following page]
+
+WYNN LAS VEGAS, LLC
+
+,
+
+a Nevada limited liability company
+
+By:    WYNN LAS VEGAS HOLDINGS, LLC, a Nevada limited liability company, its sole member
+
+By:    WYNN AMERICA, LLC, a Nevada limited liability company, its sole member
+
+By:    WYNN RESORTS HOLDINGS, LLC, a Nevada limited liability company, its sole member
+
+By:    WYNN RESORTS LIMITED, a Nevada corporation, its sole member
+
+By:    
+
+/s/ Julie Cameron-Doe 
+
+Name: Julie Cameron-Doe 
+
+Title: Chief Financial Officer
+
+[signatures continue on following page]
+
+GUARANTY CONSENT
+
+The undersigned, (i) 
+
+PPF RETAIL, LLC
+
+, a Delaware limited liability company, (ii) 
+
+CROWN RETAIL SERVICES, LLC
+
+, a New York limited liability company and (iii) 
+
+WYNN RESORTS, LIMITED
+
+, a Nevada corporation, each as a Guarantor under that certain Recourse Indemnity Agreement, dated as of July 25, 2018 (as amended, modified or supplemented from time to time, the “
+
+Recourse Indemnity
+
+”) in favor of Agent and the Banks party to the Term Loan Agreement referred to in the foregoing Amendment, hereby acknowledges Borrower’s entrance into the said Amendment and hereby confirms and agrees that the Recourse Indemnity is and continues in full
+
+ 
+
+force and effect and is hereby ratified and confirmed in all respects except that, on and after the effective date of the said Amendment, each reference in the Recourse Indemnity to “the Term Loan Agreement”, “the Loan Agreement”, “the Credit Agreement”, “thereunder”, “thereof” or words of like import referring to the Term Loan Agreement shall mean and be a reference to the Term Loan Agreement as amended by the said Amendment.
+
+Executed as of June 2, 2023.
+
+[signatures continue on following page]
+
+PPF RETAIL, LLC
+
+,
+
+a Delaware limited liability company
+
+By:    PPF OP, LP, a Delaware limited partnership, its Sole Member
+
+By:    PPF OPGP, LLC, a Delaware limited liability company, its General Partner
+
+By:    Prime Property Fund, LLC, a Delaware limited liability company, its Member
+
+By:    Morgan Stanley Real Estate Advisor, Inc., 
+a Delaware corporation, its Investment Adviser
+
+By:    
+
+/s/ Derek Simmons
+
+Name: Derek Simmons
+
+Title: Vice President
+
+[signatures continue on following page]
+
+CROWN RETAIL SERVICES, LLC, 
+
+a New York limited liability company
+
+By:    
+
+/s/ Brittany Bragg 
+
+Name: Brittany Bragg
+
+Title: Authorized Signatory
+
+[signatures continue on following page]
+
+WYNN RESORTS, LIMITED
+
+, 
+
+a Nevada corporation
+
+By:    
+
+/s/ Julie Cameron-Doe 
+
+Name: Julie Cameron-Doe 
+
+Title: Chief Financial Officer
+
+GUARANTY CONSENT
+
+The undersigned, 
+
+WYNN RESORTS, LIMITED
+
+, a Nevada corporation, as Principal under the Hazardous Materials Indemnity Agreement dated as of July 25, 2018 (as amended, modified or supplemented from time to time, the “
+
+Indemnity Agreement
+
+”) in favor of Agent and the Banks party to the Term Loan Agreement referred to in the foregoing Amendment, hereby acknowledges Borrower’s entrance into the said Amendment and hereby confirms and agrees that the Indemnity Agreement is and continues in full
+
+ 
+
+force and effect and is hereby ratified and confirmed in all respects except that, on and after the effective date of the said Amendment, each reference in the Indemnity Agreement to “the Term Loan Agreement”, “the Loan Agreement”, “the Credit Agreement”, “thereunder”, “thereof” or words of like import referring to the Term Loan Agreement shall mean and be a reference to the Term Loan Agreement as amended by the said Amendment.
+
+Executed as of June 2, 2023.
+
+[signatures continue on following page]
+
+WYNN RESORTS, LIMITED
+
+, 
+
+a Nevada corporation
+
+By:    
+
+/s/ Julie Cameron-Doe 
+
+Name: Julie Cameron-Doe 
+
+Title: Chief Financial Officer

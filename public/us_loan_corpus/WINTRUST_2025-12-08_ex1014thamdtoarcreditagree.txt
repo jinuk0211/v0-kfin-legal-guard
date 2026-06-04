@@ -1,0 +1,410 @@
+EX-10.1
+
+2
+
+ex1014thamdtoarcreditagree.htm
+
+EX-10.1 FOURTH AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT
+
+Document
+
+EXHIBIT 10.1
+
+Execution Version
+
+Fourth Amendment to Amended and Restated Credit Agreement
+
+This FOURTH AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT (this "
+
+Amendment
+
+"), dated as of December 4, 2025 (effective as provided herein), is among WINTRUST FINANCIAL CORPORATION, an Illinois corporation ("
+
+Borrower
+
+"), each lender party hereto (each, a "
+
+Lender
+
+," and collectively, the "
+
+Lenders
+
+"), and U.S. BANK NATIONAL ASSOCIATION, as administrative agent ("
+
+U.S. Bank
+
+" and the "
+
+Administrative Agent
+
+").
+
+RECITALS:
+
+Borrower, Lenders and Administrative Agent have previously entered into that certain Amended and Restated Credit Agreement dated as of December 12, 2022 (as amended by that certain First Amendment to Amended and Restated Credit Agreement dated as of July 17, 2023, the Second Amendment to Amended and Restated Credit Agreement dated as of December 11, 2023, and the Third Amendment to Amended and Restated Credit Agreement and First Amendment to Amended and Restated Pledge and Security Agreement dated as of December 6, 2024, and as further amended, restated, amended and restated, supplemented or otherwise modified from time to time, the "
+
+Credit Agreement
+
+").
+
+Borrower has requested that the Revolving Credit Maturity Date be extended from December 5, 2025 to December 3, 2026, and that the Lenders and the Administrative Agent agree to certain other amendments to the Credit Agreement, and the Lenders and the Administrative Agent have agreed, subject to the terms and conditions of this Amendment, to extend the Revolving Credit Maturity Date and to such other amendments as provided in this Amendment.
+
+The parties hereto intend that this Amendment and the documents executed in connection herewith not effect a novation of the obligations of the Borrower under the Credit Agreement or any other Loan Document, but merely an amendment to the terms governing such obligations.
+
+AGREEMENT:
+
+NOW, THEREFORE, in consideration of the premises and mutual covenants herein contained, the parties hereto agree as follows:
+
+ARTICLE I
+
+Definitions
+
+1.1
+
+Definitions
+
+. Capitalized terms not otherwise defined herein have the meanings ascribed to such terms in the Credit Agreement.
+
+1.2
+
+Other Definitional Provisions
+
+. The words "hereby", "herein", "hereinafter", "hereof", "hereto" and "hereunder" when used in this Amendment shall refer to this Amendment as a whole and not to any particular Article, Section, subsection or provision of this Amendment. Section, subsection and Schedule references herein are to such Sections, subsections and Schedules to this Amendment unless otherwise specified. All titles or headings to Articles, Sections, subsections or other divisions of this Amendment or the schedules hereto, if any, are only for the convenience of the parties and shall not be construed to have any effect or meaning with respect to the other content of such Articles, Sections, subsections, other divisions or schedules, such other content being controlling as the agreement among the parties hereto. Whenever the context requires, reference herein made to the single number shall be understood to include the plural; and likewise, the plural shall be understood to include the singular. Words denoting gender shall be construed to include the masculine, feminine and neuter, when such construction is appropriate; and specific enumeration shall not exclude the general but shall be construed 
+
+as cumulative. Definitions of terms defined in the singular or plural shall be equally applicable to the plural or singular, as the case may be, unless otherwise indicated.
+
+1.3
+
+Incorporation by Reference
+
+. The Recitals to this Amendment are incorporated herein by reference and made a part hereof for all purposes as though set forth in this Amendment verbatim.
+
+ARTICLE II
+
+Amendments
+
+2.1
+
+Section 1.1 of the Credit Agreement
+
+. The defined terms "Fee Letter", "Revolving Credit Maturity Date" and "U.S. Person" as set forth in Section 1.1 of the Credit Agreement are hereby amended and restated in their respective entirety to read as set forth below:
+
+"
+
+Fee Letter
+
+" means the fee letter agreement dated December 4, 2025 between the Borrower and U.S. Bank.
+
+"
+
+Revolving Credit Maturity Date
+
+" means the earliest to occur of (a) December 3, 2026, (b) the date of termination of the entire Revolving Credit Commitment by the Borrower pursuant to 
+
+Section 2.5
+
+, and (c) the date of termination of the Revolving Credit Commitment pursuant to 
+
+Section 9.2(a)
+
+.
+
+"
+
+U.S. Person
+
+" means (i) for purposes of Sections 6.21 and 8.14 hereof, any United States citizen, lawful permanent resident, entity organized under the laws of the United States or any jurisdiction within the United States, including any foreign branch of any such entity, or any person in the United States and (ii) for all other purposes, any Person that is a "United States person" as defined in Section 7701(a)(30) of the Code.
+
+2.2
+
+Section 1.1 of the Credit Agreement
+
+. Section 1.1 of the Credit Agreement is hereby amended to add a new defined term in its proper alphabetical order to read as set forth below:
+
+"
+
+Outbound Investment Rules
+
+" means the regulations administered and enforced, together with any related public guidance issued, by the United States Treasury Department under U.S. Executive Order 14105 of August 9, 2023, or any similar law or regulation; as of December 4, 2025, and as codified at 31 C.F.R. § 850.101 et seq.
+
+2.3
+
+Section 6.13 of the Credit Agreement
+
+. The references to "December 6, 2024" contained in Section 6.13 of the Credit Agreement are hereby deleted and "December 4, 2025" substituted in lieu thereof. 
+
+2.4
+
+Section 6.21 of the Credit Agreement
+
+. Article VI of the Credit Agreement is hereby amended to add a new Section 6.21 in its proper numerical order to read as set forth below:
+
+2.5
+
+6.21    
+
+Outbound Investment Rules
+
+. Neither the Borrower nor any of its Subsidiaries is a "covered foreign person" as that term is used in the Outbound Investment Rules. Neither the Borrower nor any of its Subsidiaries currently engages, or has any present intention to engage in the future, directly or indirectly, in (i) a "covered activity" or a "covered transaction," as each such term is defined in the Outbound Investment Rules, (ii) any activity or transaction that would constitute a "covered activity" or a "covered transaction," as each such term is defined in the Outbound Investment Rules, if the Borrower were a U.S. Person or (iii) any other activity that would cause the Administrative Agent or any Lender to be in violation of the Outbound 
+
+2
+
+Investment Rules or cause the Administrative Agent or any Lender to be legally prohibited by the Outbound Investment Rules from performing under this Agreement.
+
+2.6
+
+Section 8.14 of the Credit Agreement
+
+. Article VIII of the Credit Agreement is hereby amended to add a new Section 8.14 in its proper numerical order to read as set forth below:
+
+Section 8.14.    
+
+Outbound Investment Rules
+
+. (a) be or become a "covered foreign person," as that term is defined in the Outbound Investment Rules, or (b) engage, directly or indirectly, in (i) a "covered activity" or a "covered transaction," as each such term is defined in the Outbound Investment Rules, (ii) any activity or transaction that would constitute a "covered activity" or a "covered transaction," as each such term is defined in the Outbound Investment Rules, if the Borrower were a U.S. Person or (iii) any other activity that would cause the Administrative Agent or any Lender to be in violation of the Outbound Investment Rules or cause the Administrative Agent or any Lender to be legally prohibited by the Outbound Investment Rules from performing under this Agreement.
+
+2.7
+
+Section 11.10 of the Credit Agreement
+
+. Section 11.10 of the Credit Agreement is hereby amended to add a new paragraph at the end of such Section to read as set forth below:
+
+For the avoidance of doubt, nothing in this Section 11.10 shall prohibit any Person from voluntarily disclosing or providing any Information within the scope of this confidentiality provision to any governmental, regulatory or self-regulatory organization to the extent that such prohibition on disclosure set forth in this Section 11.10 is prohibited by the laws or regulations applicable to such governmental, regulatory or self-regulatory organization.
+
+ARTICLE III
+
+Conditions Precedent; Effectiveness
+
+3.1
+
+Conditions
+
+. This Amendment shall be effective as of the date in which the following conditions precedent are satisfied (such date, the "
+
+Fourth Amendment Effective Date
+
+"):
+
+(a)
+
+Documents
+
+. The Administrative Agent shall have received (i) this Amendment executed by the Borrower and each Lender and (ii) that certain Fee Letter dated as of the date hereof between the Administrative Agent and the Borrower (the "
+
+Fourth Amendment Fee Letter
+
+") executed by the Borrower and U.S. Bank.
+
+ 
+
+(b)
+
+Fees
+
+. The Administrative Agent shall have received payment of (i) the fees required to be paid pursuant to the Fourth Amendment Fee Letter and (ii) the Administrative Agent's reasonable, documented and out-of-pocket expenses (including reasonable out-of-pocket fees and expenses of counsel for the Administrative Agent) in connection with this Amendment.
+
+(c)
+
+Certificate of Secretary of the Borrower
+
+. The Administrative Agent shall have received a certificate of a Responsible Officer of the Borrower certifying as to the incumbency and genuineness of the signature of each officer of the Borrower executing Loan Documents to which it is a party and certifying that attached thereto is a true, correct and complete copy of (i) the articles or certificate of incorporation or formation (or equivalent), as applicable, of the Borrower and all amendments thereto, certified as of a recent date by the appropriate Governmental Authority in its jurisdiction of incorporation, organization or formation (or equivalent), as applicable, (ii) the bylaws or governing documents of the Borrower as in effect on the Fourth Amendment Effective Date, (iii) resolutions duly adopted by the board of directors (or 
+
+3
+
+other governing body) of the Borrower authorizing and approving the transactions contemplated hereunder and the execution, delivery and performance of this Amendment and the other Loan Documents to which it is a party or a certification that the resolutions provided to the Administrative Agent on December 12, 2022 remain true and correct, authorize the execution, delivery and performance of this Amendment and the transactions contemplated thereby, and that such resolutions have not been amended, modified or rescinded and are in full force and effect on the date hereof, and (iv) a certificate as of a recent date of the good standing of the Borrower in Illinois.
+
+(d)
+
+Opinions of Counsel
+
+. The Administrative Agent shall have received a favorable opinion of Sidley Austin LLP, counsel to the Borrower, addressed to the Administrative Agent and each Lender, as to customary matters concerning the Borrower and the Loan Documents as the Administrative Agent may reasonably request.
+
+(e)
+
+KYC and Beneficial Ownership
+
+. Upon the reasonable request of any Lender, (i) the Borrower shall have provided to such Lender the documentation and other information so requested in connection with applicable "know your customer" and anti-money-laundering Laws, including the PATRIOT Act and (ii) if the Borrower qualifies as a "legal entity customer" under the Beneficial Ownership Regulation, the Borrower shall have delivered a Beneficial Ownership Certification in relation to the Borrower. 
+
+ARTICLE IV
+
+Ratification
+
+4.1
+
+Ratification
+
+. The terms and provisions set forth in this Amendment shall modify and supersede all inconsistent terms and provisions set forth in the Credit Agreement, and except as expressly modified and superseded by this Amendment, the terms and provisions of the Credit Agreement and the other Loan Documents, including any Liens and security interests securing any Obligations granted in connection therewith, are ratified and confirmed and shall continue in full force and effect. The Borrower agrees that the Credit Agreement, as amended hereby, and the other Loan Documents to which it is a party or subject shall continue to be legal, valid, binding and enforceable in accordance with their respective terms.
+
+ARTICLE V
+
+Representations and Warranties
+
+5.1
+
+Loan Documents
+
+. The Borrower represents and warrants to each Lender and Administrative Agent that as of the date hereof and as of the Fourth Amendment Effective Date that (a) the execution, delivery and performance of this Amendment and any and all other Loan Documents executed and/or delivered in connection herewith have been authorized by all requisite action on the part of Borrower and will not (i) violate any organizational or governance document of Borrower or (ii) violate any applicable law in any material respect, (b) the representations and warranties contained in the Credit Agreement, as amended hereby, and each other Loan Document are true and correct in all material respects on and as of the date hereof as though made on and as of the date hereof (except to the extent such representation or warranty is already qualified as to materiality, Material Adverse Effect, or similar language, in which case it shall be true and correct in all respects), except to the extent such representations and warranties expressly relate to an earlier date (in which case such representations and warranties shall be shall be true and correct in all material respects (except to the extent such representations and warranties are already qualified as to materiality, Material Adverse Effect, or similar language, in which case they shall be true and correct in all respects) as of such earlier date), and (c) no Default or Event of Default shall exist immediately before or immediately after giving effect to this Amendment.
+
+4
+
+ARTICLE VI
+
+Post-Closing Covenant
+
+6.1
+
+Post-Closing Covenant
+
+. On or before the date that is five (5) Business Days after the date hereof (or such later date that is no later than 45 days after the date hereof agreed to in writing by the Administrative Agent), the Administrative Agent shall have received the results of a Lien search, in form and substance reasonably satisfactory thereto, made against the Borrower under the Uniform Commercial Code (or applicable judicial docket) as in effect in each jurisdiction in which filings or recordations under the Uniform Commercial Code should be made to evidence or perfect security interests in all assets of the Borrower, indicating among other things that the assets of each the Borrower are not subject to any Liens (except for Liens permitted under the Credit Agreement).
+
+ARTICLE VII
+
+Miscellaneous
+
+7.1
+
+Reference to Credit Agreement
+
+. Each of the Loan Documents, including the Credit Agreement and any and all other agreements, documents, or instruments now or hereafter executed and delivered pursuant to the terms hereof or pursuant to the terms of the Credit Agreement, as amended hereby, are hereby amended so that any reference in such Loan Documents to the Credit Agreement shall mean a reference to the Credit Agreement, as amended hereby.
+
+7.2
+
+Severability
+
+. Any provision of this Amendment or any other Loan Document which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective only to the extent of such prohibition or unenforceability without invalidating the remainder of such provision or the remaining provisions hereof or thereof or affecting the validity or enforceability of such provision in any other jurisdiction.
+
+7.3
+
+Counterparts
+
+. This Amendment may be executed in counterparts (and by different parties hereto in different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. Delivery of an executed signature page of this Amendment by facsimile transmission or PDF attachment to email shall be effective as delivery of an original executed counterpart thereof. 
+
+7.4
+
+Governing Law; Jurisdiction, Etc
+
+.
+
+(a)
+
+Governing Law
+
+. This Amendment and the other Loan Documents executed in connection herewith, unless expressly set forth therein, shall be governed by, construed and enforced in accordance with, the law of the State of Illinois, without reference to the conflicts or choice of law principles thereof.
+
+(b)
+
+Submission to Jurisdiction
+
+. Each of the parties hereto irrevocably and unconditionally submits, for itself and its property, to the nonexclusive jurisdiction of the courts of the State of Illinois sitting in Cook County and of the United States District Court of the Northern District of Illinois, and any appellate court from any thereof, in any action or proceeding arising out of or relating to this Amendment or any other Loan Document, or for recognition or enforcement of any judgment, and each of the parties hereto irrevocably and unconditionally agrees that all claims in respect of any such action or proceeding may be heard and determined in such Illinois state court or, to the fullest extent permitted by applicable Law, in such Federal court. Each of the parties hereto agrees that a final judgment in any such action or proceeding shall be conclusive and may be enforced in other jurisdictions by suit on the judgment or in any other manner provided by law. Nothing in this Amendment or in any other Loan Document shall affect any right that Administrative Agent or any Lender may otherwise have to bring any action or proceeding relating to this Amendment or any other Loan Document against Borrower or its properties in the courts of any jurisdiction.
+
+5
+
+(c)
+
+Waiver of Venue
+
+. Each of the parties hereto irrevocably and unconditionally waives, to the fullest extent permitted by applicable Law, any objection that it may now or hereafter have to the laying of venue of any action or proceeding arising out of or relating to this Amendment or any other Loan Document executed in connection herewith in any court referred to in 
+
+Section 7.4(b)
+
+. Each of the parties hereto hereby irrevocably waives, to the fullest extent permitted by applicable Law, the defense of an inconvenient forum to the maintenance of such action or proceeding in any such court.
+
+(d)
+
+Service of Process
+
+. Each party hereto irrevocably consents to service of process in the manner provided for notices in Section 11.1 of the Credit Agreement. Nothing in this Amendment will affect the right of any party hereto to serve process in any other manner permitted by applicable Law.
+
+7.5
+
+Waiver of Jury Trial
+
+. EACH PARTY HERETO HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AMENDMENT OR ANY OTHER LOAN DOCUMENT EXECUTED IN CONNECTION HEREWITH OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY (WHETHER BASED ON CONTRACT, TORT OR ANY OTHER THEORY). EACH PARTY HERETO (A) CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PERSON HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PERSON WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THIS AMENDMENT AND THE OTHER LOAN DOCUMENTS EXECUTED IN CONNECTION HEREWITH BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION.
+
+7.6
+
+FINAL AGREEMENT
+
+. THIS AMENDMENT, TOGETHER WITH THE CREDIT AGREEMENT, AS AMENDED HEREBY, AND THE OTHER LOAN DOCUMENTS, REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES HERETO. THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE PARTIES.
+
+7.7
+
+Expenses of Administrative Agent
+
+. To the extent provided in the Credit Agreement, Borrower shall pay all invoiced reasonable costs and expenses incurred by Administrative Agent in connection with the preparation, negotiation, and execution of this Amendment and the other Loan Documents executed pursuant hereto, including without limitation the reasonable fees and expenses of Administrative Agent's legal counsel promptly following Borrower's receipt of invoices therefor.
+
+7.8
+
+Loan Document
+
+. This Amendment is a Loan Document.
+
+7.9
+
+Amendment; No Novation
+
+. This Amendment constitutes an amendment of the Credit Agreement, effective from and after the Fourth Amendment Effective Date and not a novation or discharge thereof. The parties agree that the execution, delivery, and effectiveness of this Amendment shall not constitute a substitution, novation, discharge, or extinguishment of any indebtedness or other obligations for payment of money or any evidence of repayment thereof under the Credit Agreement or any other Loan Document, or a release or discharge any Lien or priority of any Loan Document or any security therefor. The Borrower hereby acknowledges that neither this Amendment, nor any other Loan Document is intended as or shall be construed as a release or novation of any Lien or other security interest, securing any "Obligation" or "Obligations", all of which are continued in full force and effect.
+
+[Signature Pages Follow]
+
+6
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be executed by their duly authorized officers, all as of the day and year first written above.
+
+BORROWER:
+
+WINTRUST FINANCIAL CORPORATION
+
+By: 
+
+    /s/David A. Dykstra    
+
+Name:     David A. Dykstra
+Title:     Vice Chairman and Chief Operating Officer
+
+U.S. BANK NATIONAL ASSOCIATION
+as the Administrative Agent and a Lender
+
+By: 
+
+    /s/Callen M. Strunk    
+
+Name:     Callen M. Strunk
+Title:     Vice President
+
+Fourth Amendment to Amended and Restated Credit Agreement– 
+
+Signature Page
+
+ 
+
+ROYAL BANK OF CANADA,
+as a Lender
+
+By: 
+
+    /s/Colleen Osborne    
+
+Name:     Colleen Osborne
+Title:    Authorized Signatory
+
+Fourth Amendment to Amended and Restated Credit Agreement– 
+
+Signature Page
+
+ 
+
+WELLS FARGO BANK, N.A.,
+as a Term Loan Lender 
+
+By: 
+
+    /s/Fernando Lumbreras    
+
+Name:    Fernando Lumbreras
+Title:    Executive Director
+
+Fourth Amendment to Amended and Restated Credit Agreement– 
+
+Signature Page

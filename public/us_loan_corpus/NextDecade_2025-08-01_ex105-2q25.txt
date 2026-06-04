@@ -1,0 +1,748 @@
+EX-10.5
+
+6
+
+ex105-2q25.htm
+
+EX-10.5
+
+Document
+
+Exhibit 10.5
+
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+This FIRST AMENDMENT TO CREDIT AGREEMENT, dated as of May 14, 2025 (this “
+
+Amendment
+
+”), is entered into among RIO GRANDE LNG SUPER HOLDINGS, LLC, a Delaware limited liability company (the “
+
+Borrower
+
+”), ATLANTIC PARK STRATEGIC CAPITAL MASTER FUND II, L.P., as Administrative Agent (in such capacity, together with its successors and permitted assigns in such capacity, the “
+
+Administrative Agent
+
+”), ATLANTIC PARK STRATEGIC CAPITAL MASTER FUND II, L.P., as Collateral Agent (in such capacity, together with its successors and permitted assigns in such capacity, the “
+
+Collateral Agent
+
+”), Lenders constituting the Required Lenders and the 2025 Incremental Lenders (as defined below). Unless otherwise indicated, all capitalized terms used herein and not otherwise defined shall have the respective meanings provided such terms in the Credit Agreement referred to below.
+
+PRELIMINARY STATEMENTS
+
+WHEREAS, the Borrower, the Administrative Agent, the Collateral Agent and the Lenders from time to time party thereto have entered into that certain Credit Agreement, dated as of December 31, 2024 (the “
+
+Credit Agreement
+
+”, and as amended by this Amendment, the “
+
+Amended Credit Agreement
+
+”);
+
+WHEREAS, the Borrower has requested that the Lenders amend the Credit Agreement to provide for an incremental term loan facility in an aggregate principal amount of $50,000,000;
+
+WHEREAS, as contemplated by Section 2.12 of the Credit Agreement (immediately after giving effect to the amendments contemplated by 
+
+Section 2
+
+ hereof), (a) the Borrower has requested that the lenders listed on the signature pages hereto as “2025 Incremental Lenders” (the “
+
+2025 Incremental Lenders
+
+”) make loans (together with PIK Interest in respect thereof, the “
+
+2025 Incremental Loans
+
+”) to the Borrower on the Amendment Effective Date (as defined below) in an aggregate principal amount of $50,000,000, which will be added to (and form part of), and have the same terms and conditions as, the existing Loan and the proceeds of which 2025 Incremental Loans will be used in accordance with 
+
+Section 5.6
+
+ of the Amended Credit Agreement, (b) the parties hereto have agreed, subject to the satisfaction of the conditions precedent to effectiveness set forth in 
+
+Section 6
+
+ hereof, to amend certain terms of the Credit Agreement as hereinafter provided to give effect to the incurrence of the 2025 Incremental Loans and to make such other changes as provided herein, and (c) this Amendment shall constitute an Incremental Amendment; and
+
+WHEREAS, each 2025 Incremental Lender is prepared to provide, severally and not jointly, 2025 Incremental Loans in an aggregate original principal amount for such 2025 Incremental Lender equal to its “2025 Incremental Commitment” set forth on 
+
+Schedule 1
+
+ attached hereto (the “
+
+2025 Incremental Commitments
+
+”) opposite such 2025 Incremental Lender’s name, subject to the terms and conditions set forth herein.
+
+NOW, THEREFORE, for good and valuable consideration, the receipt and adequacy of which is acknowledged by each party hereto, it is agreed that:
+
+SECTION 1.    
+
+DEFINITIONS; PRINCIPLES OF CONSTRUCTION
+
+. The definitions and principles of construction set forth in Schedule I to the Credit Agreement shall apply to this Amendment, including the terms defined in the preamble and recitals hereto.
+
+SECTION 2.     
+
+CERTAIN AMENDMENTS TO CREDIT AGREEMENT
+
+. 
+
+(a)    Schedule I to the Credit Agreement is hereby amended by adding in the appropriate alphabetical order the following new defined terms and related definitions:
+
+“
+
+Incremental Amendment
+
+” means an amendment, joinder agreement or similar agreement entered into by any Person (including any Lender) under 
+
+Section 2.11
+
+ pursuant to which such 
+
+    
+
+Person shall provide an Incremental Commitment hereunder and (if such Person is not then a Lender) shall become a Lender party hereto.
+
+     (b)     Article 2 of the Credit Agreement is hereby amended by inserting a new Section 2.12 at the end of Section 2.11 thereof as follows:
+
+Section 2.12.    
+
+Increases in Commitments
+
+.
+
+(a)    
+
+Request for Increase
+
+. The Borrower may, by written notice to the Administrative Agent (who shall promptly notify the Lenders), request an increase in the Commitments (such increase, the “
+
+Incremental Commitment
+
+”) by an aggregate amount (for all such requests) equal to $50,000,000.
+
+(b)    
+
+Incremental Lenders
+
+. The Incremental Commitment may be provided by any Lender or Affiliate thereof or any other Person (other than a natural person, the Borrower, and its Subsidiaries and Affiliates) (each, an “
+
+Incremental Lender
+
+”); 
+
+provided
+
+ that each Incremental Lender (other than Lenders party hereto on the Closing Date) shall be subject to the consent (in each case, not to be unreasonably withheld, conditioned or delayed) of the Administrative Agent. Except to the extent set forth in the applicable Incremental Amendment, no Lender shall have any obligation under this Agreement to agree to increase its Commitment, or to provide a Commitment, pursuant to this 
+
+Section 2.12
+
+, and any election to do so shall be in the sole discretion of such Lender.
+
+(c)    
+
+Terms of Incremental Commitments
+
+. The Administrative Agent and the Borrower shall determine the effective date for such increase pursuant to this 
+
+Section 2.12
+
+ (the “
+
+Incremental Commitment Effective Date
+
+”) and, if applicable, the final allocation of such increase among the Incremental Lenders providing such increase; 
+
+provided
+
+ that such date shall be a Business Day at least three Business Days after delivery of the request for such increase (unless otherwise approved by the Administrative Agent).
+
+In order to effect such increase, the Borrower, the applicable Incremental Lender(s) and the Administrative Agent (but no other Lenders or Persons) shall enter into one or more Incremental Amendments, each in form and substance reasonably satisfactory to the Borrower and the Administrative Agent, pursuant to which the applicable Incremental Lender(s) will provide the Incremental Commitment(s).
+
+Effective as of the Incremental Commitment Effective Date, subject to the terms and conditions set forth in this 
+
+Section 2.12
+
+, each Incremental Lender providing an Incremental Commitment shall be, and have all the rights of, a Lender, and the loans made by it on such Incremental Commitment Effective Date pursuant to the Incremental Commitment (together with PIK Interest in respect thereof, the “
+
+Incremental Loans
+
+”) shall be a part of the Loan (and not a separate credit facility hereunder), for all purposes of this Agreement. Notwithstanding anything in this Agreement to the contrary, any Incremental Commitments and Incremental Loans established and incurred after the Closing Date shall be in the form of additional Loans with terms identical to the existing Loans; 
+
+provided
+
+ that the use of proceeds thereof shall be as provided in the applicable Incremental Amendment and this Agreement. 
+
+(d)    
+
+Conditions to Effectiveness
+
+. Notwithstanding the foregoing, the increase in the Commitments pursuant to this 
+
+Section 2.12
+
+ shall not be effective with respect to any Incremental Lender unless:
+
+(i)    (A) no Default or Event of Default shall have occurred and be continuing on the Incremental Commitment Effective Date or would result from such increase or incurrence or use of proceeds thereof, and (B) except for the matters set forth in Schedule 4.11, no “Default” or “Event of Default” under and as defined in any P1 Financing Document shall have occurred and be continuing or would result from such increase or incurrence or use of proceeds thereof;
+
+2
+
+    
+
+(ii)    all representations and warranties of the Credit Parties shall be true and correct in all material respects (or, if qualified by “materiality,” “Material Adverse Effect” or similar language, in all respects after giving effect to such qualification) on and as of the Incremental Commitment Effective Date and after giving effect to such increase, as though made on and as of such date; 
+
+provided
+
+ that, to the extent that such representations and warranties specifically refer to an earlier date, they shall be true and correct in all material respects (or, if qualified by “materiality,” “Material Adverse Effect” or similar language, in all respects after giving effect to such qualification) as of such earlier date; 
+
+(iii)    the Administrative Agent shall have received one or more Incremental Amendments contemplated above, providing for Incremental Commitments in the amount of such increase; and
+
+(iv)    the Administrative Agent shall have received such customary legal opinions and other documents reasonably requested by the Administrative Agent in connection therewith. 
+
+As of the Incremental Commitment Effective Date, upon the Administrative Agent’s receipt of the documents required by this paragraph (d), the Administrative Agent shall record the information contained in the applicable Incremental Amendment(s) in the Register and give prompt notice of the increase in the Commitments to the Borrower and the Lenders (including each Incremental Lender).
+
+SECTION 3.     
+
+2025 INCREMENTAL LOANS
+
+. Pursuant to Section 2.12 of the Credit Agreement (immediately after giving effect to 
+
+Section 2
+
+ hereof), and subject to the satisfaction of the conditions precedent set forth in 
+
+Section 6
+
+ hereof, on and as of the Amendment Effective Date:
+
+(a)    Each 2025 Incremental Lender hereby agrees, severally and not jointly, to make a loan in Dollars to the Borrower on the Amendment Effective Date in amount not to exceed its 2025 Incremental Commitment set forth opposite its name under the heading “2025 Incremental Commitment” on Schedule 1 attached hereto (and such loans shall be made ratably among the 2025 Incremental Lenders according to the 2025 Incremental Commitments set forth in such Schedule). The full original principal amount of the 2025 Incremental Loans shall be drawn by the Borrower in a single drawing on the Amendment Effective Date and amounts paid or prepaid in respect of the 2025 Incremental Loans may not be reborrowed. The proceeds of the 2025 Incremental Loans shall be used in accordance with 
+
+Section 5.6
+
+ of the Amended Credit Agreement. The 2025 Incremental Loans (x) shall be added to, and thereafter constitute a part of, the existing Loans and (y) shall be subject to the interest rates, original issue discount, Make Whole Premium, voluntary prepayment terms, mandatory prepayment terms and other terms applicable to the initial Loans as set forth in the Amended Credit Agreement; 
+
+provided
+
+ that the initial interest period for the 2025 Incremental Loans shall commence on the Amendment Effective Date.
+
+(b)    As of the Amendment Effective Date, each 2025 Incremental Lender not previously a party to the Credit Agreement hereby accedes to, and agrees to be bound by the terms, conditions and provisions of, the Amended Credit Agreement as an Incremental Lender and a Lender thereunder. The 2025 Incremental Lenders, the Administrative Agent and the Credit Parties party hereto hereby acknowledge and agree that (i) this Amendment shall constitute an Incremental Amendment pursuant to and in accordance with Section 2.12 of the Amended Credit Agreement and (ii) after the 2025 Incremental Lenders make the 2025 Incremental Loans on the Amendment Effective Date, the availability under Section 2.12 of the Amended Credit Agreement shall equal $0.
+
+(c)    Immediately upon the incurrence of the 2025 Incremental Loans on the Amendment Effective Date, (i) the 2025 Incremental Loans shall be added to (and form part of) the borrowing of existing Loans outstanding under the Credit Agreement immediately prior to the effectiveness of this Amendment, (ii) in connection with the foregoing, the Administrative Agent shall (and is hereby authorized to) take all necessary actions to ensure that all Lenders participate in each borrowing of Loans and each repayment thereof (in each case, after giving effect to the incurrence of 2025 Incremental Loans) 
+
+3
+
+    
+
+on a pro rata basis, (iii) the 2025 Incremental Loans shall constitute a single class of loans with the initial Loans made on the Closing Date and (iv) the 2025 Incremental Loans shall constitute “Loans” for all purposes under, and subject to the provisions of, the Finance Documents. Without limiting the generality of the foregoing, the 2025 Incremental Loans shall: (1) constitute Obligations and have all of the benefits thereof, (ii) have terms, rights, remedies, privileges and protections identical to those applicable to the Loans under the Credit Agreement and each of the other Finance Documents, except as expressly set forth in the Credit Agreement or any other applicable Finance Document, and (iii) be secured by the Liens granted to the Collateral Agent for the benefit of the Secured Parties under the Security Agreement and each other Security Document.
+
+(d)    The 2025 Incremental Commitment of each 2025 Incremental Lender shall automatically terminate upon the funding of the 2025 Incremental Loans on the Amendment Effective Date.
+
+SECTION 4.     
+
+ADDITIONAL AMENDMENTS TO CREDIT AGREEMENT
+
+. Subject to the satisfaction of the conditions set forth in 
+
+Section 6
+
+ hereof, the Credit Agreement is hereby amended as follows:
+
+(a)    Schedule I to the Credit Agreement is hereby amended by adding in the appropriate alphabetical order the following new defined terms and related definitions:
+
+“
+
+2025 Incremental Commitments
+
+” shall have the meaning ascribed thereto in the First Amendment.
+
+“
+
+2025 Incremental Closing Date Payment Direction
+
+” means the flow of funds attached hereto as 
+
+Exhibit I
+
+.
+
+“
+
+2025 Incremental Lenders
+
+” shall have the meaning ascribed thereto in the First Amendment.
+
+“
+
+2025 Incremental Loans
+
+” shall have the meaning ascribed thereto in the First Amendment.
+
+“
+
+First Amendment
+
+” means that certain First Amendment to Credit Agreement, dated as of May 14, 2025, among the Borrower, the Administrative Agent, the 2025 Incremental Lenders and the other Lenders party thereto.
+
+“
+
+First Amendment Effective Date
+
+” shall have the meaning ascribed to the term “Amendment Effective Date” in the First Amendment.
+
+“
+
+Initial Loan
+
+” shall have the meaning ascribed thereto in 
+
+Section 2.1(a)
+
+.
+
+“
+
+Reaffirmation Agreement
+
+” means that certain Reaffirmation Agreement, dated as of May 14, 2025, among the Borrower, the Pledgor and the Collateral Agent.
+
+(b)    The definitions of “Commitments”, “Fee Letters”, “PIHI Side Letter” and “Security Documents” appearing in Schedule I to the Credit Agreement are hereby amended and restated in their entirety as follows:
+
+“
+
+Commitments
+
+” means (a) the commitments of the Lenders set forth on 
+
+Schedule II
+
+, and/or (b) the 2025 Incremental Commitments.
+
+“
+
+Fee Letters
+
+” means each of the fee letters, dated as of the Closing Date or the First Amendment Effective Date, as applicable, between the Borrower, on the one hand, and the Initial Lender, the Incremental Lenders, the Administrative Agent and/or the Collateral Agent, on the other hand, as the case may be.
+
+4
+
+    
+
+“
+
+Finance Documents
+
+” means, individually or collectively, as the context may require, each of the following:
+
+(a)    this Agreement (including any joinder or accession agreement hereto);
+
+(b)    the Fee Letters;
+
+(c)    the Security Documents;
+
+(d)    the PIHI Side Letter;
+
+(e)    each promissory note delivered pursuant to 
+
+Section 2.4(b)
+
+ or pursuant to any Incremental Amendment;
+
+(f)    each Incremental Amendment; and
+
+(g)    any other agreement, document or instrument agreed as such by the Administrative Agent and the Borrower.
+
+“
+
+PIHI Side Letter
+
+” means the amended and restated letter agreement, dated as of May 14, 2025, among the Borrower, the Initial Lender and the 2025 Incremental Lenders.
+
+“
+
+Security Documents
+
+” means, individually or collectively, as the context may require, each of the following:
+
+(a)    the Security Agreement;
+
+(b)    the Pledge Agreement;
+
+(c)    the Reaffirmation Agreement; and
+
+     
+
+(d)     any other document, agreement, instrument or filing executed in favor of the Collateral Agent for the benefit of any Secured Party (including any replacement of or supplement to the Security Documents set forth above) pursuant to 
+
+Section 5.3
+
+.
+
+(c)    The definition of “Permitted Intermediate HoldCo Indebtedness” appearing in Schedule I to the Credit Agreement is hereby amended by deleting the words “Financing Documents” appearing therein and inserting the words “Finance Documents” in lieu of thereof. 
+
+(d)    Sections 2.1(a) and (b) of the Credit Agreement are hereby amended and restated in their entirety as follows:
+
+“(a)    
+
+Initial Loan
+
+. A senior secured loan in an aggregate initial principal amount of $175,000,000 loan (together with PIK Interest in respect thereof, the “
+
+Initial Loan
+
+” and, together with the 2025 Incremental Loans and PIK Interest in respect thereof, individually or collectively, as the context may require, the “
+
+Loan
+
+” or “
+
+Loans
+
+”).
+
+(b)     
+
+Drawing
+
+. Subject to the terms and conditions set forth in this Agreement, each Lender severally agrees to make to the Borrower in a single draw on the Closing Date its pro rata portion of the Initial Loan based on the aggregate amount of its respective applicable Commitment.”
+
+(e)    Section 2.2 of the Credit Agreement is hereby amended and restated in its entirety as follows:
+
+5
+
+    
+
+“Each Lender shall make its pro rata portion of the Initial Loan or the Incremental Loans, as applicable, on the Closing Date or on the First Amendment Effective Date, as applicable, by wire transfer of immediately available funds by 12:00 noon, New York City time, to such accounts as are specified in the funds flow direction letter signed by an Authorized Officer of the Borrower and delivered to the Administrative Agent prior to the Closing Date or the First Amendment Effective Date, as applicable.”
+
+    
+
+(f)     Section 2.11 of the Credit Agreement is hereby amended by inserting the following sentence at the end thereof: “Solely for purposes of this 
+
+Section 2.11
+
+ (including the calculations under this Section 2.11), the Incremental Loans shall be deemed to have been funded at their issue price concurrently with the Initial Loan on the Closing Date.”
+
+     (g)     Section 4.20(d) of the Credit Agreement is hereby amended by deleting the words “Loan Party” appearing therein and inserting the words “Credit Party” in lieu thereof.
+
+(h)    Section 5.6(a) of the Credit Agreement is hereby amended and restated in its entirety as follows:
+
+“The Borrower will use the proceeds of the Loans only (i) to pay transaction expenses incurred in connection with the Loan in accordance with the Closing Date Payment Direction or 2025 Incremental Closing Date Payment Direction, as applicable, (ii) to repay the Existing Debt in accordance with the Closing Date Payment Direction, and (iii) to make a Distribution to the Sponsor in accordance with the Closing Date Payment Direction or 2025 Incremental Closing Date Payment Direction, as applicable, for further application in accordance with 
+
+Section 5.6(b)
+
+.”
+
+(i)    Section 6.8(a) of the Credit Agreement is hereby amended by deleting the words “Affiliate Transaction” appearing therein and inserting the words “any transaction with, or otherwise for the benefit, any of its Affiliates” in lieu thereof.
+
+(j)     Section 7.1(i) of the Credit Agreement is hereby amended by deleting the word “Impaired” appearing therein and inserting the word “impaired” in lieu thereof.
+
+(k)     Sections 9.3, 10.7, 11.1(c), 11.18(a) and 11.18(b) of the Credit Agreement and the definitions “Bail-In Legislation” and “UK Financial Institution” are hereby amended by deleting the words “affiliates” appearing therein and inserting the words “Affiliates” in lieu thereof.
+
+(l)    Section 11.15(b) of the Credit Agreement is hereby amended by (i) inserting the following parenthetical immediately after the words “Any Lender may assign to one or more Persons” appearing therein: “(other than a natural person, the Borrower, and its Subsidiaries and Affiliates)” and (ii) deleting the parenthetical appearing in subclause (iv) thereof and inserting the following in lieu thereof: “(other than with respect to assignments to Affiliates and Approved Funds of any Lender and to Qualifying Investors of any Lender and its Affiliates).”
+
+(m)    Section 11.15(i)(ii) of the Credit Agreement is hereby amended by deleting the words “Disqualifying Institution” appearing therein and inserting the words “Disqualified Institution” in lieu thereof.
+
+(n)    Schedule 11.3 to the Credit Agreement is hereby amended by adding notice information for the Lenders as set forth in 
+
+Annex A
+
+ attached hereto.
+
+(o)    Exhibit B to the Credit Agreement is hereby amended and restated in its entirety as set forth in 
+
+Annex B
+
+ attached hereto.
+
+(p)    The Credit Agreement is hereby amended by adding a new Exhibit I thereto as set forth in 
+
+Annex C
+
+ attached hereto.
+
+6
+
+    
+
+SECTION 5.     
+
+REFERENCE TO AND EFFECT ON THE CREDIT AGREEMENT
+
+. On and after the Amendment Effective Date, (a) each reference in the Credit Agreement to “this Agreement,” “hereunder,” “hereof” or text of like import referring to the Credit Agreement shall mean and be a reference to the Amended Credit Agreement, (b) all references to the Credit Agreement in each of the other Finance Documents shall be deemed to be references to the Amended Credit Agreement, (c) each 2025 Incremental Lender shall constitute a “Lender” under and as defined in the Credit Agreement, (d) the 2025 Incremental Loans shall constitute “Loans” and (e) the 2025 Incremental Commitments shall constitute “Commitments”, under and as defined in the Credit Agreement. This Amendment shall for all purposes constitute a “Finance Document” under and as defined in the Amended Credit Agreement and the other Finance Documents.
+
+SECTION 6.     
+
+CONDITIONS PRECEDENT
+
+. This Amendment shall become effective as of the first date (the “
+
+Amendment Effective Date
+
+”) when the conditions set forth in this 
+
+Section 6
+
+ shall have been satisfied or waived in accordance with the Credit Agreement:
+
+     (a)    The Administrative Agent shall have received the following (in each case duly executed and delivered by the relevant parties):
+
+(i)    a duly executed written notice from the Borrower requesting Incremental Commitments pursuant to Section 2.12 of the Amended Credit Agreement;
+
+(ii)    counterparts of this Amendment executed by the Borrower, the Administrative Agent, the Collateral Agent, the 2025 Incremental Lenders and Lenders constituting Required Lenders;
+
+(iii)    (A) a reaffirmation agreement executed by each Credit Party and the Collateral Agent and in form and substance reasonably satisfactory to the Administrative Agent and the Collateral Agent, and (B) counterparts of a fee letter with respect to the 2025 Incremental Commitments and the 2025 Incremental Loans executed by the Borrower and the 2025 Incremental Lenders and in form and substance reasonably satisfactory to the 2025 Incremental Lenders;
+
+(iv)    a customary opinion from Latham & Watkins LLP, special New York and Delaware counsel to the Borrower, addressed to each Lender and each Agent, and in form and substance reasonably satisfactory to the Administrative Agent;
+
+(v)    a customary certificate of an Authorized Officer of each Credit Party dated the Amendment Effective Date and certifying (A) that either (x) attached thereto is a copy of the certificate or articles of incorporation, partnership agreement or limited liability agreement, including all amendments thereto, or other relevant Organic Documents under applicable law (as applicable) of each Credit Party, or (y) there has been no change to such Organic Documents since last delivered to the Administrative Agent, (B) that either (x) attached thereto is a true and complete copy of the by-laws, partnership agreement, limited liability company agreement or other equivalent Organic Documents (as applicable) of such Credit Party as in effect on the Amendment Effective Date and at all times since a date prior to the date of the resolutions described in clause (C) below and have not been amended since the date of the last amendment thereto disclosed or (y) there has been no change to such governing documents since last delivered to the Administrative Agent, (C) that attached thereto is a true and complete copy of resolutions duly adopted by the board of directors (or equivalent governing body) of such Credit Party or other applicable authorization, consent or action, as the case may be, authorizing the execution, delivery and performance of this Amendment by such Credit Party and any other document delivered by such Credit Party in connection herewith, and the borrowings hereunder and the reaffirmation of Liens under the Security Agreement, and that such resolutions have not been modified, rescinded or amended and are in full force and effect on the Amendment Effective Date, (D) to the extent not previously delivered to the Administrative Agent, as to the incumbency and specimen signature of each officer or director or other authorized representative executing this Amendment or any other document delivered in connection herewith on behalf of such Credit Party and (E) a certificate as to 
+
+7
+
+    
+
+the good standing (to the extent such concept or a similar concept exists under the laws of the applicable jurisdiction) of each Loan Party as of a recent date from the Secretary of State (or other similar official) in the jurisdiction or incorporation or organization of such Credit Party; and
+
+(vi)    a closing certificate of an Authorized Officer of the Borrower, dated as of the Amendment Effective Date, and certifying as to the matters set forth in clauses (b) through (e) below.
+
+(b)    (i) No Default or Event of Default shall have occurred and be continuing at the time of incurrence, or shall immediately result from the incurrence, of the 2025 Incremental Loans, and (ii) except for the matter set forth in Schedule 4.11 to the Credit Agreement, no “Default” or “Event of Default” under and as defined in any P1 Financing Document shall have occurred and be continuing.
+
+(c)    All representations and warranties of the Credit Parties shall be true and correct in all material respects (or, if qualified by “materiality,” “Material Adverse Effect” or similar language, in all respects after giving effect to such qualification) on and as of the Amendment Effective Date and after giving effect to such increase, as though made on and as of such date; 
+
+provided
+
+ that, to the extent that such representations and warranties specifically refer to an earlier date, they shall be true and correct in all material respects (or, if qualified by “materiality,” “Material Adverse Effect” or similar language, in all respects after giving effect to such qualification) as of such earlier date.
+
+(d)    The Borrower and its Subsidiaries shall be in compliance in all material respects with all material Government Rules applicable to such Person.
+
+(e)    There shall be no pending or to the Borrower’s Knowledge, threatened litigation or proceeding that has a reasonable likelihood of being adversely determined and, if adversely determined, could reasonably be expected to have a Material Adverse Effect.
+
+(f)    The Agents and the Lenders shall have been paid all fees (if any) required to be paid on the Amendment Effective Date as separately agreed in writing between the Borrower and such Lenders and Agents (including pursuant to the Fee Letters), and the Agents and the Lenders shall have been paid all reasonable and documented out-of-pocket legal and other expenses owing to them pursuant to, and in accordance with, the terms of the Amended Credit Agreement or as otherwise separately agreed in writing in connection with this Amendment and the related transactions contemplated hereby.
+
+SECTION 7.     
+
+REPRESENTATIONS AND WARRANTIES
+
+. The Borrower represents and warrants that:
+
+         (a)     The Borrower (i) is a limited liability company duly formed and validly existing under the laws of the State of Delaware, (ii) is duly qualified and in good standing (where relevant) under the laws of each jurisdiction where the conduct of its business requires such qualification except to the extent that failure to do so could not reasonably be expected to have a Material Adverse Effect, and (iii) has all requisite power and authority to perform all its Obligations (including as amended and increased pursuant to this Amendment) under this Amendment, the Amended Credit Agreement and the other Finance Documents to which it is or may become party, including the granting of security interests and Liens pursuant to the Security Documents.
+
+        (b)    The Borrower has taken all necessary action to authorize or ratify the performance by it of the Amended Credit Agreement, and the execution, delivery and performance by it of each of this Amendment and the other Finance Documents to which it is a party as have been executed and delivered by it as of the date hereof. The Borrower has duly authorized, executed and delivered this Amendment and each of the other Finance Documents to which, as of the date hereof, it is a party.
+
+        (c)     As of the date hereof, the Borrower has obtained all material Government Approvals necessary under applicable Government Rule in connection with the Borrower’s performance of 
+
+8
+
+    
+
+the Amended Credit Agreement and the Borrower’s execution, delivery and performance of this Amendment and the other Finance Documents to which it is a party.
+
+        (d)    Assuming due execution and delivery hereof by each other party hereto, each of this Amendment and the Amended Credit Agreement constitutes the legal, valid and binding obligation of the Borrower enforceable in accordance with its terms, except as the enforceability thereof may be limited by (i) applicable bankruptcy, insolvency, fraudulent conveyance, reorganization, moratorium and other similar laws affecting creditors’ rights generally and (ii) general equitable principles regardless of whether the issue of enforceability is considered in a proceeding in equity or at law.
+
+        (e)    The execution by the Borrower of this Amendment and the other Finance Documents to which it is a party, the borrowings under this Amendment, the consummation of the transactions contemplated hereby and thereby, and the compliance with the terms hereof and thereof, do not and will not (i) conflict with or violate the Borrower’s Organic Documents, (ii) violate any material Government Rule applicable to it where such violation could reasonably be expected to have a Material Adverse Effect, (iii) result in or create any Lien upon any of the revenues, properties or assets of the Borrower (other than Permitted Liens), or (iv) contravene or conflict with any material agreement which is binding upon the Borrower or any of its revenues, properties or assets, except where such contravention or conflict does not have and could not reasonably be expected to have a Material Adverse Effect.
+
+        (f)    (i) No Default or Event of Default has occurred and is continuing at the time of incurrence, or immediately results from the incurrence, of the 2025 Incremental Loans, (ii) except for the matter set forth in Schedule 4.11 to the Credit Agreement, no “Default” or “Event of Default” under and as defined in any P1 Financing Document has occurred and is continuing, and (iii) all representations and warranties of the Credit Parties are true and correct in all material respects (or, if qualified by “materiality,” “Material Adverse Effect” or similar language, in all respects after giving effect to such qualification) on and as of the Amendment Effective Date and after giving effect to such increase, as though made on and as of such date; 
+
+provided
+
+ that, to the extent that such representations and warranties specifically refer to an earlier date, they are true and correct in all material respects (or, if qualified by “materiality,” “Material Adverse Effect” or similar language, in all respects after giving effect to such qualification) as of such earlier date.
+
+SECTION 8.    
+
+RATIFICATION AND REAFFIRMATION
+
+. The Borrower and each other Credit Party hereby (a) agrees that all Loans (including, without limitation, the 2025 Incremental Loans made available on the Amendment Effective Date) shall be secured pursuant to the Security Agreement and the other Security Documents in accordance with the terms and provisions thereof, and (b) the Borrower and each other Credit Party hereby (i) reaffirms its prior grant and the validity of the Liens granted (or purported to be granted) by it pursuant to the Security Documents, (ii) agrees that, notwithstanding the effectiveness of this Amendment, after giving effect to this Amendment, the Liens pursuant to the Security Documents for the benefit of the Secured Parties (including, without limitation, the 2025 Incremental Lenders) continue to be in full force and effect and (iii) ratifies, reaffirms, acknowledges and confirms all of its obligations, liabilities and agreements under the Finance Documents to which it is a party, in each case after giving effect to this Amendment, all as provided in such Finance Documents (including, without limitation, its respective guarantees, pledges, and grants of security interests and Liens, as applicable, under and subject to the terms of the Finance Documents to which it is a party), and acknowledges and agrees that such guarantees, pledges, grants of security interests and Liens, obligations, liabilities and agreements are not impaired or affected in any manner whatsoever and shall continue to be in full force and effect in respect of, and to secure, the Obligations under the Credit Agreement and the other Finance Documents (including, without limitation, the Obligations with respect to the 2025 Incremental Loans), in each case after giving effect to this Amendment. The Borrower and each other Credit Party further acknowledges and agrees that neither the Administrative Agent, the Collateral Agent nor any Lender waives, diminishes or limits any term or condition contained in the Credit Agreement or in any of the other Finance Documents.
+
+SECTION 9.    
+
+MISCELLANEOUS PROVISIONS
+
+. 
+
+9
+
+    
+
+(a)    
+
+Ratification
+
+. This Amendment is limited to the matters specified herein and shall not constitute a modification, acceptance or waiver of any other provision of the Credit Agreement or any other Finance Document. Nothing herein contained shall be construed as a substitution or novation of the obligations outstanding under the Credit Agreement or any other Finance Document or instruments securing the same, which shall remain in full force and effect as modified hereby or by instruments executed concurrently herewith. This Amendment shall not constitute a novation of the Credit Agreement or any of the Finance Documents.
+
+(b)    
+
+Applicable Law; Submission to Jurisdiction, Etc.
+
+. 
+
+THIS AMENDMENT, AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER, SHALL BE CONSTRUED IN ACCORDANCE WITH AND GOVERNED BY THE LAWS OF THE STATE OF NEW YORK. SECTIONS 11.14(B) THROUGH (F) OF THE CREDIT AGREEMENT (INCLUDING WAIVER OF JURY TRIAL) ARE INCORPORATED BY REFERENCE HEREIN AS IF SUCH SECTIONS APPEARED HEREIN, 
+
+MUTATIS MUTANDIS
+
+.
+
+(c)    
+
+Severability
+
+. Section 11.6 of the Credit Agreement is incorporated by reference herein as if such Section appeared herein, 
+
+mutatis mutandis
+
+.
+
+(d)    
+
+Counterparts; Headings
+
+. This Amendment may be executed in any number of counterparts and by the different parties hereto on separate counterparts, each of which, when executed and delivered, shall be effective for purposes of binding the parties hereto, but all of which shall together constitute one and the same instrument. Delivery of an executed counterpart of a signature page of this Amendment by electronic means will for all purposes be treated as the equivalent of delivery of a manually executed counterpart of this Amendment. The words “execution,” “signed,” “signature,” and words of like import shall be deemed to include electronic signatures or the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided for in any applicable Government Rule, including the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act. Section headings used herein are for convenience of reference only, are not part of this Amendment and shall not affect the construction of, or be taken into consideration in interpreting, this Amendment.
+
+SECTION 10.    
+
+CERTAIN TAX MATTERS
+
+. The parties hereto shall treat the 2025 Incremental Loans as being fungible with the initial Loans funded on the Closing Date for U.S. federal income tax purposes except to the extent required to take a contrary position pursuant to a determination pursuant to Section 1313 of the Code.
+
+SECTION 11.    
+
+OID Legend
+
+. To the extent required by Sections 1272, 1273 and 1275 of the Code, and the Treasury Regulations promulgated thereunder, each note evidencing the 2025 Incremental Loans shall bear a legend in substantially the following form, and including (a) the name and title and (b) either the address or telephone number of an Authorized Officer of the Borrower who will provide the following information: “FOR THE PURPOSES OF SECTIONS 1272, 1273 AND 1275 OF THE INTERNAL REVENUE CODE OF 1986, AS AMENDED, THIS NOTE IS BEING ISSUED WITH ORIGINAL ISSUE DISCOUNT. UPON WRITTEN REQUEST, THE BORROWER WILL PROMPTLY MAKE AVAILABLE TO ANY HOLDER OF THIS NOTE THE FOLLOWING INFORMATION: (1) THE ISSUE PRICE AND THE ISSUE DATE, (2) THE AMOUNT OF ORIGINAL ISSUE DISCOUNT ON THE NOTE AND (3) THE YIELD TO MATURITY OF THE NOTE.”
+
+    [
+
+Remainder of page intentionally blank; signatures begin next page
+
+]    
+
+10
+
+    
+
+IN WITNESS WHEREOF, the parties hereto have caused their duly authorized officers to execute and deliver this Amendment as of the date first above written.
+
+RIO GRANDE LNG SUPER HOLDINGS, LLC, as the Borrower 
+
+By:
+
+/s/ Vera de Gyarfas
+
+Name: Vera de Gyarfas
+
+Title: General Counsel and Secretary
+
+ATLANTIC PARK STRATEGIC CAPITAL MASTER FUND II, L.P., 
+as Administrative Agent 
+
+By:
+
+/s/ George Fan
+
+Name: George Fan 
+
+Title: Authorized Signatory 
+
+ATLANTIC PARK STRATEGIC CAPITAL MASTER FUND II, L.P., 
+as Collateral Agent 
+
+By:
+
+/s/ George Fan
+
+Name: George Fan
+
+Title: Authorized Signatory 
+
+APSC II HOLDCO I, L.P., as a 2025 Incremental Lender and as a Lender 
+
+By:
+
+/s/ George Fan
+
+Name: George Fan
+
+Title: Authorized Signatory 
+
+BARDIN HILL OPPORTUNISTIC CREDIT MASTER (US) FUND II, L.P. FUND II, L.P., as a 2025 Incremental Lender and as a Lender 
+By: Bardin Hill Investment LP, its manager 
+
+By:
+
+/s/ John Freese
+
+Name: John Freese
+
+Title: Authorized Signatory
+
+Signature Page to First Amendment to Credit Agreement
+
+Schedule 1
+
+2025 Incremental Commitments
+
+2025 Incremental Lender
+
+2025 Incremental Commitment
+
+Applicable Percentage
+
+APSC II HOLDCO I, L.P.
+
+$30,000.000
+
+    60%
+
+BARDIN HILL OPPORTUNISTIC CREDIT MASTER (US) FUND II LP
+
+$20,000,000
+
+    40%
+
+Total
+
+$50,000,000
+
+    100%
+
+12
+
+    
+
+Annex A
+
+Supplement to Schedule 11.3 to Credit Agreement
+
+Addresses for Notices
+
+To APSC II HOLDCO I, L.P.:
+
+55 E 52nd St, 33rd Floor
+
+New York, NY 10055
+
+Attn: Viral Naik / James Varian / Joseph Noonan / Ken Massa / 
+
+Mark McGinley / c/o General Atlantic Credit
+
+Tel: [***]
+
+Email: [***],
+
+ 
+
+To Bardin Hill Opportunistic Credit Master (US) Fund II LP:
+
+c/o Bardin Hill Investment Partners LP
+
+299 Park Ave., 24
+
+th
+
+ Floor
+
+New York, NY 10171
+
+Attn: [***]
+
+13

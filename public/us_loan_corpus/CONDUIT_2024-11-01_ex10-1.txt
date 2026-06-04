@@ -1,0 +1,1118 @@
+EX-10.1
+
+6
+
+ex10-1.htm
+
+ 
+
+ 
+
+Exhibit 10.1
+
+ 
+
+BRIDGE
+LOAN AGREEMENT
+
+ 
+
+Dated
+as of October 29, 2024
+
+ 
+
+Conduit
+Pharmaceuticals Inc., a Delaware corporation (the “
+
+Borrower
+
+”), and A.G.P./Alliance Global Partners (the “
+
+Lender
+
+”)
+agree as follows:
+
+ 
+
+Article
+I 
+
+AMOUNTS
+AND TERMS OF THE ADVANCES
+
+ 
+
+Section
+1.01. 
+
+The Advances.
+
+ 
+
+The
+Lender agrees, on the terms and conditions hereinafter set forth, to make an advance (the “
+
+Advance
+
+”) to the
+Borrower, into the account of the Borrower at the Lender, on the date hereof in an amount not to exceed $600,000.00 (the “
+
+Commitment
+
+”).
+
+ 
+
+Section
+1.02. 
+
+Making the Advance.
+
+ 
+
+(a) The
+Advance shall be made on the date hereof, subject to the conditions below, upon receipt by the Lender of written notice (the “
+
+Advance
+Notice
+
+”), given by the Borrower to the Lender on the date hereof. Not later than 11:00 A.M. (New York City time) on the
+date hereof and upon fulfillment of the applicable conditions set forth in Article II, the Lender will make such Advance available to
+the Borrower in same day funds in the account of the Borrower at the Lender.
+
+ 
+
+(b) The
+Advance Notice shall be irrevocable and binding on the Borrower. The Borrower shall indemnify the Lender against any loss or reasonable
+and documented out of pocket cost or expense incurred by the Lender as a result of any failure to fulfill on or before the date specified
+in the Advance Notice for the Advance, the applicable conditions set forth in Article II, including, without limitation, any loss, cost
+or expense incurred by reason of the liquidation or reemployment of deposits or other funds acquired by the Lender to fund the Advance
+when the Advance, as a result of such failure, is not made on such date.
+
+ 
+
+Section
+1.03. 
+
+Warrant. 
+
+As
+partial consideration for the Advance, the Company agrees to issue the Lender a warrant to purchase shares of the Borrower’s common
+stock in an amount equal to 50% of the sum of the Commitment divided by the closing price of the Borrower’s common stock as of
+the date of this Bridge Loan Agreement, in the form annexed hereto as Exhibit B (the “
+
+Warrant
+
+”).
+
+ 
+
+Section
+1.04. 
+
+Repayment.
+
+ 
+
+The
+Borrower shall repay the aggregate unpaid principal amount of the Advance in accordance with a promissory note of the Borrower, in substantially
+the form of Exhibit A hereto (the “
+
+Note
+
+”), evidencing the indebtedness resulting from the Advance and delivered
+to the Lender pursuant to Article II.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section
+1.05. 
+
+Interest.
+
+ 
+
+The
+Borrower shall pay interest on the unpaid principal amount of the Advance from the date of such Advance until such principal amount shall
+be paid in full, at a rate equal at all times to 4.21% per annum.
+
+ 
+
+Section
+1.06. 
+
+Prepayments.
+
+ 
+
+The
+Borrower shall have the right prior to the Maturity Date to prepay, plus any accrued but unpaid interest thereon, any principal amount
+of the Advance.
+
+ 
+
+Section
+1.07. 
+
+Certain Definitions.
+
+ 
+
+(a)
+“
+
+Business Day
+
+” means a day of the year on which banks are not required or authorized to close in New York City.
+
+ 
+
+(b)
+“
+
+Maturity Date
+
+” means December 31, 2024.
+
+ 
+
+Section
+1.08. 
+
+Payments and Computations.
+
+ 
+
+(a) The
+Borrower shall repay all of the outstanding balance of the Advance hereunder and under the Note, as well as any accrued and unpaid interest
+and fees not later than 11:00 A.M. (New York City time) on the Maturity Date in U.S. dollars to the Lender at its address referred to
+in Section 6.03 in same day funds.
+
+ 
+
+(b) The
+Borrower hereby authorizes the Lender, if and to the extent payment is not made when due hereunder or under the Note, to charge from
+time to time against any or all of the Borrower’s accounts with the Lender any amount so due.
+
+ 
+
+(c) All
+computations of interest shall be made by the Lender on the basis of a year of 360 days.
+
+ 
+
+Article
+II 
+
+CONDITIONS
+OF LENDING
+
+ 
+
+Section
+2.01. 
+
+Condition Precedent to Initial Advance.
+
+ 
+
+The
+obligation of the Lender to make the Advance is subject to the condition precedent that the Lender shall have received on or before the
+day of such Advance the following, each dated such day, in form and substance reasonably satisfactory to the Lender:
+
+ 
+
+(a)
+The Note.
+
+ 
+
+(b) Certified
+copies of the resolutions of the Board of Directors of the Borrower approving this Agreement and the Note, and of all documents evidencing
+other necessary corporate action and governmental approvals, if any, with respect to this Agreement and the Note.
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c) A
+certificate of the Chief Executive Officer of the Borrower certifying (1) that each of the representations and warranties contained in
+Section 3.01 hereof are true in all material respects (without duplication of materiality) and shall be true in all material respects
+(without duplication of materiality) on the date of the Advance (or such earlier date, if so specified); (2) that no event has occurred
+and is continuing, or would result from such Advance or from the application of the proceeds therefrom, which constitutes an Event of
+Default (as defined in Section 5.01 hereof) or would constitute an Event of Default but for the requirement that notice be given or time
+elapse or both; and (3) the names and true signatures of the officers of the Borrower authorized to sign this Agreement and the Note
+and the other documents to be delivered hereunder.
+
+ 
+
+(d) An
+opinion of Thompson Hine LLP, counsel for the Borrower, in form and substance reasonably satisfactory to the Lender with respect to such
+customary matters as the Lender may reasonably request.
+
+ 
+
+(e) The
+Advance Notice.
+
+ 
+
+(f) Receipt
+of such other approvals or documents as the Lender may reasonably request.
+
+ 
+
+(e) A
+duly executed Warrant.
+
+ 
+
+Article
+III 
+
+REPRESENTATIONS
+AND WARRANTIES
+
+ 
+
+Section
+3.01. 
+
+Representations and Warranties of
+the Borrower.
+
+ 
+
+The
+Borrower represents and warrants as follows:
+
+ 
+
+(a) The
+Borrower is a corporation duly incorporated, validly existing and in good standing under the laws of the jurisdiction indicated at the
+beginning of this Agreement.
+
+ 
+
+(b) The
+execution, delivery and performance by the Borrower of this Agreement and the Note are within the Borrower’s corporate powers,
+have been duly authorized by all necessary corporate action, and do not contravene (i) the Borrower’s certificate of incorporation
+or by-laws or (ii) law or any contractual restriction binding on or affecting the Borrower, except, in the case of this clause (ii),
+to the extent it could not reasonably be expected to have a material adverse change on the Borrower.
+
+ 
+
+(c) No
+authorization or approval or other action by, and no notice to or filing with, any governmental authority or regulatory body is required
+for the due execution, delivery and performance by the Borrower of this Agreement or the Note, except for those that have otherwise been
+obtained or made on or prior to the date hereof and which remain in full force and effect on the date that the Borrower receives the
+initial Advance.
+
+ 
+
+(d) This
+Agreement is, and the Note when delivered hereunder will be, legal, valid and binding obligations of the Borrower enforceable against
+the Borrower in accordance with their respective terms, subject to bankruptcy, insolvency or other laws of general application relating
+to the enforcement of creditors’ rights.
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+(e) The
+consolidated financial statements of the Borrower included or incorporated by reference in the Company’s Registration Statement
+on Form S-3 (the “
+
+Registration Statement
+
+”) filed with the Securities and Exchange Commission (the “
+
+SEC
+
+”)
+on October 24, 2024 and the Prospectus included therein (the “
+
+Prospectus
+
+”), together with the related notes
+and schedules, present fairly, in all material respects, the consolidated financial position of the Borrower and its subsidiaries as
+of the dates indicated and the consolidated statement of operations, consolidated statement of cash flows and consolidated statement
+of stockholders’ equity (deficit) of the Borrower for the periods specified, except that such unaudited financial statements are
+subject to normal year-end adjustments and lack footnotes required by GAAP, and have been prepared in compliance in all material respects
+with the requirements of the Securities Act of 1933, as amended, and Exchange Act of 1934, as amended, as applicable, and in conformity
+with generally accepted accounting principles (“
+
+GAAP
+
+”) in the United States as in effect as of the time of
+filing applied on a consistent basis (except for such adjustments to accounting standards and practices as are noted therein) during
+the periods involved.
+
+ 
+
+(f) There
+is no pending or, to the knowledge of the Borrower, threatened action or proceeding affecting the Borrower or any of its subsidiaries
+before any court, governmental agency or arbitrator, which may materially adversely affect the financial condition or operations of the
+Borrower or any subsidiary or which purports to affect the legality, validity or enforceability of this Agreement or the Note.
+
+ 
+
+(g) The
+Borrower is not engaged in the business of extending credit for the purpose of purchasing or carrying margin stock (within the meaning
+of Regulation U issued by the Board of Governors of the Federal Reserve System), and no proceeds of any Advance will be used to purchase
+or carry any margin stock or to extend credit to others for the purpose of purchasing or carrying any margin stock.
+
+ 
+
+Article
+IV 
+
+COVENANTS
+OF THE BORROWER
+
+ 
+
+Section
+4.01. 
+
+Affirmative Covenants.
+
+ 
+
+So
+long as the Note shall remain unpaid or the Lender shall have any Commitment hereunder, the Borrower will, unless the Lender shall otherwise
+consent in writing:
+
+ 
+
+(a) 
+Use
+of Proceeds
+. Only use the proceeds from the Advance for working capital and general corporate purposes.
+
+ 
+
+(b) 
+Compliance
+with Laws, Etc
+. Comply, and cause each of its subsidiaries to comply, in all material respects with all applicable laws, rules, regulations
+and orders, such compliance to include, without limitation, paying before the same become delinquent all taxes, assessments and governmental
+charges imposed upon it or upon its property except to the extent contested in good faith.
+
+ 
+
+(c) 
+Reporting
+Requirements
+. Furnish to the Lender such information respecting the condition or operations, financial or otherwise, of the Borrower
+or any of its subsidiaries as the Lender may from time to time reasonably request.
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+(d) 
+Stockholder
+Approval
+. The Borrower shall hold an annual or special meeting of stockholders on or prior to the date that is ninety (90) days following
+the issuance date of the Warrant for the purpose of obtaining the approval of the Borrower’s stockholders as may be required under
+Nasdaq rules to permit the exercise of the Warrant (the “
+
+Stockholder Approval
+
+”), with the recommendation of
+the Borrower’s Board of Directors that such proposals are approved, and the Borrower shall solicit proxies from its stockholders
+in connection therewith in the same manner as all other management proposals in such proxy statement and all management-appointed proxyholders
+shall vote their proxies in favor of such proposals. If the Borrower does not obtain Stockholder Approval at the first meeting, the Borrower
+shall call a meeting every ninety (90) days thereafter to seek Stockholder Approval until the Stockholder Approval is obtained.
+
+ 
+
+(e) 
+Sales
+Agreement Use of Proceeds
+. The Borrower covenants and agrees that any and all proceeds generated from the sale if its securities
+pursuant to the terms of the Sales Agreement with the Lender dated October 23, 2024 (the “
+
+Sales Agreement
+
+”),
+shall be used to repay the Commitment, plus all accrued and unpaid interest, until such amounts are repaid in full.
+
+ 
+
+(f) 
+Waiver
+of Side Letter Condition
+. Reference is made to that certain side letter executed by and between the Lender and the Borrower, dated
+September 22, 2023 (the “
+
+Side Letter
+
+”). Pursuant to the terms of the Side Letter, the Lender and Borrower agreed
+that 25% of the net proceeds of any Capital Raise (as defined in the Side Letter) would be paid to the Lender until the full Deferred
+Amount (as defined in the Side Letter) has been paid (the “
+
+Capital Repayment Condition
+
+”). The Lender and Borrower
+hereby covenant and agree to waive the Capital Repayment Condition until such time as the Commitment, plus all accrued and unpaid interest,
+are repaid to the Lender in full. After such repayment, the Capital Repayment Condition shall continue to remain in effect until the
+Deferred Amount (as defined in the Side Letter) is repaid in full, however the Capital Repayment Condition shall not be paid from proceeds
+raised from the Sales Agreement.
+
+ 
+
+Section
+4.02. 
+
+Negative Covenants.
+
+ 
+
+So
+long as the Note shall remain unpaid or the Lender shall have any Commitment hereunder, the Borrower will not, without the written consent
+of the Lender:
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a) 
+Liens,
+Etc
+. Create or suffer to exist, or permit any of its subsidiaries to create or suffer to exist, any lien, security interest or other
+charge or encumbrance, or any other type of preferential arrangement, upon or with respect to any of its properties, whether now owned
+or hereafter acquired, or assign, or permit any of its subsidiaries to assign, any right to receive income, in each case to secure or
+provide for the payment of any Debt, except for Permitted Liens. “
+
+Permitted Liens
+
+” means (i) liens for taxes
+not yet due and payable, for less than $100,000 in the aggregate, or which are being contested in good faith by appropriate proceedings
+diligently pursued, provided that provision for the payment of all such taxes has been made on the books of such person as may be required
+by GAAP, consistently applied; (ii) mechanics’, materialmen’s, banker’s, carriers’, warehousemen’s and
+similar liens and encumbrances arising in the ordinary course of business and securing obligations of such person that are not overdue
+for a period of more than 60 days, for less than $100,000 in the aggregate, or are being contested in good faith by appropriate proceedings
+diligently pursued, provided that in the case of any such contest (1) any proceedings commenced for the enforcement of such liens and
+encumbrances shall have been duly suspended; and (2) such provision for the payment of such liens and encumbrances has been made on the
+books of such person as may be required by GAAP, consistently applied; (iii) liens arising in connection with worker’s compensation,
+unemployment insurance, old age pensions and social security benefits and similar statutory obligations which are not overdue, for less
+than $100,000 in the aggregate, or are being contested in good faith by appropriate proceedings diligently pursued, provided that in
+the case of any such contest (1) any proceedings commenced for the enforcement of such liens shall have been duly suspended; and (2)
+such provision for the payment of such liens has been made on the books of such person as may be required by GAAP, consistently applied;
+(iv) liens incurred in the ordinary course of business to secure the performance of statutory obligations arising in connection with
+progress payments or advance payments due under contracts with the United States government or any agency thereof entered into in the
+ordinary course of business; (v) liens incurred or deposits made in the ordinary course of business to secure the performance of statutory
+obligations, bids, leases, fee and expense arrangements with trustees and fiscal agents and other similar obligations (exclusive of obligations
+incurred in connection with the borrowing of money, any lease-purchase arrangements or the payment of the deferred purchase price of
+property), provided that full provision for the payment of all such obligations set forth in clauses (iv) and (v) has been made on the
+books of such person as may be required by GAAP, consistently applied; (vi) (1) liens arising in connection with capital leases (and
+attaching only to the property being leased and the proceeds thereof), (2) liens that constitute purchase money security interests on
+any property securing debt incurred for the purpose of financing all or any part of the cost of acquiring such property, provided that
+any such lien attaches to such property within ninety (90) days of the acquisition thereof and attaches solely to the property so acquired
+and the proceeds thereof, and (3) any lien existing on any property or asset prior to the acquisition thereof by the Borrower or any
+subsidiary of the Borrower or existing on any property or asset of any person that becomes a subsidiary of the Borrower after the date
+of this Agreement prior to the time such person becomes a subsidiary of the Borrower, provided that such lien is not created in contemplation
+of or in connection with such acquisition or such person becoming a subsidiary of the Borrower, as the case may be, and extensions, renewals
+and replacements thereof that do not increase the outstanding principal amount thereof except by the amount of any interest, premiums
+or penalties required to be paid plus fees and expenses associated therewith; (vii) attachments, appeal bonds, judgments and other similar
+liens arising in connection with court or legal proceedings, which do not result in an Event of Default, provided the execution or other
+enforcement of such liens is effectively stayed and the claims secured thereby are being actively contested in good faith and by appropriate
+proceedings; (viii) survey exceptions, easements, zoning and other statutory restrictions, rights of way, restrictions, land use or similar
+laws and regulations affecting real property, minor defects or irregularities in title and other similar liens not interfering in any
+material respect with the ordinary conduct of the business of the Borrower; (ix) deposits to secure the performance of bids, trade contracts,
+leases and other obligations of a like nature, in each case, in the ordinary course of business; (x) customary rights of set-off, revocation,
+refund or chargeback under deposit agreements or under the Uniform Commercial Code or common law of banks or other financial institutions
+where the Borrower or any of its subsidiaries maintains deposits in the ordinary course of business; (xi) any interest or title of a
+lessor, sublessor, licensor or sublicensor under any lease or license permitted hereunder and any leases, subleases, licenses or sublicenses
+granted by the Borrower or any of its subsidiaries to third parties in the ordinary course of business and not interfering in any material
+respect with the business of the Borrower or such subsidiary; (xii) purported liens evidenced by the filing of precautionary UCC financing
+statements relating solely to operating leases of personal property entered into in the ordinary course of business; (xiii) other liens;
+provided that aggregate amount of all obligations of the Borrower and its subsidiaries secured by such liens does not exceed $100,000
+at any time outstanding and so long as such liens do not attach to accounts receivable or inventory of the Borrower; and (xiv) liens
+incurred in connection with the restructuring or refinancing of any Debt as described in the Registration Statement and the Prospectus.
+
+ 
+
+ 
+
+6
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b) 
+Debt
+.
+Create or suffer to exist, or permit any of its subsidiaries to create or suffer to exist, any Debt other than as described in the Registration
+Statement and the Prospectus, including any filings with the SEC made by Borrower that are incorporated by reference therein, prior to
+the date hereof and other Permitted Debt; provided that the Borrower shall be permitted to restructure or refinance any Debt described
+in the Registration Statement and the Prospectus (provided that such restructured or refinanced Debt (A) is not for a greater principal
+amount than the existing Debt, (B) does not purport to restrict the repayment of indebtedness under this Agreement and the Note, and
+(C) no Event of Default shall have occurred and be continuing hereunder). “
+
+Debt
+
+” means (i) indebtedness for
+borrowed money, (ii) obligations evidenced by bonds, debentures, notes or other similar instruments, (iii) obligations to pay the deferred
+purchase price of property or services, (iv) obligations as lessee under leases which shall have been or should be, in accordance with
+generally accepted accounting principles, recorded as capital leases, (v) obligations under direct or indirect guaranties in respect
+of, and obligations (contingent or otherwise) to purchase or otherwise acquire, or otherwise to assure a creditor against loss in respect
+of, indebtedness or obligations of others of the kinds referred to in clause (i) through (iv) above, and (vi) liabilities in respect
+of unfunded vested benefits under plans covered by Title IV of ERISA. “
+
+Permitted Debt
+
+” means (i) indebtedness
+arising hereunder; (ii) current unsecured trade payables and accrued liabilities arising in the ordinary course of the Borrower’s
+business (including, without limitation, obligations under operating leases); (iii) purchase money indebtedness and capital leases incurred
+in connection with the acquisition of fixed assets in an aggregate amount not exceeding $50,000 at any one time outstanding; (iv) indebtedness
+of a subsidiary acquired after the date of this Agreement or an entity merged into or consolidated with the Borrower or any subsidiary
+of the Borrower after the date of this Agreement and indebtedness assumed in connection with the acquisition of assets, which indebtedness,
+in each case, exists at the time of such acquisition, merger or consolidation and is not created in contemplation of such event and where
+such acquisition, merger or consolidation is permitted by this Agreement; (v) indebtedness in respect of netting services, overdraft
+protection and otherwise in connection with deposit accounts or similar accounts incurred in the ordinary course of business, provided
+such debt is extinguished within five (5) days of its incurrence; (vi) indebtedness incurred in the ordinary course of business in connection
+with the financing of insurance premiums of the Borrower or any of its subsidiaries; (vii) indebtedness arising from agreements of the
+Borrower providing for indemnification, adjustment of purchase price or acquisition price or similar obligations (including earn-outs),
+in each case, incurred or assumed in connection with the acquisition contemplated on the date hereof; and (viii) other indebtedness of
+Borrower in an aggregate amount not in excess of $50,000 in the aggregate at any time outstanding.
+
+ 
+
+ 
+
+7
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c) 
+Dividends,
+Etc
+. Declare or make any dividend payment or other distribution of assets, properties, cash, rights, obligations or securities on
+account of any shares of any class of capital stock of the Borrower, or purchase, redeem or otherwise acquire for value (or permit any
+of its subsidiaries to do so) any shares of any class of capital stock of the Borrower or any warrants, rights or options to acquire
+any such shares, now or hereafter outstanding, except that the Borrower may (i) declare and make any dividend payment or other distribution
+payable in common stock of the Borrower, and (ii) purchase, redeem or otherwise acquire shares of its common stock or warrants, rights
+or options to acquire any such shares with the proceeds received from the substantially concurrent issue of new shares of its common
+stock, 
+provided,
+ that, immediately after giving effect to such proposed action, no Event of Default or event which, with the giving
+of notice or lapse of time, or both, would constitute an Event of Default would exist.
+
+ 
+
+(d) 
+Mergers,
+Etc
+. Merge or consolidate with or into, or convey, transfer, lease or otherwise dispose of (whether in one transaction or in a series
+of transactions) all or substantially all of its assets (whether now owned or hereafter acquired) to any person or entity, or permit
+any of its subsidiaries to do so, except for Permitted Dispositions. “
+
+Permitted Dispositions
+
+” means (i) sales
+of inventory in the ordinary course of its business, (ii) disposition of (1) surplus, obsolete, worn out, replaced, no longer used or
+useful, unmerchantable, or unsalable equipment in the ordinary course of business and (2) assets of Borrower to the extent the market
+value of the property so disposed of does not exceed $100,000 during any single fiscal year, (iii) abandonment, lapse or other dispositions
+of intellectual property that is, in the reasonable good faith judgment of the Borrower or its subsidiary, either no longer economically
+practicable or commercially desirable to maintain or no longer necessary for the conduct of the business of the Borrower or any of its
+subsidiaries, (iv) dispositions of cash or cash equivalents, in each case, in a manner not prohibited by the other terms of this Agreement,
+(v) sales, transfers and other dispositions of accounts receivable (or notes accepted to evidence same) in connection with the compromise,
+settlement or collection thereof in the ordinary course of business, (vi) the lease, assignment, license or sub-license or sub-lease
+of any real or personal property in the ordinary course of business to the extent the same does not materially interfere with the business
+of the Borrower, (vii) the license or sublicense of intellectual property, (viii) the granting of Permitted Liens, (ix) any involuntary
+loss, damage or destruction of property; and (x) any involuntary condemnation, seizure or taking, by exercise of the power of eminent
+domain or otherwise, or confiscation or requisition of use of property.
+
+ 
+
+Article
+V 
+
+EVENTS
+OF DEFAULT
+
+ 
+
+Section
+5.01. 
+
+Events of Default.
+
+ 
+
+If
+any of the following events (“
+
+Events of Default
+
+”) shall occur and be continuing:
+
+ 
+
+(a) The
+Borrower shall fail to pay any principal of, or interest on, the Note when the same becomes due and payable; or
+
+ 
+
+(b) Any
+representation or warranty made by the Borrower herein or by the Borrower (or any of its officers) in connection with this Agreement
+shall prove to have been incorrect in any material respect when made; or
+
+ 
+
+ 
+
+8
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c) The
+Borrower shall fail to perform or observe any term, covenant or agreement contained in this Agreement if such failure shall remain unremedied
+for five (5) Business Days after written notice thereof shall have been given to the Borrower by the Lender; or
+
+ 
+
+(d) The
+Borrower or any of its subsidiaries shall generally not pay its debts as such debts become due, or shall admit in writing its inability
+to pay its debts generally, or shall make a general assignment for the benefit of creditors; or any proceeding shall be instituted by
+or against the Borrower or any of its subsidiaries seeking to adjudicate it a bankrupt or insolvent, or seeking liquidation, winding
+up, reorganization, arrangement, adjustment, protection, relief, or composition of it or its debts under any law relating to bankruptcy,
+insolvency or reorganization or relief of debtors, or seeking the entry of an order for relief or the appointment of a receiver, trustee,
+custodian or other similar official for it or for any substantial part of its property and, in the case of any such proceeding instituted
+against it (but not instituted by it), either such proceeding shall remain undismissed or unstayed for a period of 30 days, or any of
+the actions sought in such proceeding (including, without limitation, the entry of an order for relief against, or the appointment of
+a receiver, trustee, custodian or other similar official for, it or for any substantial part of its property) shall occur; or the Borrower
+or any of its subsidiaries shall take any corporate action to authorize any of the actions set forth above in this subsection (d); then,
+and in any such event, the Lender (i) may, by notice to the Borrower, declare its obligation to make the Advance to be terminated, whereupon
+the same shall forthwith terminate, and (ii) may, by notice to the Borrower, declare the Note, all interest thereon and all other amounts
+payable under this Agreement to be forthwith due and payable, whereupon the Note, all such interest and all such amounts shall become
+and be forthwith due and payable, without presentment, demand, protest, or further notice of any kind, all of which are hereby expressly
+waived by the Borrower; 
+provided, however,
+ that in the event of an actual or deemed entry of an order for relief with respect
+to the Borrower or any of its subsidiaries under the Federal Bankruptcy Code, (a) the obligation of the Lender to make Advances shall
+automatically be terminated and (b) the Advances, the Note, all such interest and all such amounts shall automatically become and be
+due and payable, without presentment, demand, protest or any notice of any kind, all of which are hereby expressly waived by the Borrower.
+
+ 
+
+Article
+VI 
+
+MISCELLANEOUS
+
+ 
+
+Section
+6.01. 
+
+Termination of Certain Payment Obligations.
+
+ 
+
+The
+Fee Letter Agreement, effective September 22, 2023, between the Borrower and the Lender (the “Letter Agreement”) provides
+that the Borrower must pay to the Lender 25% of all net proceeds received in any Capital Raise, as defined in the Letter Agreement (the
+“Payment Obligation”). The Payment Obligation is terminated immediately.
+
+ 
+
+Section
+6.02. 
+
+Amendments, Etc.
+
+ 
+
+No
+amendment or waiver of any provision of this Agreement or the Note, nor consent to any departure by the Borrower therefrom, shall in
+any event be effective unless the same shall be in writing and signed by the Lender, and then such waiver or consent shall be effective
+only in the specific instance and for the specific purpose for which given.
+
+ 
+
+ 
+
+9
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section
+6.03. 
+
+Notices, Etc.
+
+ 
+
+All
+notices and other communications required or permitted to be given by any party to any other party pursuant to the terms of this Agreement
+shall be in writing, unless otherwise specified, and shall be delivered: if to the Borrower, at its address at 4995 Murphy Canyon Road,
+Suite 300, San Diego, CA 92123, Attention: David Tapolczay; and if to the Lender, at its address at 590 Madison Avenue, 28th Floor, New
+York, NY 10022, Attention: Thomas J Higgins, Managing Director (thiggins@allianceg.com); or, as to each party, at such other address
+as shall be designated by such party in a written notice to the other party. Each such notice or other communication shall be deemed
+given (i) when delivered personally, by email or by verifiable facsimile transmission (with an original to follow) on or before 4:30
+p.m., New York City time, on a Business Day or, if such day is not a Business Day, on the next succeeding Business Day, (ii) on the next
+Business Day after timely delivery to a nationally-recognized overnight courier and (iii) on the Business Day actually received if deposited
+in the U.S. mail (certified or registered mail, return receipt requested, postage prepaid).
+
+ 
+
+Section
+6.04. 
+
+No Waiver; Remedies.
+
+ 
+
+No
+failure on the part of the Lender to exercise, and no delay in exercising, any right hereunder or under the Note shall operate as a waiver
+thereof; nor shall any single or partial exercise of any such right preclude any other or further exercise thereof or the exercise of
+any other right. The remedies herein provided are cumulative and not exclusive of any remedies provided by law.
+
+ 
+
+Section
+6.05. 
+
+Costs, Expenses and Taxes.
+
+ 
+
+The
+Borrower agrees to pay promptly after demand all reasonable and documented costs and expenses in connection with the preparation, execution,
+delivery, administration, modification and amendment of this Agreement, the Note and the other documents to be delivered hereunder, including,
+without limitation, plus disbursements for searches, recordings and similar expenses for counsel for the Lender with respect to the negotiation
+and delivery of this Agreement and the Note, in all cases in an amount not to exceed $25,000. The Borrower further agrees to pay promptly
+after demand all reasonable and documented costs and expenses, if any (including reasonable outside counsel fees and expenses), in connection
+with the enforcement (whether through negotiations, legal proceedings or otherwise) of this Agreement, the Note and the other documents
+to be delivered hereunder, including, without limitation, reasonable outside counsel fees and expenses in connection with the enforcement
+of rights under this Section 6.05. In addition, the Borrower shall pay any and all stamp and other taxes payable or determined to be
+payable in connection with the execution and delivery of this Agreement, the Note and the other documents to be delivered hereunder,
+and agrees to save the Lender harmless from and against any and all liabilities with respect to or resulting from any delay in paying
+or omission to pay such taxes.
+
+ 
+
+ 
+
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section
+6.06. 
+
+Right of Set-off.
+
+ 
+
+Upon
+the occurrence and during the continuance of any Event of Default the Lender is hereby authorized at any time and from time to time,
+to the fullest extent permitted by law, to set off and apply any and all deposits (general or special, time or demand, provisional or
+final, but excluding balances held or assets in respect of payroll accounts, employee benefit accounts, trust accounts, withholding accounts
+and other similar fiduciary accounts to the extent such funds are necessary to pay payroll, employee benefits and other similar payments
+accrued and/or payable in the ordinary course of business) at any time held and other indebtedness at any time owing by the Lender to
+or for the credit or the account of the Borrower against any and all of the obligations of the Borrower now or hereafter existing under
+this Agreement and the Note, whether or not the Lender shall have made any demand under this Agreement or the Note and although such
+obligations may be unmatured. The Lender agrees promptly to notify the Borrower after any such set-off and application, 
+provided
+
+that the failure to give such notice shall not affect the validity of such set-off and application. The rights of the Lender under this
+Section are in addition to other rights and remedies (including, without limitation, other rights of set-off) which the Lender may have.
+
+ 
+
+Section
+6.07. 
+
+Binding Effect.
+
+ 
+
+This
+Agreement shall be binding upon and inure to the benefit of the Borrower and the Lender and their respective successors and assigns,
+except that the Borrower shall not have the right to assign its rights hereunder or any interest herein without the prior written consent
+of the Lender. This Agreement and the Note may not be assigned or transferred by the Lender to any person other than (a) an affiliate
+of the Lender or (b) so long as no Event of Default is then continuing, any other person (other than a natural person) in the business
+of making loans and other extensions of credit with the prior written consent of the Borrower. The Lender may pledge this Agreement and
+the Note and grant security interests herein and therein to any financing source of the Lender.
+
+ 
+
+Section
+6.08. 
+
+Governing Law.
+
+ 
+
+This
+Agreement and the Note shall be governed by, and construed in accordance with, the laws of the State of New York.
+
+ 
+
+[Signature
+Page Follows]
+
+ 
+
+ 
+
+11
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF,
+ the parties hereto have caused this Agreement to be executed by their respective officers thereunto duly authorized,
+as of the date first above written.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CONDUIT
+ PHARMACEUTICALS INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ James Bligh
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Name:
+
+ 
+ James Bligh
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+ Interim Chief Financial Officer
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A.G.P./ALLIANCE
+ GLOBAL PARTNERS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Thomas J. Higgins
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Name:
+
+ 
+
+Thomas J. Higgins
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Title:
+
+ 
+
+ Managing Director

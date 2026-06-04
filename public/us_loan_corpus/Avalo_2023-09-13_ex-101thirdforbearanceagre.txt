@@ -1,0 +1,384 @@
+EX-10.1
+
+2
+
+ex-101thirdforbearanceagre.htm
+
+EX-10.1
+
+Document
+
+Exhibit 10.1
+
+THIRD FORBEARANCE AGREEMENT
+
+This THIRD FORBEARANCE AGREEMENT (this “
+
+Agreement
+
+”) is made as of September 13, 2023, by and among (i) Avalo Therapeutics, Inc. (f/k/a Cerecor Inc.), a Delaware corporation (the “
+
+Borrower
+
+”), (ii) Horizon Credit II LLC, Horizon Funding Trust 2019-1, Horizon Funding I, LLC, and Powerscourt Investments XXV Trust, as lenders (collectively, the “
+
+Lenders
+
+”), and (iii) Horizon Technology Finance Corporation, as collateral agent for the Lenders (in such capacity, the “
+
+Collateral Agent
+
+” and collectively with the Lenders, the “
+
+Secured Parties
+
+”). Capitalized terms used but not otherwise defined herein shall have the meanings ascribed to such terms in the Loan Agreement (as defined below).
+
+WHEREAS
+
+, on June 4, 2021, the Borrower, the Lenders, and the Collateral Agent entered into a Venture Loan and Security Agreement (as the same may be amended, restated, supplemented or modified from time to time, the “
+
+Loan Agreement
+
+”);
+
+WHEREAS
+
+, pursuant to the Loan Agreement, the Lenders provided Loans to the Borrower in the aggregate original principal amount of $35,000,000, as evidenced by a (i) Secured Promissory Note (Loan A) in the original principal amount of $5,000,000, executed by the Borrower and other parties thereto in favor of Horizon Credit II LLC, dated as of June 4, 2021, (ii) Secured Promissory Note (Loan B) in the original principal amount of $5,000,000, executed by the Borrower in favor of Horizon Funding Trust 2019-1, dated as of June 4, 2021, (iii) Secured Promissory Note (Loan C) in the original principal amount of $2,500,000, executed by the Borrower in favor of Horizon Funding I, LLC, dated as of June 4, 2021, (iv) Secured Promissory Note (Loan D) in the original principal amount of $7,500,000, executed by the Borrower in favor of Powerscourt Investments XXV Trust, dated as of June 4, 2021, (v) Secured Promissory Note (Loan E) in the original principal amount of $5,000,000, executed by the Borrower in favor of Horizon Funding I LLC, dated as of July 30, 2021, (vi) Secured Promissory Note (Loan F) in the original principal amount of $5,000,000, executed by the Borrower in favor of Horizon Credit II LLC, dated as of July 30, 2021, (vii) Secured Promissory Note (Loan G) in the original principal amount of $2,500,000, executed by the Borrower in favor of Horizon Credit II LLC, dated as of September 29, 2021, and (viii) Secured Promissory Note (Loan H) in the original principal amount of $2,500,000, executed by the Borrower in favor of Horizon Credit II LLC, dated as of September 29, 2021;
+
+WHEREAS
+
+, the Lenders have asserted that as of the date hereof a Default and Event of Default has occurred under Section 8.4 of the Loan Agreement, due to the occurrence of events prior to the date of this Agreement that constitute a material adverse change in the Borrower’s business (the “
+
+MAC Default
+
+”);
+
+WHEREAS
+
+, the Secured Parties would be entitled to exercise their rights and remedies under the Loan Agreement as a result of the MAC Default;
+
+WHEREAS, 
+
+on July 20, 2023, the Secured Parties entered into a Forbearance Agreement (the “
+
+Initial Forbearance Agreement
+
+”), whereby the Secured Parties agreed, among other things, to forbear from exercising their rights and remedies in respect of the MAC Default until, at the latest, August 15, 2023 (the “
+
+Initial Forbearance Termination Date
+
+”);
+
+WHEREAS, 
+
+on August 14, 2023, the Secured Parties entered into a Second Forbearance Agreement (the “
+
+Second Forbearance Agreement
+
+”), whereby the Secured Parties agreed, among other things, to extend the Initial Forbearance Termination Date until, at the latest, September 15, 2023 (the “
+
+Extended Forbearance Termination Date
+
+”);
+
+WHEREAS, 
+
+the Borrower has requested that the Secured Parties, among other things, further extend the Extended Forbearance Termination Date to October 15, 2023 (the “
+
+Second Extended Forbearance Termination Date”
+
+); and
+
+WHEREAS
+
+, subject to the terms and conditions of this agreement, and the covenants of the Borrower set forth herein, the Secured Parties have agreed as provided herein.
+
+NOW, THEREFORE
+
+, in consideration of the promises herein contained and for other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties hereto agree as follows:
+
+1.    
+
+Event of Default
+
+. The Borrower agrees that the MAC Default constitutes an Event of Default under the Loan Agreement. The Borrower represents and warrants that, except for the MAC Default, no Default or Event of Default has occurred under the Loan Agreement that has not been waived by the Secured Parties. The Borrower acknowledges and agrees that, as a result of the occurrence of the MAC Default, each Secured Party has the immediate and unrestricted right to accelerate the maturity of the Obligations and to exercise any and all rights and remedies available to it under the Loan Documents and/or at law or in equity.
+
+2.    
+
+Agreement to Forbear
+
+. Each Secured Party hereby agrees to forbear from exercising remedies in respect of the MAC Default through and until the earliest to occur of (a) the Second Extended Forbearance Termination Date, (b) the occurrence of any Default or Event of Default other than the MAC Default or (c) a breach of any provision of this Agreement (such period the “
+
+Second Extended Forbearance Period
+
+”). At the end of the Second Extended Forbearance Period, all agreements hereunder to forbear shall terminate automatically and without further notice or action, and be of no force and effect, and the effect of such termination shall be to permit each Secured Party to immediately exercise any and all rights and remedies available to it under the Loan Agreement or any other Loan Document.
+
+3.    
+
+Extension of Extended Forbearance Period
+
+. In the sole discretion of the Secured Parties and without obligation, at the request of the Borrower, after the Second Extended Forbearance Termination Date, the Secured Parties may renew or extend the Second Extended Forbearance Period or grant additional forbearance periods.
+
+4.    
+
+Representations and Warranties of Borrower
+
+. The Borrower hereby represents and warrants to the Secured Parties as of the date of this Agreement:
+
+a.    The Borrower is a corporation duly organized and validly existing under the laws of its state of incorporation and qualified and licensed to do business in, and is in good standing in, any state or country in which the conduct of its business or its ownership of properties requires that it be so qualified, except where the failure to do so could not reasonably be expected to have a material adverse effect on the Borrower’s business.
+
+b.    The Borrower has all necessary corporate power and authority to execute, deliver, and perform in accordance with the terms thereof, this Agreement. The Borrower has all requisite corporate power and authority to own and operate its properties and to carry on its business as now conducted.
+
+c.    The execution and delivery of this Agreement, and the consummation of the transactions contemplated herein have each been duly authorized and delivered by all necessary action on the part of the Borrower and constitute legal, valid and binding obligations of the Borrower, enforceable in accordance with its terms, except as the enforceability thereof 
+
+2
+
+may be limited by bankruptcy, insolvency or other similar laws of general application relating to or affecting the enforcement of creditors’ rights or by general principles of equity.
+
+d.    The Borrower represents and warrants that, except for the MAC Default, no Default or Event of Default has occurred and is continuing under the Loan Documents.
+
+5.    
+
+Borrower’s Covenant
+
+. The Borrower covenants and agrees, for the benefit of the Collateral Agent and the Lenders, that commencing as of the date of this Agreement, the Borrower shall maintain, at all times, cash on deposit in deposit accounts subject to an Account Control Agreement in favor of the Collateral Agent in an amount not less than Three Million Dollars ($3,000,000).
+
+6.    
+
+Acknowledgments and Agreements
+
+.
+
+a.    The Borrower acknowledges, agrees, and represents and warrants that, immediately prior to the effective date of this Agreement, pursuant to the Loan Documents, the Borrower is legally and validly indebted to the Lenders in respect of the Loans in the outstanding principal amount of Thirteen Million Sixty-Seven Thousand Four Hundred Sixty-Nine and 62/100 Dollars ($13,067,469.62), plus interest, fees, and other amounts accrued and accruing thereon or related thereto, including, without limitation, Lenders’ Expenses related to the MAC Default and this Agreement, the Loan A Final Payment, the Loan B Final Payment, the Loan C Final Payment, the Loan D Final Payment, the Loan E Final Payment, the Loan F Final Payment, the Loan G Final Payment, and the Loan H Final Payment.
+
+b.    The Borrower acknowledges, affirms and agrees that the Secured Parties hold valid, perfected, enforceable, first priority security interests (except for Permitted Liens) in the Collateral as security for all Obligations under the Loan Documents (including, for the avoidance of doubt, all Obligations arising from or related to this Agreement).
+
+c.    The Borrower acknowledges and agrees that it has no defense, claim, offset, abatement, or deduction to any Obligations and no cause of action, claim, defense, or counter- claim against any Secured Party in any way relating to the Loan Documents, any transactions contemplated thereby, or any Secured Party’s actions thereunder.
+
+d.    The Borrower acknowledges and agrees that (i) any failure of the Borrower to perform the covenant set forth in Section 5 of this Agreement shall constitute an immediate “Event of Default” under the Loan Agreement and (ii) upon the occurrence of any such Event of Default, the Secured Parties shall have the immediate and unrestricted right to exercise any and all rights and remedies available under the Loan Documents and/or at law and in equity.
+
+e.    The Borrower acknowledges, agrees, and affirms that (i) this Agreement shall constitute a “Loan Document” for all purposes, including, without limitation, the definitions of “Obligations” and “Lenders’ Expenses;” (ii) the definition of “Obligations” shall include all amounts, obligations, covenants, and duties owing by the Borrower to the Secured Parties, of any kind and description, under this Agreement; and (iii) the definition of “Lenders’ Expenses” shall include the costs and expenses set forth in Section 9 hereof.
+
+f.    The Borrower hereby ratifies and confirms all terms and provisions of this Agreement, the Loan Agreement, and the other Loan Documents and all other documents, instruments, or agreements executed in connection therewith and except as expressly set forth herein, agrees that all of such terms and provisions remain in full force and effect and have not been modified or amended in any respect.
+
+7.    
+
+Release
+
+. In consideration of each Secured Party’s willingness to enter into this Agreement, the Borrower does hereby release, remise and forever discharge each Secured 
+
+3
+
+Party and its current and former officers, directors, managers, partners, members, employees, agents, attorneys, affiliates, advisors, consultants, shareholders and representatives (collectively, the “
+
+Released Parties
+
+”) of and from (and covenants not to sue the Released Parties for) any and all debts, demands, actions, causes of action, suits, accounts, covenants, contracts, agreements, claims, rights, damages, losses or liabilities of any nature whatsoever, whether at law or in equity, anticipated or unanticipated, fixed or contingent, known or unknown, which arose at any time prior to the date hereof, or which hereafter could arise based on any act, fact, transaction, cause, matter, or thing which occurred prior to the date hereof related to the Borrower, the Loans, the Loan Documents, or any documents or instruments delivered pursuant thereto or the transactions governed thereby or the dealings of the Borrower with the Released Parties with respect thereto. The Borrower hereby expressly waives any and all rights it may have against the Released Parties under Section 1542 of the California Civil Code (“
+
+Section 1542
+
+”) or any similar law, and the Borrower acknowledges that it may not invoke in any manner any claims released in this Agreement. The Borrower is aware that Section 1542 provides as follows: “[a] general release does not extend to claims which the creditor or releasing party does not know or suspect to exist in his or her favor at the time of executing the release, which if known by him or her must have materially affected his or her settlement with the debtor or released party.”
+
+8.    
+
+Condition to Effectiveness
+
+. Collateral Agent’s and Lenders’ agreement herein is expressly conditioned upon Borrower executing and delivering to Collateral Agent and Lenders (i) an amendment to the Loan Agreement which amendment shall revise the definition of Collateral to grant to Collateral Agent and Lenders a security interest in and to Borrower’s Intellectual Property, (ii) a Grant of Security Interest – Patents, and (iii) a Grant of Security Interest – Trademarks, each of which shall be in form and substance reasonably acceptable to Collateral Agent and Lenders.
+
+9.    
+
+Fees and Expenses
+
+. The Borrower agrees to pay (a) concurrently with the execution of this Agreement a forbearance fee to the Secured Parties in an amount equal to Five Thousand Dollars ($5,000) and (b) on demand, all reasonable, documented costs and expenses of the Secured Parties (including, without limitation, reasonable, documented attorneys’ fees and expenses) incurred in connection with (i) the preparation, negotiation, execution, delivery, and administration of this Agreement, and (ii) the MAC Default.
+
+10.    
+
+Governing Law
+
+. This Agreement shall be governed by and construed in accordance with the laws of the State of Connecticut, other than legal principles related to conflicts of laws.
+
+11.    
+
+No Waiver
+
+. No course of dealing heretofore or hereafter between the Borrower and any Secured Party, and no failure or delay on the part of any Secured Party in exercising any rights or remedies under the Loan Documents or existing at law or in equity, shall operate as a waiver of any rights or remedies of any Secured Party with respect to the Obligations, and no single or partial exercise of any rights or remedies hereunder shall operate as a waiver or preclusion to the exercise of any other rights or remedies that any Secured Party may have in regard to the Obligations.
+
+12.    
+
+Modification
+
+. This Agreement may not be modified in any manner, except by written agreement signed by the Borrower and the Secured Parties.
+
+13.    
+
+Execution in Counterparts
+
+. This Agreement may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement.
+
+4
+
+14.    
+
+Severability
+
+. Wherever possible, each provision of this Agreement shall be interpreted in such manner as to be effective and valid under applicable law, but if any provision of this Agreement shall be prohibited by or invalid under such law, such provision shall be ineffective to the extent of such prohibition or invalidity without invalidating the remainder of such provision or the remaining provisions of this Agreement.
+
+15.    
+
+Good Faith Negotiations
+
+. The Borrower acknowledges that this Agreement is the result of good faith negotiations, that it has carefully considered all of its alternatives and that it has entered into this Agreement without duress or coercion of any kind.
+
+16.    
+
+Entire Agreement
+
+. This Agreement constitutes the entire understanding and agreement among the parties hereto and supersedes any prior or contemporaneous written or oral understanding with respect to the subject matter hereof.
+
+[
+
+the remainder of this page intentionally left blank
+
+]
+
+5
+
+IN WITNESS WHEREOF, this Third Forbearance Agreement has been duly executed by each of the undersigned as of the day and year first set forth above.
+
+BORROWER
+
+AVALO THERAPEUTICS, INC.
+
+By:
+
+/s/ Garry Neil
+
+Name:
+
+Garry Neil
+
+Title:
+
+Chief Executive Officer
+
+[Signature Page to Third Forbearance Agreement - Avalo]
+
+COLLATERAL AGENT:
+
+HORIZON TECHNOLOGY FINANCE CORPORATION
+
+By:
+
+/s/ Daniel S. Devorsetz
+
+Name:
+
+Daniel S. Devorsetz
+
+Title:
+
+Executive Vice President, Chief Operating Officer and Chief Investment Officer
+
+ 
+
+LENDERS:
+
+HORIZON CREDIT II LLC
+
+, as a Lender
+
+By:
+
+/s/ Daniel S. Devorsetz
+
+Name:
+
+Daniel S. Devorsetz
+
+Title:
+
+Executive Vice President, Chief Operating
+
+ 
+
+HORIZON FUNDING TRUST 2019-1
+
+, as a Lender
+
+ 
+
+ 
+
+By:
+
+Horizon Technology Finance Corporation, its
+agent
+
+ 
+
+By:
+
+/s/ Daniel S. Devorsetz
+
+ 
+
+Name:
+
+Daniel S. Devorsetz
+
+ 
+
+Title:
+
+Executive Vice President, Chief Operating
+
+ 
+
+ 
+
+ 
+
+HORIZON FUNDING I, LLC
+
+, as a Lender
+
+ 
+
+ 
+
+By:
+
+/s/ Daniel S. Devorsetz
+
+ 
+
+Name:
+
+Daniel S. Devorsetz
+
+ 
+
+Title:
+
+Manager
+
+[Signature Page to Third Forbearance Agreement - Avalo]
+
+POWERSCOURT INVESTMENTS XXV, TRUST
+
+, as a Lender
+
+By: 1485 Management, LLC, as Trust's Agent
+
+/s/ Glenn Guszkowski
+
+Name:
+
+Glenn Guszkowski
+
+Title:
+
+Authorized Signatory
+
+[Signature Page to Third Forbearance Agreement - Avalo]

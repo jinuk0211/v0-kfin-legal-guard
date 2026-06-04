@@ -1,0 +1,1871 @@
+EX-10.3
+
+5
+
+ex10-3.htm
+
+ 
+
+ 
+
+Exhibit
+10.3
+
+ 
+
+Execution
+Copy
+
+ 
+
+FIFTH
+OMNIBUS AMENDment AGREEMENT
+
+ 
+
+THIS
+FIFTH OMNIBUS AMENDMENT AGREEMENT (this “
+Agreement
+”) dated as of August 8, 2024 by and among Silver Valley Metals
+Corp. (“
+Mine Owner
+”) and Bunker Hill Mining Corp. (“
+BHMC
+” and together with Mine Owner, the “
+Obligors
+”),
+Sprott Private Resource Streaming and Royalty (Collector), LP in its own capacity (“
+SPRSR
+”) and in its capacity as
+security agent for and on behalf of the Sprott Entities (the “
+Security Agent
+”), Sprott Private Resource Streaming
+and Royalty (US Collector), LP 
+(“SPRSR US
+”), Sprott Private Resource Streaming and Royalty Annex (US Collector), LP
+(“
+SPRSR Annex
+”), Sprott Private Resource Streaming and Royalty (US), LP, Sprott Private Resource Streaming and Royalty
+(International), LP, Sprott Private Resource Streaming and Royalty (Canada), LP, Ninepoint Alternative Credit Opportunities Fund and
+Ninepoint Credit Income Opportunities Fund.
+
+ 
+
+RECITALS
+:
+
+ 
+
+A.
+
+BHMC,
+ as debtor, and Mine Owner, as guarantor, issued on January 28, 2022 to and in favour of the
+ Series 1 CD Holders convertible debentures in the aggregate principal amount of US$6,000,000
+ (as amended by the Second Omnibus Amendment, the Third Omnibus Amendment and the Fourth Omnibus
+ Amendment, the “
+Series 1 Convertible Debentures
+”);
+
+ 
+
+B.
+
+BHMC,
+ as debtor, and Mine Owner, as guarantor, issued on June 17, 2022 to and in favour of the
+ Series 2 CD Holders series 2 convertible debentures in the aggregate principal amount of
+ US$15,000,000 (as amended by the Third Omnibus Amendment and the Fourth Omnibus Amendment,
+ the “
+Series 2 Convertible Debentures
+” and together with the Series 1 Convertible
+ Debentures, the “
+Convertible Debentures
+”);
+
+ 
+
+C.
+
+SPRSR
+ and the Series 1 CD Holders have agreed to (i) extend the maturity date of the Series 1 Convertible
+ Debentures to March 31, 2028, and (ii) amend the terms upon which BHMC may pay accrued interest
+ payable thereunder through the issuance of its common shares; and
+
+ 
+
+D.
+
+SPRSR
+ and the Series 2 CD Holders have agreed to (i) extend the maturity date of the Series 2 Convertible
+ Debentures to March 31, 2029 and (ii) amend the terms upon which BHMC may pay accrued interest
+ payable thereunder through the issuance of its common shares.
+
+ 
+
+NOW
+THEREFORE in consideration of the foregoing premises and for other good and valuable consideration (the receipt and sufficiency of which
+are hereby acknowledged by the Parties), the Parties mutually agree as follows:
+
+ 
+
+ 
+
+ 
+
+Section
+ 1
+
+ 
+
+Defined
+ Terms.
+
+ 
+
+ 
+
+(1)
+
+As
+ used in this Agreement and the recitals hereto, the following terms have the following meanings:
+
+ 
+
+“
+Amended
+Loan Agreement
+” means the loan agreement dated as of June 23, 2023 between the Obligors, SPRSR US and Sprott Private Resource
+Streaming and Royalty Annex (US Collector), LP, as lenders (collectively, the “
+Sprott Lenders
+”), and SPRSR US, as
+agent for the Sprott Lenders, as amended by the first amendment to loan agreement dated as of the date hereof.
+
+ 
+
+ 
+
+ 
+
+ 
+
+-
+2
+-
+
+ 
+
+ 
+
+“
+Amended
+and Restated Royalty Put Option Agreement
+” means the amended and restated royalty put option agreement dated as of the date
+hereof between SPRSR US and the Obligors.
+
+ 
+
+“
+Fourth
+Omnibus Amendment
+” means the fourth omnibus amendment dated as of June 23, 2023 among, 
+inter alios
+, SPRSR, the Security
+Agent, the Series 1 CD Holders, the Series 2 CD Holders, the Mine Owner and BHMC and their respective successors and assigns.
+
+ 
+
+“
+Guarantees
+”
+means, collectively, the guarantees made by Mine Owner contained in each of the Convertible Debentures, as each may be amended, amended
+and restated, modified, supplemented or replaced from time to time.
+
+ 
+
+“
+Parties
+”
+means the Sprott Parties, the Obligors and their respective successors and assigns.
+
+ 
+
+“
+Second
+Omnibus Amendment
+” means the second omnibus amendment agreement dated as of June 17, 2022 among SPRSR, the Security Agent,
+the Series 1 CD Holders, the Series 2 CD Holders, the Mine Owner and BHMC and their respective successors and assigns.
+
+ 
+
+“
+Series
+1 CD Holders
+” means Sprott Private Resource Streaming and Royalty (US), LP, Sprott Private Resource Streaming and Royalty (International),
+LP, Sprott Private Resource Streaming and Royalty (Canada), LP, Ninepoint Alternative Credit Opportunities Fund and Ninepoint Credit
+Income Opportunities Fund as holders of Series 1 Convertible Debentures and their respective successors and assigns.
+
+ 
+
+“
+Series
+2 CD Holders
+” means Sprott Private Resource Streaming and Royalty (US), LP, Sprott Private Resource Streaming and Royalty (International),
+LP, and Sprott Private Resource Streaming and Royalty (Canada), LP, as holders of the Series 2 Convertible Debentures and their respective
+successors and assigns.
+
+ 
+
+“Sprott
+Parties
+” means, collectively, the Series 1 CD Holders, the Series 2 CD Holders, SPRSR, the Security Agent, SPRSR US, SPRSR
+Annex and their respective successors and assigns.
+
+ 
+
+“
+Third
+Omnibus Amendment
+” means the third omnibus amendment dated as of December 5, 2022 among SPRSR, the Security Agent, the Series
+1 CD Holders, the Series 2 CD Holders, the Mine Owner and BHMC and their respective successors and assigns.
+
+ 
+
+(2)
+
+Unless
+ otherwise described herein, capitalized terms used in this Agreement that are not defined
+ in it have the meanings given to them in the Series 2 Convertible Debentures.
+
+ 
+
+ 
+
+ 
+
+ 
+
+-
+3
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section
+ 2
+
+ 
+
+Ame
+ndments
+ to the Series 1 
+Convertible Debentures.
+
+ 
+
+ 
+
+Each
+Series 1 CD Holder and each Obligor agree to amend the Series 1 Convertible Debenture to which such Series 1 CD Holder is a party as
+follows:
+
+ 
+
+(a)
+
+The
+ first paragraph of Section 1 of such Series 1 Convertible Debenture is hereby amended by
+ deleting the second sentence thereof and replacing it with the following
+
+ 
+
+“Subject
+to the provisions of this debenture (the “
+Debenture
+”), the Principal Amount together with all accrued and unpaid interest
+and all other monies owing hereunder, shall become due and payable on March 31, 2028 (the “
+Maturity Date
+”).”;
+and
+
+ 
+
+(b)
+
+Section
+ 10.1 of such Series 1 Convertible Debenture is hereby amended by adding new paragraph (e)
+ immediately after paragraph (d) thereof:
+
+ 
+
+“(e)
+
+Notwithstanding
+ any other provision of this Debenture at any time when an Event of Default has occurred and
+ is continuing, the Debtor shall pay in cash any and all accrued and unpaid interest owing
+ hereunder on each Quarter End, upon a prepayment or at any other time when due and the Debtor
+ shall not have the option to pay any such interest through the issuance of common shares
+ in the capital of the Debtor.”.
+
+ 
+
+ 
+
+ 
+
+Section
+ 3
+
+ 
+
+Ame
+ndments
+ to the Series 2 
+Convertible Debentures.
+
+ 
+
+ 
+
+Each
+Series 2 CD Holder and each Obligor agree to amend the Series 2 Convertible Debenture to which such Series 2 CD Holder is a party as
+follows:
+
+ 
+
+(a)
+
+The
+ first paragraph of Section 1 of such Series 2 Convertible Debenture is hereby amended by
+ deleting the second sentence thereof and replacing it with the following
+
+ 
+
+“Subject
+to the provisions of this debenture (the “
+Debenture
+”), the Principal Amount together with all accrued and unpaid interest
+and all other monies owing hereunder, shall become due and payable on March 31, 2029 (the “
+Maturity Date
+”).”;
+and
+
+ 
+
+(b)
+
+Section
+ 10.1 of such Series 2 Convertible Debenture is hereby amended by adding new paragraph (e)
+ immediately after paragraph (d) thereof:
+
+ 
+
+“(e)
+
+Notwithstanding
+ any other provision of this Debenture at any time when an Event of Default has occurred and
+ is continuing, the Debtor shall pay in cash any and all accrued and unpaid interest owing
+ hereunder on Quarter End, upon a prepayment or at any other time when due and the Debtor
+ shall not have the option to pay any such interest through the issuance of common shares
+ in the capital of the Debtor.”.
+
+ 
+
+ 
+
+ 
+
+Section
+ 4
+
+ 
+
+Confirmation.
+
+ 
+
+ 
+
+Each
+Obligor hereby acknowledges, confirms and agrees that:
+
+ 
+
+(a)
+
+each
+ Convertible Debenture remains in full force and effect, and, except as amended by this Agreement,
+ unamended and constitutes legal, valid and binding obligations of it enforceable against
+ it in accordance with its respective terms;
+
+ 
+
+(b)
+
+each
+ Guarantee to which it is a party remains in full force and effect, and except as amended
+ by this Agreement, unamended, and continues to guarantee the payment and performance of all
+ Obligations, as applicable, and constitutes legal, valid and binding obligations of it enforceable
+ against it in accordance with its respective terms;
+
+ 
+
+(c)
+
+each
+ Security Document and each security interest, assignment, mortgage, charge, lien, hypothecation
+ and pledge granted by it in favour of the Security Agent for and the benefit of the Sprott
+ Entities pursuant to the Security Documents constitutes legal, valid and binding obligations
+ of it enforceable against it in accordance with its respective terms and continues to secure
+ the PF Obligations.
+
+ 
+
+ 
+
+ 
+
+ 
+
+-
+4
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section
+ 5
+
+ 
+
+Conditions
+ of Effectiveness of this Agreement 
+
+ 
+
+ 
+
+This
+Agreement shall become effective (the “
+Effective Date
+”) immediately when the following conditions shall have been
+satisfied:
+
+ 
+
+(a)
+
+The
+ Obligors and the Sprott Parties shall have signed a counterpart of this Agreement;
+
+ 
+
+(b)
+
+SPRSR
+ shall have received (i) a certificate of good standing with respect to each Obligor from
+ the Secretary of State (or other similar official) of the jurisdiction of its incorporation;
+ (ii) a certificate of a senior officer of each Obligor, dated the Effective Date, addressed
+ to each Sprott Party, in form and substance reasonably acceptable to SPRSR, certifying as
+ to the incumbency and specimen signature of each officer of such Obligor executing this Agreement
+ or any other document delivered in connection with this Agreement on its behalf and attaching
+ (x) a true and complete copy of articles, by-laws and any other charter documents of such
+ Obligor, including all amendments thereto, as in effect on the Effective Date, and (y) a
+ true and complete copy of resolutions duly adopted by its board of directors or shareholders,
+ as the case may be, of such Obligor authorizing the execution, delivery and performance of
+ this Agreement and the Amended and Restated Royalty Put Option Agreement and approving all
+ matters contemplated by this Agreement and the Amended and Restated Royalty Put Option Agreement,
+ and (iii) an opinion of legal counsel to each Obligor addressed to each Sprott Party, in
+ form and substance reasonably acceptable to the Agent, relating to the status and capacity
+ of such Obligor, the due authorization, execution and delivery and validity and enforceability
+ of this Agreement, the Convertible Debentures, as amended by this Agreement, and the Amended
+ and Restated Royalty Put Option Agreement and such other matters as SPRSR may reasonably
+ request;
+
+ 
+
+(c)
+
+The
+ intercreditor agreement (the “
+Intercreditor Agreement
+”) among SPRSR US,
+ as agent for the Sprott Entities, the Security Agent, Monetary Metals Bond III LLC, Minewater
+ Finance LLC, Minewater LLC, MW HH LLC and the Obligors shall have been executed and delivered
+ by the parties;
+
+ 
+
+(d)
+
+The
+ initial tranche of the financing contemplated under the secured promissory note purchase
+ agreement dated August 8, 2024 between Monetary Metals Bond III LLC as purchaser, the Mine
+ Owner, as borrower, and BHMC, as parent, has closed or will close concurrently with delivery
+ of the conditions set forth in Sections 5(b) and (c) on the Effective Date; and
+
+ 
+
+(e)
+
+All
+ costs and expenses of the Sprott Entities relating to this Agreement, the Amended Loan Agreement,
+ the Amended and Restated Royalty Put Option Agreement and the Intercreditor Agreement and
+ the transactions contemplated thereunder (including reasonable fees and expenses of their
+ legal counsel) have been paid in full.
+
+ 
+
+ 
+
+ 
+
+Section
+ 6
+
+ 
+
+Reference
+ to the Convertible Debenture
+
+s
+.
+
+ 
+
+ 
+
+On
+and after the Effective Date, any reference to “this Agreement”, “hereof”, “hereunder” and words
+of like effect in any Convertible Debenture
+,
+ and any reference to any Convertible Debenture in any other agreements will mean
+and be a reference to such Convertible Debenture, as amended by this Agreement, as applicable.
+
+ 
+
+ 
+
+ 
+
+Section
+ 7
+
+ 
+
+Further
+ Assurances.
+
+ 
+
+ 
+
+Each
+Obligor will execute and deliver to any other Party hereto all such documents, instruments and agreements, and do all such other acts
+and things, as may be reasonably required, in the opinion of such other Party, to carry out the amendments and other transactions contemplated
+under this Agreement.
+
+ 
+
+ 
+
+ 
+
+ 
+
+-
+5
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section
+ 8
+
+ 
+
+Project
+ Finance Document.
+
+ 
+
+ 
+
+The
+Parties hereby acknowledge, confirm and agree that:
+
+ 
+
+(a)
+
+any
+ failure of the Obligors to perform their obligations under this Agreement shall constitute
+ an event of default under the Convertible Debentures; and
+
+ 
+
+(b)
+
+each
+ of this Agreement, the Convertible Debentures, as amended hereby, the Amended and Restated
+ Royalty Put Option Agreement, the Amended Loan Agreement, the ROFR Agreement and the metals
+ purchase agreement dated as of June 23, 2023 between the Obligors and SPRSR US as agent for
+ the Sprott Stream Parties (as defined therein) constitutes a “Project Finance Document”
+ and the obligations hereunder and under each other Project Finance Document constitute “PF
+ Obligations” and “Obligations”, as applicable, for the purposes of the
+ Security, the Security Documents and the Security Sharing Agreement.
+
+ 
+
+ 
+
+ 
+
+Section
+ 9
+
+ 
+
+Successors
+ and Assigns.
+
+ 
+
+ 
+
+This
+Agreement shall be binding upon and enure to the benefit of and be enforceable by each Party and its respective successors and permitted
+assigns.
+
+ 
+
+ 
+
+ 
+
+Section
+ 10
+
+ 
+
+Severability.
+
+ 
+
+ 
+
+If
+any provision of this Agreement is determined to be illegal, invalid or unenforceable, by an arbitrator or any court of competent jurisdiction
+from which no appeal exists or is taken, that provision will be severed from this Agreement and the remaining provisions will remain
+in full force and effect.
+
+ 
+
+ 
+
+ 
+
+Section
+ 11
+
+ 
+
+Governing
+ Law.
+
+ 
+
+ 
+
+(1)
+
+This
+ Agreement shall be governed by, and construed in accordance with, the laws of the Province
+ of Ontario and the federal laws of Canada applicable therein (other than the conflict of
+ laws rules).
+
+ 
+
+(2)
+
+Each
+ Party agrees that any legal proceeding with respect to this Agreement or to enforce any judgment
+ obtained against the other Parties, or any of them, may be brought in the courts of the Province
+ of Ontario, Canada or in the courts of any jurisdiction where a Party may have assets or
+ carries on business, and each Party hereby irrevocably submits to the non-exclusive jurisdiction
+ of each such court and acknowledges its competence.
+
+ 
+
+ 
+
+ 
+
+Section
+ 12
+
+ 
+
+Counterparts.
+
+ 
+
+ 
+
+This
+Agreement may be executed in any number of counterparts, each of which is deemed to be an original, and such counterparts together constitute
+one and the same instrument. Transmission of an executed signature page by facsimile, email or other electronic means is as effective
+as a manually executed counterpart of this Agreement.
+
+ 
+
+[Remainder
+of this page left intentionally blank. Signature page follows.]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The
+parties have executed this Agreement as of the date first written above.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SILVER
+ VALLEY METALS CORP.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Sam Ash
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Sam
+ Ash
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Gerbrand van Heerdan
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Gerbrand
+ van Heerdan
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Treasurer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BUNKER
+ HILL MINING CORP.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Sam Ash
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Sam
+ Ash
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President,
+ Chief Executive Officer and Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Gerbrand van Heerdan
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Gerbrand
+ van Heerdan  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief
+ Financial Officer and Corporate Secretary
+
+ 
+
+ 
+
+Fifth
+Omnibus Amendment Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sprott
+ private resource streaming and royalty (collector), lp, 
+
+by its general partner, SPROTT RESOURCE
+ STREAMING AND ROYALTY CORP.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sprott
+ private resource streaming and royalty (collector), lp,
+
+ 
+by
+ its general partner, SPROTT RESOURCE STREAMING AND ROYALTY CORP., in its capacity as Security Agent
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+[
+Redacted – Personal
+ Information
+]
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+[
+Redacted – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+[
+Redacted – Personal Information
+]
+
+ 
+
+Fifth
+Omnibus Amendment Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sprott
+ private resource streaming and royalty (US), lp, 
+
+by its general partner, SPROTT RESOURCE STREAMING
+ AND ROYALTY CORP., in its capacities as a Series 1 CD Holder and a Series 2 CD Holder
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sprott
+ private resource streaming and royalty (INTERNATIONAL), lp, 
+
+by its general partner, SPROTT
+ RESOURCE STREAMING AND ROYALTY CORP., in its capacities as a Series 1 CD Holder and a Series 2 CD Holder
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sprott
+ private resource streaming and royalty (CANADA), lp, 
+
+by its general partner, SPROTT RESOURCE
+ STREAMING AND ROYALTY CORP., in its capacities as a Series 1 CD Holder and a Series 2 CD Holder
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+Fifth
+Omnibus Amendment Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sprott
+ private resource streaming and royalty (US COLLECTOR), lp, 
+
+by its general partner, SPROTT
+ PRIVATE RESOURCE STREAMING AND ROYALTY (US GP), LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sprott
+ private resource streaming and royalty (US COLLECTOR), lp, 
+
+by its general partner, SPROTT
+ PRIVATE RESOURCE STREAMING AND ROYALTY (US GP), LLC, in its capacities as Royalty Holder, agent for the Sprott Stream Parties and
+ the Sprott Lenders, Sprott Stream Party and Sprott Lender
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sprott
+ private resource streaming and royalty annex (us collector), lp, 
+
+by its general partner, ,
+ SPROTT PRIVATE RESOURCE STREAMING AND ROYALTY (US GP), LLC in its capacities as Sprott Stream Party and Sprott Lender
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+Fifth
+Omnibus Amendment Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NINEPOINT
+ ALTERNATIVE CREDIT OPPORTUNITIES FUND, 
+
+by its Manager
+, ninepoint partners lp, 
+in
+ its capacity as a Series 1 CD Holder
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NINEPOINT
+ CREDIT income opportunities FUND, 
+
+by its Manager
+, ninepoint partners lp, 
+in
+ its capacity as a Series 1 CD Holder
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+[
+Redacted
+ – Personal Information
+]
+
+ 
+
+ 
+
+Fifth
+Omnibus Amendment Agreement

@@ -1,0 +1,2856 @@
+EX-10.1
+
+2
+
+ex10-1.htm
+
+SECOND AMENDMENT TO FIRST AMENDED AND RESTATED CREDIT AGREEMENT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exhibit 10.1
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+SECOND AMENDMENT TO
+
+ 
+
+FIRST AMENDED AND RESTATED CREDIT AGREEMENT
+
+ 
+
+ 
+
+ 
+This Second Amendment to First Amended and Restated Credit Agreement (this “
+Amendment
+”), dated as of March 10, 2023 (the “Second Amendment Closing Date”), is by and among, 
+ePlus Technology, inc.
+, a Virginia corporation (“
+Technology
+”) (as Borrower Representative), 
+ePlus Technology Services, inc
+., a Virginia corporation (“
+Services
+”), 
+SLAIT Consulting, LLC
+, a Virginia limited liability company (“
+SLAIT
+”), and those additional entities that hereafter become parties to the Credit Agreement as Borrowers in accordance with the terms thereof (together
+ with Technology, Services, and SLAIT, each, a “
+Borrower
+,” and individually and collectively, jointly and severally, the “
+Borrowers
+”), the lenders identified on the signature pages hereof (including the existing lenders party to the Credit Agreement
+ (defined below) (the “
+Existing Lenders
+”), and Citizens Bank, N.A., a national banking association and Comerica Bank, a Texas
+ banking association (each individually, a “
+New Lender
+” and collectively, the “
+New Lenders
+”; and together with the existing lenders, the “
+Lenders
+”)),
+
+ and 
+Wells Fargo Commercial Distribution Finance, LLC
+, a Delaware limited liability company, in its capacity as Agent for the Lenders (together
+ with its successors and assigns, “
+Agent
+”).
+
+ 
+
+ 
+
+ 
+
+RECITALS
+
+ 
+
+ 
+
+ 
+
+A.
+
+ 
+
+Borrowers are parties to that certain First Amended and Restated Credit Agreement dated as of October 13, 2021, and as amended as of October 31, 2022 (said First Amended and
+ Restated Credit Agreement, as so amended, is hereinafter referred to as the “
+Credit Agreement
+”) by and among Borrowers, the
+ Existing Lenders, and Agent.  Capitalized terms used herein but not otherwise defined herein (including in the preamble and recitals hereof) shall have the respective meanings ascribed to such terms in the Credit Agreement.
+
+ 
+
+ 
+
+ 
+
+B.
+
+ 
+
+Each of the New Lenders desires to join in, and become a party as a Lender to, the Credit Agreement (as amended by this Amendment) and the other Loan Documents, all as more
+ particularly described herein.
+
+ 
+
+ 
+
+ 
+
+C.
+
+ 
+
+Borrowers, the undersigned Lenders (including each New Lender) and Agent desire to amend the Credit Agreement to make such changes to the Credit Agreement and other Loan
+ Documents as provided in, and subject to the terms and conditions of, this Amendment.
+
+ 
+
+ 
+
+ 
+
+D.
+
+ 
+
+The undersigned Lenders (including each New Lender) constitute the Required Lenders for purposes of 
+
+Section
+
+ 10.1
+
+ of the Credit Agreement.
+
+ 
+
+ 
+
+ 
+
+NOW, THEREFORE
+, in consideration
+ of the premises and the agreements contained herein, and for other good and valuable consideration, the receipt, adequacy and sufficiency of which are hereby acknowledged, the parties hereto (intending to be legally bound) hereby agree as follows:
+
+ 
+
+ 
+
+ 
+
+1.
+
+ 
+
+Joinder of New Lenders
+
+.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(a)
+
+ 
+
+ 
+
+ 
+Each New Lender agrees to be bound by the provisions of the Credit Agreement (as amended by this Amendment) and the other Loan
+ Documents as a Lender, and agrees that it shall, upon the effectiveness of this Amendment, become a Lender for all purposes of the Credit Agreement and the other Loan Documents to the same extent as if originally a party thereto, with
+ Floorplan Loan Allocations and Revolving Loan Allocations as set forth on Schedule 2.1(a) – Floorplan Loan Allocations and Schedule 2.1(b) – Revolving Loan Allocations to the Credit Agreement, each as amended by this Amendment. Upon the
+ effectiveness of this Amendment, each New Lender shall have the rights and obligations of a Lender under the Credit Agreement (as amended by this Amendment) and under the other Loan Documents.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(b)
+
+ 
+
+ 
+
+ 
+Each New Lender (a) represents and warrants that (i) it has full power and authority, and has taken all action necessary, to
+ execute and deliver this Amendment and to consummate the transactions contemplated hereby and to become a Lender under the Credit Agreement, (ii) from and after the effective date of this Amendment, it shall be bound by the provisions of
+ the Credit Agreement as a Lender thereunder and shall have the obligations of a Lender thereunder, (iii) it has received a copy of the Credit Agreement, and has received or has been accorded the opportunity to receive copies of the most
+ recent financial statements delivered pursuant to Section 5.1 thereof, as applicable, and such other documents and information as it deems appropriate to make its own credit analysis, independent investigation, and decision to enter into
+ this Amendment, the Credit Agreement, and the other Loan Documents, and to make the Loans under the Credit Agreement, (iv) it has, independently and without reliance upon the Agent or any other Lender and based on such documents and
+ information as it has deemed appropriate (A) made its own credit analysis and independent investigation of the financial and other circumstances surrounding the Credit Parties, the Collateral, the Obligations and all aspects of the
+ transactions evidenced by or referred to in the Credit Agreement and the other Loan Documents, or has otherwise satisfied itself thereto and (B) made its own decision to enter into this Amendment, the Credit Agreement, and the other Loan
+ Documents, and to make the Loans under the Credit Agreement, and (vii) if it is a Non-U.S. Lender Party, attached to the Amendment is any documentation required to be delivered by it pursuant to the terms of the Credit Agreement, duly
+ completed and executed by each New Lender; (b) agrees that (i) it will, independently and without reliance on the Agent, or any other Lender, and based on such documents and information as it shall deem appropriate at the time, continue to
+ make its own credit decisions in taking or not taking action under the Loan Documents, and (ii) it will perform in accordance with their terms all of the obligations which by the terms of the Loan Documents are required to be performed by
+ it as a Lender; and (c) irrevocably appoints and authorizes Agent to take such action as agent on its behalf and to exercise such powers under the Loan Documents as are delegated to the Agent by the terms thereof, together with such powers
+ as are reasonably incidental thereto.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.
+
+ 
+
+Amendments to Credit Agreement
+
+.  Subject to the terms and conditions contained herein,
+ Borrowers, Agent and Lenders hereby amend the Credit Agreement as follows:
+
+ 
+
+ 
+
+ 
+
+(a)
+
+ 
+
+Section 1.1 of the Credit Agreement (Definitions) is amended by amending and restating or adding in appropriate alphabetical order, as applicable, the following defined terms,
+ each of which shall read as follows:
+
+ 
+
+ 
+
+ 
+“Aggregate Floorplan Loan Allocation” means the combined Floorplan Loan Allocations of the
+ Lenders, which shall be in the amount of Five Hundred Million Dollars ($500,000,000.00), as such amount may be reduced from time to time pursuant to this Agreement.
+
+ 
+
+ 
+
+ 
+“Aggregate Revolving Loan Allocation” means the combined Revolving Loan Allocations of the
+ Lenders, which shall initially be in the amount of Two Hundred Million Dollars ($200,000,000.00), as such amount may be reduced from time to time pursuant to this Agreement.
+
+ 
+
+ 
+
+ 
+“Maximum Floorplan Amount” means Five Hundred Million Dollars ($500,000,000.00).
+
+ 
+
+ 
+
+ 
+“Maximum Revolving Loan Availability” means, as of any date of determination, the lesser of
+ either (a) Two Hundred Million Dollars ($200,000,000.00), or (b) the Excess Borrowing Base Availability as of such date.
+
+ 
+
+ 
+
+ 
+“Transaction Statement” means a record that may be transmitted, sent or otherwise made
+ available by CDF to a Borrower from time to time which identifies the Inventory financed under the Floorplan Facility and/or the Floorplan Advances made under the Floorplan Facility and the terms and conditions of repayment of such Floorplan Advance
+ (including the applicable due date and free period end date), including any amendments, modifications or corrections made to any such Transaction Statement from time to time in CDF’s sole and absolute discretion.
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+
+ 
+
+Section 2.8(a)(i) of the Credit Agreement is hereby amended by deleting such Section in its entirety and replacing it with the following:
+
+ 
+
+ 
+
+ 
+
+(i)
+
+ 
+
+Unless required to be paid earlier pursuant to the provisions of this Agreement (including without limitation the provisions of 
+
+Section 2.8(b)
+
+), the Borrowers shall pay the unpaid principal of each Floorplan Loan in  full on the due date reflected on the applicable Transaction Statement
+ related thereto (but in any event, such due date shall not be sooner than the free period end date set forth on the applicable Transaction Statement with respect to the Borrower Invoice(s) related thereto); 
+
+provided, however
+
+, notwithstanding any provision contained herein to the contrary, on the Floorplan Termination Date, the aggregate principal outstanding under all Floorplan Loans,
+ together with any and all accrued and unpaid interest thereon, shall be due and payable in full.
+
+ 
+
+ 
+
+ 
+
+(c)
+
+ 
+
+Section 2.8(b)(i)(A) of the Credit Agreement is hereby amended by deleting such Section in its entirety and replacing it with the following:
+
+ 
+
+ 
+
+ 
+
+(A)
+
+ 
+
+the then outstanding principal balance of Revolving Loans and Swingline Loans exceed the lesser of either (1) Two Hundred Million
+ Dollars ($200,000,000.00), or (2) the Maximum Floorplan Amount minus the Aggregate Floorplan Outstandings;
+
+ 
+
+ 
+
+ 
+
+(d)
+
+ 
+
+Section 3.2(c) of the Credit Agreement is hereby amended by deleting such Section in its entirety and replacing it with the following:
+
+ 
+
+ 
+
+ 
+
+(c)
+
+ 
+
+after giving effect to any Loan (or the Issuance of any Letter of Credit), the aggregate outstanding amount of the Revolving
+ Loans and Swingline Loans would exceed the lesser of either (1) Two Hundred Million Dollars ($200,000,000.00), or (2) the Maximum Floorplan Amount minus the Aggregate Floorplan Outstandings.
+
+ 
+
+ 
+
+ 
+
+(e)
+
+ 
+
+Schedule 2.1(a) – Floorplan Loan Allocations and Schedule 2.1(b) – Revolving Loan Allocations of the Credit Agreement are hereby amended by deleting such Schedules in their
+ entirety and replacing them with Schedule 2.1(a) and Schedule 2.1(b) attached hereto.  Notwithstanding anything herein or in the Credit Agreement to the contrary, the parties hereto acknowledge and agree that if the Second Amendment Closing Date is
+ a date other than a Settlement Date, the Allocations set forth in Schedules 2.1(a) and 2.1(b) attached to this Amendment shall not take effect until the first Tuesday after the Second Amendment Closing Date, and until such Settlement Date, the
+ Allocations of the Lenders immediately prior to the Second Amendment Closing Date shall continue to be in effect. If the Second Amendment Closing Date is also a Settlement Date, the Allocations set forth in Schedules 2.1(a) and 2.1(b) attached to
+ this Amendment shall be effective as of the Second Amendment Closing Date.
+
+ 
+
+ 
+
+ 
+
+3.
+
+ 
+
+Conditions Precedent
+
+.  The amendments contained in 
+
+Sections 1 and 2
+
+ above are subject to, and contingent upon, Agent receiving each of the following items, each in form and substance acceptable to Agent, unless waived in writing by
+ Agent in its sole and absolute determination:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(a)
+
+ 
+
+ 
+
+ 
+A duly executed counterpart of this Amendment signed by each of the parties hereto;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(b)
+
+ 
+
+ 
+
+ 
+Guarantors shall have executed and delivered the Acknowledgement and Agreement of Guarantors;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(c)
+
+ 
+
+ 
+
+ 
+Resolutions of the board of directors or board of managers, as applicable, of each Borrower and Guarantor, dated as of the
+ date hereof, which authorize, direct, and empower the authorized officers to make, execute, and deliver this Amendment;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(d)
+
+ 
+
+ 
+
+ 
+A certificate of secretary for each Credit Party and Guarantor, certifying as to the authority, incumbency and signature of
+ the officers of such Credit Party executing this Amendment and all other documents, agreements and certificates in connection with this Amendment;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(e)
+
+ 
+
+ 
+
+ 
+Agent shall have received satisfactory evidence that all corporate and other proceedings that are necessary in connection
+ with this Amendment have been taken to the Agent’s satisfaction;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(f)
+
+ 
+
+ 
+
+ 
+Certificates of Good Standing for each Credit Party issued by the state of incorporation or organization of such Credit
+ Party, all as of a recent date; and
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(g)
+
+ 
+
+ 
+
+ 
+Such other matters as Agent may require.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.
+
+ 
+
+Costs, Expenses and Taxes
+
+.  Without limiting the obligation of the Credit Parties to
+ reimburse Agent for all reasonable costs, fees, disbursements and expenses incurred by Agent as specified in the Credit Agreement, as amended by this Amendment, the Credit Parties agree to pay on demand all reasonable costs, fees, disbursements and
+ expenses of Agent in connection with the preparation, execution and delivery of this Amendment and the other agreements, modifications, instruments and documents contemplated hereby (collectively, the “
+Transaction Documents
+”), including, without limitation, reasonable attorneys’ fees and expenses.
+
+ 
+
+ 
+
+ 
+
+5.
+
+ 
+
+Representations, Warranties and Covenants of the Credit Parties
+
+.  Each Credit Party
+ jointly and severally hereby represents and warrants to Agent and Lender, which representations and warranties shall survive the execution and delivery hereof, that on and as of the date hereof and after giving effect to this Amendment:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(a)
+
+ 
+
+ 
+
+ 
+Each Credit Party has the corporate or limited liability company (as applicable) power and authority to execute and deliver
+ this Amendment and the Transaction Documents to which it is a party (and perform its respective obligations hereunder and thereunder).  This Amendment and the Transaction Documents to which such Credit Party is a party have been duly
+ authorized by such Credit Party.  This Amendment, the Transaction Documents to which such Credit Party is a party, and the Credit Agreement (as amended by this Amendment) each constitute the legal, valid and binding obligation of such
+ Credit Party, enforceable against such Credit Party in accordance with their respective terms, subject to the effect of any applicable bankruptcy, insolvency, reorganization or similar law affecting creditor’s rights generally and general
+ principles of equity;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(b)
+
+ 
+
+ 
+
+ 
+The execution, delivery and performance by Credit Parties of this Amendment and the Transaction Documents have been duly
+ authorized by all necessary corporate or limited liability company action and do not (i) require any authorization, consent or approval by any Governmental Authorities, (ii) violate any Requirement of Law, or (iii) result in a breach of or
+ constitute a default under any indenture or loan or loan agreement or any other agreement, lease or instrument to which any Credit Party is a party or by which they or their properties may be bound or affected.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(c)
+
+ 
+
+ 
+
+ 
+Each Credit Party’s representations and warranties set forth in the Credit Agreement and in the other Loan Documents are true,
+ correct and complete in all material respects (or, if any such representation or warranty is by its terms qualified by concepts of materiality, such representation or warranty is true and correct in all respects) on and as of the date
+ hereof except to the extent that such representations and warranties expressly related solely to an earlier date, in which case such representations were true, correct and complete in all material respects (or, if any such representation or
+ warranty is by its terms qualified by concepts of materiality, such representation or warranty is true and correct in all respects) (on and as of such earlier date;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(d)
+
+ 
+
+ 
+
+ 
+No Default or Event of Default has occurred or is continuing as of the date hereof or shall occur immediately after giving
+ effect to this Amendment;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(e)
+
+ 
+
+ 
+
+ 
+Each Credit Party’s Organization Documents continue in full force and effect and have not been amended or otherwise modified
+ since October 13, 2021;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(f)
+
+ 
+
+ 
+
+ 
+All Obligations now due or payable by Borrowers to Lenders or Agent are unconditionally owing by Borrowers to Lenders and
+ Agent, without offset, defense or counterclaim of any kind, nature or description whatsoever; and
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(g)
+
+ 
+
+ 
+
+ 
+Since September 30, 2022, there has not occurred any Material Adverse Effect.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Each Credit Party acknowledges that Agent and Lenders are specifically relying upon the representations, warranties and agreements contained in this
+ Amendment and that such representations, warranties and agreements constitute a material inducement to Agent and Lenders in entering into this Amendment.
+
+ 
+
+ 
+
+ 
+
+6.
+
+ 
+
+Release by Credit Parties
+
+.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(a)
+
+ 
+
+ 
+
+ 
+In further consideration of the execution of this Amendment by Agent and Lenders, each Credit Party (on behalf of itself and
+ its shareholders, directors, members, managers, partners, officers, affiliates, successors and assigns) hereby unconditionally, absolutely and irrevocably forever remises, releases, acquits, satisfies and forever discharges Agent and
+ Lenders and their respective successors, assigns, affiliates, parent entities, officers, employees, directors, shareholders, agents and attorneys (collectively, the “
+Releasees
+”) from any and all claims, demands, liabilities, disputes, damages, suits, controversies, penalties, fees, costs, expenses, actions and causes of action (whether at law or in
+ equity) and obligations of every nature whatsoever, whether liquidated or unliquidated, known or unknown, matured or unmatured, fixed or contingent (all of the foregoing, “
+Claims
+”), that such Credit Party (or any of its respective shareholders, directors, members, managers, partners, officers, affiliates, successors or assigns) occurring on or before the
+ date hereof, from any or all of the Releasees, which arise from or relate to any actions, omissions, conditions, events, or any other circumstances whatsoever on or prior to the date hereof, including, without limitation, with respect to
+ the Obligations, any Collateral, the Credit Agreement, the transactions relating thereto or hereto, and any other Loan Document, other than for the gross negligence or willful misconduct of Agent as finally determined in a non-appealable
+ order of a court of competent jurisdiction.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(b)
+
+ 
+
+ 
+
+ 
+Each Credit Party understands, acknowledges and agrees that the release set forth above may be pleaded as a full and
+ complete defense and may be used as a basis for an injunction against any action, suit or other proceeding which may be instituted, prosecuted or attempted in breach of the provisions of such release.  Each Credit Party agrees that no fact,
+ event, circumstance, evidence or transaction that could now be asserted or that may hereafter be discovered shall affect in any manner the final, absolute and unconditional nature of the release set forth above.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(c)
+
+ 
+
+ 
+
+ 
+Each Credit Party hereby absolutely, unconditionally and irrevocably, covenants and agrees with and in favor of each
+ Releasee that such Credit Party will not sue (at law, in equity, in any regulatory proceeding or otherwise) any Releasee on the basis of any Claim released, remised and discharged by such Credit Party pursuant to the foregoing in this
+ Section 5.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+7.
+
+ 
+
+Reference to Credit Agreement; No Waiver
+
+.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(a)
+
+ 
+
+ 
+
+ 
+
+References
+
+.  Upon the effectiveness
+ of this Amendment, each reference in the Credit Agreement to “this Agreement,” “hereunder,” “hereof,” “herein” or words of like import shall mean and be a reference to the Credit Agreement, as amended hereby.  The term “Loan Documents” as
+ defined in 
+
+Section 1.1
+
+ of the Credit Agreement shall include (in addition to the Loan Documents described in the Credit Agreement) this Amendment
+ and the other Transaction Documents.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+(b)
+
+ 
+
+ 
+
+ 
+
+No Waiver
+
+.  The failure of Agent
+ (or, as applicable, Lenders), at any time or times hereafter, to require strict performance by Credit Parties of any provision or term of the Credit Agreement, this Amendment or the other Loan Documents shall not waive, affect or diminish
+ any right of Agent (or, as applicable, Lenders) hereafter to demand strict compliance and performance herewith or therewith.  Any suspension or waiver by Agent or Lenders of a breach of this Amendment or any Event of Default under the
+ Credit Agreement shall not, except as expressly set forth in a writing signed by Agent, suspend, waive or affect any other breach of this Amendment or any Event of Default under the Credit Agreement, whether the same is prior or subsequent
+ thereto and whether of the same or of a different kind or character.  None of the undertakings, agreements, warranties, covenants and representations of the Credit Parties contained in this Amendment, shall be deemed to have been suspended
+ or waived by Agent or Lenders unless such suspension or waiver is (i) in writing and signed by Agent and (ii) delivered to the Credit Parties.  In no event shall Agent’s and Lenders’ execution and delivery of this Amendment establish a
+ course of dealing among Agent, Lenders, Credit Parties or any other obligor, or in any other way obligate Agent or Lenders to hereafter provide any amendments or waivers with respect to the Credit Agreement.  The terms and provisions of
+ this Amendment shall be limited precisely as written and shall not be deemed (x) to be a consent to any amendment or modification of any other term or condition of the Credit Agreement or of any of the Loan Documents (except as expressly
+ provided herein); or (y) to prejudice any right or remedy which Agent or Lender may now have under or in connection with the Credit Agreement or any of the Loan Documents.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8.
+
+ 
+
+Full Force and Effect
+
+.  The Credit Agreement and all Loan Documents, in each case as
+ amended hereby, shall remain in full force and effect and are hereby ratified and confirmed.
+
+ 
+
+ 
+
+ 
+
+9.
+
+ 
+
+Reaffirmation of Security Interest
+
+.  Each Borrower hereby ratifies and reaffirms any
+ and all grants of Liens to Agent in, to and on the Collateral as security for the Obligations, and each Borrower acknowledges and confirms that the grants of the Liens to Agent for the benefit of itself and Lenders in, to and on the Collateral: 
+ (i) represent continuing Liens on all of the Collateral, (ii) secure the indefeasible payment in full in cash all of the Obligations when due or declared due in accordance with the terms of the Credit Agreement, and (iii) represent valid and first
+ priority perfected Liens on all of the Collateral except solely to the extent, if any, of any Permitted Liens.
+
+ 
+
+ 
+
+ 
+
+10.
+
+ 
+
+Miscellaneous
+
+.  Titles and headings herein are solely for the convenience of the
+ parties and are without substantive legal meaning.  This Amendment may only be amended or modified by a writing signed by Agent, Required Lenders and the Credit Parties.  Neither this Amendment nor any uncertainty or ambiguity herein shall be
+ construed or resolved against Agent or Lenders, whether under any rule of construction or otherwise.
+
+ 
+
+ 
+
+ 
+
+11.
+
+ 
+
+Incorporation by Reference
+
+.  Sections 10.5 (
+Costs and Expenses
+), 10.13 (
+Severability
+), 10.8 (
+Successors and Assigns
+), 10.9 (
+Assignments and Participations; Binding
+ Effect
+), 10.18 (
+Governing Law and Jurisdiction
+), 10.19 (
+Waiver of Jury Trial
+), and 9.21 (
+General Waivers by Credit Parties
+) of the Credit Agreement are incorporated by
+ reference herein, 
+mutatis mutandis,
+ and the parties hereto agree to such terms and agree that such provision apply with equal force to this
+ Amendment.
+
+ 
+
+ 
+
+ 
+
+12.
+
+ 
+
+Counterparts; Facsimile Signature
+
+.  This Amendment may be executed in any number of
+ counterparts and by different parties in separate counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement.  Signature pages may be detached from
+ multiple separate counterparts and attached to a single counterpart.  Execution of any such counterpart may be by means of (a) an electronic signature that complies with the federal Electronic Signatures in Global and National Commerce Act, state
+ enactments of the Uniform Electronic Transactions Act, or any other relevant and applicable electronic signatures law; (b) an original manual signature; or (c) a faxed, scanned, or photocopied manual signature.  Each electronic signature or faxed,
+ scanned, or photocopied manual signature shall for all purposes have the same validity, legal effect, and admissibility in evidence as an original manual signature.  Agent reserves the right, in its discretion, to accept, deny, or condition
+ acceptance of any electronic signature on this Amendment.   Any party delivering an executed counterpart of this Agreement by faxed, scanned or photocopied manual signature shall also deliver an original manually executed counterpart, but the
+ failure to deliver an original manually executed counterpart shall not affect the validity, enforceability and binding effect of this Amendment.  The foregoing shall apply to each other Loan Document, and any notice delivered hereunder or
+ thereunder, 
+mutatis mutandis
+.
+
+ 
+
+ 
+
+ 
+[Signature Pages Follow]
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+6
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed and delivered by their duly
+ authorized officers as of the day and year first above written.
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+BORROWERS
+
+:
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+EPLUS TECHNOLOGY, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+By:
+
+ 
+
+ 
+
+ 
+/s/ Elaine D. Marion
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+Print Name:
+
+ 
+
+ 
+
+ 
+Elaine D. Marion
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+Title:
+
+ 
+
+ 
+
+ 
+Chief Financial Officer
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+EPLUS TECHNOLOGY SERVICES, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+By:
+
+ 
+
+ 
+
+ 
+/s/ Elaine D. Marion
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+Print Name:
+
+ 
+
+ 
+
+ 
+Elaine D. Marion
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+Title:
+
+ 
+
+ 
+
+ 
+Chief Financial Officer
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+SLAIT CONSULTING, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+By:
+
+ 
+
+ 
+
+ 
+/s/ Elaine D. Marion
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+Print Name:
+
+ 
+
+ 
+
+ 
+Elaine D. Marion
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+Title:
+
+ 
+
+ 
+
+ 
+Chief Financial Officer
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed and delivered by their duly
+ authorized officers as of the day and year first above written.
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+WELLS FARGO COMMERCIAL DISTRIBUTION FINANCE, LLC
+,
+ as Agent, Swingline Lender and as a Lender
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+By:
+
+ 
+
+ 
+
+ 
+/s/ Fahad Haroon
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+Name:
+
+ 
+
+ 
+Fahad Haroon
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+Title:
+
+ 
+
+ 
+
+ 
+Its Duly Authorized Signatory
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed and delivered by their duly authorized officers as of
+ the day and year first above written.
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+REGIONS BANK
+, as a Lender
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+By:
+
+ 
+
+ 
+
+ 
+/s/ Alberto Casasus
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+Name:
+
+ 
+
+ 
+
+ 
+Alberto Casasus
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+Title:
+
+ 
+
+ 
+
+ 
+Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed and delivered by their duly authorized officers as of
+ the day and year first above written.
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+TRUIST BANK
+, as a Lender
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+By:
+
+ 
+
+ 
+
+ 
+/s/ Cathleen Marston
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+Name:
+
+ 
+
+ 
+
+ 
+Cathleen Marston
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+Title:
+
+ 
+
+ 
+
+ 
+Vice President
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed and delivered by their duly authorized officers as of
+ the day and year first above written.
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+CITIZENS BANK, N.A.
+, as a Lender
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+By:
+
+ 
+
+ 
+
+ 
+/s/ Sarah Becker
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+Name:
+
+ 
+
+ 
+Sarah Becker
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+Title:
+
+ 
+
+ 
+Vice President
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed and delivered by their duly authorized officers as of
+ the day and year first above written.
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+COMERICA BANK
+, as a Lender
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+By:
+
+ 
+
+ 
+
+ 
+/s/ Robert Wilson
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+Name:
+
+ 
+
+ 
+Robert Wilson
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+Title:
+
+ 
+
+ 
+Senior Vice President
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ACKNOWLEDGEMENT AND AGREEMENT OF GUARANTORS
+
+ 
+
+The undersigned, each a guarantor of the indebtedness of 
+
+ePlus Technology, inc.
+, a Virginia corporation (“
+Technology
+”), 
+ePlus Technology Services, inc
+., a Virginia corporation (“
+Services
+”), 
+SLAIT Consulting, LLC
+, a Virginia limited liability
+ company (“
+SLAIT
+”), and those additional entities that hereafter become parties to the Credit Agreement (as defined in the
+ Amendment (defined below)) as Borrowers in accordance with the terms thereof (together with Technology, Services, and SLAIT, each, a “
+Borrower
+,”
+
+ and individually and collectively, jointly and severally, the “
+Borrowers
+”) to the Lenders and Agent (each as defined in the
+ Amendment) pursuant to (i) that certain First Amended and Restated Limited Guaranty dated October 13, 2021, from ePlus Inc. in favor of Agent, for the benefit of the Lenders (the “Limited Guaranty – Holdings”) and (ii) that certain First Amended and
+ Restated Collateralized Guaranty dated October 13, 2021, from ePlus Group, Inc. in favor of Agent, for the benefit of the Lenders (the “Collateralized Guaranty – Group”)
+,
+ hereby (A) acknowledges receipt of the foregoing Second Amendment to First Amended and Restated Credit Agreement (the “
+
+Amendment
+
+”); (ii) consents to the terms and execution thereof; (iii) reaffirms all of its obligations to Agent pursuant to the terms of the Limited Guaranty – Holdings and Collateralized
+ Guaranty – Group, as applicable; and (iv) acknowledges that Agent and Lenders may amend, restate, extend, renew or otherwise modify the Credit Agreement (as defined in the Amendment) and any indebtedness or agreement of Borrowers, or enter into any
+ agreement or extend additional or other credit accommodations, without notifying or obtaining the consent of the undersigned and without impairing the liability of the undersigned under the
+
+ 
+
+Limited Guaranty – Holdings or Collateralized Guaranty – Group, as applicable, for Borrowers’ present and future
+ indebtedness to Agent and Lenders.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+EPLUS GROUP, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+By:
+
+ 
+
+ 
+
+ 
+/s/ Elaine D. Marion
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+Print Name:
+
+ 
+
+ 
+
+ 
+Elaine D. Marion
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+Title:
+
+ 
+
+ 
+
+ 
+Chief Financial Officer
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+EPLUS INC.
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+By:
+
+ 
+
+ 
+
+ 
+/s/ Elaine D. Marion
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+Print Name:
+
+ 
+
+ 
+
+ 
+Elaine D. Marion
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+Title:
+
+ 
+
+ 
+
+ 
+Chief Financial Officer

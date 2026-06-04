@@ -1,0 +1,3767 @@
+EX-10.1
+
+3
+
+ex10-1.htm
+
+ 
+
+ 
+
+Exhibit
+10.1
+
+ 
+
+Execution
+Copy
+
+ 
+
+LOAN
+AGREEMENT
+
+ 
+
+This
+Loan Agreement (this “
+Agreement
+”) is dated as of March 14, 2025 (the “
+Agreement Date
+”) and is made
+and 
+entered into between 
+Phoenix Motor Inc.
+, a Delaware corporation (the “
+Company
+”), and J.J. Astor
+& Co., a Utah corporation (including its successors and assigns, the “
+Lender
+”).
+
+ 
+
+WHEREAS, 
+the
+Company wishes to borrow the sum of up to $6,000,000 in two tranches of 
+$4,000,000 and $2,000,000 (the
+“
+Loans
+”), and the Company wishes to enter into this Agreement and the Exhibits hereto and issue to the Lender,
+the $5,300,000 Original Issue Amount senior secured convertible promissory note in the form of 
+
+Exhibit A-1
+
+ hereto (the
+“
+Initial Note
+”) and if the second tranche of $2,000,000 is requested by the Company and funded by the Lender, the
+additional $2,650,000 Original Issue Amount senior secured convertible promissory note in the form of 
+
+Exhibit A-2 
+
+hereto
+(the 
+“
+
+Additional Note
+” and together with the Initial Note, the “
+Notes
+”); and
+
+ 
+
+WHEREAS
+,
+the Company and each of its Subsidiary have agreed to further perfect and secure the Lender’s senior priority Lien on all of the
+assets and properties of the Company and its Subsidiaries pursuant to the Security Agreement and Subsidiary Guarantees to be entered
+into on the Initial Funding Date;
+
+ 
+
+WHEREAS
+,
+in consideration for the Loan and as an inducement to the Lender entering into this Agreement and the other Transaction Documents, the
+Company has agreed to issue the Warrant to the Lender on the Initial Funding Date; and
+
+ 
+
+WHEREAS
+,
+the Company and the Lender are executing and delivering this Agreement in reliance upon an exemption from securities registration requirements
+of the Securities Act of 1933, as amended (the “
+Securities Act
+”), afforded by the provisions of Section 4(a)(2) and/or
+Rule 506(b) of Regulation D promulgated thereunder by the U.S. Securities and Exchange Commission.
+
+ 
+
+NOW,
+THEREFORE
+, in consideration of the mutual covenants contained in this Agreement, and for other good and valuable consideration, the
+receipt and adequacy of which are hereby acknowledged, the Company and the Lender agree as follows:
+
+ 
+
+ARTICLE
+I
+
+DEFINITIONS
+
+ 
+
+Section
+1.01. 
+Definitions
+. In addition to the terms defined elsewhere in this Agreement, capitalized terms that are not otherwise defined
+herein have the meanings given to such terms in the Notes (as defined herein), and (b) the following terms have the meanings set forth
+in this Agreement.
+
+ 
+
+“
+$
+”
+means United States Dollars.
+
+ 
+
+“
+Acceleration
+Event
+” means the occurrence and continuation of an Event of Default (as defined in the Notes) beyond the applicable grace period,
+if any, for cure.
+
+ 
+
+“
+Acceleration
+Notice
+” means a written notice from the Lender that it has elected to accelerate the Loans for payment after the occurrence
+of an Acceleration Event.
+
+ 
+
+“
+Action
+”
+shall have the meaning ascribed to such term in Section 3.01(k).
+
+ 
+
+“
+Additional
+Funding Date
+” shall mean the date of funding of the Additional Loan by the Lender and the Company’s issuance of the
+Additional Note; which date shall be not earlier than sixty (60) days after the 
+Initial Funding Date, and which Additional
+Funding Date and Additional Loan shall be subject to the prior approval of the Lender.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“Additional
+Loan” shall mean the $2,000,000 second tranche of the Loans.
+
+ 
+
+“
+Additional
+Note
+” shall have the meaning as defined in the Recitals.
+
+ 
+
+“
+Affiliate
+”
+means any Person that, directly or indirectly through one or more intermediaries, controls or is controlled by or is under common control
+with a Person, as such terms are used in and construed under Rule 405 under the Securities Act.
+
+ 
+
+“
+Agreement
+Date
+” shall have the meaning as defined in the Recitals.
+
+ 
+
+“
+Board
+of Directors
+” means the board of directors of the Company or Subsidiary Guarantor of the Company, as the context may require
+or permit.
+
+ 
+
+“
+Business
+Day
+” means any day except Saturday, Sunday, any day which is a federal legal holiday in the United States or any day on which
+banking institutions in the State of Utah are authorized or required by law or other governmental action to close. If the last or appointed
+day for the taking of any action or the expiration of any right required or granted herein shall not be a Business Day, then such action
+may be taken or such right may be exercised on the next succeeding Business Day.
+
+ 
+
+“
+Closing
+”
+means the closing of the transactions contemplated by this Agreement pursuant to Section 
+2.01.
+
+ 
+
+“
+Commission
+”
+means the United States Securities and Exchange Commission.
+
+ 
+
+“
+Common
+Stock
+” means the common stock, par value $0.00004 per share, of the Company and any other class of securities into which such
+securities may hereafter be reclassified or changed; it being understood that there are currently approximately 45,979,404 shares of
+Common Stock outstanding, and a market capitalization of the Company of approximately $18,391,761.
+
+ 
+
+“
+Common
+Stock Equivalent
+” means any convertible note, convertible preferred stock containing such payment terms or rights, privileges
+and designations that are approved in writing in advance by the Lender, or warrant, option or other right to receive or subscribe for
+or purchase any additional shares of Common Stock or any Common Stock Equivalent.
+
+ 
+
+“
+Company
+Disclosure Schedule
+” means the disclosure schedule submitted by the Company to the Lender as exceptions to or disclosures in
+respect of the representations and warranties of the Company set forth in this Agreement.
+
+ 
+
+“
+Conversion
+Notice
+” shall have the meaning as that term is defined in the Notes.
+
+ 
+
+“
+Conversion
+Price
+” means, in the event that the Company elects to pay all or any portion of the Outstanding Principal Amount of the Initial
+Note or the Additional Note in Conversion Shares, a price equal to a fifteen percent (15%) discount to the 
+
+lower 
+
+of (a)
+the closing price of the Common Stock as traded on either the Nasdaq Capital Market, the Nasdaq Global Market or the Nasdaq Global Select
+Market (collectively, “
+Nasdaq
+”), or the New York Stock Exchange or the NYSE Amex Exchange (as applicable) on the trading
+day immediately prior to the applicable Funding Date and issuance of the Initial Note or Additional Note, or (b) the average of the four
+lowest VWAPS over the twenty (20) trading days prior to the applicable Funding Date (the “
+Conversion Price Formula
+”);
+
+provided, however
+
+, that:
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+(i)
+if the Lender or other Holder of the Notes elects to voluntarily convert all or 
+any portion of Initial Note or the Additional
+Note into Conversion Shares, the Conversion Price Formula shall be a price equal the 
+
+lower 
+
+of (a) 100% of the closing
+price of the Common Stock as traded on either the Nasdaq, or the New York Stock Exchange or the NYSE Amex Exchange (as applicable)
+on the trading day immediately prior to the applicable Funding Date and issuance of the Initial Note or Additional Note, or (b) 100%
+of the average of the four lowest VWAPS over the twenty (20) trading days prior to the applicable Funding Date
+
+ 
+
+(ii)
+so long as the Trading Market is Nasdaq, the Conversion Price and the Conversion Price Formula shall be subject to Nasdaq Rule 5635(d),
+
+ 
+
+(iii)
+in the event that the Company issues any securities, including convertible notes or debentures, Common Stock or other Common Stock Equivalents
+at a conversion price, exercise price or per share price that is less than such Conversion Price Formula, the Conversion Price shall
+be reduced to the lowest conversion price, exercise price or per share price issued by the Company and the Maximum Conversion Shares
+shall subject to appropriate increase as a result thereof, and
+
+ 
+
+(iv)
+in the event that, as a result of the application of Nasdaq Rule 5635(d), the Conversion Price then in effect shall be 
+
+greater
+
+than the closing price of the Common Stock as traded on Nasdaq or other applicable Trading Market at the time of any one or more
+weekly installment conversions of either of the Notes (the “
+Closing Price
+”), the Company shall issue to the Lender
+additional immediately salable Conversion Shares so that the total number of Conversion Shares shall be based on the Closing Price (the
+“
+Make Whole Shares
+”). For the avoidance of doubt, if the Conversion Price based on the Conversion Price Formula shall
+be $3.00 per share and the Lender shall convert any weekly installment or the Note into 20,000 Conversion Shares when the four lowest
+VWAP of Company Common Stock, as traded on the applicable Trading Market during the twenty(20) trading days immediately prior the date
+of notice of conversion is given by Lender is $2.00 per share, the Company shall issue to Lender an additional 10,000 immediately salable
+Conversion Shares as Make Whole Shares. Accordingly, the aggregate number of Conversion Shares subject to the adjusted Conversion Price
+shall be subject to increase based on the issuance of additional Make Whole Shares.
+
+ 
+
+Notwithstanding
+the foregoing, in the event of acceleration of either or both of the Notes, as a result of the occurrence and during the continuation
+of an uncured Event of Default the Conversion Price shall adjusted to be 20% of the closing price of the Company Common Stock on the
+Initial Funding Date (the “
+Event of Default Conversion Price
+”). In addition, in the event that the Event of Default
+Conversion Price shall be 
+
+greater
+
+ than the closing price of the Common Stock as traded on Nasdaq or other applicable Trading
+Market on the date that the Lender shall send the Company a notice of such Event of Default (the “
+Closing Price
+”),
+the Company shall issue to the Lender additional immediately salable Make Whole Shares so that the total number of Conversion Shares
+shall be based on the Closing Price.
+
+ 
+
+“
+Conversion
+Procedures
+” notwithstanding the right of the Lender to elect at any time to convert all or any part of the then Outstanding
+Principal Amount of the Notes into Conversion Shares, including the Maximum Conversion Shares, the Company shall have the right to pay
+in cash all or any portion of the entire then Outstanding Principal Amount of all Notes (each a “
+Company Cash Payment
+”)
+prior to receipt of the Lender’s notice of its election to convert the Notes (each a “
+Lender Conversion Notice
+”)
+and prior to any such conversion; 
+
+provided, however
+
+, if the Lender shall issue to the Company a Lender Conversion Notice
+prior to any Company election to make a Company Cash Payment, the Company will honor such Lender Conversion Notice and not make the applicable
+Company Cash Payment to enable the Lender to effect a conversion into Conversion Shares at the applicable Conversion Price. The Lender
+Conversion Notice may be given by electronic mail and the Company will deliver Conversion Shares to its transfer agent within one (1)
+Business Day following receipt of the Lender Conversion Notice.
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Conversion
+Shares
+” shall mean the shares of Common Stock of the Company issuable upon any full or partial permitted conversion of the
+Note and shall include the Make Whole Shares.
+
+ 
+
+“
+Covenant
+Compliance Guarantee
+” means the “limited guarantee agreement executed by Xiaofeng Denton Peng, the Chief Executive Officer
+of the Company, in the form of 
+
+Exhibit G
+
+ attached hereto.
+
+ 
+
+“
+Equity
+Interests
+” means Common Stock or Common Stock Equivalents, as applicable.
+
+ 
+
+“
+
+Equity
+Investment
+
+” 
+means any joint venture, partnership or other direct or indirect investments of the Loan Parties in Equity
+Interests.
+
+ 
+
+“
+
+Equity
+Receipts
+
+” 
+means the aggregate amount of cash received by the Company or any of its Subsidiaries in consideration for
+any issuance or sale by the Company or such Subsidiary on or after the Effective Date of (a) any of its Equity Interests or (b) any other
+security or instrument representing Equity Interests (or the right to obtain any Equity Interests) in such Person.
+
+ 
+
+“
+Exempt
+Issuance
+” means: (i) the issuance by the Company of the Notes, Conversion Shares and the Warrant Shares, (ii) the issuance
+by the Company of Common Stock upon the exercise, exchange or conversion of any security outstanding on the date hereof as disclosed
+in the SEC Reports or the Company Disclosure Schedule, (iii) the issuance by the Company of any Common Stock or standard options to purchase
+Common Stock to directors, officers, employees or consultants of the Company or its Subsidiary in their capacity as such pursuant to
+an employee benefit plan which has been approved by the Board of Directors of the Company prior to the date hereof pursuant to which
+Common Stock and standard options to purchase Common Stock may be issued to any employee, officer, director or consultant for services
+provided to the Company or its subsidiaries in their capacity as such, (iv) securities issued in connection with any joint venture, commercial
+or collaborative relationship, or the acquisition or license by the Company of the securities, businesses, property or other assets of
+another person, provided that such issuance is approved in advance and in writing by the Lender and also approved by the majority of
+the disinterested directors of the Company; (v) issuances of shares of Common Stock upon the exercise or exchange of rights issued pursuant
+to any shareholder rights agreement entered into between the Company and the Company’s transfer agent. For the avoidance of doubt,
+the term “Exempt Issuance” does not mean or include the issuance of any other Indebtedness or debt securities or any other
+Common Stock or Common Stock Equivalents by the Company or the Subsidiary, unless otherwise approved and consented to in writing in advance
+by the Lender.
+
+ 
+
+“
+Exchange
+Act
+” means the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder.
+
+ 
+
+“
+Existing
+Senior Debt
+” means the approximate $1,220,000 aggregate principal amount of senior secured convertible notes issued by the
+Company to the Existing Senior Lenders that is currently issued and outstanding, plus accrued interest thereon.
+
+ 
+
+“
+Existing
+Senior Lenders
+” means the collective reference to Dynasty Capital 26 LLC, and Agile Capital Funding LLC.
+
+ 
+
+“
+Exit
+Fee
+” On the Maturity Date of the Notes, the Company shall pay to the Lender an additional fee equal to $150,000 (the “
+Exit
+Fee
+”) which shall be paid by the Company in cash, on the Maturity Date).
+
+ 
+
+“
+
+Extraordinary
+Receipts
+
+” 
+means the aggregate amount of cash received by Company from any tax refunds, judgments, litigation settlements,
+indemnity payments, or other extraordinary receipts received on or after the Initial Funding Date.
+
+ 
+
+“
+FINRA
+”
+means the Financial Industry Regulatory Authority.
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Flow
+of Funds Agreement
+” means the agreement between the Company and the Lender in the form of 
+Exhibit E 
+annexed hereto.
+
+ 
+
+“
+Funding
+Amount
+” means, with respect to each of the Notes, ninety-six percent (96%) of the amount of each of the Loans and includes
+a $160,000 Origination Fee due from the Company to the Lender in connection with the Initial Loan and an $80,000 Origination Fee due
+from the Company to the Lender in connection with the Additional Loan, in each case representing four percent (4%) of the Initial Loan
+and Additional Loan, which shall be retained by the Lender at Closing for its own account and with respect to the Initial Loan, after
+deduction of legal fees payable to Lender’s counsel, and retirement of 100% of the Existing Senior Debt all as set forth in the
+Flow of Funds Agreement.
+
+ 
+
+“
+Funding
+Date
+” shall mean collectively the Initial Funding Date and the Additional Funding Date, as applicable.
+
+ 
+
+“
+Funding
+Request
+” shall mean the written request of the Company to the Lender to make the Initial Loan or the Additional Loan which
+shall be provided to the Lender not less than ten (10) Business Days prior to the Initial Funding Date or the Additional Funding Date,
+as applicable.
+
+ 
+
+“
+knowledge
+of the Company
+” and similar statements refer to the actual knowledge of any executive officer of the Company after due inquiry
+of those persons employed by the Company or any Subsidiary charged with administrative or operational responsibility for such matter.
+
+ 
+
+“
+Grace
+Period
+” has the meaning as that term is defined in the Notes.
+
+ 
+
+“
+Indebtedness
+”
+has the meaning as that term is defined in the Notes.
+
+ 
+
+“
+Initial
+Funding Date
+” means the Business Day when all of the Transaction Documents have been executed and delivered by the applicable
+parties thereto, and conditions precedent to: (i) the Lender’s obligations to fund the Initial Loan, retire the Existing Senior
+Debt, pay professional fees and provide working capital to the Company all as provided in the Flow of Funds Agreement, and (ii) the Company’s
+obligations to deliver the Initial Note and the other Transaction Documents have been satisfied or waived.
+
+ 
+
+“
+Initial
+Funding Amount
+” shall have the meaning as that term is defined in the Flow of Funds Agreement.
+
+ 
+
+“
+Initial
+Note
+” shall have the meaning as defined in the Recitals.
+
+ 
+
+“
+Insolvency
+Proceeding
+” means (a) any case, action or proceeding before any court or other Governmental Authority relating to bankruptcy,
+reorganization, insolvency, liquidation, receivership, dissolution, winding-up or relief of debtors, or (b) any general assignment for
+the benefit of creditors, composition, marshalling of assets for creditors, or other, similar arrangement in respect of any Person’s
+creditors generally or any substantial portion of such Person’s creditors, in each case undertaken under U.S. federal, state or
+foreign law.
+
+ 
+
+“
+Intellectual
+Property Rights
+” shall have the meaning ascribed to such term in Section 3.01(o).
+
+ 
+
+“
+Liens
+”
+shall mean a lien, charge, security interest, mortgage, encumbrance, right of first refusal, preemptive right or other restriction or
+adverse claim of a third party against property.
+
+ 
+
+“
+Lock
+Box Agreement
+” shall mean the agreement in the form of 
+Exhibit F 
+annexed hereto or such other form of deposit
+account control agreement or blocked account agreement as shall be mutually acceptable to the Loan Parties, the Lender and East West
+Bank (the “
+Loan Parties Bank
+”) which shall be entered into by the Loan Parties, the Loan Parties Bank and the
+Lender within 30 days from the Initial Funding 
+Date, pursuant to which each of the Loan Parties shall direct deposits of any
+kind, including collections of all accounts receivable to be deposited in a lock box account to be maintained by the Loan Parties
+and the Loan Parties Bank and in which the Lender shall have access and control over such Lock Box Account if an Event of Default
+under either of the Notes shall occur and be continuing.
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Loans
+”
+shall have the meaning ascribed to such term in Section 2.01(a) with respect to the Initial Loan and in Section 2.01(b) with respect
+to the Additional Loan.
+
+ 
+
+“
+Loan
+Parties
+” shall have the meaning ascribed to such term in Section 3.01.
+
+ 
+
+“
+Material
+Adverse Effect
+” shall have the meaning ascribed to such term in Section 3.01(a) and Section 3.01(b).
+
+ 
+
+“
+Maximum
+Conversion Shares
+” means, after acceleration for payment of the Notes following the occurrence of any Event of Default (as
+defined in the Notes) which shall not be timely cured by the Loan Parties and the Outstanding Principal Amount of each of the Notes shall
+automatically increase by 110% (a maximum of $5,830,000 for the Initial Note and a maximum of $2,915,000 for the Additional Note), shall
+commence to accrue interest on such Outstanding Principal amount at the rate of 19% per annum, and upon the request of the Lender, all
+or any portion of such increased Outstanding Principal Amount of the Notes plus accrued interest thereon may be converted by the Lender
+into that number of shares of Company Common Stock as shall be determined by (a) dividing 200% of the then increased Outstanding Principal
+Amount of the Notes and accrued interest thereon by (b) the Event of Default Conversion Price then in effect; 
+
+provided that
+
+,
+(i) the maximum number of shares of Common Stock of the Company that may be issued pursuant to any such permitted conversion of the Notes
+(calculated on a fully-diluted basis) shall not be greater than 19.9% of the number of shares of Common Stock of the Company then issued
+and outstanding (calculated on a non-diluted basis) unless Stockholder Approval has been obtained, and (ii) if prior to the Company obtaining
+Stockholder Approval, the Lender converts all or any portion of the Notes into 19.9% of the number of shares of Common Stock of the Company
+then issued and outstanding (calculated on a non- diluted basis) all payments of the then Outstanding Principal Amounts of the Notes
+shall be paid in cash until such time as Stockholder Approval has been obtained.
+
+ 
+
+“
+net
+proceeds
+” means the aggregate cash proceeds received by the Company or any Subsidiary in connection with the applicable transaction,
+net of the direct costs relating to transaction, including, without limitation, legal, accounting, consulting, printing and investment
+banking fees, sales commissions and underwriters’ discounts, and taxes paid or payable as a result of the transaction.
+
+ 
+
+“
+Notes
+”
+has the meaning as defined in the Recitals
+
+ 
+
+“
+Obligations
+”:
+(a) the unpaid principal of and interest on (including interest accruing after the maturity of the Loans and interest accruing after
+the filing of any petition in bankruptcy, or the commencement of any Insolvency Proceeding relating to any Loan Party, whether or not
+a claim for post- filing or post-petition interest is allowed or allowable in such proceeding) the Loans and all other obligations and
+liabilities (including any fees or expenses that accrue after the filing of any petition in bankruptcy, or the commencement of any insolvency,
+reorganization or like proceeding, relating to any Loan Party, whether or not a claim for post-filing or post-petition interest is allowed
+or allowable in such proceeding) of the Loan Parties to the Lender, whether direct or indirect, absolute or contingent, due or to become
+due, or now existing or hereafter incurred, which may arise under, out of, or in connection with, this Agreement, any other Loan Document
+or any other document made, delivered or given in connection herewith or therewith, whether on account of principal, interest, reimbursement
+obligations, payment obligations, fees, indemnities, costs, expenses (including all reasonable and documented out-of-pocket fees, charges
+and disbursements of counsel to the Lender that are required to be paid by any Loan party pursuant any Loan Document or otherwise. For
+the avoidance of doubt, the Obligations shall not include (x) any obligations arising under any warrants or other equity instruments
+issued by any Loan Party to the Lender.
+
+ 
+
+ 
+
+6
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Original
+Principal Amount
+” shall have the meaning as that term is defined in each of the Notes.
+
+ 
+
+“
+Origination
+Fee
+” shall mean the sum of $160,000 due from the Company to the Lender in connection with the Initial Loan and the sum of $80,000
+due from the Company to the Lender in connection with the Additional Loan, and retained by the Lender pursuant to the Funds Flow Agreement.
+
+ 
+
+“
+Outstanding
+Principal Amount
+” shall have the meaning as that term is defined in each of the Notes.
+
+ 
+
+“
+Payment
+Notice
+” shall have the meaning as that term is defined in the Notes.
+
+ 
+
+“
+Payment
+Shares
+” means shares of Common Stock issued by the Company to the Lender from time to time in full or partial payment of the
+Outstanding Principal Amount of the Notes; provided that the issuance of Payment Shares shall be subject to the Conversion Procedures.
+
+ 
+
+“
+Permitted
+Indebtedness
+” means (a) the Company’s Indebtedness to the Lender; (b) Indebtedness existing on the Effective Date and
+disclosed in the SEC Reports; (c) unsecured Indebtedness to trade creditors incurred in the ordinary course of business; (d) Indebtedness
+junior in priority to the Company’s Indebtedness to the Lender under this Agreement and the other Transaction Documents; and (e)
+extensions, refinancings, modifications, amendments and restatements of any items of Permitted Indebtedness (a) through (d) above, provided
+that the principal amount thereof is not increased or the payment terms thereof are not modified to impose more burdensome terms upon
+the Company or any Subsidiary, as the case may be;
+
+ 
+
+“
+Permitted
+Liens
+” means (i) pledges or deposits made in the ordinary course of business to secure payment of workmen’s compensation,
+or to participate in any fund in connection with workmen’s compensation, unemployment insurance, old-age pensions or other social
+security programs, (ii) Liens of mechanics, materialmen, warehousemen, carriers, landlords or other nonconsensual restrictions imposed
+by operation of law; (iii) Liens for taxes, assessments or governmental or similar charges which have not been recorded/filed with the
+applicable secretary of state and which are not delinquent or which are being diligently contested in good faith and by appropriate proceedings
+and adequate reserves with respect thereto are maintain on the books of the Loan Parties, (iv) Liens arising solely by virtue of any
+contractual or statutory or common law provisions relating to banker’s liens, rights to set off or similar rights and remedies
+as to deposit accounts or other funds maintained with a creditor depository institution, (v) judgement liens that, to the extent not
+released, would reasonably be expected to result in a Material Adverse Effect, (vi) Liens consisting of zoning restrictions, easements
+or other restrictions on the use of real property, none of which materially impairs the use of such property or the value thereof, and
+none of which is violated in any material respect by existing or proposed structures or land use, (vii) customary anti-assignment provisions
+in leases and other contracts entered into in the ordinary course of business, (viii) Liens arising from the filing of precautionary
+UCC financing statements relating solely to personal property leased pursuant to “true” operating leases entered into in
+the ordinary course of business of the Company and their Subsidiaries, (ix) Liens in favor of the Lender, and (x) other Liens existing
+as of the Initial Funding Date that are disclosed on Section 3.01(r) to the Company Disclosure Schedule.
+
+ 
+
+“
+Person
+”
+means an individual or corporation, partnership, trust, incorporated or un-incorporated association, joint-venture, limited liability
+company, joint-stock company, government (or an agency or subdivision thereof) or other entity of any kind.
+
+ 
+
+“
+Proceeding
+”
+means an action, claim, suit, investigation or proceeding (including, without limitation, an informal investigation or partial proceeding,
+such as a deposition), whether commenced or threatened.
+
+ 
+
+“
+
+Recovery
+Event
+
+” 
+means any settlement of or payment to any Loan Party in respect of any property or casualty insurance claim or
+any condemnation proceeding relating to any asset of any Loan Party.
+
+ 
+
+ 
+
+7
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Registration
+Rights Agreement
+” shall mean the registration rights agreement in the form of 
+
+Exhibit D
+
+ hereto, under which the
+Company shall register for resale under the Securities Act all of the Conversion Shares, the Maximum Conversion Shares (if issued) and
+the Warrant Shares (collectively, the “
+Registrable Securities
+”); pursuant to which, inter alia, the Company shall
+file a resale registration statement covering all of the Registrable Securities within ninety (90) days of the Initial Funding Date.
+
+ 
+
+“
+Required
+Approvals
+” shall have the meaning ascribed to such term in Section 3.01(d).
+
+ 
+
+“
+Rule
+144
+” means Rule 144 promulgated by the Commission pursuant to the Securities Act, as such Rule may be amended from time to
+time, or any similar rule or regulation hereafter adopted by the Commission having substantially the same effect as such Rule.
+
+ 
+
+“
+SEC
+Reports
+” has the meaning ascribed to such term in Section 3.01(g).
+
+ 
+
+“
+Securities
+Act
+” means the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder.
+
+ 
+
+“
+Security
+Agreement
+” means the Security Agreement, dated as of the date hereof, in the form of 
+
+Exhibit C
+
+ attached
+hereto.
+
+ 
+
+“
+State
+Securities Laws
+” means the securities (or “blue sky”) rules, regulations, or other similar laws of a particular
+state.
+
+ 
+
+“
+Stockholders
+Meeting
+” shall have the meaning as defined in Section 4.05.
+
+ 
+
+“
+Subsidiaries
+”
+and “
+Subsidiary Guarantors
+” means the collective reference to Phoenix Cars, LLC, a [Delaware] limited liability company,
+Phoenix Motorcars Leasing, LLC a [Delaware] limited liability company and Edison Future International Co., Ltd. a Hong Kong corporation,
+being the only subsidiaries of the Company as set forth on Section 3.01(a) and listed in the Company Disclosure Schedule and shall, where
+applicable, include any other direct or indirect subsidiary of the Company formed or acquired after the date hereof.
+
+ 
+
+“
+Subsidiary
+Guarantee
+” the Subsidiary Guarantee executed by the Subsidiaries in the form of
+
+Exhibit
+B
+
+, attached hereto.
+
+ 
+
+“
+Trading
+Market
+” means, as applicable, the Nasdaq Capital Market, the Nasdaq Global Market, the Nasdaq Global Select Market, the New
+York Stock Exchange, the NYSE American, the OTC Markets (including OTCQX Market, OTCQB Market and Pink Market), any nationally recognized
+successor to any of the foregoing, or any other United States or foreign securities exchange where the Company’s Common Stock trades
+on the date in question.
+
+ 
+
+“
+Transaction
+Documents
+” means the collective reference to (a) this Agreement, (b) the Notes, (c) the Subsidiary Guarantee, (d) the Security
+Agreement, (e) Covenant Compliance Agreement, (f) the Registration Rights Agreement, (g) the Transfer Agent Instructions, (h) the Lock
+Box Agreement, (i) the Funds Flow Agreement. All other appendices, exhibits and schedules hereto and thereto and any other documents
+or agreements executed in connection with the transactions contemplated hereunder.
+
+ 
+
+“
+Transfer
+Agent Instructions
+” means An Irrevocable Instruction letter addressed to Vstock Transfer, LLC., the Company’s transfer
+agent in the form of 
+
+Exhibit H
+
+ attached hereto, with respect to the Conversion Shares issuable upon any full or partial
+conversion of the Notes and the Maximum Conversion Shares, to be executed by an authorized officer of the Company and acknowledged and
+accepted by the transfer agent of the Company’s Common Stock 
+ARTICLE II.
+
+ 
+
+ 
+
+8
+
+ 
+
+ 
+
+ 
+
+ 
+
+THE
+LOANS
+
+ 
+
+Section
+2.01 
+Initial Funding Date
+.
+
+ 
+
+(a)
+ On the Initial Funding Date, upon the terms and subject to the conditions set forth herein and in the other Transaction Documents to
+be executed and delivered by the parties hereto and thereto, the Lender hereby agrees to make the Initial Loan of $4,000,000, less the
+$160,000 Origination Fee and the Company hereby agrees to issue to the Lender the Initial Note in $5,300,000 Original Principal Amount,
+and the Lender hereby agrees to accept from the Company the Initial Note.
+
+ 
+
+(b)
+On the Initial Funding Date, the Lender shall deliver to the Company and to the Existing Senior Lenders, via wire transfer, of immediately
+available funds, an amount equal to approximately $3,790,000, representing the Initial Funding Amount set forth in the Flow of Funds
+Agreement.
+
+ 
+
+(c)
+The Company, the Subsidiaries and the Loan Parties Bank shall deliver to the Lender such Initial Note and other Transaction Documents
+to be delivered as of the Initial Funding Date and the Lender shall deliver the other items set forth in Section 2.02 deliverable at
+the Closing.
+
+ 
+
+(d)
+Upon satisfaction of the conditions set forth in Sections 2.02 and 2.03, the Initial Funding shall occur at the offices of the Lender’s
+counsel, or such other location as the parties shall mutually agree or may be closed remotely by electronic delivery of documents.
+
+ 
+
+Section
+2.02 
+Initial Funding Date Deliverables
+.
+
+ 
+
+(a)
+
+By Lender
+. On or prior to the Initial Funding Date, the Lender shall deliver or cause to be delivered to the Company the following:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(i)
+
+ 
+
+this
+ Agreement duly executed by the Lender;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(ii)
+
+ 
+
+the
+ Security Agreement, the form of which is attached hereto as 
+
+Exhibit C
+
+, duly executed by the Lender;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(iii)
+
+ 
+
+the
+ Initial Funding Amount, by wire transfer to the Company, the Existing Senior Lenders and Lender’s legal counsel pursuant to
+ the wiring instructions to be provided and set forth in the Flow of Funds Agreement;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(iv)
+
+ 
+
+the
+ Registration Rights Agreement duly executed by the Lender and in the form of 
+
+Exhibit D
+
+ attached hereto;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(v)
+
+ 
+
+the
+ Flow of Funds Agreement duly executed by the Lender and in the form of 
+
+Exhibit E
+
+ attached hereto; and
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(vi)
+
+ 
+
+the
+ Transfer Agent Instructions duly executed by the Lender and in the form of 
+
+Exhibit I
+
+ attached hereto.
+
+ 
+
+ 
+
+ 
+
+9
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+
+By the Company
+. On or prior to the Initial Funding Date, the Company shall deliver or cause to be delivered to the Lender:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(i)
+
+ 
+
+this
+ Agreement, duly executed by an authorized officer of behalf of the Company;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(ii)
+
+ 
+
+a
+ Initial Note, the form of which is attached hereto as 
+
+Exhibit A-1
+
+, registered in the name of the Lender, in the $5,300,000
+ Original Principal Amount calculated in accordance herewith, duly executed by an authorized officer on behalf of the Company;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(iii)
+
+ 
+
+the
+ Subsidiary Guarantee, the form of which is attached hereto as 
+
+Exhibit B
+
+, executed by an authorized officer on behalf
+ of the Subsidiaries of the Company;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(iv)
+
+ 
+
+the
+ Security Agreement, the form of which is attached hereto as 
+
+Exhibit C
+
+, executed by an authorized officer on behalf
+ of the Company and the Subsidiaries;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(v)
+
+ 
+
+the
+ Registration Rights Agreement duly executed by the Company and in the form of 
+
+Exhibit D
+
+ attached hereto;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(vi)
+
+ 
+
+the
+ Flow of Funds Agreement duly executed by the Company and in the form of 
+
+Exhibit E
+
+ attached hereto;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(vii)
+
+ 
+
+Covenant
+ Compliance Agreement in the form of 
+
+Exhibit G
+
+ duly executed by Xiaofeng Denton Peng, as CEO of the Company;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(viii)
+
+ 
+
+The
+ Transfer Agent Instructions in the form of 
+
+Exhibit H
+
+ attached hereto, duly executed by the Company and the Company’s
+ transfer agent; and
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(ix)
+
+ 
+
+an
+ officer’s certificate of the Company and the Subsidiary certifying its: (A) charter (or similar formation document); (B) good
+ standing certificate in its state of incorporation (or formation); (C) bylaws (or similar governing document); and (D) resolutions
+ of its Board of Directors (or similar governing body) approving and authorizing the execution, delivery and performance of the Transaction
+ Documents to which it is (or is to be) a party.
+
+ 
+
+ 
+
+(c)
+On or before a date which shall be not later than thirty (30) days from the Initial Funding Date, the Loan Parties, the Loan Parties
+Bank and the Lender shall execute and deliver the Lock Box Agreement.
+
+ 
+
+Section
+2.03 
+Initial Funding Date Conditions
+.
+
+ 
+
+(a)
+The obligations of the Company hereunder in connection with the Initial Closing are subject to the following conditions being met (it
+being understood that the Company may waive any of the conditions for the Initial Funding hereafter):
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(i)
+
+ 
+
+the
+ accuracy in all material respects on the Initial Funding Date of the Lender’s representations and warranties contained herein;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(ii)
+
+ 
+
+all
+ obligations, covenants and agreements of the Lender required to be performed at or prior to the Initial Funding Date shall have been
+ performed; and
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(iii)
+
+ 
+
+the
+ delivery by the Lender of the items set forth in Section 2.02(a) of this Agreement.
+
+ 
+
+ 
+
+ 
+
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+The obligations of the Lender hereunder in connection with the Initial Funding are subject to the following conditions being met (it
+being understood that the Lender may waive any of the conditions for the Initial Funding hereafter):
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(i)
+
+ 
+
+the
+ accuracy in all material respects (or, to the extent representations or warranties are qualified by materiality or Material Adverse
+ Effect, in all respects) when made and on the Initial Funding Date of the representations and warranties of the Company contained
+ herein (unless as of a specific date therein in which case they shall be accurate as of such date);
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(ii)
+
+ 
+
+all
+ obligations, covenants and agreements of the Company and its Subsidiary required to be performed at or prior to the Funding Date
+ shall have been performed;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(iii)
+
+ 
+
+the
+ delivery by the Company and its Subsidiary of the items set forth in Section 2.02(b) of this Agreement;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(iv)
+
+ 
+
+there
+ shall be no Material Adverse Effect with respect to the Company or the Subsidiary of the Company since the date hereof; and
+
+ 
+
+ 
+
+(c)
+the Company and the Existing Senior Lenders shall furnish the Lender with the wiring instruction for the Initial Funding Amount.
+
+ 
+
+Section
+2.04 
+Additional Funding Date
+.
+
+ 
+
+(a)
+On the Additional Funding Date, upon the terms and subject to the conditions set forth herein and in the other Transaction Documents
+to be executed and delivered by the parties hereto and thereto, the Lender hereby agrees to make the Additional Loan of $2,000,000, less
+the $80,000 Origination Fee and the Company hereby agrees to issue to the Lender the Additional Note in $2,650,000 Original Principal
+Amount and the Lender hereby agrees to accept from the Company the Additional Note.
+
+ 
+
+(b)
+On the Initial Funding Date, the Lender shall deliver to the Company, via wire transfer, of immediately available funds, an amount equal
+to $1,920,000, representing the Additional Funding Amount.
+
+ 
+
+(c)
+The Company and its Subsidiary shall deliver to the Lender such Additional Note and other Transaction Documents to be delivered as of
+the Funding Date and the Lender shall deliver the other items set forth in Section 2.05 deliverable at the Closing.
+
+ 
+
+(d)
+Upon satisfaction of the conditions set forth in Sections 2.04 and 2.05, the Additional Funding shall occur at the offices of the Lender’s
+counsel, or such other location as the parties shall mutually agree or may be closed remotely by electronic delivery of documents.
+
+ 
+
+Section
+2.05 
+Additional Funding Date Deliverables
+.
+
+ 
+
+(a)
+
+By Lender
+. On or prior to the Additional Funding Date, the Lender shall deliver or cause to be delivered to the Company the $1,920,000
+Additional Funding Amount, by wire transfer to the Company pursuant to the wiring instructions to be provided by the Company;
+
+ 
+
+(b)
+
+By the Company
+. On or prior to the Additional Funding Date, the Company shall deliver or cause to be delivered to the Lender;
+
+ 
+
+ 
+
+11
+
+ 
+
+ 
+
+ 
+
+ 
+
+(i)
+this Agreement, duly executed by an authorized officer of behalf of the Company;
+
+ 
+
+(ii)
+the Additional Note, the form of which is attached hereto as 
+
+Exhibit A-2
+
+, registered in the name of the Lender, in the
+$2,650,000 Original Principal Amount calculated in accordance herewith, duly executed by an authorized officer on behalf of the Company;
+
+ 
+
+(iii)
+confirmation to the Lender and the Transfer Agent that the Subsidiary Guarantee, the Security Agreement, the Warrant, the Registration
+Rights Agreement, the Transfer Agent Instructions, the Covenant Compliance Agreement and the AGP Agreement remain in full force and effect
+in accordance with their respective terms; and
+
+ 
+
+(iv)
+an officer’s certificate of the Company and the Subsidiary certifying its: (A) charter (or similar formation document); (B) good
+standing certificate in its state of incorporation (or formation); (C) bylaws (or similar governing document); and (D) resolutions of
+its Board of Directors (or similar governing body) approving and authorizing the execution, delivery and performance of the Transaction
+Documents to which it is (or is to be) a party.
+
+ 
+
+Section
+2.06 
+Additional Closing Conditions
+.
+
+ 
+
+a.
+the accuracy in all material respects on the Additional Funding Date of the Lender’s representations and warranties contained
+herein;
+
+ 
+
+b.
+all obligations, covenants and agreements of the Lender required to be performed at or prior to the Additional Funding Date shall have
+been performed; and
+
+ 
+
+c.
+the delivery by the Lender of the items set forth in Section 2.02(a) of this Agreement.
+
+ 
+
+d.
+the accuracy in all material respects (or, to the extent representations or warranties are qualified by materiality or Material Adverse
+Effect, in all respects) when made and on the Additional Funding Date of the representations and warranties of the Company contained
+herein (unless as of a specific date therein in which case they shall be accurate as of such date);
+
+ 
+
+e.
+all obligations, covenants and agreements of the Company and its Subsidiary required to be performed at or prior to the Funding Date
+shall have been performed;
+
+ 
+
+f.
+the delivery by the Company and its Subsidiary of the items set forth in Section 2.02(b) of this Agreement;
+
+ 
+
+g.
+there shall exist no Event of Default under the Initial Note;
+
+ 
+
+h.
+there shall have been no Material Adverse Effect with respect to the Company or the Subsidiary of the Company since the date hereof;
+and
+
+ 
+
+i.
+the Company shall furnish the Lender with the wiring instruction for the Additional Funding Amount.
+
+ 
+
+ 
+
+12
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARTICLE
+III
+
+ REPRESENTATIONS AND WARRANTIES
+
+ 
+
+Section
+3.01
+Representations and Warranties of the Company
+.
+
+ 
+
+The Company hereby represents and warrants to the Lender on behalf of the Company
+and each of its Subsidiaries (together with theCompany, the “
+Loan Parties
+”) that, except as set forth in the applicable
+Section of the Company Disclosure Schedule the Company Disclosure Schedule, the following representations are true and complete as of
+the date of the date hereof.
+
+ 
+
+(a)
+
+Organization and Qualification
+. The Company and the Subsidiaries are each duly incorporated or otherwise organized, validly existing
+and in good standing under the laws of Delaware, with the requisite power and authority to own and use its properties and assets and
+to carry on its business as currently conducted. Neither the Company nor the Subsidiaries is in violation or default of any of the provisions
+of its certificates of incorporation or bylaws, each, as amended and in effect. A complete and correct copy of the Company’s certificate
+of incorporation and bylaws, with respect to the Company, or certificate of formation and LLC agreement, with respect to the Subsidiaries,
+each as amended and in effect on the date of this Agreement and as they will be in effect on the Funding Date, is attached to the officer’s
+certificate referenced in Section 2.02(b) and Section 2.04(b). There are no other organizational or charter documents of the Company
+or the Subsidiaries. The Company and the Subsidiaries is duly qualified to conduct business and is in good standing as a foreign corporation
+or other entity in each jurisdiction in which the nature of the business conducted or property owned by it makes such qualification necessary,
+except where the failure to be so qualified or in good standing, as the case may be, could not have or reasonably be expected to result
+in: (i) a material adverse effect on the legality, validity or enforceability of any Transaction Document; (ii) a material adverse effect
+on the results of operations, assets, business or financial condition of the Company and the Subsidiaries taken as a whole; or (iii)
+a material adverse effect on the Company’s or the Subsidiaries’ ability to perform in any material respect on a timely basis
+its obligations under any Transaction Document (any of (i), (ii) or (iii), a “
+Material Adverse Effect
+”) and no Proceeding
+has been instituted in any such jurisdiction revoking, limiting or curtailing or seeking to revoke, limit or curtail such power and authority
+or qualification; 
+provided, however
+, that “Material Adverse Effect” shall not include any event, occurrence, fact,
+condition or change, directly or indirectly, arising out of or attributable to: (i) general economic or political conditions, (ii) conditions
+generally affecting the industry in which the Company or the Subsidiaries operates, (iii) any changes in financial or securities markets
+in general, (iv) acts of war (whether or not declared), armed hostilities or terrorism, or the escalation or worsening thereof, (v) any
+pandemic, epidemics or human health crises (including COVID-19), (vi) any changes in applicable laws or accounting rules, (vii) the announcement,
+pendency or completion of the transactions contemplated by the Transaction Documents, or (viii) any action required or permitted by the
+Transaction Documents or any action taken (or omitted to be taken) with the written consent of or at the written request of the Lender.
+
+ 
+
+(b)
+
+Authorization; Enforcement
+. Each of the Company and the Subsidiaries has the requisite corporate power and authority to enter
+into and to consummate the transactions contemplated by each of the Transaction Documents and otherwise to carry out its obligations
+hereunder and thereunder. The execution and delivery of each of the Transaction Documents by the Company and the consummation by it of
+the transactions contemplated hereby and thereby have been duly authorized by all necessary action on the part of the Company and the
+Subsidiaries and no further action is required by the Company, the Subsidiaries or the Board of Directors or stockholders thereof in
+connection therewith (other than the Required Approvals). Each Transaction Document to which the Company or the Subsidiaries is a party
+has been (or upon delivery will have been) duly executed by the Company and the Subsidiaries and, when delivered in accordance with the
+terms hereof and thereof, will constitute the valid and binding obligation of the Company and the Subsidiaries enforceable against the
+Company and the Subsidiaries in accordance with their respective terms, except: (i) as limited by general equitable principles and applicable
+bankruptcy, insolvency, reorganization, moratorium and other laws of general application affecting enforcement of creditors’ rights
+generally; (ii) as limited by laws relating to the availability of specific performance, injunctive relief or other equitable remedies;
+and (iii) insofar as indemnification and contribution provisions may be limited by applicable law.
+
+ 
+
+ 
+
+13
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c)
+
+No Conflicts
+. The execution, delivery and performance by the Company and the Subsidiaries of the Transaction Documents to which
+it is (or is to be) a party and the consummation by the Company and of its Subsidiaries of the other transactions contemplated hereby
+and thereby do not and will not: (i) conflict with or violate any provision of the Company’s or the Subsidiaries’ certificate
+of incorporation, bylaws or other organizational or charter documents; (ii) conflict with, or constitute a default (or an event that
+with notice or lapse of time or both would become a default) under, result in the creation of any Lien upon any of the properties or
+assets of the Company, or give to others any rights of termination, amendment, acceleration or cancellation (with or without notice,
+lapse of time or both) of, any agreement, credit facility, agreement or other instrument (evidencing Indebtedness of the Company or the
+Subsidiaries, or otherwise) or other understanding to which the Company or the Subsidiaries is a party or by which any property or asset
+of the Company or the Subsidiaries is bound or affected; or (iii) subject to the Required Approvals, conflict with or result in a violation
+of any law, rule, regulation, order, judgment, injunction, decree or other restriction of any court or governmental authority to which
+the Company or the Subsidiaries is subject (including federal and State Securities Laws and regulations), or by which any property or
+asset of the Company or the Subsidiaries is bound or affected; except in the case of each of clauses (ii) and (iii), such as would not
+reasonably be expected to result in a Material Adverse Effect.
+
+ 
+
+(d)
+
+Filings, Consents and Approvals
+. The Company and its Subsidiaries are not required to obtain any consent, waiver, authorization
+or order of, give any notice to, or make any filing or registration with, any court or other federal, state, local or other governmental
+authority or other Person in connection with their execution, delivery and performance of the Transaction Documents, other than: (i)
+such consents, waivers, or authorizations as have been obtained before the Closing; and (ii) the filing of Form D with the Commission
+and such filings as are required to be made under applicable State Securities Laws (collectively, the “
+Required Approvals
+”).
+
+ 
+
+(e)
+
+Reservation of Common Stock
+. The Company has reserved from its duly authorized Common Stock a number of shares of Common Stock,
+up to the sum of (i) the Warrant Shares to be issued at Closing under the Warrant, plus (ii) the Maximum Conversion Shares for issuance
+to the Lender or its Affiliates in the event of the full permitted conversion of the Notes, and (iii) the Warrant Shares issuable under
+the Default Warrant.
+
+ 
+
+(f)
+
+Capitalization
+. The capitalization of the Company is as set forth in the most recent SEC Reports and as further modified in Section
+3.01(f) of the Company Disclosure Schedule. The Company has no Indebtedness, except for the Senior Debt or as otherwise disclosed in
+the most recent SEC Reports and in Section 3.01(f) of the Company Disclosure Schedule. Since the date of the most recently filed SEC
+Report, the Company has not issued any Common Stock, Common Stock Equivalents or other equity interests (other than Exempt Issuances)
+or (without duplication) pursuant to the conversion and/or exercise of Common Stock Equivalents outstanding as of the date hereof. Except
+in instances where valid waivers have been obtained, no Person has any right of first refusal, preemptive right, right of participation,
+or any similar right to participate in the transactions contemplated by the Transaction Documents. Except as set forth in the SEC Reports
+and further modified in Section 3.01(f) of the Company Disclosure Schedule, there are no outstanding options, warrants, scrip rights
+to subscribe to, calls or commitments of any character whatsoever relating to, or securities, rights or obligations convertible into
+or exercisable or exchangeable for, or giving any Person any right to subscribe for or acquire, any Common Stock or the capital stock
+of the Subsidiaries, or contracts, commitments, understandings or arrangements by which the Company or the Subsidiaries is or may become
+bound to issue additional Common Stock or Common Stock Equivalents or capital stock of the Subsidiaries. The issuance and sale of the
+Notes will not obligate the Company or the Subsidiaries to issue any securities to any Person (other than the Lender) and will not result
+in a right of any holder of Company securities to adjust the exercise, conversion, exchange or reset price under any of such securities.
+All of the outstanding shares of capital stock of the Company are duly authorized, validly issued, fully paid and nonassessable, have
+been issued in compliance with all federal and state securities laws, and none of such outstanding shares was issued in violation of
+any preemptive rights or similar rights to subscribe for or purchase securities. Except for the Required Approvals and waivers that have
+heretofore been obtained, no further approval or authorization of any stockholder, Board of Directors or other Person(s) is required
+for the issuance and sale of the Notes hereunder.
+
+ 
+
+ 
+
+14
+
+ 
+
+ 
+
+ 
+
+ 
+
+(g)
+
+SEC Reports; Financial Statements
+. The Company has filed all reports, schedules, forms, statements and other documents required
+to be filed by the Company under the Securities Act and the Exchange Act, including pursuant to Section 13(a) or 15(d) thereof, for the
+two years preceding the date hereof (or such shorter period as the Company was required by law or regulation to file such material) (the
+foregoing materials, including the exhibits thereto and documents incorporated by reference therein, being collectively referred to herein
+as the “
+SEC Reports
+”). As of their respective dates, the SEC Reports complied in all material respects with the requirements
+of the Securities Act and the Exchange Act, as applicable, and none of the SEC Reports, when filed, contained any untrue statement of
+a material fact or omitted to state a material fact required to be stated therein or necessary in order to make the statements therein,
+in the light of the circumstances under which they were made, not misleading. The financial statements of the Company included in the
+SEC Reports comply in all material respects with applicable accounting requirements and the rules and regulations of the SEC with respect
+thereto as in effect at the time of filing. Such financial statements have been prepared in accordance with United States generally accepted
+accounting principles applied on a consistent basis during the periods involved (“
+GAAP
+”), except as may be otherwise
+specified in such financial statements or the notes thereto and except that unaudited financial statements may not contain all footnotes
+required by GAAP, and fairly present in all material respects the financial position of the Company and its consolidated Subsidiaries
+as of and for the dates thereof and the results of operations and cash flows for the periods then ended, subject, in the case of unaudited
+statements, to normal year-end audit adjustments.
+
+ 
+
+(h)
+
+Undisclosed Liabilities
+. The Company has no liability, indebtedness, obligation, expense, claim, deficiency or guaranty of any
+type, whether accrued, absolute, contingent, matured, unmatured or otherwise, required to be reflected in financial statements in accordance
+with GAAP, which individually or in the aggregate: (A) has not been reflected in the latest balance sheet included in the financial statements
+referenced hereinabove; or (B) has not arisen: (i) in the ordinary course of business, consistent with past practices, since the date
+of the latest balance sheet included in such financial statements in an amount that does not exceed $50,000 in any one case or $100,000
+in the aggregate, (ii) pursuant to or in connection with this Agreement or other Transaction Document, or (c) are executory performance
+obligations to be performed after the date hereof in the ordinary course of business pursuant to agreement(s) entered into in the ordinary
+course of business, consistent with past practices. The Company is not in default with respect to any Indebtedness.
+
+ 
+
+(i)
+
+Material Changes
+. Since the date of the latest financial statements made available to Lender prior to the date hereof, other than
+as set forth in the SEC Reports: (A) there has been no event, occurrence or development that has had or that could reasonably be expected
+to result in a Material Adverse Effect; (B) the Company has not incurred any liabilities (contingent or otherwise) other than (i) trade
+payables and accrued expenses incurred in the ordinary course of business consistent with past practice, and (ii) liabilities not required
+to be reflected in the Company’s financial statements pursuant to GAAP; (C) the Company has not altered their method of accounting;
+(D) the Company has not declared or made any dividend or distribution of cash or other property to its stockholders or purchased, redeemed
+or made any agreements to purchase or redeem any shares of its capital stock; and (E) the Company has not issued any equity securities
+except in favor of an officer, director or consultant pursuant to an existing Company equity incentive plans.
+
+ 
+
+(j)
+
+Litigation
+. There is no action, suit, inquiry, notice of violation, proceeding or investigation pending or, to the knowledge of
+the Company, threatened against or affecting the Company, the Subsidiaries or any of their respective properties or assets before or
+by any court, arbitrator, governmental or administrative agency or regulatory authority (federal, state, county, local or foreign) (collectively,
+an “
+Action
+”) which: (A) adversely affects or challenges the legality, validity or enforceability of any of the Transaction
+Documents; or (ii) if there were an unfavorable decision, would reasonably be expected to result in a Material Adverse Effect. Except
+as set forth in the SEC Reports, none of the Company or any director or officer thereof is or has been the subject of anyAction involving:
+(x) a claim of violation of or liability under the Securities Act, the Exchange Act, FINRA rules or any State Securities Laws; (y) breach
+of fiduciary duty; or (z) fraud (statutory or common law), embezzlement, misappropriation or conversion of property or rights, or any
+other crime involving deceit.
+
+ 
+
+ 
+
+15
+
+ 
+
+ 
+
+ 
+
+ 
+
+(k)
+
+Labor Relations
+. No labor dispute exists or, to the knowledge of the Company, is imminent with respect to any of the employees
+of the Company or the Subsidiaries which would reasonably be expected to result in a Material Adverse Effect. None of the Company’s
+or the Subsidiaries’ employees is a member of a union that relates to such employee’s relationship with the Company or its
+Subsidiaries, and the Company and the Subsidiaries is not a party to any collective bargaining agreement. The Company believes that its
+relationships with its employees are good. No executive officer, to the knowledge of the Company, is, or is now expected to be, in violation
+of any material term of any employment contract, confidentiality, disclosure or proprietary information agreement or non- competition
+agreement, or any other contract or agreement or any restrictive covenant in favor of any third party, and the continued employment of
+each such executive officer does not subject the Company to any liability with respect to any of the foregoing matters. To the best of
+the Company’s knowledge, it is in compliance with all U.S. federal, state, local and foreign laws and regulations relating to employment
+and employment practices, terms and conditions of employment and wages and hours, except where the failure to be in compliance would
+not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect.
+
+ 
+
+(l)
+
+Compliance
+. Except as disclosed set forth in Section 3.01(m) of the Company Disclosure Schedule, the Company and the Subsidiaries:
+(i) is neither in default under nor in violation of (and no event has occurred that has not been waived that, with notice or lapse of
+time or both, would result in a default by the Company or its Subsidiaries under), nor has the Company or the Subsidiaries received notice
+of a claim that it is in default under or that it is in violation of, any indenture, loan or credit agreement (whether or not such default
+or violation has been waived); (ii) is not in violation of any order of any court, arbitrator or governmental body; and (iii) is not
+and has not been in material violation of any statute, law, rule or regulation of any governmental authority, including without limitation
+all foreign, federal, state and local laws applicable to its business and all such laws that affect the environment, except as would
+not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect.
+
+ 
+
+(m)
+
+Regulatory Permits
+. The Company and the Subsidiaries possesses all certificates, authorizations and permits issued by the appropriate
+federal, state, local or foreign regulatory authorities necessary to conduct its business, except where the failure to possess such permits
+could not reasonably be expected to result in a Material Adverse Effect (“
+Material Permits
+”), and the Company has
+not received any notice of proceedings relating to the revocation or modification of any Material Permit.
+
+ 
+
+(n)
+
+Title to Assets
+. The Company and its Subsidiaries have good and marketable title in fee simple to all real property and good and
+marketable title in all personal property owned by it that, in each case, is material to the business of the Company and its Subsidiaries,
+in each case free and clear of all Liens, except for Liens disclosed in Section 3.01(n) of the Company Disclosure Schedule that do not
+materially and adversely (x) affect the value of such property or (y) interfere with the use made and proposed to be made of such property
+by the Company and its Subsidiaries. Any real property and facilities held under lease by the Company or a Subsidiaries is held by it
+under valid, subsisting and enforceable leases with which the Company or such Subsidiaries (as applicable) are in compliance except as
+disclosed in Schedule 3.1(n) of the Company Disclosure Schedule.
+
+ 
+
+(o)
+
+Patents and Trademarks
+. (i) The Company or a Subsidiaries thereof has, or has rights to use, all patents, patent applications,
+trademarks, trademark applications, service marks, trade names, trade secrets, inventions, copyrights, software, websites, licenses 
+and
+
+other intellectual property rights and similar rights as necessary or material for use in connection with its business as presently
+conducted (collectively, the “
+Intellectual Property Rights
+”); (ii) the Company has not received written notice that
+any of the Intellectual Property Rights violates or infringes upon the intellectual property rights of any other Person; (iii) all Intellectual
+Property Rights are enforceable by the Company or its Subsidiaries, and to the knowledge of the Company there is no existing infringement
+by any other Person of any of the Intellectual Property Rights, except where the failure to be so enforceable or for such infringements
+as would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect; and (iv) the Company has taken
+reasonable security measures to protect the secrecy, confidentiality and value of all of its Intellectual Property Rights, except where
+failure to do so would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect.
+
+ 
+
+ 
+
+16
+
+ 
+
+ 
+
+ 
+
+ 
+
+(p)
+
+Transactions with Officers, Directors and Employees
+. None of the officers or directors of the Company or the Subsidiaries and,
+to the knowledge of the Company, none of the employees of the Company or the Subsidiaries, is presently a party to any transaction with
+the Company (other than for services as employees, officers and directors and related party notes as identified in the SEC Reports),
+including any contract, agreement or other arrangement providing for the furnishing of services to or by, providing for rental of real
+or personal property to or from, or otherwise requiring payments to or from, any such officer, director or employee or, to the knowledge
+of the Company, any entity in which any such officer, director or employee has a substantial interest or is an officer, director, trustee,
+member or partner, in each case other than for: (x) payment of salary or fees for services rendered; (y) reimbursement for expenses incurred
+on behalf of the Company; and (z) other employee benefits, including stock option agreements under any stock option plan of the Company.
+
+ 
+
+(q)
+
+Indebtedness
+. Except for the Senior Debt issued to the Existing Senior Lenders, all Indebtedness owed by the Loan Parties to all
+other Persons disclosed in the most recent SEC Reports and in Section 3.01(g) and Section 3.01(r) of the Company Disclosure Schedule
+is unsecured.
+
+ 
+
+(q)
+
+Private Placement
+. Assuming the accuracy of the Lender’s representations and warranties set forth in Section 3.02, no registration
+under the Securities Act is required for the offer and sale of the Notes by the Company to the Lender as contemplated hereby.
+
+ 
+
+(r)
+
+Investment Company
+. The Company is not, and is not an Affiliate of, and immediately after receipt of payment for the Notes will
+not be or be an Affiliate of, an ‘investment company’ within the meaning of the Investment Company Act of 1940, as amended.
+The Company shall conduct its business in a manner so that it will not be an “investment company” subject to registration
+under the Investment Company Act of 1940, as amended.
+
+ 
+
+(s)
+
+Maximum Conversion Shares
+. The Company has reserved from its duly authorized Common Stock up to the Maximum Conversion Shares
+for issuance to the Lender or its Affiliates in the event of the full permitted conversion of any No
+
+ 
+
+(t)
+
+Registration Rights
+. Other than as described in the SEC Reports, as set forth in the Registration Rights Agreement and further
+modified by Section 3.01(s) of the Company Disclosure Schedule, no Person has any right to demand the Company to file a registration
+statement under the Securities Act covering the sale of any securities of the Company.
+
+ 
+
+(u)
+
+Disclosure
+. Except with respect to: (i) the material terms and conditions of the transactions contemplated by the Transaction
+Documents; and (ii) information given to the Lender, if any, which the Company hereby confirms will not constitute material non-public
+information, the Company confirms that neither it nor any other Person acting on its behalf has provided any of the Lender or 
+their
+
+agents or counsel with any information that it believes constitutes or might constitute material, nonpublic information. The Company
+understands and confirms that the Lender will rely on the foregoing representation in effecting transactions in securities of the Company.
+All disclosure furnished by or on behalf of the Company to the Lender regarding the Company, its business and the transactions contemplated
+hereby, is true and correct and does not contain any untrue statement of a material fact or omit to state any material fact necessary
+in order to make the statements made therein, in light of the circumstances under which they were made, not misleading.
+
+ 
+
+(v)
+
+No Integrated Offering
+. Assuming the accuracy of the Lender’s representations and warranties set forth in Section 3.02,
+neither the Company, nor any of its Affiliates, nor any Person acting on its or their behalf has, directly or indirectly, made any offers
+or sales of any security or solicited any offers to buy any security, under circumstances that would cause this offering of the Notes
+to be integrated with prior offerings by the Company for purposes of the Securities Act which would require the registration of any such
+securities under the Securities Act.
+
+ 
+
+(w)
+
+Solvency.
+ The Company will not, after the Funding Date, incur debts beyond its ability to pay such debts (including Permitted
+Indebtedness) as they mature (taking into account the timing and amounts of cash to be payable on or in respect of its debt). Except
+as disclosed in its SEC Reports (including the risk factors and qualified audit opinions disclosed therein), the Company has no knowledge
+of any facts or circumstances which lead it to believe that it will file for reorganization or liquidation under the bankruptcy or reorganization
+laws of any jurisdiction within one year from the Funding Date.
+
+ 
+
+ 
+
+17
+
+ 
+
+ 
+
+ 
+
+ 
+
+(x)
+
+Tax Status
+. Except as set forth in Section 3.01(w) of the Company Disclosure Schedule, the Company has filed all material federal,
+state and foreign income and franchise tax returns and has paid or accrued all material taxes shown as due thereon, and the Company has
+no knowledge of a material tax deficiency which has been asserted or threatened against the Company.
+
+ 
+
+(y)
+
+No General Solicitation
+. Neither the Company nor any Person acting on behalf of the Company has offered or sold the Notes by any
+form of general solicitation or general advertising. The Company has offered the Notes for sale only to the Lender.
+
+ 
+
+(z)
+
+Insurance
+. As set forth in Section 3.01(y) of the Company Disclosure Schedule, the Company and the Subsidiaries is insured by
+insurers of recognized financial responsibility against such losses and risks and in such amounts as management of the Company reasonably
+believes to be prudent and customary in the businesses in which the Company is engaged. The Company has never been refused any insurance
+coverage sought or applied for, and the Company has no reason to believe that it will not be able to renew all existing insurance coverage
+as and when such coverage expires or to obtain similar coverage from similar insurers.
+
+ 
+
+(aa)
+
+Acknowledgment Regarding Lender’s Purchase of the Notes
+. The Company acknowledges and agrees that the Lender is acting solely
+in the capacity of an arm’s length purchaser with respect to the Transaction Documents and the transactions contemplated thereby.
+The Company further acknowledges that Lender is not acting as a financial advisor or fiduciary of the Company (or in any similar capacity)
+with respect to the Transaction Documents and the transactions contemplated thereby and any advice given by Lender or any of its representatives
+or agents in connection with the Transaction Documents and the transactions contemplated thereby is merely incidental to the Lender’s
+purchase of the Notes. The Company further represents to the Lender that the Company’s decision to enter into this Agreement and
+the other Transaction Documents has been based solely on the independent evaluation of the transactions contemplated hereby by the Company
+and its representatives.
+
+ 
+
+(bb)
+
+No Disqualification Events
+. With respect to the Notes to be offered and sold hereunder in reliance on Rule 506(b) under the Securities
+Act (“
+Regulation D Securities
+”), none of the Company, any of its predecessors, any affiliated issuer, any director,
+executive officer, other officer of the Company participating in the offering hereunder, any beneficial owner of twenty percent (20%)
+or more of the Company’s outstanding voting equity securities, calculated on the basis of voting power, nor any promoter (as that
+term is defined in Rule 405 under the Securities Act) connected with the Company in any capacity at the time of sale (each, an “Issuer
+Covered Person” and, together, “Issuer Covered Persons”) is subject to any of the ‘Bad Actor’ disqualifications
+described in Rule 506(d)(1)(i) to (viii) under the Securities Act (a “Disqualification Event”), except for a Disqualification
+Event covered by Rule 506(d)(2) or (d)(3). The Company has exercised reasonable care to determine whether any Issuer Covered Person is
+subject to a Disqualification Event. The Company has complied, to the extent applicable, with its disclosure obligations under Rule 506(e),
+and has furnished to the Lender a copy of any disclosures provided thereunder.
+
+ 
+
+(cc)
+
+Other Covered Persons
+. The Company is not aware of any person (other than any Issuer Covered Person) that has been or will be
+paid (directly or indirectly) remuneration for solicitation of purchasers in connection with the sale of any Regulation D Securities.
+
+ 
+
+(dd)
+
+Notice of Disqualification Events
+. The Company will notify the Lender in writing, prior to the Funding Date of: (i) any Disqualification
+Event relating to any Issuer Covered Person; and (ii) any event that would, with the passage of time, become a Disqualification Event
+relating to any Issuer Covered Person.
+
+ 
+
+(ee)
+
+Foreign Corrupt Practices
+. To the knowledge of the Company, neither the Company nor any agent or other person acting on behalf
+of the Company, has: (i) directly or indirectly, used any funds for unlawful contributions, gifts, entertainment or other unlawful expenses
+related to foreign or domestic political activity; (ii) made any unlawful payment to foreign or domestic government officials or employees
+or to any foreign or domestic political parties or campaigns from corporate funds; (iii) failed to disclose fully any contribution made
+by the Company (or made by any person acting on its behalf of which the Company is aware) which is in violation of law; or (iv) violated
+in any material respect any provision of the Foreign Corrupt Practices Act.
+
+ 
+
+ 
+
+18
+
+ 
+
+ 
+
+ 
+
+ 
+
+(ff)
+
+Office of Foreign Assets Control
+. Neither the Company nor, to the Company’s knowledge, any director or executive officer
+of the Company is currently subject to any U.S. sanctions administered by the Office of Foreign Assets Control of the U.S. Treasury Department
+(“OFAC”).
+
+ 
+
+(gg) 
+U.S.
+Real Property Holding Corporation
+. The Company is not and has never been a 
+U.S. real property holding corporation within
+the meaning of Section 897 of the Internal Revenue Code of 1986, as amended, and the Company shall so certify upon Lender’s
+request.
+
+ 
+
+(hh)
+
+Bank Holding Company Act
+. Neither the Company nor any of its Affiliates is subject to the Bank Holding Company Act of 1956, as
+amended (“BHCA”) and to regulation by the Board of Governors of the Federal Reserve System (“Federal Reserve”).
+Neither the Company nor any of its Affiliates owns or controls, directly or indirectly, five percent (5%) or more of the outstanding
+shares of any class of voting securities or twenty-five percent (25%) or more of the total equity of a bank or any entity that is subject
+to the BHCA and to regulation by the Federal Reserve. Neither the Company nor any of its Affiliates exercises a controlling influence
+over the management or policies of a bank or any entity that is subject to the BHCA and to regulation by the Federal Reserve.
+
+ 
+
+(ii)
+
+Money Laundering
+. The operations of the Company are and have been conducted at all times in compliance in all material respects
+with applicable financial record-keeping and reporting requirements of the Currency and Foreign Transactions Reporting Act of 1970, as
+amended, applicable money laundering statutes and applicable rules and regulations thereunder (collectively, the “Money Laundering
+Laws”), and no Action or Proceeding by or before any court or governmental agency, authority or body or any arbitrator involving
+the Company with respect to the Money Laundering Laws is pending or, to the knowledge of the Company, threatened.
+
+ 
+
+(jj)
+
+Representations
+. The representations and warranties of the Company contained in this Agreement, and the certificate(s) furnished
+or to be furnished to the Lender at the Closing, when taken as a whole, do not contain any untrue statement of a material fact or omit
+to state a material fact necessary in order to make the statements contained herein or therein not misleading in light of the circumstances
+under which they were made. The Company acknowledges and agrees that the representations contained in section 3.02 shall not modify,
+amend or affect Lender’s right to rely on the Company’s representations and warranties contained in this section 3.01 or
+elsewhere in this Agreement or any representations and warranties contained in any other Transaction Document, or any other document
+or instrument executed and/or delivered in connection with this Agreement or the consummation of the transactions contemplated hereby.
+
+ 
+
+Section
+3.02 
+Representations and Warranties of the Lender
+.
+
+ 
+
+The
+Lender, for itself and for no other Person, hereby represents and warrants as of the date hereof and as of the Funding Date to the Company
+as follows (unless as of a specific date therein, in which case they shall be accurate as of such date):
+
+ 
+
+(a)
+
+Authority; Organization
+. The Lender has full power and authority to enter into this Agreement and to perform all obligations required
+to be performed by it hereunder. The Lender is an entity duly organized, validly existing and in good standing under the laws of the
+jurisdiction of its organization with full right, corporate or partnership power and authority to enter into and to consummate the transactions
+contemplated by the Transaction Documents and otherwise to carryout its obligations hereunder and thereunder. The execution and delivery
+of the Transaction Documents and performance by the Lender of the transactions contemplated by the Transaction Documents have been duly
+authorized by all necessary corporate or similar action on the part of the Lender. Each Transaction Document to which it is a party has
+been duly executed by the Lender, and when delivered by the Lender in accordance with the terms hereof, will constitute the valid and
+legally binding obligation of the Lender, enforceable against it in accordance with its terms, except: (i) as limited by general equitable
+principles and applicable bankruptcy, insolvency,reorganization, moratorium and other laws of general application affecting enforcement
+of creditors’ rights generally, (ii) as limited by laws relating to the availability of specific performance, injunctive relief
+or other equitable remedies, and (iii) insofar as indemnification and contribution provisions may be limited by applicable law.
+
+ 
+
+ 
+
+19
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+
+Own Account
+. The Lender understands that the Notes, the Warrant and the Conversion Shares are “restricted securities”
+and have not been registered under the Securities Act or any applicable State Securities Law and is acquiring the Notes, the Warrant
+and Conversion Shares as principal for its own account and not with a view to or for distributing or reselling such the Notes, the Warrant
+or Conversion Shares or any part thereof in violation of the Securities Act or any applicable State Securities Law, has no present intention
+of distributing anyof such the Notes, the Warrant or Conversion Shares in violation of the Securities Act or any applicable State Securities
+Law and has no direct or indirect arrangement or understandings with any other persons to distribute or regarding the distribution of
+such the Notes (this representation and warranty not limiting the Lender’s right to sell the Notes, the Warrant or Conversion Shares
+in compliance with applicable federal and State Securities Laws) in violation of the Securities Act or any applicable State Securities
+Law. The Lender is acquiring the Notes hereunder in the ordinary course of its business.
+
+ 
+
+(c)
+
+Non-Transferrable
+. The Lender agrees: (i) that the Lender will not sell, assign, pledge, give, transfer or otherwise dispose of
+the Notes, the Warrant or Conversion Shares or any interest therein, or make any offer or attempt to do any of the foregoing, except
+pursuant to a registration of the Notes, the Warrant and Conversion Shares under the Securities Act and all applicable State Securities
+Laws, or in a transaction which is exempt from the registration provisions of the Securities Act and all applicable State Securities
+Laws, (ii) that the certificates representing the Notes will bear a legend making reference to the foregoing restrictions, and (iii)
+that the Company and its Affiliates shall not be required to give effect to any purported transfer of such the Notes, the Warrant and
+Conversion Shares except upon compliance with the foregoing restrictions.
+
+ 
+
+(d)
+
+Lender Status
+. The Lender is an “accredited investor” as defined in Rule 501(a) under Regulation D of the Securities
+Act. The undersigned agrees to furnish any additional information requested by the Company or any of its Affiliates to assure compliance
+with applicable U.S. federal and state securities laws in connection with the purchase and sale of the Notes. Any information that has
+been furnished or that will be furnished by the undersigned to evidence its status as an accredited investor is accurate and complete,
+and does not contain any misrepresentation or material omission.
+
+ 
+
+(e)
+
+Experience of The Lender
+. The Lender, either alone or together with its representatives, has such knowledge, sophistication, and
+experience in business and financial matters so as to be capable of evaluating the merits and risks of the prospective investment in
+the Notes, and has so evaluated the merits and risks of such investment. The Lender is able to bear the economic risk of an investment
+in the Notes and, at the present time, is able to afford a complete loss of such investment.
+
+ 
+
+(f)
+
+No Trading Market
+. The Lender acknowledges that there is currently no trading market for the Notes and that none is expected to
+develop for the Notes.
+
+ 
+
+(g)
+
+General Solicitation
+. The Lender acknowledges that neither the Company nor any other person offered to sell the Notes to it by
+means of any form of general solicitation or advertising, including, but not limited to: (i) any advertisement, article, notice, or other
+communication published in any newspaper, magazine or similar media or broadcast over television or radio, or (ii) any seminar or meeting
+whose attendees were invited by any general solicitation or general advertising.
+
+ 
+
+(h)
+
+Confidentiality
+. Other than to other Persons party to this Agreement and its advisors who have agreed to keep information confidential
+or have a fiduciary obligation to keep such information confidential, the Lender has maintained the confidentiality of all disclosures
+made to it in connection with the transaction (including the existence and terms of this transaction).
+
+ 
+
+ 
+
+20
+
+ 
+
+ 
+
+ 
+
+ 
+
+(i)
+
+Foreign Lender
+. The Lender is a United States person and not a foreign Lender.
+
+ 
+
+(j)
+
+Information from Company
+. The Lender and its investment managers, if any, have been afforded the opportunity to obtain any information
+necessary to verify the accuracy of any representations or information presented by the Company in this Agreement and have had all inquiries
+to the Company answered, and have been furnished all requested materials, relating to the Company and the Offering and sale of the Notes
+and anything set forth in the Transaction Documents. Neither the Lender nor the Lender’s investment managers, if any, have been
+furnished any offering literature by the Company or any of its Affiliates, associates, or agents other than the Transaction Documents,
+and the agreements referenced therein.
+
+ 
+
+(k)
+
+Speculative Nature of Investment; Risk Factors
+. 
+THE LENDER UNDERSTANDS THAT AN INVESTMENT IN THE NOTES INVOLVES A HIGH DEGREE
+OF RISK.
+ The Lender acknowledges that: (i) any projections, forecasts or estimates as may have been provided to the Lender are purely
+speculative and cannot be relied upon to indicate actual results that may be obtained through this investment; any such projections,
+forecasts and estimates are based upon assumptions which are subject to change and which are beyond the control of the Company or its
+management, (ii) the tax effects which may be expected by this investment are not susceptible to absolute prediction, and new developments
+and rules of the Internal Revenue Service, audit adjustment, court decisions or legislative changes may have an adverse effect on one
+or more of the tax consequences of this investment, and (iii) the Lender has been advised to consult with his own advisor regarding legal
+matters and tax consequences involving this investment. The Lender represents that the Lender’s investment objective is speculative
+in that the Lender seeks the maximum total return through an investment in a broad spectrum of securities, which involves a higher degree
+of risk than other investment styles and therefore the Lender’s risk exposure is also speculative. The Notes offered hereby is
+highly speculative and involves a high degree of risk and Lender should only purchase these securities if Lender can afford to lose its
+entire investment.
+
+ 
+
+(l)
+
+Money Laundering
+. The operations of the Lender are and have been conducted at all times in compliance with the Money Laundering
+Laws, and no Action or Proceeding by or before any court or governmental agency, authority or body or any arbitrator involving the Lender
+with respect to the Money Laundering Laws is pending or, to the knowledge of the Lender, threatened.
+
+ 
+
+The
+Company acknowledges and agrees that the representations contained in Section 3.02 shall not modify, amend or affect the Lender’s
+right to rely on the Company’s representations and warranties contained in this Agreement or any representations and warrantiescontained
+in any other Transaction Document or any other document or instrument executed and/or delivered in connection with this Agreement or
+the consummation of the transaction contemplated hereby.
+
+ 
+
+ 
+
+21
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARTICLE
+IV
+
+OTHER
+AGREEMENTS OF THE PARTIES
+
+ 
+
+Section
+4.01 
+Affirmative and Negative Covenants
+. Each of the Loan Parties hereby covenants and agrees that until all obligations owed
+to the Lender shall have been paid in full, without the prior written approval of the Lender:
+
+ 
+
+(a)
+the Loan Parties shall not incur any Indebtedness, other than Permitted Indebtedness or as otherwise expressly permitted by this Agreement
+(“
+Additional Indebtedness
+”), unless the net proceeds to the Company of such Additional Indebtedness shall be used
+to prepay 100% of the then Outstanding Principal Amount of the Notes (including any Default Amount and accrued interestthereon), or such
+Additional Indebted shall be approved in advance by the Lender;
+
+ 
+
+(b)
+the Loan Parties shall not engage in the public or private sale of any securities, including convertible and non-convertible notes or
+debentures, Common Stock or Common Stock Equivalents, except for Exempt Issuances or as otherwise expressly permitted in this Agreement,
+the Notes or other Transaction Documents, unless 100% of the then Outstanding Principal Amount of the Notes (including any Default Amount
+and accrued interest thereon), or such Additional Indebtedness shall be approved in advance by the Lender;
+
+ 
+
+(c)
+the Loan Parties shall not open any bank or other accounts for the deposit of funds from accounts receivable or other payments received
+from third parties, including net proceeds of any public or private sale of any securities, including convertible and non-convertible
+notes or debentures, Common Stock or Common Stock Equivalents, into any bank or other deposit accounts, other than the current bank accounts
+maintained at the Lock Box Bank and listed in the Lock Box Agreement. A breach of this covenant shall constitute an Event of Default
+under the Notes.
+
+ 
+
+(d)
+the Loan Parties shall use the net proceeds from any Recovery Amounts to reduce the Outstanding Principal Amount of the Notes;
+
+ 
+
+(e)
+no payments of Indebtedness shall be paid to any Affiliate, other than payments of deferred compensation to members of the board of directors
+and employees of the Company;
+
+ 
+
+(f)
+the Loan Parties shall not permit any Person to have a Lien of any of the assets of any of the Loan Parties, except for Permitted Liens
+(as defined in the Security Agreement);
+
+ 
+
+(g)
+the Loan Parties shall comply with all of the additional affirmative and negative covenants set forth in the Notes and the Security Agreement.
+
+ 
+
+Section
+4.02 
+Transfer Restrictions
+.
+
+ 
+
+(a)
+The Notes, Warrant Shares and Conversion Shares may only be disposed of in compliance with state and federal securities laws. In connection
+with any transfer of the Notes, Warrant Shares or Conversion Shares other than pursuant to an effective registration statement or Rule
+144, the Company may require the transferor thereof to provide to the Company an opinion of counsel selected by the transferor and reasonably
+acceptable to the Company, the form and substance of which opinion shall be reasonably satisfactory to the Company, to the effect that
+such transfer does not require registration of such transferred the Notes, Warrant Shares and Conversion Shares under the Securities
+Act. As a condition of such sale or transfer, any such transferee shall agree in writing to be bound by the terms of this Agreement and
+shall have the rights of Lender under this Agreement.
+
+ 
+
+(b)
+The Lender agrees to the imprinting, so long as is required by this Section 4.01, of a legend on any of the Notes, the Warrant Shares
+and Conversion Shares in the following form:
+
+ 
+
+THIS
+SECURITY HAS NOT BEEN REGISTERED WITH THE SECURITIES AND EXCHANGE COMMISSION OR THE SECURITIES COMMISSION OF ANY STATE IN RELIANCE UPON
+AN EXEMPTION FROM REGISTRATION UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), AND, ACCORDINGLY, MAY
+NOT BE OFFERED OR SOLD EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR PURSUANT TO AN AVAILABLE EXEMPTION
+FROM, OR IN A TRANSACTION NOT SUBJECT TO, THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT AND IN ACCORDANCE WITH APPLICABLE STATE
+SECURITIES LAWS. THIS SECURITY MAY BE PLEDGED IN CONNECTION WITH A BONA FIDE MARGIN ACCOUNT OR OTHER LOAN SECURED BY THIS SECURITY.
+
+ 
+
+ 
+
+22
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section
+4.03 
+Use of Proceeds; Restrictions on Certain Payments
+. The Company shall use the net proceeds hereunder for to pay in full all
+Senior Debt owed to the Existing Senior Lenders and for general working capital purposes.
+
+ 
+
+Section
+4.04 
+Future Subsidiaries
+. Any direct or indirect Subsidiaries of the Company (or the Subsidiaries) formed or acquired after the
+Funding Date and before the Notes shall have been repaid in full shall promptly thereafter execute and deliver (or otherwise join and
+agreed to be bound as a Subsidiary of the Company under) the Subsidiary Guaranty and the Security Agreement.
+
+ 
+
+Section
+4.05 
+Stockholders Meeting
+. Not later than sixty (60) days after the occurrence of an Event of Default, in the event that the Notes
+shall not have previously been paid in full, and in order to comply with applicable Nasdaq Rules, the Company shall hold a special meeting
+of its stockholders (the “
+Stockholders Meeting
+”). In such connection, the Company shall (i)_include in any proxy or
+information statement submitted to stockholders a statement that the board of directors of the Company recommends that the stockholders
+vote IN FAVOR of adoption of resolutions approving in all respects this Agreement, all other Transaction Documents and all of the transactions
+contemplated hereby and thereby, (ii) use its reasonable best efforts to obtain approval of such resolutions by the holders of record
+of a majority of the outstanding Common Stock or other voting securities of the Company on the record date set forth in such proxy or
+information statement; (iii) cause all officers and directors of the Company to vote their shares of Common Stock in favor of the foregoing
+resolutions and (iv) shall use it best efforts to obtain commitments from other holders of 5% or more of the outstanding Common Stock
+to vote their shares of Common Stock in favor of the foregoing resolutions.
+
+ 
+
+Section
+4.06 
+Integration
+. The Company shall not sell, offer for sale, or solicit offers to buy or otherwise negotiate in respect of any
+security (as defined in Section 2 of the Securities Act) that would be integrated with the offer or sale of the Notes to the Lender in
+a manner that would require the registration under the Securities Act of the issuance and sale of the Notes to the Lender.
+
+ 
+
+Section
+4.07 
+Publicity
+. The Company and the Lender shall consult with each other in issuing any other press releases and SEC Reports with
+respect to the transactions contemplated hereby, and neither the Company nor the Lender shall issue any such press release or SEC Report
+nor otherwise make any such public statement without the prior consent of the Company with respect to any press release of the Lender,
+or without the prior consent of the Lender with respect to any press release or SEC Report of the Company mentioning the Lender, which
+consent shall not unreasonably be withheld or delayed, except if such disclosure is required by law, in which case the disclosing party
+shall promptly provide the other party with prior notice of such public statement, SEC Report or communication. The Company will publish
+a press release announcing this transaction approved by the Lender within 4 Business Days following the Funding Date.
+
+ 
+
+Section
+4.08 
+Indemnification of Lender
+. The Company shall indemnify, reimburse and hold harmless the Lender and its partners, members,
+shareholders, officers, directors, employees and agents (and any other persons with other titles that have similar functions) (collectively,
+“
+Indemnitees
+”) from and against any and all losses, claims, liabilities, damages, penalties, suits, costs and expenses,
+of any kind or nature, (including fees relating to the cost of investigating and defending any of the foregoing) imposed on, incurred
+by or asserted against such Indemnitee in any way related to or arising from or alleged to arise from: (i) any breach of any of the representations,
+warranties, covenants or agreements made by the Company in this Agreement or in the other Transaction Documents and (ii) any action instituted
+against such Indemnitee in any capacity, or any of them or their respective Affiliates, by any stockholder of the Company who is not
+an Affiliate of such Indemnitee, with respect to any of the transactions contemplated by the Transaction Documents (unless such action
+is based upon a breach of such Indemnitee’s representations, warranties or covenants under the Transaction Documents or any agreements
+or understandings such Indemnitee may have with any such stockholder or any violations by such Indemnitee of state or federal securities
+laws or any conduct by such Indemnitee which results from the gross negligence or willful misconduct of the Indemnitee as determined
+by a final, non-appealable decision of a court of competent jurisdiction).
+
+ 
+
+ 
+
+23
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARTICLE
+V
+
+ MISCELLANEOUS
+
+ 
+
+Section
+5.01 
+Termination
+. This Agreement may be terminated by the Lender by written notice to the Company if the Closing has not been
+consummated on or before the 3rd Business Day after the date of the execution and delivery of this Agreement by both parties; 
+provided
+
+that such termination will not affect the right of any party to sue for any breach by the other party.
+
+ 
+
+Section
+5.02 
+Fees and Expenses
+. The Company shall bear the expenses of the Company and the Lender incurred in connection with the negotiation,
+preparation, execution, delivery and performance of the Transaction Documents, including, without limitation, reasonable attorneys’
+and consultants’ fees and expenses (including fees to Lender’s counsel of $30,000), transfer agent fees, fees for stock quotation
+services, fees relating to any amendments or modifications of the Transaction Documents or any consents or waivers of provisions in the
+Transaction Documents, fees for the preparation of opinions of counsel, escrow fees, and costs of restructuring the transactions contemplated
+by the Transaction Documents; provided, however, that the total aggregate amount of such expenses reimbursed by the Company shall not
+exceed $30,000. When possible, the Company must pay these fees directly, including, but not limited to, any and all wire fees, otherwise
+the Company must make immediate payment for reimbursement to the Lender for all fees and expenses immediately upon written notice by
+the Lender or the submission of an invoice by the Lender. In addition, the Company shall pay the origination fee to the Lender as specified
+hereinabove.
+
+ 
+
+Section
+5.03 
+Entire Agreement
+. The Transaction Documents, together with the exhibits and schedules thereto, contain the entire understanding
+of the parties with respect to the subject matter hereof and supersede all prior agreements and understandings, oral or written, with
+respect to such matters, which the parties acknowledge have been merged into such documents, exhibits and schedules.
+
+ 
+
+Section
+5.04 
+Notices
+. Any notice, request, instruction or other document to be given hereunder by any party to the others shall be in
+writing and delivered personally or sent by registered or certified mail, postage prepaid, or by or email:
+
+ 
+
+if
+to Lender:
+
+ 
+
+J.J.
+Astor & Co.
+
+26
+S Rio Grande Street, #2072 Salt Lake City, Utah 84101 Attn: Michael Pope
+
+Email:
+michael.p@jjastor.com
+
+ 
+
+with
+a copy to:
+
+ 
+
+Barton,
+LLP
+
+711
+Third Avenue, 14
+th
+ Floor
+
+New York, New York 10017
+
+Attn: Stephen A. Weiss, Esq.
+
+Email: sweiss@bartonesq.com
+
+ 
+
+if
+to the Company:
+
+ 
+
+Phoenix
+Motor Inc.
+
+1500
+Lakeview Loop
+
+Anaheim,
+CA 92807
+
+Attn:
+Xiaofeng Denton Peng, CEO Email:
+
+ 
+
+with
+a copy to:
+
+ 
+
+Mitchell
+S. Nussbaum, Esq. David J. Levine, Esq.
+
+Loeb
+& Loeb LLP 345 Park Avenue New York, NY 10154 Tel: (212) 407-4000
+
+Email:
+
+ 
+
+or
+to such other persons or addresses as may be designated in writing by the party to receive such notice as provided above.
+
+ 
+
+ 
+
+24
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section
+5.05 
+Amendments; Waivers
+. No provision of this Agreement may be waived, modified, supplemented, or amended except in a written
+instrument signed, in the case of an amendment, by the Company and the Lender or, in the case of a waiver, by the party against whom
+enforcement of any such waived provision is sought. No waiver of any default with respect to any provision, condition or requirement
+of this Agreement shall bedeemed to be a continuing waiver in the future or a waiver of any subsequent default or awaiver of any other
+provision, condition or requirement hereof, nor shall any delay or omission of any party to exercise any right hereunder in any manner
+impair the exercise of any such right.
+
+ 
+
+Section
+5.06 
+Successors and Assigns
+. This Agreement shall be binding upon and inure to the benefit of the parties and their successors
+and permitted assigns. The Company may not assign this Agreement or any rights or obligations hereunder without the prior written consent
+of the Lender (other than by merger). The Lender may assign any or all of its rights under this Agreement to any Person to whom the Lender
+assigns or transfers the Notes, and/or participate any of such rights in connection with granting of any participation of the Notes,
+provided that such transfer or participation complies with all applicable federal and State Securities Laws and that any such transferee
+or participant agrees in writing by the provisions of the Transaction Documents that apply to the Lender.
+
+ 
+
+Section
+5.07 
+No Third-Party Beneficiaries
+. This Agreement is intended for the benefit of the parties hereto and their respective successors
+and permitted assigns and is not for the benefit of, nor may any provision hereof be enforced by, any other Person.
+
+ 
+
+Section
+5.08 
+Arbitration and Governing Law
+.
+
+ 
+
+(a)
+
+Arbitration of Disputes
+. In the event and to the extent that a claim or dispute arises out of, or
+in relation to this Agreement or any other Transaction Document, including without limitation, the terms, construction, interpretation,
+performance, termination, breach, or enforceability of this Agreement or such Transaction Document(s), the Parties hereby each agree
+that the claim or dispute shall be, at the election of any Party within thirty (30) days after the claim or dispute arises, resolved
+by mandatory binding arbitration in Utah, except that Lender may, at its election, maintain any action for equitable relief in the Third
+Judicial District, Salt Lake County, Utah, including seeking the appointment of a receiver, judicial foreclosure, an accounting of Collateral,
+restraining orders or injunctions or other equitable relief without a right to compel arbitration by the Company or the Subsidiaries
+Guarantor. To the extent that an arbitration occurs, the Parties agree that the arbitration shall be administered by JAMS and the arbitration
+shall be conducted in accordance with the Expedited Procedures of the JAMS Comprehensive Arbitration Rules and Procedures except as otherwise
+agreed in this Agreement. The arbitrator shall be chosen in accordance with the procedures of JAMS, and shall base the award on applicable
+Utah law, and in connection therewith each of the Loan Parties hereby expressly waive any right to seek an exemption from Utah law based
+on any public policies or principles of any other State. The Parties agree that the arbitration shall be conducted before a single arbitrator.
+Judgment on the award may be entered in any federal or state court in the State of Utah and in the federal courts of any other State.
+The Parties further agree that the costs of the arbitration shall be divided equally between the Company and the Lender until a prevailing
+Party is determined, at which time the non-prevailing Party shall be charged the prevailing Party’s share of the arbitration fees.
+Each Party may pursue arbitration solely in an individual capacity, and not as a representative or class member in any purported class
+or representative proceeding. The arbitrator may not consolidate more than one Person’s claims, and may not otherwise preside over
+any form of a representative or class proceeding. This arbitration section is governed by the Federal Arbitration Act, 9 U.S.C. §§
+1-16.
+
+ 
+
+(b) 
+Governing
+Law
+. All questions concerning the construction, validity, enforcement and interpretation of the Transaction Documents,
+including, without limitation, the enforcement of any award by the arbitrator, shall be governed by and construed and enforced in
+accordance with the internal laws of the State of Utah, without regard to the principles of conflict of laws thereof. Each Party
+agrees that all legal proceedings concerning the interpretation, enforcement and defense of the transactions contemplated by any of
+the Transaction Documents (whether brought against a Party hereto or its respective Affiliates, directors, officers, shareholders,
+employees or agents) that is not initially submitted to arbitration in accordance with Section 5.08(a) above, shall be commenced
+exclusively in the federal and state courts sitting in Salt Lake County, Salt Lake City, Utah (the “
+Utah
+Courts
+”). Each Party hereto hereby irrevocably submits to the exclusive jurisdiction of the Utah Courts for the
+enforcement of any arbitration award or adjudication of any dispute hereunder or in connection herewith or with any transaction
+contemplated hereby or discussed herein (including with respect to the enforcement of any of the Transaction Documents), and hereby
+irrevocably waives, and agrees not to assert in any suit, Action or Proceeding, any claim that it is not personally subject to the
+jurisdiction of such Utah Courts, or that such Utah Courts are improper or inconvenient venue for such proceeding or that such Party
+may obtain 
+an exemption from Utah law based on any public policies or principles of any other State or
+jurisdiction
+. Each Party hereby irrevocably waives personal service of process and consents to process being served in any
+such suit, Action or Proceeding by mailing a copy thereof via registered or certified mail or overnight delivery (with evidence of
+delivery) to such Party at the address in effect for notices to it under this Agreement and agrees that such service shall
+constitute good and sufficient service of process and notice thereof. Nothing contained herein shall be deemed to limit in any way
+any right to serve process in any other manner permitted by applicable law. Each Party hereto hereby irrevocably waives, to the
+fullest extent permitted by applicable law, any and all right to trial by jury in any legal proceeding arising out of or relating to
+the Transaction Documents or the transactions contemplated hereby. If any Party shall commence an Action or Proceeding to enforce
+any provisions of the Transaction Documents, then the prevailing Party in such Action or Proceeding shall be reimbursed by the other
+Party for its attorney’s fees and other costs and expenses incurred in the investigation, preparation and prosecution of such
+Action or Proceeding.
+
+ 
+
+ 
+
+25
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section
+5.09 
+Survival
+. The representations and warranties contained herein shall survive the Closing and the delivery of the Notes.
+
+ 
+
+Section
+5.10 
+Execution
+. This Agreement may be executed in two or more counterparts,all of which when taken together shall be considered
+one and the same agreement and shall become effective when counterparts have been signed by each party and delivered to the other party,
+it being understood that both parties need not sign the same counterpart. In the event that any signature is delivered by facsimile transmission
+or by e-mail delivery of a “.pdf” format datafile, such signature shall create a valid and binding obligation of the party
+executing (or on whose behalf such signature is executed) with the same force and effect as if such facsimile or “.pdf” signature
+page was an original thereof.
+
+ 
+
+Section
+5.11 
+Severability
+. If any term, provision, covenant or restriction of this Agreement is held by a court of competent jurisdiction
+to be invalid, illegal, void or unenforceable, the remainder of the terms, provisions, covenants and restrictions set forth hereinshall
+remain in full force and effect and shall in no way be affected, impaired or invalidated, and the parties hereto shall use their commercially
+reasonable efforts to find and employ an alternative means to achieve the same or substantially the same result as that contemplated
+by such term, provision, covenant or restriction. It is hereby stipulated and declared to be the intention of the parties that they would
+have executed the remaining terms, provisions, covenants and restrictions without including any of such that may be hereafter declared
+invalid, illegal, void or unenforceable.
+
+ 
+
+Section
+5.12 
+Rescission and Withdrawal Right
+. Notwithstanding anything to the contrary contained in (and without limiting any similar
+provisions of) any of the other Transaction Documents, whenever the Lender exercises a right, election, demand or option under a Transaction
+Document and the Company does not timely perform its related obligations within the periods therein provided, then the Lender may rescind
+or withdraw, in its sole discretion from time to time upon written notice to the Company, any relevant notice, demand or election in
+whole or in part without prejudice to its future actions and rights.
+
+ 
+
+Section
+5.13 
+Replacement of the Notes
+. If any certificate or instrument evidencing the Notes is mutilated, lost, stolen or destroyed,
+the Company shall issue or cause to be issued in exchange and substitution for and upon cancellation thereof (in the case of mutilation),
+or in lieu of and substitution therefor, a new certificate or instrument, but only upon receipt of evidence reasonably satisfactory to
+the Company of such loss, theft or destruction. The applicant for a new certificate or instrument under such circumstances shall also
+pay any reasonable third-party costs (including customary indemnity) associated with the issuance of such replacement the Notes.
+
+ 
+
+Section
+5.14 
+Remedies
+. In addition to being entitled to exercise all rights provided herein or granted by law, including recovery of damages,
+the Lender and the Company will be entitled to seek specific performance under the Transaction Documents. The parties agree that monetary
+damages may not be adequate compensation for any loss incurred by reason of any breach of obligations contained in the Transaction Documents
+and hereby agree to waive and not to assert in any action for specific performance of any such obligation the defense that a remedy at
+law would be adequate.
+
+ 
+
+Section
+5.15 
+Payment Set Aside
+. To the extent that the Company makes a payment or payments to the Lender pursuant to any Transaction Document
+or the Lender enforces or exercises its rights thereunder, and such payment or payments or the proceeds of such enforcement or exercise
+or any part thereof are subsequently invalidated, declared to be fraudulent or preferential, set aside, recovered from, disgorged by
+or are required to be refunded, repaid or otherwise restored to the Company, a trustee, receiver or any other person under any law (including,
+without limitation, any bankruptcy law, state or federal law, common law or equitable cause of action), then to the extent of any such
+restoration the obligation or part thereof originally intended to be satisfied shall be revived and continued in full force and effect
+as if such payment had not been made or such enforcementor setoff had not occurred.
+
+ 
+
+ 
+
+26
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section
+5.16 
+Construction
+. The parties agree that each of them and/or their respective counsel has reviewed and had an opportunity to
+revise the Transaction Documents and, therefore, the normal rule of construction to the effect that any ambiguities are to be resolved
+against the drafting party shall not be employed in the interpretation of the Transaction Documents or any amendments hereto. In addition,
+each and every reference to share prices and shares of Common Stock in any Transaction Document shall be subject to adjustment for reverse
+and forward stock splits, stock dividends, stock combinations and other similar transactions of the Common Stock that occur after the
+date of this Agreement.
+
+ 
+
+Section
+5.17 
+Headings
+. The headings herein are for convenience only, do not constitute a part of this Agreement and shall not be deemed
+to limit or affect any of the provisions hereof.
+
+ 
+
+Section
+5.18 
+WAIVER OF JURY TRIAL
+. IN ANY ACTION, SUIT, OR PROCEEDING IN ANY JURISDICTION BROUGHT BY ANY PARTY AGAINST ANY OTHER PARTY,
+THE PARTIES EACH KNOWINGLY AND INTENTIONALLY, TO THE GREATEST EXTENT PERMITTED BY APPLICABLE LAW, HEREBY ABSOLUTELY, UNCONDITIONALLY,
+IRREVOCABLY AND EXPRESSLY WAIVES FOREVER TRIAL BY JURY.
+
+ 
+
+[
+
+SIGNATURE
+PAGE FOLLOWS
+]
+
+ 
+
+ 
+
+27
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF
+, the parties hereto have caused this Loan Agreement to be duly executed by their respective authorized signatories
+as of the date below.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Company
+:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PHOENIX
+ MOTOR INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Xiaofeng Denton Peng
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Xiaofeng
+ Denton Peng
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Lender
+:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+J.J.
+ ASTOR & CO.
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Michael
+ Pope
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF
+, the parties hereto have caused this Loan Agreement to be duly executed by their respective authorized signatories
+as of the date below.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Company
+:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PHOENIX
+ MOTOR INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name
+
+ 
+
+Xiaofeng
+ Denton Peng
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Lender
+:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+J.J.
+ ASTOR & CO.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By: 
+
+ 
+
+/s/
+ Michael Pope
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name: 
+
+ 
+
+Michael
+ Pope
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Chief
+ Executive Officer

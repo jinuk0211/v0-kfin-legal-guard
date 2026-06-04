@@ -1,0 +1,343 @@
+{
+  "session_id": "US_MidFirst_Rewards_CreditCard_P01",
+  "generated_at": "2026-05-05T17:09:07.277702+00:00",
+  "product": "MidFirst_Rewards_CreditCard",
+  "doc_type": "credit_card_agreement",
+  "user_profile": {
+    "id": "P01",
+    "age": 45,
+    "occupation": "salaried employee",
+    "financial_status": "middle income",
+    "risk_flags": [
+      "carry_balance"
+    ]
+  },
+  "executive_summary": "Analysis of MidFirst_Rewards_CreditCard identified 6 consumer vulnerabilities. Overall risk level: HIGH. Key concerns: Penalty rate increase on various triggers, Mandatory arbitration with class action waiver, Unilateral credit limit changes without notice.",
+  "overall_risk_level": "HIGH",
+  "vulnerability_count": {
+    "CRITICAL": 2,
+    "HIGH": 1,
+    "MEDIUM": 3,
+    "LOW": 0,
+    "uncategorized": 4
+  },
+  "findings": [
+    {
+      "finding_id": "US-V006",
+      "taxonomy": "CC-02",
+      "title": "Penalty rate increase on various triggers",
+      "triggered_by": "If We do not receive Your required Minimum Payment by its due date, You exceed Your Credit Limit, or You make a payment to Us that is dishonored or returned for any reason, We may increase any or all of Your Annual Percentage Rates on future transactions (including, but not limited to Special Offer Rates). We also may increase the Annual Percentage Rates on all Your balances and transactions, including those incurred prior to the notice of increase, if We do not receive Your required Minimum Payment within 60 days after its due date.",
+      "description": "Penalty rate increase on various triggers",
+      "status": "CONFIRMED",
+      "confidence": 0.85,
+      "user_relevance_score": 1.0,
+      "search_query_used": "penalty APR rate increase late payment credit card",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1666i",
+            "verified": true
+          },
+          {
+            "law_name": "Credit CARD Act 2009",
+            "article": "15 U.S.C. \u00a7 1637",
+            "verified": true
+          }
+        ],
+        "precedents": [
+          {
+            "case_number": "64297648",
+            "case_name": "In re Capital One Bank Credit Card Interest Rate Litigation",
+            "court": "gand",
+            "date": "2014-11-03",
+            "summary": "",
+            "relevance_score": 0.911,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/7309171/in-re-capital-one-bank-credit-card-interest-rate-litigation/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:1\uac74 | US statute:2\uac74",
+      "severity": "CRITICAL",
+      "plain_language_explanation": "This credit card can raise your interest rate if you're late on payments, go over your limit, or if a payment bounces. This penalty rate applies to future purchases.",
+      "user_impact": "Since you carry a balance, a penalty rate increase could significantly raise your monthly interest charges.",
+      "estimated_risk_scenario": "One late payment could trigger a penalty rate jump from 18% to 29%. On a $5,000 balance, this adds about $46 more in monthly interest charges, costing you hundreds extra per year.",
+      "recommended_actions": [
+        {
+          "action": "Set up automatic minimum payments from your checking account to avoid late payment triggers",
+          "priority": "immediate",
+          "contact": "Your bank's online banking or customer service"
+        },
+        {
+          "action": "Ask the card issuer what the penalty rate would be and if there's a time limit on penalty pricing",
+          "priority": "pre-signing",
+          "contact": "Credit card company customer service"
+        },
+        {
+          "action": "Compare this card to others without penalty rate increases",
+          "priority": "optional",
+          "contact": "CFPB credit card comparison tools at consumerfinance.gov"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "finding_id": "US-V001",
+      "taxonomy": "CC-05",
+      "title": "Mandatory arbitration with class action waiver",
+      "triggered_by": "This Agreement contains an arbitration provision (including a class action arbitration waiver). It is also important that You read the entire \"Claims and Arbitration of Disputes\" section carefully.",
+      "description": "Mandatory arbitration with class action waiver",
+      "status": "CONFIRMED",
+      "confidence": 0.9,
+      "user_relevance_score": 0.8,
+      "search_query_used": "credit card arbitration class action waiver consumer rights",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Federal Arbitration Act",
+            "article": "9 U.S.C. \u00a7 2",
+            "verified": true
+          },
+          {
+            "law_name": "Dodd-Frank Act",
+            "article": "12 U.S.C. \u00a7 5518",
+            "verified": true
+          }
+        ],
+        "precedents": [
+          {
+            "case_number": "65992863",
+            "case_name": "Shetiwy v. Midland Credit Management",
+            "court": "nysd",
+            "date": "2013-07-12",
+            "summary": "",
+            "relevance_score": 1.0,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/8726940/shetiwy-v-midland-credit-management/"
+          },
+          {
+            "case_number": "70882438",
+            "case_name": "Midland Credit Mgt. Inc. v. Bowers",
+            "court": "ohioctapp",
+            "date": "2025-07-21",
+            "summary": "",
+            "relevance_score": 0.93,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/10638806/midland-credit-mgt-inc-v-bowers/"
+          },
+          {
+            "case_number": "60112322",
+            "case_name": "Gibbs v. Firefighters Community Credit Union",
+            "court": "ohioctapp",
+            "date": "2021-08-05",
+            "summary": "",
+            "relevance_score": 0.93,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/4905675/gibbs-v-firefighters-community-credit-union/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:3\uac74 | US statute:2\uac74",
+      "severity": "CRITICAL",
+      "plain_language_explanation": "You can't sue in court or join group lawsuits. Instead, disputes go to private arbitration, which often favors companies and limits your rights.",
+      "user_impact": "If overcharged or harmed, you must fight the company alone in arbitration instead of court.",
+      "estimated_risk_scenario": "If you're wrongly charged high fees or interest, you can't join others in a class action lawsuit. You'd face expensive arbitration alone against the company's lawyers.",
+      "recommended_actions": [
+        {
+          "action": "Look for credit cards without arbitration clauses before signing",
+          "priority": "pre-signing",
+          "contact": "Compare options on CFPB's credit card tool"
+        },
+        {
+          "action": "File complaints with CFPB if problems arise despite arbitration clause",
+          "priority": "optional",
+          "contact": "CFPB at consumerfinance.gov or 1-855-411-2372"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "finding_id": "US-V002",
+      "taxonomy": "UNCATEGORIZED",
+      "title": "Unilateral credit limit changes without notice",
+      "triggered_by": "We will notify You of Your Credit Limit with Your Account Documents and on Your Billing Statements, and We may change or restrict Your credit availability at any time.",
+      "description": "Credit limit can be changed or restricted without advance notice, potentially causing over-limit situations",
+      "status": "CONFIRMED",
+      "confidence": 0.85,
+      "user_relevance_score": 0.75,
+      "search_query_used": "will notify your credit limit with your account credit card consumer rights",
+      "legal_grounds": {
+        "statutes": [],
+        "precedents": [
+          {
+            "case_number": "64297648",
+            "case_name": "In re Capital One Bank Credit Card Interest Rate Litigation",
+            "court": "gand",
+            "date": "2014-11-03",
+            "summary": "",
+            "relevance_score": 1.0,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/7309171/in-re-capital-one-bank-credit-card-interest-rate-litigation/"
+          },
+          {
+            "case_number": "64316005",
+            "case_name": "Wood v. Credit One Bank",
+            "court": "vaed",
+            "date": "2017-09-21",
+            "summary": "",
+            "relevance_score": 0.415,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/7327521/wood-v-credit-one-bank/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:2\uac74",
+      "severity": "HIGH",
+      "plain_language_explanation": "The credit card company can lower your credit limit or freeze your account at any time without telling you first. You only find out after it happens.",
+      "user_impact": "Since you carry a balance, a sudden limit cut could max out your card and trigger over-limit fees.",
+      "estimated_risk_scenario": "Your $5,000 limit gets cut to $2,000 while you have a $3,000 balance. You're instantly over-limit, facing fees and credit score damage until you pay it down.",
+      "recommended_actions": [
+        {
+          "action": "Set up account alerts for all credit limit changes and check your available credit weekly",
+          "priority": "immediate",
+          "contact": "Your credit card company's customer service"
+        },
+        {
+          "action": "Pay down your balance below 30% of your limit to create a buffer against sudden cuts",
+          "priority": "immediate",
+          "contact": "Consider a nonprofit credit counselor at NFCC.org if you need help"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "finding_id": "US-V004",
+      "taxonomy": "UNCATEGORIZED",
+      "title": "Broad authorization presumption for known persons",
+      "triggered_by": "As permitted by law, We may consider charges made by someone known to You (i.e. family member, relative, significant other, partner, roommate, co-worker, friend) using Your card or any Account Access Device as authorized by You.",
+      "description": "Bank can presume authorization for charges by acquaintances, limiting consumer fraud protection",
+      "status": "UNVERIFIED",
+      "confidence": 0.75,
+      "user_relevance_score": 0.8,
+      "search_query_used": "permitted consider charges made someone known family member credit card consumer rights",
+      "legal_grounds": {
+        "statutes": [],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74",
+      "severity": "MEDIUM",
+      "plain_language_explanation": "The bank can assume anyone you know who uses your card has your permission, even if they don't. You'd have to prove they stole it.",
+      "user_impact": "You could be stuck paying for unauthorized charges made by family, friends, or coworkers.",
+      "estimated_risk_scenario": "A family member or roommate takes your card and makes large purchases. The bank refuses to reverse the charges, claiming you must have given permission since you know them.",
+      "recommended_actions": [
+        {
+          "action": "Negotiate to remove or limit this clause before signing",
+          "priority": "pre-signing",
+          "contact": "Bank's contract department or branch manager"
+        },
+        {
+          "action": "Keep detailed records of who has access to your cards and when",
+          "priority": "immediate",
+          "contact": "Personal financial records"
+        },
+        {
+          "action": "Consider switching to a card company with standard fraud protections",
+          "priority": "optional",
+          "contact": "Other credit card providers"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "finding_id": "US-V003",
+      "taxonomy": "UNCATEGORIZED",
+      "title": "Joint and several liability for authorized users",
+      "triggered_by": "Each person named on the application for the Account and anyone else authorized to use the Account in any way is jointly and severally liable for all amounts due on this Account.",
+      "description": "Primary cardholder remains fully liable for all charges by authorized users regardless of circumstances",
+      "status": "UNVERIFIED",
+      "confidence": 0.8,
+      "user_relevance_score": 0.7,
+      "search_query_used": "each person named application account anyone else authorized credit card consumer rights",
+      "legal_grounds": {
+        "statutes": [],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74",
+      "severity": "MEDIUM",
+      "plain_language_explanation": "If you add anyone as an authorized user, they can run up debt and you're 100% responsible for paying it all, even if you didn't make the purchases.",
+      "user_impact": "Since you carry balances, adding authorized users could worsen your debt if they overspend.",
+      "estimated_risk_scenario": "You add a family member as authorized user. They rack up $5,000 in charges. Even if they refuse to pay, the card company can demand you pay the entire amount plus interest.",
+      "recommended_actions": [
+        {
+          "action": "Set spending limits for any authorized users through your card company",
+          "priority": "immediate",
+          "contact": "Card issuer customer service"
+        },
+        {
+          "action": "Monitor account weekly and remove authorized users who overspend",
+          "priority": "immediate",
+          "contact": "Card issuer customer service"
+        },
+        {
+          "action": "Consider prepaid cards instead of adding authorized users to your account",
+          "priority": "optional",
+          "contact": "Financial advisor or credit counselor"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "finding_id": "US-V005",
+      "taxonomy": "UNCATEGORIZED",
+      "title": "Discretionary payment application below minimum",
+      "triggered_by": "We may apply Your Minimum Payment to Balance Categories in the order We choose.",
+      "description": "Bank controls how minimum payments are allocated, potentially maximizing interest charges to consumer",
+      "status": "UNVERIFIED",
+      "confidence": 0.7,
+      "user_relevance_score": 0.65,
+      "search_query_used": "apply your minimum payment balance categories order choose credit card consumer rights",
+      "legal_grounds": {
+        "statutes": [],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74",
+      "severity": "MEDIUM",
+      "plain_language_explanation": "The card company can choose how to apply your payments to different balances. They may put payments toward lower-interest debt first, keeping high-interest debt longer.",
+      "user_impact": "You'll pay more interest over time since high-rate balances stay longer on your account.",
+      "estimated_risk_scenario": "With balance carrying habits, payments go to 0% promotional balances first while 24.99% purchase balance grows, costing hundreds more in interest annually.",
+      "recommended_actions": [
+        {
+          "action": "Read the cardholder agreement to understand payment allocation rules before signing",
+          "priority": "pre-signing",
+          "contact": "Card issuer customer service"
+        },
+        {
+          "action": "Make payments above the minimum to reduce high-interest balances faster",
+          "priority": "immediate",
+          "contact": "Your bank or credit union for payment strategy advice"
+        },
+        {
+          "action": "Consider cards with more favorable payment allocation terms",
+          "priority": "optional",
+          "contact": "CFPB.gov for credit card comparison tools"
+        }
+      ],
+      "rank": 6
+    }
+  ],
+  "general_recommendations": [
+    "Read all terms carefully before signing any credit card agreement.",
+    "Compare APR and fees across multiple issuers before applying.",
+    "Note any arbitration clauses that waive your right to sue.",
+    "Contact CFPB (1-855-411-2372) if you believe a term is unfair.",
+    "For disputes, contact your state Attorney General's consumer protection office."
+  ],
+  "disclaimer": "This report is generated by AI analysis and has no legal effect. For specific legal advice, consult a consumer protection attorney or contact the CFPB."
+}

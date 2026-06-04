@@ -1,0 +1,771 @@
+EX-10.1
+
+2
+
+ex101_20232601edgarbamlfir.htm
+
+EX-10.1
+
+Document
+
+Exhibit 10.1
+
+Execution Version
+
+        
+
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+THIS FIRST AMENDMENT TO CREDIT AGREEMENT, dated as of January 26, 2023 (this “
+
+Amendment
+
+”), by and among the undersigned Lenders and L/C Issuers, SUNPOWER CORPORATION, a Delaware corporation (the “
+
+Borrower
+
+”), the Subsidiary Guarantors party hereto, and BANK OF AMERICA, N.A., as Administrative Agent and the Swingline Lender.
+
+RECITALS:
+
+WHEREAS,
+
+ reference is hereby made to the Credit Agreement, dated as of September 12, 2022 (as amended, restated, amended and restated, supplemented or otherwise modified from time to time prior to giving effect to this Amendment, the “
+
+Existing Credit Agreement
+
+”, and the Existing Credit Agreement as amended by this Amendment, and as may be further amended, restated, amended and restated, supplemented or modified from time to time, the “
+
+Amended Credit Agreement
+
+”), by and among the Borrower, the Subsidiary Guarantors, the Lenders and the L/C Issuers party thereto from time to time, the Administrative Agent and Collateral Agent;
+
+WHEREAS,
+
+ the Borrower has requested, and each of the institutions listed on 
+
+Schedule I
+
+ hereto (each a “
+
+2023 Incremental Revolving Lender
+
+” and collectively, the “
+
+2023 Incremental Revolving Lenders
+
+”) is willing (on a several and not joint basis) to provide (on the terms and subject to the conditions set forth herein and in the Amended Credit Agreement), an Incremental Facility in the form of an Incremental Revolving Increase pursuant to Section 2.16 of the Existing Credit Agreement in an aggregate amount of $100,000,000 (such Incremental Revolving Increase, the “
+
+2023 Incremental Revolving Commitments
+
+”; any loans thereunder, the “
+
+2023 Incremental Revolving Loans
+
+”) and the amount of each 2023 Incremental Revolving Lender’s 2023 Incremental Revolving Commitments is set forth opposite its name on 
+
+Schedule I
+
+ hereto;
+
+WHEREAS
+
+, as of the First Amendment Effective Date, after giving effect to the 2023 Incremental Revolving Commitments, each Revolving Lender (including each 2023 Incremental Revolving Lender) holds Revolving Commitments in an aggregate amount set forth opposite such Revolving Lender’s name on 
+
+Schedule II
+
+ hereto under the caption “Revolving Commitment”;
+
+WHEREAS, 
+
+each of the parties hereto has agreed to amend the Existing Credit Agreement in the manner set forth in 
+
+Section 4
+
+ hereof, subject to the terms and conditions set forth herein; and
+
+WHEREAS
+
+, each Loan Party hereto expects to realize substantial direct and indirect benefits as a result of this Amendment becoming effective and agrees to reaffirm its obligations pursuant to the Amended Credit Agreement, the Collateral Documents and the other Loan Documents to which it is a party.
+
+NOW, THEREFORE, 
+
+in consideration of the premises and agreements, provisions and covenants herein contained, the parties hereto agree as follows:
+
+1.    
+
+Defined Terms; Interpretation; Etc.
+
+ Capitalized terms used and not defined herein shall have the meanings assigned to such terms in the Amended Credit Agreement. The rules of construction specified in Sections 1.02 through 1.08 of the Amended Credit Agreement also apply to this Amendment, 
+
+mutatis mutandis
+
+, as if fully set forth herein.
+
+1
+
+US-DOCS\138160553.11
+
+Exhibit 10.1
+
+Execution Version
+
+        
+
+2.    
+
+Approval of Loan Documents.
+
+ Each 2023 Incremental Revolving Lender (a) confirms that (i) it has received a copy of the Existing Credit Agreement and the other Loan Documents, together with such other documents and information as it has deemed appropriate to make its own credit analysis and decision to enter into this Amendment and (ii) it is sophisticated with respect to decisions to provide commitments and make loans similar to those contemplated to be made hereunder and it is experienced in making commitments and loans of such type; (b) agrees that it will, independently and without reliance upon the Administrative Agent or any other Lender or Agent or any of their respective affiliates, and based on such documents and information as it shall deem appropriate at the time, continue to make its own credit decisions in taking or not taking action under the Loan Documents; (c) appoints and authorizes the Administrative Agent and the Collateral Agent to take such action as agent on its behalf and to exercise such powers under the Amended Credit Agreement and the other Loan Documents as are delegated to the Administrative Agent and the Collateral Agent, as the case may be, by the terms thereof, together with such powers as are reasonably incidental thereto; and (d) agrees that, as of the First Amendment Effective Date, it is a Lender and a L/C Issuer under the Amended Credit Agreement and will perform in accordance with the terms of the Amended Credit Agreement all of the obligations which by the terms of the Amended Credit Agreement are required to be performed by it as a Lender and a L/C Issuer.
+
+3.    
+
+2023 Incremental Revolving Loans and Commitments.
+
+(a)    Effective as of the First Amendment Effective Date, on the terms and subject to the conditions set forth herein, each 2023 Incremental Revolving Lender agrees to provide its respective 2023 Incremental Revolving Commitments to the Borrower on the First Amendment Effective Date in the amount set forth opposite such 2023 Incremental Revolving Lender’s name on 
+
+Schedule I
+
+ hereto.
+
+(b)    Each 2023 Incremental Revolving Commitment provided for herein shall be on the same terms as the existing Revolving Commitments and any 2023 Incremental Revolving Loans made thereunder shall be on the same terms as any existing Revolving Loan.
+
+(c)    From and after the First Amendment Effective Date, (i) each 2023 Incremental Revolving Lender shall constitute a “Revolving Lender” and a “Lender”, (ii) the 2023 Incremental Revolving Commitments shall constitute “Revolving Commitments” and “Commitments” and (iii) the 2023 Incremental Revolving Loans shall constitute “Revolving Loans” and “Loans”, in each case, for all purposes of the Amended Credit Agreement and the other Loan Documents.
+
+(d)    Upon the occurrence of the First Amendment Effective Date, each of the Revolving Lenders immediately prior to giving effect to this Amendment (collectively, the “
+
+Existing Revolving Lenders
+
+”) will, automatically and without further act, be deemed to have assigned to the 2023 Incremental Revolving Lenders on a 
+
+pro rata
+
+ basis, and each 2023 Incremental Revolving Lender will purchase from each of the Existing Revolving Credit Lenders, on a 
+
+pro rata
+
+ basis, at the principal amount thereof, such interests in any Revolving Loans and participations in Letters of Credit and Swingline Loans outstanding as of the First Amendment Effective Date such that, after giving effect to each such deemed assignment and assumption of the Revolving Loans and participations, the percentage of the aggregate outstanding (i) Revolving Loans and (ii) participations in Letters of Credit and Swingline Loans held by each Revolving Lender (including, for the avoidance of doubt, each 2023 Incremental Revolving Lender) will equal such Revolving Lender’s Applicable Percentage of the Revolving Commitments.
+
+(e)    This Amendment shall constitute an “Incremental Amendment” pursuant to and in accordance with Section 2.16 of the Existing Credit Agreement.
+
+2
+
+US-DOCS\138160553.11
+
+Exhibit 10.1
+
+Execution Version
+
+        
+
+(f)    The existing Lenders party hereto agree that the requirement to deliver a notice to the Administrative Agent and the existing Lenders pursuant to Section 2.16(b) through (d) of the Existing Credit Agreement, any ten (10) Business Day notice period in connection therewith is hereby satisfied.
+
+4.    
+
+Amendments to the Existing Credit Agreement
+
+. Each of the parties hereto agrees that, on and as of the First Amendment Effective Date and subject to the terms and conditions set forth in this Amendment, the Existing Credit Agreement shall be amended as follows:
+
+(a)    Section 1.01 of the Existing Credit Agreement is hereby amended by adding the following defined terms in appropriate alphabetical order:
+
+(i)    “
+
+First Amendment
+
+” shall mean that certain First Amendment to Credit Agreement, dated as of January 26, 2023, by and among the Borrower, the Subsidiary Guarantors party thereto, the Lenders and L/C Issuers party thereto and the Administrative Agent and the Swingline Lender.
+
+(ii)    “
+
+First Amendment Effective Date
+
+” shall have the meaning specified in the First Amendment, which date occurred on January 26, 2023.
+
+(b)    The last sentence of the definition of “Revolving Commitment” appearing in Section 1.01 of the Existing Credit Agreement is hereby amended and restated in its entirety to read as follows:
+
+“The Revolving Commitment of all of the Revolving Lenders on the First Amendment Effective Date is $200,000,000.”
+
+(c)    Schedule 1.01(b) is hereby amended by replacing such Schedule in its entirety with 
+
+Schedule II
+
+ attached hereto.
+
+(d)    Schedule 2.03 is hereby amended by replacing such Schedule in its entirety with 
+
+Schedule III
+
+ attached hereto.
+
+(e)    Section 6.01(c) of the Existing Credit Agreement shall be amended and restated in its entirety to read as follows:
+
+“(c)    as soon as available and in any event within sixty (60) days after the end of each of the first three (3) fiscal quarters of each fiscal year of the Borrower (or, if later, the date on which quarterly financial statements are required to be filed with the SEC pursuant to applicable SEC rules and regulations) and within ninety (90) days after the end of each fiscal year of the Borrower (or, if later, the date on which such annual financial statements are required to be filed with the SEC pursuant to applicable SEC rules and regulations), a Compliance Certificate duly executed by a Responsible Officer with respect to the financial statements so required to be delivered pursuant to 
+
+Section 6.01(a)
+
+ or 
+
+Section 6.01(b)
+
+ above, as applicable;”
+
+(f)    Section 6.01(j) of the Existing Credit Agreement shall be amended and restated in its entirety to read as follows:
+
+3
+
+US-DOCS\138160553.11
+
+Exhibit 10.1
+
+Execution Version
+
+        
+
+“(j) if, at any time, all of the consolidated Subsidiaries of the Borrower are not consolidated Restricted Subsidiaries, then (A) on the date on which the financial statements under Section 6.01(a) are required to be delivered or (B) on the date that is no later than fifteen (15) days after financial statements for the first three (3) fiscal quarters of each fiscal year of the Borrower under Section 6.01(b) are required to be delivered, a certificate of a Responsible Officer setting forth supplemental financial information necessary to eliminate the accounts of Unrestricted Subsidiaries from such consolidated financial statements in a form satisfactory to the Administrative Agent (it being understood that such supplemental financial information and certificate may be included in the Compliance Certificate for such period);”
+
+5.    
+
+Representations and Warranties
+
+. By its execution of this Amendment, each Loan Party hereby represents and warrants that, as of the date hereof:
+
+(a)    each Loan Party has all requisite power and authority and all requisite governmental licenses, authorizations, consents and approvals to execute, deliver and perform its obligations under this Amendment and the Amended Credit Agreement;
+
+(b) this Amendment when delivered hereunder will have been, duly executed and delivered by each Loan Party that is party hereto. This Amendment constitutes a legal, valid and binding obligation of each such Loan Party, enforceable against each Loan Party that is party hereto in accordance with its terms, subject to applicable bankruptcy, insolvency, reorganization, moratorium or other laws affecting creditors’ rights generally and subject to general principals of equity, regardless of whether considered in a proceeding in equity or at law;
+
+(c) the execution, delivery and performance by each Loan Party of this Amendment has been duly authorized by all necessary corporate or other organizational action, and do not and will not (i) contravene the terms of any of such Person’s Organization Documents; (ii) conflict with or result in any breach or contravention of, or the creation of (or the requirement to create) any Lien under, or require any payment to be made under (x) any indenture, agreement or other instrument evidencing Material Indebtedness that is binding upon the Loan Parties or any of their respective properties or (y) any order, injunction, writ or decree of any Governmental Authority or any arbitral award to which such Person or its property is subject; or (iii) violate any Applicable Law, except, in each case (other than with respect to 
+
+clause (i)
+
+ above), to the extent that any of the foregoing would not reasonably be expected to have a Material Adverse Effect;
+
+ 
+
+(d) no approval, consent, exemption, authorization, or other action by, or notice to, or filing with, any Governmental Authority or any other Person is necessary or required in connection with the execution, delivery or performance by, or enforcement against, any Loan Party of this Amendment, other than (i) authorizations, approvals, actions, notices and filings which have been duly obtained, and (ii) those third party approvals or consents which, if not made or obtained, would not cause a Default, could not reasonably be expected to have a Material Adverse Effect or do not have an adverse effect on the enforceability of the Loan Documents; and
+
+4
+
+US-DOCS\138160553.11
+
+Exhibit 10.1
+
+Execution Version
+
+        
+
+(e) the representations and warranties of each Loan Party set forth in Article V of the Amended Credit Agreement and in each other Loan Document are true and correct in all material respects (other than representations and warranties that are qualified by materiality or Material Adverse Effect, which shall be true and correct in all respects) on and as of the date hereof with the same effect as though made on and as of such date, except to the extent that such representations and warranties specifically refer to an earlier date, in which case they were true and correct as of such earlier date, and except that the representations and warranties contained in clauses (a) and (b) of Section 5.05 of the Amended Credit Agreement are deemed to refer to the most recent statements furnished pursuant to clauses (a) and (b), respectively, of Section 6.01 of the Amended Credit Agreement (it being understood that any representation or warranty made with respect to any information contained on any Schedule to any Loan Document shall be made as if such representation or warranty was specifically limited to the Closing Date).
+
+6.    
+
+Conditions Precedent to Effectiveness
+
+. The effectiveness of this Amendment and the 2023 Incremental Revolving Commitments are subject to the satisfaction of each of the following conditions (the first date on which all such conditions are satisfied, the “
+
+First Amendment
+
+ 
+
+Effective Date
+
+”):
+
+(a)    
+
+Execution of this Amendment
+
+. The Administrative Agent shall have received duly executed counterparts of this Amendment from the Administrative Agent, each Lender (including each 2023 Incremental Revolving Lender), each L/C Issuer, the Swingline Lender, the Borrower and each other Loan Party.
+
+(b)    
+
+Payment of Fees and Expenses
+
+. The Borrower shall have paid (or caused to be paid), to the extent invoiced at least three (3) Business Days prior to the First Amendment Effective Date, all costs, fees and expenses of the Administrative Agent (including, without limitation, legal fees and expenses) and each 2023 Incremental Revolving Lender to the extent required to be paid by the Borrower pursuant to Section 11.04(a) of the Amended Credit Agreement.
+
+(c)    
+
+Representations and Warranties
+
+. The representations and warranties set forth in 
+
+Section 5
+
+ hereof shall be true and correct on and as of the First Amendment Effective Date.
+
+(d)    
+
+No Default or Event of Default
+
+. As of the First Amendment Effective Date, immediately before and after giving effect to this Amendment and the transactions contemplated by this Amendment (including the establishment of the 2023 Incremental Revolving Commitments), no Default or Event of Default shall have occurred and be continuing, or would immediately result from the Revolving Borrowings, if any, to be made on the First Amendment Effective Date.
+
+(e)    
+
+Anti-Money Laundering; Beneficial Ownership
+
+. Upon the reasonable request of any 2023 Incremental Revolving Lender, the Borrower shall have provided to such 2023 Incremental Revolving Lender, and such 2023 Incremental Revolving Lender shall be reasonably satisfied with, the documentation and other information so requested in connection with applicable “know your customer” and anti-money-laundering rules and regulations, including, without limitation, the Patriot Act, and any Loan Party that qualifies as a “legal entity customer” under the Beneficial Ownership Regulation shall have delivered to each 2023 Incremental Revolving Lender that so requests, a Beneficial Ownership Certification in relation to such Loan Party.
+
+5
+
+US-DOCS\138160553.11
+
+Exhibit 10.1
+
+Execution Version
+
+        
+
+(f)    
+
+Legal Opinions
+
+. The Administrative Agent shall have received an opinion or opinions (including local counsel opinions) of counsel for the Loan Parties, dated the First Amendment Effective Date, and addressed to the Administrative Agent, the L/C Issuers and the Lenders party to this Amendment, in each case, in form and substance reasonably acceptable to the Administrative Agent.
+
+(g)    
+
+Solvency Certificate
+
+. The Administrative Agent shall have received a Solvency Certificate signed by a Responsible Officer of the Borrower as to Solvency of the Borrower and its Subsidiaries, on a consolidated basis, on the First Amendment Effective Date after giving effect to this Amendment and the transactions contemplated hereby.
+
+(h)    
+
+Closing Certificate
+
+. The Administrative Agent shall have received a certificate executed by a Responsible Officer of the Borrower dated as of the First Amendment Effective Date, certifying that the conditions set forth in 
+
+Sections 6(c)
+
+ and 
+
+6(d)
+
+ have been satisfied.
+
+(i)    
+
+Secretary’s Certificate
+
+. The Administrative Agent shall have received a certificate of a Responsible Officer of each Loan Party dated as of the First Amendment Effective Date, certifying as to (i) the Organization Documents of such Loan Party (which, to the extent filed with a Governmental Authority, shall be certified as of a recent date by such Governmental Authority) or that there has been no change to such Organization Documents since the Closing Date, (ii) the resolutions of the governing body of such Loan Party, (iii) the incumbency (including specimen signatures) of the Responsible Officers of such Loan Party signing this Amendment and (iv) such documents and certificates of existence and good standing as may be reasonably requested by the Administrative Agent.
+
+7.    
+
+Reaffirmations.
+
+(a)    Each Loan Party, subject to the terms and limits contained in the Amended Credit Agreement and in the other Loan Documents, reaffirms its Guaranty of the Guaranteed Obligations (including all such Guaranteed Obligations as amended, reaffirmed and/or increased pursuant to this Amendment) pursuant to the Amended Credit Agreement. Each Loan Party hereby acknowledges that it has reviewed the terms and provisions of this Amendment and consents to the amendment of the Existing Credit Agreement effected pursuant to this Amendment. Each Loan Party hereby confirms that each Loan Document to which it is a party or is otherwise bound will continue to be in full force and effect as amended by this Amendment and that its obligations thereunder shall not be impaired or limited by the execution or effectiveness of this Amendment.
+
+(b)    Each Loan Party hereby (i) confirms that each Collateral Document to which it is a party or is otherwise bound and all Collateral encumbered thereby will continue to secure to the fullest extent provided thereunder, the payment and performance of the Secured Obligations (including all such Secured Obligations as amended, reaffirmed and/or increased pursuant to the Amended Credit Agreement) in accordance with the terms thereof, (ii) confirms its respective grant to the Collateral Agent for the benefit of the Secured Parties of the security interest in and continuing Lien on all of such Loan Party’s right, title and interest in, to and under the applicable Collateral in accordance with the terms thereof and (iii) confirms its other pledges, other grants of security interests and other obligations, as applicable, under and subject to the terms of each Loan Document to which it is a party.
+
+8.    
+
+Eligible Assignee
+
+. By its execution of this Amendment, each 2023 Incremental Revolving Lender represents and warrants that it is an Eligible Assignee.
+
+9.    
+
+Amendment, Modification and Waiver.
+
+ This Amendment may not be amended, modified or waived except in accordance with Section 11.01 of the Amended Credit Agreement.
+
+6
+
+US-DOCS\138160553.11
+
+Exhibit 10.1
+
+Execution Version
+
+        
+
+10.    
+
+Entire Agreement
+
+. This Amendment, the Amended Credit Agreement and the other Loan Documents constitute the entire agreement among the parties with respect to the subject matter hereof and thereof and supersede all other prior agreements and understandings, both written and oral, among the parties or any of them with respect to the subject matter hereof.
+
+11.    
+
+Effect of the Amendment
+
+. On and after the First Amendment Effective Date, (a) each reference to the “Credit Agreement” in any Loan Document shall be deemed to be a reference to the Amended Credit Agreement, (b) the terms “Agreement”, “this Agreement”, “herein”, “hereinafter”, “hereto”, “hereof”, and words of similar import, as used in the Amended Credit Agreement, shall, unless the context otherwise requires, mean the Amended Credit Agreement and (c) this Amendment shall constitute a “Loan Document” for all purposes of the Amended Credit Agreement and the other Loan Documents. Except as expressly provided in this Amendment, all Loan Documents shall continue to be in full force and effect and are hereby in all respects ratified and confirmed. The execution, delivery and effectiveness of this Amendment shall not operate as a waiver of any right, power or remedy of any Lender or the Administrative Agent under any of the Loan Documents, nor constitute a waiver of any provision of the Loan Documents. Each of the parties hereto acknowledges and agrees that the terms of this Amendment do not constitute a novation but, rather, an amendment of the terms of the Existing Credit Agreement.
+
+12.    
+
+GOVERNING LAW; JURISDICTION and WAIVER OF JURY TRIAL. 
+
+THE PROVISIONS OF SECTIONS 11.14 AND 11.15 OF THE AMENDED CREDIT AGREEMENT ARE INCORPORATED BY REFERENCE HEREIN AND MADE A PART HEREOF.
+
+13.    
+
+Severability
+
+. If any provision of this Amendment is held to be illegal, invalid or unenforceable, (a) the legality, validity and enforceability of the remaining provisions of this Amendment shall not be affected or impaired thereby and (b) the parties shall endeavor in good faith negotiations to replace the illegal, invalid or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the illegal, invalid or unenforceable provisions. The invalidity of a provision in a particular jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction. Without limiting the foregoing provisions of this 
+
+Section 13
+
+, if and to the extent that the enforceability of any provisions in this Amendment relating to Defaulting Lenders shall be limited by Debtor Relief Laws, as determined in good faith by the Administrative Agent, the L/C Issuers or the Swingline Lender, as applicable, then such provisions shall be deemed to be in effect only to the extent not so limited.
+
+14.    
+
+Electronic Execution; Electronic Records; Counterparts
+
+. This Amendment may be executed by one or more of the parties to this Amendment on any number of separate counterparts (including by facsimile or other electronic imaging means), and all of said counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of an executed signature page of this Amendment by facsimile or other electronic transmission (e.g. “pdf” or “tif” format) shall be effective as delivery of a manually executed counterpart hereof. This Amendment may be in the form of an Electronic Record and may be executed using Electronic Signatures. Each of the Loan Parties and each other party hereto agrees that any Electronic Signature on or associated with any Communication shall be valid and binding on such Person to the same extent as a manual, original signature, and that any Communication entered into by Electronic Signature, will constitute the legal, valid and binding obligation of such Person enforceable against such Person in accordance with the terms thereof to the same extent as if a manually executed original signature was delivered. Any Communication may be executed in as many counterparts as necessary or convenient, including both paper and electronic counterparts, but all such counterparts are one and the same Communication. For the avoidance of doubt, the authorization under this paragraph may include, without limitation, use or acceptance of a manually signed paper Communication which has been converted into electronic form (such as scanned into PDF format), or an electronically signed 
+
+7
+
+US-DOCS\138160553.11
+
+Exhibit 10.1
+
+Execution Version
+
+        
+
+Communication converted into another format, for transmission, delivery and/or retention. The Administrative Agent may, at its option, create one or more copies of any Communication in the form of an imaged Electronic Record (“
+
+Electronic Copy
+
+”), which shall be deemed created in the ordinary course of such Person’s business, and destroy the original paper document. All Communications in the form of an Electronic Record, including an Electronic Copy, shall be considered an original for all purposes, and shall have the same legal effect, validity and enforceability as a paper record. Notwithstanding anything contained herein to the contrary, the Administrative Agent is not under any obligation to accept an Electronic Signature in any form or in any format unless expressly agreed to by it pursuant to procedures approved by it; provided, further, without limiting the foregoing, (a) to the extent the Administrative Agent has agreed to accept such Electronic Signature, the Administrative Agent shall be entitled to rely on any such Electronic Signature purportedly given by or on behalf of any party hereto without further verification and (b) upon the request of the Agent, any Electronic Signature shall be promptly followed by such manually executed counterpart. For purposes hereof, “
+
+Electronic Record
+
+” and “
+
+Electronic Signature
+
+” shall have the meanings assigned to them, respectively, by 15 DSC §7006, as it may be amended from time to time.
+
+15.    
+
+Waiver of Post
+
+-
+
+Closing Requirement
+
+. The Required Lenders waive the Borrower’s obligation to update certain intellectual property registrations as otherwise required under paragraph 4 of Schedule 6.20 of the Existing Credit Agreement.
+
+[
+
+Remainder
+
+ 
+
+of
+
+ 
+
+page
+
+ 
+
+intentionally
+
+ 
+
+left
+
+ blank
+
+]
+
+8
+
+US-DOCS\138160553.11
+
+     
+
+IN WITNESS WHEREOF
+
+, each of the undersigned has caused its duly authorized officer to execute and deliver this Amendment as of the date first set forth above.
+
+CITIBANK, N.A., 
+
+as a 2023 Incremental
+
+Revolving Lender
+
+By:
+
+/S/ DERRICK LENZ
+
+Name:
+
+Derrick Lenz
+
+Title:
+
+Vice President
+
+[Signature Page to Amendment]
+
+     
+
+JP MORGAN CHASE BANK, N.A., 
+
+as a 2023 Incremental
+
+Incremental Revolving Lender
+
+By:
+
+/S/ JASON R. WILLIAMS
+
+Name:
+
+Jason R. Williams
+
+Title:
+
+Authorized Officer
+
+[Signature Page to Amendment]
+
+     
+
+BANK OF AMERICA, N.A., 
+
+as the
+
+Administrative Agent
+
+By:
+
+/S/ CHRISTINE TROTTER
+
+Name:
+
+Christine Trotter
+
+Title:
+
+Vice President
+
+[Signature Page to Amendment]
+
+     
+
+BANK OF AMERICA, N.A., 
+
+as a Lender,
+
+the Swingline Lender and a L/C Issuer
+
+By:
+
+/S/ NEIL PARIKH
+
+Name:
+
+Neil Parikh
+
+Title:
+
+Director
+
+[Signature Page to Amendment]
+
+     
+
+BANK OF THE WEST, 
+
+as a Lender and a L/C
+
+Issuer
+
+By:
+
+/S/ PATRICK FAHEY
+
+Name:
+
+Patrick Fahey
+
+Title:
+
+Vice President
+
+[Signature Page to Amendment]
+
+     
+
+BORROWER
+
+:
+
+SUNPOWER CORPORATION
+
+By:
+
+/S/ GUTHRIE DUNDAS
+
+Name:
+
+Guthrie Dundas
+
+Title:
+
+Interim Chief Financial Officer
+
+[Signature Page to Amendment]
+
+     
+
+SUBSIDIARY GUARANTORS
+
+:
+
+SUNPOWER NORTH AMERICA, LLC
+
+SUNPOWER CORPORATION, SYSTEMS
+
+FALCON ACQUISITION HOLDCO, INC.
+
+BLUE RAVEN SOLAR HOLDINGS, LLC
+
+BLUE RAVEN SOLAR, LLC
+
+BRS FIELD OPS, LLC
+
+SUNPOWER CAPITAL, LLC
+
+SUNPOWER CAPITAL SERVICES, LLC
+
+SUNPOWER HOLDCO, LLC
+
+By:
+
+/S/ GUTHRIE DUNDAS
+
+Name:
+
+Guthrie Dundas
+
+Title:
+
+Authorized Officer
+
+[Signature Page to Amendment]
+
+     
+
+SCHEDULE I
+
+2023 INCREMENTAL REVOLVING COMMITMENTS
+
+2023 Incremental Revolving Lender
+
+2023 Incremental Revolving Commitment
+
+Citibank, N.A.
+
+$50,000,000
+
+JPMorgan Chase Bank, N.A.
+
+$50,000,000
+
+TOTAL
+
+$100,000,000
+
+     
+
+SCHEDULE II
+
+Schedule 1.01(b)
+
+Revolving Commitments, Term Commitments and Applicable Percentages
+
+Term Commitments
+
+Lender
+
+Term Commitment
+
+Applicable Percentage
+
+Bank of America, N.A.
+
+$50,000,000.00
+
+50%
+
+Bank of the West
+
+$50,000,000.00
+
+50%
+
+Total
+
+$100,000,000.00
+
+100%
+
+Revolving Commitments
+
+Lender
+
+Revolving Commitment
+
+Applicable Percentage
+
+Bank of America, N.A.
+
+$50,000,000.00
+
+25%
+
+Bank of the West
+
+$50,000,000.00
+
+25%
+
+Citibank, N.A.
+
+$50,000,000.00
+
+25%
+
+JPMorgan Chase Bank, N.A.
+
+$50,000,000.00
+
+25%
+
+Total
+
+$200,000,000.00
+
+100%
+
+     
+
+SCHEDULE III
+
+Schedule 2.03
+
+Letter of Credit Commitments
+
+Lender
+
+Letter of Credit Commitment
+
+Bank of America, N.A.
+
+$12,500,000.00
+
+Bank of the West
+
+$12,500,000.00
+
+Citibank, N.A.
+
+$12,500,000.00
+
+JPMorgan Chase Bank, N.A.
+
+$12,500,000.00
+
+Total
+
+$50,000,000.00

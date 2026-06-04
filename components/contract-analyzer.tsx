@@ -2,6 +2,7 @@
 
 import { useState, useRef, useEffect } from "react"
 import type { UserProfile, AnalysisReport } from "@/lib/schemas"
+import { DEMO_PROFILES, PRECOMPUTED_PRODUCTS, type ProfileId } from "@/lib/demo"
 import { VulnerabilityReport } from "./vulnerability-report"
 
 interface ContractItem {
@@ -43,11 +44,25 @@ type AnalysisState = "input" | "analyzing" | "result"
 
 interface ContractAnalyzerProps {
   onBack: () => void
+  // Optional preload (used by the /analyze deep-link page)
+  initialContractText?: string
+  initialProduct?: string
+  initialProfileId?: string
+  autoStart?: boolean
 }
 
-export function ContractAnalyzer({ onBack }: ContractAnalyzerProps) {
-  const [contractText, setContractText] = useState("")
-  const [fileName, setFileName] = useState("")
+export function ContractAnalyzer({
+  onBack,
+  initialContractText,
+  initialProduct,
+  initialProfileId,
+  autoStart,
+}: ContractAnalyzerProps) {
+  const [contractText, setContractText] = useState(initialContractText ?? "")
+  const [fileName, setFileName] = useState(initialProduct ?? "")
+  // product / profileId hints let the API serve a precomputed harness run
+  const [product, setProduct] = useState(initialProduct ?? "")
+  const [profileId] = useState(initialProfileId ?? "")
   const [userProfile, setUserProfile] = useState<UserProfile>({
     age: "",
     occupation: "",
@@ -59,12 +74,14 @@ export function ContractAnalyzer({ onBack }: ContractAnalyzerProps) {
   const [report, setReport] = useState<AnalysisReport | null>(null)
   const [error, setError] = useState("")
   const fileInputRef = useRef<HTMLInputElement>(null)
+  const autoStarted = useRef(false)
   
   // Contract selector state
   const [contracts, setContracts] = useState<ContractItem[]>([])
   const [selectedCompany, setSelectedCompany] = useState("")
   const [isLoadingContracts, setIsLoadingContracts] = useState(true)
   const [isLoadingContract, setIsLoadingContract] = useState(false)
+  const [demoProfile, setDemoProfile] = useState<ProfileId>("profile1")
 
   // Fetch contract manifest on mount
   useEffect(() => {
@@ -84,6 +101,19 @@ export function ContractAnalyzer({ onBack }: ContractAnalyzerProps) {
     fetchManifest()
   }, [])
 
+  // Auto-start analysis when deep-linked with a preloaded contract or a
+  // precomputed (product + profile) target.
+  useEffect(() => {
+    const ready =
+      (initialContractText?.trim().length ?? 0) >= 100 ||
+      (Boolean(initialProfileId) && Boolean(initialProduct))
+    if (autoStart && !autoStarted.current && ready) {
+      autoStarted.current = true
+      startAnalysis()
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [autoStart, initialContractText, initialProfileId, initialProduct])
+
   // Get unique companies
   const companies = Array.from(new Set(contracts.map(c => c.company)))
   
@@ -102,6 +132,7 @@ export function ContractAnalyzer({ onBack }: ContractAnalyzerProps) {
       const text = await res.text()
       setContractText(text)
       setFileName(contract.name)
+      setProduct(contract.name)
     } catch (err) {
       setError("약관 파일을 불러오는데 실패했습니다")
     } finally {
@@ -118,7 +149,9 @@ export function ContractAnalyzer({ onBack }: ContractAnalyzerProps) {
 
   async function startAnalysis() {
     const text = contractText.trim()
-    if (text.length < 100) {
+    // A precomputed run (product + profile) can be served without contract text.
+    const canUsePrecomputed = Boolean(profileId) && Boolean(product || fileName)
+    if (text.length < 100 && !canUsePrecomputed) {
       setError("약관 내용이 너무 짧습니다 (100자 이상)")
       return
     }
@@ -139,6 +172,8 @@ export function ContractAnalyzer({ onBack }: ContractAnalyzerProps) {
         body: JSON.stringify({
           contractText: text,
           userProfile,
+          product: product || fileName || undefined,
+          profileId: profileId || undefined,
         }),
       })
 
@@ -165,6 +200,7 @@ export function ContractAnalyzer({ onBack }: ContractAnalyzerProps) {
     setCurrentStep(0)
     setContractText("")
     setFileName("")
+    setProduct("")
     setError("")
   }
 
@@ -235,6 +271,47 @@ export function ContractAnalyzer({ onBack }: ContractAnalyzerProps) {
             <span className="text-[10px] uppercase tracking-[2px] text-muted-foreground">
               Contract Input
             </span>
+          </div>
+
+          {/* Precomputed harness-run demo (instant, no API cost) */}
+          <div className="mb-5 border border-foreground/30 bg-muted/20">
+            <div className="flex items-center justify-between border-b border-border bg-foreground/5 px-4 py-3">
+              <span className="text-[10px] font-medium uppercase tracking-wider text-foreground">
+                사전 분석 데모 · 즉시 보기
+              </span>
+              <div className="flex gap-1">
+                {DEMO_PROFILES.map((p) => (
+                  <button
+                    key={p.id}
+                    onClick={() => setDemoProfile(p.id)}
+                    className={`px-2 py-1 text-[10px] font-semibold transition-colors ${
+                      demoProfile === p.id
+                        ? "bg-foreground text-background"
+                        : "border border-border text-muted-foreground hover:border-foreground hover:text-foreground"
+                    }`}
+                  >
+                    {p.name}
+                  </button>
+                ))}
+              </div>
+            </div>
+            <div className="p-4">
+              <p className="mb-3 text-[11px] text-muted-foreground">
+                {DEMO_PROFILES.find((p) => p.id === demoProfile)?.summary} 기준으로 실제
+                하네스가 생성한 분석 결과를 바로 확인합니다.
+              </p>
+              <div className="flex flex-wrap gap-2">
+                {PRECOMPUTED_PRODUCTS.map((prod) => (
+                  <a
+                    key={prod.key}
+                    href={`/analyze?product=${encodeURIComponent(prod.label)}&profileId=${demoProfile}`}
+                    className="border border-border bg-background px-3 py-1.5 text-[11px] text-foreground transition-colors hover:border-primary hover:text-primary"
+                  >
+                    {prod.label}
+                  </a>
+                ))}
+              </div>
+            </div>
           </div>
 
           {/* Contract selector */}

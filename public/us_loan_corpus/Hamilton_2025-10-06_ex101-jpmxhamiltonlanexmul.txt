@@ -1,0 +1,2035 @@
+EX-10.1
+
+2
+
+ex101-jpmxhamiltonlanexmul.htm
+
+EX-10.1
+
+Document
+
+        Exhibit 10.1
+
+CERTAIN CONFIDENTIAL INFORMATION, IDENTIFIED BY BRACKETED ASTERISKS [***], HAS BEEN OMITTED FROM THIS EXHIBIT BECAUSE IT IS BOTH (I) NOT MATERIAL AND (II) WOULD BE COMPETITIVELY HARMFUL IF PUBLICLY DISCLOSED.
+
+EXECUTION VERSION
+
+This 
+
+MULTI-DRAW TERM LOAN AND SECURITY AGREEMENT
+
+ (“
+
+Agreement
+
+”) dated October 20, 2022 (the “
+
+Effective Date
+
+”), between JPMORGAN CHASE BANK, N.A., successor-in-interest by purchase of the line of credit made pursuant to the terms of the Agreement from the Federal Deposit Insurance Corporation as receiver for First Republic Bank, San Francisco, CA (“
+
+Lender
+
+”) and HAMILTON LANE ADVISORS, L.L.C., a Pennsylvania limited liability company (“
+
+Borrower
+
+”) provides the terms on which Lender will lend to Borrower and Borrower will repay Lender. The parties agree as follows: 
+
+1.    
+
+ACCOUNTING AND OTHER TERMS
+
+1.1    
+
+Subject to Section 1.2, accounting terms not defined in this Agreement will be construed following GAAP and calculations and determinations must be made following GAAP. The term “financial statements” includes the notes and schedules. The terms “including” and “includes” always mean “including (or includes) without limitation,” in this or any Loan Document. Capitalized terms not otherwise defined in this Agreement shall have the meanings set forth in 
+
+Section 13
+
+.
+
+1.2    
+
+Notwithstanding the foregoing, if, after the date of this Agreement, there shall be a change in GAAP that would affect the calculation of any amounts included in any covenants or other provisions of this Agreement, then the parties shall negotiate in good faith an amendment to this Agreement to revise the covenant or other provision to give effect to the original intent of the parties and, until such amendment is effected, the calculation shall be based on GAAP as in effect prior to the change in GAAP and the Borrower shall provide the Lender with a reconciliation of the differences.
+
+2.    
+
+LOAN AND TERMS OF PAYMENT
+
+2.1    Promise to Pay.
+
+    Borrower promises to pay Lender the unpaid principal amount of all Credit Extensions and interest on the unpaid principal amount of the Credit Extensions. 
+
+2.1.1     Advances. 
+
+Subject to the terms and conditions of this Agreement, (i) on the Effective Date the Lender shall advance $0 (the “
+
+Initial Advance
+
+”) to Borrower and (ii) from the date hereof through the Conversion Date, Borrower may request additional advances (each, an “
+
+Additional Advance
+
+” and, collectively and with the Initial Advance, the “
+
+Advances
+
+”). The Initial Advance and each Additional Advance shall not exceed $50,000,000 in the aggregate (“
+
+Facility IV
+
+”). After repayment, no Advance may be reborrowed. Borrower shall make interest-only payments from the date of each Advance through the Conversion Date. For any Advances made the Second Amendment Effective Date, Borrower shall repay the aggregate principal balance of all Advances as of the Conversion Date (i) on the first Business Day of each calendar quarter beginning on January 1, 2028, in equal installments of principal through the Term Maturity Date (defined below) as set forth in Schedule II hereof 
+
+plus
+
+ (ii) monthly payments of accrued interest. Unless the notes issued and sold pursuant to a Note Purchase Agreement (the “
+
+Notes
+
+”) have been refinanced, repaid or terminated, all unpaid principal and interest on each Advance shall be due on the earlier of (i) the date that is five (5) Business Days prior to the earlier of the date the Notes (a) mature, (b) are repaid pursuant to Section 8.8 of the Initial Note Purchase Agreement or the corresponding provision of any Subsequent Note Purchase Agreement, or (c) are redeemed pursuant to Section 8.2 of the Initial Note Purchase Agreement or the corresponding provision of any Subsequent Note Purchase Agreement (a “
+
+Termination Event
+
+”) or (ii) October 1, 2029 (the “
+
+Term Maturity Date
+
+”). Notwithstanding the foregoing, any proceeds received by the Borrower pursuant to a Subsequent Private Placement shall be used to prepay any outstanding Advances under Facility IV within five (5) Business Days of receipt of such proceeds. If any excess proceeds remain after such 
+
+1
+
+prepayment, the amount in 
+
+clause (i)
+
+ of the definition of Term Loan Line in the following paragraph shall be reduced by an amount equal to such excess.
+
+To obtain an Advance, Borrower shall notify Lender by delivering to Lender the Payment/Advance Form attached as 
+
+Exhibit B
+
+ by facsimile or electronic mail in portable document format (PDF) by 12:00 p.m. Pacific time on the Business Day before the Business Day that the Advance is to be made. Lender will credit Advances to the Auto Debit Account (as defined in 
+
+Section 2.2(d))
+
+. Lender may make Advances under this Agreement based on instructions from a Designated Representative or his or her designee. Each request by Borrower for an Advance shall constitute a representation and warranty by Borrower to Lender that, after giving effect to each Advance, the aggregate outstanding amount of all Advances will not exceed the lesser of (i) $50,000,000
+
+ 
+
+and (ii) the Term Loan Availability Amount (the “
+
+Term Loan Line
+
+”).
+
+2.2    Interest Rate, Payments. 
+
+(a)    
+
+Interest Rate
+
+. The Advances accrue interest on the outstanding principal balance at a floating per annum rate equal to the greater of (a) the Prime Rate 
+
+minus
+
+ 1.35% and (b) 3.00%. 
+
+(b)    
+
+Default Rate
+
+.  After maturity or after the occurrence and during the continuance of an Event of Default, upon notice from the Lender (which notice may be retroactive to the date of the Event of Default or maturity), principal Lender Obligations accrue interest at 5% above the rate effective on the maturity date or on the date of the Event of Default, as applicable. 
+
+(c)    
+
+Interest Payments
+
+. Interest due on the Advances accrues through the last day of each calendar month and is payable on the tenth (10
+
+th
+
+) day of the immediately following month. After an Event of Default, Lender may debit the Auto Debit Account (as defined in 
+
+Section 2.2(d)
+
+) for principal and interest payments owing or any amounts Borrower owes Lender. Payments received after 12:00 noon Pacific time are considered received at the opening of business on the next Business Day. When a payment is due on a day that is not a Business Day, the payment is due the next Business Day.
+
+(d)     
+
+Automatic Payment Authorization
+
+. Borrower authorizes Lender to make automatic deductions (“
+
+Auto Debit
+
+”) from the following deposit account (the “
+
+Auto Debit
+
+ 
+
+Account
+
+”) maintained by Borrower at Lender’s offices in order to pay, when and as due, all installment payments of interest, and/or principal, renewal, modification or other fees or payments (a “
+
+Payment
+
+”) that Borrower is required or obligated to pay Lender under the Loan Documents 
+
+provided
+
+, that Lender shall notify Borrower of any amounts automatically deducted from the Auto Debit Account (which notice may be delivered concurrently with any Auto Debit), and 
+
+provided
+
+, 
+
+further
+
+, that no Auto Debit shall be effected for any fees or payments that are not scheduled unless Borrower shall have received, prior to the making of the Auto Debit, a written invoice, which may be delivered via email, detailing the fees or payments that are due:
+
+Account No:    
+
+[***]
+
+Without limiting any of the terms of the Loan Documents, Borrower acknowledges and agrees that if Borrower defaults in its obligation to make a Payment because the collected funds in the Auto Debit Account are insufficient to make such Payment in full on the date that such Payment is due, then Borrower shall be responsible for all late payment charges and other consequences of such default by Borrower under the terms of the Loan Documents.
+
+(i)    
+
+Revocation of Authorization
+
+. Subject to the Section immediately following this Section, this authorization shall continue in full force and effect until the date which is five (5) Business Days after the date on which Lender actually receives written notice from Borrower expressly revoking the authority granted to the 
+
+2
+
+Lender to charge the Auto Debit Account for Payments in connection with the Advances. No such revocation by Borrower shall in any way release Borrower from or otherwise affect Borrower’s obligations under the Loan Documents, including Borrower’s obligations to continue to make all Payments required under the terms of the Loan Documents.
+
+(ii)    
+
+Termination by Lender
+
+. The Lender, at its option and in its discretion, reserves the right to terminate the arrangement for Auto Debit pursuant to this Section at any time effective upon prior written notice of such election (a “
+
+Termination Notice
+
+”) given by Lender to Borrower. Without limiting the generality of the immediately preceding sentence, the Lender may elect to give a Termination Notice to Borrower if Borrower fails to comply with any of the Lender’s rules, regulations, or policies relating to the Auto Debit Account, including requirements regarding minimum balance, service charges, overdrafts, insufficient funds, uncollected funds, returned items, and limitations on withdrawals.
+
+(iii)    
+
+Increase in Interest Rate Upon Termination of Auto Debit
+
+. The date on which the arrangement for Auto Debit for the Auto Debit Account is terminated at the election of the Borrower is referred to as the “Auto Debit Termination Date”. Borrower acknowledges and agrees that the Lender would not have been willing to make the Advances at the interest rate or interest rates contained in the Loan Documents in the absence of the arrangement for Auto Debit from the Auto Debit Account pursuant to this authorization. Therefore, if there is a termination resulting from Borrower’s revocation of the Auto Debit arrangement, effective on the first due date of a Payment following the Auto Debit Termination Date, Lender, at its option and in its discretion, shall have the right to increase the interest rate on the outstanding principal balance of the Loan Documents to a rate which is equal to one-half of one percent (0.50%) per annum (the “
+
+Percentage Rate Increase
+
+”) above the otherwise applicable interest rate from time to time under the terms of the Loan Documents.
+
+(e)    
+
+Late Payments
+
+. If any installment of interest is not paid within 10 Business Days after the date on which it is due, Borrower shall immediately pay a late charge equal to 5% of such installment to Lender to compensate the Lender for administrative costs and expenses incurred in connection with such late payment. Borrower agrees that the actual damages suffered by Lender because of any late installment payment are extremely difficult and impracticable to ascertain, and the late charge described in this Section represents a reasonable attempt to fix such damages under the circumstances existing at the time this Agreement is executed. Lender’s acceptance of any late charge shall not constitute a waiver of any of the terms of this Agreement and shall not affect Lender’s right to enforce any of its rights and remedies against any Person liable for payment of this Agreement.
+
+2.3    Fees. 
+
+Borrower will pay:
+
+(a)    
+
+Facility IV Fee
+
+. A fully earned, non-refundable facility fee of $[***] on the Effective Date; 
+
+(b)    
+
+Unused Fee
+
+. Until the Conversion Date, a per annum fee equal to 0.40% of the difference between the Term Loan Line and the average outstanding principal balance of the Term Loan Line (less any amount of the Term Loan Line that was previously drawn and repaid and not available to be reborrowed) during the applicable calendar quarter, which fee shall accrue through the end of each calendar quarter and shall be payable on the 10th of each January, April, July and October and shall be nonrefundable. Such fee shall be computed on a 365 day year for the actual number of days elapsed; and
+
+(c)    
+
+Lender Expenses
+
+. Upon demand by Lender, all Lender Expenses reasonably incurred after the Effective Date.
+
+2.4    Taxes.
+
+3
+
+(a)    
+
+Payments Free of Taxes
+
+. Any and all payments by or on account of any obligation of Borrower under any Loan Document shall be made without deduction or withholding for any Taxes, except as required by applicable law. If any applicable law (as determined in the good faith discretion of any applicable Withholding Agent) requires the deduction or withholding of any Tax from any such payment by a Withholding Agent, then (i) the applicable Withholding Agent shall be entitled to make such deduction or withholding, (ii) the applicable Withholding Agent shall timely pay the full amount deducted or withheld to the relevant governmental authority in accordance with applicable law, and (iii) if such Tax is an Indemnified Tax, then the sum payable by Borrower shall be increased as necessary so that after such deduction or withholding has been made (including such deductions and withholdings applicable to additional sums payable under this Section 2.4) Lender receives an amount equal to the sum it would have received had no such deduction or withholding been made.
+
+(b)    
+
+Payment of Other Taxes by Borrower
+
+. Borrower shall timely pay to the relevant governmental authority in accordance with applicable law, or at the option of Lender timely reimburse it for, Other Taxes.
+
+(c)    
+
+Tax Indemnification
+
+. Borrower shall indemnify Lender, within ten (10) days after demand therefor, for the full amount of any Indemnified Taxes (including Indemnified Taxes imposed or asserted on or attributable to amounts payable under this Section 2.4) payable or paid by Lender or required to be withheld or deducted from a payment to Lender and any reasonable expenses arising therefrom or with respect thereto, whether or not such Indemnified Taxes were correctly or legally imposed or asserted by the relevant governmental authority. A certificate as to the amount of such payment or liability delivered to Borrower by Lender shall be conclusive absent manifest error.
+
+(d)    
+
+Evidence of Payments
+
+. As soon as practicable after any payment of Taxes by Borrower to a governmental authority pursuant to this Section 2.4, Borrower shall deliver to Lender the original or a certified copy of a receipt issued by such governmental authority evidencing such payment, a copy of the return reporting such payment or other evidence of such payment reasonably satisfactory to Lender.
+
+(e)    
+
+Status of Lender
+
+. If Lender is entitled to an exemption from or reduction of withholding Tax with respect to payments made under any Loan Document, it shall deliver to Borrower, at the time or times reasonably requested by Borrower, such properly completed and executed documentation reasonably requested by Borrower as will permit such payments to be made without withholding or at a reduced rate of withholding. In addition, Lender, if reasonably requested by Borrower, shall deliver such other documentation prescribed by applicable law or reasonably requested by Borrower as will enable Borrower to determine whether or not Lender is subject to backup withholding or information reporting requirements. Notwithstanding anything to the contrary in the preceding two sentences, the completion, execution and submission of such documentation (other than IRS Form W-9) shall not be required if in Lender’s reasonable judgment such completion, execution or submission would subject Lender to any material unreimbursed cost or expense or would materially prejudice the legal or commercial position of Lender. Without limiting the generality of the foregoing, in the event that Borrower is a U.S. Person, Lender shall deliver to Borrower from time to time upon the reasonable request of Borrower, executed copies of IRS Form W-9 certifying that Lender is exempt from U.S. federal backup withholding tax. Lender agrees that if any form or certification it previously delivered expires or becomes obsolete or inaccurate in any respect, it shall update such form or certification or promptly notify Borrower in writing of its legal inability to do so.
+
+(f)    
+
+Treatment of Certain Refunds
+
+. If any party determines, in its sole discretion exercised in good faith, that it has received a refund of any Taxes as to which it has been indemnified pursuant to this Section 2.4 (including by the payment of additional amounts pursuant to this Section 2.4), it shall promptly pay to the indemnifying party an amount equal to such refund (but only to the extent of indemnity payments made under this Section 2.4 with respect to the Taxes giving rise to such refund), net of all reasonable out-of-pocket expenses (including Taxes) of such indemnified party and without interest (other than any interest paid by the relevant governmental authority with respect to such refund). Such indemnifying party, upon the request of such indemnified 
+
+4
+
+party, shall repay to such indemnified party the amount paid over pursuant to this Section 2.4(f) (plus any penalties, interest or other charges imposed by the relevant governmental authority) in the event that such indemnified party is required to repay such refund to such governmental authority. Notwithstanding anything to the contrary in this Section 2.4(f), in no event will the indemnified party be required to pay any amount to an indemnifying party pursuant to this Section 2.4(f) the payment of which would place the indemnified party in a less favorable net after-Tax position than the indemnified party would have been in if the Tax subject to indemnification and giving rise to such refund had not been deducted, withheld or otherwise imposed and the indemnification payments or additional amounts with respect to such Tax had never been paid. This Section 2.4(f) shall not be construed to require any indemnified party to make available its Tax returns (or any other information relating to its Taxes that it deems confidential) to the indemnifying party or any other Person.
+
+(g)    
+
+Survival
+
+. Each party’s obligations under this Section 2.4 shall survive any assignment of rights by, or the replacement of, Lender, the termination of this Agreement and the repayment, satisfaction or discharge of all obligations under any Loan Document.
+
+3.    
+
+CONDITIONS OF LOANS 
+
+3.1    Conditions Precedent to Initial Credit Extension.
+
+ Lender’s obligation to make the initial Credit Extension is subject to the condition precedent that it receives, in form and substance satisfactory to Lender, such documents, and completion of such other matters, as Lender may reasonably deem necessary or appropriate, including, without limitation: 
+
+(a)    duly executed original signatures to the Loan Documents;
+
+(b)    certified Borrowing Resolutions of the Borrower authorizing entry into the transaction contemplated herein and in the other Loan Documents certified by a responsible officer of the Borrower as correct and complete copies thereof and in effect on the Effective Date;
+
+(c)    a true and complete copy of Borrower’s certificate of formation and good standing (or other similar instruments), certified by the Pennsylvania Secretary of State, and in each case certified by a responsible officer of the Borrower to be correct and complete copies thereof and in effect on the Effective Date;
+
+(d)    fully executed Loan Disbursement Instructions;
+
+(e)    a legal opinion of Borrower’s legal counsel;
+
+(f)    a true and complete copy of Borrower’s LLC Agreement certified by a responsible officer of the Borrower to be correct and complete copies thereof and in effect on the Effective Date;
+
+(g)    payment of the fees and Lender Expenses through the Effective Date; and
+
+(h)    delivery of a list of the Hamilton Lane subsidiaries.
+
+3.2    Conditions Precedent to all Credit Extensions.
+
+ Lender’s obligation to make each Advance, including the Initial Advance, is subject to the following:
+
+(a)    receipt of any Payment/Advance Form in accordance with 
+
+Section 2.1.1
+
+;
+
+(b)    the representations and warranties in this Agreement shall be true in all material respects on the date of the Payment/Advance Form and on the effective date of each Advance (except to the extent that a 
+
+5
+
+representation and warranty is as of a specified date, in which case it must be true in all material respects as of the date specified), and no Event of Default has occurred and is continuing, or result from the Advance. Each Advance is Borrower’s representation and warranty on that date (or as set forth above) that the representations and warranties in this Agreement remain true in all material respects; and
+
+(c)    since the date of the most recently delivered financial statements, no Material Adverse Change shall have occurred.
+
+4.    
+
+CREATION OF SECURITY INTEREST
+
+4.1    Grant of Security Interest.
+
+ Borrower grants to Lender a continuing security interest in the Collateral to secure all Lender Obligations and performance of Borrower’s duties under the Loan Documents. Except for Permitted Liens and subject to Permitted Perfection Limitations, Borrower shall cause Lender to have a first priority security interest in the Collateral. If this Agreement is terminated, Lender’s lien and security interest in the Collateral will continue until Borrower fully satisfies its obligations under this Agreement (other than indemnities that are unliquidated and survive termination). If Borrower shall, at any time, acquire a commercial tort claim in excess of $1,000,000, Borrower shall promptly (but in any event no later than the date that the next Compliance Certificate is required to be delivered pursuant to 
+
+Exhibit A
+
+) notify Lender in writing of the details thereof and grant to Lender in such writing a security interest therein and in the proceeds thereof, all upon the terms of this Agreement, with such writing to be in form and substance satisfactory to Lender. Borrower authorizes Lender to file financing statements with all appropriate jurisdictions as Lender deems appropriate in order to perfect or protect Lender’s interest in the Collateral. 
+
+5.    
+
+REPRESENTATIONS AND WARRANTIES
+
+Borrower represents and warrants as follows: 
+
+5.1    Due Organization and Authorization.
+
+ Borrower is a limited liability company duly existing and in good standing under the laws of the Commonwealth of Pennsylvania, and qualified and licensed to do business in, and in good standing in, any jurisdiction in which the conduct of its business or its ownership of property requires that it be qualified except where the failure to be qualified would not reasonably be expected to result in a Material Adverse Change. Borrower has not changed its jurisdiction of formation or its organizational structure or type. The execution, delivery and performance of the Loan Documents have been duly authorized, and do not conflict with Borrower’s formation documents, nor constitute an event of default under any material agreement by which Borrower is bound. Borrower is not in default under any material agreement to which or by which it is bound, except where such default would not reasonably be expected to result in a Material Adverse Change.
+
+5.2    Charter Documents.
+
+ The Charter Documents delivered to Lender as of the Effective Date are true and correct copies of all of Borrower’s formation, organizational documents and operating agreements. The execution and delivery of the Loan Documents by the Borrower and the performance by the Borrower of its obligations under the Loan Documents are permitted by, and do not breach or conflict with any conditions or terms contained within the Charter Documents. All necessary consents have been given, actions taken and conditions met or validly waived pursuant to the Charter Documents and the Loan Documents. There are no restrictions in the Charter Documents on Borrower’s entering into and performing its obligations under this Agreement.
+
+5.3    Management Agreements. 
+
+All Management Agreements respecting current Management Fees are in full force and effect. Borrower has full power and authority to grant a first priority security interest to Lender in the Management Fees and Incentive Fees, there are no defenses to or setoffs (other than Incentive Fee claw-back provisions) against the payment of any Management Fees or Incentive Fees required for the Borrower to satisfy its 
+
+6
+
+obligations hereunder, and no disability or contractual obligation that would restrict Borrower from granting such security interest.
+
+5.4    Litigation.
+
+ Except as disclosed in writing to Lender, there are no actions or proceedings pending by or against Borrower, that would reasonably be expected to result in a judgment in excess of $5,000,000.
+
+5.5    No Material Adverse Change in Financial Statements.
+
+ All financial statements for Borrower delivered to Lender fairly present in all material respects Borrower’s financial condition and Borrower’s results of operations as of the dates specified therein. There has not been any Material Adverse Change since the date of the most recent financial statements submitted to Lender.
+
+5.6    Solvency.
+
+ The fair salable value of Borrower’s assets exceeds the fair value of its liabilities; Borrower is not left with unreasonably small capital after the transactions in this Agreement; and Borrower is able to pay its debts (including trade debts) as they mature. No petition has been filed with a court for the opening of a judicial liquidation, bankruptcy, suspension of payments or similar proceedings against Borrower. Borrower has not been granted a suspension of payments or declared bankrupt or been subject to any similar procedure and Borrower has not been, or is not subject to, any liquidation proceedings.
+
+5.7    Investments.
+
+ Borrower owns only Permitted Investments. 
+
+5.8    Anti-Corruption Laws, Anti-Money Laundering Laws and Sanctions.
+
+ Borrower has implemented and maintains in effect policies and procedures designed to ensure compliance by Borrower, its Subsidiaries, and their respective directors, officers, employees and agents with Anti-Corruption Laws, Anti-Money Laundering Laws, and applicable Sanctions, and Borrower, its Subsidiaries and their respective officers and directors and to the knowledge of Borrower its employees and agents, are in compliance with Anti-Corruption Laws, Anti-Money Laundering Laws and applicable Sanctions in all material respects and are not knowingly engaged in any activity that would reasonably be expected to result in Borrower being designated as a Sanctioned Person. None of (a) Borrower, any Subsidiary, any of its directors or officers or to the knowledge of Borrower or such Subsidiary employees, or (b) to the knowledge of Borrower, any agent of Borrower or any Subsidiary that will act in any capacity in connection with or benefit from the credit facility established hereby, is a Sanctioned Person. No Credit Extension, use of proceeds or other transaction contemplated by this Agreement will violate any Anti-Corruption Law, Anti-Money Laundering Law, or applicable Sanctions.
+
+5.9    Regulatory Compliance.
+
+ Borrower is not an “investment company” or a company “controlled” by an “investment company” under the Investment Company Act of 1940. Borrower is not engaged as one of its important activities in extending credit for margin stock, and no part of any Advance shall be used to fund a “purpose credit” (as defined under Regulations of the Federal Reserve Board of Governors). Borrower has not violated in any material respect any material laws, ordinances or governmental rules. Borrower has timely filed all required material federal, state and local tax returns and paid, or made adequate provision to pay, all material taxes, except those being contested in good faith and for which adequate reserves under GAAP have been established. Borrower has obtained all consents, approvals and authorizations of, made all declarations or filings with, and given all notices to, all government authorities that are necessary to continue its business as currently conducted, except where the failure to do so would not reasonably be expected to result in a Material Adverse Change.
+
+5.10    Full Disclosure.
+
+ No written representation, warranty or other statement of Borrower in any certificate or written statement given to Lender contains any untrue statement of a material fact as of the time made or delivered or, taken together with all such representations, warranties and statements, omits to state a material fact necessary to make the statements contained in the certificates or statements not misleading in light of the circumstances under which it was at the time made or delivered. 
+
+7
+
+5.11    Management Fees
+
+. Borrower represents that it is entitled to receive 100% of Management Fees and 75% of Incentive Fees from the Funds listed on Exhibit F hereto.
+
+5.12    Use of Proceeds.
+
+ Borrower has not used the proceeds of any Credit Extension other than for a Permitted Purpose.
+
+5.13    Beneficial Ownership Certification. 
+
+ The information included in any Beneficial Ownership Certification provided to Lender in connection with this Agreement is true and correct in all respects.
+
+6.    
+
+AFFIRMATIVE COVENANTS
+
+Borrower shall do all of the following:
+
+6.1    Government Compliance.
+
+ (a) Maintain its legal existence and good standing in its jurisdiction of formation and (b) maintain qualification in each jurisdiction in which qualification and good standing are necessary for the conduct of Borrower’s business, and (c) will comply in all material respects with all material laws, ordinances and regulations except in the case of (b) and (c) where the failure to do so would not reasonably be expected to result in a Material Adverse Change.
+
+6.2    Financial Statements, Reports, Certificates. 
+
+Deliver to Lender (i) a reasonably prompt report of any legal actions pending against Borrower that would reasonably be expected to result in damages or costs to Borrower of $5,000,000 or more; (ii) prompt notice of the occurrence of an Event of Default; and (iii) such other information Lender reasonably requests in writing.
+
+6.3    Covenants
+
+. Comply with the covenants set forth on 
+
+Exhibit A
+
+.
+
+6.4    Taxes.
+
+ Make timely payment of all material federal, state, and local taxes or assessments except where contesting the same and will deliver to Lender, on demand, appropriate certificates attesting to the payment. 
+
+6.5    Insurance. 
+
+ Keep its business insured for risks and in amounts, at customary levels.
+
+6.6    Bank Accounts.
+
+ (a) Maintain its operating and depository accounts, including, without limitation, the Designated Account, with Lender and (b) require (including in any payment notices with respect thereto) that the Management Fees be remitted by the Funds or the limited partners of the Funds directly to the Designated Account. If Borrower receives any Management Fee outside of the Designated Account, Borrower shall receive such Management Fee, IN TRUST for the benefit of the Lender, shall segregate it from Borrower’s other property, and shall forthwith (and in any event no later than two (2) Business Days after receipt) deliver it into the Designated Account. Borrower shall have no dominion or control over such received funds, except to promptly deposit such funds into the Designated Account.
+
+6.7    Use of Proceeds. 
+
+Use the proceeds of the Advances solely for the Permitted Purpose and agrees to respond promptly to any reasonable requests for information related to Borrower’s use of Advances to the extent required by Lender in connection with Lender’s determination of its compliance with Section 23A of the Federal Reserve Act (12 U.S.C. § 371c) and Regulation W.
+
+6.8    Charter Documents; Management Agreements.
+
+ (a) Cause the Charter Documents and Management Agreements to remain in full force and effect in the form presented to Lender as of the Effective Date, except for changes that would not reasonably be expected to affect materially and adversely (i) its right or ability to receive Management Fees or Incentive Fees or the amount of Management Fees or Incentive Fees otherwise payable thereunder or (ii) its ability to satisfy its obligations under this Agreement; (b) enforce all of its material rights and 
+
+8
+
+obligations under the Management Agreements; and (c) cause the Funds to maintain each Partnership Agreement in full force and effect in the form presented to Lender on the Effective Date, except for amendments that do not adversely affect the right or ability (i) to pay Management Fees or Incentive Fees in the amounts otherwise payable thereunder or make or enforce Capital Calls, (ii) to receive Capital Contributions and other payments from the Partners, or (iii) to satisfy Borrower’s obligations under this Agreement. For the avoidance of doubt, financing arrangements of any Funds that include a pledge of Capital Commitments and actions taken in support of such pledge do not constitute a violation of this Section 6.8 or other provisions of this Agreement. Notwithstanding the above, Borrower may take any action prohibited by this Section 6.8 so long as: (i) no Event of Default has occurred and is continuing or would result from such action, (ii) such action would not reasonably be expected to adversely affect the ability of Borrower to satisfy its obligations hereunder, and (iii) the aggregate Flexibility Actions do not exceed the Flexibility Cap at such time.
+
+6.9    Compliance with Anti-Corruption Laws, Anti-Money Laundering Laws and Sanctions. 
+
+Comply, and cause its Subsidiaries and their respective directors, officers, employees and agents to comply with all Anti-Corruption Laws, Anti-Money Laundering Laws and applicable Sanctions. Borrower will maintain in effect and enforce policies and procedures designed to ensure compliance by Borrower, its Subsidiaries and their respective directors, officers, employees and agents with Anti-Corruption Laws, Anti-Money Laundering Laws and applicable Sanctions.
+
+6.10    KYC and Other Information. 
+
+ Furnish to Lender promptly following any request therefor, (x) such other information regarding the operations, business affairs and financial condition of any Borrower or any Subsidiary, or compliance with the terms of this Agreement as the Lender may reasonably request and (y) information and documentation reasonably requested by Lender for purposes of compliance with applicable “know your customer” laws, including Anti-Money Laundering Laws, Anti-Corruption Laws, the Patriot Act and the Beneficial Ownership Regulation.
+
+6.11    Change in Beneficial Ownership.
+
+   The Borrower will furnish to Lender prompt written notice of any change in the Beneficial Ownership Certification delivered to Lender that would result in a change to the list of beneficial owners identified in such certification.
+
+7.    
+
+NEGATIVE COVENANTS
+
+No Borrower shall do any of the following without the consent of the Lender:
+
+7.1    Dispositions.
+
+ Convey, transfer or otherwise dispose of any part of its business or property, other than assets expressly contemplated by transactions in connection with a Repo Facility, outside the ordinary course of its business.
+
+7.2    Changes in Business, Management, Control.
+
+ Engage in any business other than the businesses currently engaged in by Borrower or reasonably related thereto or other business in accordance with the Charter Documents, or permit a Change in Control to occur, or dissolve, or permit any circumstance to occur that permits any Person(s) to seek the dissolution of Borrower.
+
+7.3    Mergers or Acquisitions.
+
+ Merge or consolidate with or into any other Person, 
+
+provided
+
+ a Person may merge into the Borrower so long as the Borrower is the survivor and both immediately before and immediately after giving effect to such merger no Event of Default shall have occurred or be caused thereby. Borrower may not divide itself into two or more limited liability companies or series thereof (pursuant to a “plan of division” or otherwise) without the prior written consent of Lender, and any limited liability companies or series thereof formed as a result of such division shall be required to become a co-borrower under this Agreement and the other Loan Documents pursuant to documentation or on terms and conditions reasonably requested by Lender.
+
+9
+
+7.4    Encumbrance.
+
+ (a) Create, incur, or allow any Lien on any of its property, or assign or convey any right to receive income, other than Permitted Liens or (b) agree with any Person not to do so other than with (i) a holder of a Permitted Lien (so long as the negative pledge with such other holder does not prevent the Lender’s Lien on the Collateral unless such Collateral is in equipment subject to a financing lease or purchase money Lien) or (ii) a holder of Notes pursuant to Section 10.5 of the Initial Note Purchase Agreement or the corresponding provision of any Subsequent Note Purchase Agreement. Notwithstanding the foregoing clauses (a) and (b), Borrower shall be permitted to enter into agreements containing customary anti-assignment provisions and restrictions required by applicable law to be contained in any investment advisory agreement of Borrower and any other restrictions under applicable law.
+
+7.5    Investments; Distributions.
+
+ (a) Directly or indirectly acquire or own any Person, or make any Investment in any Person, other than Permitted Investments; or (b) pay any dividends or make any distribution or payment to its Partners or Members, as applicable, except pursuant to and in accordance with the Charter Documents, provided that no such payment or distribution (but, for the avoidance of doubt, excluding expense reimbursement and similar payments) other than tax distributions may be made at any time that an Event of Default has occurred and is continuing or would exist after giving effect to such dividend, distribution or payment.
+
+7.6    Transactions with Affiliates.
+
+ Directly or indirectly enter into or permit to exist any material transaction with any Affiliate of Borrower except for dividends and distributions permitted hereunder, investments permitted hereunder, arrangements whereby a consolidated subsidiary serving as the general partner or manager of a client engages Borrower as an investment adviser, transactions pursuant to agreements in effect on the date hereof and transactions that are upon fair and reasonable terms that are no less favorable to Borrower than would be obtained in an arm’s length transaction with a nonaffiliated Person.
+
+7.7    Charter Documents.
+
+ (a) Amend, modify or waive any provision in its Charter Documents in any way materially affecting Borrower’s ability to satisfy its obligations under this Agreement, or (b) allow any Person other than Borrower to acquire (i) the right to make Capital Calls on behalf of the Borrower or (ii) rights to receive any Capital Contributions from the Borrower’s Partners. 
+
+7.8    Management Fees and Withdrawals from Certain Accounts.
+
+ (a) Permit any provision in any Charter Document or Management Agreement to be amended or waived in a way that reduces or postpones the payment of any Management Fees, or permit the Management Fees to be paid in anything other than cash or (b) at any time any Event of Default exists, (i) write any checks drawable against the Auto Debit Account or the Designated Account or (ii) make or permit any other withdrawals or transfers from the Auto Debit Account, the Designated Account or any other account held with Lender. Notwithstanding the above, Borrower may take any action prohibited by this Section 7.8(a) so long as: (i) no Event of Default has occurred or is continuing or would result from such action, (ii) such action would not reasonably be expected to adversely affect the ability of Borrower to satisfy its obligations hereunder, and (iii) the aggregate Flexibility Actions do not exceed the Flexibility Cap at such time.
+
+7.9    Compliance.
+
+ Become an “investment company” registered or required to be registered under the Investment Company Act of 1940 or a company controlled by an “investment company” registered or required to be registered under the Investment Company Act of 1940 or undertake as one of its important activities extending credit to purchase or carry margin stock, or use the proceeds of any Advance for that purpose; fail to meet the minimum funding requirements of ERISA, permit a Reportable Event or Prohibited Transaction, as defined in ERISA, to occur; or fail to comply with, or violate in any material respect any material law or regulation. 
+
+7.10    Affiliates.
+
+ Borrower will not permit any Affiliate to take any action with respect to the Management Fees that the Borrower is not permitted to take hereunder, provided that Borrower may permit an Affiliate to agree (a) that such Affiliate may not create, incur, or allow any Lien on any of such Affiliate’s property, 
+
+10
+
+or assign or convey any right to receive income, (b) to customary anti-assignment provisions and restrictions required by applicable law to be contained in any investment advisory agreement of Borrower and (c) to other restrictions under applicable law.
+
+7.11    Use of Proceeds. 
+
+ Use the proceeds of any Credit Extension hereunder to, directly or indirectly, either (i) purchase any assets or securities from, or securities issued by, any “affiliate” (as such term is defined in Regulation W) of the Lender, or (ii) invest in any fund advised by the Lender or an Affiliate thereof.
+
+8.    
+
+EVENTS OF DEFAULT
+
+Any one of the following is an Event of Default (“
+
+Event of Default
+
+”):
+
+8.1    Payment Default.
+
+ If Borrower fails to pay any principal or interest constituting Lender Obligations when due or any other Lender Obligations within 2 Business Days of the date the same shall be due;
+
+8.2    Covenant Default. 
+
+(a)    If Borrower fails to perform any obligation under Section 6, or violates any of the covenants contained in Section 7 of this Agreement, or
+
+(b)    If Borrower fails or neglects to perform, keep, or observe any other material term, provision, condition, covenant, or agreement contained in this Agreement, in any of the Loan Documents, or in any other present or future written agreement between Borrower and Lender and as to any default under such other term, provision, condition, covenant or agreement that can be cured, has failed to cure such default within 10 days after Borrower becomes aware of such default;
+
+8.3    Private Placement Default.
+
+ If an “Event of Default” (as defined in a Note Purchase Agreement) occurs and is continuing;
+
+8.4    Attachment
+
+. If any of Borrower’s assets is attached, seized, levied on, or comes into possession of a trustee or receiver and the attachment, seizure or levy is not stayed, bonded or removed in 10 Business Days, or if Borrower is enjoined, restrained, or prevented by court order from conducting a material part of its business or if a judgment or other claim becomes a Lien on a material portion of Borrower’s assets, or if a notice of lien, levy, or assessment is filed against any of Borrower’s assets by any government agency and not paid, bonded or stayed within 10 Business Days after Borrower receives notice (but no Advances will be made during the cure period);
+
+ 
+
+8.5    Insolvency
+
+. If Borrower is not solvent or if Borrower begins an Insolvency Proceeding or an Insolvency Proceeding is begun against Borrower and not dismissed or stayed within 60 days (but no Advance will be made before any Insolvency Proceeding is dismissed);
+
+8.6    Other Agreements
+
+. If there is a default in any agreement between Borrower and a third party that gives the third party the right to accelerate any Indebtedness exceeding $5,000,000 or that could reasonably be expected to cause a Material Adverse Change;
+
+8.7    Judgments
+
+. If a money judgment(s) is rendered against the Borrower (to the extent not satisfied, bonded, stayed or appealed for a period of 60 days after the entry thereof (it being understood that no Advances will be made before such judgment is stayed or satisfied)) and the aggregate amount of such judgment(s) (the “
+
+Judgment Amount
+
+”) is (a) less than $40,000,000 and the difference between the Judgment Amount and the amount of insurance coverage with respect thereto (if any) is greater than $5,000,000 (the “
+
+Insurance Gap
+
+”) (provided, that to the extent the Insurance Gap is less than $5,000,000, the Lender shall have received proof of such 
+
+11
+
+insurance in form and substance reasonably acceptable to the Lender) or (b) the Judgment Amount is in excess of $40,000,000; 
+
+8.8    Circumstances Affecting Fund or General Partner.
+
+ If any Fund fails to receive 90% of its Capital Contributions within 10 Business Days of the date when such Capital Contributions are due and such failure would reasonably be expected to result in a loss of more than 10% of Borrower’s aggregate Management Fees as of the end of the fiscal year in which such failure occurs;
+
+8.9    Misrepresentations.
+
+ If Borrower or any Person acting for Borrower makes any material misrepresentation or material misstatement now or later in any warranty or representation in this Agreement or in any writing delivered to Lender or to induce Lender hereunder to enter this Agreement or any Loan Document; or
+
+8.10    Facility I; Facility II; Facility III.
+
+ If an Event of Default occurs under Facility I, Facility II, or Facility III.
+
+9.    
+
+LENDER’S RIGHTS AND REMEDIES
+
+9.1    General.
+
+ After the occurrence and during the continuance of an Event of Default, Lender shall have the following rights and powers and may, at its option, without notice of its election and without demand (except as provided herein or required by law), do any one or more of the following: (i) declare any or all of the Lender Obligations to be immediately due and payable; (ii) discontinue advancing money or extending credit under this Agreement or under any other document or agreement between Lender and Borrower; (iii) obtain the appointment of a receiver to take possession of and, at the option of Lender, to collect, sell or dispose of the Collateral; or (iv) exercise any or all rights and remedies under this Agreement or any other Loan Document or applicable law, including without limitation the rights of a secured party under the Code. Lender, at its option, may apply all payments made under this Agreement or other Loan Documents to principal, interest, fees and other Lender Expenses in such order and amounts as Lender may determine in its sole discretion. The remedies of Lender, as provided herein, shall be cumulative and concurrent, and may be pursued singularly, successively or together, at the sole discretion of Lender, and may be exercised as often as occasion therefor shall arise. Lender’s exercise of one right or remedy is not an election, and Lender’s waiver of any Event of Default is not a continuing waiver. Any delay by Lender in exercising any remedy is not a waiver, election, or acquiescence, and no waiver is effective unless signed by Lender and then is only effective for the specific instance and purpose for which it was given. Borrower shall remain liable for any deficiency, and Lender is not required to foreclose on any Collateral. Borrower waives demand, notice of default or dishonor, notice of payment and nonpayment, notice of any default, nonpayment at maturity, release, compromise, settlement, extension, or renewal of accounts, documents, instruments, chattel paper, and guarantees held by Lender on which Borrower is liable.
+
+9.2    Rights to Payment.
+
+ After the occurrence of an Event of Default, Lender may: (i) in Lender’s or Borrower’s name, demand, collect, receive and give receipts for any and all money and other property due or to become due in connection with the Investment Interests, including without limitation, a demand on the other parties for payment of amounts arising thereunder 
+
+provided
+
+, 
+
+however
+
+, prior to making demand on any third parties, Lender shall provide written notice to the Borrower; and (ii) take possession of and endorse and collect any or all notes, checks, drafts, money orders, or other instruments of payment relating to the Investment Interests or any other Collateral and withdraw and apply any amounts in any account of Borrower held with Lender (including, without limitation, the Designated Account) against the Lender Obligations.
+
+9.3    Management Fees.
+
+ After the occurrence of an Event of Default, Lender may: (i) request payment of the Management Fees or Incentive Fees in accordance with the Management Agreements and Charter Documents and enforce the obligation of any Person to pay Management Fees or Incentive Fees; and (ii) collect all Management Fees or Incentive Fees owed under any of the Management Agreements or Charter Documents. Lender may enforce 
+
+12
+
+such obligations and collect such amounts in its own name or that of Borrower or any Person with a right to effect such enforcement and collection directly from the parties obligated thereon and to apply the proceeds to the Lender Obligations. 
+
+9.4    Power of Attorney.
+
+ Effective only when an Event of Default occurs and for the period it continues, Borrower irrevocably appoints Lender as its lawful attorney-in-fact to: (i) endorse Borrower’s name on any checks or other forms of payment or security; (ii) demand and collect Management Fees or Incentive Fees, and enforce any of Borrower’s rights under the Management Agreements and Charter Documents; (iii) make, settle, and adjust all claims under Borrower’s insurance policies; (iv) settle and adjust disputes and claims about any accounts directly with account debtors, for amounts and on terms Lender determines reasonable; and (v) transfer the Collateral into the name of Lender or a third party as the Code permits. Lender may exercise the power of attorney to sign Borrower’s name on any documents necessary to perfect or continue the perfection of any security interest regardless of whether an Event of Default has occurred. Lender’s appointment as Borrower’s attorney in fact, and all of Lender’s rights and powers, coupled with an interest, are irrevocable until all Lender Obligations have been fully repaid and performed and Lender’s obligation to provide Advances terminates. 
+
+10.    
+
+NOTICES. 
+
+Any notice, demand or request required under the Loan Documents shall be given in writing (at the addresses set forth below) by any of the following means: (i) personal service; (ii) electronic communication, whether by telecopier or other form of electronic communication; (iii) overnight courier; or (iv) registered or certified, first class U.S. mail, return receipt requested, or to such other addresses as Lender and Borrower may specify from time to time in writing. Any notice, demand or request sent pursuant to either subsection (i) or (ii) above, shall be deemed received upon such personal service or upon receipt by electronic means 
+
+provided
+
+ receipt at a time or on a day that is not a Business Day and between the hours of 9:00 a.m. and 5:00 p.m. (where the recipient is located) shall be deemed received on the next Business Day. Any notice, demand or request sent pursuant to subsection (iii) above, shall be deemed received on the Business Day immediately following deposit with the overnight courier, and, if sent pursuant to subsection (iv) above, shall be deemed received forty-eight (48) hours following deposit into the U.S. mail. The addresses are: (a) for Lender, 270 Park Avenue, Floor 25 , New York, NY 10017, Attn: Lauren Gubkin; and (b) for Borrower, Hamilton Lane Advisors, L.L.C., 110 Washington Street, Suite 1300, Conshohocken, PA 19428.
+
+11.    
+
+CHOICE OF LAW; VENUE; JURY TRIAL WAIVER AND JUDICIAL REFERENCE
+
+The Loan Documents shall be governed by and construed in accordance with New York law. All actions or proceedings arising in connection with the Loan Documents shall be tried and litigated only in the state or federal courts located in the Borough of Manhattan, New York County, State of New York. Borrower waives any right Borrower may have to assert the doctrine of forum non conveniens or to object to such venue and hereby consents to any court-ordered relief. 
+
+To the fullest extent permitted by law, Lender and Borrower waive trial by jury in any litigation or proceeding in a state or federal court with respect to, in connection with, or arising out of this Agreement or any other Loan Documents or the Lender Obligations or the transactions contemplated hereby, including without limitation claims relating to the application or the validity, protection, interpretation, collection or enforcement thereof, or any other claim or dispute (including tort and claims for breach of duty) between Lender and Borrower.
+
+12.    
+
+GENERAL PROVISIONS
+
+12.1    Successors and Assigns.
+
+ This Agreement binds and is for the benefit of the successors and permitted assigns of each party. No Borrower may assign this Agreement or any rights under it without Lender’s 
+
+13
+
+prior written consent which may be granted or withheld in Lender’s discretion. Lender has the right to sell, transfer, negotiate, or grant participation in all or any part of, or any interest in, Lender’s obligations, rights and benefits under this Agreement, provided that, except during the occurrence of an Event of Default, Borrower shall have the right to consent to the foregoing if such transfer is to a party that is not a commercial lender regulated by a governmental authority, which consent shall not be unreasonably withheld. In the event of an assignment, Lender, acting solely for this purpose as an agent of the Borrower, shall maintain at one of its offices in the United States a copy of each assignment and a register for the recordation of the names and addresses of the assignees, and the Lender Obligations of, and principal amounts (and stated interest) of the Lender Obligations owing to, each assignee pursuant to the terms hereof from time to time (the “
+
+Register
+
+”). The entries in the Register shall be conclusive absent manifest error. The Register shall be available for inspection by the Borrower and the Lender (or any assignee), at any reasonable time and from time to time upon reasonable prior notice. No assignment shall be effective for purposes of this Agreement unless it has been recorded in the Register. If Lender (or any assignee) sells a participation, it shall, acting solely for this purpose as an agent of Borrower, maintain a register on which it enters the name and address of each participant and the principal amounts (and stated interest) of each participant’s interest in the Lender Obligations under this Agreement or any other Loan Document (the “
+
+Participant Register
+
+”); 
+
+provided
+
+, that Lender (or such assignee) shall not have any obligation to disclose all or any portion of the Participant Register to any Person (including the identity of any participant or any information relating to a participant’s interest in any Lender Obligations or its other obligations under any Loan Document) except to the extent that such disclosure is necessary to establish that such Obligation is in registered form under Section 5f.103-1(c) of the U.S. Treasury Regulations. The entries in the Participant Register shall be conclusive absent manifest error, and Lender (or such assignee) shall treat each Person whose name is recorded in the Participant Register as the owner of such participation for all purposes of this Agreement, including payments of interest and principal, notwithstanding any notice to the contrary. The portion of the Participant Register relating to any participant requesting payment from Borrower under the Loan Documents shall be made available to Borrower upon reasonable request.
+
+12.2    Indemnification; Liability.
+
+ Borrower will indemnify, defend and hold harmless Lender and its directors, officers, employees, agents, attorneys, or any other Person affiliated with or representing Lender (collectively, “
+
+Indemnified Parties
+
+”) against: (a) all obligations, demands, claims, and liabilities asserted against Lender by any other party in connection with the transactions contemplated by the Loan Documents; and (b) all losses or Lender Expenses incurred, or paid by Lender from, following, or consequential to transactions between Lender and Borrower (including reasonable attorneys’ fees and expenses) in connection with the transactions contemplated by the Loan Documents, except in the case of (a) or (b) for obligations, demands, claims, liabilities and losses caused by Lender’s or any Indemnified Party’s gross negligence or willful misconduct and 
+
+provided
+
+, that such indemnity shall not, as to any Indemnified Party, be available to the extent that obligations, demands, claims, and liabilities result from (x) such Indemnified Party’s violation of law or (y) a claim brought by Borrower against an Indemnified Party for breach of that Indemnified Party’s obligations hereunder or under any other Loan Document, if such Borrower has obtained a final and nonappealable judgment in its favor on such claim as determined by a court of competent jurisdiction. This Section 12.2 shall not apply with respect to Taxes other than any Taxes that represent obligations, demands, claims, liabilities, and losses arising from any non-Tax claim.
+
+12.3    Time of Essence.
+
+ Time is of the essence for the performance of all obligations in this Agreement.
+
+12.4    Severability of Provisions.
+
+ Each provision of this Agreement is severable from every other provision in determining the enforceability of any provision.
+
+12.5    Amendments in Writing, Integration.
+
+ Any amendment or waiver relating to any Loan Document shall be in writing, signed by the parties thereto. No oral statement, nor any action, inaction, delay, failure to require performance or course of conduct shall operate as an amendment or waiver or have any other effect on any Loan Document. Any waiver shall be limited to the circumstance described in it, and shall not apply to any 
+
+14
+
+other circumstance, or give rise to any obligation to grant any further waiver. The Loan Documents represent the entire agreement about this subject matter and supersede prior negotiations or agreements, which merge into the Loan Documents.
+
+12.6    Counterparts; Electronic Signatures.
+
+ This Agreement may be executed in counterparts, each of which shall constitute an original, and all of which together shall constitute one and the same agreement.  A signed copy of this Agreement transmitted by a party to another party via facsimile or an emailed “pdf” version shall be binding on the signatory thereto.  Notwithstanding the delivery of the faxed or emailed copy, Borrower agrees to deliver to Lender original executed copies of this Agreement. The words “execution,” “signed,” “signature” and words of like import in any Loan Document shall be deemed to include electronic signatures or the keeping of records in electronic form, each of which shall be of the same legal effect, validity and enforceability as a manually executed signature or the use of a paper-based recordkeeping systems, as the case may be, to the extent and as provided for in any applicable law, including, without limitation, any state law based on the Uniform Electronic Transactions Act.
+
+12.7    Survival.
+
+ All covenants, representations and warranties made in this Agreement continue in full force while any Lender Obligations remain outstanding (other than indemnities which survive termination and are unliquidated). The obligations of Borrower in 
+
+Section 12.2
+
+ to indemnify Lender will survive until all statutes of limitations for actions that may be brought against Lender have run. 
+
+12.8    Certificates.
+
+ Whether or not expressly stated herein or in any other Loan Document, all certifications delivered, from time to time, by an officer of the Borrower in a document delivered to Lender pursuant to this Agreement or any other Loan Document shall be made by such officer in his or her capacity as an officer and not in his or her individual capacity regardless of whether the certification expressly so states.
+
+12.9    Prime Rate Unavailability
+
+.
+
+(a)    If the Lender determines that:
+
+(i)    adequate and reasonable means do not exist for ascertaining the Prime Rate;
+
+(ii)    the Prime Rate will not adequately and fairly reflect the cost to the Lender of making or maintaining the applicable Loan; or
+
+(iii)    it is unlawful for the Lender to maintain any Loan at the Prime Rate;
+
+THEN, the Lender shall give Borrower prompt notice thereof. Until such time, if any, that the Lender notifies Borrower that the circumstances giving rise to such notice no longer exist, (A) the Prime Rate is deemed not to be available and will be replaced with the Replacement Base Rate, and (B) all references to “Prime Rate” shall be deemed to be references to the “Replacement Base Rate”.
+
+(b)    Any determination, decision, or election that may be made by the Lender pursuant to clause (a) of this Section 12.9, any determination with respect to a rate or adjustment or the occurrence or non-occurrence of an event, circumstance or date, and any decision to take or refrain from taking any action, will be conclusive and binding absent manifest error and may be made in its sole discretion and without consent from Borrower.
+
+12.10    USA PATRIOT Act Notice.
+
+  The Lender is subject to the requirements of the USA PATRIOT Act of 2001 (the “
+
+Patriot Act
+
+”) and hereby notifies each Credit Party that pursuant to the requirements of the Patriot 
+
+15
+
+Act, it is required to obtain, verify and record information that identifies such Credit Party (and, in certain circumstances, each beneficial owner thereof), which information includes the name and address of such Credit Party (and any beneficial owner, as applicable) and other information that will allow the Lender to identify such Credit Party (and any beneficial owner, as applicable) in accordance with the Patriot Act.
+
+13.    
+
+DEFINITIONS
+
+In this Agreement:
+
+“
+
+Additional Advance
+
+” has the meaning provided in 
+
+Section 2.1.1
+
+.
+
+“
+
+Adjusted EBITDA
+
+” means the net income of the Borrower and its consolidated subsidiaries excluding interest expenses, income tax expenses, depreciation and amortization, equity based compensation expense, other non-operating income (loss), and transaction costs and expenses related to an IPO, acquisitions and refinancings, non-cash changes in fund portfolio valuations, gains or losses related to SPAC assets and other non-cash expenses. 
+
+“
+
+Advances
+
+” has the meaning provided in 
+
+Section 2.1.1
+
+.
+
+“
+
+Affiliate
+
+” of a Person means a Person that owns or controls directly or indirectly the Person, any Person that controls or is controlled by or is under common control with the Person, and each of that Person’s senior executive officers, directors, and partners and, for any Person that is a limited liability company, that Person’s managers and members, 
+
+provided
+
+, however, no Fund or subsidiary shall be deemed to be an Affiliate of the Borrower.
+
+“
+
+Anti-Corruption Laws
+
+” means all laws, rules, and regulations of any jurisdiction applicable to the Borrower or any of its Subsidiaries from time to time concerning or relating to bribery or corruption.
+
+“
+
+Anti-Money Laundering Laws
+
+” means laws, rules, and regulations of any jurisdiction applicable to the Borrowers or any of their Subsidiaries from time to time that concern or relate to money laundering or terrorism financing, any predicate crime to money laundering or any financial recordkeeping and reporting requirements related thereto.
+
+“
+
+Auto Debit
+
+” has the meaning provided in 
+
+Section 2.2(c)
+
+.
+
+“
+
+Auto Debit Account
+
+” has the meaning provided in Section 2.2(d).
+
+“
+
+Auto Debit Termination Date
+
+” has the meaning provided in 
+
+Section 2.2(c)(iii)
+
+.
+
+“
+
+Beneficial Ownership Certification
+
+” means a certification regarding beneficial ownership or control as required by the Beneficial Ownership Regulation, in a form as agreed to by Lender.
+
+“
+
+Beneficial Ownership Regulation
+
+” means 31 C.F.R. § 1010.230.
+
+“
+
+Borrower’s Books
+
+” means all of Borrower’s books and records including ledgers, records regarding Borrower’s assets or liabilities, the Collateral, business operations or financial condition and all computer programs or discs or any equipment containing the information.
+
+“
+
+Borrowing Resolutions
+
+” means resolutions substantially in the form attached hereto or as otherwise approved by Lender.
+
+16
+
+“
+
+Business Day
+
+” means any day that is not a Saturday, Sunday or a day on which Lender is closed.
+
+“
+
+Capital Call
+
+” means a request for a Capital Contribution made pursuant to a Person’s Charter Documents.
+
+“
+
+Capital Commitment(s)
+
+” means the total amount of cash agreed to be contributed by a Person to the capital of a Fund pursuant to the Charter Documents of such Fund.
+
+“
+
+Capital Contribution(s)
+
+” means the sum of the cash to be contributed to the capital of a Person pursuant to one or more Capital Calls.
+
+“
+
+Change in Control
+
+” means (i) the occurrence of any circumstance would permit any Person to seek to dissolve Borrower (excluding, for the avoidance of doubt, the rights of equity holders and the board of directors to do so pursuant to applicable law and the Charter Documents), or (ii) if Hamilton Lane Incorporated ceases to be the general partner or manager, as applicable, of Borrower. As of the Effective Date, the equity holders and the board of directors of Borrower have not taken any action in furtherance of such rights.
+
+“
+
+Charter Documents
+
+” means the LLC Agreement of Borrower and any other organizational, formation, or operational documents of a party. 
+
+“
+
+Code
+
+” means the New York Commercial Code, as amended.
+
+“
+
+Collateral
+
+” means the property described on 
+
+Exhibit C
+
+.
+
+“
+
+Compliance Certificate
+
+” means the form attached as 
+
+Exhibit D
+
+.
+
+“
+
+Contingent Obligation
+
+” means, for any Person, any direct or indirect liability, contingent or not, of that Person for (a) any indebtedness, lease, dividend, letter of credit or other obligation of another such as an obligation directly or indirectly guaranteed, endorsed, co made, discounted or sold with recourse by that Person, or for which that Person is directly or indirectly liable; (b) any obligations for undrawn letters of credit for the account of that Person; and (c) all obligations from any interest rate, currency or commodity swap agreement, interest rate cap or collar agreement, or other agreement or arrangement designated to protect a Person against fluctuation in interest rates, currency exchange rates or commodity prices. The amount of a Contingent Obligation is the stated or determined amount of the primary obligation for which the Contingent Obligation is made or, if not determinable, the maximum reasonably anticipated liability for it determined by the Person in good faith; but the amount may not exceed the maximum of the obligations under the guarantee or other support arrangement. 
+
+“
+
+Conversion Date
+
+” means October 6, 2027.
+
+“
+
+Credit Extension
+
+” means each Advance or any other extension of credit by Lender pursuant to this Agreement to or for the benefit or account of Borrower.
+
+“
+
+Current FY Management Fees
+
+” is defined in the definition of “Flexibility Cap.”
+
+“
+
+Default
+
+” means any event, act or condition that with notice or lapse of time, or both, would constitute an Event of Default as contemplated by 
+
+Section 8
+
+ hereof.
+
+“
+
+Designated Account
+
+” means that certain account number 80006149092 established at Lender.
+
+“
+
+Designated Representative
+
+” means each of Persons listed on the Borrowing Resolutions.
+
+17
+
+“
+
+Dollars
+
+,” “
+
+dollars
+
+” or use of the sign “$” means only lawful money of the United States and not any other currency, regardless of whether that currency uses the “$” sign to denote its currency or may be readily converted into lawful money of the United States.
+
+“
+
+Effective Date
+
+” means the date assigned in the preamble to this Agreement.
+
+“
+
+ERISA
+
+” means the Employee Retirement Income Security Act of 1974, as amended, and its regulations.
+
+“
+
+Excluded Assets
+
+” has the meaning set forth on 
+
+Exhibit C
+
+ hereto
+
+.
+
+“
+
+Excluded Taxes
+
+” means any of the following Taxes imposed on or with respect to Lender or required to be withheld or deducted from a payment to Lender, (a) Taxes imposed on or measured by net income (however denominated), franchise Taxes, and branch profits Taxes, in each case, (i) imposed as a result of Lender being organized under the laws of, or having its principal office or its applicable lending office located in, the jurisdiction imposing such Tax (or any political subdivision thereof) or (ii) that are Other Connection Taxes, (b) U.S. federal withholding Taxes imposed on amounts payable to or for the account of Lender with respect to an applicable interest in a Credit Extension or the Advances pursuant to a law in effect on the date on which (i) Lender acquires such interest in the Credit Extensions Advances or (ii) Lender changes its lending office, except in each case to the extent that, pursuant to Section 2.4, amounts with respect to such Taxes were payable either to Lender’s assignor immediately before Lender acquired the applicable interest in the Credit Extension or Advances or to Lender immediately before it changed its lending office, (c) Taxes attributable to Lender’s failure to comply with Section 2.4(e), and (d) any withholding Taxes imposed under FATCA.
+
+“
+
+Facility I
+
+” means the Term Loan and Security Agreement dated as of August 23, 2017 (as amended, restated, supplemented and/or otherwise modified from time to time), between JPMorgan Chase Bank, N.A., successor-in-interest by purchase of the line of credit made pursuant to the terms of such agreement from the Federal Deposit Insurance Corporation as receiver for First Republic Bank, San Francisco, CA, as the lender, and Hamilton Lane Advisors, L.L.C., as the borrower.
+
+“
+
+Facility II
+
+” means the Revolving Loan and Security Agreement dated as of August 23, 2017 (as amended, restated, supplemented and/or otherwise modified from time to time), between JPMorgan Chase Bank, N.A., successor-in-interest by purchase of the line of credit made pursuant to the terms of such agreement from the Federal Deposit Insurance Corporation as receiver for First Republic Bank, San Francisco, CA, as the lender, and Hamilton Lane Advisors, L.L.C., as the borrower.
+
+“
+
+Facility III
+
+” means the Multi-Draw Term Loan and Security Agreement dated as of March 24, 2020 (as amended, restated, supplemented and/or otherwise modified from time to time), between JPMorgan Chase Bank, N.A., successor-in-interest by purchase of the line of credit made pursuant to the terms of such agreement from the Federal Deposit Insurance Corporation as receiver for First Republic Bank, San Francisco, CA, as the lender, and Hamilton Lane Advisors, L.L.C., as the borrower.
+
+“
+
+Facility IV
+
+” has the meaning provided in 
+
+Section 2.1.1
+
+.
+
+“
+
+FATCA
+
+” means Sections 1471 through 1474 of the Internal Revenue Code, as of the Effective Date (or any amended or successor version that is substantively comparable and not materially more onerous to comply with), any current or future regulations or official interpretations thereof, any agreements entered into pursuant to Section 1471(b)(1) of the Internal Revenue Code and any fiscal or regulatory legislation, rules or practices adopted pursuant to any intergovernmental agreement, treaty or convention among governmental authorities and implementing such Sections of the Internal Revenue Code.
+
+18
+
+“
+
+Flexibility Action
+
+” means any action Borrower is prohibited from taking pursuant to 
+
+Section 6.8
+
+ or 
+
+7.8
+
+ hereof, but for the exception for such action in the final sentence of such section.
+
+“
+
+Flexibility Cap
+
+” means, as to Flexibility Actions taken by Borrower, as of any date of determination, an amount equal to 10% of the Management Fees Borrower is contractually entitled to receive for the current fiscal year as of such date (the “Current FY Management Fees”); provided that, in determining the amount of the Flexibility Cap, any net increases or decreases in Management Fees Borrower is contractually entitled to receive, in aggregate, from such date up to the Term Maturity Date arising from Borrower’s actions shall be deemed to be net increases or decreases in the Current FY Management Fees; provided further that, in no event shall such net increases or decreases be deemed to decrease the Current FY Management Fees by more than 10%.
+
+“
+
+Fund
+
+” is any Person from whom Borrower receives Management Fees or other fees for the provision of services, whether those fees are paid pursuant to such Fund’s limited partnership agreement or a Management Agreement.
+
+“
+
+GAAP
+
+” means generally accepted accounting principles.
+
+“
+
+General Partner
+
+” means a general partner or manager of Fund.
+
+“
+
+Incentive Fees
+
+” means fees (including any carried interest) payable by the Funds to the Borrower or its consolidated subsidiaries, which are contingent based on the performance of the Funds’ Investment returns. 
+
+“
+
+Indebtedness
+
+” means (a) indebtedness for borrowed money or the deferred price of property or services, such as reimbursement and other obligations for surety bonds and letters of credit, (b) obligations evidenced by notes, bonds, debentures or similar instruments, (c) capital lease obligations (which, for the avoidance of doubt excludes operating leases, whether or not they should appear on the balance sheet in accordance with GAAP) and (d) Contingent Obligations in respect of the foregoing. Notwithstanding the foregoing, in no event shall “Indebtedness” include any liability of a general partner of a Fund, with respect to the liabilities of such Fund.
+
+“
+
+Indemnified Taxes
+
+” means (a) Taxes, other than Excluded Taxes, imposed on or with respect to any payment made by or on account of any obligation of Borrower under any Loan Document and (b) to the extent not otherwise described in 
+
+clause (a)
+
+ of this definition, Other Taxes.
+
+“
+
+Initial Advance
+
+” has the meaning provided in 
+
+Section 2.1.1
+
+.
+
+“
+
+Initial Note Purchase Agreement
+
+” means that certain note purchase agreement by and among Borrower and the purchasers listed on the purchaser schedule thereto, in form and substance substantially similar to the draft note purchase agreement previously shared with Lender, to be dated as of the closing date of the Initial Private Placement.
+
+“
+
+Initial Private Placement
+
+” means that certain unsecured private placement pursuant to the Initial Note Purchase Agreement, in an amount not to exceed $100,000,000 (prior to any refinancing of the Initial Note Purchase Agreement; 
+
+provided
+
+ that any such refinancing shall not cause the aggregate amount of such unsecured private placement to exceed $100,000,000).
+
+“
+
+Insolvency Proceeding
+
+” means any proceeding by or against any Person under the United States Bankruptcy Code, or any other bankruptcy, insolvency or similar law, including assignments for the benefit of creditors, compositions, extensions generally with its creditors, or a proceeding seeking reorganization, arrangement, or other relief.
+
+19
+
+“
+
+Internal Revenue Code
+
+” means the Internal Revenue Code of 1986, as amended.
+
+“
+
+Investment
+
+” means any beneficial ownership of (including stock, partnership interest or other securities) any Person, or any loan, advance or capital contribution to any Person.
+
+“
+
+Investment Interests
+
+”
+
+ 
+
+means all of Borrower’s interests in: (i) all partnerships, limited liability companies or other investment vehicles (collectively the “
+
+Funds
+
+”); (ii) all organizational agreements relating to the Funds; and (iii) all investment property, including without limitation, securities, securities entitlements, securities accounts, and financial assets.
+
+“
+
+Lender Expenses
+
+” means all reasonable, audit fees and expenses and reasonable and documented costs and out-of-pocket expenses (including attorneys’ fees and expenses) for preparing, negotiating, administering, defending and enforcing the Loan Documents for Facility I, Facility II, Facility III and Facility IV (including any of the foregoing incurred in connection with any appeals or Insolvency Proceedings).
+
+“
+
+Lender Obligations
+
+” are any Obligations owing to Lender hereunder and under the other Loan Documents and, as applicable in respect of Facility I, Facility II or Facility III, including debts, principal, interest, Lender Expenses and other amounts Borrower owes Lender now or later in respect of the Loan Documents and, as applicable Facility I, Facility II or Facility III, including Contingent Obligations, cash management services, letters of credit and foreign exchange contracts, if any, interest accruing after Insolvency Proceedings begin. 
+
+“
+
+Lien
+
+” means a mortgage, lien, deed of trust, charge, pledge, security interest or other encumbrance.
+
+“
+
+Limited Partner(s)
+
+” means those individuals or entities denominated limited partners under or by reason of a Partnership Agreement. 
+
+“
+
+LLC Agreement
+
+” means the operating agreement or limited liability company agreement of a Person that is a limited liability company.
+
+“
+
+Loan Disbursement Instruction
+
+” means an instruction from Borrower to Lender on the application of the Initial Advance which instruction shall be substantially in the form of 
+
+Exhibit E
+
+.
+
+“
+
+Loan Documents
+
+” means, collectively, this Agreement, any note, or notes or guaranties executed by Borrower, and any other present or future written agreement between Borrower and/or for the benefit of Lender in connection with this Agreement, all as amended, extended or restated.
+
+“
+
+Management Agreement
+
+” is any agreement as may exist from time to time pursuant to which Management Fees and Incentive Fees are paid (but shall not include a Fund’s partnership or operating agreement).
+
+“
+
+Management Fees
+
+” means fees (other than Incentive Fees) or rights to payment arising from all consulting, advising, investment or management services provided by, or through, Borrower or any of its Affiliates or any other Person to or for the benefit of Borrower, whether due and payable now or in the future, with respect to any Fund.
+
+ “
+
+Material Adverse Change
+
+” is (a) a material adverse change in the business, operations, or financial condition of Borrower, or (b) a material impairment of the prospect of repayment of any portion of the Obligations, or (c) a material impairment of the value of the Collateral or priority of Lender’s security interests in such Collateral.
+
+“
+
+Member
+
+” means any Person denominated as a member under an LLC Agreement.
+
+20
+
+“
+
+Notes
+
+” has the meaning provided in Section 2.1.1.
+
+“
+
+Note Purchase Agreement
+
+” means the Initial Note Purchase Agreement or a Subsequent Note Purchase Agreement.
+
+“
+
+Obligations
+
+” means all liabilities that Borrower now or hereafter owes to any Person, including Contingent Obligations and Lender Obligations.
+
+ 
+
+“
+
+Other Connection Taxes
+
+” means, with respect to Lender, Taxes imposed as a result of a present or former connection between Lender and the jurisdiction imposing such Tax (other than connections arising from Lender having executed, delivered, become a party to, performed its obligations under, received payments under, received or perfected a security interest under, engaged in any other transaction pursuant to or enforced any Loan Document, or sold or assigned an interest in any Credit Extension or Loan Document).
+
+“
+
+Other Taxes
+
+” means all present or future stamp, court, documentary, intangible, recording, filing or similar Taxes that arise from any payment made under, from the execution, delivery, performance, enforcement or registration of, from the receipt or perfection of a security interest under, or otherwise with respect to, any Loan Document, except any such Taxes that are Other Connection Taxes imposed with respect to an assignment.
+
+“
+
+Partner
+
+” means any General Partner or Limited Partner under a Partnership Agreement.
+
+“
+
+Partnership Agreement
+
+” means the limited partnership agreement of any Person that is a limited partnership.
+
+“
+
+Patriot Act
+
+” has the meaning provided in 
+
+Section 12.10
+
+.
+
+“
+
+Payment
+
+” has the meaning provided in 
+
+Section 2.2(c)
+
+.
+
+“
+
+Payment/Advance Form
+
+” means the form attached as 
+
+Exhibit B
+
+.
+
+“
+
+Percentage Rate Increase
+
+” has the meaning provided in 
+
+Section 2.2(c)(iii)
+
+.
+
+“
+
+Permitted Investments
+
+” means:
+
+(a)    Investments shown on the Schedule I and existing on the Effective Date and add-on Investments in the Persons referenced on such Schedule;
+
+(b)    (i) marketable direct obligations issued or unconditionally guaranteed by the United States or its agency or any State maturing within 1 year from its acquisition, (ii) commercial paper maturing no more than 1 year after its creation and having the highest rating from either Standard & Poor’s Corporation or Moody’s Investors Service, Inc., and (iii) Lender’s certificates of deposit issued maturing no more than 1 year after issue; 
+
+(c)    Investments made in accordance with the Charter Documents, including Investments in Portfolio Companies and/or share purchases / awards in accordance with Borrower’s 2017 Incentive Compensation Plan and additional direct investments in technology companies and acquisitions; 
+
+(d)    de minimis investments in a Fund, not to exceed ten percent of the net asset value of any Fund; and
+
+(e)    Investment of Borrower maintained with Lender or any of its affiliates.
+
+21
+
+“
+
+Permitted Liens
+
+” means: 
+
+(a)    Liens existing on the Effective Date and shown on Schedule I or arising under this Agreement or other Loan Documents;
+
+(b)    Liens for taxes, fees, assessments or other government charges or levies, either not delinquent or being contested in good faith and for which Borrower maintains adequate reserves on its books;
+
+(c)    Purchase money Liens and capital or financing leases (i) on equipment acquired or held by Borrower incurred for financing the acquisition or lease of the equipment, or (ii) existing on equipment when acquired or leased (or a reasonable time thereafter), if the Lien is confined to the property and improvements and the proceeds of the equipment;
+
+(d)    Liens incurred in the extension, renewal or refinancing of the indebtedness secured by Liens described in (a) through (c), but any extension, renewal or replacement Lien must be limited to the property encumbered by the existing Lien and the principal amount of the indebtedness may not increase.
+
+(e)     customary set off rights of depositary institutions and securities intermediaries with respect to accounts maintained with them; 
+
+(f)    Liens arising out of judgments that do not constitute an Event of Default so long as the holder thereof has taken no steps to exercise remedies against such Lien other than the filing of the same of record;
+
+(g)     Liens incurred in connection with a Repo Facility including but not limited to the pledge or disposition of assets in connection therewith;
+
+(h)     Liens created under this Agreement or other Loan Documents; and
+
+(i)    Liens created under Facility I, Facility II and Facility III.
+
+“
+
+Permitted Perfection Limitations
+
+” means any of the following: no action must be taken under any law other than the laws of the United States or any State thereof; no landlord waivers or consents of any parties to leases, licenses, rights or contracts must be obtained; and no leasehold mortgages must be granted.
+
+“
+
+Permitted Purpose
+
+” means for general working capital purposes of Borrower that are permitted under its Charter Documents. No part of the proceeds of any Credit Extension shall be used, whether directly or indirectly, for any purpose that entails a violation of any of the regulations of the Federal Reserve Board, including Regulations T, U and X.  Borrower will not request any Credit Extension, and Borrower shall not use, and shall procure that its Affiliates and its or their respective directors, officers, employees and agents shall not use, the proceeds of any Credit Extension (A) in furtherance of an offer, payment, promise to pay, or authorization of the payment or giving of money, or anything else of value, to any Person in violation of any Anti-Corruption Laws or Anti-Money Laundering Laws, (B) to fund, finance or facilitate any activities, business or transaction of or with any Sanctioned Person, or in any Sanctioned Country, to the extent such activities, business or transaction would be prohibited by Sanctions if conducted by a corporation incorporated in the United States, His Majesty’s Treasury of the United Kingdom or in a European Union member state, or (C) in any manner that would result in the violation of any Anti-Money Laundering Laws or Sanctions applicable to any party hereto.
+
+“
+
+Person
+
+” means any individual, sole proprietorship, partnership, limited liability company, joint venture, company association, trust, unincorporated organization, association, corporation, institution, public benefit corporation, firm, joint stock company, estate, entity or government agency.
+
+22
+
+“
+
+Portfolio Company
+
+” means any Person in which Borrower has an interest.
+
+“
+
+Prime Rate
+
+” means the prime rate of interest that appears from time to time in The Wall Street Journal. If such institution publicly announces more than one prime rate or reference rate, then the term “Prime Rate” shall mean the higher or highest of such rates.
+
+“
+
+Private Placement
+
+” means the Initial Private Placement or a Subsequent Private Placement. 
+
+“
+
+Relevant Governmental Body
+
+”
+
+ 
+
+means the Federal Reserve Board and/or the Federal Reserve Bank of New York, or a committee officially endorsed or convened by the Federal Reserve Board and/or the Federal Reserve Bank of New York or, in each case, any successor thereto.
+
+“
+
+Replacement Base Rate
+
+” means the sum of: (a) an alternate benchmark rate selected by the Lender, which, if requested by the Borrower, shall be selected following consultation with the Borrower, and (b) a spread adjustment (which may be a positive, negative, or zero value, but, for the avoidance of doubt, will not have an impact on any spread above the base rate) selected by the Lender, in each case, after giving due consideration to (I) any replacement rate and/or spread adjustment, or method for determining such replacement rate or spread adjustment, that is identified as such by a Relevant Governmental Body, and/or (II) any evolving or then-prevailing market convention for determining a rate of interest and spread adjustment as a replacement to the Prime Rate for credit facilities, at such time, that are denominated in Dollars and similar to the credit facility established under the Loan Documents. If the Replacement Base Rate would be less than zero, the Replacement Base Rate will be deemed to be zero for purposes of this Agreement.
+
+“
+
+Repo Facility
+
+” means any funding, fronting or warehousing arrangement (whether in a single transaction or agreement or series of individual transactions or agreements) provided by [***]
+
+ 
+
+to the Company, to the extent funding, fronting or warehousing thereunder is used to finance or refinance the purchase or origination of all or a portion of any credit investments (or unfunded commitments for credit investments) by the Company, provided that the total amount of such funding does not exceed (at any time) $200,000,000.
+
+“
+
+Sanction
+
+” or “
+
+Sanctions
+
+” means, at any time, all economic or financial sanctions or trade embargoes imposed, administered or enforced by (a) the U.S. government, including those administered by the Office of Foreign Assets Control of the U.S. Department of the Treasury or the U.S. Department of State, or (b) the United Nations Security Council, the European Union, any European Union member state, His Majesty’s Treasury of the United Kingdom or other relevant sanctions authority.
+
+“
+
+Sanctioned Country
+
+” means, at any time, a country, region or territory which is itself the subject or target of any Sanctions (at the time of this Agreement, the so-called Donetsk People’s Republic, the so-called Luhansk People’s Republic, the Crimea, Zaporizhzhia and Kherson Regions of Ukraine, Cuba, Iran, North Korea and Syria).
+
+“
+
+Sanctioned Person
+
+” means, at any time, any Person subject or target of any Sanctions, including (a) any Person listed in any Sanctions-related list of designated Persons maintained by the U.S. government, including by Office of Foreign Assets Control of the U.S. Department of the Treasury, the U.S. Department of State, U.S. Department of Commerce, or by the United Nations Security Council, the European Union, any European Union member state, His Majesty’s Treasury of the United Kingdom or other relevant sanctions authority; (b) any Person operating, organized or resident in a Sanctioned Country; (c) any Person owned or controlled by any such Person or Persons described in the foregoing clause (a) or clause (b) of this definition (including, without limitation for purposes of defining a Sanctioned Person, as ownership and control may be defined and/or established in and/or by any applicable laws, rules, regulations, or orders).
+
+“
+
+Second Amendment Effective Date
+
+” means September 30, 2025.
+
+23
+
+“
+
+Subsequent Note Purchase Agreements
+
+” means additional note purchase agreements by and among Borrower and the purchasers listed on the respective purchaser schedules thereto dated after the date of the Initial Note Purchase Agreement.
+
+“
+
+Subsequent Private Placements
+
+” means additional unsecured private placements pursuant to Subsequent Note Purchase Agreements, in an aggregate amount not to exceed $100,000,000 (prior to any refinancing of a Subsequent Note Purchase Agreement;
+
+ provided
+
+ that any such refinancing shall not cause the aggregate amount of such unsecured private placements to exceed $100,000,000).
+
+“
+
+Subsidiary
+
+” of a Person means a corporation, partnership, exempted limited partnership, exempted company, joint venture, limited liability company or other business entity of which a majority of the shares of securities or other interests having ordinary voting power for the election of directors or other governing body (other than securities or interests having such power only by reason of the happening of a contingency) are at the time beneficially owned, or the management of which is, at any time, otherwise controlled, directly, or indirectly through one or more intermediaries, or both, by such Person. Unless otherwise specified, all references herein to a “Subsidiary” or to “Subsidiaries” shall refer to a Subsidiary or Subsidiaries of Borrower.
+
+“
+
+Tangible Net Worth
+
+” means the total member’s equity minus non-controlling interests in general partnerships plus 50% of any year over year non-cash negative adjustment to investment holdings.    
+
+“
+
+Taxes
+
+” means all present or future taxes, levies, imposts, duties, deductions, withholdings (including backup withholding), assessments, fees or other charges imposed by any governmental authority, including any interest, additions to tax or penalties applicable thereto.
+
+“
+
+Term Loan Availability Amount
+
+” means an amount equal to $325,000,000 
+
+minus
+
+ an amount equal to the aggregate outstanding Credit Extensions under Facility I, Facility II, Facility III and Facility IV.
+
+“
+
+Term Loan Line
+
+” has the meaning provided in 
+
+Section 2.1.1
+
+.
+
+“
+
+Termination Event”
+
+ is specified in 
+
+Section 2.1.1
+
+. 
+
+“
+
+Term Maturity Date”
+
+ is specified in 
+
+Section 2.1.1
+
+.
+
+“
+
+Termination Notice
+
+” has the meaning provided in 
+
+Section 2.2(c)(ii)
+
+.
+
+“
+
+U.S. Person
+
+” means any Person that is a “United States person” as defined in Section 7701(a)(30) of the Internal Revenue Code.
+
+“
+
+Withholding Agent
+
+” means Borrower and any of its agents.
+
+[SIGNATURE PAGE FOLLOWS.]
+
+24
+
+IN WITNESS WHEREOF
+
+, the parties hereto have caused this Agreement to be executed as of the Effective Date. 
+
+BORROWER:
+
+HAMILTON LANE ADVISORS, L.L.C.
+
+By: 
+
+ /s/ Lydia Gavalis                
+
+Name: 
+
+Lydia Gavalis                
+
+Title: 
+
+General Counsel                
+
+1
+
+LENDER:
+
+JPMORGAN CHASE BANK, N.A.
+
+, successor-in-interest by purchase of the line of credit made pursuant to the terms of the Agreement from the Federal Deposit Insurance Corporation as receiver for First Republic Bank, San Francisco, CA
+
+By: 
+
+ /s/ Joseph Bakalian                
+
+Name: 
+
+Joseph Bakalian                
+
+Title: 
+
+Executive Director                
+
+FRB – Hamilton Lane
+
+Multi-Draw Term Loan & Security Agreement (Facility IV)
+
+EXHIBIT A
+
+COVENANTS
+
+1.    Financial Statements. 
+
+ Borrower shall deliver to Lender (a) annual financial statements (including balance sheet and income statements) for Hamilton Lane Incorporated, which financial statements shall be audited by Ernst & Young LLP or other independent certified public accountant reasonably acceptable to Lender and (b) company-prepared annual financial statements (including balance sheet and income statements) for Borrower, in each case within ninety (90) days after the end of each of Borrower’s fiscal years.
+
+2.    Financial Statements.
+
+ Borrower shall deliver to Lender annual financial statements (including balance sheet and income statements) within one hundred eighty (180) days after the end of each Fund’s fiscal years for such Fund (in each case, to the extent such Fund accounts for 5% or more of Borrower’s aggregate revenue as of the end of the most recently completed fiscal year, and with respect to all other Funds, upon the request of the Lender), which financial statements shall be audited by an independent certified public accountant reasonably acceptable to Lender.
+
+3.    Interim Financial Statements.
+
+ Borrower shall deliver to Lender company-prepared quarterly financial statements (including balance sheet and income statements) within forty-five (45) days after the end of each quarter referenced below certified by Borrower’s chief financial officer or another officer or representative acceptable to Lender. Quarterly financials shall be delivered for the first three (3) fiscal quarters.
+
+4.    Compliance Certificate. 
+
+Within forty-five (45) days after the end of the first three (3) fiscal quarters and ninety (90) days after the end of each of Borrower’s fiscal years, deliver to Lender a Compliance Certificate signed by a Designated Representative in the form of 
+
+Exhibit D
+
+.
+
+5.    Other Financial Statements. 
+
+Upon filing of any financial statements or reporting as required to be publicly filed by Borrower, a copy of such financial statement or reporting.
+
+6.    Flexibility Actions. 
+
+Borrower shall give written notice to Lender of any Flexibility Action promptly after such Flexibility Action is taken. Any Flexibility Action taken by Borrower will be deemed a representation by Borrower that the conditions precedent therefore were satisfied.
+
+7.    Minimum Annual Management Fees.
+
+ Borrower shall, as at each March 31 and September 30 (each a “test date”) have collected for the six-month period ending on such test date, on a consolidated basis, Management Fees, of at least the greater of (a) $185,000,000 and (b) an amount equal to 80% of the collected sum of contractually based Management Fees, for the immediately preceding six-month period, tested semi-annually, commencing September 30, 2024, and continuing on each subsequent March 31 and September 30.
+
+8.    Minimum Adjusted EBITDA.
+
+ Borrower shall maintain a minimum trailing six-month Adjusted EBITDA 
+
+minus
+
+ dividend distributions (other than tax distributions), as of such test date, of at least the greater of (a) $75,000,000 and (b) an amount equal to 75% of the trailing six-month Adjusted EBITDA 
+
+minus
+
+ dividend distributions (other than tax distributions), for the immediately preceding six-month period, tested semi-annually, commencing September 30, 2024, and continuing on each subsequent March 31 and September 30.
+
+9.    Minimum Tangible Net Worth.
+
+ Borrower shall maintain a Minimum Tangible Net Worth, as of such test date, of an amount equal to at least 70% of the Tangible Net Worth as of the same date in the immediately preceding fiscal year, tested semi-annually, commencing September 30, 2024, and continuing on each subsequent March 31 and September 30.
+
+10.    No Additional Indebtedness.
+
+ Without the prior written consent of Lender, Borrower (a) shall not directly or indirectly incur Indebtedness for borrowed money excluding (i) debts as of the date of this Agreement that were previously disclosed in writing to Lender (other than those that are being paid substantially concurrently with the funding of the Loan), (ii) other borrowing from Lender, including for the avoidance of doubt Facility II, Facility III and Facility IV, (iii) Indebtedness incurred pursuant to a Note Purchase Agreement (including any refinancing thereof), (iv) Indebtedness incurred pursuant to a Repo Facility, (v) unsecured guarantees of debt for international Lender partner-loan-program borrowers, which may be recourse to Borrower, in an aggregate amount not to exceed 
+
+A-1
+
+$25,000,000, (vi) unsecured debt incurred in the normal course of business and (vii) purchase money debt and capital leases in the ordinary course of business, and (b) shall not directly or indirectly make, create, incur, assume or permit to exist any guaranty of any kind of any Indebtedness of any other person during the term of this Agreement, excluding any guaranties as of the date of this Agreement previously disclosed in writing to Lender.
+
+11.    Notification of Transfers.
+
+ Borrower shall notify Lender within 30 days of any transfer of Partner’s interests in any Funds whose Capital Commitment which would result in a loss of more than 10% of the Borrower’s aggregate Management Fees.
+
+12.    Notification of Termination Event.
+
+ Borrower shall provide Lender prior notification of any Termination Event.
+
+13.    Private Placement Use of Proceeds.
+
+ Borrower shall ensure that any and all proceeds received pursuant to a Private Placement are used for general corporate purposes, including but not limited to balance sheet Investments or repayment of Indebtedness to Lender; 
+
+provided
+
+ that, no proceeds received pursuant to a Private Placement shall be used for any distribution or any dividend to the shareholders of the Borrower or Hamilton Lane Incorporated.
+
+A-2
+
+EXHIBIT B
+
+ADVANCE/PAYMENT REQUEST CERTIFICATION FORM
+
+Deadline for next business day processing is 12:00pm Pacific Time/ 3:00pm Eastern Time
+
+Email To: ___________________________________     Date: ____________________
+
+BORROWER:  
+
+    
+
+Loan Payment:
+
+ From Account #
+
+________________________________
+
+        To Account 
+
+________________________________
+
+    (Deposit Account #)                     (Loan Account #)
+
+  
+
+   Principal $
+
+___________________________
+
+         and/or Interest $
+
+________________________________________
+
+Loan Advance:
+
+         From Account 
+
+________________________________
+
+        To Account 
+
+____________________________________
+
+    (Loan Account #)                         (Deposit Account #)
+
+        Amount of Advance $
+
+___________________________
+
+As of the date of the request for this Advance (1) Borrower is in complete compliance with all required covenants, (2) there are no Events of Default, (3) all representations and warranties in the Agreement are true and correct on this date.
+
+HAMILTON LANE ADVISORS, L.L.C.
+
+    By: __________________________________
+
+    Name:_______________________________
+
+    Title: ________________________________
+
+ Date: ________________________________
+
+FOR INTERNAL LENDER USE ONLY. 
+
+Explain Action taken with respect to this Advance/Payment Form. __________________________________________________________________________________________________________________________________________________________________________________________.
+
+Signature of [BB or delegated representative]: _____________________________ Date: ___________________ 
+
+B-1
+
+EXHIBIT C
+
+COLLATERAL DESCRIPTION
+
+The Collateral consists of all of Borrower’s personal property now owned or hereafter acquired, including without limitation all equipment, contract rights, intellectual property, general intangibles, commercial tort claims, accounts, Management Fees, Incentive Fees, inventory, documents, cash, instruments, deposit accounts, securities, securities entitlements, securities accounts, Account, investment property, financial assets, letters of credit, letter of credit rights, certificates of deposit, instruments and chattel paper and electronic chattel paper; all Borrower’s Books relating to the foregoing, and any and all claims, rights and interests in any of the above and all substitutions for, additions and accessions to and proceeds thereof, 
+
+provided
+
+, however, Collateral shall exclude Excluded Assets.
+
+Notwithstanding the foregoing, in no event shall the Collateral include or the security interest granted under this Agreement attach to any of the following (“
+
+Excluded Assets
+
+”) (a) any lease, license, contract or agreement to which Borrower is a party, and any of its rights or interest thereunder, if and to the extent that a security interest is prohibited by or in violation of (i) any law, rule or regulation applicable to the Borrower or (ii) a term, provision or condition of any such lease, license, contract or agreement (unless such law, rule, regulation, term, provision or condition would be rendered ineffective with respect to the creation of the security interest hereunder pursuant to Sections 9-406, 9-407, 9-408 or 9-409 of the Code (or any successor provision or provisions) or any other applicable law (including the Bankruptcy Code) or principles of equity); provided, however, that the Collateral shall include (and such security interest shall attach) immediately at such time as the contractual or legal prohibition shall no longer be applicable and to the extent severable, shall attach immediately to any portion of such lease, license, contract or agreement not subject to the prohibitions specified in (i) or (ii) above; provided further that the exclusions referred to in clause (a) of this paragraph shall not include any proceeds of any such lease, license, contract or agreement; (b) in the case of a foreign subsidiary that is treated as a “controlled foreign corporation” for U.S. federal income tax purposes, any of the outstanding capital stock of such foreign subsidiary entitled to vote representing in excess of 65% of the voting power of all classes of capital stock of such foreign subsidiary entitled to vote, so long as a pledge in excess of 65% of the voting power of such foreign subsidiary would result in adverse tax consequences to Borrower or any of its beneficial owners under Section 956 of the Internal Revenue Code (or any successor provision), as determined in good faith by Borrower; provided that immediately upon the amendment of the Internal Revenue Code to allow the pledge of a greater percentage of the voting power of capital stock in a foreign subsidiary without adverse tax consequences, as determined in good faith by Borrower, the Collateral shall include, and the security interest granted by the Borrower shall attach to, such greater percentage of capital stock of each foreign subsidiary; and provided, further, that in no event shall the Collateral include capital stock of a foreign subsidiary or controlled foreign corporation to the extent that the grant of a security interest therein would require the approval of, or consultation with, a local securities regulator or other regulatory or governmental authority, or otherwise result in any burdensome undertaking or obligation by the Borrower, pursuant to local law or otherwise; (c) any margin stock (as defined in Regulation U of the Board of Governors of the Federal Reserve System) ; (d) for avoidance of doubt, equity interests, general partnership interests or assets of Funds, including any assets of a Fund held by Borrower or any assets of Borrower , to the extent the grant of a security interest therein would violate or otherwise result in a default under any organizational or governing document of any Fund or the general partner thereof; (e) any rights or interests in Funds required or deemed necessary to be held by Borrower pursuant to the terms of the applicable Fund organizational documents, any related agreement or applicable law, rule or regulation; (f) equity interests, including general partnership interests, in any joint venture or other non-wholly owned subsidiary to the extent the grant of a security interest therein would violate or otherwise result in a default under any organizational document, governing document or agreement among equity holders of such joint venture or non-wholly owned subsidiary or require the consent of any other equity holder thereof or other third party (unless (x) such document, agreement or requirement of a consent would be rendered ineffective with respect to the creation of the security interest hereunder pursuant to Sections 9-406, 9-407, 9-408 or 9-409 of the Code (or any successor provision or provisions) or any other applicable law (including the Bankruptcy Code) or principles of equity, and (y) no adverse consequence to the Borrower under such organizational document, governing document or agreement among equity holders would result from such grant of security); (g) any “intent-to-use” application for registration of a Trademark filed pursuant to Section 1(b) of the Lanham Act, 15 U.S.C. § 1051, prior to the filing of a “Statement of Use” pursuant to Section 1(d) of the Lanham Act or an “Amendment to Allege Use” pursuant to Section 1(c) of the Lanham Act with respect thereto, solely to the extent, if any, that, and solely during the period, if any, in which, the grant of a security interest therein would impair the validity or enforceability of any registration that issues from such intent-to-use application under applicable federal law; (h) those assets as to which the Lender and Borrower reasonably agree in writing that the cost of obtaining such a security interest or perfection thereof is 
+
+C-1
+
+excessive in relation to the benefit to the Lender of the security to be afforded thereby; (i) capital assets subject to capital leases or purchase money liens, in each case to the extent (x) such capital lease or purchase money lien is permitted hereunder and (y) a lien on such capital assets is prohibited by the documents providing for the capital lease or purchase money lien; (j) payroll accounts and escrow accounts; or (k) assets pledged or sold pursuant to, or in connection with, a Repo Facility. For avoidance of doubt, Borrower’s economic interests in the equity of general partners of Funds constitute Collateral, but Borrower’s voting and other consensual rights and management and control-related interests in such equity are Excluded Assets.
+
+C-2
+
+EXHIBIT D
+
+COMPLIANCE CERTIFICATE
+
+TO:        JPMorgan Chase Bank, N.A.                    Date: 
+
+            
+
+FROM:     Hamilton Lane Advisors, L.L.C.
+
+The undersigned authorized officer certifies on behalf of Borrower that under the terms and conditions of the Multi-Draw Term Loan and Security Agreement, dated as of October 20, 2022, between Borrower and Lender (the “Agreement”), (1) Borrower is in complete compliance for the period ending _______________ (“Reporting Period”) with all required covenants[, including the covenants set forth on 
+
+Annex A
+
+ hereto,]
+
+1
+
+ except as noted below, (2) there are no Events of Default, (3) all representations and warranties in the Agreement are true and correct in all material respects as of the end date of the Reporting Period, except as noted below. Attached are the required documents supporting the certification. The undersigned certifies that these are prepared in accordance with GAAP consistently applied from one period to the next except as explained in an accompanying letter or footnotes. The undersigned acknowledges that no Advances may be requested at any time or date of determination that Borrower is not in compliance with any of the terms of the Agreement. Capitalized terms used but not otherwise defined herein shall have the meanings given them in the Agreement.
+
+Please indicate compliance status by circling Yes/No under “Complies” column and complete information if applicable.
+
+Reporting Covenants (Exhibit A)
+
+Required
+
+Complies
+
+Internally prepared financial statement 
+
+Quarterly within 45 days (other than Q4) 
+
+Yes No
+
+Annual financial statement (Borrower)
+
+FYE within 90 days 
+
+Yes No
+
+Annual financial statement (Funds)
+
+FYE within 180 days 
+
+Yes No
+
+Partnership interest transfer (
+
+>
+
+10% aggregate Management Fees)
+
+Within 30 days from transfer
+
+Yes No
+
+Compliance certificate
+
+[Annually][Quarterly] within [90][45] days
+
+Yes No
+
+Flexibility Action taken? Yes No
+
+If Yes, provide amount:: $[__________]
+
+Under Flexibility Cap? Yes No
+
+Affirmative Covenants (Section 6)
+
+ 
+
+Complies
+
+(Section 6.6) Maintenance of operating and depository accounts with Lender
+
+Yes No
+
+All other affirmative covenants in Section 6 are satisfied. If No, provide information on separate page.
+
+Yes No
+
+Negative Covenants (Section 7)
+
+ 
+
+Complies
+
+(Section 7.4) No Encumbrances
+
+Yes No
+
+All other negative covenants in Section 7 are satisfied. If No, provide information on separate page.
+
+Yes No
+
+Representation Confirmations (Section 5)
+
+ 
+
+Complies
+
+(Section 5.2) Any Amendment/Modifications to Charter Documents 
+
+If Yes, attach copies.
+
+Yes No 
+
+(Section 5.4) Any Litigation 
+
+If Yes, attach copies and summary
+
+Yes No 
+
+(Section 5.9) Any Regulatory issues
+
+If Yes, attach copies and summary
+
+Yes No
+
+There have been 
+
+no changes
+
+ to the Schedule to Multi-Draw Term Loan and Security Agreement 
+
+prepared on the Effective Date. If Yes, provide information on separate page.
+
+Yes No
+
+1
+
+ To be included for Compliance Certificates delivered for the periods ending on March 31 and September 30, commencing September 30, 2024.
+
+D-1
+
+[SIGNATURE PAGE FOLLOWS.]
+
+D-2
+
+HAMILTON LANE ADVISORS, L.L.C.
+
+    
+
+    By: __________________________________
+
+    Name:________________________________
+
+    Title: ________________________________
+
+FOR INTERNAL LENDER USE ONLY. 
+
+Explain action taken with respect to Borrower’s non-compliance with any of the above Covenants. __________________________________________________________________________________________________________________________________________________________________________________________.
+
+Signature of [BB or delegated representative]: ___________________________ Date: __________________
+
+ 
+
+ANNEX A TO COMPLIANCE CERTIFICATE
+
+2
+
+Financial Covenant
+
+Required
+
+Required
+
+Actual
+
+Complies
+
+Minimum Annual Management Fees
+
+Greater of (a) $185,000,000 and (b) an amount equal to 80% of the collected sum of contractually based Management Fees, for the immediately preceding six month period (semiannual)
+
+$_____
+
+$_____
+
+Yes No
+
+No Additional Debt
+
+None, other than permitted indebtedness set forth in Paragraph 10 of Exhibit A to the Agreement.
+
+$_____
+
+$_____
+
+Yes No
+
+Minimum Adjusted EBITDA less dividends (other than tax dividends)
+
+Greater of (a) $75,000,000 and (b) an amount equal to 75% of the trailing six-month Adjusted EBITDA, for the immediately preceding six-month period (semiannual)
+
+$_____
+
+$_____
+
+Yes No
+
+Minimum Tangible Net Worth
+
+An amount equal to at least 70% of the Tangible Net Worth as of the same date in the immediately preceding fiscal year (semiannual)
+
+$_____
+
+$_____
+
+Yes No
+
+2
+
+ To be included only for Compliance Certificates delivered for the periods ending on March 31 and September 30, commencing September 30, 2024.
+
+SCHEDULE II TO MULTI-DRAW TERM LOAN AND SECURITY AGREEMENT
+
+ 
+
+Payment Date
+
+Percentage of Advances to be paid
+
+January 1, 2028
+
+12.5%
+
+April 1, 2028
+
+12.5%
+
+July 1, 2028
+
+12.5%
+
+October 1, 2028
+
+12.5%
+
+January 1, 2029
+
+12.5%
+
+April 1, 2029
+
+12.5%
+
+July 1, 2029
+
+12.5%
+
+October 1, 2029
+
+12.5%
+
+Schedule II-1
+
+Omitted Exhibits / Schedules:
+
+Exhibit E – Form of Loan Disbursement Instructions
+
+Exhibit F – List of Hamilton Lane Funds
+
+Schedule I – Borrower Disclosure Statement

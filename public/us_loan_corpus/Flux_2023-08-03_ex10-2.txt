@@ -1,0 +1,883 @@
+EX-10.2
+
+3
+
+ex10-2.htm
+
+ 
+
+ 
+
+Exhibit
+10.2
+ 
+
+ 
+
+INTELLECTUAL
+PROPERTY SECURITY AGREEMENT
+
+ 
+
+This
+
+INTELLECTUAL PROPERTY SECURITY AGREEMENT
+ (“
+Agreement
+”), dated as of July 28, 2023, is executed by and among
+
+FLUX POWER HOLDINGS, INC.
+, a Nevada corporation (“
+Holdings
+”), 
+FLUX POWER, INC.
+, a California corporation
+(“
+Flux
+” and, together with Holdings, individually and collectively, jointly and severally, “
+Debtor
+”),
+and 
+GIBRALTAR BUSINESS CAPITAL, LLC
+, a Delaware limited liability company, having a business location at the address set forth
+below under its signature (“
+Secured Party
+”).
+
+ 
+
+RECITALS:
+
+ 
+
+ACCORDINGLY
+,
+in consideration of the mutual covenants contained in the Loan Documents and herein, the parties hereby agree as follows:
+
+ 
+
+1.
+
+Definitions
+
+.
+ All terms defined in the Recitals hereto or in the Loan Agreement that are not otherwise defined herein
+shall have the meanings given to them therein. In addition, the following terms have the meanings set forth below:
+
+ 
+
+“
+Copyrights
+”
+means the copyright registrations, applications and exclusive copyright licenses set forth in 
+Exhibit A
+.
+
+ 
+
+“
+IP
+Collateral
+” means all Copyrights, Patents and Trademarks, other than any Excluded Property (as defined in the Loan Agreement).
+
+ 
+
+“
+Loan
+Agreement
+” means that certain Loan and Security Agreement, dated as of the date hereof, among Debtor and Secured Party.
+
+ 
+
+“
+Patents
+”
+means all of the Debtor’s right, title and interest in and to patents or applications for patents, fees or royalties with respect
+to each, and including without limitation the right to sue for past infringement and damages therefor, and licenses thereunder, all as
+presently existing or hereafter arising or acquired, including without limitation the patents listed on 
+Exhibit B.
+
+ 
+
+“
+Security
+Interest
+” has the meaning given in Section 2.
+
+ 
+
+“
+Trademarks
+”
+means all of the Debtor’s right, title and interest in and to: (i) trademarks, service marks, collective membership marks, registrations
+and applications for registration for each, and the respective goodwill associated with each, (ii) licenses, fees or royalties with respect
+to each, (iii) the right to sue for past, present and future infringement, dilution and damages therefor, (iv) and licenses thereunder,
+all as presently existing or hereafter arising or acquired, including, without limitation, the marks listed on 
+Exhibit C.
+
+ 
+
+2.
+
+Security Interest
+. The Debtor hereby irrevocably pledges and assigns to, and grants the Secured Party a security interest (the
+“
+Security Interest
+”), with power of sale to the extent permitted by law, in the IP Collateral, to secure payment of
+the Obligations. As set forth in the Loan Agreement, the Security Interest is coupled with a security interest in substantially all of
+the personal property of the Debtor.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.
+
+Representations, Warranties and Agreements
+. Debtor represents, warrants and agrees as follows:
+
+ 
+
+(a)
+
+Authority
+. 
+
+This Agreement has been duly and validly authorized by all necessary action on the part of the Debtor.
+
+ 
+
+(b)
+
+Copyrights
+.
+ Exhibit A 
+accurately lists all registered Copyrights owned or controlled by the Debtor as of the date hereof
+and accurately reflects in all material respects the existence and status of Copyrights and all applications and registrations pertaining
+thereto as of the date hereof. If after the date hereof, the Debtor owns or controls any registered Copyrights not listed on 
+Exhibit
+A
+ or if 
+Exhibit A 
+ceases to accurately reflect, in all material respects, the existence and status of applications and registrations
+pertaining to the Copyrights, then the Debtor shall promptly provide written notice to the Secured Party with a replacement 
+Exhibit
+A
+, which upon acceptance by the Secured Party shall become part of this Agreement.
+
+ 
+
+(c)
+
+Patents
+. 
+Exhibit B 
+accurately lists all Patents owned or controlled by the Debtor as of the date hereof, or to which Debtor
+has a right as of the date hereof to have it assigned to it, and accurately reflects the existence and status of applications and letters
+patent pertaining to the Patents as of the date hereof. If after the date hereof, Debtor owns, controls or has a right to have assigned
+to it any Patents not listed on 
+Exhibit B, 
+or if 
+Exhibit B 
+ceases to accurately reflect the existence and status of applications
+and letters patent pertaining to the Patents, then the Debtor shall within thirty (30) days provide written notice to the Secured Party
+with a replacement 
+Exhibit B
+, which upon acceptance by the Secured Party shall become part of this Agreement.
+
+ 
+
+(d)
+
+Trademarks
+. 
+Exhibit C 
+accurately lists all Trademarks owned or controlled by the Debtor as of the date hereof and accurately
+reflects the existence and status of Trademarks and all applications and registrations pertaining thereto as of the date hereof. If after
+the date hereof, the Debtor owns or controls any Trademarks not listed on 
+Exhibit C
+ or if 
+Exhibit C 
+ceases to accurately
+reflect the existence and status of applications and registrations pertaining to the Trademarks, then the Debtor shall promptly provide
+written notice to the Secured Party with a replacement 
+Exhibit C
+, which upon acceptance by the Secured Party shall become part
+of this Agreement.
+
+ 
+
+(e)
+
+Title
+
+. 
+Debtor has absolute title to each Patent, Trademark and Copyright listed on 
+Exhibits A, B and C
+, free and
+clear of all liens except Permitted Liens. Debtor (i) will have, at the time Debtor acquires any rights in IP Collateral hereafter arising,
+absolute title to each such IP Collateral free and clear of all liens except Permitted Liens, and (ii) will keep all IP Collateral free
+and clear of all liens except Permitted Liens.
+
+ 
+
+(f)
+
+Defense
+
+.
+ The Debtor will at its own expense and using commercially reasonable efforts, protect and defend the IP Collateral
+against all claims or demands of all Persons.
+
+ 
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(g)
+
+Maintenance
+
+. 
+Debtor will at its own expense maintain the IP Collateral to the extent reasonably advisable in its business
+including, but not limited to, filing all applications to obtain letters patent or trademark registrations and all affidavits, maintenance
+fees, annuities, and renewals possible with respect to letters patent, trademark registrations and applications therefor. Debtor covenants
+that it will not abandon nor fail to pay any maintenance fee or annuity due and payable on any IP Collateral, nor fail to file any required
+affidavit or renewal in support thereof, without first providing the Secured Party: (i) sufficient written notice, of at least thirty
+(30) days, to allow the Secured Party to timely pay any such maintenance fees or annuities which may become due on any IP Collateral,
+or to file any affidavit or renewal with respect thereto, and (ii) a separate written power of attorney or other authorization to pay
+such maintenance fees or annuities, or to file such affidavit or renewal, should such be necessary or desirable.
+
+ 
+
+(h)
+
+Secured Party’s Right to Take Action
+.
+
+ If Debtor fails to perform or observe any of its covenants or agreements set
+forth in this Section 3, and if such failure continues for a period of seven (7) Business Days after the Secured Party gives the Debtor
+written notice thereof (or, in the case of the agreements contained in subsection (f), immediately upon the occurrence of such failure,
+without notice or lapse of time), or, if Debtor notifies the Secured Party that it intends to abandon any IP Collateral, the Secured
+Party may (but need not) perform or observe such covenant or agreement or take steps to prevent such intended abandonment on behalf and
+in the name, place and stead of Debtor (or, at the Secured Party’s option, in the Secured Party’s own name) and may (but
+need not) take any and all other actions which the Secured Party may reasonably deem necessary to cure or correct such failure or prevent
+such intended abandonment.
+
+ 
+
+(i)
+
+Costs and Expenses
+
+. 
+The Debtor shall pay the Secured Party on demand the amount of all moneys expended and all costs and
+expenses (including reasonable attorneys’ fees and disbursements) incurred by the Secured Party in connection with or as a result
+of the Secured Party’s taking action under subsection (g) or exercising its rights under Section 6, together with interest thereon
+from the date expended or incurred by the Secured Party at the default rate of interest set forth in the Loan Agreement.
+
+ 
+
+(j)
+
+Power of Attorney
+
+. 
+To the extent required to facilitate the Secured Party’s taking action under subsection (g) and
+exercising its rights under Section 6 for the purpose of perfecting its Security Interest, the Debtor hereby irrevocably appoints (which
+appointment is coupled with an interest) the Secured Party, or its delegate, as the attorney-in-fact of the Debtor with the right (but
+not the duty) from time to time to create, prepare, complete, execute, deliver, endorse or file, in the name and on behalf of the Debtor,
+any and all instruments, documents, applications, financing statements, and other agreements and writings required to be obtained, executed,
+delivered or endorsed by the Debtor under this Section 3, or, necessary for the Secured Party, after an Event of Default (as defined
+in the Loan Agreement), to enforce or use the IP Collateral or to grant or issue any exclusive or non-exclusive license under the IP
+Collateral to any third party, or to sell, assign, transfer, pledge, encumber or otherwise transfer title in or dispose of the IP Collateral
+to any third party. The Debtor hereby ratifies all actions that such attorney shall lawfully do or cause to be done by virtue of the
+power of attorney granted herein. The power of attorney granted herein shall terminate upon the termination of the Loan Agreement as
+provided therein and the payment and performance of all Obligations.
+
+ 
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.
+
+Debtor’s Use of the IP Collateral
+
+.
+ The Debtor shall be permitted to control and manage the IP Collateral,
+including the right to exclude others from making, using or selling items covered by the IP Collateral and any licenses thereunder, in
+the same manner and with the same effect as if this Agreement had not been entered into, so long as no Event of Default occurs.
+
+ 
+
+5.
+
+Events of Default
+
+.
+ The occurrence of an Event of Default, as defined in the Loan Agreement, shall constitute an
+Event of Default under this Agreement
+
+ 
+
+6.
+
+Remedies
+
+.
+ During the existence of an Event of Default, the Secured Party may, at its option, take any or all of
+the following actions:
+
+ 
+
+(a)
+The Secured Party may exercise any or all remedies available under the Loan Agreement.
+
+ 
+
+(b)
+The Secured Party may sell, assign, transfer, pledge, encumber or otherwise dispose of the IP Collateral.
+
+ 
+
+(c)
+The Secured Party may enforce the IP Collateral and any licenses thereunder, and if Secured Party shall commence any suit for such enforcement,
+the Debtor shall, at the request of Secured Party, do any and all lawful acts and execute any and all proper documents required by Secured
+Party in aid of such enforcement.
+
+ 
+
+7.
+
+Miscellaneous
+
+.
+ This Agreement can be waived, modified, amended, terminated or discharged, and the Security Interest
+can be released, only explicitly in a writing signed by the Secured Party. This Agreement shall terminate upon termination of the Loan
+Agreement. A waiver signed by the Secured Party shall be effective only in the specific instance and for the specific purpose given.
+Mere delay or failure to act shall not preclude the exercise or enforcement of any of the Secured Party’s rights or remedies. All
+rights and remedies of the Secured Party shall be cumulative and may be exercised singularly or concurrently, at the Secured Party’s
+option, and the exercise or enforcement of any one such right or remedy shall neither be a condition to nor bar the exercise or enforcement
+of any other. All notices to be given to Debtor under this Agreement shall be given in the manner and with the effect provided in the
+Loan Agreement. The Secured Party shall not be obligated to preserve any rights the Debtor may have against prior parties, to realize
+on the IP Collateral at all or in any particular manner or order, or to apply any cash proceeds of IP Collateral in any particular order
+of application. This Agreement shall be binding upon and inure to the benefit of the Debtor and the Secured Party and their respective
+participants, successors and assigns and shall take effect when signed by the Debtor and delivered to the Secured Party, and the Debtor
+waives notice of the Secured Party’s acceptance hereof. The Secured Party may execute this Agreement if appropriate for the purpose
+of filing, but the failure of the Secured Party to execute this Agreement shall not affect or impair the validity or effectiveness of
+this Agreement. A carbon, photographic or other reproduction of this Agreement or of any financing statement shall have the same force
+and effect as the original for all purposes of a financing statement. This Agreement shall be governed by the internal law of Illinois
+without regard to conflicts of law provisions, except that any exercise by Lender of its remedies under this Agreement pertaining to
+the IP Collateral shall be conducted in accordance with the law of the applicable jurisdiction where Debtor’s principal place of
+business is located. If any provision or application of this Agreement is held unlawful or unenforceable in any respect, such illegality
+or unenforceability shall not affect other provisions or applications which can be given effect and this Agreement shall be construed
+as if the unlawful or unenforceable provision or application had never been contained herein or prescribed hereby. All representations
+and warranties contained in this Agreement shall survive the execution, delivery and performance of this Agreement and the creation and
+payment of the Obligations.
+
+ 
+
+THE
+PARTIES WAIVE ANY RIGHT TO TRIAL BY JURY IN ANY ACTION OR PROCEEDING BASED ON OR PERTAINING TO THIS AGREEMENT.
+
+ 
+
+[SIGNATURE
+PAGE TO FOLLOW]
+
+ 
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF
+, the parties have executed this Intellectual Property Security Agreement as of the date written above.
+
+ 
+
+ 
+
+ 
+
+GIBRALTAR
+BUSINESS CAPITAL, LLC,
+
+ 
+
+ 
+
+ 
+
+FLUX
+ POWER HOLDINGS, INC.
+,
+
+ 
+
+ 
+
+ a Delaware
+ limited liability company
+
+ 
+
+ 
+
+ 
+
+a
+ Nevada corporation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Jean R. Elie Jr.
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Ronald F. Dutt
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Jean
+ R. Elie Jr.
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Ronald
+ F. Dutt
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Senior
+ Vice President
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief
+ Executive Officer and President
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Address:
+
+ 
+
+ 
+
+ 
+
+FLUX
+ POWER, INC.
+,
+
+ 
+
+ 
+
+400
+ Skokie Boulevard, Suite 375
+
+ 
+
+ 
+
+ 
+
+a
+ California corporation
+
+ 
+
+ 
+
+Northbrook,
+ Illinois 60062
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Ronald F. Dutt
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Ronald
+ F. Dutt
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Address:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2685
+ S. Melrose Drive
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Vista,
+ California 92081
+
+ 
+
+ 
+
+[Signature
+Page to Intellectual Property Security Agreement]
+
+ 
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EXHIBIT
+A
+
+ 
+
+COPYRIGHTS
+
+ 
+
+ 
+
+ 
+
+6
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EXHIBIT
+B
+
+ 
+
+PATENTS
+
+ 
+
+ 
+
+ 
+
+7
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EXHIBIT
+C
+
+ 
+
+TRADEMARKS
+
+ 
+
+ 
+
+ 
+
+8

@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server"
 import { codefPost, rsaEncrypt } from "@/lib/codef-client"
 import { saveSession } from "@/lib/session-store"
-import { findUser, saveUser } from "@/app/api/insurance/check-user/route"
+import { findRegisteredUser } from "@/lib/db/registered-user"
 import { randomUUID } from "crypto"
 
 export async function POST(req: NextRequest) {
@@ -19,10 +19,10 @@ export async function POST(req: NextRequest) {
     const clean = phoneNo.replace(/-/g, "")
 
     // Check existing user
-    const existing = findUser(clean, birthDate)
+    const existing = await findRegisteredUser(clean, birthDate)
     if (existing) {
       const sessionId = randomUUID()
-      saveSession(sessionId, {
+      await saveSession(sessionId, {
         baseParams: { organization: "0001", userName, identity: rsaEncrypt(idBack7), birthDate, identityEncYn: "Y", telecom, phoneNo: clean, timeout: "170", authMethod: authMethod === "pass" ? "1" : "0", type: "1", checkParamUUID: sessionId.replace(/-/g, "").slice(0, 20) },
         regId: existing.id, regPw: existing.pw, regEmail: "", loginId: existing.id, loginPw: existing.pw,
         step: "done",
@@ -45,7 +45,7 @@ export async function POST(req: NextRequest) {
       checkParamUUID: sessionId.replace(/-/g, "").slice(0, 20),
     }
 
-    saveSession(sessionId, { baseParams, regId, regPw, regEmail, step: "start" })
+    await saveSession(sessionId, { baseParams, regId, regPw, regEmail, step: "start" })
 
     const result = await codefPost("/v1/kr/insurance/0001/credit4u/register", baseParams)
     const extraInfo = result?.data?.extraInfo || {}
@@ -57,7 +57,7 @@ export async function POST(req: NextRequest) {
     }
 
     const hasCaptcha = extraInfo.reqSecureNo && extraInfo.reqSecureNo.length > 10
-    saveSession(sessionId, { twoWayInfo, step: hasCaptcha ? "captcha" : "sms_or_pass" })
+    await saveSession(sessionId, { twoWayInfo, step: hasCaptcha ? "captcha" : "sms_or_pass" })
 
     return NextResponse.json({
       sessionId,

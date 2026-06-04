@@ -1,5 +1,11 @@
 import { z } from "zod"
 
+// ──────────────────────────────────────────────────────────────────────────
+// Schema aligned to the FinLegal-Harness pipeline output
+// (logic/analysis_results/*.json). These mirror the artifacts the harness
+// actually produces: Stage 2 vulnerability drafts + Stage 3/4 summary.
+// ──────────────────────────────────────────────────────────────────────────
+
 // Vulnerability taxonomy
 export const VULNERABILITY_TAXONOMY = {
   insurance: [
@@ -16,7 +22,18 @@ export const VULNERABILITY_TAXONOMY = {
   ],
 } as const
 
-// User profile schema
+// Flat id -> name lookup for rendering taxonomy labels
+export const TAXONOMY_LABELS: Record<string, string> = [
+  ...VULNERABILITY_TAXONOMY.insurance,
+  ...VULNERABILITY_TAXONOMY.loan,
+].reduce<Record<string, string>>((acc, item) => {
+  acc[item.id] = item.name
+  return acc
+}, {})
+
+// ── Request schemas ─────────────────────────────────────────────────────────
+
+// User profile schema (free-text inputs from the analyzer form)
 export const userProfileSchema = z.object({
   age: z.string().optional(),
   occupation: z.string().optional(),
@@ -26,65 +43,111 @@ export const userProfileSchema = z.object({
 
 export type UserProfile = z.infer<typeof userProfileSchema>
 
-// Analysis request schema
+// Analysis request schema. `product`/`profileId` are optional hints used to
+// serve a precomputed analysis before falling back to a live LLM call.
 export const analysisRequestSchema = z.object({
-  contractText: z.string().min(100, "약관 내용이 너무 짧습니다 (100자 이상)"),
+  // Optional: a precomputed run can be served from product + profileId alone.
+  // Live analysis still requires text (validated in the route).
+  contractText: z.string().optional(),
   userProfile: userProfileSchema.optional(),
+  product: z.string().optional(),
+  profileId: z.string().optional(),
 })
 
 export type AnalysisRequest = z.infer<typeof analysisRequestSchema>
 
-// Vulnerability finding schema
-export const vulnerabilityFindingSchema = z.object({
-  rank: z.number(),
-  severity: z.enum(["CRITICAL", "HIGH", "MEDIUM", "LOW"]),
-  vuln_id: z.string(),
-  vuln_name: z.string(),
-  clause_reference: z.string(),
-  plain_language_explanation: z.string(),
-  user_impact: z.string(),
-  estimated_risk_scenario: z.string(),
-  recommended_actions: z.array(
-    z.object({
-      action: z.string(),
-      priority: z.enum(["즉시", "가입 전", "가입 후"]),
-      contact: z.string().nullable(),
-    })
-  ),
-  status: z.enum(["CONFIRMED", "UNVERIFIED"]),
-  confidence: z.number().min(0).max(1),
+// ── Report schemas (match analysis_results/*.json) ───────────────────────────
+
+export const CONFIDENCE_LEVELS = ["HIGH", "MEDIUM", "LOW"] as const
+export type Confidence = (typeof CONFIDENCE_LEVELS)[number]
+
+export const DEFAULT_DISCLAIMER =
+  "본 분석은 약관/상품요약서를 기반으로 한 참고 자료이며, 법적 효력이 없습니다. 정확한 보장 내용은 정식 약관 원문을 확인하시기 바랍니다. 추가 상담이 필요한 경우 금융감독원(1332), 한국소비자원(1372), 또는 금융분쟁조정위원회에 문의하시기 바랍니다."
+
+// Optional Stage 4 enrichment (severity tier + recommended actions). The base
+// validated-findings artifacts omit these, so they are optional.
+export const recommendedActionSchema = z.object({
+  action: z.string(),
+  priority: z.enum(["즉시", "가입 전", "가입 후", "선택"]),
+  contact: z.string().nullable(),
 })
 
-export type VulnerabilityFinding = z.infer<typeof vulnerabilityFindingSchema>
+export const vulnerabilitySchema = z.object({
+  id: z.string(),
+  taxonomy: z.string(),
+  title: z.string(),
+  // Verbatim clause text that triggered the finding (원문 인용)
+  triggered_by: z.string(),
+  description: z.string(),
+  user_relevance: z.string(),
+  confidence: z.enum(CONFIDENCE_LEVELS),
+  // Verified precedent ids only; empty when none confirmed (Stage 2 default)
+  precedent_refs: z.array(z.string()).default([]),
+  note: z.string().optional(),
+  // Stage 4 (optional)
+  severity: z.enum(["CRITICAL", "HIGH", "MEDIUM", "LOW"]).optional(),
+  recommended_actions: z.array(recommendedActionSchema).optional(),
+})
 
-// Analysis report schema
-export const analysisReportSchema = z.object({
-  executive_summary: z.string(),
-  overall_risk_level: z.enum(["HIGH", "MEDIUM", "LOW", "NONE"]),
-  vulnerability_count: z.object({
-    critical: z.number(),
-    high: z.number(),
-    medium: z.number(),
-    low: z.number(),
+export type Vulnerability = z.infer<typeof vulnerabilitySchema>
+
+export const analysisProfileSchema = z
+  .object({
+    name: z.string().optional(),
+    age: z.number().optional(),
+    gender: z.string().optional(),
+    occupation: z.string().optional(),
+    conditions: z.array(z.string()).optional(),
+    family_history: z.array(z.string()).optional(),
+    smoking: z.boolean().optional(),
+    special_notes: z.string().optional(),
+  })
+  .passthrough()
+
+export const analysisSummarySchema = z.object({
+  total_vulnerabilities: z.number(),
+  by_taxonomy: z.record(z.string(), z.number()),
+  by_confidence: z.object({
+    HIGH: z.number(),
+    MEDIUM: z.number(),
+    LOW: z.number(),
   }),
-  findings: z.array(vulnerabilityFindingSchema),
+  critical_findings: z.array(z.string()),
+  user_specific_risks: z.array(z.string()),
+})
+
+export type AnalysisSummary = z.infer<typeof analysisSummarySchema>
+
+export const analysisReportSchema = z.object({
+  product: z.string(),
+  profile: analysisProfileSchema.optional(),
+  analyzed_at: z.string(),
+  doc_type: z.string(),
+  sections_parsed: z.number(),
+  vulnerabilities: z.array(vulnerabilitySchema),
+  summary: analysisSummarySchema,
   disclaimer: z.string(),
+  // Provenance: where this report came from (precomputed harness run vs live)
+  source: z.enum(["precomputed", "live"]).optional(),
 })
 
 export type AnalysisReport = z.infer<typeof analysisReportSchema>
 
-// Severity colors
-export const SEVERITY_COLORS = {
-  CRITICAL: { bg: "bg-red-600", text: "text-white", border: "border-red-600" },
-  HIGH: { bg: "bg-orange-500", text: "text-white", border: "border-orange-500" },
-  MEDIUM: { bg: "bg-yellow-500", text: "text-black", border: "border-yellow-500" },
-  LOW: { bg: "bg-blue-500", text: "text-white", border: "border-blue-500" },
-} as const
+// ── Display helpers ───────────────────────────────────────────────────────
 
-// Risk level colors
-export const RISK_LEVEL_COLORS = {
-  HIGH: "text-red-600",
-  MEDIUM: "text-orange-500",
-  LOW: "text-yellow-600",
-  NONE: "text-green-600",
-} as const
+// Confidence drives the headline color since the validated-findings format
+// keys risk on confidence (HIGH/MEDIUM/LOW) rather than a severity tier.
+export const CONFIDENCE_COLORS: Record<
+  Confidence,
+  { bg: string; text: string; border: string; dot: string }
+> = {
+  HIGH: { bg: "bg-red-600", text: "text-white", border: "border-red-600", dot: "bg-red-600" },
+  MEDIUM: { bg: "bg-orange-500", text: "text-white", border: "border-orange-500", dot: "bg-orange-500" },
+  LOW: { bg: "bg-yellow-500", text: "text-black", border: "border-yellow-500", dot: "bg-yellow-500" },
+}
+
+export const CONFIDENCE_LABELS: Record<Confidence, string> = {
+  HIGH: "높음",
+  MEDIUM: "보통",
+  LOW: "낮음",
+}

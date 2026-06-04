@@ -1,0 +1,1052 @@
+EX-10.1
+
+2
+
+ex101-thirteenthamendmentx.htm
+
+EX-10.1
+
+Document
+
+EXHIBIT 10.1
+
+Execution Version
+
+THIRTEENTH AMENDMENT
+
+to
+
+FIFTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+among
+
+VITAL ENERGY, INC.,
+
+as
+
+ 
+
+Borrower,
+
+WELLS FARGO BANK, N.A.,
+
+as Administrative Agent,
+
+the Guarantors Signatory Hereto,
+
+and
+
+the Banks Signatory Hereto
+
+THIRTEENTH AMENDMENT TO
+
+FIFTH AMENDED AND RESTATED CREDIT AGREEMENT
+
+This Thirteenth Amendment to Fifth Amended and Restated Credit Agreement (this “
+
+Thirteenth Amendment
+
+”), dated as of September 20, 2024 (the “
+
+Thirteenth Amendment Effective Date
+
+”), is among Vital Energy, Inc., a corporation formed under the laws of the State of Delaware (the “
+
+Borrower
+
+”); each of the undersigned guarantors (the “
+
+Guarantors
+
+”, and together with Borrower, the “
+
+Credit Parties
+
+”); each of the Banks party hereto; and Wells Fargo Bank, N.A., as administrative agent for the Banks (in such capacity, together with its successors, the “
+
+Administrative Agent
+
+”).
+
+Recitals
+
+A.
+
+The Borrower, the Administrative Agent and the financial institutions party thereto as lenders (the “
+
+Banks
+
+”) are parties to that certain Fifth Amended and Restated Credit Agreement dated as of May 2, 2017 (as amended, supplemented or otherwise modified prior to the date hereof, the “
+
+Existing Credit Agreement
+
+”; and the Existing Credit Agreement, as the same may be further amended, amended and restated, supplemented or otherwise modified from time to time, including by and after giving effect to this Thirteenth Amendment, the “
+
+Credit Agreement
+
+”), pursuant to which the Banks have, subject to the terms and conditions set forth therein, made certain credit available to and on behalf of Borrower.
+
+B.
+
+The Borrower has advised the Administrative Agent that it intends to acquire (the “
+
+Acquisition
+
+”), directly or indirectly, from Point Energy Partners Petroleum, LLC, a Delaware limited liability company (“
+
+Point Petroleum
+
+”), Point Energy Partners Operating, LLC, a Texas limited liability company (“
+
+Point Operating
+
+”), Point Energy Partners Water, LLC, a Texas limited liability company (“
+
+Point Water
+
+”), and Point Energy Partners Royalty, LLC, a Texas limited liability company (“
+
+Point Royalty
+
+” and, together with Point Petroleum, Point Operating and Point Water, “
+
+Seller
+
+”), all of the VTLE Assets (as such term is defined in the Acquisition Agreement referred to below, as executed, without giving effect to any subsequent amendment, consent, waiver or other modification thereto except to the extent approved by the Administrative Agent, the “
+
+Acquired Assets
+
+”) pursuant to that certain Purchase and Sale Agreement (together with all exhibits, schedules, annexes and disclosure schedules and side letters thereto, the “
+
+Acquisition Agreement
+
+”) dated as of July 27, 2024, by and among the Borrower and Northern Oil and Gas, Inc., a Delaware corporation, as Purchaser (under and as defined therein) and the Seller.
+
+C.
+
+Effective as of the Thirteenth Amendment Effective Date, the parties hereto are entering into this Thirteenth Amendment to, among other things, on the terms and subject to the conditions set forth herein:
+
+(i)
+
+increase the Aggregate Elected Revolving Commitment Amount by $150,000,000 from $1,350,000,000 to $1,500,000,000;
+
+(ii)
+
+provide for a redetermination and reaffirmation of the Borrowing Base at $1,500,000,000 by the Required Banks, which redetermination and reaffirmation of the Borrowing Base shall constitute the Scheduled Redetermination of the Borrowing Base scheduled to occur on November 1, 2024 (or such date promptly thereafter as reasonably practicable); and 
+
+Page 1
+
+(iii)
+
+amend certain terms of the Existing Credit Agreement as provided for in 
+
+Section 2
+
+ hereof.
+
+NOW, THEREFORE, in consideration of the premises and the mutual covenants herein contained, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+Section 1.
+
+Defined Terms
+
+. Each capitalized term used herein and not otherwise defined herein has the meaning assigned to such term in the Credit Agreement. Unless otherwise indicated, all section references in this Thirteenth Amendment refer to sections of the Credit Agreement.
+
+Section 2.
+
+Amendments to Existing Credit Agreement
+
+. In reliance on the representations, warranties, covenants and agreements contained in this Thirteenth Amendment, and subject to the satisfaction (or waiver) of the conditions precedent set forth in 
+
+Section 4
+
+ hereof, the Existing Credit Agreement shall be amended effective as of the Thirteenth Amendment Effective Date in the manner provided in this 
+
+Section 2
+
+.
+
+2.1    
+
+Additional Definitions
+
+. Section 1.02 of the Existing Credit Agreement is hereby amended to add thereto in alphabetical order the following definitions which shall read in full as follows:
+
+“
+
+Thirteenth Amendment
+
+” means that certain Thirteenth Amendment to Fifth Amended and Restated Credit Agreement dated as of the Thirteenth Amendment Effective Date, among the Borrower, the Guarantors party thereto, the Administrative Agent and the Banks party thereto.
+
+“
+
+Thirteenth Amendment Effective Date
+
+” means September 20, 2024.
+
+2.2    
+
+Amended and Restated Definitions
+
+. The following definition contained in Section 1.02 of the Existing Credit Agreement is hereby amended and restated in its entirety to read in full as follows:
+
+“
+
+Aggregate Elected Revolving Commitment Amount
+
+” at any time means the sum of the Elected Revolving Commitments, as the same may be increased, reduced or terminated from time to time pursuant to 
+
+Section 2.06
+
+. As of the Thirteenth Amendment Effective Date, the Aggregate Elected Revolving Commitment Amount is $1,500,000,000.
+
+2.3    
+
+Replacement of Schedule 1 to Existing Credit Agreement
+
+. Schedule 1 to the Existing Credit Agreement is hereby replaced in its entirety with 
+
+Schedule 1
+
+ hereto and 
+
+Schedule 1
+
+ hereto shall be deemed to be attached as Schedule 1 to the Credit Agreement and each Bank shall have the Maximum Credit Amount, Elected Revolving Commitment and Applicable Revolving Commitment Percentage set forth on 
+
+Schedule 1
+
+ hereto.
+
+Page 2
+
+Any signature page, schedule or exhibit to the Existing Credit Agreement not amended pursuant to the terms of this Thirteenth Amendment shall remain in effect without any amendment or other modification thereto. 
+
+Section 3.
+
+Fall 2024 Borrowing Base Redetermination and Aggregate Elected Revolving Commitment Amount Increase
+
+. In reliance on the representations, warranties, covenants and agreements contained in this Thirteenth Amendment, and subject to the satisfaction (or waiver) of the conditions precedent set forth in 
+
+Section 4
+
+ hereof, (a) the Administrative Agent and the Required Banks hereby agree that, effective as of the Thirteenth Amendment Effective Date, the Borrowing Base shall be reaffirmed at $1,500,000,000 (the “
+
+Fall 2024 Borrowing Base Redetermination
+
+”) and continuing until the next Scheduled Redetermination, Interim Redetermination, or other adjustment to the Borrowing Base, whichever occurs first pursuant to the terms of the Credit Agreement and (b) the Borrower, the Administrative Agent and the Banks hereby agree that the Aggregate Elected Revolving Commitment Amount shall be increased from $1,350,000,000 to $1,500,000,000 in accordance with Schedule 1 to the Credit Agreement (as amended by 
+
+Section 2.3
+
+ hereof) and continuing until subsequently decreased or increased pursuant to the terms of the Credit Agreement. The Borrower, the Administrative Agent and the Banks hereby further agree that the Fall 2024 Borrowing Base Redetermination provided for herein shall be deemed to be the Scheduled Redetermination of the Borrowing Base intended to be effective on or about November 1, 2024 as referenced in Section 2.07(b) of the Existing Credit Agreement and that this Thirteenth Amendment constitutes the New Borrowing Base Notice with respect to such Scheduled Redetermination.
+
+Section 4.
+
+Conditions Precedent (Thirteenth Amendment)
+
+. The effectiveness of this Thirteenth Amendment (including the amendments set forth in 
+
+Section 2
+
+ hereof, the redetermination and reaffirmation of the Borrowing Base set forth in 
+
+Section 3
+
+ and the increase in the Aggregate Elected Revolving Commitment Amount set forth in 
+
+Section 3
+
+) is subject to the satisfaction (or waiver) of each of the following conditions precedent:
+
+4.1    
+
+Counterparts
+
+. The Administrative Agent shall have received counterparts of this Thirteenth Amendment from (a) each of the Credit Parties and (b) the Banks constituting at least the Required Banks and (c) each Bank whose Revolving Commitment will increase upon the effectiveness of this Thirteenth Amendment. 
+
+4.2    
+
+Fees and Expenses
+
+. The Administrative Agent shall have received, to the extent invoiced, all fees and other amounts due and payable on or prior to the Thirteenth Amendment Effective Date to the extent invoiced at least one (1) Business Day prior to the Thirteenth Amendment Effective Date (including all fees and other amounts due and payable to the Administrative Agent on account of the Banks).
+
+4.3    
+
+Notes
+
+. The Administrative Agent shall have received duly executed Notes (or any amendment or restatement thereof, as the case may be) payable to each requesting Bank and its registered assigns in a principal amount equal to such requesting Bank’s Maximum Credit Amount as set forth on Schedule 1 to the Credit Agreement (as amended hereby). 
+
+4.4    
+
+Acquisition
+
+. Substantially concurrently with the Thirteenth Amendment Effective Date, the Acquisition shall be consummated in accordance with the terms of the Acquisition Agreement, as executed, without giving effect to any subsequent amendment, consent, waiver or other modification thereto except to the extent approved by the Administrative Agent. The Administrative Agent shall have received a certificate from a Responsible Officer certifying that: (a) attached to such certificate is a true and correct, fully-executed copy of the Acquisition Agreement (including, for the avoidance of doubt, all exhibits, schedules, annexes and disclosure schedules thereto, all amendments, waivers, supplements or modifications thereto and all side 
+
+Page 3
+
+letters and other supplemental or material agreements and instruments executed and delivered in connection with the Acquisition), (b) substantially concurrently with the Thirteenth Amendment Effective Date, the Acquisition shall be consummated in accordance with the terms of the Acquisition Agreement, as executed, without giving effect to any subsequent amendment, consent, waiver or other modification thereto except to the extent approved by the Administrative Agent and (c)(i) the Specified Acquisition Agreement Representations (as defined below) shall be true and correct in all material respects and (ii) the Specified Representations (as defined below) shall be true and correct in all material respects, except to the extent that any such representation or warranty is already qualified by materiality, material adverse effect or other similar qualification, in which case such representation or warranty shall be true and correct in all respects. For purposes hereof, (1) “
+
+Specified Acquisition Agreement Representations
+
+” means such of the representations made by the Seller or its subsidiaries or affiliates in the Acquisition Agreement as are material to the interests of the Banks, but only to the extent that the Borrower or its affiliates have the right to terminate its or its affiliates’ respective obligations under the Acquisition Agreement or otherwise decline to close the Acquisition as a result of a breach of any such Specified Acquisition Agreement Representations or any such Specified Acquisition Agreement Representations not being accurate (in each case, determined without regard to any notice requirement) and (2) “
+
+Specified Representations
+
+” means those representations and warranties of the Borrower in Section 7.01, Section 7.02, Section 7.03, Section 7.07, Section 7.08, Section 7.13, Section 7.16, Section 7.18, Section 7.19, Section 7.23, Section 7.24 and Section 7.28 of the Credit Agreement.
+
+4.5    
+
+Solvency Certificate
+
+. The Administrative Agent shall have received a certificate of the Borrower’s chief financial officer certifying that, after giving effect to this Thirteenth Amendment and the Acquisition on the Thirteenth Amendment Effective Date, the Borrower and its subsidiaries on a consolidated basis are solvent in substantially the form attached as 
+
+Annex I
+
+ hereto.
+
+4.6    
+
+Lien Searches and Absence of Liens
+
+. The Administrative Agent shall have received (a) customary payoff letters and lien releases evidencing that all existing liens or security interests on the Acquired Assets (subject only to liens permitted by Section 9.03 of the Credit Agreement) have been, or contemporaneously with the Thirteenth Amendment Effective Date shall be, terminated or released and (b) customary UCC lien search results with respect to the Borrower and the other Credit Parties, in each case, in their respective jurisdictions of formation.
+
+4.7    
+
+KYC
+
+. The requesting Banks shall have received at least five (5) Business Days prior to the Thirteenth Amendment Effective Date, to the extent requested in writing to the Borrower at least ten (10) Business Days prior to the Thirteenth Amendment Effective Date, a Beneficial Ownership Certification in relation to the Borrower.
+
+4.8    
+
+No Default
+
+. No Default shall have occurred and be continuing as of the Thirteenth Amendment Effective Date.
+
+Page 4
+
+For purposes of determining compliance with the conditions specified in this 
+
+Section 4
+
+, each Bank that has signed this Thirteenth Amendment shall be deemed to have consented to, approved or accepted or to be satisfied with, each document or other matter required under this 
+
+Section 4
+
+. The Administrative Agent shall notify the Borrower and the Banks of the Thirteenth Amendment Effective Date, and such notice shall be final, conclusive and binding upon the Banks and all other parties to the Credit Agreement for all purposes.
+
+Section 5.
+
+Agreements by Banks; Reallocation
+
+.
+
+5.1    
+
+Agreements by Banks
+
+. Each Bank hereby agrees that, upon the effectiveness of this Thirteenth Amendment, from and after the Thirteenth Amendment Effective Date, such Bank shall (a) continue as a Bank as defined in, and for all purposes of, the Existing Credit Agreement, as amended hereby, and the other Loan Papers and shall continue to have all of the rights of a Bank under and as defined therein in all respects and (b) have the Maximum Credit Amount, Elected Revolving Commitment and Applicable Revolving Commitment Percentage in the amount shown opposite its name on Schedule 1 to the Credit Agreement (as amended hereby).
+
+5.2    
+
+Reallocation
+
+. After giving effect to this Thirteenth Amendment and any Borrowings made on the Thirteenth Amendment Effective Date, (a) each Bank who holds Revolving Loans in an aggregate amount less than its Applicable Revolving Commitment Percentage of all Revolving Loans shall advance new Revolving Loans which shall be disbursed to the Administrative Agent and used to repay Revolving Loans outstanding to each Bank who holds Revolving Loans in an aggregate amount greater than its Applicable Revolving Commitment Percentage of all Revolving Loans, including with respect to portions of any outstanding SOFR Loans which SOFR Loans shall otherwise remain outstanding through the last day of the Interest Period applicable thereto unless repaid prior thereto by the Borrower after giving effect to the adjustments described in this 
+
+Section 5.2
+
+; provided, that in no event shall any such advance, disbursement or other adjustment be considered an extinguishment, novation or retirement of the Obligations under the Existing Credit Agreement (as amended hereby) or any other Loan Paper, (b) each Bank’s participation in each Letter of Credit, if any, shall be automatically adjusted to equal its Applicable Revolving Commitment Percentage, (c) such other adjustments shall be made as the Administrative Agent shall specify so that the Revolving Credit Exposure applicable to each Bank equals its Applicable Revolving Commitment Percentage of the Aggregate Revolving Credit Exposures of all Banks and (d) upon request by each applicable Bank, the Borrower shall be required to make any break funding payments owing to such Bank that are required under Section 5.02 of the Credit Agreement as a result of the Revolving Loans and adjustments described in this 
+
+Section 5.2
+
+.
+
+Section 6.
+
+Representations and Warranties; Etc.
+
+ Each Credit Party hereby affirms: (a) that as of the date hereof, all of the Specified Representations are true and correct in all material respects, except to the extent that any such representation or warranty is already qualified by materiality, material adverse effect or other similar qualification, in which case such representation or warranty shall be true and correct in all respects and (b) no Default exists under the Loan Papers or will, after giving effect to this Thirteenth Amendment, exist under the Loan Papers. 
+
+Section 7.
+
+Certain Agreements
+
+.
+
+Page 5
+
+7.1    
+
+Post-Closing Covenants
+
+. No later than sixty (60) days after the Thirteenth Amendment Effective Date (or such later date as the Administrative Agent may agree to in its sole discretion), the Administrative Agent shall have received from the Borrower: 
+
+(a)     (i) Mortgages, duly executed by the applicable Credit Parties and otherwise in form and substance reasonably satisfactory to the Administrative Agent, such that after giving effect thereto, the Mortgages create first-priority, perfected Liens (subject only to Permitted Encumbrances but subject to the provisos at the end of such definition) on at least 85% of the PV-9 value of the Oil and Gas Properties, including, without limitation, the Acquired Assets, evaluated in the Thirteenth Amendment Reserve Report (as defined below) and (ii) legal opinions (including from local counsel in each applicable jurisdiction) covering such mortgage related matters in connection with the foregoing as may be reasonably requested by the Administrative Agent; and
+
+(b)    title information reasonably satisfactory to the Administrative Agent setting forth the status of title to at least 85% of the PV-9 value of the Oil and Gas Properties, including, without limitation, the Acquired Assets, evaluated in the Thirteenth Amendment Reserve Report. “
+
+Thirteenth Amendment Reserve Report
+
+” means, collectively, (i) the Reserve Report evaluating the Oil and Gas Properties of the Credit Parties as of July 1, 2024 and (ii) the reserve report of the Seller evaluating the Acquired Assets as of April 1, 2024, in the case of each reserve report in the foregoing 
+
+clauses (i)
+
+ and 
+
+(ii)
+
+, prepared by or under the supervision of the chief engineer of the Borrower.
+
+7.2    
+
+No Cure Period
+
+. The Borrower’s failure to comply with any requirement of 
+
+Section 7.1
+
+ hereof shall, in each case, constitute an immediate Event of Default and, for the avoidance of doubt, no Credit Party shall be entitled to any grace or cure period for such breach or non-compliance which may be provided for in any Loan Paper.
+
+Section 8.
+
+Miscellaneous
+
+.
+
+8.1    
+
+Confirmation and Effect
+
+. The provisions of the Existing Credit Agreement (as amended by this Thirteenth Amendment) shall remain in full force and effect in accordance with its terms following the effectiveness of this Thirteenth Amendment. Each reference in the Credit Agreement to “this Agreement”, “hereunder”, “hereof”, “herein”, or words of like import shall mean and be a reference to the Credit Agreement as amended hereby, and each reference to the Credit Agreement in any other document, instrument or agreement executed and/or delivered in connection with the Credit Agreement shall mean and be a reference to the Credit Agreement as amended hereby.
+
+8.2    
+
+Ratification and Affirmation of Credit Parties
+
+. Each of the Credit Parties hereby expressly (a) acknowledges the terms of this Thirteenth Amendment, (b) ratifies and affirms its obligations under the Credit Agreement, the Facility Guaranty and the other Loan Papers to which it is a party, (c) acknowledges, renews and extends its continued liability under the Facility Guaranty and the other Loan Papers to which it is a party (in each case, as amended hereby), (d) in the case of each Guarantor, agrees that its guarantee under the Facility Guaranty and the other Loan Papers (in each case, as amended hereby) to which it is a party remains in full force and effect with respect to the Obligations, as amended hereby, (e) represents and warrants that (i) the execution, delivery and performance of this Thirteenth Amendment has been duly authorized by all necessary corporate or company action of such Credit Party, (ii) this Thirteenth Amendment constitutes a valid and binding agreement of such Credit Party, and (iii) this Thirteenth Amendment is enforceable against such Credit Party in accordance with its terms except as (A) the enforceability thereof may be limited by bankruptcy, insolvency or similar Laws affecting creditors’ rights generally, and (B) the availability of equitable remedies may be limited by equitable principles of general applicability, and (f) acknowledges and confirms that 
+
+Page 6
+
+the amendments contemplated hereby shall not limit or impair any Liens securing the Obligations, each of which are hereby ratified, affirmed and extended to secure the Obligations after giving effect to this Thirteenth Amendment.
+
+8.3    
+
+Counterparts
+
+. This Thirteenth Amendment may be executed by one or more of the parties hereto in any number of separate counterparts, and all of such counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of this Thirteenth Amendment by facsimile or electronic (e.g. pdf) transmission shall be effective as delivery of a manually executed original counterpart hereof.
+
+8.4    
+
+No Oral Agreement
+
+. This written Thirteenth Amendment, the Credit Agreement and the other Loan Papers executed in connection herewith and therewith represent the final agreement between the parties and may not be contradicted by evidence of prior, contemporaneous, or unwritten oral agreements of the parties. There are no subsequent oral agreements between the parties.
+
+8.5    
+
+Governing Law
+
+. This Thirteenth Amendment (including, but not limited to, the validity and enforceability hereof) shall be governed by, and construed in accordance with, the laws of the State of New York.
+
+8.6    
+
+Payment of Expenses
+
+. Borrower agrees to pay or reimburse Administrative Agent for all of its out-of-pocket costs and expenses incurred in connection with this Thirteenth Amendment, any other documents prepared in connection herewith and the transactions contemplated hereby, including, without limitation, the reasonable fees and disbursements of counsel to Administrative Agent.
+
+8.7    
+
+Severability
+
+. Any provision of this Thirteenth Amendment which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+
+8.8    
+
+Successors and Assigns
+
+. This Thirteenth Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+
+8.9    
+
+Loan Paper
+
+. This Thirteenth Amendment shall constitute a “Loan Paper” for all purposes under the other Loan Papers.
+
+8.10    
+
+Waiver of Jury Trial
+
+. Section 12.09(d) of the Credit Agreement is hereby incorporated by reference, 
+
+mutatis mutandis
+
+.
+
+Page 7
+
+ [
+
+Signature Pages Follow
+
+]
+
+Page 8
+
+IN WITNESS WHEREOF, the parties hereto have caused this Thirteenth Amendment to be duly executed effective as of the date first written above.
+
+BORROWER:
+
+VITAL ENERGY, INC.
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Bryan Lemmerman
+
+Name:
+
+Bryan Lemmerman
+
+Title:
+
+Executive Vice-President and Chief Financial Officer
+
+GUARANTOR:
+
+VITAL MIDSTREAM SERVICES, LLC
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Bryan Lemmerman
+
+Name:
+
+Bryan Lemmerman
+
+Title:
+
+Executive Vice-President and Chief Financial Officer
+
+ 
+
+ 
+
+Signature Page to Thirteenth Amendment to
+
+Fifth Amended and Restated Credit Agreement
+
+WELLS FARGO BANK, N.A.,
+
+ 
+
+as Administrative Agent and as a Bank
+
+By:
+
+/s/ Gerardo Aponte
+
+Name:
+
+Gerado Aponte
+
+Title:
+
+Executive Director
+
+Signature Page to Thirteenth Amendment to
+
+Fifth Amended and Restated Credit Agreement
+
+BANK OF AMERICA, N.A., 
+
+ 
+
+as a Bank
+
+By:
+
+/s/ Ajay Prakash
+
+Name:
+
+Ajay Prakash
+
+Title:
+
+Director
+
+    
+
+Signature Page to Thirteenth Amendment to
+
+Fifth Amended and Restated Credit Agreement
+
+KEYBANK NATIONAL ASSOCIATION, 
+
+ 
+
+as a Bank
+
+By:
+
+/s/ George McKean
+
+Name:
+
+George McKean
+
+Title:
+
+Senior Vice President
+
+Signature Page to Thirteenth Amendment to
+
+Fifth Amended and Restated Credit Agreement
+
+MIZUHO BANK, LTD., 
+
+ 
+
+as a Bank
+
+By:
+
+/s/ Edward Sacks
+
+Name:
+
+Edward Sacks
+
+Title:
+
+Managing Director
+
+Signature Page to Thirteenth Amendment to
+
+Fifth Amended and Restated Credit Agreement
+
+PNC BANK, NATIONAL ASSOCIATION,
+
+successor to BBVA USA, 
+
+ 
+
+as a Bank
+
+By:
+
+/s/ Anvar Musayev
+
+Name:
+
+Anvar Musayev
+
+Title:
+
+Vice President
+
+Signature Page to Thirteenth Amendment to
+
+Fifth Amended and Restated Credit Agreement
+
+TRUIST BANK, 
+
+ 
+
+as a Bank
+
+By:
+
+/s/ Greg Krablin
+
+Name:
+
+Greg Krablin
+
+Title:
+
+Director
+
+Signature Page to Thirteenth Amendment to
+
+Fifth Amended and Restated Credit Agreement
+
+CAPITAL ONE, NATIONAL ASSOCIATION,
+
+ 
+
+as a Bank
+
+By:
+
+/s/ John Owen
+
+Name:
+
+John Owen
+
+Title:
+
+Vice President
+
+ 
+
+Signature Page to Thirteenth Amendment to
+
+Fifth Amended and Restated Credit Agreement
+
+CITIBANK, N.A.,
+
+ 
+
+as a Bank
+
+By:
+
+/s/ Cliff Vaz
+
+Name:
+
+Cliff Vaz
+
+Title:
+
+Vice President
+
+Signature Page to Thirteenth Amendment to
+
+Fifth Amended and Restated Credit Agreement
+
+FIFTH THIRD BANK, NATIONAL 
+ASSOCIATION,
+
+ 
+
+as a Bank
+
+By:
+
+/s/ Thomas Kleiderer
+
+Name:
+
+Thomas Kleiderer
+
+Title:
+
+Managing Director
+
+Signature Page to Thirteenth Amendment to
+
+Fifth Amended and Restated Credit Agreement
+
+U.S. BANK NATIONAL ASSOCIATION,
+
+ 
+
+as a Bank
+
+By:
+
+/s/ Matthew A. Turner
+
+Name:
+
+Matthew A. Turner
+
+Title:
+
+Senior Vice President
+
+ 
+
+Signature Page to Thirteenth Amendment to
+
+Fifth Amended and Restated Credit Agreement
+
+BOKF, NA DBA BANK OF OKLAHOMA,
+
+ 
+
+as a Bank
+
+By:
+
+/s/ Tyler Thalken
+
+Name:
+
+Tyler Thalken
+
+Title:
+
+Senior Vice President
+
+ 
+
+Signature Page to Thirteenth Amendment to
+
+Fifth Amended and Restated Credit Agreement
+
+COMERICA BANK, 
+
+ 
+
+as a Bank
+
+By:
+
+/s/ Britney P. Moore
+
+Name:
+
+Britney P. Moore
+
+Title:
+
+Vice President
+
+ 
+
+Signature Page to Thirteenth Amendment to
+
+Fifth Amended and Restated Credit Agreement
+
+ZIONS BANCORPORATION, N.A. dba AMEGY BANK, 
+
+ 
+
+as a Bank
+
+By:
+
+/s/ Matt Lang
+
+Name:
+
+Matt Lang
+
+Title:
+
+Senior Vice President - Amegy Division
+
+    
+
+    
+
+Signature Page to Thirteenth Amendment to
+
+Fifth Amended and Restated Credit Agreement
+
+Schedule 1
+
+MAXIMUM CREDIT AMOUNTS AND ELECTED REVOLVING COMMITMENTS
+
+Bank
+
+Maximum Credit Amount
+
+Elected Revolving Commitment
+
+Applicable Revolving Commitment Percentage
+
+Wells Fargo Bank, N.A.
+
+$284,000,000.00
+
+$142,000,000.00
+
+9.466666667%
+
+Bank of America, N.A.
+
+$272,000,000.00
+
+$136,000,000.00
+
+9.066666667%
+
+KeyBank National Association
+
+$272,000,000.00
+
+$136,000,000.00
+
+9.066666667%
+
+Mizuho Bank, LTD.
+
+$272,000,000.00
+
+$136,000,000.00
+
+9.066666667%
+
+PNC Bank, National Association, successor to BBVA USA
+
+$272,000,000.00
+
+$136,000,000.00
+
+9.066666667%
+
+Truist Bank
+
+$272,000,000.00
+
+$136,000,000.00
+
+9.066666667%
+
+Capital One, National Association
+
+$264,000,000.00
+
+$132,000,000.00
+
+8.800000000%
+
+Citibank, N.A.
+
+$264,000,000.00
+
+$132,000,000.00
+
+8.800000000%
+
+Fifth Third Bank, National Association
+
+$264,000,000.00
+
+$132,000,000.00
+
+8.800000000%
+
+U.S. Bank National Association
+
+$264,000,000.00
+
+$132,000,000.00
+
+8.800000000%
+
+BOKF, NA dba Bank of Oklahoma
+
+$130,000,000.00
+
+$65,000,000.00
+
+4.333333333%
+
+Comerica Bank
+
+$90,000,000.00
+
+$45,000,000.00
+
+3.000000000%
+
+Zions Bancorporation, N.A., dba Amegy Bank
+
+$80,000,000.00
+
+$40,000,000.00
+
+2.666666667%
+
+Total:
+
+$3,000,000,000.00
+
+$1,500,000,000.00
+
+100.000000000%
+
+Schedule 1 to Thirteenth Amendment to
+
+Fifth Amended and Restated Credit Agreement
+
+Annex I
+
+ 
+
+FORM OF SOLVENCY CERTIFICATE
+
+[DATE]
+
+SOLVENCY CERTIFICATE
+
+[__],
+
+ 
+
+[__]
+
+This Solvency Certificate (this “
+
+Certificate
+
+”) is delivered pursuant to that certain Fifth Amended and Restated Credit Agreement dated as of May 2, 2017 (as amended, supplemented or otherwise modified prior to the date hereof, the “
+
+Existing Credit Agreement
+
+”; and the Existing Credit Agreement, as the same may be further amended, amended and restated, supplemented or otherwise modified from time to time, including as of the date hereof, the “
+
+Credit Agreement
+
+”), by and among Vital Energy, Inc., a Delaware corporation (the “
+
+Borrower
+
+”), Wells Fargo Bank, N.A., as the Administrative Agent under and as defined therein, and the lenders and other parties thereto. Unless otherwise defined herein, capitalized terms used in this Certificate shall have the meanings set forth in the Credit Agreement.
+
+I, [_______], solely in my capacity as the [Chief Financial Officer][Chief Executive Officer] of the Borrower, do hereby certify on behalf of the Borrower that as of the date hereof, after giving effect to the consummation of the Transactions contemplated by the Credit Agreement:
+
+1.    The sum of the debt (including contingent liabilities) of the Borrower and the Subsidiaries, on a consolidated basis, does not exceed the present fair saleable value of the present assets of the Borrower and the Subsidiaries, on a consolidated basis.
+
+2.     The capital of the Borrower and the Subsidiaries, on a consolidated basis, is not unreasonably small in relation to their business as contemplated on the date hereof.
+
+3.     The Borrower and the Subsidiaries, on a consolidated basis, have not incurred and do not intend to incur, or believe that they will incur, debts including current obligations, beyond their ability to pay such debts as they become due (whether at maturity or otherwise).
+
+4.     The Borrower and the Subsidiaries, on a consolidated basis, are “solvent” within the meaning given to that term and similar terms under applicable laws relating to fraudulent transfers and conveyances.
+
+5.    For purposes of this Certificate, the amount of any contingent liability has been computed as the amount that, in light of all of the facts and circumstances existing as of the date hereof, represents the amount that can reasonably be expected to become an actual or matured liability.
+
+6.    In reaching the conclusions set forth in this Certificate, I have made such other investigations and inquiries as I have deemed appropriate, having taken into account the nature of the particular business anticipated to be conducted by the Borrower and the Subsidiaries after the consummation of the Transactions contemplated by the Credit Agreement.
+
+[Remainder of this page intentionally left blank.]
+
+Annex I to Thirteenth Amendment to
+
+Fifth Amended and Restated Credit Agreement
+
+    
+
+IN WITNESS WHEREOF
+
+, I have executed this Certificate as of the date first written above.
+
+                        
+
+[     ]
+
+                        
+
+By: ____________________________
+
+                        Name: [_______] 
+
+                        Title: [_______]
+
+Annex I to Thirteenth Amendment to
+
+Fifth Amended and Restated Credit Agreement

@@ -1,0 +1,500 @@
+EX-10.2
+
+3
+
+ex10-2.htm
+
+ 
+
+ 
+
+Exhibit
+10.2
+
+ 
+
+LOAN
+AGREEMENT
+
+ 
+
+THIS
+LOAN AGREEMENT (this “
+Agreement
+”) is made as of October 31, 2024, to be effective the 22nd day of October, 2024 (“
+Effective
+Date
+”), by and between 
+Yehuda Nir,
+ having an address at 14 Moshe Lerer Street, Nes Ziona, Israel (“
+Lender
+”),
+and 
+Koligo Therapeutics INC.
+, a Kentucky, USA company (“
+Borrower
+”) a wholly owned subsidiary of 
+Orgenesis
+Inc.
+ a Nevada, USA company (“
+ORGS
+”), (Lender together with Borrower, each a “
+Party
+” and together,
+the “
+Parties
+”).
+
+ 
+
+WHEREAS
+,
+Lender desires to provide financing by way of a loan to the Borrower to be used by the Borrower for working capital and ongoing operations,
+and the Borrower desires to receive such financing to be used by the Borrower for working capital and ongoing operations;
+
+ 
+
+NOW,
+THEREFORE
+, in consideration of the premises and the mutual covenants herein contained, and other good and valuable consideration
+the receipt and sufficiency of which is hereby acknowledged, the Parties hereby agree as follows:
+
+ 
+
+1.
+
+Funding
+. Lender has committed to provide financing in form of a loan in the amount of US$500,000, under the terms of this Agreement,
+(the “Loan Amount”) in accordance with the terms hereof.
+
+ 
+
+2.
+
+Loan; Closing
+.
+
+ 
+
+(a)
+
+Terms of Loan
+. The Lender shall lend the Loan Amount to the Borrower, and the Borrower shall borrow the Loan Amount from the Lender.
+The Loan Amoun shall bear 
+annual 10%
+ simple interest and shall become due and payable no later than 90 days from the Effective
+Date. The Loan Amount may be prepaid by the Borrower in whole or in part at any time without the prior written approval of the Lender.
+As partial consideration for the loan to Borrower, ORGS shall issue to the Lender a warrant to purchase 
+485,437
+ shares of common
+stock of ORGS at an exercise price of 
+$1.03
+ per share, exercisable for a period of twelve months from the Effective Date (the
+“
+Warrant
+”), in the form attached hereto as 
+
+Exhibit A
+
+. In the event that the loan is not repaid to Lender
+by December 31, 2024, ORGS shall issue an additional warrant to purchase 
+485,437
+ shares of common stock of ORGS at an exercise
+price of 
+$1.03
+ per share, exercisable for a period of twelve months from the Effective Date (the “
+Warrant
+”).
+
+ 
+
+(b)
+
+The Closing
+. The closing of the loans shall take place on or after the Effective Date, or such other date, time and place as the
+Lender and the Borrower shall agree upon in writing (the “Closing”). At the Closing, the Lender and the Borrower shall each
+deliver a fully executed version of this Agreement to the other Party. Following the Closing, the Lender shall transfer to the Borrower
+the Loan Amount by wire transfer, to the bank account of the Borrower in accordance with wiring instructions provided by the Borrower
+to the Lender.
+
+ 
+
+3.
+
+Use of Proceeds
+. The Borrower shall use the Loan Amount to fund its working capital and financing needs (the “Purpose”).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.
+
+Events of Default.
+
+ 
+
+(a)
+The following shall constitute events of default (each an “Event of Default”):
+
+ 
+
+i.
+filing of a petition in bankruptcy or the commencement of any proceedings under any bankruptcy laws by or against the Borrower, which
+filing or proceeding, is not dismissed within sixty (60) days after the filing or commencement thereof, or if the Borrower shall completely
+cease or suspend the conduct of its usual business or if the Borrower shall become, insolvent and admits in writing that it is unable
+to pay its debts or liabilities as they fall due;
+
+ 
+
+ii.
+breaches any material covenant by the Borrower (other than a payment covenant) which is not cured within 30 days of receipt of written
+notice of such breach; 
+
+ 
+
+iii.
+an order, judgment or decree shall be entered, without the application, approval or consent of the Borrower by any court of competent
+jurisdiction, approving a petition seeking reorganization of the Borrower or appointing a receiver, trustee or liquidator of the Borrower
+or of all or a substantial part of its assets, and such order, judgment or decree shall continue unstayed and in effect for any period
+of ninety (90) consecutive days;
+
+ 
+
+iv.
+Borrower fails to repay principal when due and such failure continues for ten business days of the Borrower’s receipt of written
+notice from the Lender; or
+
+ 
+
+v.
+ORGS replaces its current Chief Executive Officer with another appointee without the express written confirmation of the Lender.
+
+ 
+
+(b)
+If, at any time, an Event of Default shall occur, all obligations under this Agreement shall become immediately due and payable without
+presentment, demand or protest, all of which are hereby waived by the Borrower. 
+
+ 
+
+5.
+
+Representations and Warranties
+. The Borrower represents and warrants to the Lender (and to the extent identified below, the Lender
+represents and warrants to the Borrower) as follows:
+
+ 
+
+(a)
+The Borrower is duly formed, validly existing and in good standing under the laws of the State of Israel. The Borrower has full power
+and authority to consummate the transactions contemplated hereunder, and the consummation of such transactions and the performance of
+this Agreement by the Borrower does not violate the provisions of any applicable law, and will not result in any material breach of,
+or constitute a material default under any agreement or instrument to which the Borrower is a party or under which the Borrower is bound.
+
+ 
+
+(b)
+The execution and performance of this Loan Agreement by the Borrower has been duly authorized by all necessary actions. This Loan Agreement
+has been duly executed and delivered by the Borrower and the Lender and this Loan Agreement is the legal, valid, and binding obligation
+of the Borrower and the Lender, and is fully enforceable against the Borrower and the Lender according to its terms.
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c)
+There is no existing lien, encumbrance, security interest, indebtedness, mortgage or third party rights of any kind that are, or could
+be, ranked senior in nature to the outstanding loan amount other than any lien arising by operation of law.
+
+ 
+
+6.
+
+Waiver; Non-Negotiable
+. The Borrower, for itself and each of its legal representatives, hereby waives presentment for payment,
+demand, right of setoff, notice of nonpayment, notice of dishonor, protest of any dishonor, notice of protest and protest of this Agreement,
+and all other notices in connection with the delivery, acceptance, performance, default or enforcement of the obligations under this
+Agreement. This Agreement is non-negotiable.
+
+ 
+
+7.
+
+No Security Interest
+. At all times, the outstanding loan amount shall rank, and shall be deemed, pari passu or senior to any and
+all indebtedness of the Borrower unless otherwise subordinated by the Lender in writing in the Lender’s sole and absolute discretion.
+The Borrower hereby agrees, covenants and undertakes not to permit any indebtedness, lien, encumbrance, mortgage or third party right
+of any kind to become senior to the outstanding loan amount other than any lien arising by operation of law and the ordinary course of
+business.
+
+ 
+
+8.
+
+Further Assurances
+. The Parties shall perform such further acts and execute such further documents as may reasonably be necessary
+to carry out and give full effect to the provisions of this Agreement.
+
+ 
+
+9.
+
+Miscellaneous.
+
+ 
+
+(a)
+
+Entire Agreement; Amendments
+. This Agreement constitutes the entire understanding of the Parties hereto with respect to the subject
+matter hereof and supersedes all prior written and oral understandings of such Parties with regard thereto. This Agreement may be modified,
+amended, or any term hereof waived with the written consent of the Borrower and the Lender. Any amendment effected in accordance with
+this Section 9(a) shall be binding upon all Parties and their respective successors and assignees.
+
+ 
+
+(b)
+
+Governing Law; Jurisdiction
+. This Loan Agreement shall be governed by and construed according to the laws of the State of Israel
+without regard to the conflict of laws provisions thereof. In the event of any dispute and/or claim arising out of and/or in relation
+to this Agreement (“
+Dispute
+”), the Parties agree to make a good faith attempt to negotiate an amicable resolution
+of such Dispute. If any such Disputes cannot be resolved by the Parties within a period of forty-five (45) days following the first receipt
+by a Party of written notice of such Dispute form the other Party, such Dispute shall be brought exclusively to the competent court in
+Tel-Aviv-Jaffa, and the parties irrevocably consent to the personal jurisdiction and venue therein.
+
+ 
+
+(c)
+
+Notices
+. All notices and other communications required or permitted hereunder to be given to a Party to this Loan Agreement shall
+be in writing and shall be telecopied or mailed by registered or certified mail, postage prepaid, or otherwise delivered by hand or by
+messenger. Any notice sent in accordance with this Loan Agreement shall be effective (i) if mailed, seven (7) business days after mailing
+to the address set forth each Party’s signature below, (ii) if sent by messenger, upon delivery, and (iii) if sent via email, upon
+transmission and electronic confirmation of receipt or (if transmitted and received on a non-business day) on the first business day
+following transmission and electronic confirmation of receipt.
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+(d)
+
+Assignment; Waiver
+. This Loan Agreement may not be assigned by the Borrower without the prior written consent of the Lender. The
+Lender may assign this Loan Agreement without the prior written consent of the Borrower. This Loan Agreement shall be binding upon the
+successors, assigns and representatives of each Party. No delay or omission to exercise any right, power, or remedy accruing to any Party
+upon any breach or default under this Loan Agreement, shall be deemed a waiver of any other breach or default theretofore or thereafter
+occurring. All remedies, either under this Loan Agreement or by law or otherwise afforded to any of the Parties, shall be cumulative
+and not alternative.
+
+ 
+
+(e)
+
+Severability
+. If any provision of this Loan Agreement is held by a court of competent jurisdiction to be unenforceable under applicable
+law, then such provision shall be excluded from this Loan Agreement and the remainder of this Loan Agreement shall be interpreted as
+if such provision were so excluded and shall be enforceable in accordance with its terms; provided, however, that in such event this
+Loan Agreement shall be interpreted so as to give effect, to the greatest extent consistent with and permitted by applicable law, to
+the meaning and intention of the excluded provision as determined by such court of competent jurisdiction.
+
+ 
+
+(f)
+
+Counterparts
+. This Loan Agreement may be executed in any number of counterparts, each of which shall be deemed an original but
+all of which together shall constitute one and the same instrument.
+
+ 
+
+[Remainder
+of Page Intentionally Left Blank]
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, the Parties have executed this Loan Agreement as of the date first above written.
+
+ 
+
+LENDER
+
+ 
+
+Yehuda
+Nir
+
+ 
+
+By:
+
+/s/
+ Yehuda Nir
+
+ 
+ 
+
+ 
+
+THE
+BORROWER
+
+ 
+
+Koligo
+Therapeutics Inc.
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Vered Caplan
+
+ 
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Vered Caplan
+
+ 
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Authorized signatory
+
+ 
+ 
+
+ 
+
+ 
+
+Address: 2113 State Street New Albany, IN 47150, USA
+
+ 
+
+ 
+
+Orgenesis
+Inc.
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Vered
+ Caplan
+
+ 
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Vered Caplan
+
+ 
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+CEO
+
+ 
+ 
+
+ 
+
+ 
+
+Address: 20271 Goldenrod Lane, Germantown ,MD 20876, USA
+
+ 
+
+ 
+
+[
+Signature
+page to the Loan Agreement between Yehuda Nir. and Koligo Therapeutics INC.
+]

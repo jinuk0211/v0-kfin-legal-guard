@@ -1,0 +1,464 @@
+EX-10.3
+
+5
+
+ex10-3.htm
+
+EX-10.3
+
+ 
+
+ 
+
+Exhibit
+10.3
+
+ 
+
+ADDENDUM
+#1 TO LOAN AGREEMENT
+
+ 
+
+This
+Addendum #1 to Loan Agreement (this “
+Addendum
+”) is intended to amend and supplement the Business Loan and Security
+Agreement between the parties (the “
+Agreement
+” or “
+Loan Agreement
+”), and is incorporated into such
+Loan Agreement. In the event of any inconsistency between this Addendum and the Loan Agreement, this Addendum shall control.
+
+ 
+
+Notwithstanding
+anything to in the Loan Agreement to the contrary, the Parties agree as follows:
+
+ 
+
+1.
+
+PAYMENT OF PRINCIPAL AND INTEREST
+
+. Unless the Loan Agreement is otherwise accelerated, or extended in accordance with the
+terms and conditions hereof, the entire outstanding principal balance of the Loan Agreement plus all accrued interest shall be due and
+payable in full on July 14, 2027 (the “
+Maturity Date
+”). Notwithstanding anything to the contrary in the Loan Agreement,
+the Loan Amount shall be payable upon demand of Lender on or after December 15, 2026.
+
+ 
+
+2.
+
+BI-WEEKLY PAYMENTS AND BALLOON
+
+. Borrower shall make Bi-Weekly payments of $75,000 to Lender. The bi-weekly payments shall
+begin on July 10, 2025. The outstanding principal amount, together with any additional interest payable in accordance with Section 3,
+shall be due and payable on the Maturity Date or the date which Lender demands payment on or after December 15, 2025.
+
+ 
+
+3.
+
+PAYMENT OF INTEREST
+
+. Borrower will pay to Lender interest in the amount of $675,000.00 which is the amount of interest
+payable through the Maturity Date. On the execution of the Loan Agreement, Borrower will pay to Lender the interest due under the Loan
+Agreement for the entire two year term (i.e., $675,000.00) by the issuance of 225,000 shares of the Borrower’s shares of common
+stock, valued for purposes of this issuance at $3.00 per share (the “
+Interest Shares
+”). The interest and the Interest
+Shares will be fully earned on issuance and will not be subject to decrease or offset if the Loan Agreement is repaid prior to the Maturity
+Date. The Interest Shares will be registered with the United States Securities and Exchange Commission (the “
+Commission
+”)
+under the Securities Act of 1933, as amended (together with the rules and regulations promulgated thereunder, the “
+Securities
+Act
+”) and will be freely transferable by Lender subject to the Bleed Out (defined herein). Upon receipt of the Interest Shares,
+Lender may sell the Shares; provided, that Lender will not sell a number of shares more than 20% of the average daily volume of the Borrower’s
+common stock in any given Trading Day, as reported by the Trading Market (the “
+Bleed Out
+”). If, upon sale of all of
+the Interest Shares, Lender has received aggregate proceeds of less than $675,000.00, Borrower must make up the shortfall in the form
+of a cash payment at the time the loan is repaid provided, however, Lender did not violate the Bleed Out. “
+Trading Day
+”
+means a day on which the principal Trading Market is open for trading. “
+Trading Market
+” means The Nasdaq Stock Market
+LLC (“
+Nasdaq
+”), (or any successors to the foregoing).
+
+ 
+
+4.
+
+ISSUANCE OF COLLATERAL SHARES
+
+. At the execution of the Loan Agreement, Lender will issue into a reserve account 2,900,000
+shares of common stock (the “
+Collateral Shares
+” and, together with the Interest Shares, the “
+Borrower Securities
+”).
+The Collateral Shares will be delivered by Borrower and ClearTrust, LLC, the Borrower’s transfer agent (the “
+Transfer
+Agent
+”) (i) instruction letter to the Transfer Agent to be delivered by Borrower (the “
+Instruction Letter
+”),
+(ii) the Pledge and Security Agreement to be entered into between Borrower and Lender (the “
+Pledge Agreement
+”), and
+the Escrow Agreement to be entered into among Borrower, Lender and Transfer Agent (the “
+Escrow Agreement
+” and, together
+with the Instruction Letter and the Pledge Agreement, the “
+Other Transaction Documents
+”), all of which will be executed
+and delivered at the execution of the Loan Agreement. The Collateral Shares will be held in a reserve account with the Transfer Agent
+pursuant to such agreements. The Collateral Shares are intended to provide collateral for the obligations under the Loan Agreement and
+are deliverable to Borrower on a default of the Loan Agreement.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.
+
+DELIVERABLES
+
+. On execution and delivery of this Agreement and prior to funding of the Loan Agreement, Borrower shall deliver
+or cause to be delivered to Borrower the following (the “
+Borrower Deliverables
+”):
+
+ 
+
+5.1.
+
+Interest
+ Shares;
+
+ 
+
+5.2.
+
+Instruction
+ Letter;
+
+ 
+
+5.3.
+
+Pledge
+ Agreement;
+
+ 
+
+5.4.
+
+Escrow
+ Agreement;
+
+ 
+
+5.5.
+
+a
+ legal opinion from Borrower’s legal counsel, in form and substance satisfactory to
+ Lender and its legal counsel, respecting the issuance, delivery and registration of the Borrower
+ Securities, including that the shares are registered under Borrower’s effective registration
+ statement with the Commission (File No. 333-268960) (the “
+Registration Statement
+”),
+ which registers the offer and sale of Borrower’s securities; and
+
+ 
+
+5.6.
+
+Borrower’s
+ supplement to the base prospectus included in the Registration Statement (the “
+Prospectus
+”)
+ in respect of the issuance by Borrower of the Interest Shares and the Collateral Shares,
+ complying with Rule 424(b) of the Securities Act that is filed with the Commission (the “
+Prospectus
+ Supplement
+”).
+
+ 
+
+6.
+
+REPRESENTATIONS
+ AND WARRANTIES OF BORROWER
+
+. Borrower hereby makes the following representations and
+ warranties to Lender:
+
+ 
+
+6.1.
+
+Authorization;
+ Enforcement
+. Borrower has the requisite corporate power and authority to enter into and
+ to consummate the transactions contemplated by the Loan Agreement and each of the Other Transaction
+ Documents and otherwise to carry out its obligations hereunder and thereunder. The execution
+ and delivery of the Loan Agreement and each of the Other Transaction Documents by Borrower
+ and the consummation by it of the transactions contemplated hereby and thereby, including
+ the issuance of the Borrower Securities, have been duly authorized by all necessary action
+ on the part of Borrower and no further action is required by Borrower, the Board of Directors
+ or the Borrower’s shareholders in connection herewith or therewith other than in connection
+ with the Required Approvals (defined in Section 6.3). This Agreement and each Other Transaction
+ Document has been (or upon delivery will have been) duly executed by Borrower to the extent
+ required and, when delivered in accordance with the terms hereof and thereof, such agreements
+ will constitute the valid and binding obligations of Borrower enforceable against Borrower
+ in accordance with its respective terms, except (i) as limited by general equitable principles
+ and applicable bankruptcy, insolvency, reorganization, moratorium and other laws of general
+ application affecting enforcement of creditors’ rights generally, (ii) as limited by
+ laws relating to the availability of specific performance, injunctive relief or other equitable
+ remedies and (iii) insofar as indemnification and contribution provisions may be limited
+ by applicable law.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6.2.
+
+No
+ Conflicts
+. The execution, delivery and performance by the Borrower of this Agreement
+ and the Other Transaction Documents to which it is a party, the issuance of the Borrower
+ Securities and the consummation by Borrower of the transactions contemplated hereby and thereby
+ do not and will not (i) conflict with or violate any provision of Borrower’s or any
+ subsidiary’s certificate or articles of incorporation, bylaws or other organizational
+ or charter documents, or (ii) conflict with, or constitute a default (or an event that with
+ notice or lapse of time or both would become a default) under, result in the creation of
+ any lien, charge, pledge, security interest, encumbrance, right of first refusal, preemptive
+ right or other restriction (“
+Lien
+”) upon any of the properties or assets
+ of the Borrower or any subsidiary, or give to others any rights of termination, amendment,
+ anti-dilution or similar adjustments, acceleration or cancellation (with or without notice,
+ lapse of time or both) of, any agreement, credit facility, debt or other instrument (evidencing
+ a Borrower or subsidiary debt or otherwise) or other understanding to which the Borrower
+ or any subsidiary is a party or by which any property or asset of the Borrower or any subsidiary
+ is bound or affected, or (iii) subject to the Required Approvals, conflict with or result
+ in a violation of any law, rule, regulation, order, judgment, injunction, decree or other
+ restriction of any court or governmental authority to which the Borrower or a subsidiary
+ is subject (including federal and state securities laws and regulations), or by which any
+ property or asset of the Borrower or a subsidiary is bound or affected; except in the case
+ of each of clauses (ii) and (iii), such as could not have or reasonably be expected to result
+ in a Material Adverse Effect. “
+Material Adverse Effect
+” means any of (i)
+ a material adverse effect on the legality, validity or enforceability of the Loan Agreement
+ or any Other Transaction Document, (ii) a material adverse effect on the results of operations,
+ assets, business, prospects or condition (financial or otherwise) of the Borrower or any
+ subsidiary, or (iii) a material adverse effect on Borrower’s ability to perform in
+ any material respect on a timely basis its obligations under the Loan Agreement or any Other
+ Transaction Document.
+
+ 
+
+6.3.
+
+Filings,
+ Consents and Approvals
+. Borrower is not required to obtain any consent, waiver, authorization
+ or order of, give any notice to, or make any filing or registration with, any court or other
+ federal, state, local or other governmental authority or other individual or entity in connection
+ with the execution, delivery and performance by Borrower of the Loan Agreement or any Other
+ Transaction Document to which it is a party, other than: (i) notification to the Trading
+ Market of the offering of the Borrower Securities to the extent required by the rules of
+ the Trading Market, (ii) the filing with the Commission of the Prospectus Supplement, (iii)
+ application(s) to the Trading Market for the listing of the Shares for trading thereon in
+ the time and manner required thereby, and (iv) such filings as are required to be made under
+ applicable state securities laws (collectively, the “
+Required Approvals
+”).
+
+ 
+
+6.4.
+
+Listing
+ and Maintenance Requirements
+. Borrower’s common stock is registered pursuant to
+ Section 12(b) or 12(g) of the Securities Exchange Act of 1934 as amended (the “
+Exchange
+ Act
+”), and Borrower has taken no action designed to, or which to its knowledge
+ is likely to have the effect of, terminating the registration of the common stock under the
+ Exchange Act nor has Borrower received any notification that the Commission is contemplating
+ terminating such registration.
+
+ 
+
+6.5.
+
+Issuance
+ of Borrower Securities; Registration
+. The Borrower Securities have been duly authorized
+ and, when issued in accordance with this Loan Agreement, will be duly and validly issued,
+ fully paid and nonassessable, free and clear of any and all Liens imposed by Borrower and
+ are registered pursuant to the terms of the Registration Statement. Borrower has prepared
+ and filed the Registration Statement in conformity with the requirements of the Securities
+ Act, which became effective on January 3, 2023 (the “
+Effective Date
+”),
+ including the Prospectus, and such amendments and supplements thereto as may have been required
+ to the date of this Agreement. Borrower was at the time of the filing of the Registration
+ Statement eligible to use Form S-3. Borrower is eligible to use Form S-3 under the Securities
+ Act and it meets the transaction requirements as set forth in General Instruction I.B1 of
+ Form S-3. The Registration Statement is effective under the Securities Act and no stop order
+ preventing or suspending the effectiveness of the Registration Statement or suspending or
+ preventing the use of the Prospectus has been issued by the Commission and no proceedings
+ for that purpose have been instituted or, to the knowledge of the Borrower, are threatened
+ by the Commission. At the time the Registration Statement and any amendments thereto became
+ effective, at the date of the Loan Agreement, the Registration Statement and any amendments
+ thereto conformed and will conform in all material respects to the requirements of the Securities
+ Act and did not and will not contain any untrue statement of a material fact or omit to state
+ any material fact required to be stated therein or necessary to make the statements therein
+ not misleading; and the Prospectus and any amendments or supplements thereto, including the
+ Prospectus Supplement, at the time the Prospectus or any amendment or supplement thereto
+ was issued and at the Closing Date, conformed and will conform in all material respects to
+ the requirements of the Securities Act and did not and will not contain an untrue statement
+ of a material fact or omit to state a material fact necessary in order to make the statements
+ therein, in the light of the circumstances under which they were made, not misleading.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, each of the undersigned has executed, or has caused to be executed, this Addendum as of the date first written above.
+
+ 
+
+ 
+
+NextNRG, Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+      
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Lender:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:

@@ -1,0 +1,367 @@
+EX-10.1
+
+2
+
+ex10x1.htm
+
+FOURTH AMENDMENT TO LOAN AGREEMENT
+
+ 
+
+Exhibit 10.1
+
+ 
+
+ 
+
+FOURTH Amendment
+to LOAN AGREEMENT
+
+THIS FOURTH AMENDMENT
+TO LOAN AGREEMENT (“
+Amendment
+”) is made as of May 
+21
+, 2025 (the “
+Amendment Date
+”), by and
+among 
+STANDARD PREMIUM FINANCE MANAGEMENT CORPORATION
+, a Florida corporation (“
+Borrower
+”), 
+FIRST HORIZON
+BANK
+, a Tennessee banking corporation (“
+Bank
+”), 
+STANDARD PREMIUM FINANCE HOLDINGS, INC.
+, a Florida corporation
+(the “
+Entity Guarantor
+”), and 
+WILLIAM KOPPELMANN
+, an individual, 
+MARK KUTNER
+, an individual, and 
+CARL
+CHRISTIAN HOECHNER
+, an individual (each an “
+Individual Guarantor
+” and collectively the “
+Individual Guarantors
+”)
+(the Entity Guarantor and the Individual Guarantors are collectively the “
+Guarantors
+”).
+
+Recitals of Fact
+
+Borrower, the Individual
+Guarantors, Entity Guarantor, and Bank previously entered into a Loan Agreement dated February 3, 2021 (as amended or modified from time
+to time, the “
+Loan Agreement
+”).
+
+The Borrower has asked
+the Bank to modify certain terms of the Loan Agreement. Bank has agreed to do so, on and subject to the terms and conditions set forth
+in this Amendment.
+
+NOW, THEREFORE, incorporating
+the Recitals of Fact set forth above and in consideration of the mutual agreements herein contained, the parties agree as follows:
+
+AGREEMENTS
+
+1.       
+Capitalized
+Terms
+. Capitalized terms used but not otherwise defined herein shall have the meanings given to them in the Loan Agreement.
+
+2.       
+Amendments
+.
+The Loan Agreement is amended as follows:
+
+(a)       The
+definition of the term “Committed Amount”, as given in the Recitals of Fact to the Loan Agreement, is hereby modified and
+amended to mean the principal sum of up to Fifty Million Dollars ($50,000,000.00).
+
+(b)       The
+following definition in Article One of the Loan Agreement is amended and restated as follows:
+
+“Note” means the Third Amended
+and Restated Revolving Credit Note of the Borrower in the principal amount of Fifty Million Dollars ($50,000,000.00), as same may be further
+amended, modified, renewed, extended, or restated from time to time.
+
+(c)       Section
+2.1 of the Loan Agreement is amended and restated as follows:
+
+2.1       
+The
+Commitment
+. Subject to the terms and conditions herein set out, the Bank agrees and commits, form time to time, from the Closing Date
+until the Termination Date, to make loan advances to the Borrower, all in an aggregate principal amount not to exceed, at any one time
+outstanding, the lesser of (a) Fifty Million Dollars ($50,000,000.00); or (b) the Borrowing Base as defined in Article One.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(d)       Section
+2.3(a) of the Loan Agreement is amended and restated as follows:
+
+(a)       All
+advances with respect to the Loan shall be evidenced by the Amended and Restated Revolving Credit Note of the Borrower, payable to the
+order of the Bank in the principal amount of Fifty Million Dollars ($50,000,000.00), in form substantially the same as the copy of the
+Note attached hereto as 
+Exhibit “C.”
+ The entire unpaid principal amount of the Loan shall be due and payable on the
+Termination Date. The unpaid principal balances of the Loan shall bear interest from the Closing Date on disbursed and unpaid principal
+balances as provided in the Note. Said interest shall be payable monthly on the first (1
+st
+) day of each month after the Closing
+Date, with the final installment of interest being due and payable on the Termination Date, or on such earlier date as the Loan becomes
+due and payable.
+
+(e)       
+Exhibit
+A
+ to the Loan Agreement is amended and restated as follows:
+
+EXHIBIT A TO LOAN AGREEMENT
+
+Borrowing Base
+
+The Borrowing Base is an amount equal to:
+
+(a)       the
+Advance Rate (from time to time in effect) times Net Receivables that are acceptable Receivables; 
+minus
+
+(b)       the
+sum of (i) $2,000,000 (or such lesser amount determined by Agent in its sole discretion), (ii) Availability Reserves and (iii) Bank Product
+Reserves.
+
+(
+Note
+: Although the Borrowing Base
+is limited as set forth above, Bank’s security interest covers and includes all Borrower’s asset, both now owned and hereafter
+acquired, as more particularly described in the Security Agreement)
+
+3.       
+Representations
+.
+To induce the Bank to enter into this Amendment, the Borrower and the Guarantors do hereby absolutely and unconditionally certify, represent,
+and warrant to the Bank, and covenant and agree with the Bank, that:
+
+ (a) all representations
+and warranties made by the Borrower and/or Guarantors in the Loan Agreement, as amended hereby, and in all other documents evidencing,
+securing, guaranteeing, or otherwise related to the Loan Agreement (all of which are herein sometimes called the “
+Loan Documents
+”),
+are true, correct, and complete in all material respects as of the date of this Amendment;
+
+ (b) as of the date
+hereof and with the execution of this Amendment, there are no existing Defaults or Events of Default;
+
+ (c) there are no existing
+offsets, defenses, or counterclaims to the obligations of the Borrower or Guarantors, as set forth in the Loan Agreement or in any other
+Loan Document;
+
+ (d) neither the
+Borrower nor any of the Guarantors has any existing claim for damages against the Bank arising out of or related to the Loan or any other
+loans and obligations of the Borrower or any of the Guarantors to the Bank; and, if and to the extent (if any) that the Borrower or any
+of the Guarantors has any such existing claim, the Borrower and the Guarantors do hereby forever release and discharge, in all respects,
+the Bank with respect to such claim; and
+
+ (e) the Loan Agreement,
+as amended by this Amendment, and the other Loan Documents, are valid, genuine, enforceable in accordance with their respective terms,
+and in full force and effect.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.       
+Effectiveness
+.
+The effectiveness of this Amendment is expressly conditioned upon the following:
+
+ (a) Bank’s
+receipt of the fully executed original copies of this Amendment and the amended and restated Note;
+
+ (b) Bank’s
+receipt of such certificates of good standing and lien searches as Bank may require, with results satisfactory to Bank;
+
+ (c) the Borrower’s
+payment to Bank of a fully earned and non-refundable amendment fee in the amount of $5,000; and
+
+ (c) Bank’s
+receipt of such resolutions or consents as Bank may require, evidencing Borrower and Entity Guarantor’s authority to execute and
+deliver this Amendment. Borrower shall pay all of Bank’s reasonable attorney fees and expenses incurred in connection with the drafting,
+negotiation, execution, and delivery of this Amendment.
+
+5.       
+Ratification
+.
+All terms and provisions of the Loan Agreement or any other Loan Document that are inconsistent with the provisions of this Amendment
+are hereby modified and amended to conform hereto; and, as so modified and amended, are hereby ratified, approved, and confirmed. Except
+as otherwise may be expressly provided herein, this Amendment shall become effective as of the date set forth in the initial paragraph
+hereof.
+
+6.       
+References
+.
+All references in all Loan Documents to the Loan Agreement shall, except as the context may otherwise require, be deemed to constitute
+references to the Loan Agreement as amended hereby. All Collateral which has previously secured the Loan and the other Obligations shall
+continue to secure the Loan and all other Obligations as amended hereby.
+
+[Signature Pages Follow]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, the
+Borrower and the Bank have caused this Amendment to be executed by their duly authorized officers, and the Guarantors have executed this
+Amendment, all as of the day and year first above written. 
+
+ 
+ 
+
+ 
+
+BORROWER:
+
+ 
+
+STANDARD PREMIUM FINANCE 
+
+MANAGEMENT CORPORATION
+, a Florida
+
+corporation
+
+ 
+
+By:
+ /s/ William Koppelmann 
+
+Name: 
+ Willam Koppelmann 
+
+Title: 
+ President and CEO 
+
+ 
+
+BANK
+:
+
+ 
+
+FIRST HORIZON BANK
+, a Tennessee banking
+
+corporation
+
+ 
+
+By: 
+/s/ Jake McCrary 
+
+Name: 
+Jake McCrary 
+
+Title: 
+Managing Director 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The undersigned Guarantors, by their signatures hereto,
+acknowledge and agree to the foregoing Amendment and ratify their respective Guaranty Agreements in favor of Bank as of the date hereof.
+
+ 
+
+ 
+ 
+
+ 
+
+GUARANTORS
+:
+
+STANDARD PREMIUM FINANCE HOLDINGS, INC.,
+
+a Florida corporation
+
+ 
+
+By:
+ /s/ William Koppelmann 
+
+Name: 
+ Willam Koppelmann 
+
+Title: 
+ President and CEO 
+
+ 
+
+ 
+
+ 
+
+ /s/ William Koppelman 
+
+WILLIAM KOPPELMANN
+
+ 
+
+ 
+
+ /s/ Mark Kutner 
+
+MARK KUTNER
+
+ 
+
+ 
+
+ /s/ Carl Christian Hoechner 
+
+CARL CHRISTIAN HOECHNER

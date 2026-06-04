@@ -1,0 +1,1072 @@
+EX-10.1
+
+2
+
+ex10x1.htm
+
+LOAN ASSIGNMENT AND RELEASE AGREEMENT
+
+ 
+
+Exhibit 10.1
+
+ 
+
+ 
+
+ 
+
+ASSIGNMENT AND RELEASE AGREEMENT
+
+ 
+
+THIS ASSIGNMENT AND RELEASE
+AGREEMENT
+ (this “
+Agreement
+”) is entered into on December 8, 2023 by and among micromobility.com Inc. (f/k/a Helbiz
+Inc.), a Delaware corporation (the “
+Borrower
+”), the financial institutions or entities parties hereto (the “
+Lenders
+”),
+Securis Investment Partners, LLP, as administrative agent for the Lenders (in such capacity, the “
+Administrative Agent
+”),
+and YA II PN, Ltd., (the “
+Assignee
+”).
+
+ 
+
+ 
+
+R E C I T A L S
+:
+
+WHEREAS, the Borrower,
+the Administrative Agent and the Lenders have entered into that certain Loan and Security Agreement, dated as of March 23, 2021 (as
+amended, restated, supplemented or otherwise modified from time to time, the “
+Loan Agreement
+”), pursuant to which the
+Administrative Agent and the Lenders agreed to make certain loans and other financial accommodations to the Borrower:
+
+WHEREAS, the Borrower, the Administrative
+Agent and the Lenders have entered into that certain settlement agreement, dated November 27, 2023 (the “
+Settlement Agreement
+”)
+which provided for the Borrower to pay to the Administrative Agent for distribution to the Lenders consideration in an aggregate amount
+of $3,595,000 (the 
+“Settlement Amount
+”) on or before December 8, 2023, for the purposes of settling all outstanding
+Obligations of the Borrower, pursuant to the terms and conditions, and such other agreements as set forth therein:
+
+ 
+
+WHEREAS, the Administrative
+Agent and the Lenders are the legal and equitable owner and holder on the Term Loans under the Loan Agreement; the aggregate principal
+amount outstanding under the Loan Agreement as of the date hereof is $15,000,000 and the current maturity date is December 8, 2023;
+
+WHEREAS, Assignee has offer to
+purchase and the Administrative Agent and the Lenders have agreed to assign to Assignee, all of the rights, title and interests of the
+Administrative Agent and the Lenders in, to and under the Loan Agreement and all other documents that evidence or secure the obligations
+under the Loan Agreement (collectively, the “
+Loan Documents
+”) in exchange for the payment from the Assignor of the
+Settlement Amount, subject to the terms and conditions contained herein; and
+
+ 
+
+WHEREAS, capitalized terms used
+herein and not otherwise defined herein shall have the meaning assigned to them in the Loan Agreement.
+
+ 
+
+NOW, THEREFORE, in consideration
+of the foregoing, and the respective agreements, warranties and covenants contained herein, the parties hereto agree as follows:
+
+1.
+
+Assignment
+.
+Subject to the terms of this Agreement, in exchange for payment of the Settlement Amount as set forth in Section 2 below, and other good
+and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Assignee hereby agrees to absolutely, irrevocably
+and unconditionally purchase and assume from the Administrative Agent and the Lenders, and the Administrative Agent and the Lenders agree
+to absolutely, irrevocably and unconditionally sell, assign, convey, and endorse to the Assignee, all of the rights, title and interests
+and all of the obligations of the Administrative Agent and the Lenders, in their capacities as Administrative Agent and Lenders, as applicable,
+in, to and under the Loan Documents (collectively, the “
+Assigned Interests
+”), without recourse to the Administrative
+Agent or any Lender, and, except as expressly provided herein, without representation or warranty of any kind, express or implied, by
+the Administrative Agent or any Lender. None of the Administrative Agent nor any Lender assumes any responsibility with respect to (i)
+any statements, warranties or representations made in or in connection with the Loan Documents, (ii) the execution, legality, validity,
+enforceability, genuineness, sufficiency or value of the Loan Documents or any collateral thereunder, (iii) the financial condition of
+the Borrower, any of its Subsidiaries or Affiliates or any other Person obligated in respect of any Loan Document, or (iv) the performance
+or observance by the Borrower, any of its Subsidiaries or Affiliates or any other Person of any of their respective obligations under
+any Loan Document.
+
+ 
+
+1
+ 
+
+ 
+
+ 
+
+ 
+
+2.
+ 
+
+Purchase
+Price
+. The Assignee shall pay to the Administrative Agent for distribution to the Lenders, the Settlement Amount in cash in immediately
+available funds, by wire transfer to the accounts detailed in Schedule A.
+
+ 
+
+3.
+
+Closing
+.
+The Administrative Agent and the Lenders and Assignee shall consummate the purchase and sale of the Loan Documents (the “
+Closing
+”)
+on the date of execution of this Agreement (the “
+Closing Date
+”), but in any event not later than December 8, 2023 (unless
+otherwise agreed by the Administrative Agent and the Lenders), upon (a) execution and delivery of this Agreement and any such documents
+and instruments as may be legally necessary or otherwise reasonably required to effect the transfer of the Assigned Interests and (b)
+payment of the Settlement Amount as set forth in Section 2 of this Agreement. 
+
+ 
+
+4.
+
+Further
+Assurances
+. Effective upon the Closing, at Assignee’s sole cost and expense:
+
+ 
+
+a)
+ 
+the
+Administrative Agent agrees to take such further commercially reasonable action and to execute and deliver, or cause to be executed and
+delivered, any and all other documents which are, in the reasonable opinion of the Assignee’s counsel, necessary or desirable to
+effect the transfer of the Assigned Interests to Assignee;
+
+ 
+
+b)
+ 
+the
+Borrower, the Administrative Agent and the Lenders authorize the Assignee to file at any time financing statements, continuation statements
+and amendments thereto with all appropriate jurisdictions to effect the transfer of the Assigned Interests to Assignee, including filings
+with the United States Patent and Trademark Office, the United States Copyright Office and any applicable governmental or other authority
+in any other jurisdiction; 
+
+ 
+
+c)
+ 
+the
+Borrower, the Administrative Agent and the Lenders agree that the Settlement Agreement shall automatically terminate and no longer have
+any force or effect, including, without limitation, the termination of the Loan Documents contemplated by Section 3.2 therein. The parties
+intend for this Agreement to supersede and replace the Settlement Agreement in its entirety; 
+
+ 
+
+d)
+
+the
+Administrative Agent and the Lenders agree to deliver to Assignee copies of any loan documents relating to the Loan Documents that the
+Administrative Agent and the Lenders have in its possession; 
+
+ 
+
+e)
+
+the
+Administrative Agent and the Lenders agree to execute and deliver such documents as might reasonably be requested by Assignee to fully
+effectuate the transfer of the Assigned Interests; and
+
+ 
+
+f)
+ 
+the
+Administrative Agent shall resign as the administrative agent under the Loan Documents and the Assignee shall be appointed as the new
+administrative agent, in each case, automatically upon Closing without further act by any Person. . 
+
+ 
+
+5.
+ 
+
+Representations
+and Warranties of the Assignee
+. Assignee hereby represents, warrants and covenants to the Administrative Agent and the Lenders that
+each of the following is true and accurate as of the date hereof, which representations, warranties and covenants shall survive the execution
+and delivery of this Agreement.
+
+ 
+
+a)
+
+Organization:
+Authority
+. The Assignee is an entity duly organized, validly existing and in good standing under the laws of the jurisdiction of its
+organization with full right, corporate, partnership or other applicable power and authority to enter into and to consummate the transactions
+contemplated by this Agreement and otherwise to carry out its obligations thereunder, and the execution, delivery and performance by the
+Assignee of the transactions contemplated by this Agreement have been duly authorized by all necessary corporate or similar action on
+the part of the Assignee. This Agreement, when executed and delivered by the Assignee, will constitute a valid and legally binding obligation
+of the Assignee, enforceable against the Assignee in accordance with its terms, except (a) as limited by applicable bankruptcy, insolvency,
+reorganization, moratorium, fraudulent conveyance, and any other laws of general application affecting enforcement of creditors’
+rights generally, or (b) as limited by laws relating to the availability of specific performance, injunctive relief, or other equitable
+remedies.
+
+ 
+
+ 
+
+2
+ 
+
+ 
+
+ 
+
+ 
+
+b)
+
+Investment
+Experience: Access to Information
+. The Assignee (a) either alone or together with its representatives, has such knowledge and experience
+in financial and business matters as to be capable of evaluating the merits and risks of the purchase of the Loan Documents, (b) has the
+ability to bear the economic risks of this investment and can afford a complete loss of such investment, (c) understands the terms of
+and risks associated with the acquisition of the Loan Documents, and (d) has, independently and without reliance upon the Administrative
+Agent or any other Lender and based on such documents and information as it has deemed appropriate, made its own credit analysis and decision
+to enter into this Agreement and to purchase the Assigned Interests.
+
+ 
+
+c)
+
+General
+Solicitation
+. The Assignee is not accepting such Assignment as a result of any advertisement, article, notice or other communication
+regarding the Loan Documents published in any newspaper, magazine or similar media or broadcast over television or radio or presented
+at any seminar or any other general solicitation or general advertisement.
+
+ 
+
+6.
+
+Representations
+and Warranties of the Administrative Agent and the Lenders
+. The Administrative Agent and each of the Lenders, for itself alone hereby
+represents, warrants and covenants to the Assignee that each of the following is true and accurate as of the date hereof, which representations,
+warranties and covenants shall survive the execution and delivery of this Agreement.
+
+ 
+
+a)
+
+Ownership
+.
+The Administrative Agent and each of the Lenders is the sole legal and beneficial owner of the Assigned Interests and has not assigned
+or otherwise transferred to any third party any rights with respect to its interest in the Assigned Interests or any rights to its interest
+in the collateral securing the Term Loans and has not released any collateral securing the Term Loans or modified or terminated its security
+interest in such collateral. The Loan Documents attached as 
+
+Exhibit “A”
+
+ to this Agreement are true, correct
+and complete copies of such documents. The Loan Agreement has not been amended, revised, modified or changed in any manner from the form
+attached as Exhibit “A” hereto. 
+
+ 
+
+b)
+ 
+
+Capacity
+.
+The Administrative Agent and each of the Lenders has all right, power, legal capacity and authority to execute and deliver this Agreement
+and to perform hereunder and under each other agreement that such Party may execute and deliver in connection herewith.
+
+ 
+
+c)
+ 
+
+Binding
+Effect of Documents
+. This Agreement, when executed and delivered by the Administrative Agent and each of the Lenders, will constitute
+a valid and legally binding obligation of the Administrative Agent and each of the Lenders, enforceable against the Administrative Agent
+and each of the Lenders in accordance with its terms, except (a) as limited by applicable bankruptcy, insolvency, reorganization, moratorium,
+fraudulent conveyance, and any other laws of general application affecting enforcement of creditors’ rights generally, or (b) as
+limited by laws relating to the availability of specific performance, injunctive relief, or other equitable remedies.
+
+ 
+
+7.
+ 
+
+Representations
+and Warranties of the Borrower
+. Borrower hereby represents, warrants and covenants as follows:
+
+ 
+
+a)
+
+Representations
+in the Loan Agreement and the Other Loan Documents
+. Each of the representations and warranties made by or on behalf of the Borrower
+to the Administrative Agent or any Lender in the Loan Agreement or any of the other Loan Documents is true and correct in all material
+respects (except to the extent such representations and warranties are qualified by materiality or a Material Adverse Effect standard
+in which case such representations and warranties are true and correct in all respects) on and as of the date of this Agreement, except
+to the extent such representations and warranties relate to an earlier date, in which case they are true and correct (in compliance with
+the foregoing standard) as of such earlier date, with the same full force and effect as if each of such representations and warranties
+had been made by the Borrower on the date hereof and in this Agreement. All of the information contained in the schedules attached to
+the Loan Agreement remains true and correct, as the same may have been amended, updated, supplemented or otherwise modified from time
+to time. No amendments, modifications or other changes have been made to the Borrower’s organizational documents since the Closing
+Date.
+
+ 
+
+b)
+ 
+
+Binding
+Effect of Documents
+. This Agreement, when executed and delivered by the Borrower, will constitute a valid and legally binding obligation
+of the Borrower, enforceable against the Borrower in accordance with its terms, except (a) as limited by applicable bankruptcy, insolvency,
+reorganization, moratorium, fraudulent conveyance, and any other laws of general application affecting enforcement of creditors’
+rights generally, or (b) as limited by laws relating to the availability of specific performance, injunctive relief, or other equitable
+remedies.
+
+ 
+
+ 
+
+3
+ 
+
+ 
+
+ 
+
+ 
+
+c)
+ 
+
+No
+Conflict
+. The execution, delivery and performance of this Agreement by the Borrower will not violate any requirement of law or contractual
+obligation of the Borrower and will not result in, or require, the creation or imposition of any Lien on any of its respective properties
+or revenues. 
+
+ 
+
+d)
+ 
+
+Principal
+Balance
+. The aggregate principal amount outstanding under the Loan Agreement as of the date hereof is $15,000,000. 
+
+ 
+
+8.
+
+Loan
+Document Releases
+. 
+
+ 
+
+a)
+
+Each of the Borrower, the Administrative Agent, and each Lender, on behalf of itself and its successors
+and assigns, and its present and former members, managers, shareholders, affiliates, subsidiaries, divisions, predecessors, directors,
+officers, attorneys, employees, agents, legal representatives and other representatives (collectively, the “
+Releasing Parties
+”
+and individually, a “
+Releasing Party
+”), hereby absolutely, unconditionally and irrevocably releases, remises and forever
+discharges each other Releasing Party, and each of their respective successors and assigns, and their respective present and former shareholders,
+members, managers, affiliates, subsidiaries, divisions, predecessors, directors, officers, investment managers, attorneys, employees,
+agents, legal representatives and other representatives (collectively, the “
+Releasees
+” and individually, a “
+Releasee
+”),
+of and from any and all demands, actions, causes of action, suits, damages and any and all other claims, counterclaims, defenses, rights
+of set off, demands and liabilities whatsoever (individually, a “
+Claim
+” and collectively, the “
+Claims
+”)
+of every kind and nature, known or unknown, suspected or unsuspected, at law or in equity, which any Releasing Party or any of its successors,
+assigns, or other legal representatives may now or hereafter own, hold, have or claim to have against the Releasees or any of them for,
+upon, or by reason of any circumstance, action, cause or thing whatsoever which arises at any time on or prior to the date of this Agreement,
+including, without limitation, for or on account of, or in relation to, or in any way in connection with this Agreement, the Loan Agreement,
+any of the other Loan Documents or any of the transactions hereunder or thereunder, except that the foregoing shall not release, waive
+or discharge the right to enforce this Agreement (“
+Excluded Claims
+”).
+
+ 
+
+b)
+
+The Releasing Parties hereby represent to the Releasees that they have not assigned or transferred
+any interest in any Claims against any Releasee prior to the date hereof.
+
+ 
+
+c)
+
+Notwithstanding any provision of law, statutory or otherwise, that provides that a general release
+does not extend to Claims which a party does not know or suspect to exist in its favor at the time of executing the release, which if
+known by it must have materially affected its agreement to settle, the releases set forth in this Section 8 shall apply, in accordance
+with its terms, to Claims whether known or unknown, contingent or absolute, suspected or unsuspected, accrued or unaccrued, disclosed
+or undisclosed. Each Releasing Party understands and acknowledges the significance and consequences of the release set forth in this Section
+8 and hereby assumes full responsibility for any injuries, damages or losses that it may incur. 
+
+ 
+
+d)
+
+Each Releasing Party understands, acknowledges and agrees that the release set forth above may be
+pleaded as a full and complete defense to any Claim and may be used as a basis for an injunction against any action, suit or other proceeding
+which may be instituted, prosecuted or attempted in breach of the provisions of such release.
+
+ 
+
+e)
+
+Each Releasing Party agrees that no fact, event, circumstance, evidence or transaction which could
+now be asserted, or which may hereafter be discovered will affect in any manner the final, absolute and unconditional nature of the release
+set forth above.
+
+ 
+
+f)
+
+Covenant Not to Sue
+. Each Releasing Party hereby absolutely, unconditionally and irrevocably
+covenants and agrees with and in favor of each Releasee that it will not sue (at law, in equity, in any regulatory proceeding or otherwise)
+any Releasee on the basis of any Claim (other than Excluded Claims) released, remised and discharged by any Releasing Party pursuant to
+Section 8 of this Agreement. If any Releasing Party violates the foregoing covenant, such Releasing Party, agrees to pay, in addition
+to such other damages as any Releasee may sustain as a result of such violation, all reasonable and documented attorneys’ fees and
+costs incurred by any Releasee as a result of such violation.
+
+ 
+
+ 
+
+4
+ 
+
+ 
+
+ 
+
+ 
+
+9.
+
+Assignment
+Releases
+. 
+
+ 
+
+a)
+
+Each of the Assignee, the Administrative Agent, and each Lender, on behalf of itself and its successors
+and assigns, and its present and former members, managers, shareholders, affiliates, subsidiaries, divisions, predecessors, directors,
+officers, attorneys, employees, agents, legal representatives and other representatives (collectively, the “
+Assignment Releasing
+Parties
+” and individually, an “
+Assignment Releasing Party
+”), hereby absolutely, unconditionally and irrevocably
+releases, remises and forever discharges each other Assignment Releasing Party, and each of their respective successors and assigns, and
+their respective present and former shareholders, members, managers, affiliates, subsidiaries, divisions, predecessors, directors, officers,
+investment managers, attorneys, employees, agents, legal representatives and other representatives (collectively, the “
+Assignment
+Releasees
+” and individually, an “
+Assignment Releasee
+”), of and from any and all demands, actions, causes
+of action, suits, damages and any and all other claims, counterclaims, defenses, rights of set off, demands and liabilities whatsoever
+(individually, an “
+Assignment Claim
+” and collectively, the “
+Assignment Claims
+”) of every kind and
+nature, known or unknown, suspected or unsuspected, at law or in equity, which any Assignment Releasing Party or any of its successors,
+assigns, or other legal representatives may now or hereafter own, hold, have or claim to have against the Assignment Releasees or any
+of them for, upon, or by reason of any circumstance, action, cause or thing whatsoever which arises at any time on or prior to the date
+of this Agreement, including, without limitation, for or on account of, or in relation to, or in any way in connection with this Agreement,
+the Loan Agreement, any of the other Loan Documents or any of the transactions hereunder or thereunder, except that the foregoing shall
+not release, waive or discharge the right to enforce this Agreement (“
+Assignment Excluded Claims
+”).
+
+ 
+
+b)
+
+The Assignment Releasing Parties hereby represent to the Assignment Releasees that they have not
+assigned or transferred any interest in any Assignment Claims against any Assignment Releasee prior to the date hereof.
+
+ 
+
+c)
+
+Notwithstanding any provision of law, statutory or otherwise, that provides that a general release
+does not extend to Assignment Claims which a party does not know or suspect to exist in its favor at the time of executing the release,
+which if known by it must have materially affected its agreement to settle, the releases set forth in this Section 9 shall apply, in accordance
+with its terms, to Assignment Claims whether known or unknown, contingent or absolute, suspected or unsuspected, accrued or unaccrued,
+disclosed or undisclosed. Each Assignment Releasing Party understands and acknowledges the significance and consequences of the release
+set forth in this Section 9 and hereby assumes full responsibility for any injuries, damages or losses that it may incur. 
+
+ 
+
+d)
+
+Each Assignment Releasing Party understands, acknowledges and agrees that the release set forth above
+may be pleaded as a full and complete defense to any Assignment Claim and may be used as a basis for an injunction against any action,
+suit or other proceeding which may be instituted, prosecuted or attempted in breach of the provisions of such release.
+
+ 
+
+e)
+
+Each Assignment Releasing Party agrees that no fact, event, circumstance, evidence or transaction
+which could now be asserted, or which may hereafter be discovered will affect in any manner the final, absolute and unconditional nature
+of the release set forth above.
+
+ 
+
+f)
+
+Covenant Not to Sue
+. Each Assignment Releasing Party hereby absolutely, unconditionally and
+irrevocably covenants and agrees with and in favor of each Assignment Releasee that it will not sue (at law, in equity, in any regulatory
+proceeding or otherwise) any Assignment Releasee on the basis of any Assignment Claim (other than Assignment Excluded Claims) released,
+remised and discharged by any Assignment Releasing Party pursuant to Section 9 of this Agreement. If any Assignment Releasing Party violates
+the foregoing covenant, such Assignment Releasing Party, agrees to pay, in addition to such other damages as any Assignment Releasee may
+sustain as a result of such violation, all reasonable and documented attorneys’ fees and costs incurred by any Assignment Releasee
+as a result of such violation.
+
+ 
+
+10.
+
+Governing
+Law: Submissions to Jurisdiction
+. THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF NEW YORK, WITHOUT
+REGARD TO CONFLICT OF LAW PRINCIPLES. EACH PARTY AGREES THAT ANY ACTION OR PROCEEDING ARISING OUT OF OR RELATING IN ANY WAY TO THIS AGREEMENT
+SHALL BE BROUGHT IN A COURT OF COMPETENT JURISDICTION SITTING IN THE STATE OR FEDERAL COURTS OF NEW YORK, EACH PARTY HEREBY IRREVOCABLY
+WAIVES ANY RIGHT IT MAY HAVE, AND AGREES NOT TO REQUEST, A JURY TRIAL FOR THE ADJUDICATION OF ANY DISPUTE HEREUNDER OR IN CONNECTION WITH
+OR ARISING OUT OF THIS AGREEMENT OR ANY TRANSACTION CONTEMPLATED HEREBY. 
+
+ 
+
+ 
+
+5
+ 
+
+ 
+
+ 
+
+ 
+
+11.
+
+Amendments
+.
+No provision hereof may be waived or modified other than by an instrument in writing signed by the party against whom enforcement is sought.
+
+ 
+
+12.
+ 
+
+Severability
+.
+If any provision of this Agreement shall be invalid or unenforceable in any jurisdiction, such invalidity or unenforceability shall not
+affect the validity or enforceability of the remainder of this Agreement in that jurisdiction or the validity or enforceability of any
+provision of this Agreement in any other jurisdiction.
+
+ 
+
+13.
+ 
+
+Counterparts
+.
+This Agreement may be executed and delivered via facsimile or other electronic transmission (including .pdf format) with the same force
+and effect as if an original were executed and may be executed in any number of counterparts, but all of such counterparts will together
+constitute but one and the same agreement. No party hereto or to any such other Loan Document shall raise the use of a facsimile machine
+or other electronic transmission to deliver a signature or the fact that any signature or agreement or amendment was transmitted or communicated
+through the use of a facsimile machine or other electronic transmission as a defense to the formation or enforceability of a contract
+and each such party forever waives any such defense.
+
+ 
+
+ 
+
+ 
+
+ 
+
+6
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, each of the undersigned has executed this 
+Agreement 
+as of the date first
+written above.
+
+BORROWER
+:
+
+ 
+
+ 
+
+ 
+
+ 
+
+MICROMOBILITY.COM INC
+.
+
+ 
+ 
+
+ 
+ 
+
+ 
+By: 
+/s/ Salvatore Palella
+
+ 
+Name: Salvatore Palella
+
+ 
+Title: CEO/Founder
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LENDERS:
+
+ 
+
+ 
+
+ 
+
+ 
+SECURIS INVESTMENT PARTNERS LLP IN ITS CAPACITY AS INVESTMENT MANAGER FOR
+ AND ON BEHALF OF SECURIS II FUND – SPC,
+
+ 
+for and on behalf of
+
+ 
+SEGREGATED PORTFOLIO ELEVEN 1
+ST
+ – ILS,
+
+ 
+as a Lender
+
+ 
+ 
+
+ 
+ 
+
+ 
+By: 
+
+/s/ Herbie Lloyd
+
+_____________________
+
+ 
+Name: 
+Herbi
+e 
+Lloyd
+_____________________
+
+ 
+Title: 
+CIO
+___________________________
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+SECURIS INVESTMENT PARTNERS LLP IN ITS CAPACITY AS INVESTMENT MANAGER FOR
+ AND ON BEHALF OF SECURIS II FUND – SPC,
+
+ 
+for and on behalf of
+
+ 
+SEGREGATED PORTFOLIO EIGHT –
+
+ 
+NON-LIFE AND LIFE,
+
+ 
+as a Lender
+
+ 
+ 
+
+ 
+ 
+
+ 
+By: 
+
+/s/ Herbie Lloyd
+
+_____________________
+
+ 
+Name: 
+Herbi
+e 
+Lloyd
+_____________________
+
+ 
+Title: 
+CIO
+___________________________
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+SECURIS INVESTMENT PARTNERS LLP IN ITS CAPACITY AS INVESTMENT MANAGER FOR
+ AND ON BEHALF OF SECURIS II FUND – SPC,
+
+ 
+for and on behalf of
+
+ 
+SEGREGATED PORTFOLIO SIX – TCCC,
+
+ 
+as a Lender
+
+ 
+ 
+
+ 
+ 
+
+ 
+By: 
+
+/s/ Herbie Lloyd
+
+_____________________
+
+ 
+Name: 
+Herbi
+e 
+Lloyd
+_____________________
+
+ 
+Title: 
+CIO
+___________________________
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+SECURIS INVESTMENT PARTNERS LLP IN ITS CAPACITY AS INVESTMENT MANAGER FOR
+ AND ON BEHALF OF SECURIS I MASTER FUND,
+
+ 
+as a Lender
+
+ 
+ 
+
+ 
+ 
+
+ 
+By: 
+
+/s/ Herbie Lloyd
+
+_____________________
+
+ 
+Name: 
+Herbi
+e 
+Lloyd
+_____________________
+
+ 
+Title: 
+CIO
+___________________________
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ADMINISTRATIVE AGENT
+:
+
+ 
+
+ 
+
+ 
+
+ 
+SECURIS INVESTMENT PARTNERS LLP
+
+ 
+ 
+
+ 
+ 
+
+ 
+By: 
+
+/s/ Johnathan Ford
+
+___________________
+
+ 
+Name: 
+Johnathan Ford
+ ___________________
+
+ 
+Title: 
+General Counsel
+____________________
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ASSIGNEE
+:
+
+ 
+
+ 
+
+ 
+
+ 
+YA II PN, LTD.
+
+ 
+By: Yorkville Advisors Global, LP
+
+ 
+Its: Investment Manager
+
+ 
+ 
+
+ 
+
+By:
+Yorkville Advisors Global II, LLC
+
+ 
+
+Its:
+General Partner
+
+ 
+ 
+
+ 
+By: _
+
+/s/ Matthew Beckman
+
+________________
+
+ 
+Name: _
+Matthew Beckman
+_______________
+
+ 
+Title: 
+Member
+________________________
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SCHEDULE A
+
+[attached]

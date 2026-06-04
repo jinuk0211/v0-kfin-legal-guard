@@ -1,0 +1,3964 @@
+EX-10.1
+
+2
+
+ex10-1.htm
+
+ 
+
+ 
+
+Exhibit
+10.1
+
+ 
+
+CONVERTIBLE
+Security Investment AGREEMENT
+
+ 
+
+THIS
+CONVERTIBLE SECURITY INVESTMENT AGREEMENT (this “
+Agreement
+”) is made as of the 16th day of January, 2024 (the “
+Effective
+Date
+”), by and among AST SpaceMobile, Inc., a Delaware corporation (the “
+Company
+”), and the individuals
+and/or entities who become party hereto from time to time upon execution of a counterpart signature page (the “
+Purchaser Signature
+Page
+”) in substantially the form attached hereto as 
+Exhibit A
+ (each a “
+Purchaser
+” and collectively,
+the “
+Purchasers
+”).
+
+ 
+
+WHEREAS,
+at the Closing (as defined below), the Company desires to issue and sell to one or more Purchasers convertible notes, each in substantially
+the form attached hereto as 
+Exhibit B
+ (each a “
+Note
+” and together with any other Note issued pursuant to this
+Agreement, and with any exchange or replacement thereof, the “
+Notes
+”), with each Note convertible, in accordance with
+its terms, into shares of the Company’s Class A Common Stock; and
+
+ 
+
+WHEREAS,
+in connection with the issuance and sale of the Notes, the Company and the Purchasers intend to enter into the Registration Rights Agreement
+(as defined below), pursuant to which the Company will agree to provide certain registration rights in respect of the shares of Class
+A Common Stock issuable upon conversion of the Notes.
+
+ 
+
+NOW,
+THEREFORE, in consideration of the premises and the mutual covenants and agreements herein contained, the parties hereby agree as follows:
+
+ 
+
+Article
+I
+
+PURCHASE,
+SALE AND TERMS OF NOTES
+
+ 
+
+1.
+
+Sale and Issuance of the Notes; Schedule of Purchasers
+. Subject to the terms and conditions of this Agreement, at each Closing
+(as defined below), the Company agrees to issue and sell to each of the Purchasers, and, subject to and in reliance upon the representations,
+warranties, covenants, terms and conditions of this Agreement, each of the Purchasers, severally and not jointly, agrees to purchase,
+a Note in the principal amount set forth on the Purchaser Signature Page for such Purchaser for such Closing. The Company shall maintain
+and update the 
+Schedule of Purchasers
+ attached hereto as 
+Exhibit C
+ to include the names, addresses and initial principal
+amounts of the Notes purchased by the Purchasers at each Closing.
+
+ 
+
+2.
+
+Closing; Delivery
+. The purchase and sale of the Notes shall take place remotely via the exchange of documents on January 22, 2024
+or at such other time as the Company and the Purchasers purchasing the Notes at Closing shall agree (the “
+Initial Closing
+”
+and in the event there is more than one closing, the term “
+Closing
+” shall apply to each such closing unless otherwise
+specified). At each Closing, the Company shall issue and deliver to each Purchaser purchasing a Note at such Closing such Purchaser’s
+Note, and such Purchaser shall pay the Company the purchase price for such Purchaser’s Note equal to the principal amount set forth
+on the Purchaser Signature Page for such Purchaser by wire transfer of immediately available funds in accordance with the instructions
+of the Company. The Initial Closing will be contingent upon the simultaneous closing and funding of an aggregate amount of $110,000,000
+of the Subordinated Obligations. Nothing herein shall prohibit the Company from issuing additional Notes following the Initial Closing,
+and in connection therewith, the Company shall update the Schedule of Purchasers attached hereto as 
+Exhibit C
+. At each Closing,
+the Company and each Purchaser purchasing a Note as such Closing shall deliver a duly executed counterpart of the Registration Rights
+Agreement.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.
+
+No Usury
+. This Agreement and the Notes issued pursuant to the terms of this Agreement are hereby expressly limited so that in
+no event whatsoever, whether by reason of deferment or advancement of loan proceeds, acceleration of maturity of the loan evidenced hereby,
+or otherwise, shall the amount paid or agreed to be paid to the Purchasers hereunder for the loan, use, forbearance or detention of money
+exceed the maximum interest rate permitted by the laws of Delaware. If at any time the performance of any provision hereof or the Notes
+involves a payment exceeding the limit of the price that may be validly charged for the loan, use, forbearance or detention of money
+under applicable Law, then automatically and retroactively, 
+ipso facto
+, the agreed upon interest rate as set forth in the Notes
+shall be reduced to such limit, it being the specific intent of the Company and the Purchasers that all payments under this Agreement
+or the Notes are to be credited first to interest as permitted by law, but not in excess of (a) the agreed rate of interest set forth
+in the Notes, or (b) that permitted by law, whichever is the lesser, and the balance toward the reduction of principal. The provisions
+of this paragraph shall never be superseded or waived and shall control every other provision of this Agreement and the Notes.
+
+ 
+
+4.
+
+Use of Proceeds
+. In accordance with the directions of the Company’s board of directors, the Company will use the proceeds
+from the sale of the Notes for working capital and other general corporate purposes. The Company and its subsidiaries will not, directly
+or indirectly, (i) use any part of the proceeds from the sale of the Notes, or lend, contribute or otherwise make available such proceeds
+to any subsidiary or joint venture partner or, knowingly to any other Person (as defined below), to fund or facilitate any dealings or
+transactions with, involving or for the benefit of any Sanctioned Person (as defined below), a Person located in a Sanctioned Country
+(as defined below), or otherwise in any manner that would constitute or give rise to a violation of any Sanctions (as defined below)
+or Export Controls Laws (as defined below) by any Person or (ii) use any part of the proceeds from the sale of the Notes, or lend, contribute
+or otherwise make available such proceeds to any subsidiary or joint venture partner or, knowingly to any other Person, to repay any
+existing indebtedness of the Company.
+
+ 
+
+5.
+
+Defined Terms
+. In addition to any additional term defined above or below this 
+ARTICLE I, Section 5
+, the following terms
+used in this Agreement shall be construed to have the meanings set forth or referenced below.
+
+ 
+
+“
+Affiliate
+”
+means, with respect to any specified Person, any other Person who or which, directly or indirectly, controls, or is controlled by, or
+is under common control with such specified Person. For purposes of this definition, “control,” “controlled by”
+and “under common control with” means the possession, directly or indirectly, of the power to direct or cause the direction
+of the management and policies of a Person, whether through the ownership of voting securities, by contract or otherwise.
+
+ 
+
+“
+Atlas
+Credit Facility
+” means the senior secured term loan credit agreement by and among the Company, AST & Science, LLC, ACP
+Post Oak Credit II LLC and the lenders party thereto, dated as of August 14, 2023.
+
+ 
+
+ 
+
+-
+2
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Business
+Day
+” means any day other than a Saturday, a Sunday or a day on which the Federal Reserve Bank of New York is authorized or
+required by law or executive order to close or be closed.
+
+ 
+
+“
+Class
+A Common Stock
+” means shares of the Company’s Class A common stock, par value $0.0001 per share.
+
+ 
+
+“
+Class
+B Common Stock
+” means shares of the Company’s Class B common stock, par value $0.0001 per share.
+
+ 
+
+“
+Class
+C Common Stock
+” means shares of the Company’s Class C common stock, par value $0.0001 per share.
+
+ 
+
+“
+Code
+”
+means the Internal Revenue Code of 1986, as amended.
+
+ 
+
+“
+Common
+Stock
+” refers collectively to the Company’s Class A Common Stock, Class B Common Stock and Class C Common Stock.
+
+ 
+
+“
+ERISA
+”
+means the Employee Retirement Income Security Act of 1974, as amended.
+
+ 
+
+“
+Event
+of Default
+” means:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a)
+
+ 
+
+default
+ in any payment of interest on any Note for three (3) Business Days after such interest is due;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+b)
+
+ 
+
+default
+ in the payment of principal of any Note when due and payable on the Maturity Date (as defined in the Note), upon declaration of acceleration
+ or otherwise;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+c)
+
+ 
+
+failure
+ of the Company to comply with its obligation to convert the Notes in accordance with this Agreement or any Note upon exercise of
+ a Holder’s conversion right;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+d)
+
+ 
+
+failure
+ by the Company to perform, or breach by the Company of any other covenant, agreement or condition (except for any failure by the
+ Company to perform, or breach by the Company of 
+
+Article
+
+ II, Section 8
+
+ or 
+
+Article
+
+ IV, Section 1
+), and such failure or breach continues for
+ thirty (30) days after the earlier of (i) notice to the Company or (ii) the Company becoming aware of such failure or breach;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+e)
+
+ 
+
+failure
+ of the Company to issue a Fundamental Change Notice when required to do so pursuant to 
+Section 2.4
+ of the Note;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+f)
+
+ 
+
+the
+ Company shall commence a voluntary case or other proceeding seeking liquidation, reorganization or other relief with respect to the
+ Company or its debts under any bankruptcy, insolvency or other similar law now or hereafter in effect or seeking the appointment
+ of a trustee, receiver, liquidator, custodian or other similar official of the Company or any substantial part of its property, or
+ shall consent to any such relief or to the appointment of or taking possession by any such official in an involuntary case or other
+ proceeding commenced against it, or shall make a general assignment for the benefit of creditors, or shall fail generally to pay
+ its debts as they become due; or
+
+ 
+
+ 
+
+-
+3
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+g)
+
+ 
+
+an
+ involuntary case or other proceeding shall be commenced against the Company seeking liquidation, reorganization or other relief with
+ respect to the Company or its debts under any bankruptcy, insolvency or other similar law now or hereafter in effect or seeking the
+ appointment of a trustee, receiver, liquidator, custodian or other similar official of the Company or any substantial part of its
+ property, and such involuntary case or other proceeding shall remain undismissed and unstayed for a period of sixty (60) consecutive
+ days.
+
+ 
+
+ 
+
+“
+Fundamental
+Change
+” shall be deemed to have occurred at the time after the Notes are originally issued if any of the following occurs prior
+to the Maturity Date or earlier conversion:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a)
+
+ 
+
+a
+ “person” or “group” within the meaning of Section 13(d) of the Exchange Act (as defined below) other than
+ the Company or other than Abel Avellan and his Permitted Transferees (as defined in the Company’s Amended and Restated Stockholders
+ Agreement), files a Schedule TO (or any successor schedule, form or report) or any schedule, form or report under the Exchange Act
+ disclosing that such person or group has become the direct or indirect “beneficial owner,” as defined in Rule 13d-3 under
+ the Exchange Act, of the Common Stock (or such common equity into which the Common Stock has been reclassified) representing more
+ than 50% of the voting power of the Common Stock (or such common equity into which the Common Stock has been reclassified) provided
+ that no person or group shall be deemed to be the beneficial owner of any securities tendered pursuant to a tender or exchange offer
+ made by or on behalf of such “person” or “group” until such tendered securities are accepted for purchase
+ or exchange under such offer;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+b)
+
+ 
+
+the
+ consummation of (i) any share exchange, consolidation or merger of the Company pursuant to which all of the Common Stock will be
+ converted into cash, securities of another entity or other property or assets, unless (A) the stockholders of the Company immediately
+ prior to such transaction hold a majority of the voting securities of such entity following such share exchange, consolidation or
+ merger or (B) a majority of the board of directors of the resulting entity were either directors of the Company prior to such share
+ exchange, consolidation or merger, were nominated for election or elected to such board of directors with the affirmative vote of
+ a majority of the members of the board of directors of the Company or were nominated for election or elected by the stockholders
+ entitled to nominate or designate directors pursuant to the Company’s Stockholders Agreement; or (ii) any sale, lease or other
+ transfer in one transaction or a series of transactions of all or substantially all of the consolidated assets of the Company and
+ its subsidiaries, taken as a whole, to any Person; or
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+c)
+
+ 
+
+the
+ stockholders of the Company approve any plan or proposal for the liquidation or dissolution of the Company.
+
+ 
+
+ 
+
+ 
+
+-
+4
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Fundamental
+Change Notice
+” means a written notice from the Company to all Holders, specifying:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a)
+
+ 
+
+the
+ events causing the Fundamental Change;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+b)
+
+ 
+
+the
+ effective date of the Fundamental Change; and
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+c)
+
+ 
+
+the
+ last date on which a Holder may exercise its conversion right prior to such Fundamental Change in accordance with 
+Section 4.1
+ 
+of its Note, as applicable.
+
+ 
+
+ 
+
+“
+GAAP
+”
+means U.S. generally accepted accounting principles.
+
+ 
+
+“
+Governmental
+Approvals
+” means all authorizations, consents, orders, approvals, filings and declarations, and all expirations of waiting
+periods required from, any Governmental Authority required for the consummation of the Transactions shall have been filed, occurred or
+been obtained, including under the HSR Act.
+
+ 
+
+“
+Governmental
+Authority
+” means the government of the United States, any other nation, or any political subdivision thereof, whether state,
+provincial or local, and any agency, authority, instrumentality, regulatory body, court, central bank or other entity exercising executive,
+legislative, judicial, taxing, regulatory or administrative powers or functions of or pertaining to government (including any supra-national
+bodies such as the European Union or the European Central Bank).
+
+ 
+
+“
+HSR
+Act
+” means the Hart-Scott-Rodino Antitrust Improvement Act of 1976.
+
+ 
+
+“
+Holder
+”
+means the original Purchaser and any permitted assigns thereof.
+
+ 
+
+“
+Investment
+Company
+” means a Person that is primarily engaged in the business of investing in securities and/or making loans or investments,
+including (i) an “investment company” within the meaning of the Investment Company Act of 1940, as amended or similar non-U.S.
+laws, and (ii) for the avoidance of doubt, any bank, pension fund, sovereign wealth fund, family office, venture fund, credit fund, mezzanine
+debt provider, export/import bank or governmental agency or quasi-governmental agency funding vehicle.
+
+ 
+
+“
+Law
+”
+means any federal, state, local, foreign, national, international or supranational statute, law (including common law), act, statute,
+ordinance, treaty, rule, code, regulation, standard, determination, order, writ, injunction, decree, arbitration award, authorization,
+license, permit or other binding directive or guidance of a Governmental Authority.
+
+ 
+
+ 
+
+-
+5
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Lone
+Star Facility
+” means the loan agreement by and among the AST & Science, LLC, AST & Science Texas LLC, AST SpaceMobile
+Manufacturing, LLC and Lone Star State Bank of West Texas, dated as of August 14, 2023.
+
+ 
+
+“
+Material
+Adverse Effect
+” means any material adverse effect on (i) the business, properties, assets, liabilities, operations or financial
+condition of the Company or its subsidiaries, taken as a whole, (ii) the ability of the Company to consummate the Transactions or in
+any other documents, agreements or instruments entered into in connection with the Transactions or (iii) the authority or ability of
+the Company or any of its subsidiaries to perform any of their respective obligations under the Transactions; provided that, none of
+the following, in and of itself or themselves, shall constitute a Material Adverse Effect:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a)
+
+ 
+
+changes
+ generally affecting the economy or financial markets in the United States or other countries in which the Company or its subsidiaries
+ conduct material operations or changes that are the result of acts of war or terrorism;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+b)
+
+ 
+
+changes
+ that are the result of factors generally affecting the industries in which the Company or its subsidiaries operate;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+c)
+
+ 
+
+any
+ loss of, or adverse change in, the relationship of the Company or its subsidiaries with its customers, employees or suppliers proximately
+ caused by the pendency or the announcement of the transactions contemplated by this Agreement;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+d)
+
+ 
+
+changes
+ in United States generally accepted accounting principles or in any statute, rule or regulation unrelated to the Transaction and
+ of general applicability after the date of this Agreement;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+e)
+
+ 
+
+any
+ failure by the Company to meet any estimates of revenues or earnings for any period ending on or after the date of this Agreement
+ and prior to the Closing; and
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+f)
+
+ 
+
+a
+ decline in the price of the Common Stock;
+
+ 
+
+ 
+
+provided
+,
+that the exceptions in clauses (e) and (f) shall not prevent or otherwise affect a determination that any change, effect, circumstance
+or development underlying such decline has resulted in, or contributed to, a Material Adverse Effect; 
+provided
+, 
+further
+,
+that, with respect to clauses (a), (b) and (d), such change, event, circumstance or development may be taken into account in determining
+whether there has been, or would reasonably be expected to be, a Material Adverse Effect if such change, event, circumstance or development
+has a disproportionate adverse effect on the business, results of operations, assets or financial condition of the Company and its subsidiaries
+as compared to other companies of similar size operating in the industries in which the Company and its subsidiaries operate.
+
+ 
+
+“
+Nasdaq
+”
+means the Nasdaq Stock Market LLC.
+
+ 
+
+ 
+
+-
+6
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+Person
+”
+means an individual or legal entity, including but not limited to a corporation, a limited liability company, a partnership, a joint
+venture, a trust, an unincorporated organization and a government or any department or agency thereof.
+
+ 
+
+“
+Preferred
+Stock
+” means shares of the Company’s preferred stock, par value $0.0001 per share.
+
+ 
+
+“
+Qualified
+Convertible Security
+” refers to any security exchangeable for, redeemable for or convertible into Class A Common Stock; provided,
+however, that, none of the following shall constitute a Qualified Convertible Security:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a)
+
+ 
+
+any
+ security issued pursuant to an agreement executed at least 12 or 24 months (as applicable) after the Initial Closing;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+b)
+
+ 
+
+restricted
+ share or restricted share units, or options to employees, officers or directors of the Company pursuant to any share or option plan
+ duly adopted for such purpose;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+c)
+
+ 
+
+any
+ security initially issued in a primary offering registered under the Securities Act, provided that no such security was directly
+ offered in such primary offering to a Strategic Partner or any warrants issued to a commercial party pursuant to a commercial agreement
+ with an exercise price no less than $5.75 (as proportionately increased or decreased as necessary to reflect the proportionate change
+ in the shares of Class A Common Stock as a result of any stock dividends, stock splits, recapitalizations, combinations, consolidations
+ or the like);
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+d)
+
+ 
+
+any
+ security sold only to purchasers that are either an Investment Company or Covered Company (as defined in 17 C.F.R. Part 270.3c-5);
+ provided, however, that:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+i.
+
+ 
+
+no
+ such purchaser is a Strategic Partner or an Affiliate of a Strategic Partner;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ii.
+
+ 
+
+no
+ such purchaser beneficially owns in excess of 10% of a Strategic Partner; and
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+iii.
+
+ 
+
+no
+ such purchaser is purchasing such security with a view of distribution to a Strategic Partner or any Person that beneficially owns
+ in excess of 10% of a Strategic Partner.
+
+ 
+
+ 
+
+“
+Registration
+Rights Agreement
+” means that certain Investor and Registration Rights Agreement, to be dated as of the date of the Initial
+Closing, with respect to the registration of the Class A Common Stock issuable upon conversion of the Note and certain other related
+matters.
+
+ 
+
+ 
+
+-
+7
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+SEC
+”
+means the U.S. Securities and Exchange Commission.
+
+ 
+
+“
+Securities
+Act
+” means the Securities Act of 1933, as amended.
+
+ 
+
+“
+Strategic
+Partner
+” means a Person primarily in the business of telecommunications or fiberoptics.
+
+ 
+
+“
+Subordinated
+Obligations
+” means all Notes issued hereunder and any additional Notes issued by the Company following the Initial Closing.
+
+ 
+
+“
+Trading
+Day
+” means, with respect to the Class A Common Stock, each Monday, Tuesday, Wednesday, Thursday and Friday, other than any
+day on which securities are not generally traded on Nasdaq (or its successor) or such other principal securities exchange or inter-dealer
+quotation system on which the Class A Common Stock are then traded.
+
+ 
+
+“
+Transactions
+”
+means collectively, the execution, delivery and performance by the Company of this Agreement, the Registration Rights Agreement and the
+Notes on each Closing.
+
+ 
+
+“
+VWAP
+”
+means the per share volume-weighted average sale price of the Class A Common Stock on Nasdaq (or other national securities exchange on
+which the Class A Common Stock are then listed), as reported by, or based upon data reported by, Bloomberg Financial Markets or an equivalent,
+reliable reporting service as determined by the Company.
+
+ 
+
+Article
+II
+
+REPRESENTATIONS,
+WARRANTIES and covenants OF THE COMPANY
+
+ 
+
+The
+Company represents and warrants to each Purchaser that the representations and warranties are true and correct as of the date hereof
+and, with respect to each Purchaser purchasing a Note at a Closing, as of such Closing, except as otherwise indicated:
+
+ 
+
+1.
+
+Organization, Good Standing, Corporate Power and Qualification
+. The Company is a corporation duly organized, validly existing
+and in good standing under the laws of the State of Delaware and has all requisite corporate power and authority to carry on its business
+as presently conducted and to carry out the transactions contemplated by this Agreement. The Company is duly qualified to transact business
+and is in good standing in each jurisdiction in which the failure to so qualify would have a Material Adverse Effect, and its subsidiaries,
+taken as a whole, it being noted that on February 16, 2023 a petition to the Delaware Court of Chancery for relief pursuant to Section
+205 of the Delaware General Corporate Law was filed, which petition was granted by the Court of Chancery on March 14, 2023. Each of the
+Company’s significant subsidiaries is duly organized, validly existing and in good standing (where such concept is recognized under
+applicable Laws) under the laws of the jurisdiction of its organization, except where the failure to be so organized, existing and in
+good standing would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect. Each of the Company’s
+significant subsidiaries is duly licensed or qualified to do business and is in good standing (where such concept is recognized under
+applicable Law) in each jurisdiction in which the nature of the business conducted by it or the character or location of the properties
+and assets owned or leased by it makes such licensing or qualification necessary, except where the failure to be so licensed, qualified
+or in good standing would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect.
+
+ 
+
+ 
+
+-
+8
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.
+
+Capitalization
+.
+
+ 
+
+(a)
+
+Authorized Stock
+. As of December 31, 2023, the authorized capital stock of the Company consisted of: 1,225,000,000 shares, consisting
+of (i) 800,000,000 shares of Class A Common Stock, of which 90,161,309 shares are issued and outstanding, (ii) 200,000,000 shares of
+Class B Common Stock, of which 50,041,757 shares are issued and outstanding, (iii) 125,000,000 shares of Class C Common Stock, of which
+78,163,078 shares are issued and outstanding and (iv) 100,000,000 shares of Preferred Stock, of which no shares are issued and outstanding.
+The rights, privileges and preferences of the Preferred Stock are as stated in the Second Amended and Restated Certificate of Incorporation
+of the Company (the “
+Certificate of Incorporation
+”).
+
+ 
+
+(b)
+The outstanding shares of Common Stock and Preferred Stock are all duly and validly authorized and issued, fully paid and nonassessable,
+and were issued in accordance with the registration or qualification provisions of the Securities Act, and any relevant state securities
+laws, or pursuant to valid exemptions therefrom, it being noted that on February 16, 2023 a petition to the Delaware Court of Chancery
+for relief pursuant to Section 205 of the Delaware General Corporate Law was filed, which petition was granted by the Court of Chancery
+on March 14, 2023.
+
+ 
+
+3.
+
+Valid Issuance
+. The Notes have been duly authorized by all necessary corporate action of the Company. When issued and sold against
+receipt of the consideration therefor, the Notes will be valid and legally binding obligations of the Company, enforceable in accordance
+with their terms, subject to the limitation of such enforcement by the Enforceability Exceptions (as defined below). The Company has
+available for issuance the maximum number of shares of the Company’s Class A Common Stock initially issuable upon conversion of
+the Notes if such conversion were to occur immediately following the Closing. The Class A Common Stock to be issued upon conversion of
+the Notes in accordance with the terms of the Notes has been duly authorized, and when issued upon conversion of the Notes in accordance
+with the terms hereof, all such Class A Common Stock will be validly issued, fully paid and nonassessable and free of pre-emptive or
+similar rights.
+
+ 
+
+4.
+
+Authorization of the Notes and Related Agreements; No Conflicts
+. All corporate action required to be taken by the board of directors,
+officers, and stockholders of the Company for the authorization, execution and delivery of this Agreement, the Notes and the Registration
+Rights Agreement, the performance of all obligations of the Company under this Agreement to be performed as of the Closing, and the issuance
+and delivery of the Notes has been taken or will be taken prior to the Closing. This Agreement and each of the Notes, when executed and
+delivered by the Company, shall constitute valid and legally binding obligations of the Company, enforceable against the Company in accordance
+with their respective terms except (i) as limited by applicable bankruptcy, insolvency, reorganization, moratorium, fraudulent conveyance,
+or other laws of general application relating to or affecting the enforcement of creditors’ rights generally or (ii) as limited
+by laws relating to the availability of specific performance, injunctive relief, or other equitable remedies (the “
+Enforceability
+Exceptions
+”). The execution and delivery by the Company of this Agreement and the performance by the Company of its obligations
+hereunder and the issuance, sale and delivery of the Notes, and the performance of its obligations thereunder, (a) will not violate any
+provision of law or any order of any court or other agency of government, the result of any of which would have a Material Adverse Effect,
+(b) will not violate the Certificate of Incorporation or the Bylaws of the Company, and (c) will not (i) result in violation of any provision
+of any contract, indenture, agreement or other instrument to which the Company or any of its properties or assets is bound or conflict
+with, (ii) result in a material breach of or constitute (with due notice or lapse of time or both) a default under any such contract,
+indenture, agreement or other instrument, or (iii) result in the creation or imposition of any lien, charge, restriction or encumbrance
+upon any of the properties or assets of the Company, in each case that would be material to the Company. The Company has obtained any
+consents, and has taken all actions, required under the Atlas Credit Facility and Lone Star Facility in connection with the execution,
+delivery and performance of this Agreement by the Company, including the issuance of the Notes and the Class A Common Stock issuable
+upon conversion of the Notes .
+
+ 
+
+ 
+
+-
+9
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.
+
+Authorization of the Class A Common Stock Issuable Upon Conversion
+. All corporate action required to be taken by the board of
+directors, officers, and stockholders of the Company for the issuance of the Class A Common Stock issuable upon conversion of the Notes
+has been taken or will be taken prior to any conversion of the Notes into Class A Common Stock.
+
+ 
+
+6.
+
+Governmental Approvals for Issuance of Notes
+. Subject to the accuracy of the representations and warranties of the Purchasers
+set forth in 
+ARTICLE III
+, no registration or filing with, or consent or approval of or other action by, any U.S. federal or state
+governmental agency or instrumentality is or will be necessary for the valid execution, delivery and performance by the Company of this
+Agreement or the issuance, sale and delivery of the Notes as contemplated by this Agreement, except for filings with Nasdaq and pursuant
+to applicable U.S. federal or state securities laws, all of which have been or will be made by the Company in a timely manner; provided,
+that this 
+ARTICLE II, Section 6
+ does not apply to the issuance of Class A Common Stock upon conversion of the Notes.
+
+ 
+
+7.
+
+General Solicitation; No Integration
+. Other than with respect to the Purchasers, neither the Company nor any other Person or entity
+authorized by the Company to act on its behalf has engaged in any form of general solicitation or general advertising (within the meaning
+of Regulation D of the Securities Act) of investors with respect to offers or sales of the Notes. The Company has not, directly or indirectly,
+sold, offered for sale, solicited offers to buy or otherwise negotiated in respect of, any security (as defined in the Securities Act)
+which, to its knowledge, is or will be integrated with the Notes sold pursuant to this Agreement.
+
+ 
+
+8.
+
+SEC Reports; Financial Statements; Liabilities; Disclosure Controls
+.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a)
+
+ 
+
+As
+ of their respective dates, all reports and other documents required to be filed by the Company with the SEC since January 1, 2023
+ (collectively, the “
+SEC Reports
+”) complied in all material respects with the requirements of the Securities Exchange
+ Act of 1934, as amended (the “
+Exchange Act
+”), and the rules and regulations of the SEC promulgated thereunder,
+ and none of the SEC Reports, when filed, contained any untrue statement of a material fact or omitted to state a material fact required
+ to be stated therein or necessary in order to make the statements therein, in the light of the circumstances under which they were
+ made, not misleading.
+
+ 
+
+ 
+
+-
+10
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+
+ 
+
+The
+ financial statements of the Company (including all related notes or schedules) included in the SEC Reports comply in all material
+ respects with applicable accounting requirements and the rules and regulations of the SEC with respect thereto as in effect at the
+ time of filing and fairly present in all material respects the financial position of the Company as of and for the dates thereof
+ and the results of operations and cash flows as at the respective dates thereof and for the respective periods indicated, subject,
+ in the case of unaudited statements, to normal, year-end audit adjustments. A copy of each SEC Report is available to the Purchaser
+ via the SEC’s EDGAR system. There are no outstanding or unresolved comments in comment letters received by the Company from
+ the staff of the Division of Corporation Finance of the SEC with respect to any of the SEC Reports.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c)
+
+ 
+
+Neither
+ the Company nor any of its subsidiaries has any liabilities of any nature (whether accrued, absolute, asserted or unasserted, known
+ or unknown, contingent or otherwise) that would be required under GAAP, as in effect on the date hereof, to be reflected on a consolidated
+ balance sheet of the Company (including the notes thereto) except liabilities (i) specifically reflected or reserved against in the
+ balance sheet (or the notes thereto) of the Company and its subsidiaries as of the date of the Company’s most recent financial
+ statements contained in the Company’s most recently filed, prior to the date hereof, Annual Report on Form 10-K or Quarterly
+ Report on Form 10-Q (the “
+Balance Sheet Date
+”) included in the SEC Reports, (ii) incurred after the Balance Sheet
+ Date in the ordinary course of business, (iii) as expressly contemplated by this Agreement or otherwise incurred in connection with
+ the transactions contemplated by this Agreement, (iv) that have been discharged or paid prior to the date of this Agreement or (v)
+ as would not, individually or in the aggregate, reasonably be expected to be material to the Company or its subsidiaries. Neither
+ the Company nor any of its subsidiaries is a party to, or has any commitment to become a party to, any material “off-balance
+ sheet arrangement” within the meaning of Item 303 of Regulation S-K promulgated under the Securities Act.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(d)
+
+ 
+
+The
+ Company has established and maintains disclosure controls and procedures and internal controls over financial reporting (as such
+ terms are defined in paragraphs (e) and (f), respectively, of Rule 13a-15 under the Exchange Act) as required by Rules 13a-15 and
+ 15d-15 of the Exchange Act. Such disclosure controls and procedures are designed and effective to ensure that material information
+ required to be disclosed in the Company’s periodic reports filed or submitted under the Exchange Act is recorded and reported
+ on a timely basis to the individuals responsible for the preparation of the Company’s filings with the SEC and other public
+ disclosure documents. The Company is in compliance in all material respects with the applicable provisions of the Sarbanes-Oxley
+ Act of 2002. The Company has not identified (i) any material weakness or significant deficiency in the design or operation of internal
+ control over financial reporting which is reasonably likely to adversely affect the Company’s ability to record, process, summarize
+ and report financial information or (ii) any fraud or allegation of fraud, whether or not material, which involves management or
+ other employees who have a significant role in the Company’s internal control over financial reporting.
+
+ 
+
+ 
+
+ 
+
+-
+11
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+9.
+
+Compliance with Laws; Permits
+. The Company and each of its subsidiaries are, and its and their business and operations are, and
+since January 1, 2023 have been, in compliance with all Laws and judgments, applicable to the Company or any of its subsidiaries, except
+as would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect. The Company and each of its
+subsidiaries hold and maintain all licenses, registrations, franchises, permits, certificates, approvals and authorizations from Governmental
+Authorities necessary for the lawful conduct of their respective businesses as currently conducted, except where the failure to hold
+or maintain the same would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect.
+
+ 
+
+10.
+
+No Violations or Defaults
+. None of the Company or any of its subsidiaries are (i) in violation of its articles of incorporation
+or by-laws (or similar organizational documents) or (ii) in default in the performance or observance of any material obligation, agreement,
+covenant or condition contained in any indenture, mortgage, deed of trust, loan agreement, lease or other agreement or instrument to
+which it is a party or by which it or any of its properties may be bound, except where such violation or default would not, individually
+or in the aggregate, reasonably be expected to have a Material Adverse Effect.
+
+ 
+
+11.
+
+Absence of Certain Changes
+. Except as disclosed in the SEC Reports, since the Balance Sheet Date, there has been no Material Adverse
+Effect and neither the Company nor any of its subsidiaries has (i) declared or paid any dividends, (ii) sold any material assets, individually
+or in the aggregate, outside of the ordinary course of business, (iii) made any material capital expenditures, individually or in the
+aggregate, outside of the ordinary course of business, (iv) made any revaluation of any of their respective material assets other than
+in the ordinary course of business, (v) made changes in the capital stock (other than as a result of (a) the exercise, if any, of stock
+options or the award, if any, of stock options or restricted stock in the ordinary course of business pursuant to the Company’s
+equity plans that are described in the SEC Reports or (b) the issuance, if any, of stock upon conversion of the Company’s securities
+as described in the SEC Reports or upon redemption of membership interests in the Company’s subsidiaries for Common Stock of the
+Company pursuant to the Company’s equity plans or compensation agreements that are described in the SEC Reports), partnership interests
+or membership interests, or (vi) made any change in the long-term debt of the Company and its subsidiaries, other than as incurred in
+the ordinary course of business.
+
+ 
+
+12.
+
+Investment Company Act
+. The Company is not, and immediately after receipt of payment for the Notes will not be, an “investment
+company” within the meaning of the Investment Company Act of 1940, as amended.
+
+ 
+
+13.
+
+Brokers and Finders
+. Other than Barclays Capital Inc., UBS Securities Inc. and Stillpoint Capital LLC, the Company has not retained,
+utilized or been represented by, or otherwise become obligated to, any broker, placement agent, financial advisor or finder in connection
+with the Transactions contemplated by this Agreement whose fees the Purchaser would be required to pay.
+
+ 
+
+ 
+
+-
+12
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+14.
+
+Listing and Maintenance Requirements
+. The Company’s Class A Common Stock is registered pursuant to Section 12(b) of the
+Exchange Act, and the Company has taken no action, and will take no action, designed to terminate the registration of the Class A Common
+Stock under the Exchange Act nor has the Company received any notification that the SEC is contemplating terminating such registration.
+The Company is, and will use best efforts to continue to be, in compliance in all material respects with the listing and maintenance
+requirements for continued trading of the Class A Common Stock on Nasdaq.
+
+ 
+
+15.
+
+Legal Proceedings
+. There is no material action, suit, arbitration, proceeding, inquiry or investigation before or by Nasdaq, any
+court, public board, other Governmental Authority, self-regulatory organization or body pending or, to the knowledge of the Company,
+threatened against or affecting the Company or any of its subsidiaries, the Common Stock or any of the Company’s or its subsidiaries’
+officers or directors, whether of a civil or criminal nature or otherwise, in their capacities as such, except as set forth in the SEC
+Reports, that would reasonably be expected to have a Material Adverse Effect. Without limitation of the foregoing, there has not been,
+and to the knowledge of the Company, there is not pending or threatened, any inquiry or investigation by the SEC involving the Company,
+any of its subsidiaries or any current or former director or officer of the Company or any of its subsidiaries.
+
+ 
+
+16.
+
+Solvency
+. As of each Closing, the Company is, individually and together with its subsidiaries, and after giving effect to the
+incurrence of all indebtedness and obligations being incurred in connection with this Agreement will be, generally able to meet their
+debts as they become due.
+
+ 
+
+17.
+
+Cybersecurity
+. The information technology assets and equipment, computers, systems, networks, hardware, software, websites, applications,
+and databases used or owned by, or leased or licensed to, the Company or any of its subsidiaries (collectively, “
+IT Systems
+”)
+are adequate for, and operate and perform in all material respects as required in connection with the operation of the business of the
+Company and its subsidiaries as currently conducted, and to the Company’s knowledge, free and clear of all material bugs, errors,
+defects, Trojan horses, time bombs, malware and other corruptants. The Company and its subsidiaries have implemented and maintained commercially
+reasonable physical, technical and administrative controls, policies, procedures, and safeguards to maintain and protect their material
+confidential information and the integrity, continuous operation, redundancy, and security of all IT Systems used in connection with
+their businesses and data processed by or for Company or any of its subsidiaries (“
+Company Data
+”), including “Personal
+Data.” “
+Personal Data
+” means (i) a natural person’s name, street address, telephone number, e-mail address,
+photograph, social security number or tax identification number, driver’s license number, passport number, credit card number,
+bank information, or customer or account number; (ii) any information which would qualify as “personally identifying information”
+under the Federal Trade Commission Act, as amended; (iii) “personal data” as defined by the European Union General Data Protection
+Regulation or the United Kingdom General Data Protection Regulation (collectively, the “
+GDPR
+”); (iv) any information
+which qualifies as “protected health information” under the Health Insurance Portability and Accountability Act of 1996,
+as amended by the Health Information Technology for Economic and Clinical Health Act (collectively, “
+HIPAA
+”); and
+(v) any other information that qualifies as “personal data,” “personal information,” “personally identifiable
+information,” or any similar term under any applicable Privacy Law, that allows the identification of any natural person, or his
+or her family, or permits the collection or analysis of any data related to an identified person’s health or sexual orientation.
+There have been no breaches, violations, outages or instances of unauthorized access to, or use or other processing of, any Company Data,
+including any Personal Data, except where such breach, violation or outage would not, individually or in the aggregate, reasonably be
+expected to have a Material Adverse Effect. The Company and its subsidiaries are, and at all prior times were, in compliance in all material
+respects with all applicable Laws or statutes and all judgments, orders, rules and regulations of any court or arbitrator or governmental
+or regulatory authority, internal policies and contractual obligations relating to the privacy, data protection, and security of IT Systems
+and Company Data, and to the protection of such IT Systems and Company Data, from unauthorized use, access, misappropriation or modification.
+
+ 
+
+ 
+
+-
+13
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+18.
+
+Privacy
+. The Company and its subsidiaries are, and at all prior times were, in compliance in all material respects with all applicable
+privacy, data protection and security laws and regulations, including, as applicable, HIPAA, the GDPR and the California Consumer Privacy
+Act, as amended by the California Privacy Rights Act (collectively, the “
+Privacy Laws
+”), and all Policies (as defined
+below, and together with the Privacy Laws, the “
+Privacy Requirements
+”). To ensure compliance with the Privacy Laws,
+the Company and its subsidiaries have in place, comply with, and take appropriate steps reasonably designed to ensure compliance in all
+material respects with their policies and procedures relating to privacy, data protection, and security, and the collection, storage,
+use, disclosure, handling, analysis, and other processing of Personal Data (the “
+Policies
+”). The Company and its subsidiaries
+have at all times made all notices and disclosures required by applicable Privacy Requirements, and none of such notices or disclosures,
+including in any made or contained in any Policy, has, to the knowledge of the Company, been inaccurate or in violation of any applicable
+Privacy Requirement in any material respect. Neither the Company nor any subsidiary: (i) has received notice of any actual or potential
+liability under or relating to, or actual or potential violation of, any Privacy Law, and has no knowledge of any event or condition
+that would reasonably be expected to result in any such liability or violation; (ii) is currently conducting or paying for, in whole
+or in part, any investigation, remediation, or other corrective action pursuant to any Privacy Law; or (iii) is a party to any order,
+decree, or agreement that imposes any obligation or liability under any Privacy Law.
+
+ 
+
+19.
+
+Foreign Corrupt Practices Act
+. Neither the Company nor any of its subsidiaries, nor, to the knowledge of the Company, any director,
+officer, agent, employee or other person acting on behalf of the Company or any of its subsidiaries, has: (i) used any corporate funds
+for any unlawful contribution, gift, entertainment or other unlawful expense relating to political activity; (ii) made any direct or
+indirect unlawful payment to any foreign or domestic government official or employee from corporate funds; (iii) violated or is in violation
+of any provision of the U.S. Foreign Corrupt Practices Act of 1977, applicable legislation implementing the Organization for Economic
+Co-operation and Development Convention on Bribery of Foreign Public Officials in International Business Transactions, and the rules
+and regulations thereunder or any other similar applicable foreign or domestic law or regulation; or (iv) made any illegal bribe, payoff,
+influence payment, kickback or other unlawful payment; except, in each case, where the failure to be in compliance would not, individually
+or in the aggregate, reasonably be expected to be material to the Company and its subsidiaries, taken as a whole.
+
+ 
+
+20.
+
+Money Laundering Laws
+. The operations of the Company and its subsidiaries are and have been conducted at all times in compliance
+in all material respects with applicable money laundering laws of all jurisdictions to which the Company or its subsidiaries are subject,
+the rules and regulations thereunder issued, administered or enforced by any Governmental Authority (collectively, the “
+Money
+Laundering Laws
+”) and no action by or before any Governmental Authority involving the Company or any of its subsidiaries with
+respect to the Money Laundering Laws is pending or, to the knowledge of the Company, threatened, except where the failure to be in compliance
+would not, individually or in the aggregate, reasonably be expected to be material to the Company and its subsidiaries, taken as a whole.
+
+ 
+
+ 
+
+-
+14
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+21.
+
+Sanctions
+. None of the Company, any of its subsidiaries or any director, officer, employee or, to the knowledge of the Company
+and its subsidiaries, nor, to the knowledge of the Company, any agent or other person acting for or on behalf of the foregoing is the
+subject or target of any economic or financial sanctions imposed, administered or enforced by the United States (including the U.S. Department
+of the Treasury Office of Foreign Assets Control and the U.S. Department of State) or other relevant sanctions authority (collectively,
+“
+Sanctions
+” and each such Person, a “
+Sanctioned Person
+”) or a Person with whom transactions are
+prohibited or restricted under applicable export control laws and regulations including the Arms Export Control Act (22 U.S.C. Section
+2778 et. Seq.), the International Traffic in Arms Regulations (ITAR (22 C.F.R. 120 Parts 120-130), the Export Administration Regulations
+(EAR) (15 C.F.R. Parts 730-774) and all other applicable export control laws adopted by Governmental Authorities of the United States
+and other countries (“
+Export Control Laws
+”). None of the Company, any of its subsidiaries or any director, officer,
+employee or, to the knowledge of the Company and its subsidiaries, agent or other person acting for or on behalf of the foregoing has
+engaged in any prohibited dealings or transactions with any Sanctioned Person or any Person located in a country or territory that is
+or was the subject of comprehensive, territory-wide sanctions, including currently the Crimea, Donetsk and Luhansk regions of Ukraine,
+Cuba, Iran, North Korea, or Syria (each, a “
+Sanctioned Country
+”). To the knowledge of the Company, the operations
+of the Company and its subsidiaries are, and have been conducted within the past three years, in material compliance with applicable
+Sanctions and Export Control Laws. The Company, any of its subsidiaries or any director, officer, employee or, to the knowledge of the
+Company and its subsidiaries, agent or other person acting for or on behalf of the foregoing are not now, and have not been, the subject
+of any actual or, to the knowledge of the Company or any of its subsidiaries, asserted or threatened charge, proceeding, investigation
+or inquiry with respect to potential or actual violations of any Sanctions Laws or Export Control Laws and have not made any voluntary
+disclosure with respect to an apparent violation of Sanctions Laws or Export Control Laws to any Governmental Authority or been subject
+to civil or criminal penalties imposed by any Governmental Authority administering Sanctions Laws or Export Control Laws.
+
+ 
+
+22.
+
+Real Property
+. Each of the Company and its subsidiaries have (i) good and marketable title in fee simple to all real property
+owned by them and (ii) good and marketable title to all personal property owned by them that is material to the respective businesses
+of the Company and its subsidiaries, and, in each case, such properties are free and clear of all liens, encumbrances and defects, except
+as described in the SEC Reports or where such liens, encumbrances and defects do not materially affect the value of such property and
+do not materially interfere with the use made and proposed to be made of such property by the Company and its subsidiaries. Each of the
+Company and its subsidiaries have valid, subsisting and enforceable leases or subleases to all real property and buildings held under
+lease by them, with such limitations on the Company and its subsidiaries as are not material and do not materially interfere with the
+use made and proposed to be made of such leased real property by the Company and its subsidiaries.
+
+ 
+
+ 
+
+-
+15
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+Article
+III
+
+REPRESENTATIONS
+AND WARRANTIES OF PURCHASERS
+
+ 
+
+At
+each Closing, each Purchaser purchasing a Note at such Closing, severally and not jointly, represents and warrants to the Company that:
+
+ 
+
+1.
+
+Authority
+. If such Purchaser is an entity, such Purchaser has full power and authority to enter into and perform this Agreement
+in accordance with its terms. This Agreement has been duly executed and delivered by the Purchaser and constitutes the legal, valid and
+binding obligation of such Purchaser, enforceable in accordance with its terms subject to the Enforceability Exceptions.
+
+ 
+
+2.
+
+Consents and Approvals for the Notes Issuance
+. No consent, approval, order or authorization of, or registration, declaration or
+filing with, or exemption or review by, any Governmental Authority is required on the part of the Purchaser in connection with the execution,
+delivery and performance by the Purchaser of this Agreement and the consummation by the Purchaser of the Transactions to which it is
+a party, except any consent, approval, order, authorization, registration, declaration, filing, exemption or review the failure of which
+to be obtained or made, individually or in the aggregate, would not reasonably be expected to adversely affect or delay the consummation
+of the Transactions.
+
+ 
+
+3.
+
+Suitability
+.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a)
+
+ 
+
+The
+ Purchaser is either (i) a qualified institutional buyer as defined in Rule 144A promulgated under the Securities Act or (ii) an institution
+ that is an institutional accredited investor (as defined in Rule 501 promulgated under the Securities Act) and is aware that the
+ sale of the Note is being made in reliance on a private placement exemption from registration under the Securities Act. The Purchaser
+ is acquiring the Note (and any shares of Class A Common Stock issuable upon conversion of the Note) for its own account, and not
+ with a view toward, or for sale in connection with, any distribution thereof in violation of any federal or state securities or “blue
+ sky” law, or with any present intention of distributing or selling the Note (or any shares of Class A Common Stock issuable
+ upon conversion of the Note) in violation of the Securities Act.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+
+ 
+
+The
+ Purchaser acknowledges that it is aware that there are substantial risks incident to the purchase and ownership of the Notes (and
+ any shares of Class A Common Stock issuable upon conversion of the Note) and has sufficient knowledge and experience in financial
+ and business matters so as to be capable of evaluating the merits and risks of its investment in the Note (and any shares of Class
+ A Common Stock issuable upon conversion of the Note) and is able at this time and in the foreseeable future to bear the economic
+ risks of such investment, including the risk of total loss of the Purchaser’s investment in the Company. The Purchaser acknowledges
+ specifically that a possibility of total loss exists. The Purchaser has sought such accounting, legal and tax advice as the Purchaser
+ has considered necessary to make an informed investment decision. The Purchaser represents and acknowledges that the Purchaser has
+ adequately analyzed and fully considered the risks of an investment in the Notes (and any shares of Class A Common Stock issuable
+ upon conversion of the Note) and determined that the Notes (and any shares of Class A Common Stock issuable upon conversion of the
+ Note) are a suitable investment for the Purchaser. The Purchaser has been provided a reasonable opportunity to undertake and has
+ undertaken such investigation and has been provided with and has evaluated such documents and information as it has deemed necessary
+ to enable it to make an informed and intelligent decision with respect to the execution, delivery and performance of this Agreement.
+ The Purchaser understands and agrees that no federal or state agency has passed upon or endorsed the merits of the offering of the
+ Notes (and any shares of Class A Common Stock issuable upon conversion of the Note) or made any findings or determination as to the
+ fairness of an investment in the Notes (and any shares of Class A Common Stock issuable upon conversion of the Note).
+
+ 
+
+ 
+
+ 
+
+-
+16
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.
+
+Unregistered Securities; Legend
+. Such Purchaser understands that the shares of Class A Common Stock issuable upon conversion of
+the Notes have not been registered under the Securities Act or any state securities law, by reason of their issuance in a transaction
+exempt from the registration requirements of the Securities Act and such laws, that the shares of Class A Common Stock issuable upon
+conversion of the Notes must be held indefinitely unless they are subsequently registered under the Securities Act and such laws or a
+subsequent disposition thereof is exempt from registration, that the shares of Class A Common Stock issuable upon conversion of the Notes
+shall bear a legend to such effect, and that appropriate transfer instructions may be issued. Such Purchaser further understands that
+such exemption depends upon, among other things, the bona fide nature of such Purchaser’s investment intent expressed herein.
+
+ 
+
+5.
+
+No General Solicitation
+. Neither the Purchaser, nor any of its officers, directors, employees, agents, stockholders or partners
+has either directly or indirectly, including through a broker or finder (i) engaged in any general solicitation or (ii) published any
+advertisements in connection with the offer and sale of the Notes.
+
+ 
+
+6.
+
+Brokers and Finders
+. The Purchaser has not retained, utilized or been represented by, or otherwise become obligated to, any broker,
+placement agent, financial advisor or finder in connection with the Transactions contemplated by this Agreement.
+
+ 
+
+7.
+
+Foreign Purchasers
+. If the Purchaser is not a United States person (as defined by Section 7701(a)(30) of the Code), the Purchaser
+represents that it has satisfied itself as to the full observance of the laws of its jurisdiction in connection this Agreement, including
+(i) the legal requirements within its jurisdiction for the purchase of the Note and the shares of Class A Common Stock issuable upon
+conversion of the Note, (ii) any foreign exchange restrictions applicable to such purchase, (iii) any governmental or other consents
+that may need to be obtained, and (iv) the income tax and other tax consequences, if any, that may be relevant to the purchase, holding,
+redemption, sale, or transfer of the Note and the shares of Class A Common Stock issuable upon conversion of the Note. Such Purchaser’s
+subscription and payment for and continued beneficial ownership of the Note and the shares of Class A Common Stock issuable upon conversion
+of the Note will not violate any applicable securities or other laws of such Purchaser’s jurisdiction.
+
+ 
+
+ 
+
+-
+17
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+8.
+
+Compliance with Office of Foreign Assets Control
+. The Purchaser represents and warrants that the Purchaser is not (i) a person
+or entity named on the List of Specially Designated Nationals and Blocked Persons administered by the U.S. Treasury Department’s
+Office of Foreign Assets Control (“
+OFAC
+”) or in any Executive Order issued by the President of the United States and
+administered by OFAC (“
+OFAC List
+”), or a person or entity prohibited by any OFAC sanctions program, (ii) a Designated
+National as defined in the Cuban Assets Control Regulations, 31 C.F.R. Part 515 or (iii) a non-U.S. shell bank or providing banking services
+indirectly to a non-U.S. shell bank (collectively, a “
+Prohibited Investor
+”). The Purchaser agrees to provide law enforcement
+agencies, if requested thereby, such records as required by applicable Law, provided that the Purchaser is permitted to do so under applicable
+Law. Purchaser represents that if it is a financial institution subject to the Bank Secrecy Act (31 U.S.C. Section 5311 et seq.), as
+amended by the USA PATRIOT Act of 2001, and its implementing regulations (collectively, the “
+BSA/PATRIOT Act
+”), that
+the Purchaser maintains policies and procedures reasonably designed to comply with applicable obligations under the BSA/PATRIOT Act.
+The Purchaser also represents that, to the extent required, it maintains policies and procedures reasonably designed for the screening
+of its investors against the OFAC sanctions programs, including the OFAC List. The Purchaser further represents and warrants that, to
+the extent required, it maintains policies and procedures reasonably designed to ensure that the funds held by the Purchaser and used
+to purchase the Notes were legally derived.
+
+ 
+
+9.
+
+Employee Benefit Plans
+. If the Purchaser is an employee benefit plan that is subject to Title I of ERISA, a plan, an individual
+retirement account or other arrangement that is subject to section 4975 of the Code or an employee benefit plan that is a governmental
+plan (as defined in section 3(32) of ERISA), a church plan (as defined in section 3(33) of ERISA), a non-U.S. plan (as described in section
+4(b)(4) of ERISA) or other plan that is not subject to the foregoing but may be subject to provisions under any other federal, state,
+local, non-U.S. or other laws or regulations that are similar to such provisions of ERISA or the Code, or an entity whose underlying
+assets are considered to include “plan assets” of any such plan, account or arrangement (each, a “
+Plan
+”)
+subject to the fiduciary or prohibited transaction provisions of ERISA or section 4975 of the Code, the Purchaser represents and warrants
+that neither the Company or any of its respective Affiliates (the “
+Transaction Parties
+”) have acted as the Plan’s
+fiduciary, or have been relied on for advice, with respect to its decision to acquire and hold the Notes, and none of the Transaction
+Parties shall at any time be relied upon as the Plan’s fiduciary with respect to any decision to acquire, continue to hold or transfer
+the Notes.
+
+ 
+
+10.
+
+Group Membership
+. Except as expressly disclosed in a Schedule 13D or Schedule 13G (or amendments thereto) filed by such Purchaser
+with the SEC with respect to the beneficial ownership of the Company’s Common Stock prior to the date hereof, the Purchaser is
+not currently (and at all times through Closing will refrain from being or becoming) a member of a “group” (within the meaning
+of Section 13(d)(3) or Section 14(d)(2) of the Exchange Act), including any group acting for the purpose of acquiring, holding or disposing
+of equity securities of the Company (within the meaning of Rule 13d-5(b)(1) under the Exchange Act).
+
+ 
+
+ 
+
+-
+18
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+11.
+
+Committee on Foreign Investment in the United States
+. The Purchaser will not acquire a substantial interest (as defined in 31
+C.F.R. Part 800.244) in the Company as a result of the purchase and sale of the Notes hereunder such that a Declaration or Joint Voluntary
+Notice to the Committee on Foreign Investment in the United States would become mandatory under 31 C.F.R. Part 800. The Purchaser will
+not have or otherwise obtain control (as defined in 31 C.F.R. Part 800.208) over the Company from and after the Closing as a result of
+the purchase and sale of the Notes hereunder.
+
+ 
+
+Article
+IV
+
+ADDITIONAL
+COVENANTS AND RIGHTS
+
+ 
+
+1.
+
+Information Rights
+. The Company shall deliver or make available (for clarity, information publicly available on the SEC’s
+website shall be deemed to have been made available) to the Purchasers:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a)
+
+ 
+
+No
+ later than the earlier of (i) 135 days following the end of each fiscal year or (ii) the date on which such statements are required
+ to be provided by the Company to one or more of its lenders pursuant to any credit agreement or other similar arrangement, audited
+ consolidated financial statements of the Company for such fiscal year (including balance sheet, statement of operations and comprehensive
+ income, statement of changes in capital (deficit) and statement of cash flows), consisting of statements of (i) the consolidated
+ financial condition of the Company as of the end of such fiscal year and (ii) income and cash flows for such fiscal year, prepared
+ in accordance with GAAP by a nationally-recognized audit firm;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+
+ 
+
+No
+ later than ninety (90) days following the end of each fiscal quarter, unaudited quarterly financial statements of the Company (including
+ balance sheet, statement of operations and comprehensive income and statement of changes in capital (deficit)), prepared in accordance
+ with GAAP;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c)
+
+ 
+
+Any
+ information any such Purchaser may reasonably require for tax reporting and the preparation of tax returns; and
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(d)
+
+ 
+
+Any
+ other information reasonably necessary for any such Purchaser to prepare any filings or fulfill other required reporting obligations
+ as may be required by the disclosure requirements of the SEC or pursuant to the Exchange Act or the rules and regulations promulgated
+ thereunder.
+
+ 
+
+ 
+
+2.
+
+Limitations on Public Disclosure
+. The Purchaser and the Company shall, and shall cause their Affiliates to, consult with each
+other before issuing, and give each other the opportunity to review and comment upon, any press release or other public statements with
+respect to the Transactions, and shall not issue any such press release or make any such public statement without the consent of the
+other party, which shall not be unreasonably withheld, conditioned or delayed, except as such press release or announcement that the
+Purchaser or the Company determines, after consultation with outside legal counsel, is required by applicable Law, judgment, court process
+or the rules and regulations of any national securities exchange or national securities quotation system, in which case the party required
+to make the press release or announcement shall, if reasonably practicable, consult with the other party about, and allow the other party
+reasonable time (taking into account the circumstances) to comment on, such press release or announcement in advance of such issuance,
+and the party required to make the press release or announcement will consider such comments in good faith.
+
+ 
+
+3.
+
+Reservation of Class A Common Stock
+. The Company shall reserve and keep available at all times, free of preemptive or similar
+rights, a number of shares of Class A Common Stock equal to the maximum number of Class A Common Stock issuable upon conversion of the
+Notes at any time for purposes of satisfying conversions of the Notes.
+
+ 
+
+ 
+
+-
+19
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+Article
+V
+
+MISCELLANEOUS
+
+ 
+
+1.
+
+No Waiver; Cumulative Remedies
+. No failure or delay on the part of any party to this Agreement in exercising any right, power
+or remedy hereunder shall operate as a waiver thereof; nor shall any single or partial exercise of any such right, power or remedy preclude
+any other or further exercise thereof or the exercise of any other right, power or remedy hereunder. The remedies herein provided are
+cumulative and not exclusive of any remedies provided by law.
+
+ 
+
+2.
+
+Amendments, Waivers and Consents
+. Any provision in this Agreement to the contrary notwithstanding, changes in or additions to
+this Agreement or the Notes may be made, and compliance with any covenant or provision herein or therein set forth may be omitted or
+waived, if the Company obtains consent thereto in writing from the Holders of at least 60% of the aggregate principal amount of the Subordinated
+Obligations outstanding at such time (it being understood that any Subordinated Obligations that have been converted or exchanged into
+shares of Class A Common Stock shall not be outstanding for purposes of determining the amount of Subordinated Obligations outstanding)
+(the “
+Requisite Holders
+”); provided, however, that (i) no such change, addition, omission or waiver shall reduce the
+principal or interest rate on any Subordinated Obligations, without the consent of each Subordinated Creditor (as defined in the Note)
+affected thereby and (ii) no amendment shall be effective against a Subordinated Creditor which materially and adversely affects such
+Subordinated Creditor’s rights under this Agreement or under any Subordinated Obligations in a manner that is adverse to and materially
+different from the effect on other Subordinated Creditors, without such Subordinated Creditor’s written consent. In the event the
+Company offers payments or other incentives to Holders in connection with the Company seeking the approval of the Requisite Holders under
+this 
+ARTICLE V, Section 2
+, the Company must offer such payment or other incentives to all Holders.
+
+ 
+
+3.
+
+Addresses for Notices, etc.
+ All notices and other communications given or made pursuant to this Agreement shall be in writing
+and shall be conclusively deemed effectively given upon the earlier of actual receipt or: (i) personal delivery to the party to be notified,
+(ii) when sent, if sent by electronic mail during normal business hours of the recipient, and if not sent during normal business hours,
+then on the recipient’s next Business Day, (iii) five (5) days after having been sent by registered or certified mail, return receipt
+requested, postage prepaid, or (iv) one (1) Business Day after deposit with a nationally recognized overnight courier, freight prepaid,
+specifying next Business Day delivery, with written verification of receipt. All communications shall be sent to the respective parties
+at their address as set forth on their signature pages, or to such e-mail address or address as subsequently modified by written notice
+given in accordance with this 
+ARTICLE V, Section 3
+. If notice is given to the Company, a copy shall also be sent to Sullivan &
+Cromwell LLP, 125 Broad Street, New York, NY 10004, Attn: Jared Fishman; which copy shall not constitute notice.
+
+ 
+
+ 
+
+-
+20
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.
+
+Binding Effect; Assignment
+. No Purchaser may assign its rights hereunder, by operation of law of otherwise, except to an Affiliate,
+without the prior written consent of the Company, which consent may not be unreasonably withheld. Such assignee shall be deemed a “Purchaser”
+for purposes of this Agreement; provided that such assignment of rights shall be contingent upon the assignor and assignee providing
+a written instrument to the Company notifying the Company of such assignment and the assignor agreeing in writing to be bound by the
+terms of this Agreement. Nothing in this Agreement, express or implied, is intended to confer upon any party other than the parties hereto
+or their respective successors and permitted assignees any rights, remedies, obligations or liabilities under or by reason of this Agreement,
+except as expressly provided herein.
+
+ 
+
+5.
+
+Survival of Representations and Warranties
+. All representations and warranties made in this Agreement, the Notes or any other
+instrument or document delivered in connection herewith or therewith, shall survive the execution and delivery hereof or thereof.
+
+ 
+
+6.
+
+Entire Agreement
+. This Agreement and the Registration Rights Agreement (including any Schedules and Exhibits hereto) constitute
+the full and entire understanding and agreement among the parties with respect to the subject matter hereof, and any other written or
+oral agreement relating to the subject matter hereof existing between the parties is expressly canceled.
+
+ 
+
+7.
+
+Severability
+. In case any one or more of the provisions contained in this Agreement is for any reason held to be invalid, illegal
+or unenforceable in any respect, such invalidity, illegality, or unenforceability shall not affect any other provision of this Agreement,
+and such invalid, illegal, or unenforceable provision shall be reformed and construed so that it will be valid, legal, and enforceable
+to the maximum extent permitted by law.
+
+ 
+
+8.
+
+Most Favored Nations.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a)
+
+ 
+
+ If,
+ within 12 months of the Initial Closing, the Company enters into any other agreement or instrument for Qualified Convertible Securities
+ that contains economic or financial terms (howsoever designated) that are more favorable to the lender or holder of such security
+ than those contained in this Agreement or the Note, the Company agrees that such economic or financial terms shall automatically
+ be deemed to apply equally to this Agreement and the Note and agreements of the Company hereunder and under the Note, and shall be
+ deemed to be incorporated into this Agreement and the Note 
+mutatis mutandis
+, as if each reference therein to the other lender
+ or holder were a reference to the Purchasers, and as if each reference therein to the relevant agreement or instrument for Qualified
+ Convertible Securities were a reference to this Agreement and the Note. Promptly upon any request by the Purchasers therefor, the
+ Company will execute and deliver such amendments to this Agreement and the Note, make such registrations and do such further acts
+ as the Purchasers may reasonably request to reflect the inclusion of such more favorable economic or financial terms in this Agreement
+ and the Note.
+
+ 
+
+ 
+
+-
+21
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+
+ 
+
+If,
+ within 24 months of the Initial Closing, the Company enters into any other agreement or instrument for Qualified Convertible Securities
+ which is senior in priority to the Notes, that benefits from any guaranty, security or other credit support, or that contains covenants,
+ undertakings or events of default (howsoever designated) that are more favorable to the lender or holder of such security than those
+ contained in this Agreement or the Note, the Company agrees that such priority ranking, guaranty, security, credit support, covenant,
+ undertaking or event of default shall automatically be deemed to apply equally to this Agreement and the Note and agreements of the
+ Company hereunder and under the Note, and shall be deemed to be incorporated into this Agreement and the Note 
+mutatis mutandis
+,
+ as if each reference therein to the other lender or holder were a reference to the Purchasers, and as if each reference therein to
+ the relevant agreement or instrument for Qualified Convertible Securities were a reference to this Agreement and the Note. Promptly
+ upon any request by the Purchasers therefor, the Company will execute and deliver such amendments to this Agreement and the Note,
+ make such registrations and do such further acts as the Purchasers may reasonably request to reflect the inclusion of such more favorable
+ guaranty, security, credit support, covenants, undertakings and events of default in this Agreement and the Note.
+
+ 
+
+ 
+
+9.
+
+Governing Law
+. This Agreement and the obligations of the Company hereunder shall be governed by and interpreted and determined
+in accordance with, the laws of the General Corporation Law of the State of Delaware as to matters within the scope thereof, and as to
+all other matters shall be governed by, and construed in accordance with, the internal laws of the State of Delaware (excluding the laws
+and rules of law applicable to conflicts or choice of law).
+
+ 
+
+10.
+
+Counterparts
+. This Agreement may be executed in two (2) or more counterparts, each of which shall be deemed an original, but all
+of which together shall constitute one and the same instrument. Counterparts may be delivered via electronic mail (including pdf or any
+electronic signature complying with the U.S. federal ESIGN Act of 2000, e.g., www.docusign.com) or other transmission method and any
+counterpart so delivered shall be deemed to have been duly and validly delivered and be valid and effective for all purposes.
+
+ 
+
+11.
+
+Further Assurances
+. From and after the date of this Agreement, upon the request of the Purchasers or the Company, the Company
+and the Purchasers shall execute and deliver such instruments, documents or other writings as may be reasonably necessary or desirable
+to confirm and carry out and to effectuate fully the intent and purposes of this Agreement.
+
+ 
+
+12.
+
+Exculpation Among Purchasers
+. Each Purchaser acknowledges that it is not relying upon any Person, other than the Company and its
+officers and directors in their capacities as such, in making its investment or decision to invest in the Company. Each Purchaser agrees
+that no other Purchaser nor the respective controlling persons, officers, directors, partners, agents, stockholders or employees of any
+other Purchaser shall be liable for any action heretofore or hereafter taken or omitted to be taken by any of them in connection with
+the purchase and sale of the Notes.
+
+ 
+
+[REMAINDER
+OF THIS PAGE INTENTIONALLY LEFT BLANK]
+
+ 
+
+ 
+
+-
+22
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, the parties hereto have executed this Convertible Security Investment Agreement on the day, month and year first above
+written.
+
+ 
+
+COMPANY:
+
+ 
+
+ 
+
+ 
+
+AST
+ SPACEMOBILE, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Sean Wallace
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Sean
+ Wallace
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief
+ Financial Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+Place
+
+of Execution: 
+
+New York, New York
+
+ 
+
+Address
+for Notice:
+
+ 
+
+Midland
+Intl. Air & Space Port
+
+2901
+Enterprise Lane
+
+Midland,
+Texas 79706
+
+ 
+
+[Signature
+Page to Convertible Security Investment Agreement]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Purchaser
+Signature Page
+
+ 
+
+By
+executing this page in the space provided, the undersigned investor hereby agrees (i) that it is a “Purchaser” as defined
+in the Convertible Security Investment Agreement, dated as of January 16, 2024, by and among AST SpaceMobile, Inc., a Delaware corporation
+and the Purchasers party thereto (the “
+Purchase Agreement
+”), (ii) that it is a party to the Purchase Agreement for
+all purposes, (iii) that it is bound by all terms and conditions of the Purchase Agreement, and (iv) that it is subscribing for a Note
+in the aggregate principal amount set forth below.
+
+PURCHASER:
+
+ 
+
+ 
+
+ 
+
+AT&T
+ Venture Investments, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Robert LaGrone
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Robert
+ LaGrone
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+SVP,
+ Corporate Development
+
+ 
+
+ 
+
+ 
+
+ 
+
+Address
+for Notice:
+
+ 
+
+208
+S. Akard St.
+
+Dallas,
+TX 75202
+
+ 
+
+[Signature
+Page to Convertible Security Investment Agreement]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Purchaser
+Signature Page
+
+ 
+
+By
+executing this page in the space provided, the undersigned investor hereby agrees (i) that it is a “Purchaser” as defined
+in the Convertible Security Investment Agreement, dated as of January 16, 2024, by and among AST SpaceMobile, Inc., a Delaware corporation
+and the Purchasers party thereto (the “
+Purchase Agreement
+”), (ii) that it is a party to the Purchase Agreement for
+all purposes, (iii) that it is bound by all terms and conditions of the Purchase Agreement, and (iv) that it is subscribing for a Note
+in the aggregate principal amount set forth below.
+
+ 
+
+PURCHASER:
+
+ 
+
+ 
+
+ 
+
+VODAFONE
+ VENTURES LIMITED
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Edward Verner
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Edward
+ Verner
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+M&A
+ Executive
+
+ 
+
+ 
+
+ 
+
+ 
+
+Place
+of Execution: London, UK
+
+ 
+
+Address
+for Notice:
+
+ 
+
+1
+Kingdom Street,
+
+Vodafone
+Ventures
+
+Limited,
+
+One
+Kingdom Street,
+
+Paddington,
+London,
+
+W2
+6BY
+
+ 
+
+[Signature
+Page to Convertible Security Investment Agreement]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Purchaser
+Signature Page
+
+ 
+
+By
+executing this page in the space provided, the undersigned investor hereby agrees (i) that it is a “Purchaser” as defined
+in the Convertible Security Investment Agreement, dated as of January 16, 2024, by and among AST SpaceMobile, Inc., a Delaware corporation
+and the Purchasers party thereto (the “
+Purchase Agreement
+”), (ii) that it is a party to the Purchase Agreement for
+all purposes, (iii) that it is bound by all terms and conditions of the Purchase Agreement, and (iv) that it is subscribing for a Note
+in the aggregate principal amount set forth below.
+
+PURCHASER:
+
+ 
+
+ 
+
+ 
+
+GOOGLE
+ LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Sanjay Kapoor
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Sanjay
+ Kapoor
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Vice
+ President, Corporate Development
+
+ 
+
+ 
+
+ 
+
+ 
+
+Place
+of Execution: Mountain View, CA
+
+ 
+
+Address
+for Notice:
+
+ 
+
+1600
+Amphitheatre Parkway
+
+Mountain
+View, CA 94043
+
+ 
+
+[Signature
+Page to Convertible Security Investment Agreement]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exhibit
+B
+
+ 
+
+Form
+of Note
+
+ 
+
+THIS
+NOTE, AND THE SECURITIES ISSUABLE UPON CONVERSION OF THIS NOTE, HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED
+(THE “
+ACT
+”), OR THE APPLICABLE SECURITIES LAWS OF ANY STATE, AND MAY NOT BE PLEDGED, SOLD, ASSIGNED OR OTHERWISE TRANSFERRED
+EXCEPT AS PERMITTED UNDER THE ACT AND APPLICABLE STATE SECURITIES LAWS, PURSUANT TO REGISTRATION UNDER SUCH LAWS OR AN EXEMPTION FROM
+SUCH REGISTRATION REQUIREMENT. INVESTORS SHOULD BE AWARE THAT THEY MAY BE REQUIRED TO BEAR THE FINANCIAL RISKS OF THIS INVESTMENT FOR
+AN INDEFINITE PERIOD OF TIME. THE ISSUER OF THESE SECURITIES MAY REQUIRE AN OPINION OF COUNSEL, IN FORM AND SUBSTANCE SATISFACTORY TO
+THE ISSUER, TO THE EFFECT THAT SUCH PLEDGE, SALE, ASSIGNMENT OR TRANSFER IS EXEMPT FROM THE REGISTRATION REQUIREMENTS OF THE ACT AND
+ALL APPLICABLE STATE SECURITIES LAWS.
+
+ 
+
+FOR
+PURPOSES OF SECTIONS 1272, 1273 AND 1275 OF THE INTERNAL REVENUE CODE OF 1986, AS AMENDED, THIS NOTE IS BEING ISSUED WITH ORIGINAL ISSUE
+DISCOUNT. THE COMPANY AGREES TO PROVIDE PROMPTLY TO THE HOLDER OF THIS NOTE, UPON WRITTEN REQUEST, THE ISSUE PRICE, AMOUNT OF ORIGINAL
+ISSUE DISCOUNT, ISSUE DATE, AND YIELD TO MATURITY. ANY SUCH WRITTEN REQUEST SHOULD BE MADE PURSUANT TO SECTION 11.
+
+ 
+
+No.
+[●]
+
+ 
+
+AST
+SPACEMOBILE, INC.
+
+ 
+
+Convertible
+Note
+
+ 
+
+ 
+
+ 
+
+$[●]
+
+ 
+
+[●,
+ 2024]
+
+ 
+
+ 
+
+For
+value received, AST SpaceMobile, Inc. (the “
+Company
+”), hereby promises to pay to the order of 
+[●] 
+(hereinafter
+together with his, her or its successors in title and assigns referred to as the “
+Holder
+”), on demand by the Requisite
+Holders on or after [●, 2034] (the “
+Maturity Date
+”), the original principal sum of $[●], as may be increased
+pursuance to the payment of PIK Interest (as defined below) pursuant to 
+Section 1.1
+, together with accrued and unpaid interest
+thereon as set forth below (the “
+Amount Due
+”), unless earlier repaid or converted pursuant to the terms and conditions
+set forth below.
+
+ 
+
+This
+Convertible Note (this “
+Note
+”) is one in a series of convertible notes (collectively, the “
+Notes
+”)
+issued by the Company pursuant to that certain Convertible Security Investment Agreement, dated as of [●, 2024], by and among the
+Company and the parties thereto (the “
+Purchase Agreement
+”). Capitalized terms used but not defined herein shall have
+the meanings ascribed to them in the Purchase Agreement.
+
+ 
+
+ 
+
+-B-
+1
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.
+
+Interest
+.
+
+ 
+
+1.1
+During the term of this Note, interest shall accrue on the Amount Due at an annual interest rate of five and a half percent (5.50%) (“
+Interest
+”),
+commencing on the Initial Closing, payable semi-annually on each June 30 and December 30, commencing June 30, 2024 (each, an “
+Interest
+Payment Due Date
+”). Interest shall be payable semi-annually in arrears on each Interest Payment Due Date, at the Company’s
+option, either (i) in cash or (ii) by increasing the principal amount of this Note by the amount of such interest (with such increased
+amount thereafter accruing Interest as well) on each Interest Payment Due Date (“
+PIK Interest
+”). In the event that
+the Company elects to pay PIK Interest on this Note pursuant to this 
+Section 1.1
+, the schedule attached hereto as 
+Annex A
+
+shall be annotated accordingly to reflect such increase to the principal amount on account of such payment of PIK Interest and the Company
+shall pay interest on subsequent Interest Payment Due Dates on the basis of such increased principal amount.
+
+ 
+
+1.2
+If the Company intends to pay cash with respect to the interest due on any Interest Payment Due Date in accordance with 
+Section 1.1
+,
+the Company shall deliver a written notice of such election (a “
+Cash Interest Election
+”) to the Holder on or before
+the third (3
+rd
+) calendar day immediately prior to the applicable Interest Payment Due Date.
+
+ 
+
+1.3
+If the Company has not delivered a Cash Interest Election with respect to an Interest Payment Due Date on or before the third (3
+rd
+)
+calendar day immediately prior to the applicable Interest Payment Due Date, the principal amount of this Note will be increased by the
+amount of interest payable on such Interest Payment Due Date, and the Company shall make a record on its books of such increase to reflect
+such PIK Interest.
+
+ 
+
+1.4
+Interest hereunder will be paid to the Holder as provided in 
+Section 2.1
+. All interest will be computed on the basis of a 360-day
+year of twelve (12) 30-day months and, for partial months, on the basis of the number of days actually elapsed in a 30-day month.
+
+ 
+
+2.
+
+Amount Due
+.
+
+ 
+
+2.1
+
+Payments
+. Payment of principal and interest (if required) shall be made in immediately available funds in lawful currency of the
+United States of America at the offices of the Holder or at such other place as the Holder hereof shall have designated to the Company
+in writing. Payment shall be credited first to any costs, expenses or charges then payable to the Holder, then to accrued interest then
+due and payable, and then to principal.
+
+ 
+
+2.2
+
+Notes Pari Passu
+. Each of the Notes shall rank equally without preference or priority of any kind over one another, and all payments
+and recoveries payable on account of principal and interest on the Notes shall be paid and applied ratably and proportionately on the
+Amount Due on all outstanding Notes on the basis of their original principal amount.
+
+ 
+
+2.3
+
+Prepayment
+. Subject to 
+Section 2.4
+, this Note may not be prepaid without the written consent of the Requisite Holders.
+Any such approved prepayment must be made in accordance with 
+Section 2.2
+ above.
+
+ 
+
+2.4
+
+Fundamental Change
+. In the event of a Fundamental Change, the Note shall be due and payable immediately prior to the consummation
+or occurrence, as applicable, in an amount equal to (i) the aggregate principal amount outstanding on the Note, plus (ii) all accrued
+and unpaid interest thereon. The Company shall deliver to all Holders on or before the tenth (10th) Business Day prior to the consummation
+of such Fundamental Change a Fundamental Change Notice. No failure of the Company to give the foregoing notice and no defect therein
+shall limit the Company’s obligation to repay the Note or affect the Holders’ right to convert its Note, as applicable, in
+accordance with this Section 2.4. If a Fundamental Change event occurs at any time within the twelve (12) months following the Initial
+Closing, the Holder shall have the right, at the Holder’s option, to convert, in whole or in part, the principal outstanding under
+this Note, together with all accrued but unpaid interest thereon, pursuant to the conversion mechanics set forth in 
+Section 4.1
+
+notwithstanding the fact that such conversion would occur during the twelve (12) month period following the Initial Closing; it being
+understood that such conversion shall be permissible solely to the extent all Governmental Approvals, if applicable to the Holder, shall
+have been obtained and effective as of the date such Notes are converted.
+
+ 
+
+ 
+
+-B-
+2
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.
+
+Event of Default
+. If one or more Events of Default shall have occurred and be continuing (whatever the reason for such Event of
+Default and whether it shall be voluntary or involuntary or be effected by operation of law or pursuant to any judgment, decree or order
+of any court or any order, rule or regulation of any administrative or governmental body), then, and in each and every such case (other
+than an Event of Default specified in clause f) or g) of “Event of Default” under 
+ARTICLE I, Section 5
+ of the Purchase
+Agreement with respect to the Company), unless the principal of all of the Subordinated Obligations (as defined below) shall have already
+become due and payable, the Requisite Holders by notice in writing to the Company may declare 100% of the principal of, and accrued and
+unpaid interest on, all the Subordinated Obligations to be due and payable immediately, and upon any such declaration the same shall
+become and shall automatically be immediately due and payable, anything in the Subordinated Obligations contained to the contrary notwithstanding.
+If an Event of Default specified in clauses f) or g) of “Event of Default” under 
+ARTICLE I, Section 5
+ of the Purchase
+Agreement with respect to the Company occurs and is continuing, 100% of the principal of, and accrued and unpaid interest, if any, on,
+all Subordinated Obligations shall automatically be immediately due and payable without any declaration or other act on the part of any
+Holder.
+
+ 
+
+4.
+
+Conversion
+.
+
+ 
+
+4.1
+
+Optional Conversion by the Holders
+. Subject to (i) 
+Section 2.4
+ and (ii) 
+Section 4.5
+, at any time after twelve (12)
+months following the Initial Closing, the Holder shall have the right, at the Holder’s option, to convert, in whole or in part,
+the principal outstanding under this Note, together with all accrued but unpaid interest thereon (such portion of the principal outstanding
+elected to be converted, together with all accrued but unpaid interest thereon, the “
+Converted Outstanding Balance
+”),
+into that number of validly issued and fully paid shares of Class A Common Stock determined by dividing the Converted Outstanding Balance
+by the conversion price of $5.75 (as proportionately increased or decreased as necessary to reflect the proportionate change in the shares
+of Class A Common Stock as a result of any stock dividends, stock splits, recapitalizations, combinations, consolidations or the like)
+(the “
+Conversion Price
+”). The Holder’s election to convert this Note, in whole or in part, into (i) shares of
+Class A Common Stock and, if applicable, (ii) in the event of a partial conversion, a new Note with the same terms as this Note, with
+a principal amount equal to (A) the Amount Due immediately prior to the delivery of the Holder Conversion Notice, minus (B) the Converted
+Outstanding Balance (such new Company Note, a “
+New Note
+”), pursuant to this 
+Section 4
+ shall be effective upon
+(1) the receipt by the Company of written notice in accordance with 
+Section 12
+ (a “
+Holder Conversion Notice
+”),
+which shall be irrevocable, and (2) the cancellation of this Note by the Company, which shall be deemed to occur automatically upon receipt
+by the Company of a Holder Conversion Notice (regardless of whether this Note has been surrendered by the Holder).
+
+ 
+
+ 
+
+-B-
+3
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.2
+
+Optional Conversion by the Company
+. Subject to (i) the satisfaction of the Governmental Approvals, if applicable with respect
+to the Holder, and (ii) 
+Section 4.5
+, if at any time after twelve (12) months following the Initial Closing, the VWAP of the Company’s
+shares of Class A Common Stock equals or exceeds one hundred and thirty percent (130%) of the Conversion Price (as proportionately increased
+or decreased as necessary to reflect the proportionate change in the shares of Class A Common Stock as a result of any stock dividends,
+stock splits, recapitalizations, combinations, consolidations or the like) for thirty (30) consecutive Trading Days, prior to the date
+of the Company Conversion Notice (as defined below), the Company shall have the right on the immediately succeeding Trading Day after
+the last Trading Day of such 30-Trading Day period, at the Company’s option, to cause the Holder to convert, in whole or in part,
+the principal outstanding under this Note, together with the Converted Outstanding Balance, into that number of validly issued and fully
+paid shares of Class A Common Stock determined by dividing the Converted Outstanding Balance by the conversion price of the Conversion
+Price (as proportionately increased or decreased as necessary to reflect the proportionate change in the shares of Class A Common Stock
+as a result of any stock dividends, stock splits, recapitalizations, combinations, consolidations or the like). The Company’s election
+to cause the Holder to convert this Note, in whole or in part, into (a) shares of Class A Common Stock and (b) in the event of a partial
+conversion, a New Note with the same terms as this Note, with a principal amount equal to (x) the Amount Due immediately prior to the
+delivery of the Company Conversion Notice, minus (y) the Converted Outstanding Balance, pursuant to this 
+Section 4
+ shall be effective
+upon (i) the receipt by the Holder of written notice in accordance with 
+Section 11
+ (a “
+Company Conversion Notice
+”),
+which shall be irrevocable, and (ii) the cancellation of this Note by the Company, which shall be deemed to occur automatically upon
+receipt by the Holder of a Company Conversion Notice (regardless of whether this Note has been surrendered by the Holder). Each of the
+Holder and the Company will use its reasonable best efforts to take or cause to be taken all actions, and do or cause to be done, all
+things necessary, proper or advisable to obtain all necessary Governmental Approvals, if applicable with respect to the Holder.
+
+ 
+
+4.3
+
+Fractional Shares
+
+. No fractional shares of any of the Company’s
+equity securities, including the Class A Common Stock, will be issued in connection with any conversion of this Note and if a fractional
+share results from the conversion of the Note, the Company will round down to the nearest whole share.
+
+ 
+
+4.4
+
+Certificate or Book Entry Statement
+
+. As promptly as practicable
+after the conversion of this Note, the Company at its expense will issue and deliver to the Holder, upon surrender of the Note, a certificate
+or certificates for the number of full shares of Class A Common Stock issuable upon such conversion, or if such shares of Class A Common
+Stock are to be issued in unregistered form, a book entry confirmation statement from the Company’s transfer agent confirming the
+issuance of the shares of Class A Common Stock.
+
+ 
+
+ 
+
+-B-
+4
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.5
+
+Holder’s Conversion Limitations
+. Notwithstanding anything to the contrary contained in this Note, the Company shall not
+effect any conversion of this Note pursuant to 
+Section 4.2
+ with respect to a Note held by any Holder who, together with its Affiliates,
+holds less than $100,000,000 in aggregate principle amount of the Notes, and any Holder who, together with its Affiliates, holds less
+than $100,000,000 in aggregate principal amount of the Notes shall not effect any conversion of this Note pursuant to 
+Section 4.1
+,
+in either case, into shares of Class A Common Stock to the extent that after giving effect to such conversion the aggregate number of
+shares of Class A Common Stock then beneficially owned by such Holder and its Affiliates and any other Persons whose beneficial ownership
+of shares of Class A Common Stock would be aggregated with such Holder’s for purposes of Section 13(d) of the Exchange Act would
+exceed 4.99% (the “
+Beneficial Ownership Limitation
+”) of the total number of issued and outstanding shares of Class
+A Common Stock; provided, that the Beneficial Ownership Limitation shall only apply to the extent that the Class A Common Stock is deemed
+to constitute an “equity security” pursuant to Rule 13d-1 under the Exchange Act. For purposes of this Note, in determining
+the number of outstanding shares of Common Stock, such Holder may rely on the number of outstanding shares of Class A Common Stock as
+reflected in (i) the Company’s most recent Quarterly Report on Form 10-Q or Annual Report on Form 10-K, as the case may be, filed
+with the SEC prior to the date hereof, (ii) a more recent public announcement by the Company or (iii) any other notice by the Company
+or its transfer agent setting forth the number of shares of Common Stock outstanding. Upon the written request of such Holder, the Company
+shall within two (2) Trading Days confirm in writing or by electronic mail to such Holder the number of shares of Class A Common Stock
+then outstanding. In any case, the number of outstanding shares of Class A Common Stock shall be determined after giving effect to the
+conversion or exercise of securities of the Company, including this Note, by such Holder and its Affiliates since the date as of which
+such number of outstanding shares of Class A Common Stock was reported. By written notice to the Company, such Holder may from time to
+time increase or decrease the maximum percentage to any other percentage specified not in excess of 9.99% in such notice; provided that
+any such increase will not be effective until the sixty-first (61st) day after such notice is delivered to the Company. For purposes
+of this 
+Section 4.5
+, the aggregate number of shares of Common Stock or voting securities beneficially owned by such Holder and
+its Affiliates and any other Persons whose beneficial ownership of shares of Class A Common Stock would be aggregated with such Holder’s
+for purposes of Section 13(d) of the Exchange Act shall include the shares of Class A Common Stock issuable upon the conversion of this
+Note with respect to which such determination is being made, but shall exclude the number of shares of Class A Common Stock which would
+be issuable upon (i) conversion of the remaining unconverted portion of this Note by such Holder and (ii) exercise or conversion of the
+unexercised, non-converted or non-cancelled portion of any other securities of the Company that do not have voting power (including,
+without limitation, any securities of the Company which would entitle the holder thereof to acquire at any time shares of Class A Common
+Stock, including, without limitation, any debt, preferred stock, right, option, warrant or other instrument that is at any time convertible
+into or exercisable or exchangeable for, or otherwise entitles the holder thereof to receive, shares of Class A Common Stock), is subject
+to a limitation on conversion or exercise analogous to the limitation contained herein and is beneficially owned by such Holder or any
+of its Affiliates and other Persons whose beneficial ownership of shares of Class A Common Stock would be aggregated with such Holder’s
+for purposes of Section 13(d) of the Exchange Act.
+
+ 
+
+4.6
+
+Conversion Price Adjustment.
+ If, within 12 months of the Initial Closing, the Company in any manner issues or sells (excluding
+the issuance or sale of restricted share or restricted share units, or options to employees, officers or directors of the Company pursuant
+to any share or option plan duly adopted for such purpose) any Qualified Convertible Security and the lowest price per share for which
+one share of Class A Common Stock is issuable upon the conversion, exercise or exchange thereof is less than the then Conversion Price
+(a “
+Dilutive Issuance
+”), then the Conversion Price for all purposes, including for the avoidance of doubt Section
+4.2, shall be reduced to the lowest price per share for which one share of Class A Common Stock is issuable upon the conversion, exercise
+or exchange thereof in connection with such Dilutive Issuance.
+
+ 
+
+ 
+
+-B-
+5
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.
+
+[RESERVED]
+
+.
+
+ 
+
+6.
+
+No Set-Off
+. All payments by the Company under this Note shall be made without set-off or counterclaim and be without any deduction
+or withholding for any taxes or fees of any nature, unless the obligation to make such deduction or withholding is imposed by law, in
+which case the Company shall make any withholding required by law.
+
+ 
+
+7.
+
+Subordination
+.
+
+ 
+
+7.1
+To induce one or more lenders to extend credit to the Company, and for the benefit of such lenders, the Holder agrees, by its acceptance
+of this Note, for itself and for each future holder (if any) of this Note, that the obligations evidenced by this Note are expressly
+subordinate and junior in right of payment to all indebtedness for borrowed money of the Company (other than the Notes) under any agreement
+or contract with any senior creditor, including principal amounts and accrued interest and/or profit, as the case may be (including,
+without limitation, any interest and/or profit, as the case may be, that accrues after the commencement of any case, proceeding or other
+action relating to the bankruptcy, insolvency or reorganization of the Company) (the “
+Senior Obligations
+”). For purposes
+of this Note, “subordinate and junior in right of payment” shall mean that no part of the Subordinated Obligations shall
+have any claim to the Company’s assets on a parity with or prior to the claim of the Senior Obligations. From and after the date
+of receipt of notice from any senior creditor of any default with respect to any of the Senior Obligations, the Subordinated Creditor
+(as defined below) shall not ask for, demand, sue for, take or receive any payments with respect to all or any part of the Subordinated
+Obligations or any security therefor, whether from the Company or any other source, unless and until the Senior Obligations have been
+paid in full. The Subordinated Creditor further agrees that upon any distribution of money or assets, or readjustment of the indebtedness
+of the Company whether by reason of foreclosure, liquidation, composition, bankruptcy, arrangement, receivership, assignment for the
+benefit of creditors or any other action or proceeding involving the Subordinated Obligations, or the application of the assets of the
+Company to the payment or liquidation thereof, the senior creditors shall be entitled to receive payment in full in cash of all of the
+Senior Obligations prior to the payment of any part of the Subordinated Obligations.
+
+ 
+
+7.2
+If, notwithstanding the provisions of 
+Section 7.1
+ of this Note, any payment or distribution of any character (whether in cash,
+securities or other property) or any security shall be received by the Subordinated Creditor, in each case, in respect of this Note,
+in contravention of 
+Section 7.1
+, and before all the Senior Obligations shall have been indefeasibly paid in full in cash (other
+than contingent obligations for which no claim or demand has been made), such payment, distribution or security shall be held in trust
+for the benefit of, and shall be immediately paid over or delivered or transferred to, the senior creditors or the agent for the senior
+creditors for the benefit of the senior creditors, as applicable. Such payments received by the Subordinated Creditor and delivered to
+the senior creditors or the agent for the senior creditors, as applicable, shall be deemed not to be a payment on this Note for any reason
+whatsoever and the indebtedness under this Note shall remain as if such erroneous payment had never been paid by the Company or received
+by the Subordinated Creditor. In the event of the failure of the Subordinated Creditor to endorse or assign any such payment, distribution
+or security, a senior creditor is hereby irrevocably authorized to endorse or assign the same.
+
+ 
+
+ 
+
+-B-
+6
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+8.
+
+Treatment of the Notes
+. The Company and the Holder agree, unless otherwise required by a change in applicable law or by a determination
+(as defined in Section 1313(a) of the Code), (i) not to treat this Note as a “contingent payment debt instruments” governed
+by Treasury Regulations Section 1.1275-4, and (ii) not to file any tax return, statement, report or declaration inconsistent with the
+foregoing.
+
+ 
+
+9.
+
+Transfers; Successors and Assigns.
+
+ 
+
+9.1
+This Note, and the obligations and rights of the parties hereunder, shall be binding upon and inure to the benefit of the Company, the
+holder of this Note, and their respective heirs, successors and assigns; provided, however, that the Company may not transfer or assign
+its obligations hereunder, by operation of law or otherwise, without the written consent of the Requisite Holders; and provided further
+that the Holder may not transfer or assign its rights hereunder, by operation of law of otherwise, except to an Affiliate, without the
+consent of the Company. Any purported transfer by a Holder in violation of this paragraph shall be void 
+ab initio
+.
+
+ 
+
+9.2
+Notwithstanding anything else in this Note to the contrary, the right of any Holder (or transferee) to receive principal or interest
+payments under this Note may be transferred only through the surrender of the current Note and reissuance of a new note by the Company
+pursuant to the provisions of this paragraph. The foregoing language is intended to cause the Note to be in “registered form”
+as defined in Treasury Regulations Sections 5f.103-1(c) and 1.871-14(c) and shall be interpreted and applied consistently therewith.
+
+ 
+
+10.
+
+No Rights or Liabilities as Stockholder; No Personal Liability.
+ This Note does not by itself entitle the Holder to any voting
+rights or other rights as a stockholder of the Company. In the absence of conversion of this Note, no provisions of this Note, and no
+enumeration herein of the rights or privileges of the Holder, shall cause the Holder to be a stockholder of the Company for any purpose.
+Holder agrees that no stockholder, director or officer of the Company shall have any personal liability for the repayment of this Note.
+
+ 
+
+11.
+
+Amendment
+. This Note may be amended or modified, or compliance with any term, covenant, agreement, condition or provision set
+forth herein may be omitted or waived, either generally or in a particular instance and either retroactively or prospectively, upon written
+consent of the Company and the Requisite Holders; provided, however, that (i) no such change, addition, omission or waiver shall reduce
+the principal or interest rate on any Note, without the consent of the holder thereof and (ii) no amendment shall be effective against
+a Holder which materially and adversely affects such Holder’s rights under such Holder’s Notes in a manner that is adverse
+to and materially different from the effect on other Holders of the Notes, without such Holder’s written consent.
+
+ 
+
+ 
+
+-B-
+7
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+12.
+
+Notices
+. All notices and other communications given or made pursuant to this Agreement shall be in writing and shall be deemed
+effectively given upon the earlier of actual receipt or: (i) personal delivery to the party to be notified, (ii) when sent, if sent by
+electronic mail during normal business hours of the recipient, and if not sent during normal business hours, then on the recipient’s
+next Business Day, (iii) five (5) days after having been sent by registered or certified mail, return receipt requested, postage prepaid,
+or (iv) one (1) Business Day after deposit with a nationally recognized overnight courier, freight prepaid, specifying next Business
+Day delivery, with written verification of receipt. All communications shall be sent to the respective parties at their address as set
+forth on their signature pages to the Purchase Agreement, or to such e-mail address or address as subsequently modified by written notice
+given in accordance with this Section 11. If notice is given to the Company, a copy shall also be sent to Sullivan & Cromwell LLP,
+125 Broad Street, New York, NY 10004, Attn: Jared Fishman, which copy shall not constitute notice.
+
+ 
+
+13.
+
+Severability
+. If one or more provisions of this Note are held to be unenforceable under applicable law, such provision shall be
+excluded from this Note and the balance of the Note shall be interpreted as if such provision were so excluded and shall be enforceable
+in accordance with its terms.
+
+ 
+
+14.
+
+Governing Law
+. This Note and the obligations of the Company hereunder shall be governed by and interpreted and determined in accordance
+with, the laws of the General Corporation Law of the State of Delaware as to matters within the scope thereof, and as to all other matters
+shall be governed by, and construed in accordance with, the internal laws of the State of Delaware (excluding the laws and rules of law
+applicable to conflicts or choice of law).
+
+ 
+
+15.
+
+Intercreditor Provisions
+. This Note constitutes a part of a series of obligations, together with all other Notes issued under
+this series (collectively, the “
+Subordinated Obligations
+”, and each holder or lender thereof, a “
+Subordinated
+Creditor
+”). By accepting this Note, the Subordinated Creditor hereof agrees that any and all payments under the Subordinated
+Obligations as between all Subordinated Creditors shall be paid equally and ratably. Furthermore, without the approval or joinder of
+the Requisite Holders, no Subordinated Creditor may accelerate the obligations of the Company under its Subordinated Obligations and
+commence and complete the exercise of all of its other rights and remedies thereunder. No Subordinated Creditor has an obligation to
+the other Subordinated Creditors to take any steps with regard to the enforcement or protection of other Subordinated Creditors’
+rights to the security for its Subordinated Obligation. In the event of a default by the Company under any Subordinated Obligation, should
+any payment, distribution or security or proceeds be received by a Subordinated Creditor upon or with respect to such Subordinated Creditor’s
+Subordinated Obligation prior to the satisfaction in full of the default, such Subordinated Creditor shall immediately deliver the same
+equally and ratably to all Subordinated Creditors in the form received (except for endorsement or assignment by such Subordinated Creditor
+where required), for ratable application on the Subordinated Obligations (whether or not then due) and, until so delivered, the same
+shall be held in trust on behalf of all Subordinated Creditors by such Subordinated Creditor as the property of all Subordinated Creditors.
+Notwithstanding anything herein to the contrary, the Company may not prepay a Subordinated Obligation at any time in whole or in part,
+unless (i) no default exists under the Subordinated Obligations, (ii) such payment on the Subordinated Obligations will be paid equally
+and ratably to all Subordinated Creditors, or (iii) all Subordinated Creditors otherwise agree in writing to such prepayment.
+
+ 
+
+[Signature
+on following page]
+
+ 
+
+ 
+
+-B-
+8
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, this Note has been duly executed on behalf of the undersigned on the day and in the year first written above.
+
+ 
+
+ 
+
+ 
+
+AST
+ SPACEMOBILE, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+[●]             
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+[●]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Place
+of Execution: [New York, New York]
+
+ 
+
+[Signature
+Page to Convertible Note]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, this Note has been duly acknowledged on behalf of the undersigned on the day and in the year first written above.
+
+ 
+
+ 
+
+ 
+
+[PURCHASER]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+[●]           
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+[●]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Place
+of Execution: [New York, New York]
+
+ 
+
+[Signature
+Page to Convertible Note]

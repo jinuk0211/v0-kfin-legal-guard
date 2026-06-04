@@ -1,0 +1,3133 @@
+EX-10.17C
+
+2
+
+ex10-17c.htm
+
+EX-10.17C
+
+ 
+
+Exhibit 10.17(c)
+
+Loan No. RX0024T11
+
+ 
+
+PROMISSORY NOTE AND SUPPLEMENT
+
+(Multiple Advance Term Loan)
+
+ 
+
+THIS
+PROMISSORY NOTE AND SUPPLEMENT 
+(this “
+Promissory Note and Supplement
+”) is entered into as of May 11, 2023 between
+
+TIDEWATER UTILITIES, INC.
+, a Delaware corporation (the “
+Company
+”), and 
+CoBANK, ACB
+, a federally chartered
+instrumentality of the United States (“
+CoBank
+”), and supplements that certain Master Loan Agreement dated as of May
+23, 2003, as amended by the Amendment dated as of September 28, 2004, the Second Amendment to Master Loan Agreement dated as of August
+22, 2005 and the Third Amendment to Master Loan Agreement dated as December 1, 2015 (as further amended or restated from time to time,
+the “
+MLA
+”). Capitalized terms used herein and not defined herein shall have the meanings given to those terms in the
+MLA.
+
+ 
+
+SECTION 1.
+The Commitment
+. On the terms and conditions set forth in the MLA and this Promissory Note and Supplement, CoBank agrees to make loans
+(each, a “
+Loan
+”) to the Company from time to time during the period set forth below in an aggregate principal amount
+not to exceed $20,000,000 (the “
+Commitment
+”). Under the Commitment, amounts borrowed and later repaid may not be reborrowed.
+
+ 
+
+SECTION 2.
+Purpose
+. The purpose of the Commitment is to: (A) refinance the outstanding principal balance of the loans made by CoBank to the Company
+from time to time under that certain Promissory Note and Supplement (Revolving Term Loan Supplement) dated as of March 19, 2009 and number
+RX0024T6, as amended by a First Amendment to Promissory Note and Supplement dated as of August 31, 2011, a Second Amendment to Promissory
+Note and Supplement dated as of October 15, 2014, a Third Amendment to Promissory Note and Supplement dated as of March 7, 2017, a Fourth
+Amendment to Promissory Note and Supplement dated as of August 19, 2020, an Omnibus Amendment to Promissory Notes and Supplements dated
+as of December 6, 2022 and a Sixth Amendment to Promissory Note and Supplement dated as of the date hereof (the “
+Revolving Term
+Loan
+”); (B) refinance debt of the Company to Middlesex Water Company (“
+Middlesex Water
+”) that was incurred
+to finance capital expenditures; and (C) finance additional capital expenditures.
+
+ 
+
+SECTION
+3. Term of Commitment
+. The term of the Commitment shall be from the date hereof up to and including December 20, 2023, or such later
+date as CoBank may, in its sole discretion, authorize in writing.
+
+ 
+
+SECTION 4.
+Availability
+. Notwithstanding Section 2 of the MLA: (A) Loans will be made available upon written request in form and content prescribed
+by CoBank (the “
+Request for Loan
+”); (B) Loans to be made for the purpose of refinancing the Revolving Term Loan will
+be made by CoBank retaining the proceeds of the Loans and applying them against the unpaid principal balance of the Revolving Term Loan;
+and (C) Loans to be made for the purpose of refinancing the Company’s existing indebtedness owed to Middlesex Water will be made
+by wire transfer of immediately available funds directly to Middlesex Water.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECTION 5. Interest
+.
+
+ 
+
+(A)       Rate
+Options
+. The Company agrees to pay interest on the unpaid balance of the Loans in accordance with one or more of the following interest
+rate options, as selected by the Company:
+
+ 
+
+(1)       Weekly
+Variable Rate Option
+. At a rate per annum equal to the rate of interest established by CoBank for the Company in CoBank’s sole
+and absolute discretion on the first Business Day of each week (the “
+Variable Rate Option
+”). The rate of interest so
+established by CoBank shall be effective from and including the first Business Day of each week to and excluding the first Business Day
+of the next week. Each change in the rate shall be applicable to all balances subject to this option, without the necessity of notice
+provided to the Company, and information about the Company’s then current rate shall be made available upon telephonic request.
+
+ 
+
+(2)       Quoted
+Rate Option
+. At a fixed rate per annum to be quoted by CoBank in its sole discretion in each instance (the “
+Quoted Fixed
+Rate Option
+”). Under this option, rates may be fixed on such balances and for such periods (each, a “
+Quoted Fixed Rate
+Period
+”) as may be agreeable to CoBank in its sole discretion in each instance, provided that: (a) rates may not be fixed for
+Quoted Fixed Rate Periods of less than one year; (b) rates may only be fixed on balances of not less than $100,000.00; and (c) the maximum
+number of balances that may be subject to this option at any one time shall be five (5).
+
+ 
+
+(B)       Elections
+.
+Subject to the limitations set forth above, the Company: (1) shall select the applicable rate option(s) at the time it requests a Loan;
+(2) may, on any Business Day, elect to convert balances bearing interest at the Variable Rate Option to the Quoted Fixed Rate Option;
+and (3) may, on the last day of any Quoted Fixed Rate Period, elect to refix the rate under the Quoted Fixed Rate Option or convert the
+balance to the Variable Rate Option. In the absence of an election provided for herein, the Company shall be deemed to have elected the
+Variable Rate Option. All elections provided for herein may be made telephonically, in writing, or, if agreed to in a separate agreement,
+electronically, and must be received by 12:00 noon Company’s local time on the applicable day. Any election made telephonically,
+shall be promptly confirmed in writing if so requested by CoBank. Notwithstanding the foregoing, while a Default or Event of Default exists
+the Company may not fix rates under the Quoted Fixed Rate Option.
+
+ 
+
+(C)       Calculation
+and Payment
+. Interest shall be calculated on the actual number of days the Loans are outstanding on the basis of a year consisting
+of 360 days. In calculating interest, the date each Loan is made shall be included and the date each Loan is repaid shall, if received
+before 3:00 P.M. Mountain time, be excluded. Interest shall be: (1) calculated monthly in arrears as of the last day of each calendar
+month and on the final maturity date of the Loans; and (2) due and payable on the 20
+th
+ day of the following calendar month
+and on the final maturity date of the Loans.
+
+ 
+
+SECTION 6.
+Commitment Fee
+. The Company agrees to pay to CoBank a commitment fee on the average daily unused portion of the Commitment at the
+rate of 0.15% per annum (calculated on an actual/360 day basis). Fees shall be: (A) calculated monthly in arrears as of the last day of
+each calendar month and on the date the Commitment expires or is terminated; and (B)
+
+ 
+
+2
+ 
+
+ 
+
+ 
+
+ 
+
+shall be due and payable on the
+20
+th
+ day of the following calendar month and on the date the Commitment expires or is terminated. Such fee shall be payable
+for each calendar month (or portion thereof) occurring during the original or any extended term of the Commitment.
+
+ 
+
+SECTION 7.
+Promissory Note
+. The Company promises to repay the Loans to CoBank or order on March 20, 2033. In addition to the above, the Company
+promises to pay to CoBank or order interest on the unpaid principal balance of the Loans at the times and in accordance with the provisions
+set forth above. If any date on which principal or interest is due is not a Business Day, then such payment shall be due and payable on
+the next Business Day and, in the case of principal, interest shall continue to accrue on the amount thereof.
+
+ 
+
+SECTION 8. Prepayment
+.
+Subject to Section 10.01 of the MLA, the Company may, on three Business Days’ prior written notice, prepay all or any portion of
+the Loans. Unless otherwise agreed, all prepayments will be applied to such balances, fixed or variable, as CoBank shall specify.
+
+ 
+
+SECTION 9.
+Security
+. The Company’s obligations hereunder and, to the extent related hereto, the MLA, shall be secured as provided in Section
+2.04 of the MLA.
+
+ 
+
+SECTION 10.
+Conditions Precedent
+. In addition to the conditions precedent set forth in the MLA, CoBank’s obligation to make:
+
+ 
+
+(A)       Initial
+Loan
+. The initial Loan to the Company hereunder is subject to the conditions precedent that CoBank shall have received each of the
+following (which in the case of instruments or documents, must be originals, duly executed, and in form and content acceptable to CoBank):
+(A) an amendment to the Mortgage (the “
+Mortgage Amendment
+”); (B) such evidence as CoBank shall require that the Mortgage
+Amendment has been recorded in all places where the Mortgage has been recorded; and (C) a lien search conducted in the office of the Delaware
+Secretary of State showing that there are no Liens on any property of the Company other than Liens in favor of CoBank and Liens permitted
+under Section 6.01 of the MLA.
+
+ 
+
+(B)       Each
+Loan
+. Each Loan to the Company (including the initial Loan) is subject to the condition precedent that CoBank receive a duly completed
+and executed Request for Loan.
+
+ 
+
+SECTION
+11. Representations and Warranties
+. In addition to the representations and warranties set forth in the MLA, the Company
+represents and warrants to CoBank that Appendix B to the Mortgage (as amended) sets forth all real property and interests in real
+property of the Company as of the date hereof, including without limitation, all real property on or under which the Company has a
+well, water treatment plant, or water storage facility.
+
+ 
+
+SECTION 12.
+Counterparts and Electronic Delivery
+. This Promissory Note and Supplement may be executed in counterparts (and by different parties
+in different counterparts), each of which shall constitute an original, and all of which when taken together shall constitute a single
+agreement. In addition, this Promissory Note and Supplement may be delivered by electronic means.
+
+ 
+
+Signature page on next page
+
+ 
+
+3
+ 
+
+ 
+
+ 
+
+ 
+
+Checklist Documents
+
+ 
+
+IN WITNESS WHEREOF,
+ the
+parties have caused this Promissory Note and Supplement to be executed by their duly authorized officers as of the date shown above.
+
+ 
+
+ 
+
+ 
+
+CoBANK,ACB
+
+ 
+ 
+
+ 
+
+TIDEWATER UTILITIES, INC.
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Jared A. Greene
+
+ 
+ 
+
+ 
+
+By:
+
+ 
+
+/s/ Robert J. Capko
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Jared A. Greene
+
+ 
+ 
+
+ 
+
+Name:
+
+ 
+
+Robert J. Capko
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Assistant Corporate Secretary
+
+ 
+ 
+
+ 
+
+Title:
+
+ 
+
+Treasurer
+
+ 
+
+ 
+
+ 
+
+Signature page to Promissory
+Note and Supplement (Multiple Advance Term Loan) (RX0024Tl I)
+
+ 
+
+4
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tax Parcel No.: See Attached List
+of Parcel Numbers
+
+ 
+
+Prepared by/Return to:
+
+Richards, Layton & Finger, P.A.
+
+P.O. Box 551
+
+Wilmington, DE 19899
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AMENDMENT TO COMBINATION WATER
+UTILITY REAL ESTATE MORTGAGE AND SECURITY AGREEMENT
+
+ 
+
+BY
+
+ 
+
+TIDEWATER UTILITIES, INC.
+
+1100 South Little Creek Road
+
+Dover, DE 19901
+
+ 
+
+IN FAVOR OF
+
+ 
+
+COBANK,ACB
+
+6340 South Fiddlers Green Circle
+
+Greenwood Village, Colorado 80111
+
+ 
+
+ 
+
+THE MORTGAGE GRANTS A SECURITY
+INTEREST BY A TRANSMITTING UTILITY
+
+ 
+
+THE MORTGAGE
+CONTAINS AFTER ACQUIRED PROPERTY PROVISIONS AND SUCH AFTER ACQUIRED PROPERTY IS SECURED BY THE MORTGAGE
+
+ 
+
+THIS AMENDMENT TO COMBINATION WATER
+UTILITY REAL ESTATE MORTGAGE AND SECURITY AGREEMENT MAY BE FILED AS A FINANCING STATEMENT AND MAY BE RECORDED IN THE REAL PROPERTY RECORDS
+
+ 
+
+THIS AMENDMENT
+INCREASES THE AMOUNT THAT MAY BE SECURED BY THE MORTGAGE AND ADDS NEW DEBT TO THE DEBT SECURED BY THE MORTGAGE
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sussex County
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LIST OF TAX PARCEL NUMBERS
+
+ 
+
+ 
+
+Sussex County
+
+ 
+
+3-34.13.00-543.1
+
+2-34.11.20-91.00
+
+2-34-11.16-4.00
+
+2-34.11.00-64.1
+
+3-31-3.00-232.00
+
+3-34-12.00-377.00
+
+4-32-7.00-32.02
+
+1-33-10.00-83.01
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AMENDMENT TO COMBINATION WATER
+UTILITY REAL ESTATE MORTGAGE AND SECURITY AGREEMENT
+
+ 
+
+THIS AMENDMENT TO COMBINATION
+WATER UTILITY REAL ESTATE MORTGAGE AND SECURITY AGREEMENT 
+(this 
+"Amendment")
+ is entered into as of May 11,
+2023, between 
+TIDEWATER UTILITIES, INC.,
+ a Delaware corporation (the 
+"Company"),
+ and 
+CoBANK, ACB, 
+a
+federally chartered instrumentality of the United States 
+("CoBank").
+
+ 
+
+RECITALS
+
+ 
+
+WHEREAS, CoBank
+and the Company are parties to that certain Master Loan Agreement dated as of May 23, 2003 and various amendments thereto (as amended,
+the 
+"MLA");
+
+ 
+
+WHEREAS, in
+connection with the MLA, CoBank is the mortgagee under the Combination Water Utility Mortgage and Security Agreement between the Company
+and CoBank dated as of May 23, 2003 and recorded in the Office of the Recorder of Deeds in and for Sussex County, State of Delaware 
+("Recorder's
+Office")
+ in Mortgage Book 5554, Page 159, as amended by an Amendment to Combination Water Utility Real Estate Mortgage and Security
+Agreement dated as of September 28, 2004 and recorded in the Recorder's Office in Mortgage Book 7095, Page 72, an Amendment to Combination
+Water Utility Real Estate Mortgage and Security Agreement dated April 22, 2005 and recorded in the Recorder's Office in Mortgage Book
+7967, Page 314, an Amendment to Combination Water Utility Real Estate Mortgage and Security Agreement dated as of March 19, 2009 and recorded
+in the Recorder's Office in Mortgage Book 10940, Page 216, an Amendment to Combination Water Utility Real Estate Mortgage and Security
+Agreement dated as of October 15, 2014 and recorded in the Recorder's Office in Mortgage Book 14517, Page 186, and an Amendment to Combination
+Water Utility Real Estate Mortgage and Security Agreement dated as of March 29, 2021 and recorded in the Recorder's Office in Mortgage
+Book 19639, Page 216 (collectively, as amended, the 
+"Mortgage");
+
+ 
+
+WHEREAS, pursuant
+to the MLA, CoBank made various loans to the Company evidenced by the notes described on Appendix A to the Mortgage;
+
+ 
+
+WHEREAS, pursuant
+to the MLA, CoBank has agreed to extend $20,000,000 in additional loans to the Company to be evidenced by that certain Promissory Note
+and Supplement (Multiple Advance Term Loan) dated as of May 11, 2023;
+
+ 
+
+WHEREAS, in
+connection therewith, the parties desire to amend the existing Mortgage as set forth herein to give notice of the increase in the secured
+obligations of the Company; and
+
+ 
+
+WHEREAS,
+the Mortgage, as amended hereby, remains in full force and effect and the lien and security interest and the priority of such lien and
+security interest granted thereunder continues (without interruption) thereunder. Except as amended hereby, the Mortgage shall otherwise
+remain unchanged. Capitalized terms used but not defined herein shall have the meanings assigned to such terms or defined by reference
+in the Mortgage.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NOW, THEREFORE,
+for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+ 
+
+SECTION 1.
+Recitals.
+ The recitals set forth above constitute an integral part of this Amendment, are true and correct, and such recitals and
+the Mortgage are incorporated herein by this reference with the same force and effect as if fully set forth herein.
+
+ 
+
+SECTION 2.
+Amendment.
+ Appendix A is hereby amended and restated as provided in Appendix A hereto.
+
+ 
+
+SECTION
+3. Ratification.
+ The Company hereby confirms and ratifies the Mortgage, and confirms and agrees that the Mortgaged Property shall
+secure all of the Company's obligations under the Credit Agreements, including, without limitation, those shown on Appendix A hereto.
+
+ 
+
+Signature pages follow
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, TIDEWATER
+UTILITIES, INC., as Mortgagor, has caused this Amendment to be signed in 
+its
+
+name and 
+its 
+corporate seal to be hereunto 
+affixed 
+and
+attested by its officers thereunto duly authorized, all as of the 
+day 
+and
+year first above written..
+
+ 
+
+ 
+
+Signed, sealed and
+delivered in the presence of:
+
+ 
+ 
+
+ 
+
+TIDEWATER UTILITIES, INC., Mortgagor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+/s/ Jay L. Kooper
+
+ 
+ 
+
+ 
+By:
+
+ 
+/s/ Robert J. Capko
+
+ 
+(SEAL)
+
+ 
+Witness
+
+ 
+ 
+
+ 
+Name:
+
+ 
+Robert J. Capko
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Title
+
+ 
+Treasurer
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Attest:
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+By:
+
+ 
+/s/ Jay L. Kooper
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Name:
+
+ 
+Jay L. Kooper
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Title
+
+ 
+General Counsel and Secretary
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+STATE OF 
+New
+Jersey
+
+)
+
+ 
+
+COUNTY
+OF
+ 
+Middlesex
+)
+
+ 
+
+The foregoing instrument
+was acknowledged before me this 
+9
+th
+
+ day of 
+May
+, 2023, by Robert J. Capko, as Treasurer of Tidewater Utilities,
+Inc., a Delaware corporation, on behalf of said corporation.
+
+ 
+
+IN WITNESS WHEREOF, I have hereunto set my hand and affixed 
+my
+ official seal
+in the County and State aforesaid, the day and year in first above written.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+/s/ Tracy L. Tyrell
+
+ 
+
+(SEAL)
+
+ 
+
+ 
+ 
+
+ 
+
+Notary Public
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Name: 
+Tracy L. Tyrell
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+My commission expires: 
+3/16/2027
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signature page to Amendment to Combination Water Utility Real
+Estate Mortgage and Security Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Checklist Documents
+
+Document# 2023000017001 BK: 21755 PG: 255
+
+Recorder of Deeds, Alexandra Reed
+Baker On 5/17/2023 at 9:54:35 AM Sussex County, DE
+
+Doc Surcharge Paid
+
+ 
+
+ 
+
+IN WITNESS
+WHEREOF, CoBANK, ACB, 
+as Mortgagee, has caused this Amendment to be signed in its name and its corporate seal to be hereunto affixed
+and attested by its officers thereunto duly authorized, all as of the day and year first above written.
+
+ 
+
+ 
+
+Signed, sealed and
+delivered in the presence of:
+
+ 
+ 
+
+ 
+
+CoBANK, ACB., Mortgagee
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+/s/ Daphne Satriano
+
+ 
+ 
+
+ 
+By:
+
+ 
+/s/ Jared A. Greene
+
+ 
+(SEAL)
+
+ 
+Witness
+
+ 
+ 
+
+ 
+Name:
+
+ 
+Jared A. Greene
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Title
+
+ 
+Assistant Corporate Secretary
+
+ 
+ 
+
+ 
+
+STATE OF 
+Colorado
+)
+
+ 
+
+COUNTY
+OF
+ 
+Arapahoe
+)
+
+ 
+
+The foregoing instrument
+was acknowledged before me this 
+10
+th
+
+ day of 
+May
+, 2023, by Jared A. 
+Greene
+,
+as Assistant Corporate Secretary of CoBank, ACB, , a federally chartered instrumentality of the Untied States, on behalf of said corporation.
+
+ 
+
+IN 
+WITNESS
+
+WHEREOF, I have hereunto set my hand and affixed 
+my
+ official seal
+in the County and State aforesaid, the day and year in first above written.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+/s/ Megan Moloznik
+
+ 
+
+(SEAL)
+
+ 
+
+ 
+ 
+
+ 
+
+Notary Public
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Name: 
+Megan Moloznik
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+My commission expires: 
+2/21/2026
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signature page to Amendment to Combination Water Utility Real
+Estate Mortgage and Security Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+APPENDIX A- 
+-
+
+CERTAIN OBLIGATIONS; ETC.
+
+ 
+
+1.
+
+The "Credit Agreement" referred to in Section 1.01 of the Mortgage includes but is not limited
+to the following:
+
+(A)
+
+Master Loan Agreement dated as of May 23, 2003 and numbered RX0024;
+
+(B)
+
+Promissory Note and Supplement dated as of May 23, 2003 and numbered RX0024Tl in the principal amount
+of $3,187,241.75;
+
+(C)
+
+Promissory Note and Supplement dated as of May 23, 2003 and numbered RX0024T2 in the principal amount
+of $10,500,000;
+
+(D)
+
+Promissory Note and Supplement dated as of August 22, 2005, and numbered RX0024T3 in the principal amount
+of $7,000,000;
+
+(E)
+
+Promissory Note and Supplement dated as of August 22, 2005, and numbered RX0024T4 in the principal amount
+of $7,000,000;
+
+(F)
+
+Promissory Note and Supplement dated as of August 22, 2005, and numbered RX0024T5 in the principal amount
+of $7,000,000;
+
+(G)
+
+Promissory Note and Supplement dated as of March 19, 2009, and numbered RX0024T6 in the principal amount
+of $10,000,000;
+
+(H)
+
+Promissory Note and Supplement dated as of March 19, 2009, and numbered RX0024T7 in the principal amount
+of $7,000,000;
+
+(I)
+
+Promissory Note and Supplement dated as of March 19, 2009, and numbered RX0024T8 in the principal amount
+of $15,000,000;
+
+(J)
+
+Promissory Note and Supplement dated as of October 15, 2014, and numbered RX0024T9 in the principal
+amount of $15,000,000;
+
+(K)
+
+Promissory Note and Supplement dated as of March 29, 2021, and numbered RX0024Tl 
+O
+
+in the principal amount of $20,000,000;
+
+(L)
+
+Promissory Note and Supplement dated as of May 11, 2023, and numbered RX0024Tl 1 in the principal amount
+of $20,000,000; and
+
+(M)
+
+All amendments to and restatements of any of the foregoing.
+
+ 
+
+2.
+
+The "Maximum Debt Limit" is: $122,000,000.00 plus: (1) all accrued interest, prepayment premiums,
+fees and other charges owing to the Mortgagee; and (2) other sums as provided in Section 6.09 of the Mortgage.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tax Parcel No.: See Attached
+List of Parcel Numbers
+
+ 
+
+Prepared by/Return to:
+
+Richards, Layton & Finger, P.A.
+
+P.O. Box 551
+
+Wilmington, DE 19899
+
+ 
+
+ 
+
+ 
+
+ 
+
+AMENDMENT TO COMBINATION WATER
+UTILITY REAL ESTATE MORTGAGE AND SECURITY AGREEMENT
+
+ 
+
+BY
+
+ 
+
+TIDEWATER UTILITIES, INC.
+
+1100 South Little Creek Road
+Dover, DE 19901
+
+ 
+
+IN FAVOR OF
+
+ 
+
+COBANK,ACB
+
+6340 South
+Fiddlers Green Circle Greenwood Village, Colorado 80111
+
+ 
+
+ 
+
+THE MORTGAGE GRANTS A SECURITY
+INTEREST BY A TRANSMITTING UTILITY
+
+ 
+
+THE MORTGAGE
+CONTAINS AFTER ACQUIRED PROPERTY PROVISIONS AND SUCH AFTER ACQUIRED PROPERTY IS SECURED BY THE MORTGAGE
+
+ 
+
+THIS AMENDMENT TO COMBINATION WATER
+UTILITY REAL ESTATE MORTGAGE AND SECURITY AGREEMENT MAY BE FILED AS A FINANCING STATEMENT AND MAY BE RECORDED IN THE REAL PROPERTY RECORDS
+
+ 
+
+THIS AMENDMENT
+INCREASES THE AMOUNT THAT MAY BE SECURED BY THE MORTGAGE AND ADDS NEW DEBT TO THE DEBT SECURED BY THE MORTGAGE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Kent County
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LIST OF TAX PARCEL NUMBERS
+
+ 
+
+ 
+
+Kent County
+
+ 
+
+NM 00-094.15-04-33.00-000
+
+NM 00-095.09-01-04.01-000
+
+ED 00-086.16-01-01.02-000
+
+ED-00-056.20-02-53.00-000
+
+SM-00-120.00-01-09.01-000
+
+SM-00-118.00-01-24.01-000
+
+WD-00-092.02-01-05.01-000
+
+NM-00-095.09-01-34.01-000
+
+ED-00-066.04-01-04.01-000
+
+ED-05-057.00-01-12.00-000
+
+LC-03-046.00-01-07.23-000
+
+DC-00-028.01-02-39.00-000
+
+DC-00-028.03-07-30.00-000
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AMENDMENT TO COMBINATION
+WATER UTILITY REAL ESTATE MORTGAGE AND SECURITY AGREEMENT
+
+ 
+
+THIS AMENDMENT TO COMBINATION
+WATER UTILITY REAL ESTATE MORTGAGE
+AND SECURITY AGREEMENT
+ (this 
+"Amendment")
+ is entered into as of May 11, 2023, between 
+TIDEWATER UTILITIES, INC.,
+
+a Delaware corporation (the 
+"Company"),
+ and 
+CoBANK, ACB,
+ a federally chartered instrumentality of the United States
+
+("CoBank").
+
+ 
+
+RECITALS
+
+ 
+
+WHEREAS, CoBank
+and the Company are parties to that certain Master Loan Agreement dated as of May 23, 2003 and various amendments thereto (as amended,
+the 
+"MLA");
+
+ 
+
+WHEREAS, in
+connection with the MLA, CoBank is the mortgagee under the Combination Water Utility Mortgage and Security Agreement from the Company
+to CoBank dated as of May 23, 2003 and recorded in the Office of the Recorder of Deeds in and for Kent County, State of Delaware 
+("Recorder's
+Office")
+ in Mortgage Book 1787, Page 183, as amended by an Amendment to Combination Water Utility Real Estate Mortgage and Security
+Agreement dated as of September 28, 2004 and recorded in the Recorder's Office in Mortgage Book 654, Page 50, an Amendment to Combination
+Water Utility Real Estate Mortgage and Security Agreement dated April 22, 2005 and recorded in the Recorder's Office in Document No. 2005-24464
+{RE, Volume 2289, Page 172), an Amendment to Combination Water Utility Real Estate Mortgage and Security Agreement dated as of March 19,
+2009 and recorded in the Recorder's Office in Document No. 143809 (RE, Volume 4874, Page 42), an Amendment to Combination Water Utility
+Real Estate Mortgage and Security Agreement dated as of October 15, 2014 and recorded in the Recorder's Office in Document No. 263382
+(RE, Volume 7379, Page 155), and an Amendment to Combination Water Utility Real Estate Mortgage and Security Agreement dated as of March
+29, 2021 and recorded in the Recorder's Office in Document No. 413433 (RE, Volume 10938, Page 312) (collectively, as amended, the 
+"Mortgage");
+
+WHEREAS,
+pursuant to the MLA, CoBank made various loans to the Company evidenced by the notes described on Appendix A to the Mortgage;
+
+ 
+
+WHEREAS, pursuant
+to the MLA, CoBank has agreed to extend $20,000,000 in additional loans to the Company to be evidenced by that certain Promissory Note
+and Supplement (Multiple Advance Term Loan) dated as of May 11, 2023;
+
+ 
+
+WHEREAS, in
+connection therewith, the parties desire to amend the existing Mortgage as set forth herein to give notice of the increase in the secured
+obligations of the Company; and
+
+ 
+
+WHEREAS, the
+Mortgage, as amended hereby, remains in full force and effect and the lien and security interest and the priority of such lien and security
+interest granted thereunder continues (without interruption) thereunder. Except as amended hereby, the Mortgage shall otherwise remain
+unchanged. Capitalized terms used but not defined herein shall have the meanings assigned to such terms or defined by reference in the
+Mortgage.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NOW, THEREFORE,
+for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+ 
+
+SECTION
+1. Recitals.
+ The recitals set forth above constitute an integral part of this Amendment, are true and correct, and such recitals and
+the Mortgage are incorporated herein by this reference with the same force and effect as if fully set forth herein.
+
+ 
+
+SECTION 2.
+Amendment.
+ Appendix A is hereby amended and restated as provided in Appendix A hereto.
+
+ 
+
+SECTION 3.
+Ratification.
+ The Company hereby confirms and ratifies the Mortgage, and confirms and agrees that the Mortgaged Property shall secure
+all of the Company's obligations under the Credit Agreements, including, without limitation, those shown on Appendix A hereto.
+
+ 
+
+Signature pages follow
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Checklist Documents
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN WITNESS
+WHEREOF, TIDEWATER 
+UTILITIES,
+ INC., 
+as 
+Mortgagor, 
+has 
+caused
+this Amendment to be signed in 
+its 
+name and 
+its
+
+corporate seal to 
+be hereunto affixed by its officers thereunto duly authorized, 
+all 
+as
+of the day and year 
+first 
+above written.
+
+ 
+
+ 
+
+Signed, sealed and
+delivered in the presence of:
+
+ 
+ 
+
+ 
+
+TIDEWATER UTILITIES, INC., Mortgagor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+/s/ Jay L. Kooper
+
+ 
+ 
+
+ 
+By:
+
+ 
+/s/ Robert J. Capko
+
+ 
+
+ 
+Witness
+
+ 
+ 
+
+ 
+Name:
+
+ 
+Robert J. Capko
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Title
+
+ 
+Treasurer
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Attest:
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+By:
+
+ 
+/s/ Jay L. Kooper
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Name:
+
+ 
+Jay L. Kooper
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Title
+
+ 
+General Counsel and Secretary
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+STATE OF 
+New
+Jersey
+
+)
+
+ 
+
+COUNTY
+OF
+ 
+Middlesex
+)
+
+ 
+
+The foregoing instrument
+was acknowledged before me this 
+9
+th
+
+ day of 
+May
+, 2023, by Robert J. Capko, as Treasurer of Tidewater Utilities,
+Inc., a Delaware corporation, on behalf of said corporation.
+
+ 
+
+IN 
+WITNESS
+
+WHEREOF, I have hereunto set my hand and affixed 
+my
+ official seal
+in the County and State aforesaid, the day and year in first above written.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+/s/ Tracy L. Tyrell
+
+ 
+
+(SEAL)
+
+ 
+
+ 
+ 
+
+ 
+
+Notary Public
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Name: 
+Tracy L. Tyrell
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+My commission expires: 
+3/16/2027
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, CoBANK, ACB,
+ as Mortgagee, has caused this Amendment to be signed in its name and its corporate seal to be hereunto
+affixed and attested by its officers thereunto duly authorized, all as of the day and year first above written.
+
+ 
+
+Signed, sealed and
+delivered in the presence of:
+
+ 
+ 
+
+ 
+
+CoBANK, ACB., Mortgagee
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+/s/ Daphne Satriano
+
+ 
+ 
+
+ 
+By:
+
+ 
+/s/ Jared A. Greene
+
+ 
+(SEAL)
+
+ 
+Witness
+
+ 
+ 
+
+ 
+Name:
+
+ 
+Jared A. Greene
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Title
+
+ 
+Assistant Corporate Secretary
+
+ 
+ 
+
+ 
+
+STATE OF 
+Colorado
+)
+
+ 
+
+COUNTY
+OF
+ 
+Arapahoe
+)
+
+ 
+
+The foregoing instrument
+was acknowledged before me this 
+10
+th
+
+ day of 
+May
+, 2023, by Jared A. 
+Greene
+,
+as Assistant Corporate Secretary of CoBank, ACB, , a federally chartered instrumentality of the Untied States, on behalf of said corporation.
+
+ 
+
+IN 
+WITNESS
+
+WHEREOF, I have hereunto set my hand and affixed 
+my
+ official seal
+in the County and State aforesaid, the day and year in first above written.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+/s/ Megan Moloznik
+
+ 
+
+(SEAL)
+
+ 
+
+ 
+ 
+
+ 
+
+Notary Public
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Name: 
+Megan Moloznik
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+My commission expires: 
+2/21/2026
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+APPENDIX A 
+-
+-
+ CERTAIN OBLIGATIONS; ETC.
+
+ 
+
+1.
+
+The "Credit Agreement" referred to in Section 1.01 of the Mortgage includes but is not limited
+to the following:
+
+(A)
+
+Master Loan Agreement dated as of May 23, 2003 and numbered RX0024;
+
+(B)
+
+Promissory Note and Supplement dated as of May 23, 2003 and numbered RX0024Tl in the principal amount
+of$3,187,241.75;
+
+(C)
+
+Promissory Note and Supplement dated as of May 23, 2003 and numbered RX0024T2 in the principal amount
+of$10,500,000;
+
+(D)
+
+Promissory Note and Supplement dated as of August 22, 2005, and numbered RX0024T3 in the principal amount
+of$7,000,000;
+
+(E)
+
+Promissory Note and Supplement dated as of August 22, 2005, and numbered RX0024T4 in the principal amount
+of$7,000,000;
+
+(F)
+
+Promissory Note and Supplement dated as of August 22, 2005, and numbered RX0024T5 in the principal amount
+of$7,000,000;
+
+(G)
+
+Promissory Note and Supplement dated as of March 19, 2009, and numbered RX0024T6 in the principal amount
+of$10,000,000;
+
+(H)
+
+Promissory Note and Supplement dated as of March 19, 2009, and numbered RX0024T7 in the principal amount
+of$7,000,000;
+
+(I)
+
+Promissory Note and Supplement dated as of March 19, 2009, and numbered RX0024T8 in the principal amount
+of$15,000,000;
+
+(J)
+
+Promissory Note and Supplement dated as of October 15, 2014, and numbered RX0024T9 in the principal
+amount of$15,000,000;
+
+(K)
+
+Promissory Note and Supplement dated as of March 29, 2021, and numbered RX0024Tl 
+O
+
+in the principal amount of $20,000,000;
+
+(L)
+
+Promissory Note and Supplement dated as of May 11, 2023, and numbered RX0024T 11 in the principal amount
+of $20,000,000; and
+
+(M)
+
+All amendments 
+to
+ and restatements of any of the
+foregoing.
+
+ 
+
+2.
+
+The "Maximum Debt Limit" is: $122,000,000.00 plus: (1) all accrued interest, prepayment premiums,
+fees and other charges owing to the Mortgagee; and (2) other sums as provided in Section 6.09 of the Mortgage.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tax Parcel No.: See Attached List of
+Parcel N
+umbers
+
+ 
+
+ 
+
+Prepared by/Return to:
+
+Richards,
+Layton & Finger, P.A.
+
+P.O. Box 551
+
+Wilmington, DE 19899
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AMENDMENT TO COMBINATION
+WATER UTILITY REAL ESTATE MORTGAGE AND SECURITY AGREEMENT
+
+ 
+
+BY
+
+ 
+
+TIDEWATER UTILITIES, INC.
+
+1100 South Little Creek Road
+
+Dover, DE 19901
+
+ 
+
+IN FAVOR OF
+
+ 
+
+COBANK,ACB
+
+6340 South
+Fiddlers Green Circle
+
+Greenwood Village, Colorado 80111
+
+ 
+
+ 
+
+THE MORTGAGE GRANTS A SECURITY
+INTEREST BY A TRANSMITTING UTILITY
+
+ 
+
+THE MORTGAGE
+CONTAINS AFTER ACQUIRED PROPERTY PROVISIONS AND SUCH AFTER ACQUIRED PROPERTY IS SECURED BY THE MORTGAGE
+
+ 
+
+THIS AMENDMENT TO COMBINATION WATER
+UTILITY REAL ESTATE MORTGAGE AND SECURITY AGREEMENT MAY BE FILED AS A FINANCING STATEMENT AND MAY BE RECORDED IN THE REAL PROPERTY RECORDS
+
+ 
+
+THIS AMENDMENT
+INCREASES THE AMOUNT THAT MAY BE SECURED BY THE MORTGAGE AND ADDS NEW DEBT TO THE DEBT SECURED BY THE MORTGAGE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+New Castle County
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LIST OF TAX PARCEL NUMBERS
+
+ 
+
+ 
+
+New Castle County
+
+ 
+
+13-019.10-106
+
+ 
+
+13-019.10-051
+
+ 
+
+13-007.40-098
+
+ 
+
+13-011.00-122
+
+ 
+
+13-013.20-180
+
+ 
+
+11-057.00-014
+
+ 
+
+13-018.00-239
+
+ 
+
+13-012.00-106
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AMENDMENT TO COMBINATION WATER
+UTILITY REAL ESTATE MORTGAGE AND SECURITY AGREEMENT
+
+ 
+
+THIS AMENDMENT TO COMBINATION WATER
+UTILITY REAL ESTATE MORTGAGE AND SECURITY AGREEMENT
+ (this 
+"Amendment")
+ is entered into as of May 11, 2023, between
+
+TIDEWATER UTILITIES, INC.,
+ a Delaware corporation (the 
+"Company"),
+ and 
+CoBANK, ACB, 
+a federally chartered
+instrumentality of the United States 
+("CoBank").
+
+ 
+
+RECITALS
+
+ 
+
+WHEREAS, CoBank
+and the Company are parties to that certain Master Loan Agreement dated as of May 23, 2003 and various amendments thereto (as amended,
+the 
+"MLA");
+
+ 
+
+WHEREAS, in
+connection with the MLA, CoBank is the mortgagee under the Combination Water Utility Mortgage and Security Agreement from the Company
+to CoBank dated as of May 23, 2003 and recorded in the Office of the Recorder of Deeds in and for New Castle County, State of Delaware
+
+("Recorder's Office")
+ in Instrument No: 20030523-0063462, as amended by an Amendment to Combination Water Utility Real
+Estate Mortgage and Security Agreement dated as of September 28, 2004 and recorded in the Recorder's Office in Instrument No: 20041005-0108857,
+an Amendment to Combination Water Utility Real Estate Mortgage and Security Agreement dated April 22, 2005 and recorded in the Recorder's
+Office in Instrument No: 20050819-0083497, an Amendment to Combination Water Utility Real Estate Mortgage and Security Agreement dated
+as of March 19, 2009 and recorded in the Recorder's Office in Instrument No: 20090323-0016391, an Amendment to Combination Water Utility
+Real Estate Mortgage and Security Agreement dated as of October 15, 2014 and recorded in the Recorder's Office in Instrument No: 20141008-0045081,
+and an Amendment to Combination Water Utility Real Estate Mortgage and Security Agreement dated as of March 29, 2021 and recorded in the
+Recorder's Office in Instrument No: 20210405-0039622 (collectively, as amended, the 
+"Mortgage");
+
+ 
+
+WHEREAS, pursuant
+to the MLA, CoBank made various loans to the Company evidenced by the notes described on Appendix A to the Mortgage;
+
+ 
+
+WHEREAS, pursuant
+to the MLA, CoBank has agreed to extend $20,000,000 in additional loans to the Company to be evidenced by that certain Promissory Note
+and Supplement (Multiple Advance Term Loan) dated as of May 11, 2023;
+
+ 
+
+WHEREAS,
+in connection therewith, the parties desire to amend the existing Mortgage as set forth herein to give notice of the increase in the secured
+obligations of the Company; and
+
+ 
+
+WHEREAS, the
+Mortgage, as amended hereby, remains in full force and effect and the lien and security interest and the priority of such lien and security
+interest granted thereunder continues (without interruption) thereunder. Except as amended hereby, the Mortgage shall otherwise remain
+unchanged. Capitalized terms used but not defined herein shall have the meanings assigned to such terms or defined by reference in the
+Mortgage.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NOW, THEREFORE,
+for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+ 
+
+SECTION 1. Recitals.
+
+The recitals set forth above constitute an integral part of this Amendment, are true and correct, and such recitals and the Mortgage are
+incorporated herein by this reference with the same force and effect as if fully set forth herein.
+
+ 
+
+SECTION 2.
+Amendment.
+ Appendix A is hereby amended and restated as provided in Appendix A hereto.
+
+ 
+
+SECTION
+3. Ratification.
+ The Company hereby confirms and ratifies the Mortgage, and confirms and agrees that the Mortgaged Property shall
+secure all of the Company's obligations under the Credit Agreements, including, without limitation, those shown on Appendix A hereto.
+
+ 
+
+Signature pages follow
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Checklist Documents
+
+ 
+
+202305160031187 Page 5 of 7
+
+ 
+
+IN WITNESS WHEREOF,
+TIDEWATER 
+UTILITIES
+, INC., 
+as
+ Mortgagor, 
+has
+caused this Amendment to be signed in
+ its 
+name and its corporate seal to be hereunto affixed and
+attested by its officers thereunto duly authorized, 
+all
+ as of the day and year first above
+written.
+
+ 
+
+ 
+
+ 
+
+Signed, sealed and
+delivered in the presence of:
+
+ 
+ 
+
+ 
+
+TIDEWATER UTILITIES, INC., Mortgagor
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+/s/ Jay L. Kooper
+
+ 
+ 
+
+ 
+By:
+
+ 
+/s/ Robert J. Capko
+
+ 
+(SEAL)
+
+ 
+Witness
+
+ 
+ 
+
+ 
+Name:
+
+ 
+Robert J. Capko
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Title
+
+ 
+Treasurer
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Attest:
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+By:
+
+ 
+/s/ Jay L. Kooper
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Name:
+
+ 
+Jay L. Kooper
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Title
+
+ 
+General Counsel and Secretary
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+STATE OF 
+New
+Jersey
+
+)
+
+ 
+
+COUNTY
+OF
+ 
+Middlesex
+)
+
+ 
+
+The foregoing instrument
+was acknowledged before me this 
+9
+th
+
+ day of 
+May
+, 2023, by Robert J. Capko, as Treasurer of Tidewater Utilities,
+Inc., a Delaware corporation, on behalf of said corporation.
+
+ 
+
+IN 
+WITNESS
+
+WHEREOF, I have hereunto set my hand and affixed 
+my
+ official seal
+in the County and State aforesaid, the day and year in first above written.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+/s/ Tracy L. Tyrell
+
+ 
+
+(SEAL)
+
+ 
+
+ 
+ 
+
+ 
+
+Notary Public
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Name: 
+Tracy L. Tyrell
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+My commission expires: 
+3/16/2027
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signature
+ 
+page
+
+to
+ 
+Amendment
+ 
+to Combination Water
+
+Utility
+ 
+Real Estate Mortgage and
+ 
+Security
+Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Checklist Documents
+
+202305160031187 Page 6 of 7
+
+ 
+
+IN
+WITNESS WHEREOF, CoBANK, ACB,
+ as Mortgagee, has caused this Amendment to be signed in its name and its corporate seal to be hereunto
+affixed and attested by 
+
+its 
+
+officers thereunto duly authorized
+
+,
+
+all as of the day and
+ 
+year
+ 
+first
+
+above
+ 
+written.
+
+ 
+
+ 
+
+Signed, sealed and
+delivered in the presence of:
+
+ 
+ 
+
+ 
+
+CoBANK, ACB., Mortgagee
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+/s/ Daphne Satriano
+
+ 
+ 
+
+ 
+By:
+
+ 
+/s/ Jared A. Greene
+
+ 
+(SEAL)
+
+ 
+Witness
+
+ 
+ 
+
+ 
+Name:
+
+ 
+Jared A. Greene
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Title
+
+ 
+Assistant Corporate Secretary
+
+ 
+ 
+
+ 
+
+ 
+
+STATE OF 
+Colorado
+
+)
+
+ 
+
+COUNTY
+OF
+ 
+
+Arapahoe
+)
+
+ 
+
+The foregoing instrument
+was acknowledged before me this 
+10
+th
+
+ day of 
+May
+, 2023, by Jared A. 
+Greene
+,
+as Assistant Corporate Secretary of CoBank, ACB
+.,
+ a federally chartered instrumentality
+of the Untied States, on behalf of said corporation.
+
+IN 
+WITNESS
+
+WHEREOF, I have hereunto set my hand and affixed 
+my
+ official seal
+in the County and State aforesaid, the day and year in first above written.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+/s/ Megan Moloznik
+
+ 
+
+(SEAL)
+
+ 
+
+ 
+ 
+
+ 
+
+Notary Public
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Name: 
+Megan Moloznik
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+My commission expires: 
+2/21/2026
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signature
+ 
+page
+
+to
+ 
+Amendment
+ 
+to Combination Water
+
+Utility
+ 
+Real Estate Mortgage and
+ 
+Security
+Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Checklist Documents
+
+ 
+
+202305160031187 Page 7 of 7
+
+  
+
+APPENDIX A- 
+-
+
+CERTAIN OBLIGATIONS; ETC.
+
+ 
+
+1.
+
+The "Credit Agreement" referred to in Section 1.01 of the Mortgage includes but is not limited
+to the following:
+
+(A)
+
+Master Loan Agreement dated as of May 23, 2003 and numbered RX0024;
+
+(B)
+
+Promissory Note and Supplement dated as of May 23, 2003 and numbered RX0024Tl in the principal amount
+of $3,187,241.75;
+
+(C)
+
+Promissory Note and Supplement dated as of May 23, 2003 and numbered RX0024T2 in the principal amount
+of $10,500,000;
+
+(D)
+
+Promissory Note and Supplement dated as of August 22, 2005, and numbered RX0024T3 in the principal amount
+of $7,000,000;
+
+(E)
+
+Promissory Note and Supplement dated as of August 22, 2005, and numbered RX0024T4 in the principal amount
+of $7,000,000;
+
+(F)
+
+Promissory Note and Supplement dated as of August 22, 2005, and numbered RX0024T5 in the principal amount
+of $7,000,000;
+
+(G)
+
+Promissory Note and Supplement dated as of March 19, 2009, and numbered RX0024T6 in the principal amount
+of $10,000,000;
+
+(H)
+
+Promissory Note and Supplement dated as of March 19, 2009, and numbered RX0024T7 in the principal amount
+of $7,000,000;
+
+(I)
+
+Promissory Note and Supplement dated as of March 19, 2009, and numbered RX0024T8 in the principal amount
+of $15,000,000;
+
+(J)
+
+Promissory Note and Supplement dated as of October 15, 2014, and numbered RX0024T9 in the principal
+amount of $15,000,000;
+
+(K)
+
+Promissory Note and Supplement dated as of March 29, 2021, and numbered RX0024Tl 
+O
+
+in the principal amount of $20,000,000;
+
+(L)
+
+Promissory Note and Supplement dated as of May 11, 2023, and numbered RX0024Tl 1 in the principal amount
+of $20,000,000; and
+
+(M)
+
+All amendments to and restatements of any of the foregoing.
+
+ 
+
+2.
+
+The "Maximum Debt Limit" is: $122,000,000.00 plus: (1) all accrued interest, prepayment premiums,
+fees and other charges owing to the Mortgagee; and (2) other sums as provided in Section 6.09 of the Mortgage.

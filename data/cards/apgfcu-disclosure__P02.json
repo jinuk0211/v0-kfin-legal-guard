@@ -1,0 +1,434 @@
+{
+  "session_id": "US_APGFCU_Visa_Disclosure_P02",
+  "generated_at": "2026-05-05T17:16:15.622275+00:00",
+  "product": "APGFCU_Visa_Disclosure",
+  "doc_type": "credit_card_agreement",
+  "user_profile": {
+    "id": "P02",
+    "age": 28,
+    "occupation": "gig worker",
+    "financial_status": "low income",
+    "risk_flags": [
+      "irregular_income",
+      "low_income",
+      "late_payment_history"
+    ]
+  },
+  "executive_summary": "Analysis of APGFCU_Visa_Disclosure identified 7 consumer vulnerabilities. Overall risk level: HIGH. Key concerns: Cash advance fee, Late payment fee, Returned payment fee.",
+  "overall_risk_level": "HIGH",
+  "vulnerability_count": {
+    "CRITICAL": 6,
+    "HIGH": 1,
+    "MEDIUM": 0,
+    "LOW": 0,
+    "uncategorized": 1
+  },
+  "findings": [
+    {
+      "finding_id": "US-V002",
+      "taxonomy": "CC-01",
+      "title": "Cash advance fee",
+      "triggered_by": "Cash Advance Fee $5.00 or2.00% of the amount of each cash advance, whichever is greater (Maximum Fee:$500.00)",
+      "description": "Cash advance fee",
+      "status": "CONFIRMED",
+      "confidence": 0.85,
+      "user_relevance_score": 1.0,
+      "search_query_used": "credit card cash advance fee percentage minimum",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1601",
+            "verified": true
+          },
+          {
+            "law_name": "CFPB Regulation Z",
+            "article": "12 CFR Part 1026",
+            "verified": true
+          }
+        ],
+        "precedents": [
+          {
+            "case_number": "1804415",
+            "case_name": "Livingston v. Fast Cash USA, Inc.",
+            "court": "ind",
+            "date": "2001-08-16",
+            "summary": "",
+            "relevance_score": 0.981,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/853341/livingston-v-fast-cash-usa-inc/"
+          },
+          {
+            "case_number": "64297648",
+            "case_name": "In re Capital One Bank Credit Card Interest Rate Litigation",
+            "court": "gand",
+            "date": "2014-11-03",
+            "summary": "",
+            "relevance_score": 0.471,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/7309171/in-re-capital-one-bank-credit-card-interest-rate-litigation/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:2\uac74 | US statute:2\uac74",
+      "severity": "CRITICAL",
+      "plain_language_explanation": "This card charges you $5 or 2% (whichever is more) every time you get cash from an ATM or cash advance. These fees add up fast on top of interest.",
+      "user_impact": "With irregular income, cash advances seem tempting but will cost you $5-500 each time you need cash.",
+      "estimated_risk_scenario": "You need $200 cash for rent. The fee is $5, plus high interest starts immediately. If you can't pay it back quickly, you'll owe much more than you borrowed.",
+      "recommended_actions": [
+        {
+          "action": "Avoid cash advances entirely - use debit card or bank ATM instead",
+          "priority": "immediate",
+          "contact": "Your bank or credit union"
+        },
+        {
+          "action": "Set up automatic payments to avoid late fees that lead to cash advance needs",
+          "priority": "immediate",
+          "contact": "Your credit card company"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "finding_id": "US-V003",
+      "taxonomy": "CC-01",
+      "title": "Late payment fee",
+      "triggered_by": "Late Payment Fee Up to$25.00",
+      "description": "Late payment fee",
+      "status": "CONFIRMED",
+      "confidence": 0.85,
+      "user_relevance_score": 1.0,
+      "search_query_used": "credit card late payment fee maximum amount",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1601",
+            "verified": true
+          },
+          {
+            "law_name": "CFPB Regulation Z",
+            "article": "12 CFR Part 1026",
+            "verified": true
+          }
+        ],
+        "precedents": [
+          {
+            "case_number": "62167517",
+            "case_name": "Cellphone Termination Fee Cases",
+            "court": "calctapp",
+            "date": "2011-03-03",
+            "summary": "",
+            "relevance_score": 1.0,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/5810082/cellphone-termination-fee-cases/"
+          },
+          {
+            "case_number": "1308050",
+            "case_name": "Thelma Perry v. First National Bank, Doing Business as First National Credit Card",
+            "court": "ca1",
+            "date": "2006-08-25",
+            "summary": "",
+            "relevance_score": 0.607,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/795380/thelma-perry-v-first-national-bank-doing-business-as-first-national/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:2\uac74 | US statute:2\uac74",
+      "severity": "CRITICAL",
+      "plain_language_explanation": "This credit card charges up to $25 every time you pay late. Even paying one day after the due date triggers this fee.",
+      "user_impact": "With irregular gig income and late payment history, you'll likely face frequent $25 fees.",
+      "estimated_risk_scenario": "Missing 3-4 payments yearly could cost $75-100 in late fees alone. Combined with your irregular income, this could trap you in a cycle of debt and more late payments.",
+      "recommended_actions": [
+        {
+          "action": "Set up automatic minimum payments from your bank account to avoid late fees",
+          "priority": "immediate",
+          "contact": "Your bank or credit card company"
+        },
+        {
+          "action": "Look for credit cards with no late fees or lower penalty rates for gig workers",
+          "priority": "pre-signing",
+          "contact": "Credit union or community bank"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "finding_id": "US-V004",
+      "taxonomy": "CC-01",
+      "title": "Returned payment fee",
+      "triggered_by": "Returned Payment Fee Up to$25.00",
+      "description": "Returned payment fee",
+      "status": "CONFIRMED",
+      "confidence": 0.85,
+      "user_relevance_score": 1.0,
+      "search_query_used": "credit card returned payment fee NSF bounce",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1601",
+            "verified": true
+          },
+          {
+            "law_name": "CFPB Regulation Z",
+            "article": "12 CFR Part 1026",
+            "verified": true
+          }
+        ],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74 | US statute:2\uac74",
+      "severity": "CRITICAL",
+      "plain_language_explanation": "You'll pay up to $25 every time a payment bounces because you don't have enough money in your account when they try to collect.",
+      "user_impact": "With irregular income, you could face multiple $25 fees that pile up quickly.",
+      "estimated_risk_scenario": "Your gig income varies month to month. If payments bounce 3 times in one month, you'd owe $75 in fees alone - possibly more than your actual payment amount.",
+      "recommended_actions": [
+        {
+          "action": "Set up account alerts to warn you before payments are due",
+          "priority": "immediate",
+          "contact": "Your bank's customer service or mobile app"
+        },
+        {
+          "action": "Ask the creditor about payment date flexibility to match your income schedule",
+          "priority": "immediate",
+          "contact": "The company's customer service department"
+        },
+        {
+          "action": "Consider switching to a credit union with lower or no returned payment fees",
+          "priority": "optional",
+          "contact": "Local credit unions in your area"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "finding_id": "US-V005",
+      "taxonomy": "CC-01",
+      "title": "Pay-by-phone fee",
+      "triggered_by": "Pay-by-Phone Fee: $10.00.",
+      "description": "Pay-by-phone fee",
+      "status": "CONFIRMED",
+      "confidence": 0.8,
+      "user_relevance_score": 0.95,
+      "search_query_used": "credit card phone payment fee charge",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1601",
+            "verified": true
+          },
+          {
+            "law_name": "CFPB Regulation Z",
+            "article": "12 CFR Part 1026",
+            "verified": true
+          }
+        ],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74 | US statute:2\uac74",
+      "severity": "CRITICAL",
+      "plain_language_explanation": "This company charges you $10 every time you pay your bill by phone. This fee applies even if you use automated phone systems.",
+      "user_impact": "With irregular income, you may need to pay by phone more often, costing $120+ per year.",
+      "estimated_risk_scenario": "Given your late payment history and irregular income, you'll likely need phone payments during tight months. At $10 each time, this could cost $120-240 yearly.",
+      "recommended_actions": [
+        {
+          "action": "Set up free automatic online payments or find free payment methods before signing",
+          "priority": "pre-signing",
+          "contact": "Company customer service"
+        },
+        {
+          "action": "Ask company to waive phone fees for low-income customers",
+          "priority": "immediate",
+          "contact": "Company billing department"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "finding_id": "US-V006",
+      "taxonomy": "CC-01",
+      "title": "Statement copy fee",
+      "triggered_by": "Statement Copy Fee: $5.00 per page.",
+      "description": "Statement copy fee",
+      "status": "CONFIRMED",
+      "confidence": 0.75,
+      "user_relevance_score": 0.9,
+      "search_query_used": "credit card statement copy fee per page",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1601",
+            "verified": true
+          },
+          {
+            "law_name": "CFPB Regulation Z",
+            "article": "12 CFR Part 1026",
+            "verified": true
+          }
+        ],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74 | US statute:2\uac74",
+      "severity": "CRITICAL",
+      "plain_language_explanation": "The company charges $5 for each page of old statements you request. This can add up fast if you need multiple pages or statements.",
+      "user_impact": "With irregular income, unexpected $5-per-page fees could strain your budget when you need records.",
+      "estimated_risk_scenario": "Needing 6 months of statements for a loan application could cost $30-60. With your income situation, this fee could delay important financial decisions or applications.",
+      "recommended_actions": [
+        {
+          "action": "Sign up for online banking to access free digital statements before you need them",
+          "priority": "immediate",
+          "contact": "Your bank's customer service or website"
+        },
+        {
+          "action": "Ask if the bank waives statement fees for customers with payment difficulties",
+          "priority": "pre-signing",
+          "contact": "Bank customer service manager"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "finding_id": "US-V007",
+      "taxonomy": "UNCATEGORIZED",
+      "title": "Broad collateral securing credit card debt",
+      "triggered_by": "Credit extended under this credit card account is secured by various personal property and money including, but not limited to: (a) any goods you purchase with this account, (b) any shares you specifically pledge as collateral for this account on a separate Pledge of Shares, (c) all shares you have in any individual or jointaccount withtheCreditUnion excluding sharesinanIndividual RetirementAccount orinanyotheraccount that would lose special tax treatment under state or federal law, and (d) collateral securing other loans you have with the Credit Union excluding dwellings.",
+      "description": "Broad cross-collateralization gives creditor rights to seize multiple unrelated assets for credit card debt",
+      "status": "CONFIRMED",
+      "confidence": 0.85,
+      "user_relevance_score": 0.8,
+      "search_query_used": "credit extended under this credit card account secured credit card consumer rights",
+      "legal_grounds": {
+        "statutes": [],
+        "precedents": [
+          {
+            "case_number": "64322564",
+            "case_name": "Gissendaner v. Credit Corp",
+            "court": "nywd",
+            "date": "2019-02-13",
+            "summary": "",
+            "relevance_score": 1.0,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/7334078/gissendaner-v-credit-corp/"
+          },
+          {
+            "case_number": "64317360",
+            "case_name": "Derosa v. Computer Credit, Inc.",
+            "court": "nyed",
+            "date": "2018-03-28",
+            "summary": "",
+            "relevance_score": 0.919,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/7328876/derosa-v-computer-credit-inc/"
+          },
+          {
+            "case_number": "65337826",
+            "case_name": "Lakewood Credit Union v. Goodrich",
+            "court": "wisctapp",
+            "date": "2016-09-07",
+            "summary": "",
+            "relevance_score": 0.919,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/8239279/lakewood-credit-union-v-goodrich/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:3\uac74",
+      "severity": "CRITICAL",
+      "plain_language_explanation": "This credit card uses everything you buy with it AND your bank shares as collateral. If you can't pay, they can take those items back.",
+      "user_impact": "With irregular income and late payments, you risk losing purchases and bank shares if you fall behind.",
+      "estimated_risk_scenario": "Miss payments due to gig work income gaps, lose items you bought plus any shares you have with this bank. Creates bigger financial hole than typical credit cards.",
+      "recommended_actions": [
+        {
+          "action": "Find unsecured credit cards instead - they can't take your property if you default",
+          "priority": "pre-signing",
+          "contact": "Shop other banks/credit unions"
+        },
+        {
+          "action": "If you must use this card, never charge essential items you can't afford to lose",
+          "priority": "immediate",
+          "contact": "Review card terms carefully"
+        },
+        {
+          "action": "Build emergency fund for irregular income before taking secured debt",
+          "priority": "immediate",
+          "contact": "Financial counselor or NFCC.org"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "finding_id": "US-V001",
+      "taxonomy": "CC-02",
+      "title": "High cash advance APR",
+      "triggered_by": "APR for Cash Advances Visa Platinum 18.00% Visa Rewards 18.00% Visa Signature 18.00% Visa Secured 18.00%",
+      "description": "High cash advance APR",
+      "status": "CONFIRMED",
+      "confidence": 0.8,
+      "user_relevance_score": 1.0,
+      "search_query_used": "credit card cash advance APR unfair high rate",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1666i",
+            "verified": true
+          },
+          {
+            "law_name": "Credit CARD Act 2009",
+            "article": "15 U.S.C. \u00a7 1637",
+            "verified": true
+          }
+        ],
+        "precedents": [
+          {
+            "case_number": "64297648",
+            "case_name": "In re Capital One Bank Credit Card Interest Rate Litigation",
+            "court": "gand",
+            "date": "2014-11-03",
+            "summary": "",
+            "relevance_score": 1.0,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/7309171/in-re-capital-one-bank-credit-card-interest-rate-litigation/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:1\uac74 | US statute:2\uac74",
+      "severity": "HIGH",
+      "plain_language_explanation": "This card charges 18% yearly interest on cash advances. That's very high - you'll pay $18 for every $100 you borrow, plus fees.",
+      "user_impact": "With irregular income, you could get trapped paying high interest if you need cash urgently.",
+      "estimated_risk_scenario": "You need $500 cash for rent. The advance costs $10 fee plus $7.50 monthly interest. If you can't pay it back quickly due to irregular gig income, costs pile up fast.",
+      "recommended_actions": [
+        {
+          "action": "Never use this card for cash advances - find other emergency cash sources first",
+          "priority": "immediate",
+          "contact": "Your bank or credit union for emergency loans"
+        },
+        {
+          "action": "Build a small emergency fund to avoid needing cash advances",
+          "priority": "optional",
+          "contact": "Non-profit credit counselor at NFCC.org"
+        }
+      ],
+      "rank": 7
+    }
+  ],
+  "general_recommendations": [
+    "Read all terms carefully before signing any credit card agreement.",
+    "Compare APR and fees across multiple issuers before applying.",
+    "Note any arbitration clauses that waive your right to sue.",
+    "Contact CFPB (1-855-411-2372) if you believe a term is unfair.",
+    "For disputes, contact your state Attorney General's consumer protection office."
+  ],
+  "disclaimer": "This report is generated by AI analysis and has no legal effect. For specific legal advice, consult a consumer protection attorney or contact the CFPB."
+}

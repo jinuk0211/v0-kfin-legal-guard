@@ -1,0 +1,889 @@
+EX-10.1
+
+2
+
+ex10x1.htm
+
+FIFTH AMENDMENT TO LOAN AGREEMENT AND OMNIBUS AMENDMENT TO LOAN DOCUMENTS
+
+ 
+
+Exhibit 10.1
+
+ 
+
+ 
+
+FIFTH AMENDMENT
+TO LOAN agreement and OMNIBUS AMendment to Loan Documents
+
+ 
+
+This Fifth Amendment to Loan
+Agreement and Omnibus Amendment to Loan Documents (this “
+Amendment
+”), is made and entered into as of September 25,
+2025, by and among 
+Standard Premium Finance Management Corporation
+, a Florida corporation (the “
+Borrower
+”),
+
+Standard Premium Finance Holdings, Inc.
+, a Florida corporation (the “
+Entity Guarantor
+”), 
+William Koppelmann
+,
+an individual residing in the State of Florida, (the “
+Individual Guarantor
+”, and together with the Entity Guarantor,
+the “
+Guarantors
+” and each a “
+Guarantor
+”), 
+First Horizon Bank
+, a Tennessee banking corporation
+(the “
+Agent
+”), and the Lenders (as defined in the Loan Agreement).
+
+ 
+
+RECITALS
+
+ 
+
+WHEREAS
+, reference
+is made to that certain Loan Agreement dated as of February 3, 2021 by and between Borrower, the Guarantors and Agent (as amended, restated,
+supplemented, or otherwise modified before the date hereof, the “
+Existing Loan Agreement
+”, and as further amended by
+this Amendment and as may be otherwise amended, restated, supplemented or otherwise modified from time to time, the “
+Loan Agreement
+”).
+Capitalized terms used but not otherwise defined herein have the meaning given to such terms in the Loan Agreement.
+
+ 
+
+WHEREAS
+, reference
+is made to that certain Security Agreement dated as of February 3, 2021 by and between Borrower and Agent (as amended, restated supplemented,
+or otherwise modified before the date hereof, the “
+Existing Security Agreement
+”, and as further amended by this Amendment
+and as may be otherwise amended, restated, supplemented or otherwise modified from time to time, the “
+Security Agreement
+”).
+
+ 
+
+WHEREAS, 
+the parties
+hereto wish to amend the Existing Credit Agreement, the Existing Security Agreement, and the other Loan Documents, in each case as set
+forth herein and subject to the terms and conditions contained in this Amendment.
+
+ 
+
+NOW THEREFORE
+, in consideration
+of the premises and of the mutual covenants contained herein, and other good and valuable consideration, the receipt and adequacy of which
+are hereby acknowledged, the parties hereto agree to the foregoing Recitals and to the following:
+
+ 
+
+1.
+
+Definitions
+. Capitalized terms used but not otherwise defined herein shall have the meanings
+given to such terms in the Loan Agreement as amended hereby.
+
+ 
+
+2.
+
+Amendments to Loan Documents
+. 
+
+ 
+
+(a)
+
+  
+
+Loan Agreement
+. Upon the Fifth Amendment Date (as defined herein), the Existing Loan Agreement (but excluding the Exhibits
+and Schedules thereto) is hereby amended by deleting the stricken text (indicated textually in the same manner as the following example:
+
+stricken text
+
+) and (ii) adding the double underlined text (indicated textually in the
+same manner as the following example: 
+double-underlined text
+) as
+set forth in the amended Loan Agreement attached hereto as 
+Annex 1
+.
+
+ 
+
+(b)
+
+  
+
+Schedules and Exhibits to Loan Agreement
+. Upon the Fifth Amendment Date the Exhibits to the Existing Loan Agreement are
+hereby deleted in their entirety and replaced with (i) the Schedules set forth in 
+Annex 2
+ and (ii) the Exhibits set forth in 
+Annex
+3
+.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c)
+
+  
+
+Security Agreement
+. Upon the Fifth Amendment Date, the Existing Security Agreement is hereby amended by deleting the stricken
+text (indicated textually in the same manner as the following example: 
+
+stricken text
+
+)
+and (ii) adding the double underlined text (indicated textually in the same manner as the following example: 
+double-underlined
+text
+) as set forth in the amended Security Agreement attached hereto as 
+Annex 4
+.
+
+ 
+
+(d)
+
+  
+
+Global Amendment
+. Upon the Fifth Amendment Date, any reference to Bank in any of the Loan Documents not amended by Sections
+2(a), (b), and (c) of this Amendment, shall mean “the Agent, on behalf of the Lenders”.
+
+ 
+
+3.
+
+Conditions to Effectiveness
+. This Amendment shall be effective upon the satisfaction of the
+following conditions precedent (or the waiver of such condition by Agent in its sole discretion) (the date such conditions are first satisfied,
+being the “
+Fifth Amendment Date
+”):
+
+ 
+
+(a)
+
+  
+
+Agent shall have received fully executed copies of this Amendment and such other agreements, notes,
+schedules, exhibits, certificates, documents, financial information and filings (collectively, the “
+Amendment Documents
+”)
+as the Agent may reasonably request, all in form and substance satisfactory to the Agent.
+
+ 
+
+(b)
+
+  
+
+Agent shall have received (i) a certificate of Borrower, dated as of the Fifth Amendment Date and
+executed by an authorized officer of Borrower, certifying as to and including (A) the operating documents of Borrower in form and substance
+acceptable to Agent, (B) the relevant resolutions or written consents of Borrower, adopted by Borrower for the purposes of authorizing
+Borrower to enter into and perform this Amendment and the Amendment Documents, and (C) an incumbency certificate for the authorized officers
+of Borrower, and (ii) good standing certificates for Borrower from its jurisdiction of organization and from other jurisdictions where
+Borrower is duly qualified to do business.
+
+ 
+
+(c)
+
+  
+
+Agent shall have received (i) a certificate of Entity Guarantor, dated as of the Fifth Amendment
+Date and executed by an authorized officer of Entity Guarantor, certifying as to and including (A) the operating documents of Entity Guarantor
+in form and substance acceptable to Agent, (B) the relevant resolutions or written consents of Entity Guarantor, adopted by Entity Guarantor
+for the purposes of authorizing Entity Guarantor to enter into and perform this Amendment and the Amendment Documents, and (C) an incumbency
+certificate for the authorized officers of Borrower, and (ii) good standing certificates for Entity Guarantor from its jurisdiction of
+organization and from other jurisdictions where Entity Guarantor is duly qualified to do business.
+
+ 
+
+(d)
+
+  
+
+Agent shall have received a legal opinion executed and delivered by Borrower and Guarantor’s
+legal counsel covering the legal opinions reasonably requested by, and in form and substance reasonably satisfactory to, the Agent.
+
+ 
+
+(e)
+
+  
+
+evidence of payment of any costs, expenses, fees and other compensation (including attorneys’
+costs, expenses and fees) required to be paid to the Agent and Lenders by the Borrower pursuant to the Loan Agreement or Fee Letter or
+any other written agreement on or prior to the date of this Amendment; and
+
+ 
+
+(f)
+
+   
+
+Agent shall have received all such other information and documents to be executed and/or delivered
+on behalf of Borrower as Agent shall reasonably require.
+
+ 
+
+ 
+
+2
+ 
+
+ 
+
+ 
+
+ 
+
+4.
+
+Representations and Warranties
+. Borrower and Entity Guarantor represent and warrant to Agent:
+
+ 
+
+(a)
+
+The representations and warranties of the Borrower and Entity Guarantor contained in the Loan Agreement
+and the other Loan Documents are true and correct in all material respects (except that such materiality qualifier shall not be applicable
+to any representations and warranties that already are qualified or modified by materiality in the text thereof) at and as of the Fifth
+Amendment Date as though made on such date after giving effect to this Amendment, except (i) to the extent specifically made with regard
+to a particular date, and (ii) for such changes as are a result of any act or omission specifically permitted under the Fifth Agreement
+(or under any Loan Document) or consented to by Agent and, to extent required under the Loan Agreement, Required Lenders or Lenders; and
+
+ 
+
+(b)
+
+On the Fifth Amendment Date, after giving effect to this Amendment, no Default or Event of Default
+will have occurred and be continuing.
+
+ 
+
+(c)
+
+The execution, delivery and performance of this Amendment and all other documents executed and delivered
+in connection herewith, in each case have been duly authorized by all necessary action on the part of, and duly executed and delivered
+by each of Borrower and Entity Guarantor.
+
+ 
+
+(d)
+
+This Amendment is a legal, valid and binding obligation of Borrower and Entity Guarantor, enforceable
+against such Person in accordance with its terms, except as the enforcement thereof may be subject to the effect of any applicable bankruptcy,
+insolvency, reorganization, receivership, moratorium, or similar laws affecting creditors’ rights generally and general principles
+of equity including without limitation principles of good faith and fair dealing (regardless of whether such enforcement is sought in
+a proceeding in equity or at law).
+
+ 
+
+(e)
+
+The execution, delivery and performance of this Amendment does not conflict with in any material
+way or result in a material breach by Borrower or Entity Guarantor of any term of any material contract, loan agreement, indenture or
+other agreement or instrument to which such Person is a party or is subject
+
+ 
+
+ 
+
+3
+ 
+
+ 
+
+ 
+
+ 
+
+5.
+
+RELEASE
+. BORROWER AND EACH GUARANTOR HEREBY ACKNOWLEDGES THAT AS OF THE DATE HEREOF IT
+HAS NO DEFENSE, COUNTERCLAIM, OFFSET, CROSS-COMPLAINT, CLAIM OR DEMAND OF ANY KIND OR NATURE WHATSOEVER THAT CAN BE ASSERTED TO REDUCE
+OR ELIMINATE ALL OR ANY PART OF SUCH PARTY’S LIABILITY TO REPAY THE OBLIGATIONS OR TO SEEK AFFIRMATIVE RELIEF OR DAMAGES OF ANY
+KIND OR NATURE FROM AGENT, ANY OF ITS PREDECESSORS, SUCCESSORS, ASSIGNEES OR ANY OF THEIR RESPECTIVE DIRECTORS, OFFICERS, MANAGERS, PARTNERS,
+AGENTS, EMPLOYEES OR ATTORNEYS. BORROWER AND EACH GUARANTOR HEREBY VOLUNTARILY AND KNOWINGLY RELEASES AND FOREVER DISCHARGES AGENT, ITS
+PREDECESSORS, SUCCESSORS, ASSIGNEES, ANY OF THEIR RESPECTIVE AFFILIATES AND PARTICIPANTS, AND THEIR RESPECTIVE AGENTS, OFFICERS, MANAGERS,
+PARTNERS, DIRECTORS, EMPLOYEES, FROM ALL POSSIBLE CLAIMS, DEMANDS, ACTIONS, CAUSES OF ACTION, DAMAGES, COSTS, EXPENSES, AND LIABILITIES
+WHATSOEVER, KNOWN OR UNKNOWN, ANTICIPATED OR UNANTICIPATED, SUSPECTED OR UNSUSPECTED, FIXED, CONTINGENT, OR CONDITIONAL, AT LAW OR IN
+EQUITY, ORIGINATING IN WHOLE OR IN PART ON OR BEFORE THE DATE THIS AMENDMENT IS EXECUTED, WHICH BORROWER OR ANY GUARANTOR MAY NOW OR HEREAFTER
+HAVE AGAINST AGENT, ITS PREDECESSORS, SUCCESSORS, ASSIGNEES, ANY OF THEIR RESPECTIVE AFFILIATES AND PARTICIPANTS, AND THEIR RESPECTIVE
+AGENTS, OFFICERS, MANAGERS, PARTNERS, DIRECTORS, EMPLOYEES, IF ANY, AND IRRESPECTIVE OF WHETHER ANY SUCH CLAIMS ARISE OUT OF CONTRACT,
+TORT, VIOLATION OF LAW OR REGULATIONS, OR OTHERWISE, AND ARISING FROM THE LIABILITIES, THE EXERCISE OF ANY RIGHTS AND REMEDIES UNDER THE
+LOAN AGREEMENT AND NEGOTIATION FOR AND EXECUTION OF THIS AMENDMENT. BORROWER AND EACH GUARANTOR HEREBY COVENANTS AND AGREES NEVER TO INSTITUTE
+ANY ACTION OR SUIT AT LAW OR IN EQUITY, NOR INSTITUTE, PROSECUTE, OR IN ANY WAY AID IN THE INSTITUTION OR PROSECUTION OF ANY CLAIM, ACTION
+OR CAUSE OF ACTION, RIGHTS TO RECOVER DEBTS OR DEMANDS OF ANY NATURE AGAINST AGENT, ITS PREDECESSORS, SUCCESSORS, ASSIGNEES, ANY OF THEIR
+RESPECTIVE AFFILIATES AND PARTICIPANTS, AND THEIR RESPECTIVE AGENTS, OFFICERS, MANAGERS, PARTNERS, DIRECTORS, EMPLOYEES, AND PERSONAL
+AND LEGAL REPRESENTATIVES ARISING ON OR BEFORE THE DATE HEREOF OUT OF OR RELATED TO AGENT, ITS PREDECESSORS, SUCCESSORS, ASSIGNEES, ANY
+OF THEIR RESPECTIVE AFFILIATES AND PARTICIPANTS, AND THEIR RESPECTIVE AGENTS, OFFICERS, MANAGERS, PARTNERS, DIRECTORS, EMPLOYEES, ACTIONS,
+OMISSIONS, STATEMENTS, REQUESTS OR DEMANDS IN ADMINISTERING, ENFORCING, MONITORING, COLLECTING OR ATTEMPTING TO COLLECT THE OBLIGATIONS
+OF BORROWER TO AGENT, WHICH OBLIGATIONS ARE EVIDENCED BY THE LOAN AGREEMENT.
+
+ 
+
+ 
+
+4
+ 
+
+ 
+
+ 
+
+ 
+
+6.
+
+Confirmation and Reaffirmation; No Novation
+. 
+
+ 
+
+(a)
+The
+Borrower and each Guarantor hereby acknowledges its receipt of a copy of this Amendment and its review of the terms and conditions hereof
+and consents to the terms and conditions of this Amendment and the transactions contemplated thereby. The Borrower and each Guarantor
+hereby (a) affirms and confirms, as applicable, its guarantees, pledges, grants and other undertakings under the Loan Agreement and the
+other Loan Documents to which it is a party and (b) agrees that (i) each Loan Document to which it is a party shall continue to be in
+full force and effect and (ii) all guarantees, pledges, grants and other undertakings thereunder shall continue to be in full force and
+effect (with the same priority, as applicable) and shall accrue to the benefit of the applicable secured party or parties thereunder.
+
+ 
+
+(b)
+The
+parties hereto hereby agree that nothing contained in this Amendment is intended to in any way impair or limit the validity, priority
+or extent of Agent’s security interest in and liens upon the Collateral granted by Borrower, and Borrower and each Guarantor reaffirms
+that such liens are intended to and shall remain in full force and effect after giving effect to this Amendment.
+
+ 
+
+(c)
+The
+parties hereto hereby agree that this Amendment shall not be deemed or otherwise construed to be a novation of any of the Obligations
+owing to the Agent or any Lender under the Loan Agreement.
+
+ 
+
+7.
+
+Non-Waiver
+. Except as expressly provided herein, the Loan Agreement shall remain unmodified
+and in full force and effect. This Amendment does not obligate Agent or any Lender to agree to any other extension or modification of
+the Loan Agreement nor does it constitute a course of conduct or dealing on behalf of Agent or any Lender or a waiver of any other rights
+or remedies of Agent. No omission or delay by Agent in exercising any right or power under the Loan Agreement, this Amendment, or any
+related instruments, agreements or documents will impair such right or power or be construed to be a waiver of any Default or Event of
+Default or an acquiescence therein, and any single or partial exercise of any such right or power will not preclude other or further exercise
+thereof or the exercise of any other right, and no waiver will be valid unless in writing and then only to the extent specified.
+
+ 
+
+8.
+
+Incorporation
+. This Amendment is incorporated by reference into, and made part of, the Loan
+Agreement which, except as expressly modified herein, remains in full force and effect in accordance with its terms. On and after the
+date hereof, this Amendment shall constitute a Loan Document for all purposes under the Loan Agreement, and each reference to the “Loan
+Agreement” in any Loan Document, and in any other document or instrument incidental thereto, shall mean and be a reference to the
+Loan Agreement, as amended by this Amendment.
+
+ 
+
+ 
+
+5
+ 
+
+ 
+
+ 
+
+ 
+
+9.
+
+No Modification
+. No modification of this Amendment or of any agreement referred to herein
+shall be binding or enforceable unless in writing and signed on behalf of the party against whom enforcement is sought.
+
+ 
+
+10.
+
+Expenses
+. The Borrower and each Guarantor hereby agrees to pay all reasonable out-of-pocket
+costs and expenses of the Agent in connection with the negotiation, preparation, execution, and delivery of this Amendment and each other
+document contemplated hereby (including, without limitation, the reasonable fees and expenses of counsel).
+
+ 
+
+11.
+
+Headings
+. The headings of any section or paragraph of this Amendment are for convenience only
+and shall not be used to interpret any provision of this Amendment.
+
+ 
+
+12.
+
+Successors and Assigns
+. This Amendment will be binding upon and inure to the benefit of the
+parties hereto and their respective permitted successors and assigns.
+
+ 
+
+13.
+
+Further Assurances
+. The Borrower and each Guarantor agrees to execute such other documents,
+instruments and agreements and take such further actions reasonably requested by the Agent to effectuate the provisions of this Amendment.
+
+ 
+
+14.
+
+Applicable Laws; Waiver of Jury Trial; Venue
+. The provisions of Sections 9.9, and 9.10 of
+the Loan Agreement are hereby fully incorporated by reference into this Amendment, 
+mutatis mutandis
+.
+
+ 
+
+15.
+
+Severability
+. The provisions of this Amendment are to be deemed severable, and the invalidity
+or unenforceability of any provision shall not affect or impair the remaining provisions which shall continue in full force and effect.
+
+ 
+
+16.
+
+Non-Reliance
+. Borrower and each Guarantor hereby acknowledges and agrees it is acting for
+its own account, and it has made its own independent decisions to enter into this Amendment and as to whether this Amendment is appropriate
+or proper for it based upon its own judgment and upon advice from such advisers as it has deemed necessary. 
+
+ 
+
+17.
+
+Entire Agreement
+. This Amendment, the Loan Agreement (as amended hereby) and the other applicable
+Loan Documents constitute the entire agreement among the parties to the Loan Agreement and such other applicable Loan Document with respect
+to the subject matter hereof and supersede all other prior agreements and understandings, both written and verbal, among such parties
+or any of them with respect to the subject matter hereof. Any exhibits or annexes attached hereto are hereby incorporated herein by reference
+and made a part hereof.
+
+ 
+
+ 
+
+6
+ 
+
+ 
+
+ 
+
+ 
+
+18.
+
+Counterparts, Email and .pdf
+. This Amendment may be executed in any number of counterparts,
+each of which shall be effective only upon delivery and thereafter shall be deemed an original, and all of which shall be taken to be
+one and the same instrument, for the same effect as if all parties hereto had signed the same signature page. Any signature page of this
+Amendment may be detached from any counterpart of this Amendment without impairing the legal effect of any signatures thereon and may
+be attached to another counterpart of this Amendment identical in form hereto but having attached to it one or more additional signature
+pages. An electronic facsimile (including .pdf of an executed counterpart of this Amendment) shall constitute an original for all purposes.
+The electronic signature of a party to this Amendment shall be as valid as an original signature of such party and shall be effective
+to bind such party to this Amendment. The parties agree that any electronically signed document (including this Amendment) shall be deemed
+(i) to be “written” or “in writing,” (ii) to have been signed, and (iii) to constitute a record established and
+maintained in the ordinary course of business and an original written record when printed from electronic files. Such paper copies or
+“printouts,” if introduced as evidence in any proceeding, will be admissible as between the parties to the same extent and
+under the same conditions as other original business records created and maintained in documentary form. No party hereto shall contest
+the admissibility of true and accurate copies of electronically signed documents on the basis of the best evidence rule or as not satisfying
+the business records exception to the hearsay rule. For purposes hereof, “electronic signature” means a manually signed original
+signature that is then transmitted via the internet as a “pdf” (portable document format) or other replicating image attached
+to an e-mail message, and “electronically signed document” means a document transmitted via e-mail containing an electronic
+signature.
+
+ 
+
+ 
+
+[SIGNATURE PAGES FOLLOW]
+
+ 
+
+ 
+
+ 
+
+7
+ 
+
+ 
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, each party
+hereto has caused this Amendment to be duly executed and delivered by its proper and duly authorized officer(s) as of the day and year
+first above written.
+
+ 
+
+ 
+
+BORROWER
+:
+
+STANDARD PREMIUM FINANCE MANAGEMENT CORPORATION,
+
+a Florida corporation
+
+ 
+
+By: __
+/s/ William Koppelmann
+____________
+
+Name: __
+William Koppelmann
+____________
+
+Title: ___
+President
+______________________
+
+ 
+
+ENTITY GUARANTOR
+:
+
+STANDARD PREMIUM FINANCE HOLDINGS,
+INC.
+,
+
+a Florida corporation
+
+ 
+
+By: __
+/s/ William Koppelmann
+____________
+
+Name: __
+William Koppelmann
+____________
+
+Title: ___
+President
+______________________
+
+ 
+
+INDIVIDUAL GUARANTOR
+:
+
+ 
+
+______
+/s/ William Koppelmann
+____
+
+Name: William Koppelmann
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AGENT
+
+:
+
+ 
+
+FIRST HORIZON BANK,
+
+a Tennessee banking corporation
+
+ 
+
+By: _____
+/s/ Jake McCrary
+_____________
+
+Name: _____
+Jake McCrary
+_____________
+
+Title: ______
+Managing Director
+_________
+
+ 
+
+LENDER
+
+:
+
+ 
+
+FIRST HORIZON BANK,
+
+a Tennessee banking corporation
+
+ 
+
+By: _____
+/s/ Jake McCrary
+_____________
+
+Name: _____
+Jake McCrary
+_____________
+
+Title: ______
+Managing Director
+_________
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LENDER
+
+:
+
+ 
+
+Flagstar BANK, N.A.,
+
+ 
+
+By: ___
+/s/ Blake Chandler
+_____________
+
+Name: ___
+Blake Chandler
+_____________
+
+Title: ____
+SVP
+______________________
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LENDER
+
+:
+
+ 
+
+Cadence BANK,
+
+ 
+
+By: ____
+/s/ Evan Watson
+______________
+
+Name: ____
+Evan Watson
+______________
+
+Title: _____
+Portfolio Manager
+__________
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANNEX 1
+
+ 
+
+Amended Loan Agreement
+
+ 
+
+[see attached]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANNEX 2
+
+ 
+
+Schedules to Loan Agreement
+
+ 
+
+[see attached]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANNEX 3
+
+ 
+
+Exhibits to Loan Agreement
+
+ 
+
+[see attached]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANNEX 4
+
+ 
+
+Amended Security Agreement
+
+ 
+
+[see attached]

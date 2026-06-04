@@ -1,0 +1,320 @@
+{
+  "session_id": "US_APGFCU_Visa_Agreement_P02",
+  "generated_at": "2026-05-05T17:20:01.729982+00:00",
+  "product": "APGFCU_Visa_Agreement",
+  "doc_type": "credit_card_agreement",
+  "user_profile": {
+    "id": "P02",
+    "age": 28,
+    "occupation": "gig worker",
+    "financial_status": "low income",
+    "risk_flags": [
+      "irregular_income",
+      "low_income",
+      "late_payment_history"
+    ]
+  },
+  "executive_summary": "Analysis of APGFCU_Visa_Agreement identified 6 consumer vulnerabilities. Overall risk level: HIGH. Key concerns: Balance transfers treated as cash advances, Unilateral credit line reduction/card revocation, Acceptance of partial payments preserves all rights.",
+  "overall_risk_level": "HIGH",
+  "vulnerability_count": {
+    "CRITICAL": 1,
+    "HIGH": 2,
+    "MEDIUM": 3,
+    "LOW": 0,
+    "uncategorized": 4
+  },
+  "findings": [
+    {
+      "finding_id": "US-V003",
+      "taxonomy": "CC-01",
+      "title": "Balance transfers treated as cash advances",
+      "triggered_by": "Balances you transfer from other creditors will be treated as cash advances for the purpose of this agreement and will be subject to your standard cash advance APR unless a promotional APR applies.",
+      "description": "Balance transfers treated as cash advances",
+      "status": "CONFIRMED",
+      "confidence": 0.75,
+      "user_relevance_score": 1.0,
+      "search_query_used": "balance transfer cash advance APR higher rate",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1601",
+            "verified": true
+          },
+          {
+            "law_name": "CFPB Regulation Z",
+            "article": "12 CFR Part 1026",
+            "verified": true
+          }
+        ],
+        "precedents": [
+          {
+            "case_number": "15684886",
+            "case_name": "Laskaris v. Fifth Third Bank (In Re Fifth Third Early Access Cash Advance Litig.)",
+            "court": "ca6",
+            "date": "2019-05-28",
+            "summary": "",
+            "relevance_score": 1.0,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/4623790/laskaris-v-fifth-third-bank-in-re-fifth-third-early-access-cash-advance/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:1\uac74 | US statute:2\uac74",
+      "severity": "CRITICAL",
+      "plain_language_explanation": "This card treats balance transfers like cash advances, meaning higher interest rates and fees. You'll pay more to move debt from other cards.",
+      "user_impact": "With irregular income, you'll face higher costs and fees that make debt harder to pay off.",
+      "estimated_risk_scenario": "You transfer $2000 debt expecting low rates, but get hit with 25%+ APR plus cash advance fees. With irregular gig income, you can't keep up with higher payments.",
+      "recommended_actions": [
+        {
+          "action": "Look for cards that offer true balance transfer rates, not cash advance treatment",
+          "priority": "pre-signing",
+          "contact": "Compare cards on CFPB website or credit union"
+        },
+        {
+          "action": "Calculate total costs including fees before transferring any balances",
+          "priority": "immediate",
+          "contact": "Use online balance transfer calculators"
+        },
+        {
+          "action": "Consider debt consolidation loan instead of balance transfer",
+          "priority": "optional",
+          "contact": "Local credit union or nonprofit credit counseling"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "finding_id": "US-V001",
+      "taxonomy": "CC-04",
+      "title": "Unilateral credit line reduction/card revocation",
+      "triggered_by": "By giving you written notice, we may reduce your Credit Line from time to time, or, with good cause, revoke your card and terminate this Agreement.",
+      "description": "Unilateral credit line reduction/card revocation",
+      "status": "CONFIRMED",
+      "confidence": 0.85,
+      "user_relevance_score": 1.0,
+      "search_query_used": "credit card unilateral credit limit reduction termination",
+      "legal_grounds": {
+        "statutes": [
+          {
+            "law_name": "Truth in Lending Act",
+            "article": "15 U.S.C. \u00a7 1637",
+            "verified": true
+          },
+          {
+            "law_name": "Credit CARD Act 2009",
+            "article": "15 U.S.C. \u00a7 1637(i)",
+            "verified": true
+          }
+        ],
+        "precedents": [
+          {
+            "case_number": "1424454",
+            "case_name": "Universal Card Services Corp. v. Akins (In Re Akins)",
+            "court": "txwb",
+            "date": "1999-05-17",
+            "summary": "",
+            "relevance_score": 0.335,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/1856332/universal-card-services-corp-v-akins-in-re-akins/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:1\uac74 | US statute:2\uac74",
+      "severity": "HIGH",
+      "plain_language_explanation": "The bank can cut your credit limit or cancel your card anytime with just a written notice. They don't need your permission or a specific reason.",
+      "user_impact": "With irregular income and late payments, you're at high risk for sudden credit cuts or cancellation.",
+      "estimated_risk_scenario": "Bank suddenly cuts your $2,000 limit to $500 or cancels your card entirely, leaving you unable to pay bills or handle emergencies when gig work income is low.",
+      "recommended_actions": [
+        {
+          "action": "Build an emergency savings fund of at least $500-1000 before relying heavily on this card",
+          "priority": "immediate",
+          "contact": "Local credit union or community bank"
+        },
+        {
+          "action": "Apply for a second backup credit card from a different bank while your credit is still good",
+          "priority": "immediate",
+          "contact": "Different credit card issuer"
+        },
+        {
+          "action": "Set up automatic minimum payments to avoid late fees that trigger credit line cuts",
+          "priority": "immediate",
+          "contact": "Your bank's customer service"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "finding_id": "US-V006",
+      "taxonomy": "UNCATEGORIZED",
+      "title": "Acceptance of partial payments preserves all rights",
+      "triggered_by": "We can accept late payments, partial payments, checks and money orders marked \"paid in full\" or language having the same effect without losing any of our rights under this agreement.",
+      "description": "Consumer cannot settle disputes through payment notation; issuer retains all collection rights",
+      "status": "CONFIRMED",
+      "confidence": 0.8,
+      "user_relevance_score": 0.75,
+      "search_query_used": "accept late payments partial payments checks money orders credit card consumer rights",
+      "legal_grounds": {
+        "statutes": [],
+        "precedents": [
+          {
+            "case_number": "2188905",
+            "case_name": "American Financial Services Association v. Federal Trade Commission, Silas Brown, American Conference of Uniform Consumer Credit Code States, Intervenors. The South Carolina Department of Consumer Affairs v. Federal Trade Commission, American Conference of Uniform Consumer Credit Code States, American Financial Services Association, Department of Commerce of the State of Montana, Intervenors",
+            "court": "cadc",
+            "date": "1985-07-12",
+            "summary": "",
+            "relevance_score": 0.279,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/455766/american-financial-services-association-v-federal-trade-commission-silas/"
+          },
+          {
+            "case_number": "64309616",
+            "case_name": "Sanchez v. Pinnacle Credit Services, LLC",
+            "court": "cod",
+            "date": "2016-07-15",
+            "summary": "",
+            "relevance_score": 0.242,
+            "source": "courtlistener.com",
+            "url": "https://www.courtlistener.com/opinion/7321133/sanchez-v-pinnacle-credit-services-llc/"
+          }
+        ]
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:2\uac74",
+      "severity": "HIGH",
+      "plain_language_explanation": "Even if you pay part of what you owe or write 'paid in full' on a check, the lender can still collect the rest and take legal action.",
+      "user_impact": "Your partial payments won't protect you from collections, lawsuits, or credit damage.",
+      "estimated_risk_scenario": "You make partial payments thinking you're settling the debt, but the lender still pursues collections for the remaining balance, hurting your credit score.",
+      "recommended_actions": [
+        {
+          "action": "Get written agreements before making any partial payments or settlement offers",
+          "priority": "immediate",
+          "contact": "Request written confirmation from lender"
+        },
+        {
+          "action": "Contact a nonprofit credit counselor to review payment options",
+          "priority": "immediate",
+          "contact": "NFCC at 1-800-388-2227"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "finding_id": "US-V002",
+      "taxonomy": "UNCATEGORIZED",
+      "title": "Immediate payment on card revocation",
+      "triggered_by": "Upon revocation of your card any outstanding balance and FINANCE CHARGE shall immediately become due and payable under the terms of this Agreement.",
+      "description": "Full balance acceleration can create severe financial hardship for consumers with irregular income",
+      "status": "UNVERIFIED",
+      "confidence": 0.8,
+      "user_relevance_score": 0.9,
+      "search_query_used": "upon revocation your card outstanding balance finance charge credit card consumer rights",
+      "legal_grounds": {
+        "statutes": [],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74",
+      "severity": "MEDIUM",
+      "plain_language_explanation": "If your credit card gets canceled, you must pay your entire balance right away instead of making monthly payments.",
+      "user_impact": "With irregular income, you might not have enough money to pay everything at once.",
+      "estimated_risk_scenario": "Card canceled due to late payment. $3,000 balance becomes due immediately. Without steady income, you can't pay, leading to collections and credit damage.",
+      "recommended_actions": [
+        {
+          "action": "Ask for written clarification on what triggers immediate payment and any payment plan options",
+          "priority": "pre-signing",
+          "contact": "Card issuer customer service"
+        },
+        {
+          "action": "Keep emergency fund equal to potential card balance to avoid immediate payment crisis",
+          "priority": "immediate",
+          "contact": "Your bank or credit union for savings account"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "finding_id": "US-V004",
+      "taxonomy": "UNCATEGORIZED",
+      "title": "Grace period loss on balance transfers",
+      "triggered_by": "If you transfer your balances you may lose your grace period on purchases.",
+      "description": "Consumer loses purchase grace period benefit when using balance transfer feature",
+      "status": "UNVERIFIED",
+      "confidence": 0.7,
+      "user_relevance_score": 0.75,
+      "search_query_used": "transfer your balances lose your grace period purchases credit card consumer rights",
+      "legal_grounds": {
+        "statutes": [],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74",
+      "severity": "MEDIUM",
+      "plain_language_explanation": "When you move debt from another card, you lose the time to pay new purchases without interest. You'll pay interest right away on new buys.",
+      "user_impact": "With irregular income and payment issues, you'll face immediate interest on all purchases.",
+      "estimated_risk_scenario": "You transfer $3000 debt, then buy $500 groceries. Instead of 25 days to pay without interest, you're charged 25% interest immediately on the $500.",
+      "recommended_actions": [
+        {
+          "action": "Ask card company in writing if grace period applies after balance transfers",
+          "priority": "pre-signing",
+          "contact": "Credit card customer service"
+        },
+        {
+          "action": "Stop using card for new purchases during balance transfer periods",
+          "priority": "immediate",
+          "contact": "Self-management"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "finding_id": "US-V005",
+      "taxonomy": "UNCATEGORIZED",
+      "title": "Issuer controls payment allocation",
+      "triggered_by": "Subject to applicable law, your payments may be applied to what you owe the Credit Union in any manner the Credit Union chooses.",
+      "description": "Issuer retains broad discretion over payment application despite consumer preferences",
+      "status": "UNVERIFIED",
+      "confidence": 0.75,
+      "user_relevance_score": 0.7,
+      "search_query_used": "subject applicable your payments applied what credit union credit card consumer rights",
+      "legal_grounds": {
+        "statutes": [],
+        "precedents": []
+      },
+      "hallucination_blocked": 0,
+      "validator_note": "CourtListener:0\uac74",
+      "severity": "MEDIUM",
+      "plain_language_explanation": "The credit union can decide how to use your payments - they might pay fees first instead of your main balance, keeping you in debt longer.",
+      "user_impact": "With irregular income and late payments, fees could pile up while your main debt stays high.",
+      "estimated_risk_scenario": "You make a $200 payment thinking it goes to your $1,000 balance, but they use it for fees instead. Your balance stays high, interest keeps growing, and you stay trapped in debt.",
+      "recommended_actions": [
+        {
+          "action": "Ask for written payment allocation policy before signing",
+          "priority": "pre-signing",
+          "contact": "Credit union loan officer"
+        },
+        {
+          "action": "Request payments go to principal first, not fees",
+          "priority": "immediate",
+          "contact": "Credit union member services"
+        },
+        {
+          "action": "File complaint if unfair payment allocation occurs",
+          "priority": "optional",
+          "contact": "CFPB at consumerfinance.gov"
+        }
+      ],
+      "rank": 6
+    }
+  ],
+  "general_recommendations": [
+    "Read all terms carefully before signing any credit card agreement.",
+    "Compare APR and fees across multiple issuers before applying.",
+    "Note any arbitration clauses that waive your right to sue.",
+    "Contact CFPB (1-855-411-2372) if you believe a term is unfair.",
+    "For disputes, contact your state Attorney General's consumer protection office."
+  ],
+  "disclaimer": "This report is generated by AI analysis and has no legal effect. For specific legal advice, consult a consumer protection attorney or contact the CFPB."
+}

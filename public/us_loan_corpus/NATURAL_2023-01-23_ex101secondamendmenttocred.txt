@@ -1,0 +1,464 @@
+EX-10.1
+
+2
+
+ex101secondamendmenttocred.htm
+
+EX-10.1 SECOND AMENDMENT TO CREDIT AGREEMENT DATED JANUARY 18, 2023
+
+Document
+
+Execution Version
+
+Exhibit 10.1
+
+SECOND AMENDMENT TO CREDIT AGREEMENT
+
+This SECOND AMENDMENT TO CREDIT AGREEMENT (this “
+
+Amendment
+
+”) is dated effective as of January 18, 2023 (the “
+
+Second Amendment Effective Date
+
+”), by and among NATURAL GAS SERVICES GROUP, INC., a Colorado corporation (“
+
+Holdings
+
+”), the other Loan Parties party hereto, TEXAS CAPITAL BANK, in its capacity as Administrative Agent (the “
+
+Administrative Agent
+
+”), and the Lenders party hereto. 
+
+RECITALS:
+
+WHEREAS, the Loan Parties are party to that certain Credit Agreement dated as of May 11, 2021 (as amended, restated, amended and restated, supplemented or otherwise modified prior to the date hereof, the “
+
+Credit Agreement
+
+”), by and among Holdings, the other Loan Parties from time to time party thereto, the Lenders from time to time party thereto and the Administrative Agent. Capitalized terms used but not defined herein have the meaning set forth in the Credit Agreement, as amended by this Amendment (the “
+
+Amended Credit Agreement
+
+”).
+
+WHEREAS, Holdings has requested the Administrative Agent and Lenders agree to amend certain terms and provisions of the Credit Agreement as more particularly described in this Amendment.
+
+WHEREAS, subject to and upon the terms and conditions set forth herein, the Administrative Agent and the Lenders have agreed to Holdings’ requests as set forth herein.
+
+NOW THEREFORE, in consideration of the mutual agreements herein contained and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+SECTION 1.    
+
+Amendments to the Credit Agreement
+
+. In reliance upon the representations, warranties, covenants and conditions contained in this Amendment, and subject to the terms, and satisfaction of the conditions precedent set forth in 
+
+Section 2
+
+ hereof, the Credit Agreement is hereby amended as of the Second Amendment Effective Date in the manner provided in this 
+
+Section 1
+
+.
+
+1.1    
+
+Additional Definitions
+
+. Section 1.1 of the Credit Agreement is hereby amended to add in alphabetical order the following definitions which shall read in full as follows:
+
+“
+
+Second Amendment
+
+” means that certain Second Amendment to Credit Agreement dated as of the Second Amendment Effective Date, by and among Holdings, the other Borrowers and Loan Parties party thereto, the Administrative Agent and the Lenders party thereto.
+
+“
+
+Second Amendment Effective Date
+
+” means January 18, 2023.
+
+1.2    
+
+Restated Definitions
+
+. The definitions of the following terms contained in Section 1.1 of the Credit Agreement are hereby amended and restated in their respective entireties to read in full as follows:
+
+“
+
+Applicable Margin
+
+”
+
+ 
+
+means the applicable percentages per annum set forth below, based upon the Leverage Ratio, as set forth in the most recent Compliance Certificate received by Administrative Agent for each fiscal quarter from time to time pursuant to 
+
+Section 6.1(d)
+
+:
+
+Pricing
+Level
+
+Leverage Ratio
+
+Base Rate Loans
+
+Term SOFR Loans
+and Letter
+of Credit Fee
+
+Commitment Fee
+
+1
+
+< 1.00:1.00
+
+2.00%
+
+3.00%
+
+0.250%
+
+2
+
+≥ 1.00:1.00 but 
+
+<
+
+ 2.00:1.00
+
+2.25%
+
+3.25%
+
+0.250%
+
+3
+
+> 2.00:1.00
+
+2.50%
+
+3.50%
+
+0.250%
+
+Any increase or decrease in the Applicable Margin resulting from a change in the Leverage Ratio shall become effective as of the first day immediately following the date a Compliance Certificate is delivered for each fiscal quarter from time to time pursuant to 
+
+Section 6.1(d)
+
+; 
+
+provided
+
+ that if such Compliance Certificate is not delivered within five (5) days after the date when due in accordance with such Section, then upon the request of the Required Lenders, Pricing Level 3 shall apply as of the first day after the date on which such Compliance Certificate was required to have been delivered and shall remain in effect until the date on which such Compliance Certificate is delivered. The Applicable Margin from the Second Amendment Effective Date through the date the applicable Compliance Certificate is delivered pursuant to 
+
+Section 6.1(d)
+
+ in respect of the fiscal quarter of Holdings ending December 31, 2022 shall be determined based upon Pricing Level 1.
+
+If, as a result of any restatement of or other adjustment to the financial statements of Holdings or for any other reason, Holdings, Borrowers or the Required Lenders determine that (a) the Leverage Ratio as calculated by Holdings as of any applicable date was inaccurate and (b) a proper calculation of the Leverage Ratio would have resulted in higher pricing for such period, Borrowers shall immediately and retroactively be obligated to pay to Administrative Agent for the account of the applicable Lenders, L/C Issuer or Swing Line Lender, as the case may be, promptly on demand by Administrative Agent (or, after the occurrence of an actual or deemed entry of an order for relief with respect to any Loan Party under the Bankruptcy Code of the United States, automatically and without further action by Administrative Agent, any Lender, L/C Issuer or Swing Line Lender), an amount equal to the excess of the amount of interest and fees that should have been paid for such period over the amount of interest and fees actually paid for such period. This paragraph shall not limit the rights of Administrative Agent, any Lender, L/C Issuer or Swing Line Lender, as the case may be, including the rights available under 
+
+Article 2
+
+ 
+
+or under 
+
+Article 9
+
+. Each Borrower’s obligations under this paragraph shall survive the termination of the Commitments and the repayment of all other Obligations hereunder.
+
+“
+
+Commitment
+
+” means, as to each Lender, its obligation to (a) make Revolving Credit Loans to Borrowers pursuant to 
+
+Section 2.1(a)
+
+, (b) purchase participations in L/C Obligations, and (c) purchase participations in Swing Line Loans, in an aggregate principal amount at any one time outstanding not to exceed the amount set forth opposite such Lender’s name on 
+
+Schedule 2.1
+
+ under the caption “Commitment” or opposite such caption in the Assignment and 
+
+2
+
+Assumption pursuant to which such Lender becomes a party hereto, as applicable, as such amount may be adjusted from time to time in accordance with this Agreement. The aggregate Commitment of the Lenders as of the Second Amendment Effective Date is $50,000,000.
+
+“
+
+Loan Documents
+
+” means this Agreement, the First Amendment, the Second Amendment, each Guaranty, the Security Documents, the Notes, the Issuer Documents, each Fee Letter, and all other promissory notes, security agreements, deeds of trust, assignments, letters of credit, guaranties, and other instruments, documents, or agreements executed and delivered pursuant to or in connection with this Agreement or the Security Documents; 
+
+provided
+
+ that the term “Loan Documents” shall not include any Bank Product Agreement.
+
+1.3    
+
+Replacement of Schedule 2.1 to the Credit Agreement
+
+. Effective as of the Second Amendment Effective Date, the aggregate Commitments are hereby increased from $30,000,000 to $50,000,000, and Schedule 2.1 attached to the Credit Agreement is hereby replaced in its entirety with 
+
+Schedule 2.1
+
+ attached hereto. 
+
+Schedule 2.1
+
+ attached hereto shall be deemed to be attached as Schedule 2.1 to the Credit Agreement as of the Second Amendment Effective Date.
+
+SECTION 2.    
+
+Conditions Precedent to Amendment
+
+. This Amendment will be effective as of the Second Amendment Effective Date on the condition that the following conditions precedent will have been satisfied:
+
+2.1    
+
+Counterparts
+
+. The Administrative Agent shall have received counterparts of this Amendment duly executed by each of the Loan Parties, the Administrative Agent and each Lender.
+
+2.2    
+
+Notes
+
+. The Administrative Agent shall have received duly executed Notes (or any amendment and restatement thereof, as the case may be) payable to each Lender requesting a Note (or amendment and restatement thereof, as the case may be) in a principal amount equal to its Commitment dated as of the date hereof.
+
+2.3    
+
+Officer’s Certificate
+
+. The Administrative Agent shall have received a certificate of a Responsible Officer of each of the Loan Parties setting forth and/or attaching thereto (a) resolutions of the members, board of directors or other appropriate governing body with respect to the authorization of each such Loan Party to execute and deliver this Amendment and the other Loan Documents to which it is a party and to enter into the transactions contemplated in those documents, (b) the officers of each such Loan Party who are authorized to sign the Loan Documents to which such Loan Party is a party and who will, until replaced by another officer or officers duly authorized for that purpose, act as its representative for the purposes of signing documents and giving notices and other communications in connection with the Amended Credit Agreement, and the transactions contemplated thereby, (c) specimen signatures of such authorized officers, (d) the Constituent Documents of each such Loan Party, certified as being true and complete, and (e) a certificate of the appropriate government officials of the state of incorporation or organization of such Loan Party as to the existence and standing of such Loan Party dated as of a recent date hereof.
+
+2.4    
+
+Closing Certificate
+
+. The Administrative Agent shall have received a certificate of a Responsible Officer of the Borrower Representative certifying (which statements shall constitute a representation and warranty made by the Loan Parties to the Lenders hereunder on the Second Amendment Effective Date) that, as of the Second Amendment Effective Date, (a) no Default or Event of Default has occurred and is continuing and (b) all representations and warranties made by any Loan Party contained in the Credit Agreement and the other Loan 
+
+3
+
+Documents, in each case as amended hereby, are true and correct in all material respects (without duplication of any materiality qualification applicable thereto) on and as of the date hereof as though made on and as of the date hereof, except to the extent such representations and warranties expressly relate to an earlier date, in which case such representations and warranties were true and correct as of such earlier date, and except for any change of facts expressly permitted under the provisions of the Amended Credit Agreement and the other Loan Documents.
+
+2.5    
+
+Expenses
+
+. The Administrative Agent shall have received payment or reimbursement of its out-of-pocket expenses in connection with this Amendment and any other out-of-pocket expenses of the Administrative Agent required to be paid or reimbursed pursuant to the Credit Agreement, including the reasonable fees, charges and disbursements of counsel for the Administrative Agent.
+
+2.6    
+
+Other Documents
+
+. The Administrative Agent shall have been provided with such documents, instruments and agreements, and the Borrowers shall have taken such actions, in each case as the Administrative Agent may reasonably require in connection with this Amendment and the transactions contemplated hereby.
+
+SECTION 3.    
+
+Representations and Warranties
+
+. Each Loan Party hereby represents and warrants to the Lenders the following:
+
+3.1    
+
+Representations and Warranties
+
+. The representations and warranties contained in the Amended Credit Agreement and the other Loan Documents are true and correct in all material respects (without duplication of any materiality qualification applicable thereto) on and as of the date hereof as though made on and as of the date hereof, except to the extent such representations and warranties expressly relate to an earlier date, in which case such representations and warranties are true and correct as of such earlier date, and except for any change of facts expressly permitted under the provisions of the Amended Credit Agreement and the other Loan Documents.
+
+3.2    
+
+No Default
+
+. No Default or Event of Default has occurred and is continuing as of the date hereof.
+
+3.3    
+
+Enforceability
+
+. This Amendment has been duly executed and delivered by such Loan Party, and the Amended Credit Agreement constitutes a legal, valid and binding obligation of such Loan Party, enforceable against such Loan Party in accordance with its terms, subject to applicable bankruptcy, insolvency, reorganization, moratorium or other similar laws affecting creditors’ rights generally and subject to general principles of equity, regardless of whether considered in a proceeding in equity or at law.
+
+SECTION 4.    
+
+Survival of Representations and Warranties
+
+. All representations and warranties made in this Amendment, including any Loan Document furnished in connection with this Amendment, shall survive the execution and delivery of this Amendment and the other Loan Documents, and no investigation by the Administrative Agent or any closing shall affect the representations and warranties or the right of the Administrative Agent or any Lender to rely upon them.
+
+SECTION 5.    
+
+Expenses
+
+. As provided in Section 11.1 of the Amended Credit Agreement, and subject to the limitations expressly set forth therein, Holdings hereby agrees to pay on demand all legal and other fees, costs and expenses incurred by the Administrative Agent in connection with the negotiation, preparation, and execution of this Amendment and all related documents.
+
+4
+
+SECTION 6.    
+
+No Implied Waivers
+
+. No failure or delay on the part of the Administrative Agent or any Lender in exercising, and no course of dealing with respect to, any right, power or privilege under this Amendment, the Credit Agreement or any other Loan Document shall operate as a waiver thereof, nor shall any single or partial exercise of any right, power or privilege under this Amendment, the Credit Agreement or any other Loan Document preclude any other or further exercise thereof or the exercise of any other right, power or privilege.
+
+SECTION 7.    
+
+Ratification and Affirmation of Loan Parties
+
+. Each of the Loan Parties hereby expressly (a) acknowledges the terms of this Amendment, (b) ratifies and affirms its obligations under the Loan Documents to which it is a party, (c) acknowledges, renews and extends its continued liability under the Loan Documents to which it is a party, and (d) agrees, with respect to each Loan Party that is a Guarantor, that its guarantee under the Guaranty remains in full force and effect with respect to the Obligations as amended hereby. Any and all of the terms and provisions of the Credit Agreement and the other Loan Documents shall, except as amended hereby, remain in full force and effect. The Loan Parties hereby extend the Liens securing the Obligations (as amended hereby) until the Obligations have been paid in full, and agree that the amendments herein contained shall in no manner affect or impair the Obligations or the Liens securing payment and performance thereof, all of which are ratified and confirmed. 
+
+SECTION 8.    
+
+Severability
+
+. Any provision of this Amendment that is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining portions hereof or affecting the validity or enforceability of such provision in any other jurisdiction.
+
+SECTION 9.    
+
+APPLICABLE LAW
+
+. THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF TEXAS.
+
+SECTION 10.    
+
+Successors and Assigns
+
+. This Amendment is binding upon and shall inure to the benefit of the Administrative Agent, the Lenders and the Loan Parties and their respective successors and permitted assigns, except the Loan Parties may not assign or transfer any of their rights or obligations hereunder without the prior written consent of the Administrative Agent, other than as expressly permitted under the terms of the Amended Credit Agreement.
+
+SECTION 11.    
+
+Counterparts
+
+. This Amendment may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed and delivered shall be deemed an original but all of which when taken together shall constitute but one and the same instrument. Delivery of an executed signature page of this Amendment by facsimile transmission or PDF electronic transmission shall be effective as delivery of a manually executed counterpart hereof. The execution and delivery of this Amendment shall be deemed to include Electronic Signatures on electronic platforms approved by the Administrative Agent, which shall be of the same legal effect, validity or enforceability as delivery of a manually executed signature, to the extent and as provided for in any applicable law, including the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act; provided that, upon the request of any party hereto, such Electronic Signature shall be promptly followed by the original thereof.
+
+SECTION 12.    
+
+Effect of Consent
+
+. No consent or waiver, express or implied, by the Administrative Agent to or for any breach of or deviation from any covenant, condition or duty 
+
+5
+
+by the Borrowers shall be deemed a consent or waiver to or of any other breach of the same or any other covenant, condition or duty.
+
+SECTION 13.    
+
+Headings
+
+. The headings of this Amendment are for purposes of reference only and shall not limit or otherwise affect the meaning hereof.
+
+SECTION 14.    
+
+Reaffirmation of Loan Documents
+
+. This Amendment shall be deemed to be an amendment to the Credit Agreement, and the Amended Credit Agreement and the other Loan Documents are hereby ratified, approved and confirmed in each and every respect. All references to the Credit Agreement herein and in any other document, instrument, agreement or writing shall hereafter be deemed to refer to the Amended Credit Agreement.
+
+SECTION 15.    
+
+Loan Document
+
+. This Amendment constitutes a “Loan Document” under and as defined in the Amended Credit Agreement.
+
+SECTION 16.    
+
+Entire Agreement
+
+. THE CREDIT AGREEMENT, THIS AMENDMENT, THE OTHER LOAN DOCUMENTS, AND ALL OTHER INSTRUMENTS, DOCUMENTS AND AGREEMENTS EXECUTED AND DELIVERED IN CONNECTION WITH THIS AMENDMENT REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO ORAL AGREEMENTS AMONG THE PARTIES.
+
+[THE REMAINDER OF THIS PAGE HAS BEEN INTENTIONALLY LEFT BLANK]
+
+6
+
+IN WITNESS WHEREOF, the parties hereto have executed this Amendment as of the date set forth above.
+
+BORROWERS
+
+:
+
+NATURAL GAS SERVICES GROUP, INC.
+
+,
+a Colorado corporation 
+
+By:    
+
+    /s/ Stephen C. Taylor        
+
+Name:    Stephen C. Taylor
+Title:    Interim President and Chief
+
+Executive Officer
+
+[Signature Page to Second Amendment to Credit Agreement – Natural Gas Services Group, Inc.]
+
+GUARANTORS
+
+:
+
+NGSG PROPERTIES, LLC
+
+,
+a Colorado limited liability company
+
+By:    
+
+    /s/ Stephen C. Taylor        
+
+Name:    Stephen C. Taylor
+Title:    Interim President and Chief
+
+Executive Officer
+
+ 
+
+[Signature Page to Second Amendment to Credit Agreement – Natural Gas Services Group, Inc.]
+
+ADMINISTRATIVE AGENT AND LENDER
+
+:
+
+ 
+
+TEXAS CAPITAL BANK
+
+,
+as Administrative Agent and a Lender
+
+By: __
+
+/s/ Dan Clubb
+
+_____________________
+Name: Dan Clubb
+Title: Senior Vice President
+
+[Signature Page to Second Amendment to Credit Agreement – Natural Gas Services Group, Inc.]
+
+SCHEDULE 2.1
+
+Commitments and Applicable Percentages
+
+Lender
+
+Commitment
+
+Applicable
+Percentage
+
+Texas Capital Bank
+
+$50,000,000
+
+100.00%
+
+Total:
+
+$50,000,000
+
+100.00%

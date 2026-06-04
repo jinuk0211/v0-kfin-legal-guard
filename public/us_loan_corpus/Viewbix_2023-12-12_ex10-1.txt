@@ -1,0 +1,739 @@
+EX-10.1
+
+2
+
+ex10-1.htm
+
+ 
+
+ 
+
+Exhibit
+10.1
+
+ 
+
+LOAN
+AGREEMENT
+
+ 
+
+This
+Loan Agreement (“
+Loan Agreement
+”) is made effective as of November 15, 2023, by and among Viewbix Ltd., a company
+organized under the laws of the State of Israel (the “
+Company
+”), and the lenders set forth in 
+Schedule I
+ hereto
+(each, a “
+Lender
+”, and collectively, the “
+Lenders
+”).
+
+ 
+
+NOW,
+THEREFORE, in consideration of the promises and mutual covenants hereinafter contained, the parties hereto agree as follows: 
+
+ 
+
+1.
+
+Amount
+ of the Loan
+. The Lenders hereby undertake to provide to the Company loans, in the amounts
+ set forth opposite each Lender’s name in 
+Schedule I
+ hereto, in one or more transactions,
+ in the aggregate amount of US$480,000 (four hundred eighty thousand), and the Lenders may,
+ in the aggregate and at such Lender’s sole discretion, elect to lend an additional
+ amount of up to US$520,000 (five hundred twenty thousand) thereby resulting in an aggregate
+ of up to $1,000,000 (one million). The principal amount of the loan shall be referred to
+ as the “
+Loan Principal
+” and the date of each disbursement of the Loan
+ Principal shall be referred to as the “
+Date of Grant
+”.
+
+ 
+
+2.
+
+Interest
+.
+ The Loan Principal shall bear an annual interest of 9% accruing from the Date of Grant through
+ the date of the repayment in full of the Loan Principal (the 
+“Interest
+”,
+ and the Loan Principal together with any accrued and unpaid interest, the “
+Loan
+ Amount
+”).
+
+ 
+
+3.
+
+Loan
+ Repayment
+. The Loan Amount shall be repaid over the course of two (2) years following
+ January 1, 2024 (the “
+Repayment Period
+”), whereby for the first twelve
+ (12) months following January 1, 2024, the Company shall repay on a quarterly basis the Interest
+ accrued on the Loan Principal as of such repayment date (for the avoidance of any doubt,
+ the Company shall not repay any of the Loan Principal during the first twelve (12) months
+ following January 1, 2024), and for the remaining twelve (12) months, the Company shall repay
+ on a quarterly basis the outstanding Loan Amount, as illustrated in the loan amortization
+ schedule attached hereto as 
+Schedule II
+. For the avoidance of doubt, each Lender may
+ at its discretion offset any portion of the outstanding Loan Amount owed by the Borrower,
+ as of such repayment date set forth in the foregoing repayment schedule, towards the payment
+ of the exercise price for the shares of Common Stock underlying the Warrants, as set forth
+ and defined in Section 4 below.
+
+ 
+
+3.1.
+
+Notwithstanding
+ anything to the contrary, the Company may elect to repay a part or all of the Loan Amount
+ earlier than contemplated in Section 3, with no penalty, premium or other fee or payment.
+
+ 
+
+3.2.
+
+Notwithstanding
+ anything to the contrary, in the event that the Company fails to repay a part or all of the
+ Loan Amount (due to insufficient cash amount – as determined by the board of directors
+ of Viewbix Inc. (the “
+Parent
+”) in good faith based on the Parent’s
+ latest consolidated balance sheet, statements of income and statements of cash flow) following
+ the lapse of the Repayment Period, each Lender shall be entitled, at its discretion, to convert
+ the outstanding Loan Amount owed to each respective Lender into shares of the Parent’s
+ common stock, par value $0.0001 per share (“
+Common Stock
+”), at a price
+ per share equal to the 30-day average of the closing bid price of the Common Stock on such
+ exchange or quotation system upon which the Common Stock is listed or quoted, as applicable,
+ calculated as of such date the respective portion of the outstanding Loan Amount becomes
+ repayable (the “
+Converted Stock
+”). The Lenders shall be entitled to the
+ foregoing conversion right for a period of twelve (12) months following the lapse of the
+ Repayment Period, and upon the earlier of the lapse of such period, or upon issuance of the
+ Converted Stock, the Company shall be relieved of any obligations under this Loan Agreement,
+ including the obligation to repay the Loan Amount to the respective Lender.
+
+ 
+
+4.
+
+Warrants
+.
+ For every dollar amount of the Loan Principal granted by each Lender under this Agreement,
+ such Lender shall be granted a warrant to purchase up to one share of Common Stock (the “
+Warrants
+”)
+ for each one dollar such Lender lends to the Company. The terms of the Warrants, including,
+ without limitation, the exercise period and price, shall be as set forth in the form of Warrants,
+ all subject to the approval of the Parent. Each Lender undertakes to take all actions and
+ to sign all documents required, at the discretion of the Company and the Parent, in order
+ to give effect to and enforce the above terms and conditions. Any tax liability in connection
+ with the Warrants shall be borne solely by each Lender.
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+5.
+
+Restrictions
+ on Common Stock
+. The Lenders understand that the Converted Stock, the Warrants and upon
+ exercise, the shares of Common Stock underlying the Warrants shall be, “restricted
+ securities” within the meaning of Rule 144 under the U.S. Securities Act of 1933, as
+ amended (the “
+Securities Act
+”) and may not be sold, pledged, assigned
+ or transferred and must be held indefinitely in the absence of (i) an effective registration
+ statement under the Securities Act and applicable state securities laws with respect thereto,
+ or (ii) an opinion of counsel satisfactory to the Parent that such registration is not required.
+ The certificates for each of the shares of Converted Stock, Warrants and underlying shares
+ of Common Stock shall bear the following or similar legend (in addition to such other restrictive
+ legends as are required or deemed advisable under any applicable law or any other agreement
+ to which the Parent is a party):
+
+ 
+
+“THE
+SECURITIES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”),
+OR UNDER THE SECURITIES LAWS OF ANY STATES. THESE SECURITIES ARE SUBJECT TO RESTRICTIONS ON TRANSFERABILITY AND RESALE AND MAY NOT BE
+TRANSFERRED OR RESOLD EXCEPT AS PERMITTED UNDER THE SECURITIES ACT AND THE APPLICABLE STATE SECURITIES LAWS, PURSUANT TO REGISTRATION
+OR EXEMPTION THEREFROM. UNLESS SOLD PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT, THE ISSUER OF THESE SECURITIES
+MAY REQUIRE AN OPINION OF COUNSEL IN FORM AND SUBSTANCE SATISFACTORY TO THE ISSUER TO THE EFFECT THAT ANY PROPOSED TRANSFER OR RESALE
+IS IN COMPLIANCE WITH THE SECURITIES ACT AND ANY APPLICABLE STATE SECURITIES LAWS.”
+
+ 
+
+The
+Lenders consent to the Parent making a notation on its records or giving instructions to any transfer agent of the Converted Stock, the
+Warrants and the shares of Common Stock underlying the Warrants in order to implement the restrictions on any such transfer set forth
+and described herein.
+
+ 
+
+6.
+
+Events
+ of Default
+. Notwithstanding the foregoing, the Loan Amount will immediately become due
+ and payable upon any Event of Default as defined herein. The occurrence of any of the following
+ shall be an “
+Event of Default
+”:
+
+ 
+
+6.1.
+
+In
+ the event that the Company breaches the repayment provisions contained in Section 3 above,
+ in which case such breach shall constitute a material breach and Lenders shall each be entitled
+ to terminate this Loan Agreement provided that it first gives the Company written notice
+ of such breach.
+
+ 
+
+6.2.
+
+A
+ receiver, administrator, liquidator, whether temporary or permanent, was appointed to the
+ Company or its business or its property, all or part of it, which appointment was not canceled
+ within 90 days;
+
+ 
+
+6.3.
+
+The
+ Company adopts a resolution for winding up or a winding up order has been issued against
+ it, or a lien has been imposed over its assets or part of them and said lien has not been
+ lifted within 30 days, or ceasing to conduct its business on a permanent basis; or
+
+ 
+
+6.4.
+
+The
+ Company ceases to be an SEC reporting company or fails to timely file any required periodic
+ or annual reports with the SEC.
+
+ 
+
+7.
+
+Accounting
+ Records
+. The books, accounting records and receipts of each of the Lenders obligate both
+ sides to this Loan Agreement and will be used as conclusive proof against the Company with
+ regard to moneys that the Company owes under this Loan Agreement and/or with regard to other
+ details included in this Loan Agreement.
+
+ 
+
+8.
+
+Miscellaneous
+.
+
+ 
+
+8.1.
+
+Entire
+ Agreement
+. This Loan Agreement constitutes and contains the entire agreement of the parties
+ with respect to the subject matter hereof, and supersedes any and all prior agreements regarding
+ the subject matter hereof.
+
+ 
+
+ 
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+8.2.
+
+Governing
+ Law.
+ This Loan Agreement shall be governed by and construed according to the laws of
+ the State of Israel, without regard to the conflict of laws provisions thereof. Any dispute
+ arising under or in relation to this Loan Agreement shall be resolved in the competent court
+ for Tel Aviv-Jaffa district, and each of the parties hereby submits irrevocably to the jurisdiction
+ of such court.
+
+ 
+
+8.3.
+
+Assignability
+.
+ Neither the Company nor the Lender shall not have the right to assign its rights hereunder
+ or any interest herein, without the prior written consent of the opposite party.
+
+ 
+
+8.4.
+
+No
+ Waiver; Amendments
+. This Loan Agreement may not be amended or modified except by written
+ agreement between the Company and each of the Lenders, and no consent or waiver hereunder
+ shall be valid unless in writing and signed by each of the Lenders. The failure of either
+ party to require performance of any provision of this Loan Agreement shall not be construed
+ as a waiver of that party’s rights to insist on performance of that same provision,
+ or any other provision, at some other time. No right may be waived except in a writing signed
+ by the party entitled to assert the right. The waiver by either party of any right created
+ by this Loan Agreement in one or more instances shall not be construed as a further continuing
+ waiver of such right or any other right created by this Loan Agreement.
+
+ 
+
+8.5.
+
+Severability
+.
+ If any provision of this Loan Agreement is held to be unenforceable for any reason, all other
+ provisions of this Loan Agreement shall be deemed valid and enforceable to the full extent
+ possible.
+
+ 
+
+8.6.
+
+Notices.
+ 
+Any demand notice or communication under this Loan Agreement shall be in writing and
+ shall be hand delivered or sent by registered mail return receipt requested to the party
+ receiving such communication at the address specified herein or such other address as either
+ party may in the future specify to the other party.
+
+ 
+
+[Signature
+Page Follows]
+
+ 
+
+ 
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF the parties have signed this Loan Agreement as of the date first set forth above.
+
+ 
+
+ 
+
+ 
+
+VIEWBIX
+ LTD.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By
+
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LENDER:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Signature
+Page to Loan Agreement, November 15, 2023]
+
+ 
+
+ 
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+Schedule
+I
+
+ 
+
+ 
+
+ 
+Lender
+
+ 
+
+ 
+Loan Principal Amount
+
+ 
+
+ 
+
+ 
+Yoram Baumann
+
+ 
+
+ 
+$
+
+75,000
+
+ 
+
+ 
+
+ 
+Amihay Hadad
+
+ 
+
+ 
+$
+
+20,000
+
+ 
+
+ 
+
+ 
+Shahar Marom
+
+ 
+
+ 
+$
+
+10,000
+
+ 
+
+ 
+
+ 
+L.I.A. Pure Capital Ltd
+
+ 
+
+ 
+$
+
+75,000
+
+ 
+
+ 
+
+ 
+Medigus Ltd.
+
+ 
+
+ 
+$
+
+200,000
+
+ 
+
+ 
+
+ 
+Eli Yoresh
+
+ 
+
+ 
+$
+
+20,000
+
+ 
+
+ 
+
+ 
+Amitay Weiss
+
+ 
+
+ 
+$
+
+20,000
+
+ 
+
+ 
+
+ 
+Ehud Weiss
+
+ 
+
+ 
+$
+
+50,000
+
+ 
+
+ 
+
+ 
+Targa Independent Ltd.
+
+ 
+
+ 
+$
+
+10,000
+
+ 
+
+ 
+
+ 
+Total
+
+ 
+
+ 
+$
+
+480,000

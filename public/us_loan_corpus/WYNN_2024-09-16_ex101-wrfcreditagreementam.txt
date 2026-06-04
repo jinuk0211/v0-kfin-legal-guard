@@ -1,0 +1,783 @@
+EX-10.1
+
+2
+
+ex101-wrfcreditagreementam.htm
+
+EX-10.1
+
+Document
+
+Ex. 10.1
+
+AMENDMENT NO. 4
+
+This AMENDMENT NO. 4 (this “
+
+Amendment
+
+”), dated as of September 16, 2024 and effective as of the Amendment No. 4 Effective Date (as hereinafter defined), is made and entered into by and among WYNN RESORTS FINANCE, LLC, a Nevada limited liability company (the “
+
+Borrower
+
+”), the GUARANTORS, each INCREMENTAL EXTENDED TERM A FACILITY LENDER (as hereinafter defined) party hereto, each INCREMENTAL EXTENDED REVOLVING LENDER (as hereinafter defined) party hereto and DEUTSCHE BANK AG NEW YORK BRANCH, as administrative agent for the Lenders under the Existing Credit Agreement (as hereinafter defined) (in such capacity, the “
+
+Administrative Agent
+
+”).
+
+RECITALS:
+
+WHEREAS, reference is hereby made to the Credit Agreement, dated as of September 20, 2019, as amended by Amendment No. 1, dated as of April 10, 2020, Amendment No. 2, dated as of November 27, 2020 and Amendment No. 3, dated as of May 17, 2023 (as further amended, restated, amended and restated, replaced, supplemented, or otherwise modified prior to giving effect to the amendments contemplated by this Amendment, the “
+
+Existing Credit Agreement
+
+” and, after giving effect to the amendments contemplated by this Amendment, the “
+
+Credit Agreement
+
+”), among the Borrower, the Guarantors, the Lenders party thereto from time to time, the Administrative Agent, Deutsche Bank AG New York Branch, as collateral agent for the Secured Parties (as defined in the Credit Agreement), and the other parties thereto;
+
+WHEREAS, Section 2.12 of the Existing Credit Agreement permits the Borrower to establish (i) Incremental Term A Loan Commitments and Incremental Term A Loans and to amend the Existing Credit Agreement to establish such Incremental Term A Loan Commitments and Incremental Term A Loans pursuant to an Incremental Joinder Agreement, executed by the Borrower and each Lender making or providing such Incremental Term A Loan Commitments and Incremental Term A Loans and (ii) Incremental Existing Tranche Revolving Commitments and to amend the Existing Credit Agreement to establish such Incremental Existing Tranche Revolving Commitments pursuant to an Incremental Joinder Agreement, executed by the Borrower and each Lender making or providing such Incremental Existing Tranche Revolving Commitments;
+
+WHEREAS, pursuant to the terms hereof, Borrower will obtain $71,793,851.24 in Incremental Extended Term A Facility Commitments and Incremental Extended Term A Facility Loans (in each case, as defined below) from the Persons party hereto listed on 
+
+Schedule A
+
+ hereto (the “
+
+Incremental Extended Term A Facility Lenders
+
+”), the proceeds of which will be used to by the Borrower to refinance in full all outstanding Non-Extended Term A Facility Loans (as defined in the Existing Credit Agreement); 
+
+WHEREAS, pursuant to the terms hereof, Borrower will obtain $68,702,290.08 in Incremental Extended Revolving Commitments (as defined below) from the Persons party hereto listed on 
+
+Schedule B
+
+ hereto (the “
+
+Incremental Extended Revolving Lenders
+
+”), to replace in full all outstanding Non-Extended Revolving Commitments (as defined in the Existing Credit Agreement), which shall be terminated; and
+
+WHEREAS, Goldman Sachs Lending Partners LLC, KeyBanc Capital Markets Inc. and Citizens Bank, National Association have each agreed to act as joint lead arrangers and joint bookrunners for this Amendment.
+
+1
+
+NOW, THEREFORE, in consideration of the premises and agreements, provisions, and covenants herein contained and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+ARTICLE I
+
+DEFINITIONS
+
+SECTION I.1
+
+Definitions
+
+. Except as otherwise expressly provided herein, capitalized terms used in this Amendment (including in the Recitals and the introductory paragraph above) shall have the meanings given in the Credit Agreement, and the rules of construction set forth in the Credit Agreement shall apply to this Amendment.
+
+ARTICLE II
+
+AMENDMENTS TO EXISTING CREDIT AGREEMENT
+
+SECTION II.1
+
+Effective as of the Amendment No. 4 Effective Date (as defined below), (a) the Existing Credit Agreement is hereby amended to delete the stricken text (indicated textually in the same manner as the following example: 
+
+stricken text
+
+ 
+
+or 
+
+stricken text
+
+) and to add the double-underlined text (indicated textually in the same manner as the following example: 
+
+double-underlined text
+
+ 
+
+or 
+
+double-underlined text
+
+) as set forth in the pages of the Credit Agreement attached hereto as 
+
+Exhibit A
+
+, and (b) Annex A-1 to the Existing Credit Agreement is hereby amended and restated in its entirety as set forth on 
+
+Exhibit B
+
+ hereto and (c) Annex A-2 to the Existing Credit Agreement is hereby amended by adding the table attached as 
+
+Schedule A
+
+ hereto.
+
+ARTICLE III
+
+INCREMENTAL EXTENDED TERM A FACILITY LOANS AND INCREMENTAL EXTENDED REVOLVING COMMITMENTS
+
+SECTION I.1
+
+Incremental Extended Term A Facility Loans
+
+. 
+
+(a)
+
+Agreement to Provide Incremental Extended Term A Facility Commitments
+
+. Each Incremental Extended Term A Facility Lender that executes and delivers this Amendment as a “Incremental Extended Term A Facility Lender” agrees to provide its respective commitment to make loans as set forth on 
+
+Schedule A
+
+ attached hereto on the terms set forth in this Amendment and the Credit Agreement (each such commitment, a “
+
+Incremental Extended Term A Facility Commitment
+
+” and any loans made thereunder, “
+
+Incremental Extended Term A Facility Loans
+
+”), and its commitment to provide such Incremental Extended Term Facility Commitment shall be irrevocably binding as of the Amendment No. 4 Effective Date.
+
+(b)
+
+Agreement to Make Incremental Extended Term Facility Loans
+
+. Each Incremental Extended Term A Facility Lender with an Incremental Extended Term A Facility Commitment agrees, severally and not jointly, on the terms and conditions of this Amendment and the Credit Agreement, to make Incremental Extended Term A Facility Loans to the Borrower in Dollars on the Amendment No. 4 Effective Date, in an aggregate principal amount equal to the Incremental Extended Term A Facility Commitment of such Incremental Extended Term A Facility Lender as in effect on the Amendment No. 4 Effective Date. It is the understanding, agreement and intention that once made pursuant to this 
+
+Section 3.1(b)
+
+, any Incremental 
+
+2
+
+Extended Term A Facility Loans shall be deemed to be Extended Term A Facility Loans for all purposes of this Amendment and the Credit Agreement. Upon the making of the Incremental Extended Term A Facility Loans, the Borrower shall use the proceeds of such Incremental Extended Term A Facility Loans to refinance the outstanding Non-Extended Term A Facility Loans (as defined in the Existing Credit Agreement).
+
+(c)
+
+Incremental Extended Term A Facility Lenders
+
+. Each Incremental Extended Term A Facility Lender acknowledges and agrees that upon the occurrence of the Amendment No. 4 Effective Date, it shall be bound under this Amendment and under the Credit Agreement as an Extended Term A Facility Lender, a Term A Facility Lender and a Lender holding Extended Term A Facility Loans, and shall perform all the obligations of and shall have all rights of an Extended Term A Facility Lender, a Term A Facility Lender and a Lender hereunder and thereunder.
+
+(d)
+
+Interest Period For SOFR Loans
+
+. The initial Interest Period for all Incremental Extended Term A Facility Loans hereunder shall commence upon the making of such Incremental Extended Term A Facility Loan and end on the last day of the Interest Period(s) applicable to the Extended Term A Facility Loans (as of the date of the making of the Incremental Extended Term A Facility Loans) and such Incremental Extended Term A Facility Loans shall have the same Adjusted Term SOFR rate as the corresponding Extended Term A Facility Loans (and, if there are multiple Interest Periods and/or multiple Adjusted Term SOFR rates applicable to the Extended Term A Facility Loans as of such date of the making of the Incremental Extended Term A Facility Loans, then the Incremental Extended Term A Facility Loans shall have multiple Interest Periods ending on the same days (and having the same Adjusted Term SOFR rates) as such Interest Periods, and with respect to amounts proportionate to the amount of the Extended Term A Facility Loans applicable to such Interest Periods).
+
+(e)
+
+Credit Agreement
+
+. By executing this Amendment each Incremental Extended Term A Facility Lender (i) confirms that it has received a copy of the Existing Credit Agreement and the other Credit Documents, together with copies of the financial statements referred to therein and such other documents and information as it has deemed appropriate to make its own credit analysis and decision to enter into this Amendment; (ii) agrees that it will, independently and without reliance upon the Administrative Agent or any other Lender or Agent and based on such documents and information as it shall deem appropriate at the time, continue to make its own credit decisions in taking or not taking action under the Credit Agreement; (iii) appoints and authorizes Administrative Agent and each other Agent to take such action as agent on its behalf and to exercise such powers under the Credit Agreement and the other Credit Documents as are delegated to the Administrative Agent or such other Agent, as the case may be, by the terms thereof, together with such powers as are reasonably incidental thereto; and (iv) agrees that it will perform in accordance with their terms all of the obligations which by the terms of this Amendment and the Credit Agreement are required to be performed by it as an Extended Term A Facility Lender, a Term A Facility Lender and a Lender hereunder and thereunder.
+
+SECTION III.1
+
+Incremental Extended Revolving Commitments
+
+.
+
+(a)
+
+Agreement to Provide Incremental Extended Revolving Commitments
+
+. Each Incremental Extended Revolving Lender that executes and delivers this Amendment as a “Incremental Extended Revolving Lender” agrees in connection therewith to provide its respective commitment to make loans as set forth on 
+
+Schedule B
+
+ attached hereto on the terms set 
+
+3
+
+forth in this Amendment and the Credit Agreement (each such commitment, a “
+
+Incremental Extended Revolving Commitment
+
+”), and its commitment to provide such Incremental Extended Revolving Commitment shall be irrevocably binding as of the Amendment No. 4 Effective Date. It is the understanding, agreement and intention that once provided pursuant to this 
+
+Section 3.2(a)
+
+, any Incremental Extended Revolving Commitments shall be deemed to be Extended Revolving Commitments for all purposes of this Amendment and the Credit Agreement.
+
+(b)
+
+Incremental Extended Revolving Lenders
+
+. Each Incremental Extended Revolving Lender acknowledges and agrees that upon the occurrence of the Amendment No. 4 Effective Date, it shall be bound under this Amendment and under the Credit Agreement as an Extended Revolving Lender, a Revolving Lender and a Lender holding Extended Revolving Commitments, and shall perform all the obligations of and shall have all rights of an Extended Revolving Lender, a Revolving Lender and a Lender hereunder and thereunder.
+
+(c)
+
+Credit Agreement
+
+. By executing this Amendment each Incremental Extended Revolving Lender (i) confirms that it has received a copy of the Existing Credit Agreement and the other Credit Documents, together with copies of the financial statements referred to therein and such other documents and information as it has deemed appropriate to make its own credit analysis and decision to enter into this Amendment; (ii) agrees that it will, independently and without reliance upon the Administrative Agent or any other Lender or Agent and based on such documents and information as it shall deem appropriate at the time, continue to make its own credit decisions in taking or not taking action under the Credit Agreement; (iii) appoints and authorizes Administrative Agent and each other Agent to take such action as agent on its behalf and to exercise such powers under the Credit Agreement and the other Credit Documents as are delegated to the Administrative Agent or such other Agent, as the case may be, by the terms thereof, together with such powers as are reasonably incidental thereto; and (iv) agrees that it will perform in accordance with their terms all of the obligations which by the terms of this Amendment and the Credit Agreement are required to be performed by it as an Extended Revolving Lender, a Revolving Lender and a Lender hereunder and thereunder.
+
+ARTICLE IV
+
+REPRESENTATIONS AND WARRANTIES
+
+SECTION IV.1
+
+Each Credit Party has all necessary corporate or other organizational power, authority and legal right to execute, deliver and perform its obligations under this Amendment and to consummate the transactions herein contemplated; the execution, delivery and performance by each Credit Party of this Amendment and the consummation of the transactions herein contemplated have been duly authorized by all necessary corporate, partnership or other organizational action on its part; and this Amendment has been duly and validly executed and delivered by each Credit Party and constitutes its legal, valid and binding obligation, enforceable against each Credit Party in accordance with its terms, except as such enforceability may be limited by (a) bankruptcy, insolvency, fraudulent conveyance, reorganization, moratorium or similar laws of general applicability from time to time in effect affecting the enforcement of creditors’ rights and remedies and (b) the application of general principles of equity (regardless of whether such enforceability is considered in a proceeding in equity or at law).
+
+SECTION IV.2
+
+(a) None of the execution, delivery and performance by any Credit Party of this Amendment nor the consummation of the transactions herein do or will (i) conflict with or result in a breach of, or require any consent (which has not been obtained and is in full force and effect) under 
+
+4
+
+(x) any Organizational Document of any Credit Party or (y) subject to 
+
+Section 13.13
+
+ of the Credit Agreement, any applicable Requirement of Law (including, without limitation, any Gaming Law) or (z) any order, writ, injunction or decree of any Governmental Authority binding on any Credit Party or (ii) constitute (with due notice or lapse of time or both) a default under any Contractual Obligation or (iii) result in or require the creation or imposition of any Lien (except for the Liens created pursuant to the Security Documents and other Permitted Liens) upon any Property of any Credit Party pursuant to the terms of any such Contractual Obligation, except with respect to clauses (i)(y), (i)(z), (ii), or (iii) which would not reasonably be expected to result in a Material Adverse Effect; and (b) No Default or Event of Default has occurred and is continuing.
+
+SECTION IV.3
+
+The representations and warranties contained in 
+
+Article VIII
+
+ of the Credit Agreement and in the other Credit Documents are true and correct in all material respects on and as of the Amendment No. 4 Effective Date (except where such representations and warranties expressly relate to an earlier date, in which case such representations and warranties were true and correct in all material respects as of such earlier date); 
+
+provided
+
+, that any representation and warranty that is qualified as to “materiality,” “Material Adverse Effect” or similar language is (or was) true and correct in all respects.
+
+ARTICLE V
+
+CONDITIONS TO THE AMENDMENT NO. 4 EFFECTIVE DATE
+
+The amendments set forth in Section 2.1 hereof shall become effective on the date (the “
+
+Amendment No. 4 Effective Date
+
+”) on which each of the following conditions is satisfied or waived:
+
+SECTION V.1
+
+Execution of Counterparts
+
+. The Administrative Agent shall have received executed counterparts of this Amendment from each Credit Party, each of the Incremental Extended Term A Facility Lenders, each of the Incremental Extended Revolving Lenders and the Administrative Agent.
+
+SECTION V.2
+
+Corporate Documents
+
+. The Administrative Agent shall have received:
+
+(a)
+
+certified true and complete copies of the Organizational Documents of each Credit Party and evidence of all corporate or other applicable authority for each Credit Party (including board of directors (or other applicable governing authority) resolutions and evidence of the incumbency, including specimen signatures, of officers) with respect to the execution, delivery, and performance of this Amendment and the extensions of credit hereunder, certified as of the Amendment No. 4 Effective Date as complete and correct copies thereof by the Secretary or an Assistant Secretary of each such Credit Party (or the member or manager or general partner of such Credit Party, as applicable) (provided that, in lieu of attaching such Organizational Documents and/or evidence of incumbency, such certificate may certify that (i) since the Closing Date (or such later date on which the applicable Credit Party became party to the Credit Documents), there have been no changes to the Organizational Documents of such Credit Party and (ii) no changes have been made to the incumbency certificate of the officers of such Credit Party delivered on the Closing Date (or such later date referred to above));
+
+(b)
+
+a certificate as to the good standing of each Credit Party as of a recent date, from the Secretary of State (or other applicable Governmental Authority) of its jurisdiction of formation; and
+
+(c)
+
+an Officer’s Certificate of the Borrower, dated the Amendment No. 4 Effective Date, certifying that the conditions set forth in 
+
+Section 5.3
+
+ hereof have been satisfied.
+
+5
+
+SECTION V.3
+
+No Default or Event of Default; Representations and Warranties True
+
+. Both immediately prior to this Amendment and also after giving effect to this Amendment:
+
+(a)
+
+no Default or Event of Default shall have occurred and be continuing; and
+
+(b)
+
+each of the representations and warranties made by the Credit Parties in 
+
+Article VIII
+
+ of the Credit Agreement, 
+
+Article IV
+
+ hereof and in the other Credit Documents shall be true and correct in all material respects on and as of the Amendment No. 4 Effective Date (except where such representations and warranties expressly relate to an earlier date, in which case such representations and warranties shall have been true and correct in all material respects only as of such earlier date); 
+
+provided
+
+ that, any representation and warranty that is qualified as to “materiality,” “Material Adverse Effect” or similar language shall be (or shall have been) true and correct in all respects on the applicable date.
+
+SECTION V.4
+
+Fees
+
+. On the Amendment No. 4 Effective Date, the Borrower shall have paid, or caused to be paid, to the Administrative Agent, for the account of each Incremental Extended Term A Facility Lender and each Incremental Extended Revolving Lender, an amendment fee equal to 0.25% of the sum of the principal amount of such Incremental Extended Term A Facility Lender’s and such Incremental Extended Revolving Lender’s Incremental Extended Term A Facility Loans and Incremental Extended Revolving Commitments. 
+
+SECTION V.5
+
+KYC Information
+
+. (a) The Administrative Agent, each Incremental Extended Term A Facility Lender and each Incremental Extended Revolving Lender shall have received, at least five (5) days prior to the Amendment No. 4 Effective Date, all documentation and other information reasonably requested in writing at least ten (10) days prior to the Amendment No. 4 Effective Date that the Administrative Agent, such Incremental Extended Term A Facility Lender or such Incremental Extended Revolving Lender reasonably determines is required by regulatory authorities from the Credit Parties under applicable “know your customer” and anti-money laundering rules and regulations, including without limitation the Patriot Act and (b) to the extent the Borrower qualifies as a “legal entity customer” under the Beneficial Ownership Regulation, at least three (3) days prior to the Amendment No. 4 Effective Date, any Incremental Extended Term A Facility Lender or Incremental Extended Revolving Lender that has requested, in a written notice to the Borrower at least five (5) days prior to the Amendment No. 4 Effective Date, a Beneficial Ownership Certification in relation to the Borrower shall have received such Beneficial Ownership Certification (provided that, upon the execution and delivery by such Lender of its signature page to this Amendment, the condition set forth in this clause (b) shall be deemed to be satisfied).
+
+SECTION V.6
+
+Legal Opinion
+
+. The Administrative Agent shall have received the following opinions, each of which shall be addressed to the Administrative Agent, the Collateral Agent and the Lenders, dated as of the Amendment No. 4 Effective Date and covering such matters as the Administrative Agent shall reasonably request in a manner customary for transactions of this type:
+
+(a)
+
+an opinion of Latham & Watkins LLP, special counsel to the Credit Parties; and
+
+(b)
+
+an opinion of Brownstein Hyatt Farber Schreck, LLP, Nevada local counsel to the Credit Parties.
+
+SECTION V.7
+
+Solvency Certificate
+
+. The Administrative Agent shall have received a certificate in the form of 
+
+Exhibit G
+
+ to the Credit Agreement from a Responsible Officer of Borrower with respect to 
+
+6
+
+the Solvency of Borrower (on a consolidated basis with its Restricted Subsidiaries), immediately after giving effect to this Amendment on the Amendment No. 4 Effective Date.
+
+SECTION V.8
+
+Flood
+
+. The Administrative Agent shall have received (a) a completed “life of loan” Federal Emergency Management Agency Standard Flood Hazard Determination with respect to each Mortgaged Real Property (each a “
+
+Flood Notice
+
+”) and (b) if any improvements constituting part of a Mortgaged Real Property are located in an area which is designated as a “flood hazard area” in any Flood Insurance Rate Map established by the Federal Emergency Management Agency (or any successor agency), (i) a duly executed and acknowledged Flood Notice by the appropriate Credit Parties and (ii) evidence of flood insurance as required by Section 9.02 of the Existing Credit Agreement.
+
+SECTION V.9
+
+Notes
+
+. The Administrative Agent shall have received copies of new Notes with respect to Loans in effect immediately after the Amendment No. 4 Effective Date, duly completed and executed, for each Lender that requested a Note at least three (3) Business Days prior to the Amendment No. 4 Effective Date.
+
+SECTION V.10
+
+Notice of Prepayment
+
+. The Administrative Agent shall have received a notice of prepayment duly completed and complying with Section 4.05 of the Existing Credit Agreement for the Non-Extended Term A Facility Loans. 
+
+SECTION V.11
+
+Notice of Termination
+
+. The Administrative Agent shall have received a notice of termination duly completed and complying with Section 4.05 of the Existing Credit Agreement for the Non-Extended Revolving Commitments. 
+
+SECTION V.12
+
+Notice of Borrowing
+
+. The Administrative Agent shall have received a Notice of Borrowing duly completed and complying with Section 4.05 of the Existing Credit Agreement for the Incremental Extended Term A Facility Loans. 
+
+ARTICLE VI
+
+VALIDITY OF OBLIGATIONS AND LIENS
+
+SECTION VI.1
+
+Reaffirmation
+
+. Each of the Credit Parties party hereto (a) acknowledges and agrees that all of such Credit Party’s obligations under the Security Documents and the other Credit Documents (as amended hereby) to which it is a party are reaffirmed and remain in full force and effect on a continuous basis as amended by this Amendment, (b) reaffirms each lien and security interest granted by it to the Collateral Agent for the benefit of the Secured Parties to secure the Secured Obligations (as defined in the Security Agreement) and the guaranties of the Guaranteed Obligations made by it pursuant to the Existing Credit Agreement, and (c) acknowledges and agrees that the grants of liens and security interests by, and the guaranties of, the Credit Parties contained in the Existing Credit Agreement and the Security Documents are, and shall remain, in full force and effect after giving effect to this Amendment and the transactions contemplated hereby and thereby.
+
+ARTICLE VII
+
+MISCELLANEOUS
+
+SECTION VII.1
+
+Amendment, Modification and Waiver
+
+. This Amendment may not be amended, modified or waived except by an instrument or instruments in writing signed and delivered on 
+
+7
+
+behalf of the Borrower and the Administrative Agent (acting at the direction of such Lenders as may be required under 
+
+Section 13.04
+
+ of the Credit Agreement).
+
+SECTION VII.2
+
+Entire Agreement
+
+. This Amendment (including the Schedules and Exhibits) and the other Credit Documents constitute the entire agreement among the parties with respect to the subject matter hereof and thereof and supersede all other prior agreements and understandings, both written and verbal, among the parties or any of them with respect to the subject matter hereof. Each Lender party hereto, in its capacity as a Lender hereunder and in its capacity as a Lender under the Existing Credit Agreement, hereby consents to the amendments set forth herein.
+
+SECTION VII.3
+
+GOVERNING LAW
+
+. THIS AMENDMENT AND ANY CLAIMS, CONTROVERSIES, DISPUTES, OR CAUSES OF ACTION (WHETHER ARISING UNDER CONTRACT LAW, TORT LAW OR OTHERWISE) BASED UPON OR RELATING TO THIS AMENDMENT, SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK WITHOUT GIVING EFFECT TO ANY CHOICE OF LAW PRINCIPLES THAT WOULD APPLY THE LAWS OF ANOTHER JURISDICTION.
+
+SECTION VII.4
+
+SUBMISSION TO JURISDICTION; WAIVER OF VENUE; SERVICE OF PROCESS; WAIVER
+
+. EACH PARTY HERETO AGREES THAT 
+
+SECTIONS 13.09(b)
+
+, 
+
+13.09(c)
+
+, 
+
+13.09(d)
+
+, AND 
+
+13.09(e)
+
+ OF THE CREDIT AGREEMENT SHALL APPLY TO THIS AMENDMENT MUTATIS MUTANDIS.
+
+SECTION VII.5
+
+Confidentiality
+
+. Each party hereto agrees that 
+
+Section 13.10
+
+ of the Credit Agreement shall apply to this Amendment mutatis mutandis.
+
+SECTION VII.6
+
+No Advisory or Fiduciary Responsibility
+
+. Each party hereto agrees that 
+
+Section 13.17
+
+ of the Credit Agreement shall apply to this Amendment mutatis mutandis.
+
+SECTION VII.7
+
+Severability
+
+. Wherever possible, each provision of this Amendment shall be interpreted in such manner as to be effective and valid under applicable law, but if any provision of this Amendment shall be prohibited by or invalid under applicable law, such provision shall be ineffective only to the extent of such prohibition or invalidity, without invalidating the remainder of such provisions or the remaining provisions of this Amendment.
+
+SECTION VII.8
+
+Counterparts
+
+. This Amendment may be executed in counterparts (and by different parties hereto on different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. Delivery of an executed signature page to this Amendment by facsimile or other electronic transmission (including portable document format (“.pdf”) or similar format) shall be effective as delivery of a manually executed counterpart hereof. The words “execution,” “signed,” “signature,” “delivery,” and words of like import in or relating to any document to be signed in connection with this Amendment and the transactions contemplated hereby shall be deemed to include an electronic symbol or process attached to a contract or other record and adopted by a Person with the intent to sign, authenticate or accept such contract or record (each an “
+
+Electronic Signature
+
+”), deliveries or the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability as a manually executed signature, physical delivery thereof or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided for in any applicable law, including the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act; 
+
+provided
+
+, that nothing herein shall require the Administrative 
+
+8
+
+Agent to accept Electronic Signatures in any form or format without its prior written consent.  Without limiting the generality of the foregoing, the Borrower hereby (i) agrees that, for all purposes, including without limitation, in connection with any workout, restructuring, enforcement of remedies, bankruptcy proceedings or litigation among the Administrative Agent, the Lenders and the Credit Parties, electronic images of this Amendment or any other Credit Documents (in each case, including with respect to any signature pages thereto)  shall have the same legal effect, validity and enforceability as any paper original, and (ii) waives any argument, defense or right to contest the validity or enforceability of the Credit Documents based solely on the lack of paper original copies of any Credit Documents, including with respect to any signature pages thereto.
+
+SECTION VII.9
+
+Credit Document; Request for Incremental Credit Facilities; Incremental Joinder Agreement
+
+. This Amendment shall constitute a “Credit Document”, as defined in the Credit Agreement. This Amendment represents a request for the Incremental Extended Term A Facility Commitments, Incremental Extended Term A Facility Loans, and Incremental Extended Revolving Commitments pursuant to Section 2.12(b) of the Credit Agreement, and the parties hereto confirm that the Incremental Effective Date with respect to each of the foregoing has occurred on the Amendment No. 4 Effective Date. This Amendment shall constitute an “Incremental Joinder Agreement” for purposes of Section 2.12(b) of the Credit Agreement.
+
+SECTION VII.10
+
+No Novation
+
+. The parties hereto expressly acknowledge that it is not their intention that this Amendment or any of the other Credit Documents executed or delivered pursuant hereto constitute a novation of any of the obligations, covenants, or agreements contained in the Existing Credit Agreement or any other Credit Document (including the Secured Obligations (as defined in the Security Agreement) and the Guaranteed Obligations), but rather constitute a modification thereof or supplement thereto pursuant to the terms contained herein. The Existing Credit Agreement and the other Credit Documents, in each case as amended, modified, or supplemented hereby, shall be deemed to be continuing agreements among the parties thereto, and all documents, instruments, and agreements delivered, as well as all Liens created, pursuant to or in connection with the Existing Credit Agreement and the other Credit Documents shall remain in full force and effect, each in accordance with its terms (as amended, modified, or supplemented by this Amendment), it being understood that from after the occurrence of the Amendment No. 4 Effective Date, each reference in the Credit Documents to the “Credit Agreement,” “thereunder,” “thereof” (and each reference in the Credit Agreement to “this Amendment,” “hereunder,” or “hereof”) or words of like import shall mean and be a reference to the Credit Agreement as amended, modified or supplemented by this Amendment.
+
+SECTION VII.11
+
+Expenses
+
+. The Borrower agrees to reimburse the Administrative Agent for the reasonable and documented out-of-pocket expenses incurred by them in connection with this Amendment, including the reasonable and documented fees, charges and disbursements of Cahill Gordon & Reindel LLP, counsel for the Administrative Agent.
+
+SECTION VII.12
+
+Certain Tax Matters
+
+. For the avoidance of doubt, the Extended Term A Facility Loans and any Incremental Extended Term A Facility Loans are intended to, together, be treated as a single fungible tranche of Indebtedness for U.S. federal income tax purposes.
+
+[Remainder of page intentionally left blank]
+
+9
+
+IN WITNESS WHEREOF, the parties have caused this Amendment to be duly executed as of the day and year first above written, to be effective as of the Amendment No. 4 Effective Date.
+
+Borrower:                WYNN RESORTS FINANCE, LLC
+
+By: 
+
+/s/ Julie Cameron-Doe
+
+Name: Julie Cameron-Doe
+
+Title: Treasurer 
+
+Guarantors:                WYNN MA, LLC
+
+By: Wynn America Group, LLC, its sole member
+
+By: 
+
+/s/ Julie Cameron-Doe
+
+Name: Julie Cameron-Doe
+
+Title: Treasurer 
+
+EVERETT PROPERTY, LLC
+
+EBH HOLDINGS, LLC
+
+WYNN AMERICA GROUP, LLC
+
+WYNN LAS VEGAS HOLDINGS, LLC
+
+WYNN GROUP ASIA, INC.
+
+By: 
+
+/s/ Julie Cameron-Doe
+
+Name: Julie Cameron-Doe
+
+Title: Treasurer 
+
+WYNN LAS VEGAS, LLC
+
+By: Wynn Las Vegas Holdings, LLC, its sole member
+
+By: 
+
+/s/ Julie Cameron-Doe
+
+Name: Julie Cameron-Doe
+
+Title: Treasurer 
+
+WYNN SUNRISE, LLC
+
+By: Wynn Las Vegas, LLC its sole member
+
+By: Wynn Las Vegas Holdings, LLC, its sole member
+
+By: 
+
+/s/ Julie Cameron-Doe
+
+Name: Julie Cameron-Doe
+
+Title: Treasurer 
+
+[Signature Page to Amendment No. 4 to Credit Agreement]
+
+Acknowledged and Agreed by:
+
+DEUTSCHE BANK AG NEW YORK BRANCH
+
+, as Administrative Agent
+
+By:    
+
+/s/ Philip Tancorra
+
+Name: Philip Tancorra
+
+Title: Director
+
+By:    
+
+/s/ Suzan Onal
+
+Name: Suzan Onal
+
+Title: Director
+
+[Signature Page to Amendment No. 4 to Credit Agreement]
+
+GOLDMAN SACHS LENDING PARTNERS LLC
+
+, as an Incremental Extended Term A Facility Lender and an Incremental Extended Revolving Lender
+
+By:    
+
+/s/ Jonathan Dworkin
+
+Name: Jonathan Dworkin
+
+Title: Authorized Signatory
+
+KEYBANK NATIONAL ASSOCIATION
+
+, as an Incremental Extended Term A Facility Lender and an Incremental Extended Revolving Lender
+
+By:    
+
+/s/ John J. DeLong
+
+Name: John J. DeLong
+
+Title: Vice President
+
+CITIZENS BANK, NATIONAL ASSOCIATION
+
+, as an Incremental Extended Term A Facility Lender and an Incremental Extended Revolving Lender
+
+By:    
+
+/s/ Stephen Justus
+
+Name: Stephen Justus
+
+Title: Vice President
+
+[Signature Page to Amendment No. 4 to Credit Agreement]
+
+SCHEDULE A
+
+INCREMENTAL EXTENDED TERM A FACILITY COMMITMENTS
+
+Lender
+
+Incremental Extended Term A Facility Commitments
+
+GOLDMAN SACHS LENDING PARTNERS LLC
+
+$35,896,533.74
+
+KEYBANK NATIONAL ASSOCIATION
+
+$25,550,114.96
+
+CITIZENS BANK, NATIONAL ASSOCIATION
+
+$10,347,202.54
+
+Total
+
+$71,793,851.24
+
+SCHEDULE B
+
+INCREMENTAL EXTENDED REVOLVING COMMITMENTS
+
+Lender
+
+Incremental Extended Revolving Commitments
+
+GOLDMAN SACHS LENDING PARTNERS LLC
+
+$34,351,145.04
+
+KEYBANK NATIONAL ASSOCIATION
+
+$24,449,885.04
+
+CITIZENS BANK, NATIONAL ASSOCIATION
+
+$9,901,260.00
+
+Total
+
+  $68,702,290.08
+
+EXHIBIT A
+
+Amended Credit Agreement
+
+[
+
+See attached.
+
+]
+
+EXHIBIT B
+
+Annex A-1
+
+EXTENDED REVOLVING COMMITMENTS
+
+Lender
+
+Extended Revolving Commitments
+
+DEUTSCHE BANK AG NEW YORK BRANCH
+
+$68,702,290.05
+
+BANK OF AMERICA, N.A.
+
+$68,702,290.08
+
+BNP PARIBAS
+
+$68,702,290.08
+
+FIFTH THIRD BANK
+
+$68,702,290.08
+
+MIZUHO BANK, LTD.
+
+$68,702,290.08
+
+THE BANK OF NOVA SCOTIA
+
+$68,702,290.08
+
+SUMITOMO MITSUI BANKING CORPORATION
+
+$68,702,290.08
+
+TRUIST BANK
+
+$68,702,290.08
+
+CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK
+
+$57,251,908.39
+
+CITIZENS BANK, NATIONAL ASSOCIATION
+
+$49,977,595.88
+
+GOLDMAN SACHS BANK USA
+
+$34,351,145.04
+
+GOLDMAN SACHS LENDING PARTNERS LLC
+
+$34,351,145.04
+
+KEYBANK NATIONAL ASSOCIATION
+
+$
+
+2
+
+4,449,885.04
+
+Total
+
+$750,000,000.00

@@ -1,0 +1,1064 @@
+EX-10.1
+
+2
+
+ex10-1.htm
+
+ 
+
+ 
+
+Exhibit 10.1
+
+ 
+
+EXECUTION VERSION
+
+ 
+
+FIRST
+AMENDMENT TO CREDIT AGREEMENT
+
+ 
+
+THIS
+FIRST AMENDMENT TO CREDIT AGREEMENT, dated as of April 13, 2023 and effective as of the Effective Date (as defined below) (this “
+Agreement
+”),
+is entered into by and among the Lenders under the Existing Credit Agreement (as defined below) signatory hereto (which Lenders constitute
+the Required Lenders under the Existing Credit Agreement as of the Effective Date), GAN Nevada, Inc., a Nevada corporation (the “
+Borrower
+”),
+GAN Limited, a Bermuda exempted company (“
+Parent
+”), and Alter Domus (US) LLC, acting not individually but as administrative
+agent and collateral agent on behalf of, and for the benefit of, the Lenders and all other Secured Parties, respectively (in such capacity,
+together with its successors and assigns in such capacity, the “
+Agent
+”). Unless otherwise defined herein or the context
+otherwise requires, capitalized terms used in this Agreement have the meanings provided in the Existing Credit Agreement or the Credit
+Agreement (as defined below), as the context may require.
+
+ 
+
+RECITALS
+
+ 
+
+WHEREAS,
+reference is hereby made to that certain Credit Agreement, dated as of April 26, 2022, by and among the Borrower, the Agent and the banks,
+financial institutions and other entities from time to time party thereto as lenders (the “
+Lenders
+”) (as amended,
+restated, amended and restated, supplemented or otherwise modified and in effect immediately prior to the Effective Date, the “
+Existing
+Credit Agreement
+”, and the Existing Credit Agreement, as amended by this Agreement and as it may be further amended, restated,
+amended and restated, replaced, supplemented or otherwise modified from time to time, the “
+Credit Agreement
+”).
+
+ 
+
+WHEREAS,
+the Borrower has informed the Agent and the Lenders that the following Defaults and Events of Default have occurred under the Existing
+Credit Agreement (collectively, the “
+Specified Defaults
+”): (i) a Default arising under Section 10.1(c)(i) of the Existing
+Credit Agreement due to the Loan Parties’ failure to deliver the annual audited (without going concern qualification) and certified
+consolidated and consolidating Financial Statements of the Parent and its Subsidiaries for the fiscal year of the Borrower ended December
+31, 2022 in violation of Section 7.11(a) of the Existing Credit Agreement, (ii) a Default arising under Section 10.1(b) of the Existing
+Credit Agreement due to the Loan Parties’ failure to comply with the minimum Consolidated Interest Coverage Ratio for the Test
+Period ended March 31, 2023 set forth in Section 9.2 of the Existing Credit Agreement, (iii) an Event of Default arising under Section
+10.1(c)(i) of the Existing Credit Agreement due to the Loan Parties’ failure to deliver the Business Plan of the Parent and its
+Subsidiaries in violation of Section 7.11(b) of the Existing Credit Agreement, (iv) an Event of Default arising under Section 10.1(f)
+of the Existing Credit Agreement as a result of the Borrower’s failure to repay an unsecured intercompany loan in the principal
+amount of €7 million owed to StayCool OÜ (the “
+StayCool Loan
+”) on its maturity date, (v) an Event of Default
+arising under Section 10.1(b) of the Existing Credit Agreement due to the failure of StayCool OÜ to execute an Intercompany Subordination
+Agreement with respect to the StayCool Loan in violation of Section 8.1 of the Existing Credit Agreement, (vi) an Event of Default arising
+under Section 10.1(b) of the Existing Credit Agreement as a result of the Borrower’s failure to notify the Agent of the foregoing
+Defaults and Events of Default as required under Section 7.8(a) of the Existing Credit Agreement, and (vii) any Default or Event of Default
+arising by virtue of the Loan Parties’ breach of any representation or warranty contained within the Loan Documents to the extent
+such breach resulted solely by virtue of the occurrence and continuation of the Defaults listed in clauses (i) through (vi) above.
+
+ 
+
+ 
+
+-
+1
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WHEREAS,
+the Borrower has requested that the Agent and the Lenders (i) waive the Specified Defaults and (ii) amend the Existing Credit Agreement
+as set forth herein.
+
+ 
+
+WHEREAS,
+the Lenders party hereto (which Lenders constitute the Required Lenders under the Existing Credit Agreement as of the Effective Date)
+and the Agent have agreed to (i) waive the Specified Defaults and (ii) amend certain provisions contained in the Existing Credit Agreement,
+in each case in accordance with and subject to the terms and conditions set forth in this Agreement.
+
+ 
+
+AGREEMENT
+
+ 
+
+NOW,
+THEREFORE, in consideration of the premises and agreements, provisions and covenants herein contained, and for other good and valuable
+consideration, the receipt and adequacy of which are hereby acknowledged, the parties hereto agree as follows:
+
+ 
+
+Article
+I.
+
+amendments
+
+ 
+
+Section
+1.01 
+Amendments to Existing Credit Agreement
+. Effective as of the Effective Date, the Existing Credit Agreement shall be
+amended as set forth in this Section 1.01; 
+provided
+, however, that if the purchase price for the assignment of the Loans
+referred to in Section 4.04 of this Agreement is not received in full by BPC Lending I LLC (in Dollars and in immediately available
+funds, and otherwise in accordance with the BPC Assignment and Acceptance (as defined below)) prior to 2:00 p.m. New York City time
+on April 18, 2023, the amendments set forth in this Section 1.01 shall be of no further force or effect and shall be deemed to have
+never taken effect:
+
+ 
+
+(a) Section
+1.1 of the Existing Credit Agreement shall be amended to add the following definition in alphabetical order:
+
+ 
+
+“
+Liquidity
+”
+means (a) the aggregate amount of all Unrestricted Cash of Parent and its Subsidiaries plus (b) without duplication of any amounts included
+in clause (a) hereof, the aggregate amount of all cash and Cash Equivalents on the consolidated balance sheet of Parent and its Subsidiaries
+that are not “restricted” for purposes of GAAP, in each case of clauses (a) and (b), in excess of amounts related to player
+liabilities; 
+provided
+ that the aggregate amount of Liquidity pursuant to clause (b) shall not exceed $5,000,000.
+
+ 
+
+(b) Section
+9.1 of the Existing Credit Agreement shall be amended as set forth below (
+
+double
+underlining
+
+ indicates new language and 
+
+strikethrough
+
+ indicates
+language that has been deleted):
+
+ 
+
+Consolidated
+Total Leverage Ratio
+. On 
+
+or after the Effective Date (as defined
+in the First Amendment to Credit Agreement dated as of April 13, 2023), if the Loan Parties incur any Indebtedness or issue any Disqualified
+Equity Interests (including, for the avoidance of doubt, any such Indebtedness or Disqualified Equity Interests that are otherwise permitted
+under this Agreement)
+
+,
+
+the last day of each Test
+Period (beginning with the Test Period ending March 31, 2023),
+
+ 
+the
+Borrower shall not permit the Consolidated Total Leverage Ratio 
+
+on the
+date of such incurrence or issuance and after giving pro forma effect to such incurrence or issuance
+
+ to be greater than
+
+(a) for Test Periods ending on or prior to December 31, 2023, 3.25 to 1.00 and (b) for Test Periods
+ending thereafter,
+
+ 3.00 to 1.00.
+
+ 
+
+ 
+
+-
+2
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c) Effective
+as of the Effective Date, Section 9.2 of the Existing Credit Agreement shall be deleted in its entirety and replaced with the following:
+
+ 
+
+Liquidity
+.
+On the last day of each Test Period (beginning with the Test Period ending June 30, 2023), the Borrower shall not permit Liquidity to
+be less than $10,000,000.
+
+ 
+
+Article
+II.
+
+LIMITED WAIVER
+
+ 
+
+Section
+2.01 
+Limited Waiver
+. In reliance upon the representations, warranties and covenants of the Loan Parties contained herein, and
+subject to the satisfaction of the conditions set forth in Article IV of this Agreement, the Agent and the Lenders party hereto hereby
+waive the Specified Defaults; 
+provided
+, that the foregoing waiver shall be effective only to the extent specifically set forth
+herein and shall not (a) be construed as a consent to or waiver of any breach, Default or Event of Default other than as specifically
+waived herein nor as a waiver of any breach, Default or Event of Default of which the Agent or any of the Lenders have not been informed
+by any Loan Party, (b) affect the right of the Agent or any of the Lenders to demand compliance by each Loan Party with all terms and
+conditions of the Credit Agreement and the other Loan Documents, except as specifically consented to, modified or waived by the terms
+hereof, (c) be deemed a consent to or waiver of any future transaction or action on the part of any Loan Party requiring the Lenders’
+or the Required Lenders’ consent or approval under the Credit Agreement or the other Loan Documents, or (d) except as set forth
+specifically herein, diminish, prejudice or waive any of Agent’s or any Lender’s rights and remedies under the Credit Agreement,
+any of the other Loan Documents, or applicable law, whether arising as a consequence of any Default or Event of Default which may now
+exist or otherwise, and the Agent and each of the Lenders hereby reserve all of such rights and remedies; 
+provided
+, 
+further
+,
+that if the purchase price for the assignment of the Loans referred to in Section 4.04 of this Agreement is not received in full by BPC
+Lending I LLC (in Dollars and in immediately available funds, and otherwise in accordance with the BPC Assignment and Acceptance) prior
+to 2:00 p.m. New York City time on April 18, 2023, the waivers set forth in this Section 2.01 shall be of no further force or effect
+and shall be deemed to have never taken effect; 
+provided, further
+, that until the purchase price for the assignment of the Loans
+referred to in Section 4.04 is received by BPC Lending I LLC as set forth in the immediately foregoing proviso, the Borrower and the
+other Companies shall not be permitted to take any action (or to fail to take any action, as applicable) that would not be permitted
+to be taken (or failed to be taken, as applicable) under the Loan Documents if a Default or Event of Default had occurred and was continuing.
+
+ 
+
+ 
+
+-
+3
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Article
+III.
+
+Representations and Warranties
+
+ 
+
+To
+induce the Lenders party hereto to agree to this Agreement, the Borrower and the Parent hereby represent and warrant to the Lenders and
+the Agent that as of the Effective Date, and after giving effect to this Agreement:
+
+ 
+
+Section
+3.01 
+Organization; Good Standing and Qualification
+. Each of the Borrower and the Parent (a) is an Entity duly organized, incorporated
+or established, validly existing and in good standing under the laws of the state or jurisdiction of its incorporation, establishment,
+organization or formation (b) has the requisite power and authority to own its properties and assets and to transact the businesses in
+which it presently is, or proposes to be, engaged and (c) is duly qualified, authorized to do business and in good standing in each jurisdiction
+where it presently is, or proposes to be, engaged in business, except to the extent that the failure so to qualify or be in good standing
+could not reasonably be expected, individually or in the aggregate, to have a Material Adverse Effect.
+
+ 
+
+Section
+3.02 
+Authority
+. Each of the Borrower and the Parent has the requisite power and authority to execute, deliver and perform its
+obligations under this Agreement and the other Loan Documents. All requisite corporate, limited liability company or partnership action
+necessary for the execution, delivery and performance by the Borrower and the Parent of this Agreement and the other Loan Documents to
+which it is a party (including the consent of its equity holders, where required) has been taken.
+
+ 
+
+Section
+3.03 
+Enforceability
+. This Agreement and each other Loan Document delivered by the Borrower and the Parent, when executed and
+delivered, will be the legal, valid and binding obligation of each such Person enforceable in accordance with its terms, except as enforceability
+may be limited by (a) bankruptcy, insolvency, reorganization, moratorium or similar laws affecting creditors’ rights generally
+and (b) general principles of equity (regardless of whether such enforceability is considered in a proceeding in equity or at law).
+
+ 
+
+Section
+3.04 
+No Conflict
+. The execution, delivery and performance by each of the Borrower and the Parent of this Agreement and each
+other Loan Document to which it is a party (a) do not and will not contravene any of the Governing Documents of such Person, (b) do not
+and will not contravene any Requirement of Law, except as could not be expected, individually or in the aggregate, to result in a Material
+Adverse Effect, (c) do not and will not contravene any Material Contract, except as such contravention could not be expected, individually
+or in the aggregate, to have a Material Adverse Effect, and (d) do not and will not result in the imposition of any Liens upon any of
+its properties except for Permitted Liens.
+
+ 
+
+Section
+3.05 
+Consents and Filings
+. No consent, authorization or approval of, or filing with or other act by, any Governmental Authority
+or any other Person is required in connection with the execution, delivery or performance of this Agreement or any other Loan Document,
+or the consummation of the transactions contemplated hereby, except (a) such consents, authorizations, approvals, filings or other acts
+as have been made or obtained, as applicable, and are in full force and effect and (b) such consents, authorizations, approvals, filings
+or other acts the failure of which to be obtained or made would not reasonably be expected, individually or in the aggregate, to have
+a Material Adverse Effect.
+
+ 
+
+ 
+
+-
+4
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section
+3.06 
+No Default
+. No Default or Event of Default has occurred and is continuing.
+
+ 
+
+Section
+3.07 
+Representations and Warranties
+. All of the representations and warranties contained in the Loan Documents are true and
+correct in all material respects (except that such materiality qualifier shall not be applicable to any representations and warranties
+that already are qualified or modified by materiality in the text thereof) on and as of the Effective Date, as though made on and as
+of such date (except to the extent that such representations and warranties relate solely to an earlier date, in which case such representations
+and warranties were true and correct in all material respects (except that such materiality qualifier shall not be applicable to any
+representations and warranties that already are qualified or modified by materiality in the text thereof) as of such earlier date).
+
+ 
+
+Article
+IV.
+
+Conditions to the Effective Date
+
+ 
+
+This
+Agreement shall become effective on the date (the “
+Effective Date
+”) on which each of the following conditions is satisfied:
+
+ 
+
+Section
+4.01 
+Execution of Counterparts
+. The Agent shall have received executed counterparts of this Agreement from the Agent, the Borrower,
+the Parent and Lenders constituting the Required Lenders under the Existing Credit Agreement.
+
+ 
+
+Section
+4.02 
+No Default or Event of Default; Representations and Warranties
+.
+
+ 
+
+(a) After
+giving effect to this Agreement:
+
+ 
+
+(i) no
+Default or Event of Default shall have occurred and be continuing; and
+
+ 
+
+(ii) each
+of the representations and warranties in 
+Article III
+ hereof shall be true and correct.
+
+ 
+
+(b) The
+Agent shall have received a certificate of a Responsible Officer of the Borrower, addressed to the Agent, certifying as to the matters
+set forth in 
+Section 4.02(a)
+ above.
+
+ 
+
+Section
+4.03 
+Costs and Expenses
+. All of the reasonable and documented out-of-pocket costs and expenses incurred by the Agent and the
+Lenders on or prior to the Effective Date (including in connection with the assignment of the Term Loans by the Lenders) shall have been,
+or will be substantially simultaneously, paid
+, in each case to the extent invoiced to the Borrower at
+least one Business Day prior to the Effective Date
+.
+
+ 
+
+Section
+4.04 
+Assignment and Acceptance
+. BPC Lending I LLC shall have received an Assignment and Acceptance with respect to all of its
+Loans, in form and substance satisfactory to BPC Lending I LLC, executed by Sega Sammy Holdings Inc., as assignee, and acknowledged by
+the Agent and the Borrower (the “
+BPC Assignment and Acceptance
+”).
+
+ 
+
+ 
+
+-
+5
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Article
+V.
+
+Reaffirmation of Loan Documents AND CONSENT
+
+ 
+
+Section
+5.01 
+Validity of Obligations
+. The Borrower and the Parent acknowledge and agree that, after giving effect to this Agreement
+and the other agreements, documents, contracts and certificates contemplated hereby, each of the Borrower and the Parent is indebted
+to the Lenders and the other Secured Parties for the Obligations in accordance with the terms and conditions of the Loan Documents, and
+each of the Borrower and the Parent hereby ratifies and reaffirms the validity, enforceability and binding nature of its Obligations
+after giving effect to this Agreement.
+
+ 
+
+Section
+5.02 
+Validity of Liens and Loan Documents
+. Each of the Borrower and the Parent hereby ratifies and reaffirms the validity and
+enforceability of the Liens and security interests granted to the Agent for the benefit of the Secured Parties to secure any of the Obligations
+(including after giving effect to this Agreement) by the Borrower and the Parent pursuant to the Loan Documents. Each of the Borrower
+and the Parent hereby consents to this Agreement and the amendments effectuated hereby, and hereby confirms and agrees that notwithstanding
+the effectiveness of this Agreement and except as expressly amended by this Agreement, each of the Loan Document to which such Person
+is a party is, and shall continue to be, in full force and effect and each is hereby ratified and confirmed in all respects, except that,
+on and after the Effective Date, each reference in the Loan Documents to the “Credit Agreement”, “thereunder”
+(with respect to the Credit Agreement), “thereof” (with respect to the Credit Agreement) (and each reference in the Credit
+Agreement to this “Agreement”, “hereunder” or “hereof”) or words of like import shall mean and be
+a reference to the Credit Agreement as amended by, and after giving effect to, this Agreement.
+
+ 
+
+Section
+5.03 
+No Waiver
+. The execution, delivery and effectiveness of this Agreement shall not, except as expressly provided herein,
+operate as a waiver of any right, power or remedy of any Lender, Secured Party, the Agent or any other Person under any of the Loan Documents,
+or constitute a waiver of any provision of any of the Loan Documents.
+
+ 
+
+Section
+5.04 
+Consent
+. Each Lender that is a signatory hereto hereby consents to, and authorizes the Agent to execute, this Agreement.
+
+ 
+
+Article
+VI.
+
+Miscellaneous
+
+ 
+
+Section
+6.01 
+Amendment, Modification and Waiver
+. This Agreement may not be amended, modified or waived except by an instrument or instruments
+in writing signed and delivered on behalf of the Borrower and the requisite Lenders as may be required under Section 12.5 of the Credit
+Agreement. This Agreement is limited as specified and shall not constitute a modification, acceptance or waiver of any other provision
+of the Loan Documents.
+
+ 
+
+Section
+6.02 
+Entire Agreement
+. This Agreement and the other Loan Documents as amended hereby constitute the entire agreement among
+the parties with respect to the subject matter hereof and thereof and supersede all other prior agreements and understandings, both written
+and verbal, among the parties or any of them with respect to the subject matter hereof.
+
+ 
+
+ 
+
+-
+6
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section
+6.03 
+Headings
+. Section headings in this Agreement are included herein for convenience of reference only and shall not constitute
+a part of this Agreement for any other purpose or be given any substantive effect.
+
+ 
+
+Section
+6.04 
+GOVERNING LAW
+. THE VALIDITY, INTERPRETATION AND ENFORCEMENT OF THIS AGREEMENT AND ANY DISPUTE ARISING OUT OF OR IN CONNECTION
+WITH THIS AGREEMENT, WHETHER SOUNDING IN CONTRACT, TORT OR EQUITY OR OTHERWISE, SHALL BE GOVERNED BY THE INTERNAL LAWS (AS OPPOSED TO
+THE CONFLICTS OF LAW PROVISIONS OTHER THAN SECTION 5-1401 OF THE NEW YORK GENERAL OBLIGATIONS LAW) AND DECISIONS OF THE STATE OF NEW
+YORK.
+
+ 
+
+Section
+6.05 
+Submission to Jurisdiction; Waivers
+. Sections 12.15 and 12.17 of the Existing Credit Agreement shall apply to this Agreement
+as if expressly set forth herein.
+
+ 
+
+Section
+6.06 
+Severability
+. In case any provision in or obligation under this Agreement shall be invalid, illegal or unenforceable in
+any jurisdiction, the validity, legality and enforceability of the remaining provisions or obligations, or of such provision or obligation
+in any other jurisdiction, shall not in any way be affected or impaired thereby.
+
+ 
+
+Section
+6.07 
+Counterparts
+. This Agreement and any waiver or amendment hereto may be executed in counterparts and by the parties hereto
+in separate counterparts, each of which when so executed and delivered shall be an original, but all of which shall together constitute
+one and the same instrument. This Agreement may be executed and delivered by facsimile or other electronic transmission (including by
+electronic imaging) all with the same force and effect as if the same was a fully executed and delivered original manual counterpart.
+The words “execute,” “execution,” “signed,” “signature,” and words of like import in
+or related to this Agreement or any document to be signed in connection with this Agreement or the transactions contemplated hereby shall
+be deemed to include electronic signatures, the electronic matching of assignment terms and contract formations on electronic platforms
+approved by the Agent, or the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability
+as a manually executed signature or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided
+for in any applicable Law, including the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic
+Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act; 
+provided
+ that notwithstanding
+anything contained herein to the contrary Agent is under no obligation to agree to accept electronic signatures in any form or in any
+format unless expressly agreed to by the Agent pursuant to procedures approved by it.
+
+ 
+
+Section
+6.08 
+No Novation
+. This Agreement shall not extinguish the obligations for the payment of money outstanding under the Existing
+Credit Agreement or discharge or release the priority of any Loan Document or any other security therefor. Nothing herein contained shall
+be construed as a substitution or novation of the obligations outstanding under the Existing Credit Agreement or the instruments, documents
+and agreements securing the same, which shall remain in full force and effect as amended hereby. Nothing in this Agreement shall be construed
+as a release or other discharge of the Borrower, the Parent or any other Loan Party from any of its obligations and liabilities under
+the Existing Credit Agreement or the other Loan Documents.
+
+ 
+
+Section
+6.09 
+Release
+. Each of the Borrower and the Parent (each on behalf of itself and the other Companies) hereby releases the Agent,
+the Lenders, the other Secured Parties, each Affiliate of the foregoing, and each agent, officer, director and employees of any of the
+foregoing from any and all claims, liabilities, damages, costs and expenses, whether now existing or hereafter arising, based on facts
+(whether or not now known) existing on or before the Effective Date, and that relate to, arise out of or are otherwise in connection
+with the Credit Agreement and the other Loan Documents.
+
+ 
+
+Section
+6.10 
+Successors and Assigns
+. This Agreement shall be binding upon and inure to the benefit of the Borrower, the Parent, the
+Lenders party hereto, the Agent and their respective successors and permitted assigns.
+
+ 
+
+[REMAINDER
+OF PAGE INTENTIONALLY LEFT BLANK]
+
+ 
+
+ 
+
+-
+7
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, each of the undersigned has caused its duly authorized officer to execute and deliver this Agreement as of the date
+first set forth above.
+
+ 
+
+ 
+
+ 
+
+GAN
+ NEVADA, INC.
+,
+
+ 
+
+ 
+
+ 
+
+ 
+
+a
+ Nevada corporation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Dermot Smurfit
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Dermot
+ Smurfit
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GAN LIMITED
+,
+
+ 
+
+ 
+
+ 
+
+ 
+
+a Bermuda exempted company
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Dermot Smurfit
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Dermot
+ Smurfit 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Signature
+Page to First Amendment to Credit Agreement]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BPC
+ LENDING I LLC
+,
+
+ 
+
+ 
+
+ 
+
+ 
+
+as
+ a Lender
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Allen Schweitzer
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Allan
+ Schweitzer
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Executive
+ Managing Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Signature Page to First Amendment to Credit Agreement]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ALTER
+ DOMUS (US) LLC
+,
+
+ 
+
+ 
+
+ 
+
+ 
+
+as
+ Agent
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Pinju Chiu
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Pinju
+ Chiu
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Associate
+ Counsel
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Signature Page to First Amendment to Credit Agreement]

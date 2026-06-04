@@ -1,0 +1,102 @@
+import Anthropic from "@anthropic-ai/sdk"
+import { CARD_DISCLAIMER, type CardReport } from "./card-schemas"
+import { normalizeCardReport } from "./card-normalize"
+
+// Live analysis for raw CFPB credit-card agreements. Reproduces the harness
+// T2 final-report shape in a single call. Reads ANTHROPIC_API_KEY from env.
+const anthropic = new Anthropic()
+
+const SYSTEM_PROMPT = `You are the FinLegal-Harness US credit-card auditor. You detect consumer-adverse clauses in US credit-card agreements (CFPB Credit Card Agreement Database) and project cost/disclosure risk under the Truth in Lending Act (TILA), Regulation Z, the Credit CARD Act of 2009, and the Federal Arbitration Act.
+
+Taxonomy:
+CC-01 Hidden or unclear fees (annual, foreign transaction, cash advance, late fees)
+CC-02 Unfavorable APR / penalty-rate escalation
+CC-03 Minimum-payment trap / unfavorable billing (average daily balance, two-cycle)
+CC-04 Unilateral change-in-terms / account cancellation without adequate notice
+CC-05 Mandatory arbitration / class-action waiver
+UNCATEGORIZED Any other consumer disadvantage not fitting CC-01..CC-05
+
+Rules:
+1. triggered_by MUST be the verbatim clause text from the agreement. No paraphrase.
+2. Do NOT invent case law. Leave legal_grounds.precedents = [] and legal_grounds.statutes = [] unless certain. (Precedent grounding is a separate verified stage.)
+3. plain_language_explanation (<=150 chars), user_impact (<=100 chars, tied to the persona if given), estimated_risk_scenario (<=200 chars): 8th-grade reading level.
+4. confidence and user_relevance_score are floats in [0,1]. severity is one of CRITICAL|HIGH|MEDIUM|LOW.
+5. recommended_actions: 1-3 items with priority one of immediate|pre-signing|optional. Contacts limited to real bodies (CFPB 1-855-411-2372, consumerfinance.gov, the issuer).
+6. Output JSON ONLY. No markdown fences.
+
+Output JSON (exactly this shape):
+{
+  "product": "string",
+  "doc_type": "credit_card_agreement",
+  "user_profile": { "id": "P01|P02|P03|null", "risk_flags": ["string"] },
+  "executive_summary": "string",
+  "overall_risk_level": "HIGH|MEDIUM|LOW|NONE",
+  "vulnerability_count": { "CRITICAL": 0, "HIGH": 0, "MEDIUM": 0, "LOW": 0, "uncategorized": 0 },
+  "findings": [{
+    "finding_id": "US-V001",
+    "taxonomy": "CC-02",
+    "title": "string",
+    "triggered_by": "verbatim clause",
+    "description": "string",
+    "status": "UNVERIFIED",
+    "confidence": 0.8,
+    "user_relevance_score": 0.7,
+    "legal_grounds": { "statutes": [], "precedents": [] },
+    "severity": "HIGH",
+    "plain_language_explanation": "string",
+    "user_impact": "string",
+    "estimated_risk_scenario": "string",
+    "recommended_actions": [{ "action": "string", "priority": "immediate", "contact": "CFPB at consumerfinance.gov" }],
+    "rank": 1
+  }],
+  "general_recommendations": ["string"],
+  "disclaimer": "string"
+}`
+
+interface PersonaHint {
+  id?: string
+  risk_flags?: string[]
+}
+
+function buildUserPrompt(contractText: string, persona?: PersonaHint): string {
+  const personaSection = persona?.id
+    ? `Consumer persona: ${persona.id} (risk flags: ${(persona.risk_flags ?? []).join(", ") || "none"}). Tailor user_impact to this persona.\n\n`
+    : ""
+  return `${personaSection}Analyze the following US credit-card agreement and respond with the JSON shape only:\n\n${contractText.slice(0, 8000)}`
+}
+
+export async function analyzeCard(
+  contractText: string,
+  persona?: PersonaHint
+): Promise<CardReport> {
+  const message = await anthropic.messages.create({
+    model: "claude-sonnet-4-20250514",
+    max_tokens: 4000,
+    system: SYSTEM_PROMPT,
+    messages: [{ role: "user", content: buildUserPrompt(contractText, persona) }],
+  })
+
+  const textBlock = message.content.find((block) => block.type === "text")
+  if (!textBlock || textBlock.type !== "text") {
+    throw new Error("No text response from AI")
+  }
+
+  const cleaned = textBlock.text.replace(/```json|```/g, "").trim()
+  try {
+    const parsed = JSON.parse(cleaned)
+    return normalizeCardReport(parsed, "live")
+  } catch (parseError) {
+    console.error("[card-anthropic] parse error:", parseError)
+    return {
+      product: "Credit Card Agreement",
+      doc_type: "credit_card_agreement",
+      vulnerability_count: { CRITICAL: 0, HIGH: 0, MEDIUM: 0, LOW: 0, uncategorized: 0 },
+      findings: [],
+      general_recommendations: [],
+      disclaimer:
+        "An error occurred while processing the AI analysis. Please try again. " +
+        CARD_DISCLAIMER,
+      source: "live",
+    }
+  }
+}

@@ -1,0 +1,385 @@
+EX-10.1
+
+2
+
+ex101-amendmentno2.htm
+
+EX-10.1
+
+Document
+
+Exhibit 10.1
+
+AMENDMENT NO. 2 TO REVOLVING CREDIT AGREEMENT, dated as of February 21, 2024 (this “
+
+Amendment
+
+”), is entered into among Lyft, Inc., a Delaware corporation (the “
+
+Borrower
+
+”), the other Loan Parties party hereto, the Lenders party hereto and JPMorgan Chase Bank, N.A., as Administrative Agent (in such capacity, the “
+
+Administrative Agent
+
+”).
+
+WHEREAS, the Borrower, the several banks and other financial institutions party thereto and the Administrative Agent entered into that certain Revolving Credit Agreement, dated as of November 3, 2022 (as amended by Amendment No. 1 to the Revolving Credit Agreement, dated as of December 12, 2023 and as further amended, supplemented or otherwise modified prior to the Amendment Effective Date (as defined below), the “
+
+Existing Credit Agreement
+
+”; the Existing Credit Agreement, as amended by this Amendment, the “
+
+Amended Credit Agreement
+
+”; capitalized terms used but not defined in this Amendment shall have the meanings assigned to such terms in the Amended Credit Agreement);
+
+WHEREAS, pursuant to Section 9.02 of the Existing Credit Agreement and the definition of “Required Lenders” as set forth in the Existing Credit Agreement, the Borrower, Lenders constituting the Required Lenders and the Administrative Agent may amend the Existing Credit Agreement as set forth herein; and
+
+WHEREAS, in reliance on the foregoing, upon the terms and subject to the conditions set forth in this Amendment, effective as of the Amendment Effective Date, the Borrower, the Lenders party hereto (which Lenders as of the date hereof constitute the “Required Lenders” under and as defined in the Existing Credit Agreement) and the Administrative Agent agree to amend the Existing Credit Agreement as set forth herein.
+
+NOW, THEREFORE, in consideration of the premises and of the mutual covenants herein contained and for other good and valuable consideration, the receipt of which is hereby acknowledged, the parties hereto agree as follows:
+
+SECTION 1.
+
+Amendments
+
+. 
+
+(a)
+
+On the Amendment Effective Date, the Existing Credit Agreement is hereby amended as follows:
+
+(i)
+
+Section 1.01 of the Existing Credit Agreement is hereby amended to add the following defined term in appropriate alphabetical order:
+
+““
+
+Free Cash Flow
+
+” as defined in Borrower’s most recent Quarterly Reports on Form 10-Q and/or Annual Reports on Form 10-K in respect of such Measurement Period.”
+
+““
+
+Total Net Leverage Ratio
+
+” means, as of any date of determination, the ratio of (a) (i) all Indebtedness of the Borrower and its Restricted Subsidiaries of the type described in clauses (a) through (e) and (g) and (h) of the definition of “Indebtedness”, and solely with respect to letters of credit, bankers’ acceptances and similar facilities that have been drawn but not yet reimbursed, clause (f) of the definition of “Indebtedness” to the extent reflected as a liability on the balance sheet in accordance with GAAP as of such date, determined on a consolidated basis in accordance with GAAP, minus (ii) the lesser of (A) (1) if Free Cash Flow for the most recently ended Measurement Period is greater than $100,000,000, $300,000,000 or (2) otherwise, $200,000,000 and (B) the amount of Unrestricted 
+
+cash and Cash Equivalents on the balance sheet of the Borrower and its Restricted Subsidiaries as of such date, to (b) Consolidated Adjusted EBITDA for the most recently ended Measurement Period.”
+
+(ii)
+
+The defined term “Refinancing Indebtedness” in Section 1.01 of the Existing Credit Agreement are hereby amended and replaced in its entirety as follows:
+
+““
+
+Refinancing Indebtedness
+
+” means refinancings, extensions, renewals, or replacements of Indebtedness so long as such refinancings, extensions, renewals, or replacements do not result in an increase in the principal amount (other than any accrued or capitalized amounts) of the Indebtedness so refinanced, extended, renewed or replaced, other than by the amount equal to any accrued but unpaid interest, the premiums or other amounts paid, and fees and expenses incurred (including, in the case of Convertible Notes, any premium payments with respect to any related Permitted Bond Hedge Transactions), in connection with such refinancing, extension, renewal or replacement and by the amount of unfunded commitments with respect thereto.”
+
+(iii)
+
+Section 6.01 of the Existing Credit Agreement is hereby amended by (A) deleting the word “and” at the end of clause (p), (B) deleting the period at the end of clause (q) and replacing with “; and”, and (c) adding a new clause (r) as follows:
+
+“(r)    additional Indebtedness consisting of Convertible Notes, in an aggregate principal amount not to exceed $100,000,000, the proceeds of which shall be used to finance a repurchase of shares of common stock of the Borrower.”
+
+(iv)
+
+Section 6.07(b) of the Existing Credit Agreement is hereby amended and replaced in its entirety as follows: 
+
+“(b)    
+
+Total Net Leverage Ratio
+
+. 
+
+(i)    For each of the fiscal quarters of the Borrower ending September 30, 2024 and December 31, 2024, the Borrower will not permit, as of the last day of each such fiscal quarter, the Total Net Leverage Ratio to exceed 3.50 to 1.00. 
+
+(ii)    Commencing with the fiscal quarter of the Borrower ending March 31, 2025, the Borrower will not permit, as of the last day of such fiscal quarter and each subsequent fiscal quarter, the Total Net Leverage Ratio to exceed the Applicable Covenant Level.”
+
+(v)
+
+Section 6.08 of the Existing Credit Agreement is hereby amended by (A) deleting the word “and” at the end of clause (i), (B) deleting the period at the end of clause (j) and replacing with “; and”, and (C) adding a new clause (k) as follows:
+
+“(k)    following the issuance by the Borrower of any Convertible Notes, the Borrower may use all or a portion of the proceeds of such Convertible Notes to make additional Restricted Payments, in an aggregate amount not to exceed $100,000,000.”
+
+SECTION 2.
+
+Conditions Precedent to Effectiveness
+
+. This Amendment shall become effective on the first date (the “
+
+Amendment Effective Date
+
+”) on which all the following conditions are satisfied:
+
+2
+
+(a)
+
+The Administrative Agent (or its counsel) shall have received from each party hereto, including Lenders constituting the “Required Lenders” under and as defined in the Existing Credit Agreement, a counterpart of this Amendment signed on behalf of such party. 
+
+(b)
+
+Immediately prior to and immediately after giving effect to this Amendment, no Default or Event of Default shall have occurred and be continuing on the Amendment Effective Date. 
+
+(c)
+
+The representations and warranties contained in Section 3 of this Amendment and in Article 3 of the Existing Credit Agreement shall be true and correct in all material respects on and as of the date hereof, except that (i) for purposes of this Section 2(c), the representations and warranties contained in Section 3.04(a) of the Existing Credit Agreement shall be deemed to refer to the most recent statements furnished pursuant to Section 5.01(a) or Section 5.01(b) of the Existing Credit Agreement (subject, in the case of unaudited financial statements furnished pursuant to Section 5.01(b) of the Existing Credit Agreement, to year-end audit adjustments and the absence of footnotes), (ii) to the extent that such representations and warranties in Article 3 of the Existing Credit Agreement specifically refer to the “Effective Date” (as defined in the Existing Credit Agreement), other than with respect to the Section 3.13, such references shall be deemed to refer to the Amendment Effective Date and shall be true and correct in all material respects as of the Amendment Effective Date and (iii) to the extent that such representations and warranties are already qualified or modified by materiality or words of similar effect in the text thereof, they shall be true and correct in all respects.
+
+(d)
+
+The Lenders party hereto and the Administrative Agent shall have received on or before the Amendment Effective Date payment of all expenses required to be reimbursed by the Borrower under the Loan Documents for which invoices have been presented at least one (1) Business Day prior to the Amendment Effective Date.
+
+SECTION 3.
+
+Representations and Warranties
+
+. In order to induce the Lenders party hereto to enter into this Amendment, the Borrower hereby represents and warrants to the Lenders that (a) this Amendment has been duly authorized by all necessary corporate or organizational and, if required, equity holder action and (b) this Amendment has been duly executed and delivered by the Borrower and constitutes a legal, valid and binding obligation of the Borrower, enforceable in accordance with its terms, subject to applicable bankruptcy, insolvency, reorganization, moratorium or other laws affecting creditors’ rights generally and subject to general principles of equity, regardless of whether considered in a proceeding in equity or at law.
+
+SECTION 4.
+
+Continuing Effect; No Novation; Reaffirmation. 
+
+(a)
+
+Except as expressly amended or modified hereby, the Loan Documents shall continue to be and shall remain in full force and effect in accordance with their respective terms. This Amendment shall not constitute an amendment, waiver or modification of any provision of any Loan Document not expressly referred to herein and shall not be construed as an amendment, waiver or modification of any action on the part of the Borrower or the other Loan Parties that would require an amendment, waiver or consent of the Administrative Agent or the Lenders except as expressly stated herein, or be construed to indicate the willingness of the Administrative Agent or any Lender to further amend, waive or modify any provision of any Loan Document amended, waived or modified hereby for any other period, circumstance or event. Except as expressly modified by this Amendment, the Loan Documents are ratified and confirmed and are, and shall continue to be, in full force and effect in accordance with their respective terms. Except as expressly set forth herein, each Lender and the Administrative Agent reserves all of its rights, remedies, powers and privileges under the Existing Credit Agreement, the other Loan Documents, applicable law and/or equity. Any reference to the “Credit 
+
+3
+
+Agreement” in any Loan Document or any related documents shall be deemed to be a reference to the Amended Credit Agreement and the term “Loan Documents” in the Amended Credit Agreement and the other Loan Documents shall include this Amendment. Neither this Amendment nor the execution, delivery or effectiveness of this Amendment shall extinguish the obligations outstanding under the Existing Credit Agreement. Nothing herein contained shall be construed as a substitution or novation of the obligations outstanding under the Existing Credit Agreement, which shall remain in full force and effect, except to any extent modified hereby or by instruments executed concurrently herewith. Nothing implied in this Amendment, the Amended Credit Agreement, the Security Documents, the other Loan Documents or in any other document contemplated hereby or thereby shall be construed as a release or other discharge of any of Borrower or any other Loan Party from any of its obligations and liabilities as a “Borrower”, “Guarantor” or “Loan Party” under the Existing Credit Agreement or any other Loan Document. Each of the Existing Credit Agreement, the Security Documents and the other Loan Documents shall remain in full force and effect, until (as applicable) and except to any extent modified hereby or in connection herewith. 
+
+(b)
+
+Each Loan Party hereby: 
+
+(i)
+
+consents to this Amendment and the Amended Credit Agreement and the transactions contemplated thereby and hereby confirms its guarantees, pledges, grants of security interests, acknowledgments, obligations, subordinations and consents under the Security Documents and the other Loan Documents to which it is a party and agrees that notwithstanding the amendment of the Existing Credit Agreement, the effectiveness of this Amendment and the consummation of the transactions contemplated thereby, such guarantees, pledges, grants of security interests, agreements, acknowledgments, obligations, subordinations and consents shall be, and continue to be, in full force and effect, 
+
+(ii)
+
+ratifies the Security Documents and the other Loan Documents to which it is a party, 
+
+(iii)
+
+confirms that all of the Liens and security interests created and arising under the Security Documents as existed immediately prior to giving effect to the amendment of the Existing Credit Agreement pursuant to this Amendment remain in full force and effect on a continuous basis, unimpaired, uninterrupted and undischarged, and having the same perfected status and priority as collateral security for the Obligations as existed immediately prior to giving effect to the amendment of the Existing Credit Agreement pursuant to this Amendment, 
+
+(iv)
+
+agrees that each of the representations and warranties made by it in the Security Documents is true and correct in all material respects on and as of the date hereof, except that (i) to the extent that such representations and warranties specifically refer to an earlier date, they shall be true and correct in all material respects as of such earlier date and (ii) to the extent that such representations and warranties are already qualified or modified by materiality or words of similar effect in the text thereof, they shall be true and correct in all respects, and
+
+(v)
+
+agrees that it shall take any action reasonably requested by the Administrative Agent to confirm or effect the intent of this Amendment. 
+
+SECTION 5.
+
+Governing Law; Jurisdiction; Consent to Service of Process; etc.. 
+
+(a)
+
+THIS AMENDMENT AND ANY CLAIM, CONTROVERSY OR DISPUTE UNDER, ARISING OUT OF OR RELATING TO THIS AMENDMENT OR THE OTHER LOAN DOCUMENTS AND THE TRANSACTIONS CONTEMPLATED 
+
+4
+
+HEREBY, WHETHER BASED IN CONTRACT (AT LAW OR IN EQUITY), TORT OR ANY OTHER THEORY, SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK WITHOUT REGARD TO CONFLICTS OF LAW RULES THAT WOULD RESULT IN THE APPLICATION OF A DIFFERENT GOVERNING LAW.
+
+(b)
+
+Section 9.03, Sections 9.09(b), (c) and (d), Section 9.10 and Section 9.14 of the Existing Credit Agreement are hereby incorporated herein 
+
+mutatis mutandis
+
+. Without duplication of Section 9.03 of the Existing Credit Agreement, and solely to the extent provided for in Section 9.03(a) of the Existing Credit Agreement, the Borrower shall pay all reasonable and documented out-of-pocket costs and expenses of the Administrative Agent incurred in connection with the negotiation, preparation and execution of this Amendment and the transactions contemplated hereby (including reasonable and documented fees and expenses of Simpson Thacher & Bartlett LLP).
+
+SECTION 6.
+
+Entire Agreement
+
+. This Amendment, the Amended Credit Agreement and the other Loan Documents represent the entire agreement of the Loan Parties, the Administrative Agent, the Agents and the Lenders with respect to the subject matter hereof and thereof, and there are no promises, undertakings, representations or warranties by the Administrative Agent, any other Agent or any Lender relative to the subject matter hereof not expressly set forth or referred to herein or in the Amended Credit Agreement or the other Loan Documents.
+
+SECTION 7.
+
+Loan Document
+
+. This Amendment is a Loan Document and shall (unless otherwise expressly indicated herein) be construed, administered and applied in accordance with the terms and provisions of the Amended Credit Agreement.
+
+SECTION 8.
+
+Counterparts
+
+. This Amendment may be signed in any number of counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument. Delivery of an executed counterpart of a signature page of this Amendment by telecopy, emailed pdf. or any other electronic means that reproduces an image of the actual executed signature page shall be effective as delivery of a manually executed counterpart of this Amendment. The words “execution”, “signed”, “signature”, “delivery” and words of like import in or relating to this Amendment, any document to be signed in connection herewith and the transactions contemplated hereby shall be deemed to include Electronic Signatures, electronic deliveries or the keeping of records in any electronic form (including deliveries by telecopy, emailed pdf. or any other electronic means that reproduces an image of an actual executed signature page),each of which shall be of the same legal effect, validity or enforceability as a manually executed signature, physical delivery thereof or the use of a paper-based recordkeeping system, as the case may be;
+
+ provided
+
+ that nothing herein shall require the Administrative Agent to accept Electronic Signatures in any form or format without its prior written consent. Without limiting the generality of the foregoing, each of the parties hereto hereby (i) agrees that, for all purposes, including without limitation, in connection with any workout, restructuring, enforcement of remedies, bankruptcy proceedings or litigation among the Administrative Agent, the Lenders and the Loan Parties, Electronic Signatures transmitted by telecopy, emailed pdf. or any other electronic means that reproduces an image of an actual executed signature page and/or any electronic images of this Amendment or any other Loan Documents (in each case, including with respect to any signature pages thereto) shall have the same legal effect, validity and enforceability as any paper original, and (ii) waives any argument, defense or right to contest the legal effect, validity or enforceability of this Amendment based solely on the lack of paper original copies of any Loan Documents, including with respect to any signature pages thereto.
+
+5
+
+Execution Version
+
+SECTION 9.
+
+Headings
+
+. Section headings used in this Amendment are for convenience of reference only, are not part of this Amendment and shall not affect the construction of, or to be taken into consideration in interpreting, this Amendment.
+
+[Remainder of page intentionally left blank; signature pages follow]
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be executed and delivered by their duly authorized officers as of the date first written above.
+
+LYFT, INC., as the Borrower
+
+By:    
+
+/s/ Erin Brewer    
+
+Name: Erin Brewer
+Title: Chief Financial Officer
+
+[
+
+Lyft, Inc.—Amendment No. 2 to Revolving Credit Agreement
+
+]
+
+FLEXDRIVE SERVICES, LLC, as a Loan Party
+
+By:    
+
+/s/ Caroline Cunningham    
+
+Name: Caroline Cunningham
+Title: Manager
+
+LYFT BIKES AND SCOOTERS, LLC, as a Loan Party
+
+By:    
+
+/s/ Christopher Reilly    
+
+Name: Christopher Reilly
+Title: Assistant Secretary
+
+LYFT HEALTHCARE, INC., as a Loan Party
+
+By:    
+
+/s/ Caroline Cunningham    
+
+Name: Caroline Cunningham
+Title: Secretary and Vice President
+
+[
+
+Lyft, Inc.—Amendment No. 2 to Revolving Credit Agreement
+
+]
+
+JPMORGAN CHASE BANK, N.A., 
+
+as the Administrative Agent and a Lender
+
+By:    
+
+/s/ Richard Ong Pho    
+
+Name: Richard Ong Pho
+Title: Executive Director
+
+[
+
+Lyft, Inc.—Amendment No. 2 to Revolving Credit Agreement
+
+]
+
+KEYBANK NATIONAL ASSOCIATION,
+
+as a Lender
+
+By:    
+
+/s/ Geoff Smith    
+
+Name: Geoff Smith
+Title: Senior Vice President
+
+ROYAL BANK OF CANADA,
+
+as a Lender
+
+By:    
+
+/s/ Theodore Brown    
+
+Name: Theodore Brown
+Title: Authorized Signatory
+
+BMO,
+
+as a Lender
+
+By:    
+
+/s/ Scott Bruni    
+
+Name: Scott Bruni
+Title: Managing Director
+
+BANK OF AMERICA, N.A.,
+
+as a Lender
+
+By:    
+
+/s/ Marie F. Harrison    
+
+Name: Marie F. Harrison
+Title: Managing Director
+
+THE TORONTO-DOMINION BANK, NEW YORK BRANCH,
+
+as a Lender
+
+By:    
+
+/s/ Jon Colquhoun    
+
+Name: Jon Colquhoun
+Title: Managing Director
+
+[
+
+Lyft, Inc.—Amendment No. 2 to Revolving Credit Agreement
+
+]
+
+GOLDMAN SACHS LENDING PARTNERS LLC,
+
+as a Lender
+
+By:    
+
+/s/ Priyankush Goswami    
+
+Name: Priyankush Goswami
+Title: Authorized Signatory
+
+JEFFRIES FINANCE LLC,
+
+as a Lender
+
+By:    
+
+/s/ J.R. Young    
+
+Name: J.R. Young
+Title: Managing Director
+
+[
+
+Lyft, Inc.—Amendment No. 2 to Revolving Credit Agreement
+
+]

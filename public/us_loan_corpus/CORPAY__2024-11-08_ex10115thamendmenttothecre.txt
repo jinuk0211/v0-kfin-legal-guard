@@ -1,0 +1,1449 @@
+EX-10.1
+
+2
+
+ex10115thamendmenttothecre.htm
+
+EX-10.1
+
+Document
+
+Exhibit 10.1
+
+EXECUTION VERSION
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+Dated as of September 26, 2024
+
+among
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC,
+
+as the Company,
+
+CORPAY, INC.,
+
+as the Parent,
+
+THE DESIGNATED BORROWERS PARTY HERETO,
+
+CAMBRIDGE MERCANTILE CORP. (U.S.A.),
+
+as the Additional Borrower,
+
+THE OTHER GUARANTORS PARTY HERETO,
+
+THE LENDERS PARTY HERETO,
+
+and
+
+BANK OF AMERICA, N.A.,
+
+as the Administrative Agent and the Foreign Swing Line Lender
+
+BANK OF AMERICA, N.A.,
+
+PNC CAPITAL MARKETS, LLC,
+
+TD SECURITIES (USA) LLC,
+
+WELLS FARGO SECURITIES, LLC,
+
+MUFG BANK, LTD.,
+
+BARCLAYS BANK PLC,
+
+BMO CAPITAL MARKETS CORP.,
+
+CITIBANK, N.A.,
+
+FIFTH THIRD BANK, NATIONAL ASSOCIATION,
+
+JPMORGAN CHASE BANK, N.A.,
+
+MIZUHO BANK, LTD.,
+
+THE BANK OF NOVA SCOTIA,
+
+CAPITAL ONE, NATIONAL ASSOCIATION,
+
+and
+
+CITIZENS BANK, N.A.,
+
+as Joint Lead Arrangers and Joint Bookrunners
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+THIS FIFTEENTH AMENDMENT TO CREDIT AGREEMENT (this “
+
+Amendment
+
+”) dated as of September 26, 2024 (the “
+
+Effective Date
+
+”) is entered into among Corpay Technologies Operating Company, LLC, a Louisiana limited liability company (the “
+
+Company
+
+”), Corpay, Inc., a Delaware corporation (the “
+
+Parent
+
+”), the Designated Borrowers party hereto, Cambridge Mercantile Corp. (U.S.A.), a Delaware corporation (the “
+
+Additional Borrower
+
+”), the other Guarantors party hereto, the Lenders party hereto, and Bank of America, N.A., on its own behalf in its capacity as the Administrative Agent and the Foreign Swing Line Lender and on behalf of each Term B-4 Lender that delivers to the Administrative Agent on or prior to the Effective Date a consent to this Amendment in the form separately provided by the Administrative Agent to each Term B-4 Lender (each, a “
+
+Term B-4 Lender Consent to Amendment
+
+” and each Term B-4 Lender that delivers a Term B-4 Lender Consent to Amendment to the Administrative Agent on or prior to the Effective Date being referred to herein as a “
+
+Continuing Term B-5 Lender
+
+”). Capitalized terms used but not otherwise defined herein shall have the meanings given to such terms in the Existing Credit Agreement (as defined below) or the Amended Credit Agreement (as defined below), as applicable.
+
+RECITALS
+
+WHEREAS, 
+
+the Company, the Parent, the Designated Borrowers from time to time party thereto, the Additional Borrower, the Lenders from time to time party thereto, and Bank of America, N.A., as Administrative Agent, L/C Issuer and Swing Line Lender, are parties to that certain Credit Agreement dated as of October 24, 2014 (as amended, modified, supplemented, increased or extended from time to time prior to the Effective Date, the “
+
+Existing Credit Agreement
+
+”)
+
+;
+
+WHEREAS, the Company has requested that (a) the Term B-4 Loan be (i) refinanced with a replacement term B loan tranche pursuant to a repricing transaction by the Continuing Term B-5 Lenders and (ii) increased by an Incremental Term B Loan in an aggregate principal amount equal to $500,000,000 provided by each Person identified as an “Incremental Term B-5 Lender” on the signature pages hereto (each, an “
+
+Incremental Term B-5 Lender
+
+”; and the Incremental Term B-5 Lenders, together with the Continuing Term B-5 Lenders, collectively, the “
+
+Term B-5 Lenders
+
+”) (the replacement term B loan tranche reflecting such refinancing and increase, collectively, the 
+
+Term B-5 Loan
+
+”) and (b) the Existing Credit Agreement be amended as set forth below, in each case, subject to the terms and conditions specified in this Amendment and the Amended Credit Agreement;
+
+WHEREAS, (a) 
+
+each Term B-5 Lender has agreed to provide a portion of the Term B-5 Loan 
+
+on the 
+
+Effective Date (which may, for the avoidance of doubt, take the form of a cashless roll of all or a portion of such Term B-5 Lender’s portion of the Term B-4 Loan outstanding immediately prior to the Effective Date)
+
+ 
+
+and (b) each party hereto is willing to 
+
+amend the Existing Credit Agreement as set forth below, in each case, subject to the terms and conditions specified in this Amendment and the Amended Credit Agreement.
+
+NOW, THEREFORE, in consideration of the premises and the mutual covenants contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+1.    
+
+Establishment of Term B-5 Loan
+
+. Subject to the terms and conditions set forth herein and in the Amended Credit Agreement, effective as of the 
+
+Effective Date
+
+, the Term B-5 Loan is hereby established in an aggregate principal amount of $2,344,875,000. Each Term B-5 Lender severally agrees 
+
+to make its portion of the Term B-5 Loan in Dollars to the Company as set forth in, and subject to the terms and conditions set forth in, the Amended Credit Agreement.
+
+2.    
+
+Amendments to Existing Credit Agreement
+
+.
+
+(a)    The Existing Credit Agreement is hereby amended in its entirety to read in the form attached hereto as 
+
+Annex A
+
+ (the Existing Credit Agreement, as so amended, the “
+
+Amended Credit Agreement
+
+”). 
+
+(b)    Exhibits A, B, and O are amended in their entirety to read in the forms of 
+
+Exhibits A
+
+, 
+
+B
+
+, and 
+
+O
+
+ attached hereto.
+
+(c)    Except as set forth in this 
+
+Section 2
+
+, all other schedules and exhibits to the Existing Credit Agreement (as amended prior to the 
+
+Effective Date
+
+) shall not be modified or otherwise affected hereby.
+
+3.    
+
+Conditions Precedent
+
+. This Amendment, and the obligation of each Term B-5 Lender to make its portion of the Term B-5 Loan to the Company, as applicable, under this Amendment and the Amended Credit Agreement, shall be effective upon satisfaction of the following conditions precedent:
+
+(a)    Receipt by the Administrative Agent of counterparts of this Amendment duly executed by (i) a Responsible Officer of the Company, the Parent, the Designated Borrowers, the Additional Borrower, and the other Guarantors, (ii) Lenders constituting the Required Lenders, (iii) the Foreign Swing Line Lender, and (iv) the Administrative Agent, on its own behalf and on behalf of each Continuing Term B-5 Lender.
+
+(b)    Receipt by the Administrative Agent of favorable opinions of legal counsel to the U.S. Loan Parties, addressed to the Administrative Agent, each Lender, the L/C Issuer, and each Swing Line Lender, and dated as of the 
+
+Effective Date
+
+, in form and substance satisfactory to the Administrative Agent.
+
+(c)    Receipt by the Administrative Agent of a certificate of each U.S. Loan Party, in each case, duly executed by a Responsible Officer of each such Loan Party, dated as of the 
+
+Effective Date
+
+, (i) certifying and attaching the resolutions adopted by such Loan Party approving or consenting to the this Amendment and the transactions contemplated hereby 
+
+(including the incurrence of the 
+
+Term B-5 Loan
+
+)
+
+, (ii) certifying and attaching copies of the Organization Documents of such Loan Party, certified to be true and complete as of a recent date by the appropriate Governmental Authority of the state or other jurisdiction of its incorporation or organization, where applicable (or, as to any such Organization Documents that have not been amended, modified or terminated since previously certified to the Administrative Agent, certifying that such Organization Documents have not been amended, modified or terminated since such date and remain in full force and effect, and true and complete, in the form previously delivered to the Administrative Agent on such date), and (iii) certifying as to the incumbency, identity, authority and capacity of each Responsible Officer of such Loan Party authorized to act as a Responsible Officer in connection with this Amendment and the other Loan Documents to which such Loan Party is a party.
+
+(d)    Receipt by the Administrative Agent of such documents and certifications as the Administrative Agent may require to evidence that each U.S. Loan Party is duly organized or 
+
+2
+
+13766222v4
+
+formed, and is validly existing, in good standing and qualified to engage in business in its jurisdiction of organization or formation.
+
+(e)    Receipt by the Administrative Agent of the following: (i) searches of Uniform Commercial Code filings in the jurisdiction of formation of each U.S. Loan Party and each other jurisdiction reasonably required by the Administrative Agent, disclosing no Liens other than Permitted Liens; (ii) searches of ownership of, and Liens on, United States registered intellectual property of each U.S. Loan Party in the appropriate governmental offices, disclosing no Liens other than Permitted Liens; and (iii) duly executed notices of grant of security interest in substantially the form required by the Security Agreement as are necessary, in the Administrative Agent’s discretion, to perfect the Administrative Agent’s security interest in the United States registered intellectual property of the U.S. Loan Parties. 
+
+(f)    All boards of directors, governmental, shareholder and material third party consents and approvals necessary in connection with this Amendment and the transactions contemplated hereby 
+
+(including the incurrence of the 
+
+Term B-5 Loan
+
+)
+
+ shall have been obtained.
+
+(g)    There shall not have occurred since December 31, 2023 any event or circumstance that has had or could reasonably be expected to have, either individually or in the aggregate, a Material Adverse Effect.
+
+(h)    Receipt by the Administrative Agent of a certificate, dated as of the 
+
+Effective Date
+
+, signed by a Responsible Officer of the Company certifying as to the satisfaction of the conditions set forth in 
+
+Sections 3(f)
+
+ and 
+
+(g)
+
+ and 
+
+Section 4(c)(iv)
+
+.
+
+(i)    Receipt by the Administrative Agent of (i) a Pro Forma Compliance Certificate, duly executed by a Responsible Officer of the Parent, demonstrating that, upon giving effect to the institution of the Term B-5 Loan on a Pro Forma Basis, the Loan Parties are in compliance with the financial covenants set forth in Section 8.11 of the Existing Credit Agreement as of the end of the most recent fiscal quarter for which the Company was required to deliver financial statements pursuant to Section 7.01(a) or (b) of the Existing Credit Agreement (it being understood and agreed that for purposes of calculating the Consolidated Leverage Ratio under this 
+
+Section 4(i)
+
+ the identifiable proceeds of the Term B-5 Loan on the 
+
+Effective Date
+
+ shall not qualify as Unrestricted Cash for the purposes of clause (a)(ii) of the definition of Consolidated Leverage Ratio in Section 1.01 of the Existing Credit Agreement) and (ii) a certificate, dated as of the 
+
+Effective Date
+
+, signed by the Parent’s chief financial officer (or other financial officer of the Parent that is a Responsible Officer and is reasonably acceptable to the Administrative Agent) certifying that, after giving effect to this Amendment and any borrowings and other transactions to occur on the 
+
+Effective Date
+
+, the 
+
+Parent and its Subsidiaries on a consolidated basis are Solvent.
+
+(j)    Receipt by the Administrative Agent of a Loan Notice with respect to the Term B-5 Loan in accordance with the requirements of the Amended Credit Agreement.
+
+(k)    Receipt by the Administrative Agent, each Term B-5 Lender of all documentation and other information that it has reasonably requested in writing that it has reasonably determined is required by regulatory authorities under applicable “know your customer” and anti-money laundering rules and regulations, including without limitation the PATRIOT Act.
+
+3
+
+13766222v4
+
+(l)    To the extent any Borrower qualifies as a “legal entity customer” under the Beneficial Ownership Regulation, receipt by the Administrative Agent and each Term B-5 Lender, to the extent requested by the Administrative Agent or such Term B-5 Lender, of a Beneficial Ownership Certification in relation to such Borrower.
+
+(m)    Receipt by the Administrative Agent of all accrued interest and fees owing on the Term B-4 Loan as of the Effective Date for the benefit of the Term B-4 Lenders holding the Term B-4 Loan immediately before giving effect to this Amendment.
+
+(n)    Receipt by Bank of America (or any of its designated Affiliates) of any fees owing to Bank of America (or any of its designated Affiliates), the Arrangers, the Administrative Agent, and the Lenders that are required to be paid on or before the 
+
+Effective Date
+
+.
+
+(o)    Unless waived by the Administrative Agent, payment by the Company of all fees, charges and disbursements of counsel to the Administrative Agent (directly to such counsel, if so requested by the Administrative Agent) to the extent invoiced prior to or on the 
+
+Effective Date
+
+, 
+
+plus
+
+ such additional amounts of such fees, charges and disbursements as shall constitute its reasonable estimate of such fees, charges and disbursements incurred or to be incurred by it through the closing proceedings (
+
+provided
+
+, 
+
+that
+
+, such estimate shall not thereafter preclude a final settling of accounts between the Company and the Administrative Agent).
+
+For purposes of determining compliance with the conditions specified in this 
+
+Section 4
+
+, each of the Lenders and the Foreign Swing Line Lender that has signed this Amendment shall be deemed to have consented to, approved or accepted or to be satisfied with, each document or other matter required hereunder to be consented to or approved by or acceptable or satisfactory to a Lender or the Foreign Swing Line Lender unless the Administrative Agent shall have received notice from such Lender or the Foreign Swing Line Lender prior to the 
+
+Effective Date
+
+ specifying its objections.
+
+4.    
+
+Miscellaneous
+
+.
+
+(a)    The Loan Documents, and the obligations of the Loan Parties thereunder, are hereby ratified and confirmed and shall remain in full force and effect according to their terms, as amended hereby.
+
+(b)    
+
+Each Loan Party (i) acknowledges and consents to all of the terms and conditions of this Amendment and the transactions contemplated hereby (including the incurrence of the Term B-5 Loan), (ii) affirms all of its obligations under the Loan Documents to which it is a party, and (iii) agrees that this Amendment and all documents executed in connection herewith do not operate to reduce or discharge its obligations under the Loan Documents to which it is a party. Each Loan Party hereby acknowledges that, as of the Effective Date, the security interests and Liens granted to the Administrative Agent for the benefit of the holders of the Obligations under the Collateral Documents to secure the Obligations are in full force and effect, are properly perfected, and are enforceable in accordance with the terms of the Security Agreement and the other Loan Documents.
+
+(c)    Each Loan Party hereby represents and warrants to the Administrative Agent, the Lenders, the Lenders, the Swing Line Lenders, and the L/C Issuer as follows:
+
+(i)    The execution, delivery and performance by such Loan Party of this Amendment have been duly authorized by all necessary corporate or other organizational action, and do not (A) contravene the terms of any of such Loan Party’s Organization 
+
+4
+
+13766222v4
+
+Documents; (B) conflict with or result in any breach or contravention of, or the creation of any Lien under, or require any payment to be made under (1) any material Contractual Obligation to which such Loan Party is a party or affecting such Loan Party or the properties of such Loan Party or any of its Subsidiaries or (2) any order, injunction, writ or decree of any Governmental Authority or any arbitral award to which such Loan Party or its property is subject; or (C) violate any Law.
+
+(ii)    This Amendment has been duly executed and delivered by such Loan Party and constitutes such Loan Party’s legal, valid and binding obligation, enforceable in accordance with its terms, subject to laws generally affecting creditors’ rights, to statutes of limitations and to principles of equity.
+
+(iii)    No approval, consent, exemption, authorization, or other action by, or notice to, or filing with, any Governmental Authority or any other Person is necessary or required in connection with the execution, delivery or performance by, or enforcement against, such Loan Party of this Amendment or the Amended Credit Agreement.
+
+(iv)    After giving effect to this Amendment: (A) the representations and warranties of such Loan Party set forth in Article VI of the Amended Credit Agreement and in each other Loan Document are true and correct in all material respects (and in all respects if any such representation or warranty is already qualified by materiality) on and as of the 
+
+Effective Date
+
+ with the same effect as if made on and as of the 
+
+Effective Date
+
+, except to the extent such representations and warranties specifically refer to an earlier date, in which case they shall be true and correct in all material respects (and in all respects if any such representation or warranty is already qualified by materiality) as of such earlier date, and except that for purposes of this 
+
+Section 4(c)(iv)(A)
+
+, the representations and warranties contained in subsections (a) and (b) of Section 6.05 of the Amended Credit Agreement shall be deemed to refer to the most recent financial statements furnished pursuant to subsections (a) and (b), respectively, of Section 7.01 of the Amended Credit Agreement; and (B) no Default has occurred and is continuing or would result from the transactions contemplated by this Amendment. 
+
+(v)    The Persons signing this Amendment as Guarantors include all of the Subsidiaries existing as of the 
+
+Effective Date
+
+ that are required to become Guarantors pursuant to the Existing Credit Agreement on or prior to the 
+
+Effective Date
+
+.
+
+(d)    Each Lender party hereto represents and warrants that, after giving effect to this Amendment, the representations and warranties of such Lender set forth in the Amended Credit Agreement are true and correct as of the 
+
+Effective Date
+
+. Each party hereto acknowledges and agrees to the provisions set forth in Section 11.20 of the Amended Credit Agreement.
+
+(e)    Subject to Section 11.16 of the Amended Credit Agreement, this Amendment may be in the form of an Electronic Record and may be executed using Electronic Signatures (including facsimile and .pdf) and shall be considered an original, and shall have the same legal effect, validity and enforceability as a paper record. This Amendment may be executed in as many counterparts as necessary or convenient, including both paper and electronic counterparts, but all such counterparts are one and the same Amendment. The authorization under this 
+
+Section 4(e)
+
+ may include use or acceptance by the Administrative Agent, each Lender, each Swing Line Lender, and the L/C Issuer of a manually signed paper copy of this Amendment which has been converted into electronic form (such as scanned into .pdf format), or an electronically signed copy of this Amendment converted into another format, for transmission, delivery and/or retention.
+
+5
+
+13766222v4
+
+(f)    This Amendment is a Loan Document and an Incremental Facility Amendment. The execution, delivery and effectiveness of this Amendment shall not, except as expressly provided herein, operate as a waiver of any right, power or remedy of any Lender or the Administrative Agent under any of the Loan Documents, nor, except as expressly provided herein, constitute a waiver or amendment of any provision of any of the Loan Documents. Upon the effectiveness hereof, all references to the “Credit Agreement” set forth in any other agreement or instrument shall, unless otherwise specifically provided, be references to the Amended Credit Agreement.
+
+(g)    If any provision of this Amendment is held to be illegal, invalid or unenforceable, (i) the legality, validity and enforceability of the remaining provisions of this Amendment shall not be affected or impaired thereby and (ii) the parties shall endeavor in good faith negotiations to replace the illegal, invalid or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the illegal, invalid or unenforceable provisions. The invalidity of a provision in a particular jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+
+(h)
+
+    THIS AMENDMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER, AND ANY CLAIM, CONTROVERSY, DISPUTE, PROCEEDING OR CAUSE OF ACTION (WHETHER IN CONTRACT, TORT OR OTHERWISE AND WHETHER AT LAW OR IN EQUITY) BASED UPON, ARISING OUT OF OR RELATING TO THIS AMENDMENT AND THE TRANSACTIONS CONTEMPLATED HEREBY, SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK. THIS AMENDMENT SHALL BE FURTHER SUBJECT TO THE TERMS AND CONDITIONS OF SECTIONS 11.14 AND 11.15 OF THE AMENDED CREDIT AGREEMENT, THE TERMS OF WHICH ARE INCORPORATED HEREIN BY REFERENCE AS IF FULLY SET FORTH HEREIN. 
+
+[remainder of page intentionally left blank]
+
+6
+
+13766222v4
+
+IN WITNESS WHEREOF, each of the parties hereto has caused a counterpart of this Amendment to be duly executed and delivered by a duly authorized officer as of the date first above written.
+
+COMPANY:            CORPAY TECHNOLOGIES OPERATING COMPANY, LLC,
+
+a Louisiana limited liability company
+
+By: 
+
+/s/ Jennifer Alvarado    
+
+Name: Jennifer Alvarado        
+
+Title: Treasurer
+
+PARENT:            CORPAY, INC.,
+
+a Delaware corporation
+
+By: 
+
+/s/ Jennifer Alvarado    
+
+Name: Jennifer Alvarado        
+
+Title: Treasurer    
+
+DESIGNATED 
+
+BORROWERS:            FLEETCOR UK ACQUISITION LIMITED,
+
+a private limited company registered in England and Wales
+
+By: 
+
+/s/ Alissa Vickery        
+
+Name: Alissa Vickery
+
+Title: Director
+
+ALLSTAR BUSINESS SOLUTIONS LIMITED,
+
+a private limited company registered in England and Wales
+
+By: 
+
+/s/ Alan King    
+
+Name: Alan King
+
+Title: Director
+
+FLEETCOR LUXEMBOURG HOLDING2,
+
+a private limited liability company (a 
+
+société à responsabilité limitée
+
+) incorporated under the laws of Luxembourg
+
+By: 
+
+/s/ Stephen Puett    
+
+Name: Stephen Puett    
+
+Title: Type A Manager
+
+ADDITIONAL 
+
+BORROWER:            CAMBRIDGE MERCANTILE CORP. (U.S.A.),
+
+a Delaware corporation
+
+By: 
+
+/s/ Mark Frey        
+
+Name: Mark Frey
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+Title: President and Assistant Treasurer
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+GUARANTORS:        CFN HOLDING CO.,
+
+a Delaware corporation
+
+By: 
+
+/s/ Jennifer Alvarado    
+
+Name: Jennifer Alvarado        
+
+Title: Treasurer    
+
+CLC GROUP, INC.,
+
+a Delaware corporation
+
+By: 
+
+/s/ Jennifer Alvarado    
+
+Name: Jennifer Alvarado        
+
+Title: Treasurer        
+
+CORPORATE LODGING CONSULTANTS, INC.,
+
+a Kansas corporation
+
+By: 
+
+/s/ Jennifer Alvarado    
+
+Name: Jennifer Alvarado        
+
+Title: Treasurer    
+
+CREW TRANSPORTATION SPECIALISTS, INC.,
+
+a Kansas corporation
+
+By: 
+
+/s/ Jennifer Alvarado    
+
+Name: Jennifer Alvarado        
+
+Title: Treasurer    
+
+MANNATEC, INC.,
+
+a Georgia corporation
+
+By: 
+
+/s/ Jennifer Alvarado    
+
+Name: Jennifer Alvarado        
+
+Title: Treasurer    
+
+FLEETCOR FUEL CARDS LLC,
+
+a Delaware limited liability company
+
+By: 
+
+/s/ Jennifer Alvarado    
+
+Name: Jennifer Alvarado        
+
+Title: Treasurer    
+
+PACIFIC PRIDE SERVICES, LLC,
+
+a Delaware limited liability company
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+By: 
+
+/s/ Jennifer Alvarado    
+
+Name: Jennifer Alvarado        
+
+Title: Treasurer        
+
+NVOICEPAY, INC.,
+
+an Oregon corporation
+
+By: 
+
+/s/ Jennifer Alvarado    
+
+Name: Jennifer Alvarado        
+
+Title: Treasurer    
+
+GEHL COMPANIES, INC.,
+
+a Minnesota corporation
+
+By: 
+
+/s/ Jennifer Alvarado    
+
+Name: Jennifer Alvarado        
+
+Title: Treasurer        
+
+TA CONNECTIONS MN, LLC,
+
+a Minnesota limited liability company
+
+By: 
+
+/s/ Jennifer Alvarado    
+
+Name: Jennifer Alvarado        
+
+Title: Treasurer        
+
+TA CONNECTIONS IL, LLC,
+
+an Illinois limited liability company
+
+By: 
+
+/s/ Jennifer Alvarado    
+
+Name: Jennifer Alvarado        
+
+Title: Treasurer    
+
+FCHC HOLDING COMPANY, LLC,
+
+a Delaware limited liability company
+
+By: 
+
+/s/ Jennifer Alvarado    
+
+Name: Jennifer Alvarado        
+
+Title: Treasurer    
+
+COMDATA INC.,
+
+a Delaware corporation
+
+By: 
+
+/s/ Arunkumar Dharmapuri        
+
+Name: Arunkumar Dharmapuri
+
+Title: Vice President and Treasurer
+
+COMDATA TN, INC.,
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+a Tennessee corporation
+
+By: 
+
+/s/ Arunkumar Dharmapuri        
+
+Name: Arunkumar Dharmapuri
+
+Title: Vice President and Treasurer    
+
+COMDATA NETWORK, INC. OF CALIFORNIA,
+
+a California corporation
+
+By: 
+
+/s/ Arunkumar Dharmapuri        
+
+Name: Arunkumar Dharmapuri
+
+Title: Vice President and Treasurer    
+
+CAMBRIDGE MERCANTILE CORP. (NEVADA)
+
+,
+
+a Delaware corporation
+
+By: 
+
+/s/ Christoper Morris    
+
+Name: Christopher Morris    
+
+Title: President, Secretary and Vice President of Corporate Sales
+
+COMDATA LA, LLC
+
+,
+
+a Louisiana limited liability company
+
+By:    Comdata Inc., a Delaware corporation, its sole member
+
+By: 
+
+/s/ Arunkumar Dharmapuri        
+
+Name: Arunkumar Dharmapuri
+
+Title: Vice President and Treasurer
+
+CORPAY ONE, INC.,
+
+a Delaware corporation
+
+By: 
+
+/s/ Jennifer Alvarado    
+
+Name: Jennifer Alvarado        
+
+Title: Treasurer    
+
+TA CONNECTIONS DE, LLC,
+
+a Delaware limited liability company
+
+By: 
+
+/s/ Jennifer Alvarado    
+
+Name: Jennifer Alvarado        
+
+Title: Treasurer        
+
+ALE SOLUTIONS, INC.,
+
+an Illinois corporation
+
+By: 
+
+/s/ Jennifer Alvarado    
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+Name: Jennifer Alvarado        
+
+Title: Treasurer        
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+ASSOCIATED FOREIGN EXCHANGE HOLDINGS, INC.,
+
+a California corporation
+
+By: 
+
+/s/ Mark Frey        
+
+Name: Mark Frey    
+
+Title: President
+
+ASSOCIATED FOREIGN EXCHANGE, INC.,
+
+a California corporation
+
+By: 
+
+/s/ Mark Frey        
+
+Name: Mark Frey    
+
+Title: President
+
+PAYMERANG HOLDINGS, LLC,
+
+a Delaware limited liability company
+
+By: Comdata Inc., a Delaware corporation, its sole member
+
+By: 
+
+/s/ Jennifer Alvarado    
+
+Name: Jennifer Alvarado        
+
+Title: Treasurer    
+
+PAYMERANG, LLC,
+
+a Virginia limited liability company
+
+By: Paymerang Holdings, LLC, a Delaware limited liability company, its sole member
+
+By: Comdata Inc., a Delaware corporation, its sole member
+
+By: 
+
+/s/ Jennifer Alvarado    
+
+Name: Jennifer Alvarado        
+
+Title: Treasurer    
+
+SYPHT HOLDINGS, INC.,
+
+a Delaware corporation
+
+By: 
+
+/s/ Jennifer Alvarado    
+
+Name: Jennifer Alvarado        
+
+Title: Treasurer    
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+ADMINISTRATIVE
+
+AGENT:                    BANK OF AMERICA, N.A.,
+
+on its own behalf in its capacity as Administrative Agent and on behalf of each Continuing Term B-5 Lender
+
+By: 
+
+/s/ Felicia Brinson        
+
+Name: Felicia Brinson     
+
+Title: Assisant Vice President
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+LENDERS (OTHER THAN THE 
+
+CONTINUING TERM B-5 LENDERS):    BANK OF AMERICA, N.A.,
+
+as a Lender, an Incremental Term B-5 Lender, and the Foreign Swing Line Lender
+
+By: 
+
+/s/ Ryan Maples        
+
+Name: Ryan Maples
+
+Title: Senior Vice President
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+MUFG Bank, Ltd.,
+
+as a Lender
+
+By: 
+
+/s/ Deborah L. White    
+
+Name: Deborah L. White
+
+Title: Director
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+PNC BANK, NATIONAL ASSOCIATION,
+
+as a Lender
+
+By: 
+
+/s/ Andrew Fraser    
+
+Name: Andrew Fraser
+
+Title: Senior Vice President
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+TD Bank, N.A.,
+
+as a Lender
+
+By: 
+
+/s/ Steve Levi    
+
+Name: Steve Levi
+
+Title: Senior Vice President
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+Wells Fargo Bank, National Association,
+
+as a Lender
+
+By: 
+
+/s/ Corey Coward    
+
+Name: Corey Coward
+
+Title: Senior Vice President
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+BMO Bank, N.A.,
+
+as a Lender
+
+By: 
+
+/s/ Brandon Lu    
+
+Name: Brandon Lu
+
+Title: Vice President
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+Capital One, National Association,
+
+as a Lender
+
+By: 
+
+/s/ Timothy A. Ramijanc    
+
+Name: Timothy A. Ramijanc
+
+Title: Duly Authorized Signatory
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+Fifth Third Bank, National Association,
+
+as a Lender
+
+By: 
+
+/s/ Greg Cappel    
+
+Name: Greg Cappel
+
+Title: Principal
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+REGIONS BANK,
+
+as a Lender
+
+By: 
+
+/s/ Jose Hernandez-Cerna    
+
+Name: Jose Hernandez-Cerna
+
+Title: Associate 
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+THE BANK OF NOVA SCOTIA,
+
+as a Lender
+
+By: 
+
+/s/ Ben Gohman    
+
+Name: Ben Gohman
+
+Title: Managing Director and Head 
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+CITIZENS BANK, N.A.,
+
+as a Lender
+
+By: 
+
+/s/ Bryan L. Bains    
+
+Name: Bryan L. Bains
+
+Title: Vice President 
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+ROYAL BANK OF CANADA,
+
+as a Lender
+
+By: 
+
+/s/ Alexander Roberts    
+
+Name: Alexander Roberts
+
+Title: Vice President, Corporate Client Group - Finance
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+CITIBANK, N.A.,
+
+as a Lender
+
+By: 
+
+/s/ Michael Seidenfeld    
+
+Name: Michael Seidenfeld
+
+Title: Vice President
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+THE HUNTINGTON NATIONAL BANK,
+
+as a Lender
+
+By: 
+
+/s/ Mark J. Neifing    
+
+Name: Mark J. Neifing
+
+Title: Vice President
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+First Commercial Bank, Ltd. New York Branch,
+
+as a Lender
+
+By: 
+
+/s/ Chia-Feng Shen    
+
+Name: Chia-Feng Shen
+
+Title: V.P. & General Manager
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+DEUTSCHE BANK AG NEW BRANCH, 
+
+as a Lender
+
+By: 
+
+/s/ Philip Tancorra    
+
+Name: Philip Tancorra
+
+Title: Director
+
+By: 
+
+/s/ Lauren Danbury    
+
+Name: Lauren Danbury
+
+Title: Vice President
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+First Hawaiian Bank,
+
+as a Lender
+
+By: 
+
+/s/ Joanne Arizumi    
+
+Name: Joanne Arizumi
+
+Title: Senior Vice President
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+STIFEL BANK & TRUST,
+
+as a Lender
+
+By: 
+
+/s/ Daniel P. McDonald    
+
+Name: Daniel P. McDonald
+
+Title: Vice President
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+SOCIETE GENERALE,
+
+as a Lender
+
+By: 
+
+/s/ Richard Bernal    
+
+Name: Richard Bernal
+
+Title: Managing Director
+
+CORPAY TECHNOLOGIES OPERATING COMPANY, LLC
+
+FIFTEENTH AMENDMENT TO CREDIT AGREEMENT
+
+Annex A
+
+Amended Credit Agreement
+
+[see attached]
+
+13766222v4
+
+EXHIBIT A
+
+FORM OF LOAN NOTICE
+
+Date: __________, 20__
+
+To:    Bank of America, N.A., as Administrative Agent
+
+Re:    Credit Agreement dated as of October 24, 2014 (as amended, modified, supplemented or extended from time to time, the “
+
+Credit Agreement
+
+”) among Corpay Technologies Operating Company, LLC (the “
+
+Company
+
+”), Corpay, Inc., a Delaware corporation (the “
+
+Parent
+
+”), the Designated Borrowers from time to time party thereto, the Additional Borrower, to the extent the Additional Borrower has become a Borrower under the Credit Agreement, the Lenders from time to time party thereto and Bank of America, N.A., as Administrative Agent, Swing Line Lender and L/C Issuer. Capitalized terms used but not otherwise defined herein have the meanings provided in the Credit Agreement.
+
+Ladies and Gentlemen:
+
+The undersigned hereby requests (select one):
+
+☐ A Borrowing of Revolving A Loans    
+
+☐ A Borrowing of Revolving B Loans
+
+☐ A Borrowing of the Term A Loan
+
+☐ A Borrowing of the Term B-5 Loan    
+
+☐ A conversion or continuation of Revolving A Loans
+
+☐ A conversion or continuation of Revolving B Loans
+
+☐ A conversion or continuation of the Term A Loan
+
+☐ A conversion or continuation of the Term B-5 Loan
+
+1.    On _______________, 20__ (which is a Business Day).
+
+2.    In the amount of [$]__________.
+
+3.    Comprised of ______________ (Type of Loan requested).
+
+4.    In the following currency: ________________________
+
+5.    For Term SOFR Loans/Alternative Currency Term Rate Loans: with an Interest Period of __________ months.
+
+13766222v4
+
+6.    On behalf of ____________________________ 
+
+[insert name of applicable Borrower].
+
+The Company hereby represents and warrants that (a) after giving effect to any Borrowing of Revolving Loans, (i) the Total Revolving Outstandings shall not exceed the Aggregate Revolving Commitments, (ii) 
+
+the Total Revolving A Outstandings shall 
+
+not exceed the Aggregate Revolving A Commitments, (iii) the Total Revolving B Outstandings shall not exceed the Aggregate Revolving B Commitments, (iv) the aggregate Outstanding Amount of the Revolving A Loans of any Lender, 
+
+plus
+
+ such Lender’s Applicable Percentage of the Outstanding Amount of all L/C Obligations 
+
+plus
+
+ such Lender’s Applicable Percentage of the Outstanding Amount of all Domestic Swing Line Loans shall not exceed such Lender’s Revolving A Commitment, and (v) the aggregate Outstanding Amount of the Revolving B Loans of any Lender, 
+
+plus
+
+ such Lender’s Applicable Percentage of the Outstanding Amount of all Foreign Swing Line Loans shall not exceed such Lender’s Revolving B Commitment; and (b) each of the conditions set forth in Sections 5.03(a) and (b) of the Credit Agreement has been satisfied on and as of the date of such Borrowing.
+
+[Insert Borrower Name]
+
+By:
+
+                    
+
+Name:
+
+Title:
+
+13766222v4
+
+EXHIBIT B
+
+FORM OF SWING LINE LOAN NOTICE
+
+Date: __________, 20__
+
+To:    [Applicable Swing Line Lender]
+
+Cc:    Bank of America, N.A., as Administrative Agent
+
+Re:    Credit Agreement dated as of October 24, 2014 (as amended, modified, supplemented or extended from time to time, the “
+
+Credit Agreement
+
+”) among Corpay Technologies Operating Company, LLC (the “
+
+Company
+
+”), Corpay, Inc., a Delaware corporation (the “
+
+Parent
+
+”), the Designated Borrowers from time to time party thereto, the Additional Borrower, to the extent the Additional Borrower has become a Borrower under the Credit Agreement, the Lenders from time to time party thereto and Bank of America, N.A., as Administrative Agent, Swing Line Lender and L/C Issuer. Capitalized terms used but not otherwise defined herein have the meanings provided in the Credit Agreement.
+
+Ladies and Gentlemen:
+
+The undersigned hereby requests a [Domestic] [Foreign] Swing Line Loan: 
+
+1.    On __________
+
+    
+
+, 20___ (a Business Day).
+
+[2.    In the amount of $__________.]
+
+1
+
+[2.    In Dollars in the amount of $__________.]
+
+2
+
+[2.    In [Euros] [Sterling] in the amount of the Alternative Currency Equivalent of $__________.]
+
+3
+
+With respect to such Borrowing of Swing Line Loans, the undersigned Borrower hereby represents and warrants that (a) after giving effect to such Borrowing of Swing Line Loans, (i) the Total Revolving Outstandings shall not exceed the Aggregate Revolving Commitments, (ii) the Total Revolving A Outstandings shall not exceed the Aggregate Revolving A Commitments, (iii) the Total Revolving B Outstandings shall not exceed the Aggregate Revolving B Commitments, (iv) the aggregate Outstanding Amount of the Revolving A Loans of any Lender, 
+
+plus
+
+ such Lender’s Applicable Percentage of the Outstanding Amount of all L/C Obligations 
+
+plus
+
+ such Lender’s Applicable Percentage of the Outstanding Amount of all Domestic Swing Line Loans shall not exceed such Lender’s Revolving A Commitment, (v) the aggregate Outstanding Amount of the Revolving B Loans of any Lender, 
+
+plus
+
+ such Lender’s Applicable Percentage of the Outstanding Amount of all Foreign Swing Line Loans shall not exceed such Lender’s Revolving B Commitment, (vi) the aggregate Outstanding Amount of all Foreign Swing Line Loans denominated in Dollars shall not exceed the Foreign Swing Line Loan Dollar Sublimit, (vii) the aggregate Outstanding Amount of all Foreign Swing Line Loans denominated in Euros or Sterling shall 
+
+1
+
+ To be inserted if Domestic Swing Line Loan Notice.
+
+2
+
+ To be inserted if Foreign Swing Line Loan Notice denominated in Dollars.
+
+3
+
+ To be inserted if Foreign Swing Line Loan Notice denominated in an Alternative Currency.
+
+13766222v4
+
+not exceed the Foreign Swing Line Loan Alternative Currency Sublimit, (viii) the aggregate amount of the outstanding Domestic Swing Line Loans issued by any Domestic Swing Line Lender shall not exceed such Domestic Swing Line Lender’s Domestic Swing Line Commitment, and (ix) the aggregate Outstanding Amount of all Domestic Swing Line Loans shall not exceed the Domestic Swing Line Loan Sublimit; and (b) each of the conditions set forth in 
+
+Sections 5.03(a)
+
+ and 
+
+(b)
+
+ of the Credit Agreement has been satisfied on and as of the date of such Borrowing of Swing Line Loans.
+
+[Insert Borrower Name]
+
+By:
+
+                    
+
+Name:
+
+Title:
+
+13766222v4
+
+EXHIBIT O
+
+FORM OF NOTICE OF LOAN PREPAYMENT
+
+TO:        Bank of America, N.A., as [Administrative Agent][and the applicable Swing Line Lenders]
+
+RE:    Credit Agreement dated as of October 24, 2014 (as amended, modified, supplemented or extended from time to time, the “
+
+Credit Agreement
+
+”) among Corpay Technologies Operating Company, LLC (the “
+
+Company
+
+”), Corpay, Inc., a Delaware corporation (the “
+
+Parent
+
+”), the Designated Borrowers from time to time party thereto, the Additional Borrower, to the extent the Additional Borrower has become a Borrower under the Credit Agreement, the Lenders from time to time party thereto and Bank of America, N.A., as Administrative Agent, Swing Line Lender and L/C Issuer. Capitalized terms used but not otherwise defined herein have the meanings provided in the Credit Agreement.
+
+DATE:        [Date]
+
+The [
+
+insert name of Borrower
+
+] (the “
+
+Borrower
+
+”) hereby notifies the Administrative Agent [and the Swing Line Lenders] that on 
+
+_____________
+
+ pursuant to the terms of Section 2.05 of the Credit Agreement, the Borrower intends to prepay/repay the following Loans as more specifically set forth below:
+
+☐ Optional prepayment of [Revolving A] [Revolving B] [Term A] [Term B-5] [Incremental Term] Loans in the following amount(s):
+
+    
+
+1.    Comprised of ______________ (Type of Loan requested).
+
+2.    In the following currency: ________________________
+
+3.    For Term SOFR Loans/Alternative Currency Term Rate Loans: with an appliable Interest Period of __________ months.
+
+☐ Optional prepayment of Domestic Swing Line Loans in the following amount: $
+
+        
+
+☐ Optional prepayment of Foreign Swing Line Loans in the following amount: $
+
+        
+
+ and in the following currency: _______________.
+
+Delivery of an executed counterpart of a signature page of this notice by fax transmission or other electronic mail transmission (e.g. “pdf” or “tif”) shall be effective as delivery of a manually executed counterpart of this notice.
+
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+13766222v4
+
+[BORROWER NAME],
+
+a [Jurisdiction and Type of Organization]
+
+By:
+
+                        
+
+Name:
+
+                        
+
+Title:
+
+                        
+
+13766222v4

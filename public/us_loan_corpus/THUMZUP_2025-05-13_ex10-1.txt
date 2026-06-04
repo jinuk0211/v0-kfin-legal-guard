@@ -1,0 +1,2526 @@
+EX-10.1
+
+2
+
+ex10-1.htm
+
+EX10-1
+
+ 
+
+ 
+
+Exhibit 10.1
+
+ 
+
+MASTER LOAN AGREEMENT
+
+ 
+
+This Master Loan Agreement (this
+“
+Agreement
+”) is made by and among Coinbase Credit, Inc., a Delaware corporation (hereinafter “
+Lender
+”
+or “
+Coinbase Credit
+”), Coinbase, Inc., a Delaware corporation (hereinafter “
+Lending Service Provider
+”
+or “
+Coinbase Inc.
+”) and Thumzup Media Corporation, a corporation organized/incorporated under the laws of Nevada that
+holds one or more Account(s) (as defined herein) with its principal place of business at 11845 W Olympic Blvd, 1100W #13, Los Angeles,
+CA, 90064, (hereinafter “
+Borrower
+,” and Lender and Borrower, collectively the “
+Parties
+”).
+
+ 
+
+1.
+
+Applicability
+
+ 
+
+From time to time the Parties hereto may enter into
+transactions in which Lender will lend to Borrower certain Digital Assets or Cash against a transfer of Collateral (each of “Digital
+Assets”, “Cash”, and “Collateral” as defined herein). Each such transaction will be referred to herein as
+a “
+Loan
+” and, unless otherwise agreed in writing, will be governed by this Agreement, including any supplemental terms
+or conditions contained in an annex or schedule hereto and in any other annexes identified herein or therein as applicable hereunder (including
+any agreements governing Account(s) in force between the Parties), provided however that Digital Assets lent by Borrower to Coinbase Credit
+will not be subject to this Agreement. Capitalized terms not otherwise defined herein will have the meanings provided in Section 25.
+
+ 
+
+2.
+
+Loans of Digital Assets or Cash
+
+ 
+
+2.1
+
+Subject to the terms and conditions of this Agreement, Borrower may, from time to time, seek to initiate
+a transaction in which Lender will lend Digital Assets or Cash to Borrower. The Parties will agree on the terms of the Loan (which terms
+may be amended during the Loan by mutual agreement of the Parties), including:
+
+ 
+
+2.1.1
+
+the Digital Asset or currency of any Cash to be lent;
+
+ 
+
+2.1.2
+
+the quantity of the Digital Asset or Cash to be lent;
+
+ 
+
+2.1.3
+
+the Loan Fee Rate to be paid by Borrower to Lender;
+
+ 
+
+2.1.4
+
+the type and amount of fees to be charged (if any);
+
+ 
+
+2.1.5
+
+the type and amount of Collateral to be transferred by Borrower to Lender’s Account(s);
+
+ 
+
+2.1.6
+
+the day on which the Loan is to commence;
+
+ 
+
+2.1.7
+
+whether the Loan is for a fixed term or open, and if for a fixed term the term and maturity date of the
+Loan; and
+
+ 
+
+2.1.8
+
+any additional terms.
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.2
+
+Lender will confirm such agreement by sending a Confirmation, substantially in the form attached as 
+Exhibit
+A
+ hereto, to the other Party. The Confirmation, together with this Agreement, will constitute conclusive evidence of the terms agreed
+between Borrower and Lender with respect to the Loan to which the Confirmation relates, unless with respect to the Confirmation specific
+objection by the other Party is made promptly after receipt thereof. In the event of any inconsistency between the terms of such Confirmation
+and this Agreement, this Agreement will prevail unless each Party has executed or accepted such Confirmation.
+
+ 
+
+2.3
+
+Notwithstanding any other provision in this Agreement regarding when a Loan commences, unless otherwise
+agreed, a Loan hereunder will not occur until the Loaned Digital Assets or Cash and the Collateral therefore have been transferred in
+accordance with Sections 3 and 4.1.
+
+ 
+
+3.
+
+Transfer of Loaned Digital Assets
+
+ 
+
+3.1
+
+Unless otherwise agreed, Lender will transfer the Loaned Digital Assets or Cash (collectively referred
+to as “Loaned Assets” and as defined herein) to Borrower hereunder on or before the Close of Business on the date agreed to
+by Borrower and Lender for the commencement of the Loan.
+
+ 
+
+3.2
+
+Lending Service Provider will make available or cause to be made available to the other Party a receipt
+listing the Loaned Asset(s). Such receipt may consist of a confirmation, account statement, or other data or evidence of transfer provided
+by Lending Service Provider or Lending Service Provider’s designee to the other Party.
+
+ 
+
+4.
+
+Collateral
+
+ 
+
+4.1
+
+Unless otherwise agreed, Borrower will, prior to or concurrently with the transfer of the Loaned Assets
+to Borrower, but in no case later than the Close of Business on the date of the transfer of the Loaned Assets, transfer to Lender Collateral
+with a Market Value at least equal to the Margin Percentage of the Market Value of the Loaned Digital Assets.
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.2
+
+The Collateral transferred by Borrower to Lender, as adjusted pursuant to Section 9, will be security
+for Borrower’s obligations in respect of such Loan and for any other obligations of Borrower to Lender hereunder, and Borrower hereby
+pledges with, assigns to, and grants Lender a continuing first priority security interest in, and a lien upon, the Collateral and the
+account in which the Collateral is held, which will attach upon the transfer of the Loaned Assets by Lender to Borrower and which will
+cease upon the return of the entire Loaned Assets by Borrower to Lender. Borrower and Lender intend and agree that the Collateral is and
+shall at all times be considered “financial assets,” and that Lending Service Provider as the holder of such assets pursuant
+to that certain agreement between Lending Service Provider and Borrower is and shall at all times be considered Borrower’s “securities
+intermediary,” as such terms are defined in Article 8 of the UCC. Moreover, Borrower and Lender further agree that the only instructions
+or entitlement orders that shall be given to Lending Service Provider in regard to or in connection with the Collateral or the account
+in which the Collateral is held shall be given by Lender and that such instructions or entitlement orders may be followed by Lending Service
+Provider without notice to or consent from Borrower. Borrower further agrees not to (a) issue instructions to transfer all or any portion
+of the Collateral to another securities intermediary or any other party, (b) apply for asset withdrawal privileges, or (c) request or
+apply for any margin loan from Lending Service Provider secured by the Collateral. So long as this Agreement is in effect, Lending Service
+Provider shall provide Lender with statements of account with respect to the securities account in which the Collateral is held at such
+times and with such frequency as Lender may request. The foregoing notwithstanding, nothing herein shall impose or create any obligations
+or duties upon Lending Service Provider greater than or in addition to the customary and usual obligations and duties of Lending Service
+Provider to Borrower except and to the extent Lending Service Provider shall henceforth accept instructions in connection with the Collateral
+and the securities account in which the Collateral is held and except to the extent that Lending Service Provider has assumed such obligations
+and duties as expressly set forth in this Agreement. In addition to the rights and remedies given to Lender hereunder, Lender will have
+all the rights and remedies of a secured party under the UCC. An obligation to transfer Collateral under this Agreement may be satisfied
+by the Lending Service Provider holding such Collateral for the benefit of the Lender, and an obligation to return Collateral may be satisfied
+by the Lending Service Provider releasing such Collateral to Borrower, provided such transfer or return is otherwise in accordance with
+Section 15.
+
+ 
+
+4.3
+
+Lending Service Provider hereby expressly acknowledges and agrees to the terms and conditions herein.
+Without limiting the generality of the foregoing, Lending Service Provider expressly agrees that the Collateral is and at all times shall
+be treated as “financial assets” within the meaning of the UCC, and agrees to accept and act solely on instructions and entitlement
+orders with respect thereto and with respect to the account into which the Collateral is deposited from Lender, without further consent
+of Borrower.
+
+ 
+
+Through these provisions, Borrower and Lending
+Service Provider (Borrower’s securities intermediary) have expressly agreed to treat the Collateral as “financial assets.”
+
+ 
+
+4.4
+
+Control of Securities Account
+. Through the provisions referenced in the forgoing Sections 4.2 and
+4.3, Borrower has granted Lender the exclusive right to provide instructions or entitlement orders to Lending Service Provider with respect
+to the Borrower’s securities account and the disposition of the Collateral held therein, and Lending Service Provider has agreed
+to act on any such instructions without further consent by Borrower.
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.5
+
+Except as otherwise provided herein, upon transfer to Lender of the entire Loaned Assets on the day a
+Loan is terminated pursuant to Section 6, Lender will be obligated to transfer the Collateral (as adjusted pursuant to Section 9) to Borrower
+no later than the Deadline following the transfer to Lender of the Loaned Assets.
+
+ 
+
+4.6
+
+If Borrower transfers Collateral to Lender, as provided in Section 4.1, and Lender does not transfer the
+Loaned Assets to Borrower, Borrower will have the absolute right to the return of the Collateral; and if Lender transfers Loaned Assets
+to Borrower and Borrower does not transfer Collateral to Lender as provided in Section 4.1, Lender will have the absolute right to the
+return of the Loaned Assets.
+
+ 
+
+5.
+
+Fees for Loan
+
+ 
+
+5.1
+
+If specified in a Confirmation, Borrower will pay Lender a loan fee (a “
+Loan Fee
+”)
+owed on each Loan and Lender will pay Borrower any other fee or amount owed, if applicable.
+
+ 
+
+5.2
+
+Any Loan Fee payable hereunder will be calculated daily based on a 365-day year for the actual number
+of days a Loan is open, by reference to the Loaned Assets outstanding on each day under a Loan, based on the Loan Fee Rate (quoted in
+the Confirmation on an annualized rate). A Loan Fee will accrue from and including the date on which the Loaned Assets are transferred
+to Borrower, but excluding, the date on which such Loaned Assets are returned to Lender.
+
+ 
+
+5.3
+
+The Loan Fee will be due and payable on a monthly basis with any Loan Fee due which is unpaid as of the
+date on which such Loaned Assets are returned to Lender to be paid by the Borrower to the Lender with the return to the Lender of the
+Loaned Assets.
+
+ 
+
+5.4
+
+If specified in a Confirmation, for each day past the day a Loan is terminated pursuant to Section 6 during
+which the Borrower has not returned any or all of the Loan’s Loaned Assets, a late fee will be due and payable by the Borrower to
+the Lender provided that no notice of termination under Section 12 has been given. The late fee will be calculated daily based on the
+outstanding Loaned Assets based on the Late Fee Rate (quoted in the Confirmation on an annualized rate).
+
+ 
+
+5.5
+
+If at any time during the term of the Loan the rates applicable to the Loan Fee or other fees arising
+under Section 5 exceed the maximum rate permitted to be charged by Lender to Borrower under applicable law, the rates will be reduced
+to the maximum rate permitted to be charged under applicable law. The Lender will be responsible for determining the timing and scope
+of applicable law, and any calculation of the maximum rate permitted to be charged under applicable law under this Section 5.5. If the
+application of this Section 5.5 causes a refund to be owed by the Lender to the Borrower, the Lender will immediately refund such excess
+amount.
+
+ 
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.6
+
+Amounts owing to a Party under this Section 5 will be payable in the Contractual Currency except that,
+if specified in a Confirmation Borrower may pay amounts owing from Borrower to Lender under this Section 5 in the type of Digital Assets
+that are the Loaned Digital Asset(s) in accordance with the valuation procedure set forth in such Confirmation or in the absence of such
+a procedure, at the Market Value of such Digital Assets calculated at the time such payment is made or otherwise at a time reasonably
+determined by the Lender.
+
+ 
+
+5.7
+
+If either Party pays an amount that is insufficient to meet its obligations then outstanding under a Loan,
+the Party receiving such partial amount may in its sole discretion apply such an amount first to any late fees or other fees arising under
+this Section 5, then to Loan Fees and finally towards any obligation of the other Party to transfer Loaned Assets or Collateral, provided
+in all cases that no notice of termination under Section 12 has been given and such application of payments is otherwise permitted by
+applicable law.
+
+ 
+
+6.
+
+Termination of the Loan
+
+ 
+
+6.1
+
+Unless otherwise agreed, either Party may terminate a Loan on a termination date established by notice
+given to the other Party prior to the Close of Business on any day that is a Calendar Day. Unless Borrower and Lender agree to the contrary,
+the termination date established by a termination notice will be a date no earlier than one Calendar Day(s) from the day the notice is
+given if the notice is given prior to the Close of Business, and no earlier than two Calendar Days from the day the notice is given if
+the notice is given after the Close of Business or if the notice is given on a non-Business Day.
+
+ 
+
+6.2
+
+Notwithstanding Section 6.1 and unless otherwise agreed, Borrower may terminate a Loan on any Calendar
+Day by giving notice to Lender and transferring the Loaned Asset(s) to Lender before the Close of Business on such Calendar Day.
+
+ 
+
+6.3
+
+Unless otherwise agreed, Borrower will, on or before the Close of Business on the termination date of
+a Loan, transfer the Loaned Assets to Lender; provided, however, that upon such transfer by Borrower, Lender will transfer the Collateral
+(as adjusted pursuant to Section 9) to Borrower in accordance with Section 4.3.
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+6.4
+
+If due to the adoption of, or any change in, any applicable law after the date on which a Loan is entered
+into, or due to the promulgation of, or any change in, the interpretation by any court, tribunal or regulatory authority with competent
+jurisdiction of any applicable law after such date, it becomes unlawful to perform any absolute or contingent obligation to make a payment
+or transfer or to receive a payment or transfer in respect of such Loan or to comply with any other material provision of this Agreement
+relating to such Loan, then the Lender may, by notice to the Borrower: (a) designate alternative forms of Loaned Assets or Collateral
+capable of satisfying each Party’s transfer obligations under this Section 6 and/or other payment obligations under this Agreement,
+or (b) determine that all transfer and payment obligations under this Agreement will be settled in the Contractual Currency. If Lender
+provides such notice to Borrower, a “
+Disruption Event
+” will be deemed to have occurred. For the avoidance of doubt,
+the amounts owing in alternative forms of Loaned Assets or Collateral under this Section 6.4 will be determined by reference to the Market
+Value of the Loaned Asset or Collateral calculated at the time such payment is owing or otherwise at a time reasonably determined by Lender.
+Unless a notice by Lender expressly states otherwise, reference to “other payment obligations under this Agreement” in Section
+6.4(a) and “transfer and payment obligations under this Agreement” in Section 6.4(b) will be deemed to exclude Distributions.
+
+ 
+
+6.5
+
+If an event or circumstance which would otherwise constitute or give rise to an Event of Default also
+constitutes a Disruption Event under Section 6.4, it will be treated as a Disruption Event and will not constitute an Event of Default.
+
+ 
+
+7.
+
+Rights in Respect of Loaned Assets and Collateral
+
+ 
+
+7.1
+
+Except as set forth in Sections 8.1 and 8.2 and as otherwise agreed by Borrower and Lender, until Loaned
+Assets are required to be redelivered to Lender upon termination of a Loan hereunder, Borrower will have all of the incidents of ownership
+of the Loaned Assets, including the right to transfer the Loaned Assets to others. Except as set forth in Section 8, Lender hereby waives
+any right to vote, participate, or to provide any consent or to take any similar action with respect to, the Loaned Digital Assets in
+the event that a Distribution or other time of record for such vote, consent or other action occurs during the term of the Loan.
+
+ 
+
+7.2
+
+Unless otherwise agreed by Borrower and Lender, Borrower hereby waives any right to vote, participate,
+or to provide any consent or to take any similar action with respect to any Collateral in the event that a Distribution or other time
+of record for such vote, consent or other action occurs during the term of the Loan. Until the Collateral is required to be redelivered
+to Borrower upon termination of a Loan hereunder, Borrower agrees and affirms Lender’s entitlement to and use of the Collateral,
+including but not limited to the use of Collateral in lending, investing, re-hypothecating, transferring to other accounts upon which
+Lender, or a third-party, is the account holder or beneficiary, or re-pledging as collateral in other transactions involving Lender’s
+other lending and borrowing transactions.
+
+ 
+
+ 
+
+6
+
+ 
+
+ 
+
+ 
+
+ 
+
+8.
+
+Distributions
+
+ 
+
+8.1
+
+Lender will be entitled to receive all Distributions made on or in respect of the Loaned Digital Assets
+which are not otherwise received by Lender, to the full extent it would be so entitled if the Loaned Digital Assets had not been lent
+to Borrower.
+
+ 
+
+8.2
+
+Any Distribution of an Entitlement that Lender is entitled to receive pursuant to Section 8.1 will be
+added to the Loaned Digital Assets on the date the Distribution occurs or other date determined by the Lender in its sole discretion and
+will be considered such for all purposes, except that if (a) the Loan has terminated, Borrower will forthwith transfer the same to Lender,
+and (b) the Lender determines, in its sole discretion, that (i) the equivalent value of such Entitlement is less than the Minimum Transfer
+Amount, or (ii) the Entitlement is of a materially different form, type or character to the Loaned Digital Assets such that it cannot
+reasonably be added to the Loaned Digital Assets, no obligation to transfer the Entitlement will arise.
+
+ 
+
+8.3
+
+If specified in a Confirmation, Borrower will be entitled to receive Entitlements made on or in respect
+of Collateral which are not otherwise received by Borrower, to the full extent it would be so entitled if the Collateral had not been
+transferred to Lender. In the event that a Confirmation has not specified a right for Borrower to receive Entitlements, Lender will be
+entitled to retain all Distributions made on or in respect of the Collateral.
+
+ 
+
+8.4
+
+Any Entitlement that Borrower is entitled to receive pursuant to Section 8.3 will be added to the Collateral
+on the date the Entitlement occurs or other date determined by the Lender in its sole discretion and will be considered such for all purposes,
+except that if: (a) each Loan secured by Collateral has terminated, Lender will forthwith transfer the same to Borrower; and (b) the Lender
+determines, in its sole discretion, that (i) the equivalent value of such Entitlement is less than the Minimum Transfer Amount, or (ii)
+the Entitlement is of a materially different form, type or character to the Collateral such that it cannot reasonably be added to the
+Collateral, no obligation to transfer the Entitlement will arise.
+
+ 
+
+8.5
+
+If either the Borrower or the Lender is obligated to make a payment to the other as the result of the
+receipt of a Distribution and the Party making the payment is required by law to collect any withholding or other tax, duty, fee, levy
+or charge required to be deducted or withheld from such payment (“
+Tax
+”), then: (a) if the Party obligated to make the
+payment is the Borrower, the Borrower will pay such additional amounts as may be necessary in order that the net amount of the payment
+received by Lender, after payment, deduction, or withholding of such Tax equals the net amount of the payment for the Distribution that
+would have been received if such Distribution had been paid directly to Lender; and (b) if the Party obligated to make the payment is
+the Lender, the Lender will not be obligated to pay any additional amounts to Borrower as a result of any Tax and will pay only the amount
+of the payment for the Distribution owed after payment, deduction, or withholding of such Tax.
+
+ 
+
+ 
+
+7
+
+ 
+
+ 
+
+ 
+
+ 
+
+8.6
+
+To the extent that, under the provisions of Sections 8.1 through 8.5, (a) a transfer of Digital Assets,
+Cash or other property by Borrower would give rise to a Margin Excess, or (b) a transfer of Digital Assets, Cash or other property by
+Lender would give rise to a Margin Deficit, Borrower or Lender (as the case may be) will not be obligated to make such transfer of Digital
+Assets, Cash or other property in accordance with such Sections, but will in lieu of such transfer immediately credit the amounts that
+would have been transferable under such Sections to the Lender’s Account(s) or Borrower’s Account(s) (as the case may be).
+
+ 
+
+8.7
+
+To the extent that, under the provisions of Sections 8.1 through 8.6, an obligation to transfer or credit
+Digital Assets, Cash, or other property at the time of a Distribution by either Party cannot be satisfied by the transferor through a
+transfer between the Borrower’s Account(s) and the Lender’s Account(s) or such property is otherwise ineligible to be held
+in an Account, such obligation will arise at the time such obligation can be satisfied instead of the time of Distribution, provided,
+however, that Lender may, in its sole discretion, elect to receive an amount equivalent to the Distribution in accordance with Section
+16.1 hereunder, and such election by Lender will be deemed to satisfy any requirement under this Section 8.7 that the property comprising
+the Distribution be eligible to be held in an Account. Any obligation to transfer property under this Section 8.7 will not include any
+accrued interest to the extent not already included therein. If an obligation to add Entitlements to Loaned Digital Assets or Collateral
+arises under Section 8.2 or 8.4, any Loaned Digital Assets or Collateral amounts hereunder will not include such a Distribution until
+such time as the obligation to transfer or credit Digital Assets, Cash, or other property associated with the Distribution arises under
+this Section 8.7.
+
+ 
+
+9.
+
+Mark to Market
+
+ 
+
+9.1
+
+Lender will, at least daily, mark to market any Loan hereunder and Borrower will transfer additional Collateral
+so that the Market Value of such additional Collateral, when added to the Market Value of the other Collateral for such Loans, will at
+all times equal or exceed the Margin Percentage of the Market Value of the Digital Assets equivalent of the Loaned Assets. Lender may
+mark to market any Loan under this Section 9 at any time or times without notice to Borrower.
+
+ 
+
+9.2
+
+In addition to any rights of Lender under Section 9.1, if at any time the aggregate Market Value of all
+Collateral for Loans by Lender is less than the Margin Percentage of the Market Value of all the outstanding Loaned Assets subject to
+such Loans (a “
+Margin Deficit
+”), Lender may, by notice to Borrower, demand that Borrower transfer to Lender additional
+Collateral so that the Market Value of such additional Collateral, when added to the Market Value of all other Collateral for such Loans,
+equals or exceeds the Margin Percentage of the Market Value of the Loaned Assets.
+
+ 
+
+ 
+
+8
+
+ 
+
+ 
+
+ 
+
+ 
+
+9.3
+
+Subject to Borrower’s obligations under Section 9.1, if at any time the Market Value of all Collateral
+for Loans to Borrower will be greater than the Margin Percentage of the Market Value of all the outstanding Loaned Assets subject to such
+Loans (a “
+Margin Excess
+”), Borrower may, by notice to Lender, demand that Lender transfer to Borrower such amount of
+the Collateral selected by Borrower so that the Market Value of the Collateral for such Loans, after deduction of such amounts, will thereupon
+not exceed the Margin Percentage of the Market Value of the Loaned Assets.
+
+ 
+
+9.4
+
+Unless otherwise agreed in writing by the Parties, in the case where Lender has multiple outstanding Loans
+with Borrower and the Confirmations for such Loans have specified different Margin Percentages, with respect to such Loans hereunder,
+the Parties will mark the values to market pursuant to Sections 9.2 and 9.3 by separately valuing the Loaned Assets lent and the Collateral
+given in respect thereof on a Loan-by-Loan basis.
+
+ 
+
+9.5
+
+Borrower and Lender may agree, with respect to any or all Loans hereunder, that the respective rights
+of Lender and Borrower under Sections 9.2 and 9.3 may be exercised only where a Margin Excess or Margin Deficit exceeds a specified dollar
+amount or a specified percentage of the Market Value of the Loaned Assets under such Loans (which amount or percentage will be the Minimum
+Transfer Amount agreed to by Borrower and Lender prior to entering into any such Loans).
+
+ 
+
+9.6
+
+If any notice is given by Borrower or Lender under Sections 9.2 or 9.3, the Party receiving such notice
+will transfer Collateral no later than the Margin Transfer Deadline.
+
+ 
+
+10.
+
+Representations
+
+ 
+
+The Parties to this Agreement hereby make the following
+representations and warranties, which will continue during the term of any Loan hereunder:
+
+ 
+
+10.1
+
+Each Party hereto represents and warrants that (a) it has the power to execute and deliver this Agreement,
+to enter into the Loans contemplated hereby and to perform its obligations hereunder, (b) it has taken all necessary action to authorize
+such execution, delivery and performance, and (c) this Agreement constitutes a legal, valid and binding obligation enforceable against
+it in accordance with its terms.
+
+ 
+
+10.2
+
+Each Party hereto represents and warrants that it has not relied on the other for any investment, tax,
+legal or accounting advice concerning this Agreement and that it has made its own determination as to the tax and accounting treatment
+of any Loan and any Distributions, remuneration or other funds received hereunder.
+
+ 
+
+ 
+
+9
+
+ 
+
+ 
+
+ 
+
+ 
+
+10.3
+
+Each Party hereto represents and warrants that it is acting for its own account unless it expressly specified
+otherwise in writing and complies with Section 11.
+
+ 
+
+10.4
+
+Each Party hereto represents and warrants that it acknowledges and agrees that the Loan Fee of each Loan
+hereunder is reasonable and not excessive, usurious, punitive, or is otherwise inequitable.
+
+ 
+
+10.5
+
+Borrower represents and warrants that (i) all Collateral is and shall be free and clear of all liens,
+claims and encumbrances (except those granted to Lender herein or pursuant to a validly executed agreement between the Borrower and the
+Lending Service Provider) and (ii) it has, or will have at the time of transfer of any Collateral, the right to grant a lien and first
+priority security interest therein subject to the terms and conditions hereof.
+
+ 
+
+10.6
+
+Borrower agrees that the Loans (and any proceeds thereof) will be used solely for lawful business or commercial
+purposes. If Borrower is a natural person, Borrower also agrees that the Loans (and any proceeds thereof) will not be used for any personal,
+family, household, or other consumer purposes. If Borrower is a trust, Borrower also agrees that the Loans (and any proceeds thereof)
+will not be used for any personal, family, household, or other consumer purposes for the benefit of any natural person who is a beneficiary
+of such trust.
+
+ 
+
+10.7
+
+Borrower represents and warrants that it is an eligible contract participant (“ECP”) for purposes
+of the Commodity Exchange Act (the “CEA”) and all U.S. Commodity Futures Trading Commission regulations thereunder (“CFTC
+Regulations”). Any information provided to Lending Service Provider, Lender, or their affiliates for purposes of onboarding and
+due diligence regarding Borrower’s ECP status and other financial information is true and correct in all material respects. Borrower
+further agrees that it will at all times maintain its status as an ECP as that term is defined in the CEA and CFTC Regulations. If Borrower
+at any time during the pendency of this PTF Agreement ceases to be an ECP, Borrower will notify Lender and Lending Service Provider immediately.
+
+ 
+
+10.8
+
+Lender represents and warrants that it has or will have at the time of transfer of any Loaned Assets,
+the right to transfer the Loaned Assets subject to the terms and conditions hereof.
+
+ 
+
+11.
+
+Covenants
+
+ 
+
+11.1
+
+Each Party agrees that it is liable as principal with respect to its obligations hereunder.
+
+ 
+
+11.2
+
+Promptly upon (and in any event within five (5) Business Days after) demand by either Party, the other
+Party will furnish the demanding Party with its most recent audited and unaudited financial statements and any other financial statements
+mutually agreed upon by Borrower and Lender. Lender may satisfy the requirements of this Section by furnishing Borrower with Borrower’s
+most recent customer account statement. If requested by Lender, Borrower will as promptly as possible furnish the Lender with any other
+financial statements or other financial information (including Borrower’s net asset value) concerning Borrower’s financial
+position requested by Lender.
+
+ 
+
+ 
+
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+12.
+
+Events of Default
+
+ 
+
+All Loans hereunder may, at the option of the non-defaulting
+Party (which option will be deemed to have been exercised immediately upon the occurrence of an Insolvency Event), be terminated immediately
+upon the occurrence of any one or more of the following events (each, individually, a “
+Default
+”):
+
+ 
+
+12.1
+
+If Borrower fails to transfer any Loaned Assets to Lender upon termination of the Loan as required by
+Section 6;
+
+ 
+
+12.2
+
+If Lender fails to transfer any Collateral to Borrower upon termination of the Loan as required by Sections
+4.5, 4.6 and 6;
+
+ 
+
+12.3
+
+If either Party fails to transfer Collateral as required by Section 9;
+
+ 
+
+12.4
+
+If either Party (a) fails to transfer to the other Party amounts in respect of Distributions required
+to be transferred by Section 8, (b) has been notified of such failure by the other Party prior to the Close of Business on any Calendar
+Day, and (c) has not cured such failure by the Close of Business on the next Calendar Day on which a transfer of the Distribution may
+be effected in accordance with Section 15;
+
+ 
+
+12.5
+
+If an Insolvency Event occurs with respect to either Party;
+
+ 
+
+12.6
+
+If any representation made by either Party in respect of this Agreement or any Loan or Loans hereunder
+is incorrect or untrue in any material respect during the term of any Loan hereunder;
+
+ 
+
+12.7
+
+If either Party notifies the other of its inability to or its intention not to perform its obligations
+hereunder or otherwise disaffirms, rejects or repudiates any of its obligations hereunder; or
+
+ 
+
+12.8
+
+If either Party (a) fails to perform any material obligation under this Agreement not specifically set
+forth in Sections 12.1 through 12.7, above, including but not limited to the payment of any Loan Fee, late fee or other fees as required
+by Section 5, (b) has been notified of such failure by the other Party prior to the Close of Business on any day, and (c) has not cured
+such failure by the Deadline following such notification.
+
+ 
+
+ 
+
+11
+
+ 
+
+ 
+
+ 
+
+ 
+
+The non-defaulting Party will (except upon the occurrence
+of an Insolvency Event) give notice as promptly as practicable to the Defaulting Party of the exercise of its option to terminate all
+Loans hereunder pursuant to this Section 12.
+
+ 
+
+13.
+
+Remedies
+
+ 
+
+13.1
+
+Upon the occurrence of a Default under Section 12 entitling Lender to terminate all Loans hereunder, Lender
+will have the right, in addition to any other remedies provided herein, (which, upon the occurrence of an Insolvency Event, may be exercised
+following the termination of any applicable stay) (a) to purchase a like amount of Loaned Digital Assets (“
+Replacement Digital
+Assets
+”) in a commercially reasonable manner, (b) to sell any Collateral in a commercially reasonable manner, (c) freeze or
+otherwise suspend access to the Collateral, Accounts and/or Borrower’s Account(s) and (d) to apply and set off the Collateral and
+any proceeds thereof against the payment of the purchase price for such Replacement Digital Assets and any amounts due to Lender under
+Sections 5, 8, 14 and 16. In the event that Lender exercises such rights, Borrower’s obligation to return a like amount of the Loaned
+Digital Assets or Cash will terminate. Lender may similarly apply the Collateral and any proceeds thereof to any other obligation of Borrower
+under this Agreement, including Borrower’s obligations with respect to Distributions paid to, including Entitlements received by,
+Borrower (and not forwarded to Lender) in respect of Loaned Digital Assets. In the event that (i) the purchase price of Replacement Digital
+Assets (plus all other amounts, if any, due to Lender hereunder) exceeds (ii) the amount of the Collateral and any proceeds therefrom,
+Borrower will be liable to Lender for the amount of such excess together with interest thereon at a rate equal to the Federal Funds Rate
+as such rate fluctuates from day to day, from the date of such purchase until the date of Borrower’s payment of such excess. As
+security for Borrower’s obligation to pay such deficiency, Lender will have, and Borrower hereby grants, a security interest in
+any property of Borrower held now or hereafter by or for Lender, including in Borrower’s Account(s), and any other property at any
+time held by Lending Service Provider for the benefit of Borrower or in which Borrower may have an interest which is then in Lending Service
+Provider’s possession or control or in the possession or control of any third party acting on behalf of Lending Service Provider,
+and a right of setoff with respect to such property and any other amount payable by Lender to Borrower. The purchase price of any Replacement
+Digital Assets purchased under this Section 13.1 will include, and the proceeds of any sale of Loaned Digital Assets will be determined
+after deduction of, broker’s fees and commissions and all other reasonable costs, fees and expenses related to such purchase or
+sale (as the case may be). Subject to Section 18, upon the satisfaction of all Borrower’s obligations hereunder, any remaining Collateral
+will be returned to Borrower.
+
+ 
+
+ 
+
+12
+
+ 
+
+ 
+
+ 
+
+ 
+
+13.2
+
+Upon the occurrence of a Default under Section 12 entitling Borrower to terminate all Loans hereunder,
+Borrower will have the right, in addition to any other remedies provided herein, (which, upon the occurrence of an Insolvency Event, may
+be exercised following the termination of any applicable stay), (a) to purchase a like amount of Collateral (“
+Replacement Collateral
+”)
+in a commercially reasonable manner, (b) to sell a like amount of the Loaned Digital Assets in a commercially reasonable manner and (c)
+to apply and set off the Loaned Digital Assets and any proceeds thereof against (i) the payment of the purchase price for such Replacement
+Collateral, (ii) Lender’s obligation to return any Cash or other Collateral, and (iii) any amounts due to Borrower under this Agreement.
+In such event, Borrower may treat the Loaned Digital Assets as its own and Lender’s obligation to return a like amount of the Collateral
+will terminate. Borrower may similarly apply the Loaned Digital Assets and any proceeds thereof to any other obligation of Lender under
+this Agreement, including Lender’s obligations with respect to Distributions paid to, including Entitlements received by, Lender
+(and not forwarded to Borrower) in respect of Collateral, if any. In the event that (i) the sales price received from such Loaned Digital
+Assets is less than (ii) the purchase price of Replacement Collateral (plus the amount of any Cash or other Collateral not replaced by
+Borrower and all other amounts, if any, due to Borrower hereunder), Lender will be liable to Borrower for the amount of any such deficiency,
+together with interest on such amounts at a rate equal to the Federal Funds Rate as such rate fluctuates from day to day, from the date
+of such sale until the date of payment of such deficiency. Subject to Section 18, upon the satisfaction of all Lender’s obligations
+hereunder, any remaining Loaned Digital Assets (or remaining Cash proceeds thereof) will be returned to Lender.
+
+ 
+
+13.3
+
+Unless otherwise agreed, the Parties acknowledge and agree that (a) the Loaned Digital Assets and any
+Collateral other than cash are of a type customarily traded in a recognized market, (b) the prices of such Loaned Digital Assets and Collateral
+are considered volatile and that it would not be necessary under UCC Section 9-611(b) to give notice of any proposed disposition of Loaned
+Digital Assets or Collateral, (c) the Market Value will be the generally recognized source for prices or bid or offer quotations for any
+Loaned Digital Assets or Collateral, (d) in the absence of a generally recognized source for prices or bid or offer quotations for any
+Loaned Digital Assets or Collateral, the non-defaulting Party may establish the source therefore in its sole, commercially reasonable
+discretion, and (e) all prices and bid and offer quotations will be increased to include accrued interest to the extent not already included
+therein.
+
+ 
+
+13.4
+
+In addition to its rights hereunder, the non-defaulting Party retains any rights otherwise available to
+it under any other agreement or applicable law.
+
+ 
+
+14.
+
+Taxes
+
+ 
+
+14.1
+
+Subject to clarification by the U.S. Internal Revenue Service or U.S Department of the Treasury, it is
+the Parties’ intention that the Loan of Digital Assets not qualify as a taxable sale or disposition within the meaning of Section
+1001 of the U.S. Internal Code and Treasury regulations thereunder.
+
+ 
+
+ 
+
+13
+
+ 
+
+ 
+
+ 
+
+ 
+
+14.2
+
+Any transfer or other taxes or third-party fees
+payable with respect to the transfer, repayment or return of Loaned Digital Assets or Collateral, or imposed for the use of Lending Service
+Provider’s lending services, hereunder shall be paid by Borrower. Borrower shall be liable for any tax liability generated by income,
+gains or other proceeds resulting from its use and/or investment of the Loaned Digital Assets.
+
+ 
+
+14.3
+
+Except as otherwise agreed by Borrower and Lender, and except for any obligation imposed by law on a Party
+to withhold amounts under federal, state, local or foreign tax law, each Party is responsible for determining what, if any, taxes apply
+to transactions under this Agreement and for collecting, reporting and remitting the correct taxes to the appropriate tax authorities.
+
+In addition, to the extent that any tax obligations arise from any Distributions,
+including Entitlements, received in respect of the Loaned Digital Assets, as between the Lender and Borrower, the Parties will pay amounts
+owing under Section 8.5.
+
+ 
+
+15.
+
+Transfers
+
+ 
+
+15.1
+
+All transfers of Digital Assets by Lender to Borrower hereunder will be effected by the transfer from
+the Lender’s Account(s) to Borrower’s Account(s), and all transfers of Digital Assets by the Borrower to Lender hereunder
+will be effected by the transfer from the Borrower’s Account(s) to the Lender’s Account(s), with such transfers being recorded
+on: (a) the Digital Asset Transaction Ledger, or (b) credited on the internal books and records of the Lending Service Provider in accordance
+with Section 15.5. Notwithstanding the foregoing, the Parties may agree in the Confirmation to transfer Digital Assets by the Lender to
+the Borrower to a Digital Asset Address controlled by the Borrower if such Digital Asset Address is provided in the Confirmation.
+
+ 
+
+15.2
+
+All transfers of Cash hereunder will be by: (a) the transfer of unencumbered USDC, (b) wire transfer in
+immediately available, freely transferable funds, (c) crediting of an Account designated to hold Cash or Collateral by Lending Service
+Provider, or (d) such other means as Borrower and Lender may agree.
+
+ 
+
+15.3
+
+A transfer of Cash may be effected on any Calendar Day, unless Lending Service Provider determines a transfer
+of Cash be the form of fiat U.S. Dollars in accordance with Section 16.1, in which case such transfer may only be effected on a Business
+Day.
+
+ 
+
+15.4
+
+The Parties agree that: (a) any Digital Asset under this Agreement is a “financial asset”
+for purposes of UCC Section 8-102(a)(9)(iii); (b) Lending Service Provider is a “securities intermediary” for purposes of
+UCC Section 8-102(a)(14); (c) Borrower’s Account(s) and Lender’s Account(s), including any Account held with Lending Service
+Provider by the other Party for either the custodying, loaning or receiving of Digital Assets as the result of purchase and sale transactions
+or lending transactions is a “securities account” within the meaning of UCC Section 8-501(a), and (d) the applicable law of
+such Account will be New York law.
+
+ 
+
+ 
+
+14
+
+ 
+
+ 
+
+ 
+
+ 
+
+15.5
+
+The Parties further agree that transfers of Digital Assets to and from Accounts by Borrower or Lender
+that are not transferred on the Digital Asset Transaction Ledger will be effected by the crediting by Lending Service Provider of such
+“financial assets” (within the meaning of the UCC) to: (a) Lender’s “securities account” (within the meaning
+of the UCC), or (b) any other “securities account” (within the meaning of the UCC) maintained with Lending Service Provider
+in the case of Lender. In every transfer of “financial assets” (within the meaning of the UCC) under this Section 15, the
+transferor will take all steps necessary to cause the creation of a security entitlement in favor of the transferee under UCC Section
+8-501, and to enable the transferee to obtain “control” (within the meaning of UCC Section 8-106).
+
+ 
+
+16.
+
+Contractual Currency and Form
+
+ 
+
+16.1
+
+Borrower and Lender agree that (a) any payment in respect of a Distribution under Section 8 may be made
+in cash in the form of fiat U.S. Dollars or USDC, notwithstanding the currency or type of Digital Asset in which the Distribution was
+made, and Lending Service Provider will establish the source for such payment conversion in its sole discretion, (b) any return of Cash
+will be made in the currency and form (fiat U.S. Dollars or USDC) in which the underlying transfer of Cash was made, and (c) any other
+payment or transfer of Cash in connection with a Loan under this Agreement will be in the currency and form (fiat U.S. Dollars or USDC)
+determined by the Lending Service Provider in its sole discretion in connection with such Loan (the currency and form established under
+clause (a), (b) or (c) hereinafter referred to as the “
+Contractual Currency
+”). Notwithstanding the foregoing, the payee
+of any such payment may, at its option, accept tender thereof in any other type of Digital Asset, currency or form; provided, however,
+that, to the extent permitted by applicable law, the obligation of the payor to make such payment will be discharged only to the extent
+of the amount of Contractual Currency that is equal to: (i) if payment is tendered in another type of Digital Asset, the Market Value
+of the tendered Digital Asset; or (ii) if payment is tendered in another currency or form, the amount that such payee may, consistent
+with normal market procedures, purchase with such other currency or form (after deduction of any premium and costs of exchange); on the
+day of its receipt of such Digital Asset, currency or form.
+
+ 
+
+16.2
+
+If for any reason the amount in the Contractual Currency received under Section 16.1, including amounts
+received after conversion of any recovery under any judgment or order expressed in a currency or form other than the Contractual Currency,
+falls short of the amount in the Contractual Currency due in respect of this Agreement, the Party required to make the payment will (unless
+a Default has occurred and such Party is the non-defaulting Party) as a separate and independent obligation and to the extent permitted
+by applicable law, immediately pay such additional amount in the Contractual Currency as may be necessary to compensate for the shortfall.
+
+ 
+
+ 
+
+15
+
+ 
+
+ 
+
+ 
+
+ 
+
+16.3
+
+If for any reason the amount in the Contractual Currency received under Section 16.1 exceeds the amount
+in the Contractual Currency due in respect of this Agreement, then the Party receiving the payment will (unless a Default has occurred
+and such Party is the non-defaulting Party) refund promptly the amount of such excess.
+
+ 
+
+17.
+
+ERISA
+
+ 
+
+The Parties to this Agreement represent and warrant,
+which will continue during the term of any Loan hereunder, that any of the Loaned Assets, Collateral or other property transferred in
+connection with any Loan hereunder have not been or will not be obtained, directly or indirectly, from or using the assets of any: (a)
+“employee benefit plan” as defined in Section 3(3) of the U.S. Employee Retirement Income Security Act of 1974, as amended,
+which is subject to Part 4 of Subtitle B of Title I of such Act; (b) any “plan” as defined in Section 4975(e)(1) of the U.S.
+Internal Revenue Code of 1986, as amended; or (c) any entity the assets of which are deemed to be assets of any such “employee benefit
+plan” or “plan” by reason of the U.S. Department of Labor’s plan asset regulation, Title 29 of the Code of Federal
+Regulations, Section 2510.3-101.
+
+ 
+
+18.
+
+Single Agreement
+
+ 
+
+Borrower and Lender acknowledge that, and have entered
+into this Agreement in reliance on the fact that, all Loans hereunder constitute a single business and contractual relationship and have
+been entered into in consideration of each other. Accordingly, Borrower and Lender hereby agree that payments, deliveries and other transfers
+made by either of them in respect of any Loan will be deemed to have been made in consideration of payments, deliveries and other transfers
+in respect of any other Loan hereunder, and the obligations to make any such payments, deliveries and other transfers may be applied against
+each other and netted. In addition, Borrower and Lender acknowledge that, and have entered into this Agreement in reliance on the fact
+that, all Loans hereunder have been entered into in consideration of each other. Accordingly, Borrower and Lender hereby agree that (a)
+each will perform all of its obligations in respect of each Loan hereunder, and that a default in the performance of any such obligation
+by Borrower or by Lender (the “
+Defaulting Party
+”) in any Loan hereunder will constitute a default by the Defaulting
+Party under all such Loans hereunder, and (b) the non-defaulting Party will be entitled to set off claims and apply property held by it
+in respect of any Loan hereunder against obligations owing to it in respect of any other Loan with the Defaulting Party.
+
+ 
+
+ 
+
+16
+
+ 
+
+ 
+
+ 
+
+ 
+
+19.
+
+APPLICABLE LAW
+
+ 
+
+THIS AGREEMENT WILL BE GOVERNED AND CONSTRUED IN ACCORDANCE
+WITH THE LAWS OF THE STATE OF NEW YORK WITHOUT GIVING EFFECT TO THE CONFLICT OF LAW PRINCIPLES THEREOF.
+
+ 
+
+20.
+
+Waiver
+
+ 
+
+The failure of a Party to this Agreement to insist
+upon strict adherence to any term of this Agreement on any occasion will not be considered a waiver or deprive that Party of the right
+thereafter to insist upon strict adherence to that term or any other term of this Agreement. All waivers in respect of a Default must
+be in writing.
+
+ 
+
+21.
+
+Survival of Remedies
+
+ 
+
+All remedies hereunder and all obligations with respect
+to any Loan will survive the termination of the relevant Loan, return of Loaned Assets or Collateral and termination of this Agreement.
+
+ 
+
+22.
+
+Notices and Other Communications
+
+ 
+
+Any and all notices, statements, demands or other
+communications hereunder may be given by one Party to the other Party in writing by e-mail or by such other means agreed to by the Parties,
+the e-mail address specified in Schedule A hereto (or such other email address or communication method specified in a notice of change
+of contact information sent by one Party to the other Party), provided that any notice with respect to an existing or contemplated breach,
+failure to perform, or other event of default under Section 12 must also be addressed to the attention of Coinbase Credit Legal Department
+(if by e-mail, using carbon copy) and followed by a good faith attempt to inform the Lender by telephone. Any notice, statement, demand
+or other communication hereunder will be deemed effective on the day and at the time when the email notice is sent from the sending Party’s
+email address.
+
+ 
+
+23.
+
+SUBMISSION TO JURISDICTION; WAIVER OF JURY TRIAL 
+
+ 
+
+23.1
+
+EACH PARTY HERETO IRREVOCABLY AND UNCONDITIONALLY (A) 
+SUBMITS TO
+THE EXCLUSIVE JURISDICTION OF THE STATE AND FEDERAL COURTS LOCATED IN NEW YORK CITY SOLELY FOR THE PURPOSE OF ANY SUIT, ACTION, OR PROCEEDING
+ARISING FROM, OR RELATING TO, THIS AGREEMENT OR ANY LOAN HEREUNDER
+ AND (B) WAIVES, TO THE FULLEST EXTENT IT MAY EFFECTIVELY DO
+SO, ANY DEFENSE OF AN INCONVENIENT FORUM TO THE MAINTENANCE OF SUCH ACTION OR PROCEEDING IN ANY SUCH COURT AND ANY RIGHT OF JURISDICTION
+ON ACCOUNT OF ITS PLACE OF RESIDENCE OR DOMICILE.
+
+ 
+
+23.2
+
+THE PARTIES HEREBY WAIVE ANY RIGHTS THEY MAY OTHERWISE HAVE TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR
+CLASS-WIDE ARBITRATION REGARDING ANY CLAIM, COMPLAINT, COUNTERCLAIM, THIRD-PARTY CLAIM OR AFFIRMATIVE DEFENSE ARISING FROM, OR RELATING
+TO THIS AGREEMENT.
+
+ 
+
+ 
+
+17
+
+ 
+
+ 
+
+ 
+
+ 
+
+23.3
+
+EACH PARTY HERETO HEREBY IRREVOCABLY WAIVES ANY RIGHT THAT IT MAY HAVE TO TRIAL BY JURY IN ANY ACTION,
+PROCEEDING OR COUNTERCLAIM ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY.
+
+ 
+
+24.
+
+Miscellaneous
+
+ 
+
+Except as specified in Section 1 or as otherwise agreed
+by the Parties, this Agreement supersedes any other agreement between the Parties hereto concerning loans of Digital Assets between Borrower
+and Lender. The Parties agree that this Agreement may only be assigned by Borrower with the written consent of Lender and any attempted
+assignment without such consent will be null and void. Coinbase reserves the right to assign its rights under this Agreement without restriction,
+including to any of the Coinbase Entities or their affiliates or subsidiaries, or to any successor in interest, provided that Coinbase
+shall notify Client within a reasonable amount of time after such assignment. Subject to the foregoing, this Agreement will be binding
+upon and will inure to the benefit of Borrower and Lender and their respective heirs, representatives, successors and assigns. This Agreement
+may be terminated by either Party upon notice to the other, subject only to fulfillment of any obligations then outstanding. This Agreement
+will not be modified, except by an instrument in writing signed by the Party against whom enforcement is sought. The Parties hereto acknowledge
+and agree that, in connection with this Agreement and each Loan hereunder, time is of the essence. Each provision and agreement herein
+will be treated as separate and independent from any other provision herein and will be enforceable notwithstanding the unenforceability
+of any such other provision or agreement.
+
+ 
+
+25.
+
+Definitions
+
+ 
+
+For purposes hereof:
+
+ 
+
+25.1
+
+“
+Account(s)
+” means an account or accounts maintained with Lending Service Provider
+by Lender or Borrower that store Digital Assets, cash or other assets.
+
+ 
+
+25.2
+
+“
+Air Drop
+” means the distribution of incremental units of the same or a new Digital
+Asset as a result of holding a Digital Asset without any action taken by the holder of such Digital Asset.
+
+ 
+
+25.3
+
+“
+Borrower
+” has the meaning assigned in the first paragraph of this Agreement.
+
+ 
+
+25.4
+
+“
+Borrower’s Account(s)
+” means an Account or Accounts of Borrower as customer
+of Lending Service Provider established hereunder or pursuant to a separate validly executed custodial agreement between Borrower and
+Lending Service Provider (as amended or modified by any addenda or other supplemental agreement thereto). Subject to the advance approval
+of Lender, with such approval to be in writing and in Lender’s sole and absolute discretion, Borrower may nominate in writing other
+Digital Asset Transaction Ledger address(es), or account(s) maintained with Lending Service Provider by Borrower as Borrower Account(s).
+
+ 
+
+ 
+
+18
+
+ 
+
+ 
+
+ 
+
+ 
+
+25.5
+
+“
+Business Day
+” means, unless otherwise agreed to by Borrower and Lender in a Confirmation,
+schedule to this Agreement or otherwise in writing, a day on which Loaned Digital Assets and Collateral can be transferred as provided
+for in Section 15 and is a day on which the Federal Reserve Banks are open and the Borrower’s office is open, but in no event on
+Saturday or Sunday.
+
+ 
+
+25.6
+
+“
+Calendar Day
+” means, unless otherwise agreed to by Borrower and Lender in a Confirmation,
+schedule to this Agreement or otherwise in writing, any day on which Loaned Digital Assets and Collateral can be transferred as provided
+for in Section 15, including Saturday, Sunday and public holidays.
+
+ 
+
+25.7
+
+“Cash”
+ means currency denominated in the Base Currency, USDC or any other currency
+as agreed between the Borrower and Lender pursuant to Schedule B.
+
+ 
+
+25.8
+
+“
+Close of Business
+” means a time on each day as will be agreed by Borrower and Lender
+in a Confirmation, schedule to this Agreement or otherwise in writing, or, in the absence of any such agreement, 4:00pm ET (Eastern Time).
+
+ 
+
+25.9
+
+“
+Collateral
+” means, unless specified as not applicable in Schedule B, such property
+or transfers of currency as are referred to in the table set out in Schedule B as being acceptable or any combination thereof as agreed
+between the Parties in relation to any particular Loan and which are delivered by Borrower to Lender (or Lending Service Provider) in
+accordance with this Agreement. The types of property that are eligible as Collateral will be Cash in the Contractual Currency, or any
+other collateral including Digital Assets specified in the Confirmation. If Collateral is specified as not applicable in the Schedule,
+references in this Agreement to Collateral (including Equivalent Collateral, Cash Collateral) shall be ignored;
+
+ 
+
+25.10
+
+“
+Confirmation
+” has the meaning assigned in Section 2, and substantially in the form
+attached as Exhibit A hereto, or otherwise in a form provided by Lender.
+
+ 
+
+25.11
+
+“
+Contractual Currency
+” has the meaning assigned in Section 16.1. In the event that
+Lender is required to determine a Contractual Currency for a Loan and has not done so, the Contractual Currency will be USDC.
+
+ 
+
+25.12
+
+“
+Deadline
+” means, the time or times agreed to by the Parties in the relevant Confirmation,
+Schedule B hereto or otherwise in writing.
+
+ 
+
+25.13
+
+“
+Default
+” has the meaning assigned in Section 12.
+
+ 
+
+25.14
+
+“
+Defaulting Party
+” has the meaning assigned in Section 18.
+
+ 
+
+ 
+
+19
+
+ 
+
+ 
+
+ 
+
+ 
+
+25.15
+
+“
+Digital Asset(s)
+” means the type of blockchain-based digital assets that are Loaned
+Digital Assets, Collateral (if Collateral is in the form of blockchain-based digital assets), and any other blockchain-based digital assets
+agreed to by Borrower and Lender.
+
+ 
+
+25.16
+
+“
+Digital Asset Address
+” means an identifier of alphanumeric characters that represents
+a digital identity or destination for a transfer of Digital Assets.
+
+ 
+
+25.17
+
+“
+Digital Asset Settlement Block Confirmation Time
+” has the meaning assigned in the
+Confirmation or a schedule to this Agreement.
+
+ 
+
+25.18
+
+“
+Digital Asset Transaction Ledger
+” means the blockchain corresponding to a Digital
+Asset as determined in Lending Service Provider’s sole discretion. If a Digital Asset Settlement Block Confirmation Time is specified
+in the Confirmation or a schedule to this Agreement, and a transfer is to be recorded on the Digital Asset Transaction Ledger, such transfer
+will not be deemed recorded until such time has elapsed from the time such transfer was posted to the Digital Asset Transaction Ledger.
+
+ 
+
+25.19
+
+“
+Disruption Event
+” has the meaning assigned in Section 6.4.
+
+ 
+
+25.20
+
+“
+Distribution
+” means, with respect to any Digital Asset or Collateral, at any time,
+any distribution made on or in respect of such property, including, but not limited to: (a) Entitlements; and (b) cash arising from income
+payments made on or in respect of Collateral.
+
+ 
+
+25.21
+
+“
+Entitlement
+” means a Digital Asset that is issued as a result of (a) a Hard Fork,
+(b) an Air Drop, or (c) some other issuance of rights, services or interests based on the holding of a Digital Asset; provided, however,
+that to be recognized and accepted as such, the Digital Asset must be eligible to be held in an Account.
+
+ 
+
+25.22
+
+“
+Federal Funds Rate
+” means the rate of interest (expressed as an annual rate), as published
+in Federal Reserve Statistical Release H.15(519) or any publication substituted therefor, charged for federal funds (dollars in immediately
+available funds borrowed by banks on an overnight unsecured basis) on that day or, if that day is not a banking day in New York City,
+on the next preceding banking day.
+
+ 
+
+25.23
+
+“
+Hard Fork
+” means a material divergence in the relevant Digital Asset’s Digital
+Asset Transaction Ledger that occurs when nodes which have not been upgraded to a revised validation protocol, as determined in Lending
+Service Provider’s reasonable discretion.
+
+ 
+
+25.24
+
+“
+Insolvency Event
+” means, with respect to any Party, (a) the commencement by such Party
+as debtor of any case or proceeding under any bankruptcy, insolvency, reorganization, liquidation, moratorium, dissolution, delinquency
+or similar law, or such Party’s seeking the appointment or election of a receiver, conservator, trustee, custodian or similar official
+for such Party or any substantial part of its property, or the convening of any meeting of creditors for purposes of commencing any such
+case or proceeding or seeking such an appointment or election, (b) the making by such Party of a general assignment for the benefit of
+creditors, or (c) the admission in writing by such Party of such Party’s inability to pay such Party’s debts as they become
+due.
+
+ 
+
+ 
+
+20
+
+ 
+
+ 
+
+ 
+
+ 
+
+25.25
+
+“
+Late Fee Rate
+” has the meaning assigned in the Confirmation.
+
+ 
+
+25.26
+
+“
+Loan Fee
+” has the meaning assigned in Section 5.1.
+
+ 
+
+25.27
+
+“
+Loan Fee Rate
+” has the meaning assigned in the Confirmation.
+
+ 
+
+25.28
+
+“
+Lender
+” has the meaning assigned in the first paragraph of this Agreement.
+
+ 
+
+25.29
+
+“
+Lender’s Account(s)
+” means the Account(s) nominated by Lender in writing into
+which a transfer or payment can be made. An Account(s) will be a Lender’s Account(s) to the extent that digital assets, cash or
+other assets held on behalf of, or owned by, Lender in such Account(s) are segregated accordingly on Lending Service Provider’s
+books and records. Lender may notify the Borrower in writing of any other Digital Asset Transaction Ledger address(es), or account(s)
+maintained with Lending Service Provider that may be nominated as Lender Account(s).
+
+ 
+
+25.30
+
+“
+Lending Service Provider
+” means Coinbase, Inc.
+
+ 
+
+25.31
+
+“
+Loan
+” has the meaning assigned in Section 1.
+
+ 
+
+25.32
+
+“Loaned Assets”
+ means Digital Assets or Cash which are the subject of an outstanding
+Loan. Subject to Section 8, to the extent that income is received during a Loan, Loaned Asset(s) includes any Entitlement(s)
+
+ 
+
+25.33
+
+“
+Loaned Digital Asset(s)
+” means any Digital Asset(s) transferred in a Loan from Lender
+to Borrower hereunder until such Digital Asset(s), or identical Digital Asset(s), are transferred back to Lender hereunder, except that,
+if any new or different Digital Asset is exchanged for any Loaned Digital Asset by migration or otherwise pursuant to the relevant Digital
+Asset Transaction Ledger’s validation protocol rules applicable to all holders of such Digital Asset, and such a migration or other
+exchange is recognized by Lending Service Provider in its sole discretion, such new or different Digital Asset will, effective upon such
+exchange, be deemed to become a Loaned Digital Asset in substitution for the former Loaned Digital Asset for which such exchange is made.
+For purposes of return of Loaned Digital Assets by Borrower or purchase or sale of Digital Assets pursuant to Section 13, such term will
+include Digital Assets of identical validation protocol rules and quantity as the Loaned Digital Assets, as adjusted pursuant to the preceding
+sentence. Subject to Section 8 of this Agreement, to the extent that a Distribution occurs during a Loan, Loaned Digital Asset(s) includes
+any Entitlement(s).
+
+ 
+
+ 
+
+21
+
+ 
+
+ 
+
+ 
+
+ 
+
+25.34
+
+“
+Margin Deficit
+” has the meaning assigned in Section 9.2.
+
+ 
+
+25.35
+
+“
+Margin Excess
+” has the meaning assigned in Section 9.3.
+
+ 
+
+25.36
+
+“
+Margin Percentage
+” means, with respect to any Loan as of any date, a percentage agreed
+by Borrower and Lender, which will be not less 100% and as specified in Schedule B with reference to the table set out therein.
+
+ 
+
+25.37
+
+“
+Margin Transfer Deadline
+” means the time or times agreed to by the Parties in the
+relevant Confirmation, Schedule B hereto or otherwise as the deadline by which a transfer of Digital Assets, cash or other property must
+be made by Borrower or Lender to the other, upon receipt of a notice requiring satisfaction of mark-to-market obligations as provided
+in Sections 9.2 and 9.3 hereof.
+
+ 
+
+25.38
+
+“
+Market Value
+” has the meaning assigned in a schedule to this Agreement or otherwise
+agreed to by Borrower and Lender in writing. Notwithstanding the previous sentence, in the event that the meaning of Market Value has
+not been set forth in a schedule to this Agreement or in any other writing, as described in the previous sentence, Market Value means
+the value of a Digital Asset in fiat U.S. Dollars based on the price of the relevant Digital Asset established by executed transactions
+on a trading platform registered with and regulated by the New York Department of Financial Services as selected by Lending Service Provider.
+
+ 
+
+25.39
+
+“
+Minimum Transfer Amount
+” means the specified dollar amount or a specified percentage
+of the Market Value of the Loaned Digital Assets under such Loans assigned in a schedule to this Agreement or otherwise agreed to by Borrower
+and Lender in writing, provided, however, that if an Event of Default has occurred and is continuing with respect to a Party, the Minimum
+Transfer Amount for such Party will be zero. If the Parties have not specified a Minimum Transfer Amount in a schedule or other written
+agreement, the Minimum Transfer Amount will be zero dollars ($0.00).
+
+ 
+
+25.40
+
+“
+Replacement Collateral
+” has the meaning assigned in Section 13.2.
+
+ 
+
+25.41
+
+“
+Replacement Digital Asset(s)
+” has the meaning assigned in Section 13.1.
+
+ 
+
+25.42
+
+“
+Tax
+” has the meaning assigned in Section 8.5.
+
+ 
+
+25.43
+
+“
+UCC
+” means the New York Uniform Commercial Code.
+
+ 
+
+25.44
+
+“
+USDC
+” means 
+(a) the ERC-20 token USD Coin, a
+USD-backed cryptocurrency stablecoin operated by Lending Service Provider in affiliation with members of CENTRE Consortium, LLC (“
+CENTRE
+”),
+or (b) any successor digital asset, capable of redemption for corresponding value in fiat U.S. Dollars from a CENTRE member.
+
+ 
+
+[
+Signatures on the following page
+]
+
+ 
+
+ 
+
+22
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, 
+the parties hereto have
+executed this Agreement as of the date written herein.
+
+ 
+
+LENDER
+
+ 
+
+ 
+Coinbase Credit, Inc.
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+By:
+
+ 
+/s/ Matt Boyd
+
+ 
+ 
+
+ 
+Name:
+
+ 
+Matt Boyd
+
+ 
+ 
+
+ 
+Title:
+
+ 
+Head of Prime Finance
+
+ 
+ 
+
+ 
+
+Date: May 12, 2025
+
+ 
+
+BORROWER
+
+ 
+
+ 
+Thumzup Media Corporation
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+By:
+
+ 
+/s/ Isaac Dietrich
+
+ 
+ 
+
+ 
+Name:
+
+ 
+Isaac Dietrich
+
+ 
+ 
+
+ 
+Title:
+
+ 
+Chief Financial Officer
+
+ 
+ 
+
+ 
+
+Date: May 12, 2025
+
+ 
+
+LENDING SERVICE PROVIDER
+
+ 
+
+ 
+Coinbase, Inc.
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+By:
+
+ 
+/s/ Matt Boyd
+
+ 
+ 
+
+ 
+Name:
+
+ 
+Matt Boyd
+
+ 
+ 
+
+ 
+Title:
+
+ 
+Head of Prime Finance
+
+ 
+ 
+
+ 
+
+Date: May 12, 2025
+
+ 
+
+ 
+
+23
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exhibit A
+
+[FORM OF CONFIRMATION]
+
+Date: [Date]
+
+ 
+
+To: [Name and Email Address of Borrower]
+
+ 
+
+From: [Coinbase Credit, Inc.]
+
+ 
+
+Re: Digital Asset Loan
+
+ 
+
+Dear ___________:
+
+ 
+
+The purpose of this document is to confirm the terms
+and conditions of the Loan entered into between us (the “Loan”) under the Master Loan Agreement dated as of ___________ as
+amended and supplemented from time to time (the “Agreement”), between you and us. This document constitutes a “Confirmation”
+as referred to in the Agreement, and the terms provided by this Confirmation shall be deemed to be accepted and agreed as if executed
+by the Borrower unless disputed by Borrower within two (2) calendar days following its receipt from Lender. The terms of the particular
+Loan to which this Confirmation relates are as follows:
+
+ 
+
+ 
+
+ 
+
+Loaned Digital Asset or Cash
+:
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Loan Amount
+:
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Loan Fee Rate (where Loan Fee is applicable)
+:
+
+ 
+ 
+
+ 
+
+a rate between zero and [__]%, with the finalized percentage to be confirmed by Lender subsequently in writing.
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Late fees or other fees to be charged (if applicable)
+:
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Late Fee Rate
+: [__]%
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Loan Commencement Date
+:
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Digital Asset Settlement Block
+
+ 
+Co
+
+nfirmation
+Time (if applicable)
+:
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Additional Terms (if any)
+:
+
+ 
+
+Borrower’s Right to Receive Entitlements
+under Section 8.3: 
+Borrower will not have a right to receive Entitlements under Section 8.3 of the Agreement, until Borrower is notified
+that it has such a right explicitly in writing by Lender.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Schedule
+A
+
+ 
+
+Contact Details, Addresses of Lending Service Provider
+(Coinbase, Inc.) for Notices and Communications under the Agreement
+
+ 
+
+Coinbase Credit, Inc.
+
+ 
+
+E-mail: 
+lending@coinbase.com
+
+ 
+
+Attention: Matthew Boyd
+
+ 
+
+Additional contact details required for notices under
+Section 12:
+
+ 
+
+E-mail: 
+legal@coinbase.com
+
+ 
+
+Attention: Legal Department
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Schedule
+B
+
+ 
+
+Specification of 
+“Collateral” “Base
+Currency”, “Deadline,” “Margin Transfer Deadline,” “Margin Percentage,” “Minimum Transfer
+Amount,” 
+and procedures for determining Market Value.
+
+ 
+
+Collateral:
+ means: [not applicable] / [The
+property, and deposits of currency set out in the table below with a cross marked next to them are acceptable forms of Collateral under
+this Agreement:
+
+ 
+
+Unless otherwise agreed between the Parties, the Market
+Value of the Collateral delivered pursuant to Section 4 by Borrower to Lender (or Lending Service Provider) under the terms and conditions
+of this Agreement shall on each Calendar Day represent not less than the Market Value of the Loaned Assets together with the percentage
+contained in the row of the table below corresponding to the particular form of Collateral, referred to in this Agreement as the 
+
+Margin
+Percentage
+
+.
+
+ 
+
+ 
+
+ 
+Digital Asset/Deposit of Currency
+
+ 
+
+ 
+
+Mark “X” if acceptable
+
+ 
+form of Collateral
+
+ 
+
+ 
+Margin (%)
+
+ 
+
+ 
+Cash
+
+ 
+
+ 
+X
+
+ 
+
+ 
+[a percentage greater than 100%]
+
+ 
+
+ 
+[Digital Asset]
+
+ 
+
+ 
+X
+
+ 
+
+ 
+[a percentage greater than 100%]
+
+ 
+
+ 
+[Digital Asset]
+
+ 
+
+ 
+X
+
+ 
+
+ 
+[a percentage greater than 100%]
+
+ 
+
+ 
+
+The haircut applied to the particular form of Collateral
+(the 
+
+Collateral Haircut Value
+
+) shall be as set out in the table below.
+
+ 
+
+ 
+
+ 
+Digital Asset/Deposit of Currency
+
+ 
+
+ 
+
+Collateral Haircut Value
+
+ 
+
+ 
+
+ 
+Cash
+
+ 
+
+ 
+
+[  ]%
+
+ 
+
+ 
+
+ 
+[Digital Asset]
+
+ 
+
+ 
+
+[  ]%
+
+ 
+
+ 
+
+ 
+[Digital Asset]
+
+ 
+
+ 
+
+[  ]%
+
+ 
+
+ 
+
+ 
+
+Base Currency: 
+The Base Currency applicable
+to this Agreement is [Currency] provided that if that currency ceases to be freely convertible the Base Currency shall be [US Dollars]
+[Euro] [specify other currency].
+
+ 
+
+Deadline: 
+If the Party obliged to transfer
+is (a) the Borrower, the Deadline will be [Close of Business] on the Calendar Day from the time of such obligation arising under the Agreement,
+and (b) the Lender, the Deadline will be twenty four (24) hours from the time of such obligation arising under the Agreement.
+
+ 
+
+Margin Transfer Deadline: 
+If the Party receiving
+a notice under Sections 9.2 or 9.3 is the Borrower the Margin Transfer Deadline will be [twenty four (24)] hours from the time of receipt
+of a notice. If the Party receiving a notice under Sections 9.2 or 9.3 is the Lender the Margin Transfer Deadline will be twenty four
+(24) hours from the time of receipt of a notice.
+
+ 
+
+Minimum Transfer Amount:
+ means [USD [●]]
+/ [[●]% of the Market Value of the Loaned Assets] / [not applicable].
+
+Procedures for determining Market Value:
+
+ 
+
+“
+Market Value
+” means the value
+of a Digital Asset in cash based on the price of the relevant Digital Asset established by executed transactions on a trading platform
+registered with and regulated by the New York Department of Financial Services (the “
+DFS Regulated Exchange
+”) as selected
+by the Lending Service Provider in its sole and absolute discretion, or if the price cannot be established using this method or that the
+Lending Service Provider determines that the application of this method would cause a commercially unreasonable result, the price of the
+relevant Digital Asset will be established by reference to the following methods:
+
+ 
+
+a)
+
+If the relevant Digital Asset’s price is not adequately determined
+from the DFS Regulated Exchange, then the price of the relevant Digital Asset will be the arithmetic mean of the ask prices quoted in
+U.S. Dollars on trading platforms listing the relevant Digital Asset selected by the Lending Service Provider (the “
+Fair Market
+Exchange Price
+”). In determining the Fair Market Exchange Price, the Lending Service Provider will select a minimum of three
+(3) trading platforms, which are offering a U.S. Dollar trading pair for the relevant Digital Asset and reporting prices, by reference
+to the largest trading volumes over a trailing thirty (30) day period for the relevant Digital Asset, subject to any disqualifying criteria
+the Lending Service Provider reasonably determines to be applicable in good faith, including, but not limited to, a trading platform’s
+jurisdiction of operations, regulatory status, trading infrastructure, or market reputation.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+b)
+
+If the Fair Market Exchange Price is unavailable or the Lending Service
+Provider determines that its application would cause a commercially unreasonable result, then the price of the relevant Digital Asset
+will be the ask price quoted by traders in the over-the-counter market selected by the Lending Service Provider (the “
+Market
+Quotation Price
+”). In determining the Market Quotation Price, the Lending Service Provider will seek quotations from at least
+three (3) traders, and will request each trader to provide its quotation to the extent reasonably practicable as of the same day and time
+(without regard to different time zones). The day and time as of which those quotations are to be obtained will be selected in good faith
+by the Lending Service Provider. If more than three quotations are provided, the Market Quotation Price will be the arithmetic mean of
+the quotations, without regard to the quotations having the highest and lowest values. If exactly three such quotations are provided,
+the Market Quotation Price will be the quotation remaining after disregarding the highest and lowest quotations. For this purpose, if
+more than one quotation has the same highest value or lowest value, then one of such quotations will be disregarded. If fewer than three
+quotations are provided, the Market Quotation Price will be the quotation selected by the Lending Service Provider.
+
+ 
+
+c)
+
+If the relevant Digital Asset is or was available previously for trading on a DFS Regulated Exchange or
+other trading platform, as selected by the Lending Service Provider, then the price of the relevant Digital Asset will be the last sale
+price quoted for a transaction in the relevant Digital Asset on such DFS Regulated Exchange or trading platform (the “
+Last Quoted
+Exchange Price
+”).
+
+ 
+
+If the Last Quoted Exchange Price is unavailable or
+the Lending Service Provider determines that its application would cause a commercially unreasonable result, then the price of the relevant
+Digital Asset will be the price determined in good faith by the Lending Service Provider.

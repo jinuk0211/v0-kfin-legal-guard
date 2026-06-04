@@ -1,0 +1,479 @@
+EX-10.1
+
+2
+
+ex101commitmentincreaseagr.htm
+
+EX-10.1
+
+Document
+
+Execution Version
+
+COMMITMENT INCREASE AGREEMENT
+
+This COMMITMENT INCREASE AGREEMENT (“
+
+Agreement
+
+”) dated as of April 5, 2024 (“
+
+Effective Date
+
+”), is by and among Patterson-UTI Energy, Inc., a Delaware corporation (“
+
+Borrower
+
+”), Citibank, N.A. (the “
+
+New Lender
+
+”), HSBC Bank USA, National Association (the “
+
+Increasing Lender
+
+”), the L/C Issuers (as defined below) party hereto, and Wells Fargo Bank, N.A., as administrative agent (in such capacity, the “
+
+Administrative Agent
+
+”) for the Lenders (as defined below), as an L/C Issuer, and as the swing line lender under the Credit Agreement referred to below (in such capacity, the “
+
+Swing Line Lender
+
+”).
+
+RECITALS
+
+A.    Reference is hereby made to that certain Amended and Restated Credit Agreement, dated as of March 27, 2018, among the Borrower, the Administrative Agent, the issuers of letters of credit party thereto from time to time (the “
+
+L/C Issuers
+
+”), the Swing Line Lender and the financial institutions party thereto from time to time as lenders (the “
+
+Lenders
+
+”), as amended by that certain Amendment No. 1 to Amended and Restated Credit Agreement dated as of March 26, 2019, that certain Amendment No. 2 to Amended and Restated Credit Agreement dated as of March 27, 2020, that certain Amendment No. 3 to Amended and Restated Credit Agreement dated as of November 9, 2022, and that certain Amendment No. 4 to Amended and Restated Credit Agreement dated as of August 29, 2023 (as so amended and as may be further amended, modified or supplemented from time to time, the “
+
+Credit Agreement
+
+”).
+
+B.     Subject to the terms and conditions of 
+
+Section 2.14
+
+ of the Credit Agreement, the Borrower has the right to (i) request an increase in the Aggregate Commitments and (ii) invite, so as to achieve the requested increase in the Aggregate Commitments, one or more additional banks or other financial institutions to become a Lender under the Credit Agreement, subject to the approval of the Administrative Agent, the Swing Line Lender and the L/C Issuers.
+
+C.     Pursuant to such 
+
+Section 2.14(a)
+
+ of the Credit Agreement, the Borrower has given notice to the Administrative Agent of its request that the Aggregate Commitments be increased from $550,000,000 to $615,000,000 and the Administrative Agent has notified the Lenders of the same.
+
+D.     Pursuant to such 
+
+Section 2.14(b)
+
+ of the Credit Agreement, the Lenders (other than the Increasing Lender) have declined (or have been deemed to have declined) to provide an increase to the Aggregate Commitments.
+
+E.     The Increasing Lender has agreed to increase its Commitment and the New Lender has agreed to provide a Commitment, in each case, subject to the terms and conditions set forth herein.
+
+NOW THEREFORE, in consideration of the premises and the mutual covenants, representations and warranties contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+Section 1.    
+
+Defined Terms; Interpretation and Provisions.
+
+ As used in this Agreement, each of the terms defined in the opening paragraph and the Recitals above shall have the meanings assigned to such terms therein. Each term defined in the Credit Agreement, as amended hereby, and used herein without definition shall have the meaning assigned to such term in the Credit Agreement, as amended hereby, unless expressly provided to the contrary. Article, Section, Schedule, and Exhibit references are to Articles and Sections of and Schedules and Exhibits to this Agreement, unless otherwise specified. The words “hereof”, “herein”, and “hereunder” and words of similar import when used in this Agreement shall refer to this Agreement as a whole and not to any particular provision of this Agreement. The term “including” means “including, without limitation”. Paragraph headings have been inserted in this Agreement as a matter of convenience for reference only and it is agreed that such paragraph headings are not a part of this Agreement and shall not be used in the interpretation of any provision of this Agreement.
+
+Section 2.    
+
+Increase in Revolving Credit Commitments.
+
+(a)    Pursuant to
+
+ Section 2.14
+
+ of the Credit Agreement, effective as of the Commitment Increase Date (as defined below), (i) the Aggregate Commitments shall be increased from $550,000,000 to $615,000,000 (the “
+
+Aggregate Commitments Increase
+
+”), (ii) the Commitment of the New Lender shall be $50,000,000, (iii) the Maturity Date with respect to the New Lender’s Commitment shall be March 27, 2026, (iv) the Administrative Agent, the Swing Line Lender and the L/C Issuers hereby consent to and approve the Commitment of the New Lender, and (v) the Commitment of the Increasing Lender shall be increased to $50,000,000. This Agreement is the joinder agreement required under 
+
+Section 2.14(c)
+
+ of the Credit Agreement. The New Lender hereby agrees and acknowledges that its Commitment shall, automatically and without any further action, upon satisfaction of the conditions precedent set forth in 
+
+Section 2(b)
+
+, be effective on the Commitment Increase Date in the amount set forth next to its name under the caption “Commitment” on 
+
+Schedule 2.01
+
+ attached hereto. The Increasing Lender hereby agrees and acknowledges that its Commitment shall, automatically and without any further action, upon satisfaction of the conditions precedent set forth in 
+
+Section 2(b)
+
+ and effective on the Commitment Increase Date, be increased to the amount set forth next to its name under the caption “Commitment” on 
+
+Schedule 2.01
+
+ attached hereto.
+
+(b)    On the Commitment Increase Date, after giving effect to this 
+
+Section 2(a)
+
+, 
+
+Schedule 2.01
+
+ of the Credit Agreement (Commitments and Applicable Percentages) shall be replaced in its entirety with 
+
+Schedule 2.01
+
+ attached hereto.
+
+(c)    The Commitment of the New Lender pursuant to 
+
+Section 2(a)
+
+ and the increase in the Commitment of the Increasing Lender shall become effective and enforceable against the parties hereto and the other parties to the Credit Agreement upon the occurrence of the following conditions precedent (the date such conditions are satisfied, “
+
+Commitment Increase Date
+
+”):
+
+(1)    the receipt by the Administrative Agent of a certificate of the Borrower dated as of the Commitment Increase Date signed by a Responsible Officer of Borrower (i) certifying and attaching the resolutions adopted by the Borrower approving or consenting to this Agreement and the increase in the Revolving Credit Facility pursuant to 
+
+Section 2(a)
+
+ above, and (ii) certifying that, before and after giving effect to such increase, (A) the representations and warranties contained in Article V of the Credit Agreement and the other Loan Documents are true and correct on and as of the Commitment Increase Date, except to the extent that such representations and warranties specifically refer to an earlier date, in which case they are true and correct as of such earlier date, and except that for purposes of 
+
+Section 2.14
+
+ of the Credit Agreement, the representations and warranties contained in subsections (a) and (b) of 
+
+Section 5.05
+
+ of the Credit Agreement shall be deemed to refer to the most recent statements furnished pursuant to clauses (a) and (b), respectively, of 
+
+Section 6.01
+
+ of the Credit Agreement, and (B) no Default exists;
+
+(2)    the receipt by the Administrative Agent of an opinion of counsel to the Borrower as to the corporate authorization of the Borrower of the increase in the Revolving Credit Facility, which such opinion as to corporate authorization will be substantively in the form delivered on the Closing Date and otherwise in form and substance reasonably acceptable to the Administrative Agent;
+
+(3)    if requested by the New Lender, a Note in a maximum principal amount equal to the New Lender’s Commitment; and
+
+(4)    evidence that the Borrower shall have prepaid any Loans outstanding on the Commitment Increase Date (and have prepaid any additional amounts required pursuant to 
+
+Section 3.05
+
+ of the Credit Agreement) to the extent necessary to keep the outstanding Loans ratable with any revised Applicable Percentages arising from any non-ratable increase in the Commitments under 
+
+Section 2.14
+
+ of the Credit Agreement.
+
+Section 3.    
+
+Joinder of New Lender.
+
+ By its execution and delivery of this Agreement and subject to the terms hereof and the Credit Agreement, effective as of the Commitment Increase Date, the New Lender hereby assumes all of the rights and obligations of a “Lender” under the Credit Agreement and the other Loan Documents as detailed below. The New Lender hereby represents and warrants to the Borrower, the Administrative Agent, the Swing Line Lender and the L/C Issuers as follows: (a) it has full power and authority, and has taken all action necessary, to execute and deliver this Agreement, to consummate the transactions contemplated hereby and to become or to continue to be a Lender under the Credit Agreement, (b) from and after the Commitment Increase Date, it shall be bound by the provisions of the Credit Agreement and the other Loan Documents as a Lender thereunder and, to the extent of its Commitment, shall have the obligations of a Lender thereunder, and (c) it has received a copy of the Credit Agreement, together with copies of the most recent financial statements delivered pursuant to 
+
+Section 6.01
+
+ thereof, as applicable, and such other documents and information as it has deemed appropriate to make its own credit analysis and decision to enter into this Agreement on the basis of which it has made such analysis and decision independently and without reliance on the Administrative Agent, the Swing Line Lender, any L/C Issuer, or any other Lender; and agrees that (i) it will, independently and without reliance on the Administrative Agent, the Swing Line Lender, any L/C Issuer or any other Lender, and based on such documents and information as it shall deem appropriate at the time, continue to make its own credit decisions in taking or not taking action under the Loan Documents, and (ii) it will perform in accordance with their terms all of the obligations which by the terms of the Loan Documents are required to be performed by it as a Lender.
+
+Section 4.    
+
+Borrower Representations and Warranties.
+
+ The Borrower acknowledges, represents, warrants and agrees that: (a) after giving effect to this Agreement, the representations and warranties contained in the Credit Agreement, as amended hereby, and the representations and warranties contained in the other Loan Documents are true and correct in all material respects on and as of the Effective Date and on the date hereof as if made on as and as of such date except to the extent that any such representation or warranty expressly relates solely to an earlier date, in which case such representation or warranty is true and correct in all material respects as of such earlier date; (b) the execution, delivery and performance of this Agreement are within the corporate power and authority of the Borrower and have been duly authorized by appropriate corporate action and proceedings; (c) this Agreement constitutes the legal, valid, and binding obligation of the Borrower enforceable in accordance with its terms, except as limited by applicable bankruptcy, insolvency, reorganization, moratorium, or similar laws affecting the rights of creditors generally and general principles of equity, and no portion of the Obligations are subject to avoidance, subordination, recharacterization, recovery, attack, offset, counterclaim, or defense of any kind; (d) there are no governmental or other third party consents, licenses and approvals required to be made or obtained by it in connection with its execution, delivery, performance, validity and enforceability of this Agreement; (e) no Defaults or Events of Default shall have occurred and be continuing; and (f) since the date of the financial statements most recently delivered pursuant to 
+
+Section 6.01(a)
+
+ of the Credit Agreement, there has been no event or circumstance, either individually or in the aggregate, that has had or could reasonably be expected to have a Material Adverse Effect.
+
+Section 5.    
+
+Conditions to Effectiveness.
+
+ This Agreement shall become effective on the Effective Date and enforceable against the parties hereto upon the occurrence of the following conditions precedent:
+
+(a)    the receipt by the Administrative Agent of multiple original counterparts of this Agreement executed and delivered by duly authorized officers of the Borrower, the Administrative Agent, the L/C Issuers, the Swing Line Lender, the New Lender and the Increasing Lender; and
+
+(b)    evidence satisfactory to the Administrative Agent of the payment in full by the Borrower of all the fees and expenses required to be paid as of or on the Effective Date by 
+
+Section 10.04
+
+ of the Credit Agreement or any other provision of a Loan Document to the extent invoiced prior to the Effective Date.
+
+Section 6.    
+
+Acknowledgments and Agreements.
+
+(a)    The Borrower acknowledges that on the date hereof all outstanding Obligations are payable in accordance with their terms and the Borrower waives any defense, offset, counterclaim or recoupment with respect thereto. The Administrative Agent, each L/C Issuer, the Swing Line Lender, the New Lender and the Increasing Lender hereby expressly reserve all of their rights, remedies, and claims under the Loan Documents. Nothing in this Agreement shall constitute a waiver or relinquishment of (i) any Default or Event of Default under any of the Loan Documents, (ii) any of the agreements, terms or conditions contained in any of the Loan Documents, (iii) any rights or remedies of the Administrative Agent, each L/C Issuer, or any Lender with respect to the Loan Documents, or (iv) the rights of the 
+
+Administrative Agent, each L/C Issuer, the Swing Line Lender or any Lender to collect the full amounts owing to them under the Loan Documents.
+
+(b)    Each of the Borrower, the Administrative Agent, each L/C Issuer, Swing Line Lender, the New Lender and the Increasing Lender does hereby adopt, ratify, and confirm the Credit Agreement, as amended hereby, and acknowledges and agrees that the Credit Agreement, as amended hereby, is and remains in full force and effect, and the Borrower acknowledges and agrees that its liabilities and obligations under the Credit Agreement, as amended hereby, are not impaired in any respect by this Agreement.
+
+(c)    From and after the Effective Date, all references to the Credit Agreement and the Loan Documents shall mean the Credit Agreement and such Loan Documents as amended by this Agreement.
+
+(d)    This Agreement is a Loan Document for the purposes of the provisions of the other Loan Documents.
+
+Section 7. 
+
+Counterparts.
+
+ This Agreement may be signed in any number of counterparts, each of which shall be an original and all of which, taken together, constitute a single instrument. This Agreement may be executed by facsimile signature or other electronic imaging means, and all such signatures shall be effective as originals.
+
+Section 8. 
+
+Successors and Assigns.
+
+ This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns permitted pursuant to the Credit Agreement.
+
+Section 9. 
+
+Severability.
+
+ In case one or more provisions of this Agreement or the other Loan Documents shall be invalid, illegal or unenforceable in any respect under any applicable Legal Requirement, the validity, legality, and enforceability of the remaining provisions contained herein or therein shall not be affected or impaired thereby.
+
+Section 10. 
+
+Governing Law.
+
+ 
+
+This Agreement shall be governed by, and construed and enforced in accordance with, the laws of the State of New York; provided that, the Administrative Agent, each L/C Issuer, the Swing Line Lender and each Lender shall retain all rights arising under applicable federal law.
+
+Section 11. 
+
+ENTIRE AGREEMENT.
+
+ 
+
+THIS WRITTEN AGREEMENT AND THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES.
+
+THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES.
+
+[Signature pages follow.]
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed by their respective officers thereunto duly authorized effective as of the Effective Date.
+
+PATTERSON-UTI ENERGY, INC.,
+
+as Borrower
+
+By: 
+
+/s/ C. Andrew Smith 
+
+Name:    C. Andrew Smith
+
+Title:    Executive Vice President and Chief Financial Officer
+
+Signature page to Commitment Increase and Joinder Agreement
+
+(Patterson-UTI Energy, Inc.)
+
+WELLS FARGO BANK, N.A.,
+
+as the Administrative Agent, and L/C Issuer, and the Swing Line Lender
+
+By: 
+
+/s/ Kevin Pang 
+
+Name:    Kevin Pang
+
+Title:    Vice President
+
+Signature page to Commitment Increase and Joinder Agreement
+
+(Patterson-UTI Energy, Inc.)
+
+THE BANK OF NOVA SCOTIA, HOUSTON BRANCH,
+
+as a L/C Issuer
+
+By: 
+
+/s/ Joe Lattanzi 
+
+Name:    Joe Lattanzi
+
+Title:    Managing Director
+
+Signature page to Commitment Increase and Joinder Agreement
+
+(Patterson-UTI Energy, Inc.)
+
+U.S. BANK NATIONAL ASSOCIATION
+
+as a L/C Issuer
+
+By: 
+
+/s/ Luke Fernie 
+
+ 
+
+Name:    Luke Fernie
+
+Title:    Vice President
+
+Signature page to Commitment Increase and Joinder Agreement
+
+(Patterson-UTI Energy, Inc.)
+
+HSBC BANK USA, NATIONAL ASSOCIATION
+
+as Increasing Lender
+
+By: 
+
+/s/ Alberto Caudillo 
+
+Name:    Alberto Caudillo
+
+Title:    Senior Relationship Manager
+
+Signature page to Commitment Increase and Joinder Agreement
+
+(Patterson-UTI Energy, Inc.)
+
+CITIBANK, N.A.,
+
+as New Lender
+
+By: 
+
+/s/ Derrick Lenz 
+
+Name:    Derrick Lenz
+
+Title:    Vice President
+
+Signature page to Commitment Increase and Joinder Agreement
+
+(Patterson-UTI Energy, Inc.)
+
+SCHEDULE 2.01
+
+COMMITMENTS
+
+AND APPLICABLE PERCENTAGES
+
+Lender
+
+Commitment
+
+Applicable Percentage
+
+Maturity Date
+
+Wells Fargo Bank, National Association
+
+$98,333,333.34
+
+15.989159892%
+
+March 27, 2026
+
+The Bank of Nova Scotia, Houston Branch
+
+$98,333,333.33
+
+15.989159891%
+
+March 27, 2026
+
+U.S. Bank National Association
+
+$50,000,000.00
+
+8.130081301%
+
+March 27, 2026
+
+U.S. Bank National Association
+
+$48,333,333.33
+
+7.859078590%
+
+March 27, 2025
+
+Royal Bank of Canada
+
+$75,000,000.00
+
+12.195121951%
+
+March 27, 2026
+
+Citibank, N.A.
+
+$50,000,000.00
+
+8.130081301%
+
+March 27, 2026
+
+Goldman Sachs Bank USA
+
+$50,000,000.00
+
+8.130081301%
+
+March 27, 2026
+
+HSBC Bank USA,
+
+National Association
+
+$50,000,000.00
+
+8.130081301%
+
+March 27, 2026
+
+BOKF, NA dba Bank of Texas
+
+$35,000,000.00
+
+5.691056911%
+
+March 27, 2026
+
+Comerica Bank
+
+$35,000,000.00
+
+5.691056911%
+
+March 27, 2026
+
+Zions Bancorporation,
+
+N.A. dba Amegy Bank
+
+$25,000,000.00
+
+4.065040650%
+
+March 27, 2026
+
+Total
+
+$615,000,000.00
+
+100.000000000%
+
+---
+
+Schedule 2.01

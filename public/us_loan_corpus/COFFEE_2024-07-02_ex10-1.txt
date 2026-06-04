@@ -1,0 +1,1184 @@
+EX-10.1
+
+2
+
+ex10-1.htm
+
+ 
+
+ 
+
+Exhibit
+10.1
+
+ 
+
+TENTH
+LOAN MODIFICATION AGREEMENT
+
+ 
+
+THIS
+TENTH LOAN MODIFICATION AGREEMENT (this “
+Modification
+”) dated as of June 27, 2024, is by and among ORGANIC PRODUCTS
+TRADING COMPANY LLC, a Delaware limited liability company and COFFEE HOLDING CO., INC., a Nevada corporation (collectively, the “
+Borrowers
+”),
+the Guarantors identified on the signatures pages hereto and WEBSTER BANK, NATIONAL ASSOCIATION (the “
+Bank
+” or the
+“
+Lender
+”).
+
+ 
+
+W
+I T N E S S E T H:
+
+ 
+
+WHEREAS,
+the Borrowers, the Guarantors and the Bank entered into that certain Amended and Restated Loan and Security Agreement dated as of April
+25, 2017, as amended (collectively, the “
+Loan Agreement
+”), for the purposes and consideration therein expressed, pursuant
+to which the Bank became obligated to make Loans to the Borrowers as provided therein; and
+
+ 
+
+WHEREAS,
+the Borrowers have requested and the Bank has agreed to amend the Loan Agreement as provided herein.
+
+ 
+
+NOW,
+THEREFORE, in consideration of the premises and the mutual covenants and agreements contained herein and in the Loan Agreement, in consideration
+of the Loans which may hereafter be made by the Bank to the Borrowers, and for other good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, the parties hereto do hereby agree as follows:
+
+ 
+
+ARTICLE
+I
+
+Definitions
+
+ 
+
+Section
+1.1 
+Terms Defined in the Loan Agreement
+. Unless the context otherwise requires or unless otherwise expressly defined herein,
+the terms defined in the Loan Agreement shall have the same meanings whenever used in this Modification.
+
+ 
+
+ARTICLE
+II
+
+Modification
+to the Loan Agreement
+
+ 
+
+ Section
+2.1 
+Modification
+. As of the effective date of this Modification, the Loan Agreement is amended as follows:
+
+ 
+
+(a) 
+Annex
+1
+. Annex 1 to the Loan Agreement is amended by the addition, in alphabetical order, or the amendment and restatement, as applicable,
+of the following definitions to read in their entirety as follows:
+
+ 
+
+“
+Applicable
+Margin
+” means, for any day with respect to a Revolving Loan, 2.25% per annum.
+
+ 
+
+“
+Tenth
+Loan Modification Effective Date
+” means June 27,2024.
+
+ 
+
+(b) 
+Annex
+2; Section 8
+. Clauses (ii) and (iii) of Section 8 of Annex 2 to the Loan Agreement are amended and restated in their entirety to
+read as follows:
+
+ 
+
+(ii) Up
+to the lesser of (y) $2,500,000 as to Coffee Holding or (z) the sum of (1) up to fifty percent (50%) of the cost or market value, whichever
+is lower, of “green coffee” owned by Coffee Holding that qualifies as Eligible Inventory of Coffee Holding, 
+plus
+ (2)
+up to twenty-five percent (25%) of the cost or market value, whichever is lower, of all Eligible Finished Goods Inventory of Coffee Holdings,
+
+plus
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(iii) Up
+to the lesser of (y) $2,250,000 as to Organic Products or (z) the sum of (1) up to fifty percent (50%) of the cost or market value, whichever
+is lower, of “green coffee” owned by Organic Products that qualifies as Eligible Inventory of Organic Products, plus (2)
+up to twenty-five percent (25%) of the cost or market value, whichever is lower, of all Eligible Finished Goods Inventory of Organic
+Products, 
+minus
+
+ 
+
+(c) 
+Annex
+2; Section 10
+. Section 10 of Annex 2 to the Loan Agreement is amended and restated in its entirety to read as follows:
+
+ 
+
+10.
+ 
+Maturity Date
+. The Revolving Credit Facility shall mature and terminate on June 29,
+2025 (the “
+Maturity Date
+”). If the Maturity Date shall fall on a day which is not a Business Day, the due date for
+payment hereunder shall be extended to the next succeeding Business Day, and such extension of time shall be included in computing interest
+and fees in connection with such payment.
+
+ 
+
+(d) 
+Annex
+2; Section 11
+. Section 11 of Annex 2 to the Loan Agreement is amended and restated in its entirety to read as follows:
+
+ 
+
+11.
+ 
+Maximum Facility Amount
+:
+
+ 
+
+$10,000,000
+
+ 
+
+(e) 
+Annex
+2; Section 16.1
+. The definition of “Tangible Net Worth” in Section 16.1 of Annex 2 to the Loan Agreement is amended and
+restated in its entirety to read as follows:
+
+ 
+
+“
+Tangible
+Net Worth
+” shall mean (1) the Borrower’s net worth as reported on the Borrower’s financial statements, 
+plus
+
+(2) Indebtedness subordinated in favor of the Bank pursuant to a Subordination Agreement, 
+minus
+ (3) the total loans or advances
+to its officers and affiliated companies, 
+minus
+ (4) goodwill, licenses, patents, copyrights, trademarks, trade names, unamortized
+debt discount and expense, or organizational expenses and other like intangible assets and other items that would be characterized as
+intangible assets in accordance with GAAP.
+
+ 
+
+(f) 
+Annex
+2; Section 16.2
+. Section 16.2 of Annex 2 to the Loan Agreement is amended and restated in its entirety to read as follows:
+
+ 
+
+16.2 
+Covenants
+.
+The following covenants shall apply to this Revolving Credit Facility:
+
+ 
+
+(a) 
+Tangible
+Net Worth
+. As of the Tenth Loan Modification Effective Date, and at all times thereafter, the Borrower shall have a Tangible Net
+Worth of not less than $21,200,000.
+
+ 
+
+(b) 
+Net
+Loss
+. The Borrower shall not experience a net loss as of any fiscal year end as reflected in the Borrower’s year-end financial
+statements delivered by the Borrower to the Bank in the form required by Section 15.1(a) of Annex 2.
+
+ 
+
+ 
+
+Page 
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARTICLE
+III
+
+Conditions
+of Effectiveness
+
+ 
+
+Section
+3.1 
+Effective Time
+. This Modification shall become effective as of the date first above written once the following conditions
+precedent have been satisfied in full (the “
+Effective Date
+”):
+
+ 
+
+(a) Bank
+shall have received, at Bank’s office, a duly executed counterpart of this Modification from each Borrower and Guarantor.
+
+ 
+
+(b) Bank
+shall have received a certificate of an officer of each Borrower and each Guarantor certifying that (i) the resolutions of such Person
+delivered to the Lender on June 22, 2022 have not been modified, rescinded or amended, are in full force and effect on the date of this
+Modification, are the only resolutions relating to the documents and transactions described therein and authorize the execution and delivery
+by such Person of this Modification, (ii) the certificate of incorporation, certificate of formation, by-laws or limited liability company
+agreement, as applicable, of such Person which were certified and delivered to Lender on April 25, 2017 are true and correct copies of
+such documents, and such documents continue in full force and effect and have not been amended or otherwise modified except as set forth
+in the certificates to be delivered, and (iii) the officers of such Person who have been certified to Lender on April 25, 2017 as being
+authorized to sign and to act on behalf of such Person continue to be so authorized or setting forth the sample signatures of each of
+the officers of such Person authorized to execute and deliver this Modification and all other documents, agreements and certificates
+on behalf of such Person.
+
+ 
+
+(c) Borrowers
+shall have paid and Lender shall have received the Amendment Fee (as defined below).
+
+ 
+
+(d) Bank
+shall have received any and all other documents, instruments, writings, agreements, and information as Agent may reasonably request and
+which have been identified to Agent at least three (3) Business Days prior to the date hereof.
+
+ 
+
+(e) No
+Default or Event of Default shall have occurred and be continuing.
+
+ 
+
+ Section
+3.2 
+Amendment Fee
+. In consideration of the Lender’s agreement to enter into this Modification, Borrowers shall pay to
+Lender a non-refundable amendment fee in an amount equal to $5,500 (the “
+Amendment Fee
+”). The Amendment Fee shall
+be fully earned as of the Effective Date of this Modification, and shall be due and payable in full on the Effective Date of this Modification.
+Lender may obtain this amendment fee by charging such amount as a Revolving Loan under the Loan Agreement.
+
+ 
+
+ARTICLE
+IV
+
+Representations
+and Warranties
+
+ 
+
+Section
+4.1 
+Representations and Warranties of Borrower and Guarantor
+. In order to induce Bank to enter into this Modification, Borrowers
+and Guarantors hereby represent and warrant to Bank that:
+
+ 
+
+(f) The
+representations and warranties contained in the Loan Agreement are true and correct in all material respects at and as of the Effective
+Date; 
+provided
+, 
+however
+, those representations and warranties containing a reference to a particular date shall continue
+to be qualified by reference to such date;
+
+ 
+
+ 
+
+Page 
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+(g) The
+Borrowers and Guarantors are duly authorized to execute and deliver this Modification and are duly authorized to borrow and perform their
+obligations under the Loan Agreement and the other Loan Documents. The Borrowers and Guarantors have duly taken all corporate action
+necessary to authorize the execution and delivery of this Modification and to authorize the performance of the obligations of Borrowers
+and Guarantors hereunder;
+
+ 
+
+(h) The
+execution and delivery by the Borrowers and Guarantors of this Modification, the performance by the Borrowers and Guarantors of their
+obligations hereunder and thereunder and the consummation of the transactions contemplated hereby and thereby do not and will not conflict
+with, violate or constitute a breach or default under (i) any provision of applicable law applicable to it or any of its Subsidiaries,
+(ii) its organizational documents, (iii) any agreement or instrument to which it is a party or which is otherwise binding upon it, or
+(iv) any material judgment, license, order or permit applicable to or binding upon it;
+
+ 
+
+(i) Except
+for those which have been duly obtained, no consent, approval, exemption, authorization or other action by, notice to, or filing with
+any governmental authority or third party is required in connection with the execution and delivery by the Borrowers and Guarantors of
+this Modification or to consummate the transactions contemplated hereby;
+
+ 
+
+(j) When
+duly executed and delivered, this Modification will constitute the legal, valid and binding obligation of the Borrowers and Guarantors,
+enforceable in accordance with its terms, except as limited by bankruptcy, insolvency, reorganization, moratorium or similar laws relating
+to enforcement of creditors’ rights; and
+
+ 
+
+(k) No
+Default or Event of Default exists under the Loan Agreement or any of the other Loan Documents.
+
+ 
+
+ARTICLE
+V
+
+Miscellaneous
+
+ 
+
+Section
+5.1 
+Ratification of Agreement
+.
+
+ 
+
+(a) The
+Loan Agreement as hereby amended is hereby ratified and confirmed in all respects. Any reference to the Loan Agreement in any Loan Document
+shall be deemed to refer to the Loan Agreement, as amended by this Modification. The execution, delivery and effectiveness of this Modification
+shall not operate as a waiver of any Default or Event of Default, or of any right, power or remedy of Bank under the Loan Agreement or
+any other Loan Document nor constitute a waiver of any provision of the Loan Agreement or any other Loan Document.
+
+ 
+
+(b) By
+signing in the space provided below, each Guarantor hereby ratifies in all respects such Guarantor’s separate Guaranty Agreement
+and confirms such Guaranty Agreement remains in full force and effect.
+
+ 
+
+Section
+5.2 
+Survival of Agreements
+. All representations, warranties, covenants and agreements of the Borrowers and Guarantors herein
+shall survive the execution and delivery of this Modification and the performance hereof, and shall further survive until all of the
+Obligations are paid in full. All statements and agreements contained in any certificate or instrument delivered by the Borrowers and
+Guarantors hereunder or under the Loan Agreement or the Guaranty to Bank shall be deemed to constitute representations and warranties
+by, or agreements and covenants of, the Borrowers and Guarantors under this Modification and under the Loan Agreement and Guaranty.
+
+ 
+
+ 
+
+Page 
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section
+5.3 
+Loan Document
+. This Modification is a Loan Document, and all provisions in the Loan Agreement pertaining to Loan Documents
+apply hereto.
+
+ 
+
+Section
+5.4 
+Governing Law
+. THIS MODIFICATION HAS BEEN EXECUTED OR COMPLETED AND/OR IS TO BE PERFORMED IN NEW YORK, AND IT AND ALL TRANSACTIONS
+HEREUNDER OR PURSUANT HERETO SHALL BE GOVERNED AS TO INTERPRETATION, VALIDITY, EFFECT, RIGHTS, DUTIES AND REMEDIES OF THE PARTIES HEREUNDER
+AND IN ALL RESPECTS BY THE LAWS OF NEW YORK, WITHOUT GIVING EFFECT TO THE CONFLICTS OF LAWS PRINCIPLES THEREOF, BUT INCLUDING SECTIONS
+5-1401 AND 5-1402 OF THE GENERAL OBLIGATIONS LAW.
+
+ 
+
+Section
+5.5 
+Counterparts; Fax
+. This Modification may be executed in any number of counterparts and signature pages may be detached
+from multiple separate counterparts and attached to the same document. A telecopy or other electronic transmission of any such executed
+counterpart signature page shall be deemed valid as an original.
+
+ 
+
+Section
+5.6 
+References
+. All references in the Loan Agreement to “this Agreement” shall be deemed to refer to the Loan Agreement
+as amended hereby; and any and all references in the Loan Documents to the Loan Agreement shall be deemed to refer to the Loan Agreement
+as amended hereby.
+
+ 
+
+Section
+5.7 
+Costs and Expenses
+. Borrowers hereby reaffirm their agreement under the Loan Agreement to pay or reimburse Bank on demand
+for all reasonable costs and expenses incurred by Bank in connection with the Loan Documents, including without limitation all reasonable
+fees and disbursements of legal counsel. Without limiting the generality of the foregoing, Borrowers specifically agree to pay all reasonable
+fees and disbursements of counsel to Bank for the services performed by such counsel in connection with the preparation of this Modification
+and the documents and instruments incidental hereto. Borrowers hereby agree that Bank may, at any time or from time to time in its sole
+discretion and without further authorization by Borrowers, make a loan to Borrowers under the Loan Agreement, or apply the proceeds of
+any loan, for the purpose of paying any such fees, disbursements, costs and expenses.
+
+ 
+
+THIS
+MODIFICATION AND THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF
+PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES.
+
+ 
+
+THERE
+ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE PARTIES.
+
+ 
+
+[The
+Remainder of this Page is Intentionally Left Blank]
+
+ 
+
+ 
+
+Page 
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, this Modification is executed as of the date first above written.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BORROWERS
+:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ORGANIC
+ PRODUCTS TRADING COMPANY LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+/s/Andrew
+ Gordon
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Andrew
+ Gordon
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Manager
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COFFEE
+ HOLDING CO., INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+/s/Andrew
+ Gordon
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Andrew
+ Gordon
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+President
+ and CEO
+
+ 
+
+ 
+
+[Signature Page to Tenth Loan Modification Agreement (Coffee)]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BANK/LENDER
+:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WEBSTER BANK, NATIONAL ASSOCIATION
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+/s/Jason
+ Rosenberg
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Jason
+ Rosenberg
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Director
+
+ 
+
+ 
+
+ 
+
+[Signature Page to Tenth Loan Modification Agreement (Coffee)]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Agreed
+ and acknowledged:
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+SONOFRESCO,
+ LLC, Guarantor
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+/s/Andrew
+ Gordon
+
+ 
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Andrew
+ Gordon
+
+ 
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Manager 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+COMFORT
+ FOODS, INC., Guarantor
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+/s/Andrew
+ Gordon
+
+ 
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Andrew
+ Gordon
+
+ 
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Manager 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+GENERATIONS
+ COFFEE COMPANY, LLC, Guarantor
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+/s/Andrew
+ Gordon
+
+ 
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Andrew
+ Gordon
+
+ 
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Manager 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Validity Guarantors:
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+/s/ Andrew Gordon 
+
+ 
+ 
+
+ 
+
+ 
+
+Andrew
+ Gordon
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+/s/ David Gordon 
+
+ 
+ 
+
+ 
+
+ 
+
+David
+ Gordon
+
+ 
+ 
+
+ 
+
+ 
+
+[Signature Page to Tenth Loan Modification Agreement (Coffee)]

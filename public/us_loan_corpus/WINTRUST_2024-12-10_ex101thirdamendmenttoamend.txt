@@ -1,0 +1,536 @@
+EX-10.1
+
+2
+
+ex101thirdamendmenttoamend.htm
+
+EX-10.1 THIRD AMENDMENT TO CREDIT AGREEMENT
+
+Document
+
+EXHIBIT 10.1
+EXECUTION VERSION
+
+Third Amendment to Amended and Restated Credit Agreement and 
+First Amendment to Amended and Restated Pledge and Security Agreement
+
+RECITALS:
+
+Borrower, Lenders and Wells Fargo Bank, National Association, as the resigning administrative agent ("
+
+Wells Fargo
+
+" or the "
+
+Resigning Administrative Agent
+
+") have previously entered into that certain Amended and Restated Credit Agreement dated as of December 12, 2022 (as amended by that certain First Amendment to Amended and Restated Credit Agreement dated as of July 17, 2023 and the Second Amendment to Amended and Restated Credit Agreement dated as of December 11, 2023, and as further amended, restated, amended and restated, supplemented or otherwise modified from time to time, the "
+
+Credit Agreement
+
+").
+
+Borrower and Resigning Administrative Agent have previously entered into that certain Amended and Restated Pledge and Security Agreement dated as of December 12, 2022 (as further amended, restated, amended and restated, supplemented or otherwise modified from time to time, the "
+
+Pledge Agreement
+
+").
+
+Borrower, the Resigning Administrative Agent, U.S. Bank and the other Lenders now desire to (a) have Resigning Administrative Agent resign as "Administrative Agent" (as such term is defined prior to giving effect to this Amendment), (b) appoint U.S. Bank as the Successor Agent (as hereinafter defined) under the Credit Agreement, the Pledge Agreement and the other Loan Documents, (c) have the Resigning Administrative Agent assign to U.S. Bank as the Successor Agent all of the Liens and other security interests presently held by the Resigning Administrative Agent that secure the Obligations (clauses (a) through (c), collectively, the "
+
+Resignation, Appointment and Assignment Actions
+
+") and (d) remove Wells Fargo as a Revolving Credit Lender under the Credit Agreement and reallocate all existing Revolving Credit Exposure among the remaining Revolving Credit Lenders.
+
+Borrower has further requested that the Revolving Credit Maturity Date be extended from December 9, 2024 to December 5, 2025, and that the Lenders and the Administrative Agent agree to certain other amendments to the Credit Agreement, and the Lenders and the Administrative Agent have agreed, subject to the terms and conditions of this Amendment, to extend the Revolving Credit Maturity Date and to such other amendments as provided in this Amendment, to take the Resignation, Appointment and Assignment Actions and to remove Wells Fargo as a Revolving Credit Lender and reallocate all existing Revolving Credit Exposure among the remaining Revolving Credit Lenders.
+
+The parties hereto intend that this Amendment and the documents executed in connection herewith not effect a novation of the obligations of the Borrower under the Credit Agreement, the Pledge Agreement or any other Loan Document, but merely an amendment to the terms governing such obligations.
+
+AGREEMENT:
+
+NOW, THEREFORE, in consideration of the premises and mutual covenants herein contained, the parties hereto agree as follows:
+
+ARTICLE I
+
+Definitions
+
+1.1    
+
+Definitions
+
+. Capitalized terms not otherwise defined herein have the meanings ascribed to such terms in the Credit Agreement.
+
+1.2    
+
+Other Definitional Provisions
+
+. The words "hereby", "herein", "hereinafter", "hereof", "hereto" and "hereunder" when used in this Amendment shall refer to this Amendment as a whole and not to any particular Article, Section, subsection or provision of this Amendment. Section, subsection and Schedule references herein are to such Sections, subsections and Schedules to this Amendment unless otherwise specified. All titles or headings to Articles, Sections, subsections or other divisions of this Amendment or the schedules hereto, if any, are only for the convenience of the parties and shall not be construed to have any effect or meaning with respect to the other content of such Articles, Sections, subsections, other divisions or schedules, such other content being controlling as the agreement among the parties hereto. Whenever the context requires, reference herein made to the single number shall be understood to include the plural; and likewise, the plural shall be understood to include the singular. Words denoting gender shall be construed to include the masculine, feminine and neuter, when such construction is appropriate; and specific enumeration shall not exclude the general but shall be construed as cumulative. Definitions of terms defined in the singular or plural shall be equally applicable to the plural or singular, as the case may be, unless otherwise indicated.
+
+1.3    
+
+Incorporation by Reference
+
+. The Recitals to this Amendment are incorporated herein by reference and made a part hereof for all purposes as though set forth in this Amendment verbatim.
+
+ARTICLE II
+
+Amendments
+
+2.1    
+
+Global Amendment to the Credit Agreement and the Pledge Agreement
+
+. The references to "Wells Fargo Bank, National Association" or "Wells Fargo", as applicable, contained on the cover page of the Credit Agreement, the introductory paragraph of the Credit Agreement, Section 10.1(a) of the Credit Agreement, in each of the Exhibits to the Credit Agreement, and in the introductory paragraph of the Pledge Agreement are hereby deleted and "U.S. Bank National Association" or "U.S. Bank", as applicable, are substituted in lieu thereof. For the avoidance of doubt, nothing contained within this Section 2.1 shall apply to any references to "Wells Fargo Bank, National Association" or "Wells Fargo" as a Lender or Term Loan Lender under the Credit Facility.
+
+2.2    
+
+Section 1.1 of the Credit Agreement
+
+. The defined terms "Administrative Agent", "Fee Letter" and "Revolving Credit Maturity Date" as set forth in Section 1.1 of the Credit Agreement are hereby amended and restated in their respective entirety to read as set forth below:
+
+"
+
+Administrative Agent
+
+" means U.S. Bank, in its capacity as Administrative Agent hereunder, and any successor thereto appointed pursuant to 
+
+Section 10.6
+
+.
+
+"
+
+Fee Letter
+
+" means the fee letter agreement dated December 6, 2024 between the Borrower and U.S. Bank.
+
+"
+
+Revolving Credit Maturity Date
+
+" means the earliest to occur of (a) December 5, 2025, (b) the date of termination of the entire Revolving Credit Commitment by the Borrower pursuant to 
+
+Section 2.5
+
+, and (c) the date of termination of the Revolving Credit Commitment pursuant to 
+
+Section 9.2(a)
+
+.
+
+2
+
+2.3    
+
+Section 1.1 of the Credit Agreement
+
+. Section 1.1 of the Credit Agreement is hereby amended to add a new defined term in its proper alphabetical order to read as set forth below:
+
+"
+
+U.S. Bank
+
+" means U.S. Bank National Association.
+
+2.4    
+
+Section 6.13 of the Credit Agreement
+
+. The references to the "Closing Date" contained in Section 6.13 of the Credit Agreement are hereby deleted and "December 6, 2024" substituted in lieu thereof.
+
+2.5    
+
+Section 11.1 of the Credit Agreement
+
+. Section 11.1(a) of the Credit Agreement is hereby amended and restated in its entirety to read as set forth below:
+
+(a)    
+
+Notices Generally
+
+. Except in the case of notices and other communications expressly permitted to be given by telephone (and except as provided in paragraph (b) below), all notices and other communications provided for herein shall be in writing and shall be delivered by hand or overnight courier service, mailed by certified or registered mail or sent by facsimile as follows:
+
+If to the Borrower:
+
+Wintrust Financial Corporation
+9700 W. Higgins Road, Suite 800
+Rosemont, Illinois 60018
+Attention:  Kathleen M. Boege, General Counsel
+Telephone: (847) 939-9008
+FAX: (844) 831-8522
+Email: kboege@wintrust.com
+website:  www.wintrust.com If to U.S. Bank, as Administrative Agent:
+
+Administrative Agent's Office
+
+U.S. Bank National Association
+800 Nicollet Mall
+Minneapolis, MN 55402
+Attention: NSLCS, Deal Admin
+Telephone: 866-319-2464
+Email: agencyserviceslcmshared@usbank.com If to any Lender:
+
+To the address of such Lender set forth on the Register with respect to deliveries of notices and other documentation that may contain material non-public information.
+
+Notices sent by hand or overnight courier service, or mailed by certified or registered mail, shall be deemed to have been given when received; notices sent by facsimile shall be deemed to have been given when sent (except that, if not given during normal business hours for the recipient, shall be deemed to have been given at the opening of business on the next Business Day for the recipient). Notices delivered through electronic communications to the extent provided in paragraph (b) below, shall be effective as provided in said paragraph (b).
+
+3
+
+2.6    
+
+Schedule 1.1 (Commitments and Commitment Percentages) of the Credit Agreement
+
+. Schedule 1.1 of the Credit Agreement is hereby amended and restated in its entirety to read as set forth on the attached Schedule 1.1.
+
+2.7    
+
+Schedule 6.13 (UCC Financing Statements, Subsidiaries and Other Equity Investments; Borrower) of the Credit Agreement
+
+. Schedule 6.13 of the Credit Agreement is hereby amended and restated in its entirety to read as set forth on the attached Schedule 6.13.
+
+2.8    
+
+Exhibit B (Notice of Borrowing), Exhibit C (Form of Notice of Account Designation), Exhibit D (Notice of Prepayment) and Exhibit E (Notice of Conversion/Continuation) of the Credit Agreement
+
+. The notice address of the Administrative Agent set forth in each of Exhibit B, Exhibit C, Exhibit D and Exhibit E of the Credit Agreement is hereby amended and restated in its entirety to read as set forth below:
+
+U.S. Bank National Association,
+        as Administrative Agent
+        800 Nicollet Mall
+        Minneapolis, MN 55402
+        Attention: NSLCS, Deal Admin
+        Telephone: 866-319-2464
+        Email: agencyserviceslcmshared@usbank.com
+
+2.9    
+
+Exhibit A to the Pledge Agreement
+
+. Exhibit A to the Pledge Agreement is hereby amended and restated in its entirety to read as set forth on the attached Exhibit A.
+
+ARTICLE III
+
+Conditions Precedent; Effectiveness
+
+3.1    
+
+Conditions
+
+. This Amendment shall be effective as of the date in which the following conditions precedent are satisfied (such date, the "
+
+Third Amendment Effective Date
+
+"):
+
+(a)    
+
+Documents
+
+. The Administrative Agent shall have received (i) this Amendment executed by the Borrower and each Lender and (ii) that certain Fee Letter dated as of the date hereof between the Administrative Agent and the Borrower (the "
+
+Third Amendment Fee Letter
+
+") executed by the Borrower and U.S. Bank.
+
+(b)    
+
+Fees
+
+. The Administrative Agent shall have received payment of (i) the fees required to be paid pursuant to the Third Amendment Fee Letter and (ii) the Administrative Agent's reasonable, documented and out-of-pocket expenses (including reasonable out-of-pocket fees and expenses of counsel for the Administrative Agent) in connection with this Amendment.
+
+(c)    
+
+Certificate of Secretary of the Borrower
+
+. The Administrative Agent shall have received a certificate of a Responsible Officer of the Borrower certifying as to the incumbency and genuineness of the signature of each officer of the Borrower executing Loan Documents to which it is a party and certifying that attached thereto is a true, correct and complete copy of (i) the articles or certificate of incorporation or formation (or equivalent), as applicable, of the Borrower and all amendments thereto, certified as of a recent date by the appropriate Governmental Authority in its jurisdiction of incorporation, organization or formation (or equivalent), as applicable, (ii) the bylaws or governing documents of the Borrower as in effect on 
+
+4
+
+the Third Amendment Effective Date, (iii) resolutions duly adopted by the board of directors (or other governing body) of the Borrower authorizing and approving the transactions contemplated hereunder and the execution, delivery and performance of this Amendment and the other Loan Documents to which it is a party or a certification that the resolutions provided to the Administrative Agent on December 12, 2022 remain true and correct, authorize the execution, delivery and performance of this Amendment and the transactions contemplated thereby, and that such resolutions have not been amended, modified or rescinded and are in full force and effect on the date hereof, and (iv) a certificate as of a recent date of the good standing of the Borrower in Illinois.
+
+(d)    
+
+Opinions of Counsel
+
+. The Administrative Agent shall have received a favorable opinion of Sidley Austin LLP, counsel to the Borrower, addressed to the Administrative Agent and each Lender, as to customary matters concerning the Borrower and the Loan Documents as the Administrative Agent may reasonably request.
+
+(e)    
+
+Lien Search
+
+. The Administrative Agent shall have received the results of a Lien search, in form and substance reasonably satisfactory thereto, made against the Borrower under the Uniform Commercial Code (or applicable judicial docket) as in effect in each jurisdiction in which filings or recordations under the Uniform Commercial Code should be made to evidence or perfect security interests in all assets of the Borrower, indicating among other things that the assets of each the Borrower are not subject to any Liens (except for Liens permitted under the Credit Agreement).
+
+(f)    
+
+Personal Property Collateral
+
+.
+
+(i)    
+
+Filings and Recordings
+
+. To the extent not previously received, subject to the limitations and qualifications in the Collateral Documents, the Administrative Agent shall have received copies of proper UCC-1 financing statements and UCC-3 financing statement amendments, filed or duly prepared for filing under the Uniform Commercial Code in all United States jurisdictions that the Administrative Agent may deem reasonably necessary in order to perfect and protect the Liens in the Collateral described in the Collateral Documents.
+
+(ii)    
+
+Pledged Collateral
+
+. The Administrative Agent shall have received (a) from the Resigning Administrative Agent, all certificates evidencing the issued and outstanding capital stock of the Pledged Subsidiaries (as such term is defined in the Pledge Agreement immediately prior to the effectiveness of this Amendment) and (b) from the Borrower, the certificate evidencing the issued and outstanding capital stock of Macatawa Bank, N.A. and undated stock powers executed in blank accompanying each of the certificates described in this paragraph (ii).
+
+(g)    
+
+KYC and Beneficial Ownership
+
+. Upon the reasonable request of any Lender, (i) the Borrower shall have provided to such Lender the documentation and other information so requested in connection with applicable "know your customer" and anti-money-laundering Laws, including the PATRIOT Act and (ii) if the Borrower qualifies as a "legal entity customer" under the Beneficial Ownership Regulation, the Borrower shall have delivered a Beneficial Ownership Certification in relation to the Borrower.
+
+5
+
+ARTICLE IV
+
+Ratification
+
+4.1    
+
+Ratification
+
+. The terms and provisions set forth in this Amendment shall modify and supersede all inconsistent terms and provisions set forth in the Credit Agreement and the Pledge Agreement, as applicable, and except as expressly modified and superseded by this Amendment, the terms and provisions of the Credit Agreement, the Pledge Agreement and the other Loan Documents, including any Liens and security interests securing any Obligations granted in connection therewith, are ratified and confirmed and shall continue in full force and effect. The Borrower agrees that the Credit Agreement and the Pledge Agreement, each as amended hereby, and the other Loan Documents to which it is a party or subject shall continue to be legal, valid, binding and enforceable in accordance with their respective terms.
+
+ARTICLE V
+
+Representations and Warranties
+
+5.1    
+
+Loan Documents
+
+. The Borrower represents and warrants to each Lender and Administrative Agent that as of the date hereof and as of the Third Amendment Effective Date that (a) the execution, delivery and performance of this Amendment and any and all other Loan Documents executed and/or delivered in connection herewith have been authorized by all requisite action on the part of Borrower and will not (i) violate any organizational or governance document of Borrower or (ii) violate any applicable law in any material respect, (b) the representations and warranties contained in the Credit Agreement, as amended hereby, and each other Loan Document are true and correct in all material respects on and as of the date hereof as though made on and as of the date hereof (except to the extent such representation or warranty is already qualified as to materiality, Material Adverse Effect, or similar language, in which case it shall be true and correct in all respects), except to the extent such representations and warranties expressly relate to an earlier date (in which case such representations and warranties shall be shall be true and correct in all material respects (except to the extent such representations and warranties are already qualified as to materiality, Material Adverse Effect, or similar language, in which case they shall be true and correct in all respects) as of such earlier date), and (c) no Default or Event of Default shall exist immediately before or immediately after giving effect to this Amendment.
+
+ARTICLE VI
+
+Resignation, Appointment and Assignment Actions
+
+6.1    
+
+Assignment of Liens and Security Interests
+
+. Subject to the terms and conditions herein, upon the Third Amendment Effective Date the Resigning Administrative Agent, in its capacity as Administrative Agent, hereby irrevocably assigns to U.S. Bank its role as Administrative Agent under the Loan Documents, and U.S. Bank hereby irrevocably accepts and assumes, in each case, AS-IS, WITH ALL FAULTS AND WITHOUT RECOURSE, REPRESENTATION OR WARRANTY, EITHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, all of the Resigning Administrative Agent's right, title and interest as the Administrative Agent for the benefit of the Secured Parties (if any, and other than any indemnity, exculpatory rights, cost reimbursements and other provisions in favor of the Resigning Administrative Agent or any Secured Party to the extent such indemnity, exculpatory rights, costs reimbursements and other provisions would otherwise survive or continue to apply to any Lender, 
+
+6
+
+Secured Party, other indemnitee or other Person pursuant to the terms of the Credit Agreement and/or any other Loan Document following the effectiveness of such assignment and assumption) in and to the Credit Agreement, the Pledge Agreement, those certain UCC Financing Statements filed with the Illinois Secretary of State as file numbers 019892166 and 023767171 with Wintrust Financial Corporation, as debtor, and each other Collateral Document (including all liens and security interests thereunder), in each case securing the Obligations.
+
+6.2    
+
+Resignation of Resigning Administrative Agent
+
+. Upon the Third Amendment Effective Date, and in accordance with the provisions of Section 10.6 of the Credit Agreement (which shall continue to inure to the Resigning Administrative Agent's benefit as to any actions taken or omitted to be taken by it while it was Administrative Agent thereunder), the Resigning Administrative Agent hereby resigns as Administrative Agent under the Credit Agreement. Upon the Third Amendment Effective Date, the parties hereto agree that the Resigning Administrative Agent is automatically and immediately discharged from all of its duties and obligations as Administrative Agent under the Credit Agreement and the other Loan Documents. Following the effectiveness of the Resigning Administrative Agent's resignation from its capacity as such on the Third Amendment Effective Date, the provisions of Article X and Section 11.3 of the Credit Agreement, as well as any exculpatory, reimbursement and indemnification provisions set forth in the Credit Agreement or any other Loan Document, to the extent expressly provided in such provisions, shall continue in full force and effect for the benefit of the Resigning Administrative Agent, its sub agents and their respective Related Parties in respect of any actions taken or omitted to be taken by any of them while the Resigning Administrative Agent was acting as Administrative Agent.
+
+6.3    
+
+Appointment of Successor Agent
+
+. Upon the Third Amendment Effective Date, the Required Lenders hereby appoint, and the Borrower hereby consents to, U.S. Bank as the successor administrative agent (in such capacity, the "
+
+Successor Agent
+
+") under Section 10.6 of the Credit Agreement. U.S. Bank hereby accepts its appointment as Successor Agent and is immediately and automatically hereunder upon the Third Amendment Effective Date vested with all the rights and duties of the Administrative Agent under the Credit Agreement and the other Loan Documents, and Wells Fargo is discharged from its duties and obligations as Administrative Agent under the Credit Agreement and the other Loan Documents.
+
+6.4    
+
+Disclaimers.
+
+(a)    The parties hereto agree that the Resigning Administrative Agent, in its individual capacity and in its capacity as the resigning Administrative Agent,
+
+(i)    makes no representation or warranty and assumes no responsibility with respect to (A) the accuracy of any recitals, statements, warranties or representations made in or in connection with the Credit Agreement (including the Register), any other Loan Document or in any certificate or other document referred to or provided for in, or received by the Resigning Administrative Agent, U.S. Bank or any Lender thereunder, (B) the execution, legality, validity, effectiveness, enforceability, genuineness, sufficiency or value of the Credit Agreement, the Loan Documents or any other document referred to or provided for therein, or any failure by the Borrower or any other person or entity to perform any of its obligations thereunder, or the existence, value, perfection or priority of any lien or security interest or other collateral security or the financial or other condition of the Borrower, (C) the financial condition of the Borrower, any Subsidiary or Affiliate or any other Person obligated in respect of any Loan 
+
+7
+
+Document, (D) the performance or observance by the Borrower, any Subsidiary or Affiliate, or any other Person of any of their respective obligations under any Loan Document (other than itself) or (E) any other matter relating to the Credit Agreement or any other Loan Document or any extension of credit thereunder; and
+
+(ii)    shall not bear any responsibility or liability for any actions taken or omitted to be taken by U.S. Bank or any Affiliate of U.S. Bank, in its capacity as Successor Agent, under this Amendment, the Credit Agreement, the Loan Documents, or the transactions contemplated hereby or thereby.
+
+(b)    The parties hereto agree that U.S. Bank, in its individual capacity and in its capacity as the Successor Agent,
+
+(i)    makes no representation or warranty and assumes no responsibility with respect to (A) the accuracy of any recitals, statements, warranties or representations made in or in connection with the Credit Agreement (including the Register), any other Loan Document or in any certificate or other document referred to or provided for in, or received by the Resigning Administrative Agent, U.S. Bank or any Lender thereunder, (B) the execution, legality, validity, effectiveness, enforceability, genuineness, sufficiency or value of the Credit Agreement, the Loan Documents or any other document referred to or provided for therein, or any failure by the Borrower or any other person or entity to perform any of its obligations thereunder, or the existence, value, perfection or priority of any lien or security interest or other collateral security or the financial or other condition of the Borrower, (C) the financial condition of the Borrower, any Subsidiary or Affiliate or any other Person obligated in respect of any Loan Document, (D) the performance or observance by the Borrower, any Subsidiary or Affiliate, or any other Person (other than itself) of any of their respective obligations under any Loan Document or (E) any other matter relating to the Credit Agreement or any other Loan Document or any extension of credit thereunder; and
+
+(ii)    shall not bear any responsibility or liability for any actions taken or omitted to be taken by the Resigning Administrative Agent or any Affiliate of the Resigning Administrative Agent, in its capacity as Administrative Agent prior to the effectiveness of this Agreement, under the Credit Agreement, the other Loan Documents, or the transactions contemplated hereby or thereby.
+
+ARTICLE VII
+
+Miscellaneous
+
+7.1    
+
+Adjustments and Assignments of the Revolving Credit Loans
+
+. As of the Third Amendment Effective Date, the share of all Revolving Credit Loans of the Revolving Credit Lenders shall be automatically adjusted and assigned without recourse such that, after giving effect to such adjustments and assignments, all Revolving Credit Loans under the Credit Agreement are held ratably by the Revolving Credit Lenders (determined after giving effect to this Amendment) in proportion to their respective Revolving Credit Commitments as set forth on Schedule 1.1. The Administrative Agent (after giving effect to this Amendment) is hereby authorized to take such steps under the Credit Agreement as reasonably required to give effect to the foregoing, including, without limitation, reallocating outstanding obligations constituting any of Revolving Credit Loans under the Credit Agreement to the Revolving 
+
+8
+
+Credit Lenders ratably based on their Revolving Credit Commitments after giving effect to increases in such Revolving Credit Loans and new Revolving Credit Loans. Each of the parties hereto hereby agrees and confirms that after giving effect to this Amendment, including after giving effect to the repayment of all Revolving Credit Loans and accrued and unpaid interest and fees owing to Wells Fargo, in its capacity as a Revolving Credit Lender, Wells Fargo's Revolving Credit Commitment shall be $0.00, Wells Fargo's commitments to make Revolving Credit Loans and all other obligations of Wells Fargo as a Revolving Credit Lender under the Credit Agreement shall be terminated, and Wells Fargo shall cease to be a Revolving Credit Lender for all purposes under the Loan Documents. Notwithstanding anything hereto to the contrary, Wells Fargo shall remain a Term Loan Lender under the Credit Agreement and the other Loan Documents.
+
+7.2    
+
+Reference to Credit Agreement
+
+. Each of the Loan Documents, including the Credit Agreement and any and all other agreements, documents, or instruments now or hereafter executed and delivered pursuant to the terms hereof or pursuant to the terms of the Credit Agreement and the Pledge Agreement, as amended hereby, are hereby amended so that any reference in such Loan Documents to the Credit Agreement or Pledge Agreement, as applicable, shall mean a reference to the Credit Agreement or Pledge Agreement, as applicable, as amended hereby.
+
+7.3    
+
+Severability
+
+. Any provision of this Amendment or any other Loan Document which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective only to the extent of such prohibition or unenforceability without invalidating the remainder of such provision or the remaining provisions hereof or thereof or affecting the validity or enforceability of such provision in any other jurisdiction.
+
+7.4    
+
+Counterparts
+
+. This Amendment may be executed in counterparts (and by different parties hereto in different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. Delivery of an executed signature page of this Amendment by facsimile transmission or PDF attachment to email shall be effective as delivery of an original executed counterpart thereof.
+
+7.5    
+
+Governing Law; Jurisdiction, Etc
+
+.
+
+(a)    
+
+Governing Law
+
+. This Amendment and the other Loan Documents executed in connection herewith, unless expressly set forth therein, shall be governed by, construed and enforced in accordance with, the law of the State of Illinois, without reference to the conflicts or choice of law principles thereof.
+
+(b)    
+
+Submission to Jurisdiction
+
+. Each of the parties hereto irrevocably and unconditionally submits, for itself and its property, to the nonexclusive jurisdiction of the courts of the State of Illinois sitting in Cook County and of the United States District Court of the Northern District of Illinois, and any appellate court from any thereof, in any action or proceeding arising out of or relating to this Amendment or any other Loan Document, or for recognition or enforcement of any judgment, and each of the parties hereto irrevocably and unconditionally agrees that all claims in respect of any such action or proceeding may be heard and determined in such Illinois state court or, to the fullest extent permitted by applicable Law, in such Federal court. Each of the parties hereto agrees that a final judgment in any such action or proceeding shall be conclusive and may be enforced in other jurisdictions by suit on the judgment or in any other manner provided by law. Nothing in this Amendment or in any other Loan Document shall affect any right that Administrative Agent or any Lender may otherwise have to bring any action 
+
+9
+
+or proceeding relating to this Amendment or any other Loan Document against Borrower or its properties in the courts of any jurisdiction.
+
+(c)    
+
+Waiver of Venue
+
+. Each of the parties hereto irrevocably and unconditionally waives, to the fullest extent permitted by applicable Law, any objection that it may now or hereafter have to the laying of venue of any action or proceeding arising out of or relating to this Amendment or any other Loan Document executed in connection herewith in any court referred to in 
+
+Section 6.4(b)
+
+. Each of the parties hereto hereby irrevocably waives, to the fullest extent permitted by applicable Law, the defense of an inconvenient forum to the maintenance of such action or proceeding in any such court.
+
+(d)    
+
+Service of Process
+
+. Each party hereto irrevocably consents to service of process in the manner provided for notices in Section 11.1 of the Credit Agreement. Nothing in this Amendment will affect the right of any party hereto to serve process in any other manner permitted by applicable Law.
+
+7.6    
+
+Waiver of Jury Trial
+
+. EACH PARTY HERETO HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AMENDMENT OR ANY OTHER LOAN DOCUMENT EXECUTED IN CONNECTION HEREWITH OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY (WHETHER BASED ON CONTRACT, TORT OR ANY OTHER THEORY). EACH PARTY HERETO (A) CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PERSON HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PERSON WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THIS AMENDMENT AND THE OTHER LOAN DOCUMENTS EXECUTED IN CONNECTION HEREWITH BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION.
+
+7.7    
+
+FINAL AGREEMENT
+
+. THIS AMENDMENT, TOGETHER WITH THE CREDIT AGREEMENT, AS AMENDED HEREBY, AND THE OTHER LOAN DOCUMENTS, REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES HERETO. THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE PARTIES.
+
+7.8    
+
+Expenses of Administrative Agent
+
+. To the extent provided in the Credit Agreement, Borrower shall pay all invoiced reasonable costs and expenses incurred by Administrative Agent in connection with the preparation, negotiation, and execution of this Amendment and the other Loan Documents executed pursuant hereto, including without limitation the reasonable fees and expenses of Administrative Agent's legal counsel promptly following Borrower's receipt of invoices therefor.
+
+7.9    
+
+Loan Document
+
+. This Amendment is a Loan Document.
+
+7.10    
+
+Amendment; No Novation
+
+. This Amendment constitutes an amendment of each of the Credit Agreement and the Pledge Agreement, effective from and after the Third Amendment Effective Date and not a novation or discharge thereof. The parties agree that the execution, delivery, and effectiveness of this Amendment shall not constitute a substitution, novation, discharge, or 
+
+10
+
+extinguishment of any indebtedness or other obligations for payment of money or any evidence of repayment thereof under the Credit Agreement or any other Loan Document, or a release or discharge any Lien or priority of any Loan Document or any security therefor. The Borrower hereby acknowledges that neither this Amendment, nor any other Loan Document is intended as or shall be construed as a release or novation of any Lien or other security interest, securing any "Obligation" or "Obligations", all of which are continued in full force and effect.
+
+7.11    
+
+Termination of Fee Letters
+
+. The parties hereto acknowledge and agree that the fee letters dated December 12, 2022 and December 11, 2023, between the Borrower and Wells Fargo Bank, National Association are each hereby terminated.
+
+[Signature Pages Follow]
+
+11
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be executed by their duly authorized officers, all as of the day and year first written above.
+
+BORROWER:
+
+WINTRUST FINANCIAL CORPORATION
+
+By: 
+
+/s/David A. Dykstra                    
+
+Name:    David A. Dykstra
+Title:    Vice Chairman and Chief Operating Officer
+
+Third Amendment to Amended and Restated Credit Agreement and First Amendment to Amended and Restated Pledge and Security Agreement – 
+
+Signature Page
+
+ 
+
+U.S. BANK NATIONAL ASSOCIATION
+as the Administrative Agent and a Lender
+
+By: 
+
+/s/Callen M. Strunk                    
+
+Name:    Callen M. Strunk
+Title:    Vice President
+
+Third Amendment to Amended and Restated Credit Agreement and First Amendment to Amended and Restated Pledge and Security Agreement – 
+
+Signature Page
+
+ 
+
+ROYAL BANK OF CANADA,
+as a Lender
+
+By: 
+
+/s/Colleen P. Osborne                
+
+Name:    Colleen P. Osborne
+Title:    Authorized Signatory
+
+Third Amendment to Amended and Restated Credit Agreement and First Amendment to Amended and Restated Pledge and Security Agreement – 
+
+Signature Page
+
+ 
+
+WELLS FARGO BANK, N.A.,
+as the Resigning Administrative Agent and a Term Loan Lender 
+
+By: 
+
+/s/Linda Sampson                    
+
+Name:    Linda Sampson
+Title:    Vice President
+
+Third Amendment to Amended and Restated Credit Agreement and First Amendment to Amended and Restated Pledge and Security Agreement – 
+
+Signature Page

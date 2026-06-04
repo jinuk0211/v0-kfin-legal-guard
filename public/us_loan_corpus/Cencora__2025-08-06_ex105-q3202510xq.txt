@@ -1,0 +1,1055 @@
+EX-10.5
+
+2
+
+ex105-q3202510xq.htm
+
+EX-10.5
+
+Document
+
+EX 10.5
+
+EXECUTION VERSION
+
+        July 31, 2025
+
+Cencora, Inc.
+
+1 West First Avenue
+
+Conshohocken, PA 19428
+
+Attention: Mahaveer Jain
+
+ Senior Vice President and Treasurer
+
+Uncommitted Facility Letter
+
+BNP Paribas (“
+
+we
+
+”, “
+
+us
+
+”, “
+
+our
+
+” or the “
+
+Bank
+
+”) is pleased to make available to Cencora, Inc., a Delaware corporation (“
+
+you
+
+”, “
+
+your
+
+” or the “
+
+Borrower
+
+”) an uncommitted credit facility (the “
+
+Facility
+
+”) on the terms set forth in this uncommitted facility letter (this “
+
+Uncommitted Facility Letter
+
+”) and the supplement of additional terms attached hereto (the “
+
+Supplement
+
+”, and, together with this Uncommitted Facility Letter, this “
+
+Agreement
+
+”). Capitalized terms used in this Uncommitted Facility Letter and not otherwise defined herein shall have the respective meanings provided therefor in the Supplement.
+
+1.
+
+Amount and Term
+
+. We may from time to time, in our sole discretion, consider requests for short term loans (each, an “
+
+Advance
+
+”, and collectively the “
+
+Advances
+
+”); 
+
+provided, that
+
+ we may cancel the Facility at any time as we in our sole discretion elect and with five (5) business days’ prior written notice to you. The aggregate principal amount of outstanding Advances at any time shall not exceed $500,000,000.00. The amount set forth herein is specified solely to expedite any Advances the Bank may choose to make and is not a credit line nor an indication that the Bank will provide Advances up to such amount. Advances will only be made in Dollars, unless the Bank in its sole and absolute discretion agrees otherwise. 
+
+2.
+
+Maturity of Advances
+
+. The principal amount of each Advance shall be payable on the maturity date for such Advance indicated in the Bank’s books and records (in each case, the “
+
+Maturity Date
+
+”)
+
+; provided, that
+
+, no Advance shall have a Maturity Date more than thirty (30) days from the making of same. The Bank shall maintain in accordance with its usual practice an account or accounts evidencing the Indebtedness of the Borrower to the Bank resulting from each Advance made by the Bank and the entries made in the Bank’s books and records regarding the amount, interest rate, Interest Period and other information concerning Advances shall be prima facie evidence of the existence and amounts of the obligations recorded therein
+
+; provided, that,
+
+ the failure of the Bank to maintain such records or any error therein shall not in any manner affect the obligation of the Borrower to repay the Advances in accordance with the terms of the Facility Documents.
+
+3.
+
+Purpose
+
+. Advances shall only be utilized by you for working capital or other general corporate purposes.
+
+4.
+
+NO COMMITMENT
+
+. AN UNCOMMITTED FACILITY MEANS THAT WE SHALL HAVE NO OBLIGATION TO ISSUE, AMEND OR EXTEND ANY ADVANCE HEREUNDER. EACH REQUEST MADE BY YOU FOR AN ADVANCE OR ANY AMENDMENT OR EXTENSION 
+
+1
+
+THEREOF SHALL BE REVIEWED BY US ON A CASE-BY-CASE BASIS AND THE DECISION TO ISSUE, AMEND OR EXTEND ANY SUCH ADVANCE SHALL BE MADE BY US IN OUR ABSOLUTE AND SOLE DISCRETION AND IRRESPECTIVE OF WHETHER OR NOT YOU ARE IN COMPLIANCE WITH ANY OF THE TERMS, CONDITIONS OR GUIDELINES SET FORTH IN ANY FACILITY DOCUMENT. THE ISSUANCE, EXTENSION OR AMENDMENT OF ANY ADVANCE AT ANY TIME SHALL NOT BE DEEMED A WAIVER OF THE FOREGOING, OF THE UNCOMMITTED NATURE OF THE FACILITY, OR A CONSENT, AGREEMENT OR COMMITMENT BY US TO THE ISSUANCE, EXTENSION OR AMENDMENT OF ANY FUTURE ADVANCE. THIS UNCOMMITTED FACILITY LETTER AND OUR WILLINGNESS TO RECEIVE REQUESTS FOR ADVANCES FROM YOU ARE SUBJECT TO CANCELLATION BY US IN OUR SOLE DISCRETION AT ANY TIME WITHOUT PRIOR NOTICE. YOU REPRESENT AND WARRANT THAT YOU ARE AWARE OF THE RISKS ASSOCIATED WITH CONDUCTING BUSINESS UTILIZING AN UNCOMMITTED FACILITY.
+
+5.
+
+Advance Request; Interest and Fees
+
+. Each Advance shall bear interest at a per annum rate equal to the sum of the Applicable Reference Rate plus the Applicable Margin, as agreed upon by the Bank and the Borrower prior to the date of the relevant Advance Request and indicated in the relevant Advance Request and/or in the Bank’s books and records. In the event of any conflict between the relevant Advance Request or the books and records of the Bank, the books and records of the Bank shall control in the absence of manifest error. 
+
+(a)
+
+To request an Advance hereunder, the Borrower shall deliver a duly executed Advance request, substantially in the form of 
+
+Exhibit A
+
+ hereto (an “
+
+Advance Request
+
+”) to the Bank prior to 11:00 a.m. (New York City time) (i) in the case of a Daily Simple SOFR Advance, Cost of Funds Advance or a Prime Rate Advance, on the date of such requested Advance, or (ii) in the case of a Term SOFR Advance, at least three Business Days before the date of such requested Advance.
+
+6.
+
+Documents/Conditions Precedent
+
+. Without in any way limiting the uncommitted nature of the Facility, (a) this Agreement shall not have any force or effect unless and until you have executed and delivered to the Bank this Uncommitted Facility Letter and the Supplement and (b) as a condition precedent to your requesting Advances, we are to be provided with the following documents, each of which shall be satisfactory in form and substance to the Bank:
+
+(i)
+
+Corporate secretary’s certificate of the Borrower, together with (A) its organizational documents and current by-laws, (B) its corporate resolutions (or equivalent), including powers of attorney (if applicable), (C) an incumbency certificate and (D) a certificate of good standing from its jurisdiction of organization (or local equivalent); and
+
+(ii)
+
+Opinion of counsel to the Borrower.
+
+7.
+
+Confidentiality
+
+. You agree that the terms and provisions of this Agreement and the other Facility Documents are confidential and may not be disclosed by you to any other Person (except as required by Applicable Law or judicial process) other than your accountants, attorneys and other advisors and only in connection with the transactions contemplated by this Agreement and on a confidential basis unless specifically approved by us in writing.
+
+[signature page(s) to follow]
+
+2
+
+ 
+
+If the terms as set forth above accurately reflect our agreement, please indicate your acceptance by signing and returning to us the originals of this Uncommitted Facility Letter and of the Supplement and all other documents attached hereto or thereto, retaining the duplicates for your records.
+
+Very truly yours,
+
+BNP PARIBAS
+
+By:__________________________________
+
+Name:
+
+Title:
+
+By:___________________________________
+
+Name:
+
+Title:
+
+Address for notices:
+
+787 Seventh Avenue
+
+New York, New York 10019
+
+Attention: Global Trade Solutions
+
+E-mail: nyk_gtbmo_gts@us.bnpparibas.com
+
+ACCEPTED AND AGREED:
+
+BORROWER
+
+:
+
+CENCORA, INC.
+
+By:__________________________________
+
+Name: Mahaveer Jain
+
+Title: Senior Vice President and Treasurer
+
+Address for notices:
+
+Cencora, Inc.
+
+1 West First Avenue
+
+Conshohocken, PA 19428
+
+Attention: Mahaveer Jain, Senior Vice President and Treasurer
+
+E-mail: mahaveer.jain@cencora.com
+
+[SIGNATURE PAGE TO UNCOMMITTED FACILITY LETTER]
+
+SUPPLEMENT OF ADDITIONAL TERMS
+
+Supplement of additional terms to the Uncommitted Facility Letter between the undersigned Borrower and BNP Paribas. Capitalized terms used herein and not otherwise defined herein shall have the meanings set forth therefor in the Uncommitted Facility Letter. The terms set forth in this Supplement shall automatically (without any further action whatsoever and whether or not executed) apply to the Uncommitted Facility Letter and all Advances outstanding and/or issued pursuant to or in connection with the Uncommitted Facility Letter.
+
+1.
+
+Interest Periods; Payment Calculation; Interest Payment Dates
+
+. Accrued interest on each Advance shall be payable in arrears on each Interest Payment Date. 
+
+(a)
+
+Unless otherwise expressly indicated, interest, fees and all other amounts owing to the Bank shall be computed on the basis of a 360-day year for actual days elapsed, except that interest computed by reference to the Prime Rate shall be computed on the basis of a year of 365 days (or 366 days in the case of a leap year).
+
+2.
+
+Default Rate
+
+.    Upon and following notice by the Bank to the Borrower of the occurrence of any Event of Default, and/or any other stated or any accelerated maturity, to the extent permitted by Applicable Law, all Obligations shall bear interest (computed daily) at, (i) with respect to principal, a rate equal to the greater of 2% 
+
+per annum
+
+ in excess of the rate then applicable to such Advance, and (ii) with respect to all other Obligations, a rate equal to the Prime Rate plus 2% 
+
+per annum
+
+, payable on demand. 
+
+3.
+
+Optional Prepayment
+
+.
+
+    
+
+The Borrower may prepay each Advance in whole or in part at any time, (a) in the case of a Daily Simple SOFR Advance, Cost of Funds Advance or Prime Rate Advance, without advance notice, or (b) in the case of a Term SOFR Advance, upon three (3) Business Days’ advance notice, in each case, without premium or penalty (except as set forth in the immediately succeeding sentence), provided that the minimum amount of each such prepayment is $1,000,000. Any such prepayment shall be accompanied by accrued interest on the amount prepaid and any yield protection or other additional amounts owing under the Facility Documents, including breakage costs.
+
+4.
+
+Yield Protection; Break Funding; Funding Issues
+
+. The Borrower hereby agrees that if the Bank shall have determined that the adoption of any Applicable Law, or any change in Applicable Law, or any change in the interpretation or administration thereof by any central bank or comparable entity or any other Governmental Authority charged with the interpretation or administration thereof, or compliance by the Bank with any request, policy, guideline or directive (whether or not having the force of law) of any monetary, fiscal or other authority shall impose, modify or deem applicable any reserve, special deposit, compulsory loan, assessment or insurance fee or similar requirement (including, without limitation, any such requirement imposed by the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency of the United States of America (or any successor agency) or the Federal Reserve Board) against assets of, deposits with or for the account of, or credit extended by, the Bank or shall subject the Bank to any Taxes with respect to the Facility Documents or any Advance thereunder, or change the basis of taxation of payments to the Bank or any amount payable under the Facility Documents (other than Taxes imposed on the overall net income of the Bank), or shall impose on the Bank any other condition affecting the Facility Documents or any Advance, and as a result of any of the foregoing there shall be any increase in the cost to the Bank with respect to the making, funding or maintaining of any Advance or in the amount of any payment in respect of any Advance received or receivable by the Bank, or the Bank shall suffer some other loss or damage or shall forego any interest or other amount due under the Facility Documents or in respect of any Advance, the Borrower shall pay to the Bank from time to time upon the Bank’s demand, such additional amount or amounts as the Bank determines to be necessary to compensate the Bank for any increased cost, reduced amount, other loss or damage or foregone interest or other amount. The Bank’s determination with respect to the foregoing shall be conclusive and binding absent manifest error.
+
+(a)
+
+The Borrower further agrees that if the Bank shall have determined that the adoption or implementation of any Applicable Law regarding capital adequacy, capital maintenance, liquidity or similar requirement or any change in Applicable Law or in the interpretation or application thereof or compliance by the Bank or any corporation controlling the Bank with any request, guideline, policy or 
+
+1
+
+directive regarding capital adequacy (whether or not having the force of law) from any central bank or comparable entity or any other Governmental Authority does or would have the effect of reducing the rate of return on the Bank’s or on the Bank’s controlling corporation’s capital as a consequence of the Facility Documents or any Advance thereunder, to a level below that which the Bank or the Bank’s controlling corporation could have achieved but for such adoption, implementation, change or compliance (taking into consideration the Bank’s and its controlling corporation’s policies with respect to capital adequacy and liquidity), then from time to time, upon the Bank’s demand, Borrower shall pay to the Bank such additional amount or amounts as the Bank determines will compensate it for such reduction. The Bank’s determination with respect to the foregoing shall be conclusive and binding absent manifest error.
+
+(b)
+
+Notwithstanding anything herein to the contrary, (i) the Dodd-Frank Wall Street Reform and Consumer Protection Act and all requests, rules, guidelines or directives thereunder or issued in connection therewith and (ii) all requests, rules, guidelines or directives promulgated by the Bank for International Settlements, the Basel Committee on Banking Supervision (or any successor or similar authority) or any regulatory authority, in each case pursuant to Basel III or Basel IV, shall in each case be deemed to be a ‘change in Applicable Law’ for purposes of this Section 4, regardless of the date enacted, adopted or issued.
+
+(c)
+
+The Borrower agrees to reimburse the Bank, upon demand, for any losses, costs or expenses which the Bank may sustain as a result of the Borrower’s failure to borrow any Advance on the date requested, any payment of an Advance on a date other than the Maturity Date thereof (whether in whole or in part and whether through voluntary prepayment, acceleration or otherwise) or the failure to pay any interest thereon on any Interest Payment Date thereof, including but not limited to, any loss in liquidating or reemploying deposits from third parties or fees payable to terminate such deposits. Any prepayment of the principal amount of any Advance shall be accompanied by the payment of the accrued interest thereon to the date of such prepayment and the amount of the losses incurred by the Bank as a result thereof. The Bank’s determination with respect to the foregoing shall be conclusive and binding absent manifest error.
+
+(d)
+
+A certificate of the Bank setting forth the amount or amounts necessary to compensate the Bank or its holding company, as the case may be, as specified in subparagraph (a) or (b) of this Section and delivered to the Borrower, shall be conclusive absent manifest error. The Borrower shall pay the Bank the amount shown as due on any such certificate within 10 days after receipt thereof. 
+
+ 
+
+Failure or delay on the part of the Bank to demand compensation pursuant to subparagraph (a) or (b) of this Section shall not constitute a waiver of the Bank’s right to demand such compensation; 
+
+provided
+
+ that the Borrower shall not be required to compensate the Bank pursuant to this Section for any increased costs incurred or reductions suffered more than nine months prior to the date that the Bank notifies the Borrower of the change in Applicable Law giving rise to such increased costs or reductions, and of the Bank’s intention to claim compensation therefor (except that, if the change in Applicable Law giving rise to such increased costs or reductions is retroactive, then the nine-month period referred to above shall be extended to include the period of retroactive effect thereof).
+
+(e)
+
+If the effect of any Applicable Law, or change in Applicable Law or in the interpretation or administration thereof, or compliance with any request or directive of any Governmental Authority is to make it unlawful or impossible for the Bank to make, maintain or fund any Advance (and, in the reasonable opinion of the Bank, the designation of a different lending office would either not avoid such unlawfulness or impossibility or would be disadvantageous to the Bank), then the Borrower shall, at the Bank’s request, pay on demand, the outstanding principal amount of such Advance, together with accrued interest thereon and any additional amounts required under the Facility Documents. 
+
+(f)
+
+In the event, and on each occasion, that prior to the commencement of any Interest Period for an Advance, the Bank shall have determined that: (i) SOFR will not adequately and fairly reflect the cost to the Bank of making or maintaining such Advance during such Interest Period; (ii) reasonable means do not exist for ascertaining SOFR; or (iii) a relevant governmental body (including but not limited to the Board of Governors of the Federal Reserve System or the NYFRB, or a committee officially endorsed or convened by the Board of Governors of the Federal Reserve System or the NYFRB, or any successor thereto) with authority over the Bank has recommended that no new Dollar SOFR or Term SOFR advances be made or that any such rate is not recommended or representative (an “
+
+Affected Interest Period
+
+”); then: (x) no new Advances will be made hereunder bearing interest based upon Daily Simple SOFR or Term SOFR (and the Borrower may only request, and the Bank may only consider, Cost 
+
+2
+
+of Funds Advances or Prime Rate Advances hereunder); and (y) any outstanding Advances bearing interest using Daily Simple SOFR or Term SOFR, as applicable, shall, at the Borrower’s discretion: (I) be prepaid without premium and/or penalty (but with interest accrued through the date of repayment); and/or (II) be converted to Advances that shall bear interest at the Cost of Funds or Prime Rate for the purposes of calculating the rate of interest in lieu of Daily Simple SOFR or Term SOFR, as applicable, for such Affected Interest Period and each Interest Period occurring after such date for any outstanding Advance. Each determination by the Bank hereunder shall be conclusive absent manifest error.
+
+5.
+
+[Reserved]
+
+.
+
+6.
+
+Representations and Warranties
+
+.     The Borrower represents and warrants to the Bank that: (a) it is duly organized, validly existing and in good standing (or equivalent thereof) under the laws of its place of organization and is qualified to do business and is in good standing (or equivalent thereof) under the laws of every location where its failure to so qualify could reasonably be expected to have a Material Adverse Effect; (b) the execution, issuance and delivery of the Facility Documents to which it is a party are within its organizational powers and have been duly authorized, and each Facility Document is legal, valid, binding and enforceable in accordance with its terms, and is not in violation or conflict with any provision of Applicable Law to which the Borrower is subject, or of the terms of its organizational documents, and does not result in the breach of or constitute a default in any material respect under any material indenture, agreement, undertaking or other instrument to which it is a party or by which it or its property may be bound or affected, and will not conflict with, result in a breach of or constitute (with due notice or lapse of time or otherwise) a default in any material respect under any provision of such material indenture, agreement, undertaking or other instrument to which it is a party or by which it or its property may be bound or affected, or result in the creation or imposition of any Lien upon any of its properties or assets; (c) no authorization or approval or other action by, and no notice to or filing with, any Governmental Authority is required for the due execution, delivery and performance by it of any of the Facility Documents, except those as have been obtained or made; (d) its financial statements furnished to the Bank are complete and correct and fairly represent its financial condition in all material respects as at the dates thereof and for the periods covered thereby, which financial condition has not materially, adversely changed since the date of the most recently dated audited financial statements heretofore furnished to the Bank in accordance with GAAP; (e) in no event shall it use any part of the proceeds of any Advance to purchase or carry any Margin Stock or to extend credit to others for the purpose of purchasing or carrying any Margin Stock; (f) there is no pending or, to its knowledge, threatened action or proceeding affecting it before any Governmental Authority or arbitrator which, if determined adversely to it could reasonably be expected to have a Material Adverse Effect; (g) it is not in default under any agreement or instrument with or in favor of the Bank, or under any other agreement or instrument, in each case involving Material Indebtedness; (h) all Obligations of the Borrower in connection with Advances shall at all times rank 
+
+pari passu
+
+ with its senior unsecured Indebtedness, (i) none of the Borrower, any of its Subsidiaries or any director, officer, employee, agent or Affiliate of the Borrower or its Subsidiaries is a Person that is, or is owned or controlled by Persons that are: (A) the target of any Sanctions or (B) located, organized or resident in a country or territory that is the subject of Sanctions; (j) the Borrower, its Subsidiaries and, to the knowledge of the Borrower, their respective directors, officers, employees and agents of the Borrower and its Subsidiaries, are in compliance with all applicable Sanctions and with the FCPA and any other applicable anti-bribery law, anti-corruption law and any applicable anti-money laundering law, in all material respects; (k) the Borrower and its Subsidiaries have instituted and maintain policies and procedures designed to ensure continued compliance with applicable Sanctions, the FCPA and any other applicable anti-bribery laws, anti-corruption laws and any applicable anti-money laundering laws; (l) there are no Taxes imposed on, or by virtue of, the execution or delivery of any Facility Document or any other document to be furnished hereunder or thereunder; (m) the operations of the Borrower as now conducted or proposed to be conducted are not in violation of any Applicable Law and the Borrower has received no notice of any such violation, except for any violation that would not be reasonably expected to have a Material Adverse Effect; (n) it is not an “investment company” or a company “controlled by” an “investment company” within the meaning of the U.S. Investment Company Act of 1940, as amended, nor is it subject to any other Law that purports to restrict or regulate its ability to obtain extensions of credit; and (o) on the occasion of the request for, and granting of, each Advance, all representations and warranties contained herein shall be true and correct in all material respects (except in the case of those representations and warranties already qualified by materiality, which shall be true and complete in all respects) and with the same force and effect as though such representations and warranties had been made on and as of the date of such request and the date of the making of each such Advance.
+
+3
+
+7.
+
+Other Conditions and Covenants
+
+. In addition to the foregoing, at all times as long this Agreement remains in effect or any Advance remains outstanding:
+
+(a)
+
+The Borrower shall furnish to the Bank promptly after the Borrower is aware of the same, notice of the occurrence of any event which is, or may become, an Event of Default.
+
+(b)
+
+The Borrower shall execute such other agreements and take such other actions as the Bank may reasonably request in order to give effect to the terms, provisions and agreements contained herein and in the other Facility Documents.
+
+(c)
+
+The Borrower will, and will cause each of its Subsidiaries to, (i) take all reasonable action to maintain all rights, licenses, permits, privileges and franchises necessary or desirable in the normal conduct of its business, except to the extent that failure to do so could not reasonably be expected to have a Material Adverse Effect; and (ii) preserve or renew all of its registered patents, trademarks, trade names and service marks, the non-preservation of which could reasonably be expected to have a Material Adverse Effect.
+
+(d)
+
+The Borrower will (i) maintain, preserve and protect all of its properties and equipment necessary in the operation of its business in good working order and condition (ordinary wear and tear excepted) and (ii) make all necessary repairs thereto and renewals and replacements thereof, except in each case to the extent that the failure to do so could not reasonably be expected to have a Material Adverse Effect.
+
+(e)
+
+The Borrower shall pay and discharge promptly all of its obligations and liabilities, including all taxes (including stamp taxes), assessments and governmental charges or levies, duties, charges, fees or other amounts (i) which may be payable or determined to be payable in connection with the execution, delivery or enforcement of any of the Facility Documents or the consummation of any of the transactions contemplated thereunder and/or (ii) imposed upon the Borrower or upon its income or profits or upon any of its properties, as well as all lawful claims for labor, materials and supplies which, if unpaid, will by Law become a Lien upon the Borrower’s properties; unless in each case the amount, applicability or validity thereof shall be contested in good faith by appropriate proceedings and adequate reserves have been established with respect thereto or to the extent that the failure to do so could not reasonably be expected to have a Material Adverse Effect.
+
+(f)
+
+[reserved].
+
+(g)
+
+The Borrower shall comply with all Applicable Laws, the non-compliance with which could be reasonably expected to have a Material Adverse Effect and will use proceeds of Advances not in contravention of any Applicable Law, the contravention of which could be reasonably expected to have a Material Adverse Effect.
+
+(h)
+
+[reserved].
+
+(i)
+
+[reserved].
+
+(j)
+
+[reserved].
+
+(k)
+
+[reserved].
+
+(l)
+
+[reserved].
+
+(m)
+
+[reserved].
+
+(n)
+
+[reserved].
+
+(o)
+
+The Borrower shall not liquidate, windup or dissolve itself or sell, transfer or lease or otherwise dispose of all or substantially all of its assets.
+
+(p)
+
+[reserved].
+
+4
+
+(q)
+
+[reserved].
+
+(r)
+
+[reserved].
+
+(s)
+
+[reserved].
+
+(t)
+
+[reserved].
+
+(u)
+
+The Borrower will maintain in effect policies and procedures designed to promote compliance by the Borrower and its Subsidiaries and their respective directors, officers, employees, and agents with anti-bribery laws, anti-corruption laws, applicable anti-money laundering laws and applicable Sanctions. 
+
+(v)
+
+The Borrower will not, directly or indirectly, use the proceeds of the Advances, or lend, contribute or otherwise make available such proceeds to any Subsidiary, joint venture partner or other Person, (i) in furtherance of an offer, payment, promise to pay, or authorization of the payment or giving of money, or anything else of value, to any Person in violation of the FCPA or any other applicable anti-bribery or anti-corruption law, or (ii) (A) to fund any activities or business of or with any Person, or in any country or territory, that, at the time of such funding, is the subject of Sanctions, or (B) in any other manner that would result in a violation of Sanctions by any Person (including any Person participating in the Advances, whether as a lender or otherwise).
+
+8.
+
+Events of Default; Remedies
+
+.
+
+(a)
+
+Each of the following events shall constitute an “
+
+Event of Default
+
+” hereunder: (i) (A) default by the Borrower in making any payment when due of principal or (B) default by the Borrower in making any payment when due of interest or any other amount payable under this Agreement or any other Facility Document and such failure shall continue unremedied for a period of three (3) Business Days; or (ii) other than as specified in the immediately preceding clause (i), the failure of the Borrower to perform any term, covenant, condition or Obligation described in this Agreement or any other Facility Document within the time periods specified, and such failure shall continue unremedied for a period of 30 days after notice thereof from the Bank to the Borrower; or (iii) the failure of the Borrower to perform or observe any term, covenant, condition or obligation under any other agreement or instrument involving Material Indebtedness with or in favor of the Bank; or (iv) default by the Borrower in the due payment of any other Material Indebtedness, or default in the observance or performance of any covenant or condition contained in, or any other event occurs under, any agreement or instrument evidencing, securing, or relating to any such Material Indebtedness, which actually results in the acceleration of the maturity thereof; or (v) any representation or warranty made by the Borrower herein, or in any other Facility Document, or in any certificate furnished by the Borrower in connection with the extensions of credit made or to be made to the Borrower by the Bank, proves untrue or misleading in any material respect (or, in the case of any such representation or warranty already qualified by materiality, such representation or warranty shall prove to be untrue or misleading); or (vi) the Borrower (or any Significant Subsidiary of the Borrower) becomes insolvent or bankrupt, or is generally not paying its debts as they become due, or makes an assignment for the benefit of creditors, or a trustee or receiver is appointed for the Borrower (or any Significant Subsidiary of the Borrower) or for all or a portion of the properties of the Borrower (or any Significant Subsidiary of the Borrower) with the consent of the Borrower (or such Significant Subsidiary), or if appointed without the consent of the Borrower (or such Significant Subsidiary of the Borrower), such trustee or receiver is not discharged within thirty (30) days, or bankruptcy, reorganization, liquidation or similar proceedings are instituted by or against the Borrower (or any Significant Subsidiary of the Borrower) under the laws of any jurisdiction, and if instituted against the Borrower (or any Significant Subsidiary of the Borrower) are consented to by it or remain undismissed for thirty (30) days, or a writ or warrant of attachment or similar process shall be issued against a substantial part of the property of the Borrower (or any Significant Subsidiary of the Borrower) and shall not be released or bonded within thirty (30) days after levy or (vii) the rendition by any court of one or more judgments for the payment of money which is not paid or fully covered by insurance in an aggregate amount in excess of US$250,000,000 against the Borrower which shall not be satisfactorily stayed, discharged, vacated or set aside within thirty (30) days of the making thereof, or any garnishment, levy, writ or warrant of attachment or similar process to enforce such judgment shall be issued and served against the Bank, which garnishment, levy, writ or warrant of attachment or similar process relates to property of the Borrower pledged to or in the possession of the Bank; or (viii) if any Facility Document 
+
+5
+
+ceases to be valid and enforceable and in full force and effect, or the Borrower shall assert the same; or (ix) a Change of Control shall occur; or (x) the Obligations shall fail to rank 
+
+pari passu
+
+ in priority of payment with all other senior, unsubordinated Indebtedness of the Borrower.
+
+(b)
+
+Upon the occurrence and during the continuance of any Event of Default, then, in any such event, any or all of the following actions may be taken: the Bank may in its sole discretion and without presentment, demand, protest or notice to the Borrower, all of which are hereby waived, (i) declare all sums outstanding under the Advances and all Obligations owing in connection therewith due and payable and the same shall forthwith become due and payable without presentment, demand, protest or notice, and (ii) take whatever other action it shall deem appropriate as permitted by Applicable Law or by any agreement, document or instrument executed and delivered pursuant to or in connection with the Advances
+
+; provided, that,
+
+ in the event of the occurrence of an Event of Default pursuant to subparagraph (a)(vi) above, all sums outstanding under the Advances and all Obligations owing in connection therewith shall be automatically immediately due and payable.
+
+9.
+
+Taxes
+
+.    If any Taxes or deductions of any kind, nature or description whatsoever are imposed and required by competent authorities to be deducted or withheld from any amount payable to the Bank hereunder or under any of the other Facility Documents or in connection with the Facility, then the Borrower shall promptly provide satisfactory evidence of payment of such amounts and increase the amount of such payment so that the Bank will receive a net amount (after deduction for such Taxes or deductions) equal to the amount due under the Facility Documents. The Borrower must provide satisfactory evidence of payment of such amounts, within 60 days of such payment. Each of the Bank and the Borrower shall deliver to each other such documentation as is prescribed by Applicable Law (including as prescribed by Section 1471(b)(3)(C)(i) of the Code) and such additional documentation as may be reasonably requested by the other party in order to comply with its obligations under FATCA (as herein defined) and to demonstrate that no withholding or deduction under FATCA need be made from any payment made by the Borrower to the Bank or from the Bank to, or for the account of, the Borrower or, in the absence of such demonstration, in order to determine the amount to deduct and withhold from such payment(s) under FATCA. For purposes hereof, “
+
+FATCA
+
+” means Sections 1471 through 1474 of the Code, as of the date of this Agreement (or any amended or successor version), any current or future regulations or official interpretations thereof and any agreements entered into pursuant to Section 1471(b)(1) of the Code. For purposes hereof, “FATCA” shall include any amendments made to FATCA after the date of this Supplement.
+
+10.
+
+Expenses
+
+.    The Borrower agrees to reimburse the Bank upon demand for any and all costs and expenses (including reasonable, out-of-pocket attorney’s fees and disbursements) incurred by the Bank in connection with this Agreement and the other Facility Documents. The Borrower also agrees to reimburse the Bank upon demand for any and all reasonable costs and expenses (including reasonable, out-of-pocket attorney’s fees and disbursements) incurred by the Bank in connection with any enforcement of the terms hereof, or of any other Facility Document, or in connection with any work-out or other restructuring.
+
+11.
+
+Indemnity
+
+.    The Borrower agrees to indemnify the Bank and its Affiliates and each of the Bank’s and such Affiliate’s respective directors, officers, employees, attorneys, advisors, representatives and agents from, and hold each of them harmless against, any and all losses, liabilities, claims, damages, costs or expenses incurred by any of them arising out of or by reason of this Agreement or any other Facility Document, including, without limitation, in connection with any investigation or litigation or other proceedings (whether or not the Bank or any such Person is designated as a party thereto) relating to or arising out of or in any way connected with, or as a result of, any of the Facility Documents, any Advance, or any other transaction contemplated by this Agreement or any Facility Document, or the use of the proceeds of any Advance by the Borrower or any of its Subsidiaries, including, without limitation, the reasonable out-of-pocket fees and disbursements of counsel incurred in connection with any such investigation or litigation or other proceedings (but excluding any such losses, liabilities, claims, damages or expenses incurred by reason of the gross negligence or willful misconduct of the Person to be indemnified, as determined by a final, non-appealable decision of a court of competent jurisdiction).
+
+12.
+
+Right of Setoff
+
+. If an Event of Default shall have occurred and be continuing, the Bank and each of its Affiliates are hereby authorized at any time and from time to time, to the fullest extent permitted by Law, to set off and apply any and all deposits (general or special, time or demand, provisional or final) at any time held and other obligations at any time owing by the Bank (at any of its 
+
+6
+
+branches or offices) to or for the credit or the account of the Borrower against any and all of the obligations of the Borrower now or hereafter existing under the Facility Documents, irrespective of whether or not the Bank shall have made any demand under the Uncommitted Facility Letter and although such obligations may be unmatured. The rights of the Bank under this Section are in addition to other rights and remedies (including other rights of setoff) which the Bank may have.
+
+13.
+
+Survival
+
+.    The agreements in the Sections with the headings “Yield Protection;
+
+ 
+
+Break Funding; Funding Issues”, “Taxes”, “Expenses”, “Indemnity”, “Right of Setoff”, “Payments; No Setoff by Borrower; Judgment Currency”; “Governing Law; Jurisdiction” and “Waiver of Jury Trial” shall survive the termination of the Facility Documents and the repayment of all Advances and all other amounts payable under the Facility Documents. 
+
+14.
+
+Payments; No Setoff by Borrower; Judgment Currency
+
+.     All amounts due to the Bank under the Facility Documents shall be paid in Dollars in immediately available funds without offset, deduction or counterclaim to a bank account in New York, New York to be advised by the Bank. Any payment made to or received by the Bank in a currency (the “
+
+Relevant Currency
+
+”) other than Dollars pursuant to a judgment or order of a court or tribunal of any jurisdiction or otherwise shall constitute a payment of such amount only to the extent of the amount in Dollars which the Bank is able, on the date of receipt by the Bank of such payment in the Relevant Currency (or, in the case of any such date which is not a Business Day, on the next succeeding Business Day), to purchase with the amount so received by the Bank on such date taking into account the costs of any such purchase and any fees, commissions or brokerage payable in connection therewith. If the amount of Dollars which the Bank is so able to purchase is less than the amount expressed to be due hereunder, Borrower shall indemnify and hold the Bank harmless against any loss or damage sustained or incurred by it or arising as a result. If the amount in Dollars so purchased exceeds the sum originally due to the Bank, the Bank shall remit such excess less any other amounts due and owing under the Facility Documents.
+
+15.
+
+GOVERNING LAW; JURISDICTION
+
+. THIS AGREEMENT AND THE OTHER FACILITY DOCUMENTS SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK. BY ITS EXECUTION HEREOF, THE BORROWER EXPRESSLY AND IRREVOCABLY SUBMITS TO THE NON-EXCLUSIVE JURISDICTION OF THE FEDERAL AND STATE COURTS LOCATED IN NEW YORK COUNTY, NEW YORK IN ANY ACTION OR PROCEEDING ARISING OUT OF OR RELATING TO THE FACILITY DOCUMENTS AND AGREES THAT SUCH COURTS ARE THE MOST APPROPRIATE AND CONVENIENT COURTS TO SETTLE DISPUTES ARISING OUT OF OR RELATING TO THE UNCOMMITTED FACILITY LETTER, THIS SUPPLEMENT AND THE OTHER FACILITY DOCUMENTS AND THEREFORE SUBMITS TO THE JURISDICTION OF SUCH COURTS. THE BORROWER HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVES, TO THE FULLEST EXTENT IT MAY LEGALLY AND EFFECTIVELY DO SO, ANY OBJECTION THAT IT MAY NOW OR HEREAFTER HAVE TO THE LAYING OF VENUE OF ANY SUIT, ACTION OR PROCEEDING ARISING OUT OF OR RELATING TO ANY FACILITY DOCUMENT IN ANY COURT REFERRED TO IN THIS SECTION 15. THE BORROWER HEREBY ALSO IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY LAW, THE DEFENSE OF AN INCONVENIENT FORUM TO THE MAINTENANCE OF ANY SUCH SUIT, ACTION OR PROCEEDING IN ANY SUCH COURT. THE FOREGOING DOES NOT AFFECT THE RIGHT OF THE BANK TO COMMENCE LEGAL PROCEEDINGS OR OTHERWISE SUE THE BORROWER IN THE COURTS OF ANY JURISDICTION, OR TO SERVE PROCESS, PLEADINGS AND OTHER LEGAL PAPERS UPON THE BORROWER IN ANY MANNER AUTHORIZED BY THE LAWS OF ANY SUCH JURISDICTION. 
+
+NOTHING IN THIS SECTION SHALL AFFECT THE RIGHTS OF THE BANK TO SERVE LEGAL PROCESS IN ANY OTHER MANNER PERMITTED BY LAW OR AFFECT THE RIGHT OF THE BANK TO BRING ANY ACTION OR PROCEEDING AGAINST THE BORROWER OR ITS PROPERTY IN THE COURTS OF ANY OTHER JURISDICTION.
+
+16.
+
+Miscellaneous
+
+.    
+
+(a)
+
+Each right, power, and remedy herein specifically granted to the Bank or otherwise available to it shall be cumulative, and shall be in addition to every other right, power, and remedy herein 
+
+7
+
+specifically given or given in any other Facility Document or any other agreement or instrument now or hereafter executed with, or in favor of, the Bank or now or hereafter existing at law, in equity, or otherwise; and each right, power and remedy whether specifically granted herein or in any other Facility Document or existing at law, in equity, or otherwise, may be exercised, at any time and from time to time as often and in such order as may be deemed expedient by the Bank in its sole and complete discretion and the exercise or commencement of exercise of any right, power or remedy shall not be construed as a waiver of the right to exercise, at the same time or thereafter, the same or any other right, power or remedy. No delay or omission by the Bank in exercising, or course of dealing with respect to, any such right or power, or in pursuing any such remedy, shall impair any such right, power or remedy or be construed to be a waiver of any Default on the part of the Borrower or an acquiescence therein. No waiver by the Bank of any provision hereof or any breach or Default of or by the Borrower hereunder or under any other Facility Document shall be deemed to be a waiver of any other or similar, previous or subsequent, provision, breach or Default. 
+
+(b)    The provisions of the Facility Documents may be amended or waived only by a written document signed by the parties hereto or waived only by a written document signed by the Bank. 
+
+(c)    The Borrower assumes all the risks relating to instructions or other communications which the Borrower gives to the Bank by electronic transmission or telephone and the Borrower hereby releases the Bank from any loss or other liability resulting from errors in transmission or from execution by the Bank of fraudulent, forged or otherwise unauthorized instructions, except to the extent that any such loss is caused by the Bank’s gross negligence or willful misconduct, as determined by a court of competent jurisdiction pursuant to a decision that is not subject to appeal.
+
+17.
+
+WAIVER OF JURY TRIAL
+
+. EACH OF THE BANK AND THE BORROWER HEREBY WAIVES TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM ARISING OUT OF OR RELATING TO THE FACILITY DOCUMENTS. 
+
+18.
+
+USA Patriot Act Notice
+
+.    The Bank hereby notifies the Borrower that pursuant to the requirements of the USA Patriot Act (Title III of Pub. L. 107-56 (signed into law October 26, 2001)) (the “
+
+Act
+
+”), it is required to obtain, verify and record information that identifies the Borrower, which information includes the name and address of the Borrower and other information that will allow the Bank, to identify the Borrower in accordance with the Act. The Borrower shall, and shall cause each of its Subsidiaries and Affiliates to, provide, to the extent commercially reasonable, such information and take such actions as are reasonably requested by the Bank to maintain compliance with the Act.
+
+19.
+
+Information
+
+.    The Bank may disclose all information relating to the Borrower and/or the Facility Documents to any of its Affiliates and its and their respective officers, directors, employees, advisors and agents and to any other Person: (a) to (or through) whom the Bank assigns or transfers (or may potentially assign or transfer) all or any of its rights and obligations under the Facility Documents; (b) with (or through) whom the Bank enters into (or may potentially enter into) any participation, securitization, hedge, credit insurance or otherwise, in relation to, or any other transaction under which payments are to be made by reference to the Facility Documents; (c) in connection with any action or proceeding relating to the Facility Documents or any enforcement of the terms thereof; or (d) to whom, and to the extent that, information is required to be disclosed by any Applicable Law, subpoena or other legal process, to its regulatory authorities or auditors; 
+
+provided, however,
+
+ that (y) in relation to (a) and (b) above, the Person or entity to whom information is to be given has entered into a confidentiality undertaking and (e) in relation to (d) above, to the extent timely practicable and legally permitted, the Bank shall notify the Borrower prior to any such disclosure. 
+
+20.
+
+Severability
+
+.    If any provision of any Facility Document is held to be illegal, invalid or unenforceable, the legality, validity and enforceability of the remaining provisions of the Facility Documents shall not be affected or impaired thereby. The invalidity of a provision in a particular jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+
+21.
+
+Successors and Assigns
+
+.         Each of the Facility Documents shall be binding upon the parties hereto and each of their permitted successors and permitted assigns. The Borrower may not assign any rights or delegate any Obligations without the Bank’s prior written consent and any attempted assignment or delegation by the Borrower without such consent shall be null and void. The Bank may, at 
+
+8
+
+any time, with the prior written consent of the Borrower, assign to one or more financial institutions or any other Person (other than a natural person or a holding company, investment vehicle or trust for, or owned and operated for the primary benefit of, a natural person) all or a portion of its rights and obligations under the other Facility Documents (including, without limitation all or a portion of the Advances
+
+ 
+
+at the time owing to it); 
+
+provided
+
+ that (x) no consent of the Borrower shall be required for an assignment to an Affiliate of the Bank or if an Event of Default has occurred and is continuing, and (y) the Borrower shall be deemed to have consented to any such assignment unless it shall object thereto by written notice to the Bank within five Business Days after having received written notice thereof. 
+
+(a)
+
+The Bank may, without the consent of, or notice to, the Borrower, sell participations to any financial institution (each, a “
+
+Participant
+
+”) in all or a portion of the Bank’s rights and/or obligations under the Facility Documents (including, without limitation all or a portion of the Advances at the time owing to it); 
+
+provided
+
+, that (i) the Bank’s obligations, if any, under the Facility Documents shall remain unchanged, (ii) the Bank shall remain solely responsible to the Borrower for the performance of such obligations and (iii) the Borrower shall continue to deal solely and directly with the Bank in connection with Bank’s rights and obligations under the Facility Documents. The Borrower agrees that each Participant shall be entitled to the benefits of the Sections with the headings “Yield Protection; Break Funding; Funding Issues”; “Taxes”; “Expenses”; and “Indemnity” to the same extent as if it were the Bank and had acquired its interest by assignment.
+
+(b)
+
+The Bank may at any time pledge or assign a security interest in all or any portion of its rights under the Facility Documents to secure obligations of the Bank, including any pledge or assignment to secure obligations to a Federal Reserve Bank or any other central bank; 
+
+provided
+
+ that no such pledge or assignment shall release the Bank from any of its obligations hereunder or substitute any such pledge or assignee for the Bank as a party hereto.
+
+22.
+
+Counterparts; Integration
+
+. The Facility Documents may be executed in counterparts (and by different parties hereto in different counterparts), each of which shall constitute an original, but all of which when taken together shall constitute a single contract. The Facility Documents constitute the entire contract among the parties relating to the subject matter hereof and supersede any and all previous agreements and understandings, oral or written, relating to the subject matter hereof. Delivery of an executed counterpart of a signature page of any Facility Document by any electronic means that reproduces an image of the actual executed signature page shall be effective as delivery of a manually executed counterpart of such Facility Document. Each of the Bank and the Borrower agrees to the use of Electronic Signatures (as defined below), accepts the validity of an Electronic Signature or electronic data, and confirms that such signature or data have the same force and legal effect as if in writing or paper. However, each of the Bank and the Borrower reserves the right at any time to require a written record or a manual signature from the other party in lieu of or in addition to any such Electronic Signature. Neither the Bank nor the Borrower will contest the admissibility of documents or records simply because they are in electronic form. Each of the Bank and the Borrower also accepts that records and documents in non-paper or electronic form, including in SWIFT message form, will have the same force as paper copies (if any), and that they will legally bind it as if in writing with original signature. For purposes hereof, “Electronic Signature” means an electronic sound, symbol, or process attached to, or associated with, a contract or other record and adopted by a Person with the intent to sign, authenticate or accept such contract or record.
+
+23.
+
+Interest Rate Limitation
+
+.    Notwithstanding anything to the contrary contained in any Facility Document, the interest paid or agreed to be paid under the Facility Documents shall not exceed the maximum rate of non-usurious interest permitted by Applicable Law (the “
+
+Maximum Rate
+
+”). If the Bank shall receive interest in an amount that exceeds the Maximum Rate, the excess interest shall be applied to the principal of the Advances or, if it exceeds such unpaid principal, refunded to the Borrower. 
+
+24.
+
+Waiver of Consequential Damages, Etc.
+
+     To the fullest extent permitted by Applicable Law, the Borrower shall not assert, and the Borrower hereby waives, any claim against the Bank, its Affiliates and its and such Affiliate’s directors, officers, employees, attorneys and agents, on any theory of liability, for special, indirect, consequential or punitive damages (as opposed to direct or actual damages) arising out of, in connection with, or as a result of, any Facility Document or any agreement or instrument contemplated hereby, the transactions contemplated hereby or thereby, any Advance or the use of the proceeds thereof. Neither the Bank or any of its Affiliates nor the Bank’s or such Affiliate’s directors, officers, employees, attorneys and agents shall be liable for any damages arising from the use by unintended recipients of any information or other materials distributed by it through 
+
+9
+
+telecommunications, electronic or other information transmission systems in connection with the Facility Documents or the transactions contemplated hereby or thereby.
+
+25.
+
+Notices
+
+. All notices and other communications provided for hereunder shall be in writing or by electronic transmission (e-mail) and addressed, delivered or transmitted to the appropriate party at the address or e-mail address of such party set forth beneath its signature on the Uncommitted Facility Letter or at such other address or e-mail address as may be designated by such party in a notice to the other party. Any notice, if mailed and properly addressed with postage prepaid or if properly addressed and sent by pre-paid courier service, shall be deemed given when received; and any such notice, if e-mailed, shall be deemed to have been given when sent (except that, if not given during normal business hours of the recipient, shall be deemed to have been given at the opening of business on the next Business Day of the recipient).
+
+26.
+
+Certain Definitions
+
+.    As used herein, the following terms shall have the following meanings (all terms defined in this Section or in other provisions of this Supplement and/or the other Facility Documents in the singular to have the same meanings when used in the plural and vice versa):
+
+Advance
+
+: 
+
+Shall have the meaning set forth in Section 1 of the Uncommitted Facility Letter.
+
+Advance Request
+
+: Shall have the meaning set forth in Section 5(b) of the Uncommitted Facility Letter.
+
+Affiliate
+
+: 
+
+ Shall mean, as to any Person, any other Person that, directly or indirectly, through one or more intermediaries, controls, or is controlled by, or is under common control with, such Person. For purposes of this definition, “
+
+control
+
+” of a Person (including, with its correlative meanings, “
+
+controlled by
+
+” and “
+
+under common control with
+
+”) means the power, directly or indirectly, to direct or cause the direction of the management and policies of such Person, whether through the ability to exercise voting power, by contract or otherwise.
+
+Applicable Law
+
+:
+
+ Shall mean, as to any Person, all applicable Laws binding upon such Person or to which such Person is subject.
+
+Applicable Margin
+
+: Shall mean, with respect to any Advance, the interest rate specified as the “Applicable Margin” in the Advance Request for such Advance.
+
+Applicable Reference Rate
+
+: Shall mean, with respect to any Advance, Cost of Funds, Prime Rate, Daily Simple SOFR or Term SOFR, as specified in the Advance Request for such Advance.
+
+Bank
+
+: Shall have the meaning set forth in the preamble to the Uncommitted Facility Letter.
+
+Borrower
+
+:
+
+ 
+
+Shall have the meaning set forth in the preamble to the Uncommitted Facility Letter.
+
+Business Day
+
+: Shall mean a day (other than a Saturday or Sunday) on which commercial banks are open and not authorized to be closed for domestic and international business (including dealings in Dollar deposits) in New York.
+
+Change of Control
+
+: 
+
+Shall mean the acquisition of ownership, directly or indirectly, beneficially or of record, by any Person or group (within the meaning of the Securities Exchange Act of 1934 and the rules of the Securities and Exchange Commission thereunder as in effect on the date hereof), of equity interests representing more than 35% of either the aggregate ordinary voting power or the aggregate equity value represented by the issued and outstanding equity interests of the Borrower.
+
+Code
+
+:
+
+ Shall mean the U.S. Internal Revenue Code of 1986, as amended from time to time.
+
+Cost of Funds
+
+: Shall mean for any Interest Period applicable to any Advance, the rate per annum quoted by the Bank to the Borrower at or about the commencement of such Interest Period as its cost of funds for 
+
+10
+
+the Advance for such Interest Period, as determined by the Bank in its sole discretion which determination may include, without limitation, such factors as the Bank shall deem appropriate from time to time, including without limitation, market, regulatory and liquidity conditions; 
+
+provided
+
+, 
+
+that
+
+, such rate is not necessarily the cost to the Bank of funding the specific Advance, and may exceed the Bank’s actual cost of borrowing in the interbank market or other markets in which the Bank may obtain funds from time to time for amounts similar to the amount of the Advance and/or for periods similar to the Interest Period then applicable to the Advance; 
+
+provided
+
+,
+
+ 
+
+that
+
+, if Cost of Funds as so determined shall ever be less than the Floor, then Cost of Funds shall be deemed to be the Floor.
+
+Cost of Funds Advance
+
+: Shall mean an Advance bearing interest based on Cost of Funds.
+
+Daily Simple SOFR
+
+: Shall mean, for any day (a “
+
+SOFR Rate Day
+
+”), a rate per annum equal to SOFR for the day (such day, “
+
+i
+
+”) that is two (2) U.S. Government Securities Business Days prior to 
+
+(i)
+
+ if such SOFR Rate Day is a U.S. Government Securities Business Day, such SOFR Rate Day or 
+
+(ii)
+
+ if such SOFR Rate Day is not a U.S. Government Securities Business Day, the U.S. Government Securities Business Day immediately preceding such SOFR Rate Day, in each case, as SOFR is published by the SOFR Administrator on the NYFRB’s Website; 
+
+provided
+
+, 
+
+however
+
+, that if as of 5:00 pm (New York City time) on the second (2
+
+nd
+
+) U.S. Government Securities Business Day immediately following any day “
+
+i
+
+”, SOFR in respect of such day “
+
+i
+
+” has not been published on the NYFRB’s Website, then SOFR for such day “
+
+i
+
+” will be SOFR as published in respect of the first preceding U.S. Government Securities Business Day for which SOFR was published on the NYFRB’s Website so long as such first preceding U.S. Government Securities Business Day is not more than three (3) U.S. Government Securities Business Days prior to such SOFR Rate Day; 
+
+provided
+
+, 
+
+that
+
+ if Daily Simple SOFR as so determined shall ever be less than the Floor, then Daily Simple SOFR shall be deemed to be the Floor.
+
+Daily Simple SOFR Advance
+
+: Shall mean an Advance bearing interest based on Daily Simple SOFR.
+
+Default
+
+:
+
+ Shall mean any event or condition that constitutes an Event of Default or that, with the giving of any notice, the passage of time, or both, would be an Event of Default.
+
+Dollar or $
+
+:
+
+ Shall mean the lawful currency of the United States of America.
+
+Event of Default
+
+:
+
+ Shall have the meaning specified in Section 8 of this Supplement.
+
+Facility Documents
+
+:
+
+ Shall mean this Agreement, each Advance Request and all of the documents, instruments and agreements executed pursuant thereto or in connection therewith, as the same may be amended, modified or supplemented from time to time. 
+
+FCPA
+
+:
+
+ Shall mean the U.S. Foreign Corrupt Practices Act of 1977, as amended, and the rules and regulations thereunder.
+
+Federal Funds Rate
+
+: Shall mean, for any day, the rate calculated by the NYFRB based on such day’s federal funds transactions by depositary institutions, as determined in such manner as shall be set forth on the NYFRB’s Website from time to time, and published on the next succeeding Business Day by the NYFRB as the effective federal funds rate; 
+
+provided
+
+, that, if the Federal Funds Rate as so determined would be less than the Floor such rate shall be deemed to be the Floor for the purposes of this Agreement. Any change in the Federal Funds Rate shall be effective from and including the effective date of such change in the Federal Funds Rate.
+
+Floor
+
+: Shall mean a rate of interest equal to zero percent (0.00%).
+
+11
+
+GAAP
+
+:
+
+ Shall mean United States generally accepted accounting principles and practices consistently applied.
+
+Governmental Authority
+
+: Shall mean the government of the United States of America or any other nation, or of any political subdivision thereof, whether state or local, and any agency, authority, instrumentality, regulatory body, court, central bank or other entity exercising executive, legislative, judicial, taxing, regulatory or administrative powers or functions of or pertaining to government (including any supra national bodies such as the European Union or the European Central Bank).
+
+Indebtedness
+
+: Shall mean, with respect to any Person, (a) all obligations of such Person for borrowed money or with respect to deposits or advances of any kind, (b) all obligations of such Person evidenced by bonds, debentures, notes or other similar instruments, (c) all obligations of such Person for the deferred purchase price of property or services, excluding (i) deferred compensation payable to directors, officers or employees of such Person, (ii) trade accounts payable incurred in the ordinary course of business and (iii) any purchase price adjustment or earn-out incurred in connection with an acquisition, (d) all obligations of such Person under conditional sale or other title retention agreements relating to property purchased by such Person, excluding trade accounts payable incurred in the ordinary course of business, (e) all obligations of such Person as an account party under any letter of credit or in respect of bankers’ acceptances, (f) all Indebtedness under the other clauses of this definition of any third party secured by property or assets of such Person (regardless of whether or not such Person is liable for repayment of such obligations), and (g) all guarantees and contingent obligations with respect to Indebtedness under the other clauses of this definition of such Person.
+
+Interest Payment Date
+
+: Shall mean the first Business Day of each calendar month.
+
+Interest Period
+
+: Shall mean, as to any Term SOFR Advance, the period commencing on the date of such Advance and ending on the numerically corresponding day in the calendar month that is one month thereafter (in each case, subject to the availability thereof), as specified in the applicable Advance Request; 
+
+provided
+
+, that (a) if any Interest Period would end on a day other than a Business Day, such Interest Period shall be extended to the next succeeding Business Day unless such next succeeding Business Day would fall in the next calendar month, in which case such Interest Period shall end on the next preceding Business Day, (b) any Interest Period that commences on the last Business Day of a calendar month (or on a day for which there is no numerically corresponding day in the last calendar month of such Interest Period) shall end on the last Business Day of the last calendar month of such Interest Period, and (c) no Interest Period shall extend beyond the Maturity Date. 
+
+Laws
+
+:
+
+ Shall mean, collectively, all international, foreign, federal, state and local statutes, treaties, rules, guidelines, regulations, ordinances, codes, restrictions and administrative or judicial precedents or authorities, including the interpretation or administration thereof by any Governmental Authority charged with the enforcement, interpretation or administration thereof, and all applicable administrative or judicial orders, directed duties, requests, licenses, authorizations and permits of, and agreements with, any Governmental Authority, in each case whether or not having the force of law.
+
+Lien
+
+: Shall mean any mortgage, pledge, hypothecation, collateral assignment, deposit arrangement, encumbrance, lien (statutory or other), charge, or preference, priority or other security interest or preferential arrangement of any kind or nature whatsoever (including any conditional sale or other title retention agreement, any easement, right of way or other encumbrance on title to real property, and any financing lease having substantially the same economic effect as any of the foregoing).
+
+Margin Stock
+
+:
+
+ Shall mean “margin stock” within the meaning of Regulations T, U and X of the Board of Governors of the Federal Reserve System.
+
+12
+
+Material Adverse Effect
+
+:
+
+ Shall mean (a) a material adverse change in, or a material adverse effect on, the operations, business, properties, liabilities (actual or contingent) or condition (financial or otherwise) of the Borrower and its Subsidiaries taken as a whole; or (b) a material adverse effect on (i) the ability of the Borrower to perform its Obligations, (ii) the legality, validity, binding effect or enforceability against the Borrower of any Facility Document to which it is a party or (iii) the rights, remedies and benefits available to, or conferred upon, the Bank under any Facility Document.
+
+Material Indebtedness
+
+: Shall mean Indebtedness (other than the Advances) in an aggregate principal amount exceeding US$250,000,000;
+
+Maturity Date
+
+: Shall have the meaning set forth in Section 2 of the Uncommitted Facility Letter.
+
+NYFRB
+
+: Shall mean the Federal Reserve Bank of New York.
+
+NYFRB’s Website
+
+: Shall mean the website of the NYFRB at http://www.newyorkfed.org, or any successor source.
+
+Obligations
+
+:
+
+ Shall mean all obligations (monetary or otherwise, whether absolute or contingent, matured or unmatured) of the Borrower arising under or in connection with this Agreement and/or the other Facility Documents, including reimbursement obligations and the principal of and premium, if any, and interest and fees on the Advances.
+
+Person
+
+: 
+
+Shall mean any present or future natural person or any corporation, association, partnership, joint venture, limited liability, joint stock or other company, business trust, trust, organization, business or Governmental Authority.
+
+Prime Rate
+
+: 
+
+Shall mean, for any day, a rate per annum equal to the greatest of (a) the variable per annum rate of interest so designated from time to time by the Bank as its prime rate in effect on such day, (b) the Federal Funds Rate in effect on such day 
+
+plus
+
+ 1/2 of 1% and (c) Term SOFR for a one-month tenor in effect on such day plus 0.50%. The Prime Rate is a reference rate and does not necessarily represent the lowest or best rate being charged to any customer of the Bank. Any change in the Prime Rate shall be effective from and including the effective date of such change in the Prime Rate. If the Prime Rate shall be less than the Floor, such rate shall be deemed to be the Floor for purposes of this Agreement and any other Facility Documents.
+
+Prime Rate Advance
+
+: Shall mean an Advance bearing interest based on the Prime Rate.
+
+Relevant Currency
+
+: Shall have the meaning set forth in Section 14 of this Supplement.
+
+Sanctions
+
+:
+
+ Shall mean sanctions or restrictive measures enacted, administered, imposed or enforced by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC), the U.S. Department of State, the United Nations Security Council, the European Union, HM’s Treasury or other relevant sanctions authority.
+
+Significant Subsidiary
+
+: Shall mean any Subsidiary which would constitute a “significant subsidiary” as defined in Rule 1-02 of Regulation S-X under the Securities Act of 1933, as amended, and the Securities and Exchange Act of 1934, as amended.
+
+SOFR
+
+: Shall mean a rate equal to the secured overnight financing rate as administered by the SOFR Administrator.
+
+13
+
+SOFR Administrator
+
+: Shall mean the NYFRB (or a successor administrator of the secured overnight financing rate).
+
+Subsidiary
+
+:
+
+ Shall mean, with respect to any Person, (a) any corporation more than fifty percent (50%) of whose stock of any class or classes having by the terms of ordinary voting the power to elect a majority of the directors of such corporation which is at the time owned by such Person and/or one or more Subsidiaries of such Person; and (b) any partnership, limited liability company, association, joint venture or other entity in which such Person and/or one or more Subsidiaries of such Person has an equity or income interest greater than fifty percent (50%) of all equity or income interests.
+
+Taxes
+
+:
+
+ Shall mean all present or future taxes, levies, imposts, duties, deductions, withholdings (including backup withholding), assessments, fees or other charges imposed by any Governmental Authority, including any interest, additions to tax or penalties applicable thereto.
+
+Term SOFR
+
+: Shall mean the Term SOFR Reference Rate for a tenor comparable to the applicable Interest Period on the day (such day, the “
+
+Periodic Term SOFR Determination Day
+
+”) that is two (2) U.S. Government Securities Business Days prior to the first (1st) day of such Interest Period, as such rate is published by the Term SOFR Administrator; 
+
+provided
+
+, 
+
+however
+
+, that if as of 5:00 p.m. (New York City time) on any Periodic Term SOFR Determination Day the Term SOFR Reference Rate for the applicable tenor has not been published by the Term SOFR Administrator, then Term SOFR will be the Term SOFR Reference Rate for such tenor as published by the Term SOFR Administrator on the first preceding U.S. Government Securities Business Day for which such Term SOFR Reference Rate for such tenor was published by the Term SOFR Administrator so long as such first preceding U.S. Government Securities Business Day is not more than three (3) U.S. Government Securities Business Days prior to such Periodic Term SOFR Determination Day; 
+
+provided
+
+, 
+
+that
+
+, if Term SOFR as so determined shall ever be less than the Floor, then Term SOFR shall be deemed to be the Floor.
+
+Term SOFR Administrator
+
+: Shall mean CME Group Benchmark Administration Limited (CBA) (or a successor administrator of the Term SOFR Reference Rate selected by the Bank in its reasonable discretion). 
+
+Term SOFR Advance
+
+: Shall mean an Advance bearing interest based on Term SOFR.
+
+Term SOFR Reference Rate
+
+: Shall mean the forward-looking term rate based on SOFR.
+
+U.S. Government Securities Business Day
+
+: Shall mean any day except for (a) a Saturday, (b) a Sunday or (c) a day on which the Securities Industry and Financial Markets Association recommends that the fixed income departments of its members be closed for the entire day for purposes of trading in United States government securities.
+
+[signature page(s) to follow]
+
+14
+
+IN WITNESS WHEREOF,
+
+ the parties hereto have executed this Supplement as of July 31, 2025.
+
+Very truly yours,
+
+BNP PARIBAS
+
+By: 
+
+/s/ Mariela Lazaro____________________
+
+Name: Mariela Lazaro
+
+Title: Director
+
+By: 
+
+/s/ Bridget Bonilla____________________
+
+Name: Bridget Bonilla
+
+Title: Director
+
+ACCEPTED AND AGREED:
+
+BORROWER:
+
+CENCORA, INC.
+
+By: 
+
+/s/ Mahaveer Jain____________________
+
+Name: Mahaveer Jain 
+
+Title: Senior Vice President and Treasurer
+
+EA - 1

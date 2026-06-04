@@ -1,0 +1,2190 @@
+EX-10.1
+
+4
+
+ex10-1.htm
+
+EX-10.1
+
+ 
+
+ 
+
+Exhibit
+10.1
+
+ 
+
+Execution
+Version
+
+ 
+
+Limited
+consent AND AMENDMENT NO. 3 to AMENDED AND RESTATED
+
+ 
+CREDIT,
+SECURITY AND GUARANTY AGREEMENT (TERM LOAN) 
+AND AMENDMENT NO. 1 TO PLEDGE AGREEMENT
+
+ 
+
+This
+LIMITED CONSENT AND AMENDMENT NO. 3 TO AMENDED AND RESTATED CREDIT, SECURITY AND GUARANTY AGREEMENT (TERM LOAN) AND AMENDMENT NO. 1 TO
+PLEDGE AGREEMENT (this “
+Agreement
+”) is made as of July 7, 2025, by and among 
+XTANT MEDICAL, INC.
+, a Delaware
+corporation (“
+Xtant
+”), 
+BACTERIN INTERNATIONAL, INC.
+, a Nevada corporation, 
+X-SPINE SYSTEMS, INC.
+, an
+Ohio corporation, 
+SURGALIGN SPV, INC.
+, a Delaware corporation, and any additional borrower that may hereafter be added to this
+Agreement (each individually as a “
+Borrower
+”, and collectively with any entities that become party hereto as Borrower
+and each of their successors and permitted assigns, the “
+Borrowers
+”), 
+XTANT MEDICAL HOLDINGS, INC.
+, a Delaware
+corporation (“
+Holdings
+”), as a Guarantor, 
+
+MidCap Financial Trust
+
+,
+a Delaware statutory trust, as Agent (in such capacity, together with its successors and assigns, “
+Agent
+”) and the
+other financial institutions or other entities from time to time parties to the Credit Agreement referenced below, each as a Lender.
+
+ 
+
+RECITALS
+
+ 
+
+A.
+Agent, Lenders, and the Credit Parties have entered into that certain Amended and Restated Credit, Security and Guaranty Agreement (Term
+Loan), dated as of March 7, 2024 (as amended by that certain Amendment No. 1 to Amended and Restated Credit, Security and Guaranty Agreement
+(Term Loan), dated as of May 14, 2024, as amended by that certain Amendment No. 2 to Amended and Restated Credit, Security and Guaranty
+Agreement (Term Loan), dated as of April 9, 2025, and as further amended, restated, supplemented or otherwise modified at any time prior
+to the date hereof, the “
+Existing A&R Credit Agreement
+” and as supplemented hereby and as it may be further amended,
+modified, supplemented and restated from time to time, the “
+Credit Agreement
+”), pursuant to which the Lenders have
+agreed to make certain advances of money and to extend certain financial accommodations to Borrowers in the amounts and manner set forth
+in the Credit Agreement.
+
+ 
+
+B.
+Borrowers and Holdings have notified Agent that Holdings wishes to sell, transfer and assign to Companion Spine, LLC, a Delaware limited
+liability company, or any of its affiliates or designated independent entities (the “
+Acquiror
+”) certain assets of
+Holdings, including (i) all of its Equity Interests in Paradigm Spine GmbH, an entity organized under the laws of Germany (the “
+International
+Subsidiary
+”), together with certain related assets of Holdings previously owned by Paradigm Spine, LLC, and acquired by Holdings,
+in each case as currently owned by the International Subsidiary (the “
+International Assets
+”) pursuant to that certain
+Equity Purchase Agreement dated as of July 7, 2025 (as in effect on the date hereof and together with the schedules thereto, the “
+Equity
+Purchase Agreement
+”) by and among Holdings, as seller, the International Subsidiary, as the company, and the Acquiror, as buyer,
+a copy of which is attached hereto as 
+Exhibit A
+ and (ii) certain assets and liabilities of Holdings used in the operation of,
+or related to the design, manufacture, sale, and distribution of Holdings’ “coflex” and “cofix” products
+in the United States previously owned by Paradigm Spine, LLC, and acquired by Holdings, as defined as the “Acquired Assets”
+in the Asset Purchase Agreement (as hereinafter defined) (the “
+Domestic Assets
+”, and together with the International
+Assets, collectively, the “
+Purchased Assets
+”), pursuant to that certain Asset Purchase Agreement, dated as of July
+7, 2025 (as in effect on the date hereof and together with the schedules thereto, the “
+Asset Purchase Agreement
+”,
+and together with the Equity Purchase Agreement, collectively the “
+Purchase Agreements
+”) by and between Holdings,
+as the company, and the Acquiror, as buyer, a copy of which is attached hereto as 
+Exhibit B
+.
+
+ 
+
+ 
+
+ 
+
+MidCap / Xtant / Limited Consent to A&R Credit Agreement (Term Loan)
+
+ 
+
+ 
+
+ 
+
+ 
+
+C.
+Pursuant to the Asset Purchase Agreement, as partial consideration for the Dispositions contemplated by the Purchase Agreements, Holdings
+proposes for the Acquiror to issue an unsecured promissory note (the “
+Seller Note
+”) to Holdings in an original principal
+amount of $8,200,000 (the “
+Principal Amount
+”), the form of which is attached hereto as 
+Exhibit C
+ and Holdings
+desires to pledge the Seller Note to Agent as Pledged Collateral, which Seller Note would constitute an Investment purposes of the Credit
+Agreement.
+
+ 
+
+D.
+Borrowers and Holdings have notified Agent that (x) such Permitted Paradigm Dispositions (as hereinafter defined) would not constitute
+a Permitted Asset Disposition under the Existing Credit Agreement, and (y) the proposed Investment in the form of the Seller Note would
+not constitute a Permitted Investment under the Existing Credit Agreement.
+
+ 
+
+E.
+(i) Pursuant to Section 5.6 of the Existing Credit Agreement, Credit Parties shall not make or consummate any Asset Dispositions other
+than Permitted Asset Dispositions and (ii) pursuant to Section 5.7 of the Existing Credit Agreement, Credit Parties shall not acquire,
+make, own, hold, or otherwise consummate any Investment (including for the avoidance of doubt, any Acquisition) other than Permitted
+Investments, or enter into any agreement to acquire, make, own or hold any Investment other than Permitted Investments.
+
+ 
+
+F.
+The Credit Parties have entered into that certain Pledge Agreement, dated as of May 6, 2021 (as amended, restated, reaffirmed, supplemented
+or otherwise modified prior to the date hereof, the “
+Existing Pledge Agreement
+”, and the Existing Pledge Agreement,
+as it is amended hereby and may be further amended, restated, reaffirmed, supplemented or otherwise modified from time to time, the “
+Pledge
+Agreement
+”), pursuant to which the Pledgors (as defined therein) have granted to Agent a security interest in certain Equity
+Interests and Debt set forth therein to secure the Obligations.
+
+ 
+
+G.
+Pursuant to Section 2.1(a)(ii)(B)(iii) of the Credit Agreement, unless Agent otherwise consents in writing, within five (5) Business
+Days of receipt by any Credit Party of the proceeds in excess of $100,000 of any Asset Disposition received in the prior twelve (12)
+months with respect to assets upon which Agent maintained a Lien that is not made in the Ordinary Course of Business, Credit Parties
+are required to prepay the Obligations in an amount equal to one hundred percent (100%) of the net cash proceeds of such Asset Disposition
+(net of out-of-pocket expenses, taxes and repayment of secured debt permitted under clause (c) of the definition of Permitted Debt in
+the Credit Agreement and encumbering such asset), or such lesser portion as Agent elects to apply to the Obligations (the “
+Applicable
+Prepayment
+”).
+
+ 
+
+H.
+The Credit Parties have requested, and Agent and Lenders have agreed, on and subject to the terms and conditions set forth in this Agreement,
+to (i) consent to (x) the Permitted Paradigm Dispositions and the Seller Note Investment pursuant to the Purchase Agreements, as applicable,
+and (y) the Credit Parties not making certain Applicable Prepayments, and (ii) amend the Existing Pledge Agreement to reflect the pledge
+of the Seller Note by Holdings to Agent, all in accordance with the terms and subject to the conditions set forth herein.
+
+ 
+
+AGREEMENT
+
+ 
+
+NOW,
+THEREFORE, in consideration of the foregoing, the terms and conditions set forth in this Agreement, and other good and valuable consideration,
+the receipt and sufficiency of which are hereby acknowledged, Agent, Lenders and the Credit Parties hereby agree as follows:
+
+ 
+
+1.
+
+Recitals
+
+. 
+This
+Agreement shall constitute a Financing Document and the Recitals and each reference to the Credit Agreement, unless otherwise expressly
+noted, will be deemed to reference the Credit Agreement as amended hereby. Capitalized terms used but not otherwise defined herein shall
+have the meanings ascribed to them in the Credit Agreement (including those capitalized terms used in the Recitals hereto)
+.
+
+ 
+
+ 
+
+2
+
+MidCap / Xtant / Limited Consent to A&R Credit Agreement (Term Loan)
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.
+
+Limited Consent
+
+.
+
+ 
+
+(a)
+
+Subject to the satisfaction of the conditions set forth
+in this Agreement, including in this 
+Section 2(a)
+ and 
+Section 6
+, and in reliance on the representations and warranties
+contained in 
+Section 5
+ below, Agent and the Lenders hereby consent to Holdings entering into the Purchase Agreements and (w) disposing
+of the Equity Interests of the International Subsidiary and the International Assets on and subject to the terms of the Equity Purchase
+Agreement (the “
+International Dispositions
+”), (x) disposing of the Domestic Assets on and subject to the terms of
+the Asset Purchase Agreement (the “
+Domestic Disposition
+” and together with the International Dispositions, the “
+Permitted
+Paradigm Dispositions
+”), (y) the making of an Investment by receipt of the Seller Note by Holdings as part of the purchase
+price paid by the Purchaser for the Domestic Assets (the “
+Seller Note Investment
+”) and (z) the Credit Parties not
+making certain prepayments that would otherwise be required pursuant to the terms of the Credit Agreement; provided, in each case, that:
+
+ 
+
+(i)
+
+The International Dispositions and the Domestic Disposition
+are consummated no later than Termination Date (as defined in the Asset Purchase Agreement, as the same is in effect on the date hereof)
+or such later date as Agent may agree, in its sole discretion;
+
+ 
+
+(ii)
+
+the Permitted Paradigm Dispositions are consummated
+in all material respects in accordance with the terms of the Purchase Agreements in the forms attached hereto as 
+Exhibit A
+ and
+
+Exhibit B,
+ respectively, without giving effect to any amendments, consents, waivers or other modifications thereto, unless approved
+by Agent in writing in its sole discretion;
+
+ 
+
+(iii)
+
+(x) the Seller Note is delivered to Agent on the Asset
+Purchase Agreement Closing Date in form and substance satisfactory to Agent in its sole and absolute discretion (for the avoidance of
+doubt, the Seller Note shall include provisions satisfactory to Agent in its sole and absolute discretion providing for its collateral
+assignment to Agent) and in substantially the form attached hereto as 
+Exhibit C
+, and (y) Agent shall have received an allonge
+in form and substance satisfactory to Agent relating to the Seller Note executed in blank;
+
+ 
+
+(iv)
+
+Agent shall have received (A) that certain intellectual
+property assignment agreement between Holdings and the Acquiror, (B) (x) that certain bill of sale delivered by Holdings to the Acquiror
+and (y) that certain bill of sale delivered by Surgalign SPV, Inc., to the Acquiror, (C) that certain assignment and assumption agreement
+between Holdings and the Acquiror, (D) that certain Transition Services Agreement between Holdings and the Acquiror, (E) that certain
+Subordination Agreement between Holdings and Innovatus Life Sciences Lending Fund I, LP, in its capacity as collateral agent, as it relates
+to the Seller Note, and (F) each other agreement, instrument or document executed in connection with any of the foregoing, in each case
+of clauses (A)-(D) hereto, in substantially the form attached to the Asset Purchase Agreement as attached hereto as 
+Exhibit B
+;
+
+ 
+
+(v)
+
+no Default or Event of Default exists or would (after
+giving effect to this Agreement) result therefrom; and
+
+ 
+
+ 
+
+3
+
+MidCap / Xtant / Limited Consent to A&R Credit Agreement (Term Loan)
+
+ 
+
+ 
+
+ 
+
+ 
+
+(vi)
+
+Agent shall have received the prepayment of the Term
+Loans contemplated to be made at or prior to the closing of the respective Permitted Paradigm Disposition.
+
+ 
+
+(b)
+
+The limited consent set forth in this 
+Section 2
+
+is effective solely for the purposes set forth herein and shall be limited precisely as written and shall not, except as expressly provided
+herein, be deemed to (a) be a consent to any amendment, waiver or modification of any term or condition of the Credit Agreement or of
+any other Financing Document; (b) prejudice any right that Agent or Lenders have or may have in the future under or in connection with
+the Credit Agreement or any other Financing Document; (c) constitute a consent to or waiver of any past, present or future Default or
+Event of Default or other violation of any provisions of the Credit Agreement or any other Financing Documents; (d) create any obligation
+to forbear from taking any enforcement action, or to make any further extensions of credit; or (e) establish a custom or course of dealing
+among any of the Credit Parties, on the one hand, or Agent or any Lender, on the other hand.
+
+ 
+
+3.
+
+Partial Release of Collateral
+
+.
+
+ 
+
+(a)
+
+Subject to the terms and conditions of this Agreement,
+at Borrower’s sole cost and expense, upon Agent’s receipt of satisfactory written confirmation of the consummation of the
+Permitted Paradigm Dispositions in accordance with the terms of the Purchase Agreements and satisfaction of the conditions set forth
+in 
+Section 2(a)
+ of this Agreement, Agent acknowledges and agrees, pursuant to Section 11.9(a)(ii) of the Credit Agreement, that
+any security interest previously granted to it in the Purchased Assets and in the Equity Interests of the International Subsidiary and
+all of Holdings’ interests in, to and under the Shares (as defined in the Equity Purchase Agreement as in effect on the date hereof)
+will be automatically discharged and released. Upon consummation of the International Dispositions, Agent and Lenders further acknowledge
+and Agree that Paradigm Spine GmbH shall no longer constitute a Subsidiary or Restricted Foreign Subsidiary for purposes of the Financing
+Documents. Except as otherwise expressly set forth herein, the provisions of this paragraph 3(a) do not release any Lien granted by the
+Credit Parties in favor of the Agent, for the benefit of the Lenders, pursuant to the Credit Agreement or any other Financing Document.
+Following confirmation from Borrower of the consummation of the Permitted Paradigm Dispositions in accordance with the terms of this
+Agreement, Agent agrees, at Borrower’s sole cost and expense, to (i) promptly file the a UCC-3 financing statement, in form and
+substance satisfactory to Agent, evidencing the partial release set forth in this Section 3(a) and (ii) take all reasonable further action
+as Borrower may reasonably request to evidence the consummation of the release of Agent’s Liens in the Purchased Assets as set
+forth in this 
+Section 3(a)
+.
+
+ 
+
+(b)
+
+The partial Lien release in 
+Section 3(a)
+ is made
+without recourse to or warranty by Agent or any Lender. It is expressly agreed and understood that the release in 
+Section 3(a)
+
+is a partial release and that it shall in no manner release, affect or otherwise impair the liens and security interest in favor of Agent,
+under the Credit Agreement or any Financing Document or otherwise, against any Collateral other than the Purchased Assets and the Equity
+Interests in the International Subsidiary, as applicable.
+
+ 
+
+4.
+
+Amendments to Pledge Agreement
+
+. Immediately
+upon the issuance of the Seller Note, each Credit Party hereby agrees that the Pledged Debt listed on 
+Schedule I
+ attached hereto
+shall automatically be and become a part of the Pledged Collateral referred to in the Pledge Agreement and shall secure all Obligations
+referred to and in accordance with the Pledge Agreement. 
+Schedule I
+ of the Pledge Agreement shall be deemed amended to include
+the Pledged Collateral listed on 
+Schedule I
+ hereto. The Credit Parties acknowledge that any Pledged Collateral issued by any Issuer
+and owned by any Pledgor but not included in 
+Schedule I
+ hereto or already listed as Pledged Collateral on 
+Schedule I
+ of
+the Existing Pledge Agreement, at the sole discretion of Agent, may not otherwise be pledged by such Pledgor to any other Person or otherwise
+used as security for any obligations other than the Obligations.
+
+ 
+
+ 
+
+4
+
+MidCap / Xtant / Limited Consent to A&R Credit Agreement (Term Loan)
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.
+
+Representations and Warranties; Reaffirmation
+of Security Interest
+.
+ Each Credit Party hereby confirms that all of the representations and warranties set forth in the Credit
+Agreement are true and correct in all material respects (without duplication of any materiality qualifier in the text of such representation
+or warranty) with respect to such Credit Party as of the date hereof except to the extent that any such representation or warranty relates
+to a specific date in which case such representation or warranty shall be true and correct as of such earlier date. Nothing herein is
+intended to impair or limit the validity, priority or extent of Agent’s security interests in and Liens on the Collateral. Each
+Credit Party acknowledges and agrees that the Credit Agreement, the other Financing Documents and this Agreement constitute the legal,
+valid and binding obligation of such Credit Party, and are enforceable against such Credit Party in accordance with its terms, except
+as the enforceability thereof may be limited by bankruptcy, insolvency or other similar laws relating to the enforcement of creditors’
+rights generally and by general equitable principles.
+
+ 
+
+6.
+
+Conditions to Effectiveness
+. 
+This Agreement
+shall become effective as of the date on which each of the following conditions have been satisfied, as determined by Agent in its sole
+discretion:
+
+ 
+
+(a)
+Agent shall have received (including by way of facsimile or other electronic transmission) a duly authorized, executed and delivered
+counterpart of the signature page to this Agreement from each Credit Party, the Agent and the Lenders;
+
+ 
+
+(b)
+Agent shall have received a duly executed copy of the Limited Consent and Amendment No. 3 to Amended and Restated Credit, Security and
+Guaranty Agreement (Revolving Loan) and Amendment No. 1 to Pledge Agreement;
+
+ 
+
+(c)
+Agent shall have received duly executed copies of each of (i) the Equity Purchase Agreement, (ii) the Asset Purchase Agreement, and (iii)
+each other agreement, instrument or document executed in connection with any of the foregoing;
+
+ 
+
+(d)
+all representations and warranties set forth in the Credit Agreement shall be true and correct in all material respects (without duplication
+of any materiality qualifier in the text of such representation or warranty) as of the date hereof, except to the extent that any such
+representation or warranty relates to a specific date in which case such representation or warranty shall be true and correct in all
+material respects as of such earlier date (without duplication of any materiality qualifier in the text of such representation or warranty)
+(and Borrower’s delivery of its signature hereto shall be deemed to be its certification thereof);
+
+ 
+
+(e)
+immediately prior to and after giving effect to this Agreement, no Default or Event of Default exists under any of the Financing Documents;
+
+ 
+
+(f)
+Agent shall have received the Signing Date Prepayment in full; and
+
+ 
+
+(g)
+the Credit Parties shall have delivered such other documents, information, certificates, records, permits, and filings as the Agent may
+reasonably request.
+
+ 
+
+ 
+
+5
+
+MidCap / Xtant / Limited Consent to A&R Credit Agreement (Term Loan)
+
+ 
+
+ 
+
+ 
+
+ 
+
+7.
+
+Costs and Fees.
+
+ Borrowers shall be responsible
+for the payment of all reasonable, documented and invoiced out-of-pocket costs and fees of Agent’s counsel incurred in connection
+with the preparation, negotiation, execution and delivery of this Agreement and any related Financing Documents.
+
+ 
+
+8.
+
+Prepayments
+
+. On and subject to the terms
+and conditions of this Agreement and the other Financing Documents, notwithstanding Section 2.1(a)(ii)(B)(iii) of the Credit Agreement,
+Agent and Lenders hereby agree that the following prepayments shall be required in connection with the Permitted Paradigm Dispositions
+in the following amounts and at the following times:
+
+ 
+
+(i)
+
+On the date hereof, Borrowers shall prepay the Term
+Loans in an amount equal to $2,500,000 with the amount received by Borrowers in the form of the Deposit (as defined in the Asset Purchase
+Agreement as in effect on the date hereof) (the “
+Signing Date Prepayment
+”);
+
+ 
+
+(ii)
+
+Within one Business Day of receipt by or on behalf of
+Borrowers or their Subsidiaries of any additional amounts as consideration in connection the Permitted Paradigm Dispositions (including
+any amounts received as a Subsequent Deposit (as defined in the Asset Purchase Agreement on the date hereof) and any payments received
+under or in respect of the Seller Note), Borrowers shall prepay the Term Loans on a dollar-for-dollar basis with such amounts received
+until Agent has received an additional $2,500,000 as a prepayment of the Term Loans pursuant to this Section 8(ii);
+
+ 
+
+(iii)
+
+Without limiting clauses (i) and (ii), within one Business
+Day of receipt by or on behalf of Borrowers or their Subsidiaries of any additional amounts as consideration in connection the Permitted
+Paradigm Dispositions (including any amounts received as a Subsequent Deposit and any payments received under or in respect of the Seller
+Note), Borrowers shall prepay the Term Loans in an amount equal to 50% of the amounts so received until Agent has received an additional
+$4,600,000 as a prepayment of the Term Loans pursuant to this Section 8(iii).
+
+ 
+
+All
+prepayments made in accordance with this 
+Section 8
+ shall be applied in accordance with Section 2.1(a)(iii) of the Credit Agreement.
+Each Credit Party hereby acknowledges and agrees that any breach of any of the covenants set forth in this 
+Section 8
+ shall automatically
+constitute an immediate Event of Default under the Credit Agreement. The Borrowers hereby covenant and agree not to amend, waive or otherwise
+modify any provision of the Purchase Agreements or waive or forgo any consideration due to Borrowers or their Subsidiaries in connection
+with the Permitted Paradigm Dispositions without Agent’s prior written consent. For the avoidance of doubt, the prepayments required
+pursuant to this 
+Section 8
+ are cumulative and the total amount of all prepayments required shall be $9,600,000.
+
+ 
+
+9.
+
+Amendments to Credit Agreement
+
+. 
+Subject
+to the terms and conditions of this Agreement, including, without limitation, the conditions to effectiveness set forth in 
+Section
+8
+ below, 
+each of the parties hereto agrees that the Existing A&R Credit Agreement shall be amended as follows:
+
+ 
+
+(a)
+
+Section 1.1
+ of the Existing A&R Credit Agreement
+is hereby amended by amending and restating the definition of “
+Material Contracts
+” in its entirety as follows:
+
+ 
+
+““
+Material
+Contracts
+” means (a) the Financing Documents, (b) the agreements listed on 
+Schedule 3.17
+, (c) the each Asset Purchase
+Agreement (as defined in the Paradigm Consent), the Seller Note (as defined in the Paradigm Consent), and each material document, instrument
+and agreement executed in connection therewith, and (d) any other agreement or contract to which such Credit Party or its Subsidiaries
+is a party the termination of which could reasonably be expected to result in a Material Adverse Effect.”
+
+ 
+
+ 
+
+6
+
+MidCap / Xtant / Limited Consent to A&R Credit Agreement (Term Loan)
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+
+Section 1.1
+ of the Existing A&R Credit Agreement
+is hereby amended by adding the following defined term in the appropriate alphabetical order therein:
+
+ 
+
+““
+Paradigm
+Consent
+” means that certain Limited Consent and Amendment No. 3 to Amended and Restated Credit, Security and Guaranty Agreement
+(Term Loan) and Amendment No. 1 To Pledge Agreement, dated as of July 7, 2025, among Credit Parties, Agent and the Lenders party thereto,
+as the same is amended, supplemented or otherwise modified from time to time in accordance with the terms of the Financing Documents.”
+
+ 
+
+(c)
+
+Solely upon consummation of the Permitted Paradigm Dispositions
+(as defined in the Paradigm Consent), Schedule 6.1 of the Existing A&R Credit Agreement is herby replaced in its entirety with Schedule
+6.1 hereto.
+
+ 
+
+10.
+
+Release
+.
+ In consideration of the agreements
+of Agent and Lenders contained herein and for other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged,
+Credit Party, voluntarily, knowingly, unconditionally and irrevocably, with specific and express intent, for and on behalf of itself
+and all of its respective parents, subsidiaries, affiliates, members, managers, predecessors, successors, and assigns, and each of their
+respective current and former directors, officers, shareholders, agents, and employees, and each of their respective predecessors, successors,
+heirs, and assigns (individually and collectively, the “
+Releasing Parties
+”) does hereby fully and completely release,
+acquit and forever discharge each of Agent, Lenders, and each their respective parents, subsidiaries, affiliates, members, managers,
+shareholders, directors, officers and employees, and each of their respective predecessors, successors, heirs, and assigns (individually
+and collectively, the “
+Released Parties
+”), of and from any and all actions, causes of action, suits, debts, disputes,
+damages, claims, obligations, liabilities, costs, expenses and demands of any kind whatsoever, at law or in equity, whether matured or
+unmatured, liquidated or unliquidated, vested or contingent, choate or inchoate, known or unknown that the Releasing Parties (or any
+of them) has against the Released Parties or any of them (whether directly or indirectly). Each Credit Party acknowledges that the foregoing
+release is a material inducement to Agent’s and each Lender’s decision to enter into this Agreement and agree to the modifications
+contemplated hereunder, and has been relied upon by Agent and Lenders in connection therewith.
+
+ 
+
+11.
+
+No Waiver or Novation
+.
+ The execution,
+delivery and effectiveness of this Agreement shall not, except as expressly provided in this Agreement, operate as a waiver of any right,
+power or remedy of Agent, nor constitute a waiver of any provision of the Credit Agreement, the Financing Documents or any other documents,
+instruments and agreements executed or delivered in connection with any of the foregoing. Nothing herein is intended or shall be construed
+as a waiver of any existing Defaults or Events of Default under the Credit Agreement or the other Financing Documents or any of Agent’s
+rights and remedies in respect of such Defaults or Events of Default. This Agreement (together with any other document executed in connection
+herewith) is not intended to be, nor shall it be construed as, a novation of the Credit Agreement.
+
+ 
+
+ 
+
+7
+
+MidCap / Xtant / Limited Consent to A&R Credit Agreement (Term Loan)
+
+ 
+
+ 
+
+ 
+
+ 
+
+12.
+
+Affirmation
+.
+ Except as specifically amended
+pursuant to the terms hereof, each Credit Party hereby acknowledges and agrees that the Credit Agreement and all other Financing Documents
+(and all covenants, terms, conditions and agreements therein) shall remain in full force and effect, and are hereby ratified and confirmed
+in all respects by such Credit Party. Each Credit Party covenants and agrees to comply with all of the terms, covenants and conditions
+of the Credit Agreement and the Financing Documents, notwithstanding any prior course of conduct, waivers, releases or other actions
+or inactions on Agent’s or any Lender’s part which might otherwise constitute or be construed as a waiver of or amendment
+to such terms, covenants and conditions.
+
+ 
+
+13.
+
+Reaffirmation and Collateral Assignment
+.
+
+ 
+
+(a)
+
+Except as specifically amended pursuant to the terms
+hereof, each Credit Party hereby acknowledges and agrees that the Credit Agreement and all other Financing Documents (and all covenants,
+terms, conditions and agreements therein) shall remain in full force and effect, and are hereby ratified and confirmed in all respects
+by such Borrower, including without limitation the granting of Liens in the Collateral to secure the Obligations pursuant to the Security
+Documents and other Financing Documents.
+
+ 
+
+(b)
+
+Each Credit Party (i) hereby collaterally assigns, pledges
+and grants to Agent, for the benefit of itself and Lenders, a first priority Lien on and security interest in, upon, and to such Credit
+Party’s right, title and interest in and to the Purchase Agreements, the Seller Note and all products and proceeds of the foregoing
+and (ii) represents, warrants and covenants that the Purchase Agreements and the Credit Parties’ rights thereunder and the products
+and proceeds thereof shall in no event constitute Excluded Property.
+
+ 
+
+(c)
+
+Each Credit Party covenants and agrees to comply with
+all of the terms, covenants and conditions of the Credit Agreement and the Financing Documents, notwithstanding any prior course of conduct,
+waivers, releases or other actions or inactions on Agent’s or any Lender’s part which might otherwise constitute or be construed
+as a waiver of or amendment to such terms, covenants and conditions. Each Credit Party confirms and agrees that all security interests
+and Liens granted to Agent continue in full force and effect, and all Collateral remains free and clear of any Liens, other than those
+granted to Agent and Permitted Liens.
+
+ 
+
+14.
+
+Miscellaneous
+
+.
+
+ 
+
+(a)
+
+Reference to the Effect on the Credit Agreement
+.
+Upon the effectiveness of this Agreement, each reference in the Credit Agreement to “this Agreement,” “hereunder,”
+“hereof,” “herein,” or words of similar import shall mean and be a reference to the Credit Agreement, as amended
+by this Agreement. Except as specifically amended above, the Credit Agreement, and all other Financing Documents (and all covenants,
+terms, conditions and agreements therein), shall remain in full force and effect, and are hereby ratified and confirmed in all respects
+by each Credit Party.
+
+ 
+
+(b)
+
+Governing Law
+. THIS AGREEMENT AND ALL DISPUTES
+AND OTHER MATTERS RELATING HERETO OR ARISING THEREFROM (WHETHER SOUNDING IN CONTRACT LAW, TORT LAW OR OTHERWISE), SHALL BE GOVERNED BY,
+AND SHALL BE CONSTRUED AND ENFORCED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK, WITHOUT REGARD TO CONFLICTS OF LAWS PRINCIPLES.
+
+ 
+
+ 
+
+8
+
+MidCap / Xtant / Limited Consent to A&R Credit Agreement (Term Loan)
+
+ 
+
+ 
+
+ 
+
+ 
+
+(c)
+
+Incorporation of Credit Agreement Provisions
+.
+The provisions contained in 
+Section 11.6
+ (Indemnification), 
+Section 13.8(b)
+ (Submission to Jurisdiction) and 
+Section
+13.9
+ (Waiver of Jury Trial) of the Credit Agreement are incorporated herein by reference to the same extent as if reproduced herein
+in their entirety.
+
+ 
+
+(d)
+
+Headings
+. Section headings in this Agreement
+are included for convenience of reference only and shall not constitute a part of this Agreement for any other purpose.
+
+ 
+
+(e)
+
+Counterparts
+. This Agreement may be signed in
+any number of counterparts, each of which shall be deemed an original and all of which when taken together shall constitute one and the
+same instrument. Signatures by facsimile or by electronic mail delivery of an electronic version of any executed signature page shall
+bind the parties hereto. 
+In furtherance of the foregoing, the words “execution”, “signed”,
+“signature”, “delivery” and words of like import in or relating to any document to be signed in connection with
+this Agreement and the transactions contemplated hereby or thereby shall be deemed to include Electronic Signatures, deliveries or the
+keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability as a manually executed
+signature, physical delivery thereof or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided
+for in any applicable law, including the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic
+Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act. As used herein, “
+Electronic
+Signature
+” means an electronic sound, symbol, or process attached to, or associated with, a contract or other record and adopted
+by a Person with the intent to sign, authenticate or accept such contract or other record.
+
+ 
+
+(f)
+
+Entire Agreement
+. This Agreement constitutes
+the entire agreement and understanding among the parties hereto and supersedes any and all prior agreements and understandings, oral
+or written, relating to the subject matter hereof.
+
+ 
+
+(g)
+
+Severability
+. In case any provision of or obligation
+under this Agreement shall be invalid, illegal or unenforceable in any applicable jurisdiction, the validity, legality and enforceability
+of the remaining provisions or obligations, or of such provision or obligation in any other jurisdiction, shall not in any way be affected
+or impaired thereby.
+
+ 
+
+(h)
+
+Successors/Assigns
+. This Agreement shall bind,
+and the rights hereunder shall inure to, the respective successors and assigns of the parties hereto, subject to the provisions of the
+Credit Agreement and the other Financing Documents.
+
+ 
+
+[SIGNATURES
+APPEAR ON FOLLOWING PAGES]
+
+ 
+
+ 
+
+9
+
+MidCap / Xtant / Limited Consent to A&R Credit Agreement (Term Loan)
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, intending to be legally bound, the undersigned have executed this Agreement as of the day and year first hereinabove
+set forth.
+
+ 
+
+ 
+
+ 
+
+AGENT:
+
+ 
+
+MIDCAP
+ FINANCIAL TRUST, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+as
+ Agent
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+Apollo
+ Capital Management, L.P.,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+its
+ investment manager
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+Apollo
+ Capital Management GP, LLC,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+its
+ general partner
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Maurice Amsellem
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Maurice
+ Amsellem
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Authorized
+ Signatory
+
+ 
+
+ 
+
+[Signatures
+Continue on Following Page]
+
+ 
+
+ 
+
+10
+
+MidCap / Xtant / Limited Consent to A&R Credit Agreement (Term Loan)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LENDERS:
+
+ 
+
+ELM
+ 2020-3 TRUST
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+MidCap
+ Financial Services Capital Management, LLC, as Servicer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+/s/
+ John O’Dea
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+John
+ O’Dea
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Authorized
+ Signatory
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ELM
+ 2020-4 TRUST
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+MidCap
+ Financial Services Capital Management, LLC, as Servicer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+/s/
+ John O’Dea
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+John
+ O’Dea
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Authorized
+ Signatory
+
+ 
+
+ 
+
+[Signatures
+Continue on Following Page]
+
+ 
+
+ 
+
+11
+
+MidCap / Xtant / Limited Consent to A&R Credit Agreement (Term Loan)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LENDER:
+
+ 
+
+APOLLO
+ ALSTER LENDING FUND (LUX) SCSp, 
+an alternative investment fund in the form of a Luxembourg special limited partnership (societe
+ en commandite speciale), acting through its managing general partner Alster Lending GP (Lux) S.ar.l. and represented by its delegate
+ portfolio manager Apollo Alster Management, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+Apollo
+ Alster Management, LLC, acting through its sole member
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+Apollo
+ Capital Management, L.P., acting through its general partner
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+Apollo
+ Capital Management GP, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ William Kuesel
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+William
+ Kuesel
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Vice
+ President
+
+ 
+
+ 
+
+ 
+
+[Signatures
+Continue on Following Page]
+
+ 
+
+ 
+
+12
+
+MidCap / Xtant / Limited Consent to A&R Credit Agreement (Term Loan)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LENDERS:
+
+ 
+
+MIDCAP
+ FUNDING XIII TRUST 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+Apollo
+ Capital Management, L.P.,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+its
+ investment manager
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+Apollo
+ Capital Management GP, LLC,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+its
+ general partner
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+/s/
+ Maurice Amsellem
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Maurice
+ Amsellem
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Authorized
+ Signatory
+
+ 
+
+ 
+
+ 
+
+13
+
+MidCap / Xtant / Limited Consent to A&R Credit Agreement (Term Loan)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BORROWERS:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+XTANT
+ MEDICAL, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Sean Browne
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name
+
+ 
+
+Sean
+ Browne
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BACTERIN
+ INTERNATIONAL, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Sean Browne
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name
+
+ 
+
+Sean
+ Browne
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+X-SPINE
+ SYSTEMS, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Sean Browne
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name
+
+ 
+
+Sean
+ Browne
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SURGALIGN
+ SPV, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Sean Browne
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name
+
+ 
+
+Sean
+ Browne
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GUARANTOR:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+XTANT
+ MEDICAL HOLDINGS, INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Sean Browne
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name
+
+ 
+
+Sean
+ Browne
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ 
+
+14
+
+MidCap / Xtant / Limited Consent to A&R Credit Agreement (Term Loan)

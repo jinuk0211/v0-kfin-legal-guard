@@ -1,0 +1,570 @@
+EX-10.1
+
+2
+
+ex-101xwheelsupamendno3toc.htm
+
+EX-10.1
+
+Document
+
+Exhibit 10.1
+
+Execution Version
+
+AMENDMENT NO. 3 TO CREDIT AGREEMENT
+
+This AMENDMENT NO. 3 TO CREDIT AGREEMENT (this “
+
+Amendment
+
+”), dated as of April 30, 2025, is by and among WHEELS UP EXPERIENCE INC., a Delaware corporation (the “
+
+Borrower
+
+”), each other Loan Party that is a party hereto, DELTA AIR LINES, INC. (“
+
+Delta
+
+”), and U.S. BANK TRUST COMPANY, N.A., not in its individual capacity but solely as administrative agent for the Lenders (together with its permitted successors in such capacity, the “
+
+Administrative Agent
+
+”). 
+
+WHEREAS, reference is hereby made to that certain Credit Agreement, dated as of September 20, 2023 (as amended, restated, supplemented or otherwise modified from time to time prior to the date hereof, the “
+
+Credit Agreement
+
+”, and the Credit Agreement, as further amended by this Amendment, the “
+
+Amended Credit Agreement
+
+”), among the Borrower, the guarantors party thereto from time to time, each of the several banks and other institutions or entities from time to time party thereto as a lender (the “
+
+Lenders
+
+”), the Administrative Agent and U.S. BANK TRUST COMPANY, N.A., not in its individual capacity but solely as collateral agent for the Secured Parties (together with its permitted successors, in such capacity, the “
+
+Collateral Agent
+
+”); and
+
+WHEREAS, Delta and the Borrower desire to extend the Revolving Availability Period, which pursuant to Section 2.24 of the Credit Agreement shall be effected by an amendment agreement executed by the Borrower, the Administrative Agent and Delta, as the Revolving Lender making such extended Revolving Commitment, in form and substance satisfactory to Delta, and that will become effective on the Amendment Effective Date (as defined herein) on the terms and subject to the conditions set forth herein. 
+
+NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+
+SECTION 1.
+
+ Defined Terms.
+
+ Unless otherwise defined herein, capitalized terms which are defined in the Amended Credit Agreement are used herein as therein defined.
+
+SECTION 2.
+
+ Amendment.
+
+ As of the Amendment Effective Date, the definition of the defined term “Revolving Availability Period” set forth in Section 1.01 of the Credit Agreement is hereby deleted in its entirety and replaced as follows:
+
+““
+
+Revolving Availability Period”
+
+ shall mean the period from and including the Closing Date to but excluding the September 20, 2026; provided that, notwithstanding anything to the contrary in this Agreement, the PIK Loans shall continue to be available until the Revolving Facility Termination Date.”
+
+SECTION 3.
+
+Effectiveness. 
+
+This Amendment shall become effective as of the date (the “
+
+Amendment Effective Date
+
+”) on which each of the following conditions has been satisfied or waived:
+
+(a)
+
+the Administrative Agent shall have received from (i) the Borrower, (ii) each other Loan Party and (iii) Delta, duly executed counterparts of this Amendment; 
+
+(b)
+
+on or prior to the Amendment Effective Date, the Borrower shall have paid all reasonable out-of-pocket costs and expenses of the Administrative Agent and Delta required to be paid or reimbursed by the Borrower in connection with the preparation, negotiation, execution and delivery of this Amendment and related documentation (including, in each case, without limitation, the reasonable 
+
+fees and disbursements of counsel for the Administrative Agent and Delta with respect thereto), in each case, for which invoices have been presented (including the reasonable fees and expenses of legal counsel) on or before the date that is one (1) Business Day prior to the Amendment Effective Date;
+
+(c)
+
+Delta shall have received a certificate of a Financial Officer, dated the Amendment Effective Date, confirming the satisfaction of the conditions precedent set forth in clauses (d) and (e) below;
+
+(d)
+
+both before and after giving effect to this Amendment and the transactions contemplated hereby, no Default or Event of Default has occurred and is continuing; and 
+
+(e)
+
+the representations and warranties set forth or referred to in Section 4 of this Amendment shall be true and correct as set forth therein.
+
+SECTION 4.
+
+Representations and Warranties.
+
+ Each Loan Party hereby represents and warrants that, immediately before and after giving effect to the provisions of this Amendment, the following statements are true and correct:
+
+(a)
+
+    the execution and delivery of this Amendment and the performance of all such Loan Party’s obligations under this Amendment, the Amended Credit Agreement and the other Loan Documents to which such Loan Party is a party have been duly authorized by all necessary corporate or other organizational action on the part of such Loan Party; 
+
+(b)
+
+    this Amendment has been duly executed and delivered by such Loan Party and is the legally valid and binding obligation of such Loan Party, enforceable against such Loan Party in accordance with its terms, except as enforceability may be affected by bankruptcy, insolvency, reorganization, moratorium or similar laws affecting creditors’ rights generally or by general principles of equity; and 
+
+(c)
+
+    both before and after giving effect to this Amendment and the transactions contemplated hereby on the Amendment Effective Date, the representations and warranties of (i) such Loan Party contained in Article 3 of the
+
+ 
+
+Credit Agreement and (ii) such Loan Party contained in each other Loan Document or in any document furnished at any time under or in connection herewith or therewith, shall in each case be true and correct in all material respects on and as of the Amendment Effective Date, except to the extent that such representations and warranties specifically refer to an earlier date, in which case they shall be true and correct as of such earlier date; 
+
+provided
+
+ that any representation or warranty that is qualified by materiality or “Material Adverse Effect” shall be true and correct in all respects.
+
+SECTION 5.
+
+Effect of Amendment.
+
+(a)
+
+    Except as expressly set forth herein, this Amendment shall not (i) by implication or otherwise limit, impair, constitute a waiver of or otherwise affect the rights and remedies of the Lenders, the Administrative Agent or the Collateral Agent under the Credit Agreement or any other Loan Document and (ii) alter, modify, amend or in any way affect any of the terms, conditions, obligations, covenants or agreements contained in the existing Credit Agreement or any other provision of the existing Credit Agreement or of any other Loan Document, all of which are ratified and affirmed in all respects and shall continue in full force and effect. Nothing herein shall be deemed to entitle any Loan Party to consent to, or constitute a waiver, amendment, modification or other change of, any of the terms, 
+
+2
+
+conditions, obligations, covenants or agreements contained in the Credit Agreement or any other Loan Document in similar or different circumstances.
+
+(b)
+
+    From and after the Amendment Effective Date, each reference in the Credit Agreement to “this Agreement”, “hereunder”, “hereof”, “herein”, or words of like import, and each reference to the Credit Agreement in any other Loan Document shall be deemed a reference to the Amended Credit Agreement. This Amendment shall constitute a “Loan Document” for all purposes of the Credit Agreement, the Amended Credit Agreement and the other Loan Documents (as defined in the Amended Credit Agreement).
+
+(c)
+
+    For the avoidance of doubt, Delta hereby irrevocably waives the fifteen (15) Business Day prior written notice requirement set forth in Section 2.24 of the Credit Agreement.
+
+SECTION 6.
+
+ Reaffirmation. 
+
+Notwithstanding the effectiveness of this Amendment and the transactions contemplated hereby, each Loan Party (i) acknowledges and agrees that, (A) each Loan Document to which it is a party is hereby confirmed and ratified and shall remain in full force and effect according to its respective terms (in the case of the Credit Agreement, as amended hereby) and (B) the Collateral Documents do, and all of the Collateral does, and in each case shall continue to, secure the payment of all Obligations on the terms and conditions set forth in the Collateral Documents, and each Loan Party hereby ratifies the security interests granted by it pursuant to the Collateral Documents and (ii) to the extent applicable, hereby confirms and ratifies its continuing unconditional obligations as Guarantor under the Guaranty set forth in Article 9 of the Credit Agreement.
+
+SECTION 7.
+
+Miscellaneous Provisions.
+
+ The provisions of Sections 10.01, 10.03, 10.04, 10.05, 10.09, 10.10, 10.11, 10.12, 10.15, 10.16, 10.17, 10.18, 10.19 and 10.20 of the Amended Credit Agreement shall apply with like effect as to this Amendment.
+
+[The remainder of this page is intentionally left blank.] 
+
+3
+
+IN WITNESS WHEREOF,
+
+ the parties hereto have caused this Amendment to be duly executed and delivered by their proper and duly authorized officers as of the day and year first above written.
+
+WHEELS UP EXPERIENCE INC., 
+as Borrower 
+
+By: 
+
+/s/ John Verkamp    
+
+Name:    John Verkamp
+
+Title:    Chief Financial Officer
+
+Signature Page to
+
+Amendment No. 3 to Credit Agreement
+
+AIR PARTNER AVIATION SERVICES LIMITED, 
+as a Guarantor 
+
+By: 
+
+/s/ Mark Briffa    
+
+Name:    Mark Briffa
+
+Title:    Director
+
+AIR PARTNER CHS LIMITED, 
+as a Guarantor 
+
+By: 
+
+/s/ Mark Briffa    
+
+Name:    Mark Briffa
+
+Title:    Director
+
+AIR PARTNER INTERNATIONAL GMBH, 
+as a Guarantor 
+
+By: 
+
+/s/ Mark Briffa    
+
+Name:    Mark Briffa
+
+Title:    Director
+
+AIR PARTNER GROUP LIMITED, 
+as a Guarantor 
+
+By: 
+
+/s/ Mark Briffa    
+
+Name:    Mark Briffa
+
+Title:    Director
+
+AIR PARTNER INVESTMENTS LIMITED, 
+as a Guarantor 
+
+By: 
+
+/s/ Mark Briffa    
+
+Name:    Mark Briffa
+
+Title:    Director
+
+Signature Page to
+
+Amendment No. 3 to Credit Agreement
+
+AIR PARTNER LIMITED, 
+as a Guarantor 
+
+By: 
+
+/s/ Mark Briffa    
+
+Name:    Mark Briffa
+
+Title:    Director
+
+AIR PARTNER LLC, 
+as a Guarantor 
+
+By: 
+
+/s/ Mark Briffa    
+
+Name:    Mark Briffa
+
+Title:    Director
+
+AIRCRAFT CHARTER COMPANY THREE LLC, 
+as a Guarantor 
+
+By: 
+
+/s/ John Verkamp    
+
+Name:     John Verkamp
+
+Title:    Chief Financial Officer
+
+AIRCRAFT CHARTER COMPANY TWO LLC, 
+as a Guarantor 
+
+By: 
+
+/s/ John Verkamp    
+
+Name:     John Verkamp
+
+Title:    Chief Financial Officer
+
+AIRCRAFT HOLDING COMPANY ONE LLC, 
+as a Guarantor 
+
+By: 
+
+/s/ John Verkamp    
+
+Name:     John Verkamp
+
+Title:    Chief Financial Officer
+
+Signature Page to
+
+Amendment No. 3 to Credit Agreement
+
+APEX AP MIDCO INC., 
+as a Guarantor 
+
+By: 
+
+/s/ John Verkamp    
+
+Name:     John Verkamp
+
+Title:    Director and Authorized Signatory
+
+APEX KENYON MIDCO INC., 
+as a Guarantor 
+
+By: 
+
+/s/ John Verkamp    
+
+Name:     John Verkamp
+
+Title:    Director and Authorized Signatory
+
+AVIANIS SYSTEMS LLC, 
+as a Guarantor 
+
+By: 
+
+/s/ John Verkamp    
+
+Name:     John Verkamp
+
+Title:    Chief Financial Officer
+
+BAINES SIMMONS LIMITED, 
+as a Guarantor 
+
+By: 
+
+/s/ Mark Briffa    
+
+Name:    Mark Briffa
+
+Title:    Director
+
+HIRE UP TALENT SERVICES LLC, 
+as a Guarantor 
+
+By: 
+
+/s/ John Verkamp    
+
+Name:    John Verkamp
+
+Title:    Chief Financial Officer
+
+Signature Page to
+
+Amendment No. 3 to Credit Agreement
+
+KENYON INTERNATIONAL EMERGENCY SERVICES LIMITED, 
+as a Guarantor 
+
+By: 
+
+/s/ Mark Briffa    
+
+Name:    Mark Briffa
+
+Title:    Director
+
+KENYON INTERNATIONAL EMERGENCY SERVICES LLC, 
+as a Guarantor 
+
+By: 
+
+/s/ Mark Briffa    
+
+Name:    Mark Briffa
+
+Title:    Director
+
+REDLINE AVIATION SECURITY LTD, 
+as a Guarantor 
+
+By: 
+
+/s/ Mark Briffa    
+
+Name:    Mark Briffa
+
+Title:    Director
+
+SAFESKYS LIMITED, 
+as a Guarantor 
+
+By: 
+
+/s/ Mark Briffa    
+
+Name:    Mark Briffa
+
+Title:    Director
+
+TMC UP HOLDINGS LLC, 
+as a Guarantor 
+
+By: 
+
+/s/ John Verkamp    
+
+Name:    John Verkamp
+
+Title:    Chief Financial Officer
+
+Signature Page to
+
+Amendment No. 3 to Credit Agreement
+
+TRAVEL MANAGEMENT COMPANY HOLDINGS LLC, 
+as a Guarantor 
+
+By: 
+
+/s/ John Verkamp    
+
+Name:    John Verkamp
+
+Title:    Chief Financial Officer
+
+TRAVEL MANAGEMENT COMPANY INTERMEDIATE HOLDINGS LLC, 
+as a Guarantor 
+
+By: 
+
+/s/ John Verkamp    
+
+Name:    John Verkamp
+
+Title:    Chief Financial Officer
+
+TRAVEL MANAGEMENT COMPANY INTERMEDIATE HOLDINGS II LLC, 
+as a Guarantor 
+
+By: 
+
+/s/ John Verkamp    
+
+Name:    John Verkamp
+
+Title:    Chief Financial Officer
+
+TRAVEL MANAGEMENT COMPANY LLC, 
+as a Guarantor 
+
+By: 
+
+/s/ John Verkamp    
+
+Name:    John Verkamp
+
+Title:    Chief Financial Officer
+
+WHEELS UP BLOCKER SUB LLC, 
+as a Guarantor 
+
+By: 
+
+/s/ John Verkamp    
+
+Name:    John Verkamp
+
+Title:    Chief Financial Officer
+
+Signature Page to
+
+Amendment No. 3 to Credit Agreement
+
+WHEELS UP PARTNERS HOLDINGS LLC, 
+as a Guarantor 
+
+By: 
+
+/s/ John Verkamp    
+
+Name:    John Verkamp
+
+Title:    Chief Financial Officer
+
+WHEELS UP PARTNERS LLC, 
+as a Guarantor 
+
+By: 
+
+/s/ John Verkamp    
+
+Name:    John Verkamp
+
+Title:    Chief Financial Officer
+
+WHEELS UP PRIVATE JETS LLC, 
+as a Guarantor 
+
+By: 
+
+/s/ John Verkamp    
+
+Name:    John Verkamp
+
+Title:    Chief Financial Officer
+
+WHEELS UP TOA HOLDINGS LLC, 
+as a Guarantor 
+
+By: 
+
+/s/ John Verkamp    
+
+Name:    John Verkamp
+
+Title:    Chief Financial Officer
+
+WHEELS UP UK LIMITED, 
+as a Guarantor 
+
+By: 
+
+/s/ John Verkamp    
+
+Name:    John Verkamp
+
+Title:    Director
+
+Signature Page to
+
+Amendment No. 3 to Credit Agreement
+
+Delta Air Lines, Inc.,
+
+as Revolving Lender 
+
+By: 
+
+/s/ Kenneth W. Morge II    
+
+Name:    Kenneth W. Morge II
+
+Title:    Senior Vice President – Finance & Treasurer
+
+Signature Page to
+
+Amendment No. 3 to Credit Agreement
+
+U.S. BANK TRUST COMPANY, N.A., not in its individual capacity, but solely as Collateral Agent and Administrative Agent
+
+By: 
+
+/s/ James A. Hanley    
+
+Name:    James A. Hanley
+
+Title:     Senior Vice President 
+
+Signature Page to
+
+Amendment No. 3 to Credit Agreement

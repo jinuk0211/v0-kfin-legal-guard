@@ -1,0 +1,1966 @@
+EX-10.1
+
+3
+
+ex10-1.htm
+
+ 
+
+ 
+
+Exhibit
+10.1
+
+ 
+
+Execution
+Version
+
+ 
+
+SixTEENTH
+AMENDMENT TO AMENDED AND RESTATED SENIOR SECURED CREDIT AGREEMENT
+
+ 
+
+This
+
+SIXTEENTH AMENDMENT TO AMENDED AND RESTATED SENIOR SECURED CREDIT AGREEMENT 
+(this “
+Amendment
+”) is made as of
+February 10, 2023, by and among 
+CL MEDIA HOLDINGS LLC
+, a Delaware limited liability company (“
+Borrower
+”), 
+BRIGHT
+MOUNTAIN MEDIA, INC.
+, a Florida corporation (“
+Parent
+”), 
+BRIGHT MOUNTAIN, LLC
+, a Florida limited liability
+company (“
+BM LLC
+”), 
+MEDIAHOUSE, INC.
+, a Florida corporation (“
+Media House
+” and, together
+with BM LLC, the “
+Guarantors
+”), the Lenders party hereto, and 
+CENTRE LANE PARTNERS MASTER CREDIT FUND II, L.P.
+,
+as administrative agent (in such capacity, the “
+Administrative Agent
+”) and collateral agent (in such capacity, the
+“
+Collateral Agent
+”) and is made with reference to the Credit Agreement referred to below.
+
+ 
+
+PRELIMINARY
+STATEMENTS
+
+ 
+
+WHEREAS,
+the Borrower, Parent, the Guarantors, the Lenders from time to time party thereto, Administrative Agent and Collateral Agent are parties
+to that certain Amended and Restated Senior Secured Credit Agreement, dated June 5, 2020 (as may be amended, amended and restated, supplemented
+or otherwise modified prior to the date hereof, the “
+Credit Agreement
+”), pursuant to which the Lenders made certain
+loans and other financial accommodations to the Borrower;
+
+ 
+
+WHEREAS,
+Borrower has requested that certain amendments be made to the Credit Agreement, which the Lenders party hereto, the Administrative Agent
+and the Collateral Agent are willing to make pursuant to the terms and conditions set forth herein;
+
+ 
+
+WHEREAS,
+the amendments and modifications to the Credit Agreement shall include, among other things, the addition of $1,500,000 of term loan credit
+commitments (such commitments, the “
+Sixteenth Amendment Term Loan Commitments
+”, and the term loans made in respect
+thereof, the “
+Sixteenth Amendment Term Loans
+”).
+
+ 
+
+NOW,
+THEREFORE, in consideration of the premises and the agreements, provisions and covenants herein contained, and for other good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+
+ 
+
+SECTION
+1. 
+Definitions
+. Capitalized terms used but not defined herein shall have the meanings assigned to such terms in the Credit Agreement,
+after giving effect to this Amendment (the “
+Amended Credit Agreement
+”).
+
+ 
+
+SECTION
+2. 
+Amendments
+. Effective as of the Sixteenth Amendment Effective Date (as defined below), (i) the Credit Agreement is hereby amended
+by inserting the double-underlined text (example: 
+
+double-underlined text
+
+)
+and deleting the stricken text (example: 
+
+stricken text
+
+) set forth on the selected pages of the Credit Agreement
+attached hereto as 
+Annex A
+ and (ii) Schedule 2.01(a) is hereby amended and restated in its entirety in the attached as 
+Annex
+B
+.
+
+ 
+
+SECTION
+3. 
+Reserved
+.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECTION
+4. 
+Conditions to Effectiveness
+. This Amendment shall become effective only upon the satisfaction of all of the following conditions
+precedent (the date on which all such conditions have been satisfied being referred to herein as the “
+Sixteenth Amendment Effective
+Date
+”):
+
+ 
+
+(a)
+Administrative Agent, Collateral Agent, Borrower, Parent, Guarantors and Lenders shall have executed this Amendment, and each such Borrower,
+Parent, Guarantor and each Lender shall have delivered its executed counterpart to this Amendment to Administrative Agent;
+
+ 
+
+(b)
+Administrative Agent shall have received a certificate attesting to the Solvency of the Loan Parties (taken as a whole) on the Sixteenth
+Amendment Effective Date from the chief financial officer of the Parent in substantially the form of Exhibit I to the Credit Agreement;
+and
+
+ 
+
+(c)
+Administrative Agent shall have received a certificate of a duly authorized officer of the Borrower certifying that:
+
+ 
+
+(i)
+before and immediately after giving effect to this Amendment, no Default or Event of Default shall have occurred and be continuing or
+would result from the transactions contemplated by this Amendment; and
+
+ 
+
+(ii)
+each of the representations and warranties contained or incorporated by reference in 
+Section 6
+ of this Amendment shall be true
+and correct in all material respects (or, in the case of any such representation and warranty already qualified by materiality, true
+and correct in all respects) on and as of the Sixteenth Amendment Effective Date with the same effect as though such representations
+and warranties had been made on and as of such date, except to the extent that such representations and warranties expressly relate solely
+to an earlier date (in which case such representations and warranties shall have been true and correct in all material respects (or,
+in the case of any such representation and warranty already qualified by materiality, true and correct in all respects) on and as of
+such earlier date).
+
+ 
+
+SECTION
+5. 
+Indemnification
+.
+
+ 
+
+Each
+Loan Party hereby confirms that the indemnification provisions set forth in Section 10.05 of the Credit Agreement shall apply to this
+Amendment and to such liabilities, obligations, losses, damages, penalties, actions, judgments, suits, claims, costs, expenses and disbursements
+(as more fully set forth therein) which may arise herefrom or in connection herewith or otherwise relating to this Amendment, the Amended
+Credit Agreement or the transactions contemplated hereby or thereby.
+
+ 
+
+SECTION
+6. 
+Consent and Reaffirmation of the Loan Parties
+.
+
+ 
+
+(a)
+Each Loan Party hereby acknowledges that it (i) has reviewed the terms and provisions of this Amendment, (ii) consents to the amendments
+to the Credit Agreement effected pursuant to this Amendment and consents to the terms, conditions and other provisions of this Amendment
+and the Amended Credit Agreement, and (iii) consents to each of the transactions contemplated hereby and by the Amended Credit Agreement.
+Each Loan Party hereby confirms and agrees that, notwithstanding the effectiveness of this Amendment, each of the Credit Agreement and
+each Loan Document to which such Loan Party is a party or otherwise bound, and the obligations of such Loan Party contained in the Credit
+Agreement and each such Loan Document, are and shall continue to be in full force and effect and are hereby ratified and confirmed in
+all respects, in each case as amended by this Amendment.
+
+ 
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+Without limiting the generality of the foregoing, each Loan Party hereby confirms, ratifies and reaffirms its payment obligations, guarantees,
+pledges, grants of Liens and security interests and other obligations, as applicable, under and subject to the terms of the Amended Credit
+Agreement and each of the Loan Documents to which it is a party, and acknowledges and agrees that all such payment obligations, guarantees,
+pledges, grants of Liens and security interests and other obligations shall be valid and enforceable and shall not be impaired or limited
+by the execution or effectiveness of this Amendment or any of the transactions contemplated hereby.
+
+ 
+
+SECTION
+7. 
+Representations and Warranties
+. In order to induce Administrative Agent and the Lenders to enter into this Amendment, and to
+amend the Credit Agreement in the manner provided herein, each Loan Party hereby represents and warrants to Administrative Agent and
+the Lenders that, as of the Sixteenth Amendment Effective Date:
+
+ 
+
+(a)
+(i) each Loan Party has the right and power and is duly authorized and empowered to enter into, execute and deliver this Amendment and
+perform its obligations under this Amendment and the Amended Credit Agreement, (ii) each Loan Party has taken all necessary organizational
+action to authorize the execution, delivery and performance of this Amendment and the performance of the Amended Credit Agreement, and
+(iii) this Amendment has been duly authorized, executed and delivered by each Loan Party;
+
+ 
+
+(b)
+this Amendment constitutes a legal, valid and binding obligation of each Loan Party, enforceable against such Loan Party in accordance
+with its terms, except as such enforceability may be limited by (i) applicable solvency, bankruptcy, reorganization, moratorium or other
+similar laws affecting creditors’ right generally and (ii) applicable equitable principles (whether considered in a proceeding
+at law or in equity);
+
+ 
+
+(c)
+each Loan Party’s execution, delivery and performance of this Amendment and each Loan Party’s performance of the Amended
+Credit Agreement do not (a) contravene the terms of any of such Person’s Organization Documents; (b) conflict with or result in
+any breach or contravention of, or the creation of any Lien (other than Liens created under the Loan Documents) under, or require any
+payment to be made under (i) any Contractual Obligation to which such Person is a party or affecting such Person or the properties of
+such Person or any of its Subsidiaries or (ii) any order, injunction, writ or decree of any Governmental Authority or any arbitral award
+to which such Person or its property is subject; or (c) violate any Law, except in the cases of clauses (b) and (c) above where such
+conflicts or violations, individually or in the aggregate, would not reasonably be expected to result in a Material Adverse Effect;
+
+ 
+
+(d)
+immediately after giving effect to this Amendment, no Default or Event of Default has occurred and is continuing or would result therefrom;
+and
+
+ 
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(e)
+each of the representations and warranties contained in the Amended Credit Agreement and in the Loan Documents is true and correct in
+all material respects (or, in the case of any such representation and warranty already qualified by materiality, true and correct in
+all respects) on and as of the Sixteenth Amendment Effective Date with the same effect as though such representations and warranties
+had been made on and as of such date, except to the extent that such representations and warranties expressly relate solely to an earlier
+date (in which case such representations and warranties were true and correct in all material respects (or, in the case of any such representation
+and warranty already qualified by materiality, true and correct in all respects) on and as of such earlier date).
+
+ 
+
+SECTION
+8. 
+Reference to and Effect on the Credit Agreement
+.
+
+ 
+
+(a)
+Except as expressly set forth herein, this Amendment shall not by implication or otherwise limit, impair, constitute a waiver of any
+Loan Document, or otherwise affect the rights and remedies of Administrative Agent, Collateral Agent or any Lender thereunder, and shall
+not alter, modify, amend or in any way affect any of the Obligations or any of the terms, conditions, obligations, covenants or agreements
+contained in the Credit Agreement or any other provision of the Credit Agreement or of any Loan Document, all of which are ratified and
+affirmed in all respects and shall continue in full force and effect. Nothing herein shall be deemed to entitle any Loan Party to a consent
+to, or a waiver, amendment, modification or other change of, any of the Obligations or any of the terms, conditions, obligations, covenants
+or agreements contained in the Credit Agreement or any Loan Document in similar or different circumstances.
+
+ 
+
+(b)
+On the Sixteenth Amendment Effective Date, the Credit Agreement shall be amended as provided herein. The parties hereto acknowledge and
+agree that: (i) this Amendment and any other document or instrument executed and delivered in connection herewith do not constitute a
+novation or termination of the Obligations as in effect prior to the Sixteenth Amendment Effective Date; (ii) the Obligations are in
+all respects continuing with only the terms thereof being modified to the extent provided in this Amendment; and (iii) the guarantees
+and the Liens and security interests as granted or purported to be granted under or pursuant to the Credit Agreement and the Loan Documents
+securing payment of the Obligations are in all such respects continuing in full force and effect and secure the payment of the Obligations
+as provided therein.
+
+ 
+
+(c)
+This Amendment shall constitute an “Loan Document” for all purposes under the Amended Credit Agreement and the Loan Documents.
+
+ 
+
+SECTION
+9. 
+Severability
+. Any provision of this Amendment that is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction,
+be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such
+prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+
+ 
+
+SECTION
+10. 
+Counterparts
+. This Amendment may be executed in any number of counterparts and by different parties hereto in separate counterparts,
+each of which, when so executed and delivered, shall be deemed an original, but all of which counterparts together shall constitute but
+one agreement. Delivery by facsimile or electronic transmission of a portable document file (also known as a .pdf file) of an executed
+counterpart signature page shall be effective as a manually executed counterpart signature hereof.
+
+ 
+
+SECTION
+11. 
+Successors and Assigns
+. This Amendment shall be binding upon and inure to the benefit of the Lenders, the parties hereto and
+their respective successors and assigns.
+
+ 
+
+SECTION
+ 12. 
+Governing Law; Miscellaneous
+. This Amendment, and the rights and obligations of
+ the parties under this Amendment, shall be governed by, and construed and interpreted in
+ accordance with, the law of the State of New York. The provisions of Sections 10.14 and 10.15
+ of the Credit Agreement are hereby incorporated by reference, 
+mutatis mutandis
+, and
+ shall apply with like effect to this Amendment as if fully set forth herein.
+
+ 
+
+SECTION
+13. 
+Headings
+. The headings of this Amendment are for purposes of reference only and shall not limit or otherwise affect the meaning
+hereof.
+
+ 
+
+[
+Remainder
+of this page intentionally left blank.
+]
+
+ 
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed and delivered by their respective duly authorized
+officers as of the date first written above.
+
+ 
+
+ 
+
+ 
+
+BORROWER:
+
+ 
+
+CL
+ MEDIA HOLDINGS LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Matthew Drinkwater
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Matthew
+ Drinkwater
+
+ 
+
+ 
+
+ 
+
+ 
+
+Its:
+
+ 
+
+Authorized
+ Officer
+
+ 
+
+ 
+
+[Signature
+Page to Sixteenth Amendment to Credit Agreement]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Parent:
+
+ 
+
+BRIGHT
+ MOUNTAIN MEDIA, INC. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Matthew Drinkwater
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Matthew
+ Drinkwater
+
+ 
+
+ 
+
+ 
+
+ 
+
+Its:
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GUARANTORS:
+
+ 
+
+BRIGHT
+ MOUNTAIN, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+Matthew Drinkwater
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Matthew
+Drinkwater
+
+ 
+
+ 
+
+ 
+
+ 
+
+Its:
+
+ 
+
+Authorized
+ Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MEDIAHOUSE,
+ INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+Matthew Drinkwater
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Matthew
+ Drinkwater
+
+ 
+
+ 
+
+ 
+
+ 
+
+Its:
+
+ 
+
+Authorized
+Officer
+
+ 
+
+ 
+
+[Signature
+Page to Sixteenth Amendment to Credit Agreement]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ADMINISTRATIVE
+ AGENT & COLLATERAL AGENT:
+
+ 
+
+CENTRE
+ LANE PARTNERS MASTER
+
+ 
+
+CREDIT
+ FUND II, L.P.,
+
+ 
+
+as
+ Administrative Agent and Collateral Agent 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Quinn Morgan
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Quinn
+ Morgan
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Managing
+Director
+
+ 
+
+ 
+
+[Signature
+Page to Sixteenth Amendment to Credit Agreement]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LENDERS:
+
+ 
+
+CENTRE
+ LANE PARTNERS MASTER
+
+ 
+
+CREDIT
+ FUND II, L.P.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Quinn Morgan
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Quinn
+ Morgan
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Managing
+ Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CENTRE
+ LANE PARTNERS MASTER
+
+ 
+
+CREDIT
+ FUND II-A, LP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Quinn Morgan
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+Quinn
+ Morgan
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Managing
+Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CENTRE
+ LANE PARTNERS MASTER
+
+ 
+
+CREDIT
+ FUND II-B, LP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Quinn Morgan
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Quinn
+ Morgan
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+ 
+
+Managing
+Director
+
+ 
+
+ 
+
+[Signature
+Page to Sixteenth Amendment to Credit Agreement]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Annex
+A
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Annex
+B
+
+ 
+
+Schedule
+
+2.01(a)
+
+ 
+
+Commitments
+
+ 
+
+ 
+
+ 
+
+Commitments
+
+ 
+
+ 
+
+Centre
+ Lane Partners
+
+ 
+
+Master
+ Credit
+
+ 
+
+Fund
+ II, L.P.
+
+ 
+
+ 
+
+ 
+
+Centre
+ Lane Partners
+
+ 
+
+Master
+ Credit
+
+ 
+
+Fund
+ II-A, LP
+
+ 
+
+ 
+
+ 
+
+Centre
+ Lane Credit
+
+ 
+
+Partners
+ II-B LP
+
+ 
+
+ 
+
+ 
+
+Initial Commitments
+
+ 
+
+ 
+
+$
+
+16,416,905
+
+1
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+2021 Term Loan Commitments
+
+ 
+
+ 
+
+$
+
+1,500,000
+
+2
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+2021 Additional Term Loan Commitments
+
+ 
+
+ 
+
+$
+
+500,000
+
+3
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+2021 New Term Loan Commitments
+
+ 
+
+ 
+
+$
+
+1,100,000
+
+4
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+2021 October New Term Loan Commitments
+
+ 
+
+ 
+
+$
+
+725,000
+
+5
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+Sixth Amendment Term Loan Commitments
+
+ 
+
+ 
+
+$
+
+800,000
+
+6
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+Seventh Amendment Term Loan
+ Commitments
+7
+
+ 
+
+ 
+
+$
+
+500,000
+
+ 
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+Eighth Amendment Term Loan
+ Commitments
+8
+
+ 
+
+ 
+
+$
+
+350,000
+
+ 
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+Ninth Amendment Term Loan
+ Commitments
+9
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+$
+
+74,417
+
+ 
+
+ 
+
+ 
+
+$
+
+175,583
+
+ 
+
+ 
+
+ 
+
+Tenth Amendment Term Loan
+ Commitments
+10
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+$
+
+89,300
+
+ 
+
+ 
+
+ 
+
+$
+
+210,700
+
+ 
+
+ 
+
+ 
+
+Eleventh Amendment Term Loan
+ Commitments
+11
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+$
+
+148,833
+
+ 
+
+ 
+
+ 
+
+$
+
+351,167
+
+ 
+
+ 
+
+ 
+
+Twelfth Amendment Term Loan
+12
+ 
+Commitments
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+$
+
+133,950
+
+ 
+
+ 
+
+ 
+
+$
+
+316,050
+
+ 
+
+ 
+
+ 
+
+Thirteenth Amendment Term
+ Loan Commitments
+13
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+$
+
+148,833
+
+ 
+
+ 
+
+ 
+
+$
+
+351,167
+
+ 
+
+ 
+
+ 
+
+Fourteenth Amendment Term
+ Loan Commitments
+14
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+$
+
+104,183
+
+ 
+
+ 
+
+ 
+
+$
+
+245,817
+
+ 
+
+ 
+
+ 
+
+Fifteenth Amendment Term Loan
+ Commitments
+15
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+$
+
+104,183
+
+ 
+
+ 
+
+ 
+
+$
+
+245,817
+
+ 
+
+ 
+
+ 
+
+Sixteenth Amendment Term Loan Commitments
+
+ 
+
+ 
+
+ 
+
+N/A
+
+ 
+
+ 
+
+ 
+
+$
+
+446,504
+
+ 
+
+ 
+
+ 
+
+$
+
+1,053,496
+
+ 
+
+ 
+
+ 
+
+Total
+
+ 
+
+ 
+
+$
+
+21,891,905
+
+ 
+
+ 
+
+ 
+
+$
+
+1,250,203
+
+ 
+
+ 
+
+ 
+
+$
+
+2,949,797
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+As of the Sixteenth Amendment Effective Date, the Initial Commitments are $0.
+
+2
+
+As of the Sixteenth Amendment Effective Date, the 2021 Term Loan Commitments are $0.
+
+3
+
+As of the Sixteenth Amendment Effective Date, the 2021 Additional Term Loan Commitments are $0.
+
+4
+
+As of the Sixteenth Amendment Effective Date, the 2021 New Term Loan Commitments are $0.
+
+5
+
+As of the Sixteenth Amendment Effective Date, the 2021 October New Term Loan Commitments are $0.
+
+6
+
+As of the Sixteenth Amendment Effective Date, the Sixth Amendment Term Loan Commitments are $0.
+
+7
+
+As of the Sixteenth Amendment Effective Date, the Seventh Amendment Term Loan Commitments are $0
+
+8
+
+As of the Sixteenth Amendment Effective Date, the Eighth Amendment Term Loan Commitments are $0.
+
+9
+
+As of the Sixteenth h Amendment Effective Date, the Ninth Amendment Term Loan Commitments are $0.
+
+10
+
+As of the Sixteenth Amendment Effective Date, the Tenth Amendment Term Loan Commitments are $0.
+
+11
+As
+of the Sixteenth Amendment Effective Date, the Eleventh Amendment Term Loan Commitments are $0.
+
+12
+
+As of the Sixteenth Amendment Effective Date, the Twelfth Amendment Term Loan Commitments are $0.
+
+13
+
+As of the Sixteenth Amendment Effective Date, the Thirteenth Amendment Term Loan Commitments are $0.
+
+14
+
+As of the Sixteenth Amendment Effective Date, the Fourteenth Amendment Term Loan Commitments are $0.
+
+15
+
+As of the Sixteenth Amendment Effective Date, the Fifteenth Amendment Term Loan Commitments are $0.

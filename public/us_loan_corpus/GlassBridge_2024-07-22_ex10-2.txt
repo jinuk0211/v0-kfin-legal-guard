@@ -1,0 +1,2406 @@
+EX-10.2
+
+3
+
+ex10-2.htm
+
+ 
+
+ 
+
+Exhibit
+10.2
+
+ 
+
+PROMISSORY
+NOTE (REVOLVER)
+
+ 
+
+ 
+
+ 
+
+$10,000,000.00
+
+ 
+
+ 
+
+ 
+
+July
+ 16, 2024
+
+ 
+
+ 
+
+FOR
+VALUE RECEIVED, 
+GLASSBRIDGE ENTERPRISES, INC.
+, a Delaware corporation (“
+
+Maker
+
+”), hereby promises to
+pay to 
+ALEX SPIRO
+, an individual (together with his successors and assigns, “
+
+Payee
+
+”), an aggregate principal
+amount of up to TEN MILLION AND 00/100 DOLLARS ($10,000,000.00), or, if less, the aggregate outstanding principal amount of the Advances
+made by Payee to Maker pursuant to this Promissory Note (Revolver) (this “
+
+Note
+
+”), together with all interest
+accrued thereon at the rate per annum and otherwise in accordance with the terms of this Note.
+
+ 
+
+1.
+
+Definitions
+
+. Capitalized terms used but not otherwise terms defined in this Note shall have the meanings set forth or referenced
+in 
+Section 25
+.
+
+ 
+
+2.
+
+Commitment; Initial Advance; Advances; Extension Option
+.
+
+ 
+
+(a)
+Subject to the terms and conditions hereof and in reliance upon the representations, covenants and warranties of Maker and the Guarantors
+herein, Payee agrees, on the terms and conditions set forth in this Note, to make advances (“
+
+Advances
+
+”) to
+Maker from time to time on any Disbursement Date (as hereinafter defined) during the period from the date hereof until the Maturity Date
+(as hereinafter defined), in an aggregate amount of Advances outstanding at any time not to exceed $10,000,000.00 (the “
+
+Commitment
+
+”).
+Within the limits of the Commitment, Maker may borrow, repay and re-borrow such Advances.
+
+ 
+
+(b)
+Within two (2) Business Days of the date hereof, Maker shall make an initial Advance to Maker of $10,000,000.00 (the “
+
+Initial
+Advance
+
+”).
+
+ 
+
+(c)
+As a condition to the disbursement of any Advance (other than the Initial Advance), Maker shall, at least two (2) Business Days prior
+to the requested disbursement date, deliver to Payee a written notice (which written notice can be sent solely via email to alexspiro@quinnemanuel.com)
+(a “
+
+Borrowing Notice
+
+”
+) setting out (a) that no Event of Default or
+monetary or material non-monetary Default is then continuing; (b) the amount of the Advance; and (c) the date on which the Advance is
+to be disbursed to Maker, which shall be a Business Day (such date, the “
+
+Disbursement Date
+
+”). Subject to Section
+3(d), each Borrowing Notice shall be deemed to repeat Maker’s and each other Loan Party’s representations and warranties
+set forth in herein as of the date of such Borrowing Notice and such Disbursement Date. Upon receipt of the Borrowing Notice, Payee shall
+make available to Maker on the Disbursement Date the amount set out in such Borrowing Notice in immediately available funds.
+
+ 
+
+(d)
+Maker shall have the right, at its sole option, to extend the term of this Note until January 16, 2026 by giving notice (which notice
+can be sent solely via email to 
+alexspiro@quinnemanuel.com
+) of such extension to Payee on or prior to the then-scheduled Maturity
+Date, so long as no Event of Default has occurred and is continuing. For the avoidance of doubt, aside from the notice required pursuant
+to the immediately preceding sentence, the only condition precedent to the effectiveness of such extension shall be the absence of any
+Event of Default then continuing.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(e)
+Payee shall, and is hereby authorized by Maker to, endorse on the schedules annexed to this Note an appropriate notation evidencing the
+date and amount of each Advance made by Payee as well as the date and amount of each payment of principal and interest by Maker with
+respect thereto; 
+provided
+, that the failure to make or any error in making any such notation shall not limit or expand or otherwise
+affect the obligations of Maker hereunder or under any other Loan Document. Maker agrees that the schedules annexed to this Note may
+be maintained in Payee’s accounting records in accordance with Payee’s customary practices, it being understood that, upon
+request (which request can be sent solely via email to alexspiro@quinnemanuel.com), Payee shall provide to Maker an electronic copy of
+such schedules.
+
+ 
+
+3.
+
+Conditions for Advances.
+
+ The obligation of Payee to make any Advance (other than the Initial Advance) is subject to the
+satisfaction (or waiver by Payee) of the following conditions precedent:
+
+ 
+
+(a)
+Payee shall have received the Borrowing Notice from Maker in accordance with Section 2(b) hereof.
+
+ 
+
+(b)
+After giving effect to the requested Advance, the aggregate outstanding principal amount of all Advances shall not exceed the Commitment.
+
+ 
+
+(c)
+No Event of Default or monetary or material non-monetary Default shall have occurred and be continuing.
+
+ 
+
+(d)
+All representations and warranties of Maker and each Guarantor under Section 6 of this Note shall be true and correct in all respects
+as of such Disbursement Date, except to the extent such representations and warranties expressly relate to an earlier date, in which
+case they shall be true and correct in all respects as of such earlier date.
+
+ 
+
+(e)
+In no event will more than two Advances be made in any calendar month.
+
+ 
+
+(f)
+Payee ceases to be a Director and Chairman of the Board of Directors of
+
+Maker.
+
+ 
+
+(g)
+No “Event of Default” under the Term Loan Agreement shall have occurred and be continuing.
+
+ 
+
+4.
+
+Interest
+
+.
+
+ 
+
+(a)
+Subject to 
+Section 4(d)
+ hereof, the unpaid principal balance of Advances under this Note outstanding from time to time shall bear
+interest at the rate equal to 9.25% per annum (the “
+
+Interest Rate
+
+”); provided, that during the continuance
+of any Event of Default, the Advances and all accrued and unpaid interest on such amount shall bear interest at a rate equal to 12.25%
+per annum (such rate, the “
+
+Default Rate
+
+”).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+Interest shall accrue on each Advance for each and every day on which such Advance remains outstanding and shall be computed on the daily
+outstanding principal balance thereof on the basis of a 365/6-day year and the actual number of days elapsed.
+
+ 
+
+(c)
+Interest on this Note shall be paid in arrears and due and payable monthly on the last day of each month, which interest shall accrue
+(and not be paid current) at the Interest Rate and shall be paid as provided herein; provided, any such unpaid amount of interest shall
+be paid in kind as PIK Interest; provided, further upon the occurrence and during the continuance of an Event of Default, all accrued
+and unpaid interest shall be payable on demand as set forth in 
+Section 10
+ hereof.
+
+ 
+
+(d)
+It is the intention of Maker and Payee to conform strictly to applicable usury laws. Accordingly, if the interest payable on this Note
+would be usurious under applicable law, in that event, notwithstanding anything to the contrary herein, it is agreed as follows: (i)
+the aggregate of all consideration that constitutes interest under applicable law that is taken, reserved, contracted for, charged or
+received under this Note shall under no circumstances exceed the maximum amount of interest allowed by applicable law (the “
+
+Maximum
+Rate
+
+”), and any excess shall be canceled automatically and, if theretofore paid, shall be credited on this Note by Payee
+(or, to the extent that this Note shall have been or would thereby be paid in full, refunded to Maker); and (ii) in the event that maturity
+of this Note is accelerated for any reason, or in the event of any required or permitted prepayment, then such consideration that constitutes
+interest may never include more than the maximum amount allowed by applicable law, and excess interest, if any, provided for in this
+Note or otherwise shall be canceled automatically as of the date of such acceleration or prepayment and, if theretofore paid, shall be
+credited on this Note (or, to the extent that this Note shall have been or would thereby be paid in full, refunded to Maker). All sums
+paid or agreed to be paid to Payee for the use, forbearance or detention of sums included in the amounts owing to Payee by Maker shall,
+to the extent permitted by applicable law, be amortized, prorated, allocated and spread throughout the full term of this Note until payment
+in full so that the rate or amount of interest on account of indebtedness does not exceed the applicable usury ceiling, if any. As used
+in this Note, the term “applicable law” shall mean the laws of the State of New York. In determining whether or not the interest
+paid or payable exceeds the Maximum Rate, Maker and Payee shall, to the extent permitted by applicable law, (i) characterize any non-principal
+payment as an expense, fee, or premium rather than as interest, (ii) exclude voluntary prepayments and the effects thereof, and (iii)
+amortize, prorate, allocate, and spread in equal or unequal parts the total amount of interest throughout the entire contemplated term
+of the indebtedness evidenced by this Note so that the interest for the entire term does not exceed the Maximum Rate.
+
+ 
+
+5.
+
+Payments of Principal; Payments Generally
+.
+
+ 
+
+(a)
+On the Maturity Date, Maker shall pay the aggregate outstanding principal balance of the Advances, together with all accrued and unpaid
+interest thereon, and all other outstanding and unpaid Obligations. All cash payments of the Advances and the other Obligations shall
+be made by wire transfer of immediately available funds to an account designated in writing by Payee.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(b)
+Maker shall have the right to prepay, in whole or in part, the interest and principal of this Note at any time without premium or penalty;
+provided, however, other than a prepayment of the entire principal balance of this Note, in no event will more than two prepayments be
+made in any calendar month. Any prepayment will first be applied to any accrued interest, and thereafter to principal.
+
+ 
+
+(c)
+If the date on which any payment is due hereunder is not a day on which banks are open for business in the State of New York (a 
+“
+Business
+Day
+”
+), then such payment shall be due on the Business Day next succeeding such payment date.
+
+ 
+
+6.
+
+Representations and Warranties
+
+. Maker and each other Loan Party represents to Payee that all of the representations and
+warranties made in Article 4 of the Securities Purchase Agreement are true and correct in all material respects on and as of the date
+hereof and on each Disbursement Date.
+
+ 
+
+7.
+
+Affirmative Covenants
+
+. So long as any Obligation which is accrued and payable shall remain unpaid or unsatisfied, Maker
+and each other Loan Party, as applicable, shall:
+
+ 
+
+(a)
+
+Notice of Default under Term Loan
+. Promptly upon delivery or receipt thereof, Maker shall deliver to Payee a copy of any notice
+of default or event of default under the Term Loan Documents.
+
+ 
+
+(b)
+
+Maintenance of Properties
+. (i) Maintain or cause to be maintained in good repair, working order and condition (ordinary wear and
+tear excepted) all material properties used in the business of such Loan Party and make or cause to be made all necessary repairs, renewals
+and replacements thereof, and (ii) comply in all material respects with all terms, provisions and covenants of any lease to which any
+such Loan Party is a party.
+
+ 
+
+(c)
+
+Preservation of Existence, Etc
+. (i) Preserve and maintain in full force and effect its organizational existence and good standing
+under the laws of its jurisdiction of incorporation, organization or formation, as applicable; (ii) preserve and maintain in full force
+and effect all rights, privileges, qualifications, permits, licenses and franchises necessary in the normal conduct of its business except
+as would not reasonably be expected to have, either individually or in the aggregate, a Material Adverse Effect; and (iii) preserve or
+renew all of its registered intellectual property, the non-preservation of which would reasonably be expected to have, either individually
+or in the aggregate, a Material Adverse Effect.
+
+ 
+
+(d)
+
+Inspection Rights
+. Permit any representatives designated by Payee, upon reasonable prior written notice but no more than once
+during each calendar year unless an Event of Default has occurred and is continuing, to visit and inspect its properties, liabilities,
+books and records, including examining and making extracts from its books and records, and to discuss its affairs, finances and condition
+with its officers and independent accountants, all at reasonable times during normal business hours.
+
+ 
+
+(e)
+
+Insurance
+. Maintain with financially sound and reputable carriers insurance in such amounts and against such risks (including
+loss or damage to property; general liability; Errors and Omissions and Directors and Officers) and such other hazards, as is customarily
+maintained by companies of established repute engaged in the same or similar businesses operating in the same or similar locations. Maker
+will furnish to Payee, upon written request, information in reasonable detail as to the insurance so maintained, and cause Payee to be
+named as additional insured.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(f)
+
+Payment of Taxes
+. Pay and discharge prior to delinquency, all material taxes, unless the same are being contested in good faith
+by appropriate proceedings and adequate reserves in accordance with GAAP are being maintained by the applicable Loan Party.
+
+ 
+
+(g)
+
+Compliance
+. Comply in all material respects with all Applicable Laws and all Orders applicable to it.
+
+ 
+
+(h)
+
+Further Assurances.
+ (i) Provided that (a) a Subsidiary has guaranteed the obligations under the Term Loan Documents and (b) any
+lender to such Subsidiary consents hereto, then with respect to any subsequently acquired or organized Subsidiary of such Loan Party,
+concurrently with such Subsidiary’s guarantee of the obligations under the Term Loan Documents, cause such Subsidiary to become
+a Loan Party by promptly executing and delivering to Payee a joinder to this Note pursuant to which the joining party thereunder shall
+(A) become a “Loan Party” under this Note and be bound by all obligations and covenants applicable to each Loan Party hereunder,
+(B) provide a Guaranty under 
+Section 12
+ hereof, (C) make those representations and warranties contained or incorporated by reference
+herein (together with necessary updates or supplements to any schedules referenced therein) requested by Payee as of the date of such
+joinder, and (D) provide such other documents as requested by and, in each case, in form and substance satisfactory to, Payee, (ii) take
+such actions as Payee may request, from time to time, to ensure that the Obligations are guaranteed by the Guarantors as provided under
+
+Section 12
+ hereof, and (iii) at any time or from time to time upon the reasonable request of Payee, at the expense of the Loan
+Parties to promptly correct any material defect or error that may be discovered in this Note.
+
+ 
+
+8.
+
+Negative Covenants
+.
+ So long any Obligation which is accrued and payable shall remain unpaid or unsatisfied, neither Maker
+nor any other Loan Party shall:
+
+ 
+
+(a)
+
+Indebtedness. 
+Create, or authorize the creation of, or issue, or authorize the issuance of any debt security or incur other Indebtedness
+for borrowed money, including but not limited to obligations and contingent obligations under guarantees, or permit any Loan Party to
+take any such action, without Payee’s prior written consent other than (i) Indebtedness evidenced by this Note and the other the
+Loan Documents, (ii) the Term Loan Obligations (including any increase in the principal amount thereof), (iii) Indebtedness owed to any
+Loan Party and (iv) Indebtedness consented to by Tacora so long as any such Indebtedness is pari passu or junior in right of payment
+to the Obligations.
+
+ 
+
+(b)
+
+Liens
+. Create, or authorize the creation of, any Lien (except for (i) Liens securing the Term Loan Obligations pursuant to the
+Term Loan Documents, (ii) purchase money Liens or statutory liens of landlords, mechanics, materialmen, workmen, warehousemen and other
+similar persons arising or incurred in the ordinary course of business, (iii) any other Liens that do not secure amounts in the aggregate
+exceeding $5,000,000 and (iv) Liens consented to by Tacora).
+
+ 
+
+(c)
+
+Fundamental Changes; Dissolution
+. Whether in one transaction or a series of transactions, wind up, liquidate or dissolve its affairs,
+or enter into any transaction of merger or consolidation, or sell or otherwise dispose of all or substantially all of its property or
+other assets, or agree to do or suffer any of the foregoing, except, (i) solely with respect to any such transaction to which Maker is
+not a party, unless Tacora has consented thereto, and (ii) with respect to any merger to which Maker is a party, unless Tacora has consented
+thereto and Maker is the surviving entity.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(d)
+
+Condition of Assets
+. Unless Tacora has consented to the same, take any action, or refrain from taking any action, in a manner
+that would reasonably be expected to impair any material intangible asset of any Loan Party.
+
+ 
+
+(e)
+
+OFAC and Sanctions
+. (i) Become a person whose property or interest in property is blocked or subject to blocking pursuant to Section
+1 of Executive Order 13224 of September 23, 2001 Blocking Property and Prohibiting Transactions With Persons who Commit, Threaten to
+Commit, or Support Terrorism (66 Fed. Reg. 49079 (2001)), (ii) engage in any dealings or transactions prohibited by Section 2 of such
+executive order, or (iii) become a person on the list of “Specially Designated Nationals and Blocked Persons” or subject
+to blocking or specific trade restrictions under any other U.S. Department of Treasury’s Office of Foreign Assets Control regulation
+or implementing executive order.
+
+ 
+
+(f)
+
+Use of Proceeds
+. Maker shall use the proceeds of the Advances for working capital and other general corporate purposes.
+
+ 
+
+9.
+
+Events of Default
+.
+ The occurrence and continuance of any of the following events shall be considered an “
+
+Event
+of Default
+
+” for purposes of this Note:
+
+ 
+
+(a)
+
+Failure to Pay
+. Maker or any other Loan Party shall fail to pay the principal amount of the Advances when due, any interest within
+three (3) Business Days of the applicable due date, or any other amount payable hereunder or under any other Loan Document within ten
+(10) Business Days of the applicable due date for such payment.
+
+ 
+
+(b)
+
+Covenant Default
+. Maker or any other Loan Party shall breach or fail to perform any covenant or agreement to be performed by it
+under Sections 7 or 8 of this Note in any material respect and such material failure described in this 
+clause (b)
+ shall continue
+for sixty (60) days after the earlier of (i) the date on which Payee provides written notice of such default and (ii) the date that Maker
+or such Loan Party first becomes aware of the occurrence thereof.
+
+ 
+
+(c)
+
+Representation or Warranty
+. Any representation or warranty made by Maker or any other Loan Party in Section 6 of this Note shall
+be incorrect or misleading in any material respect (without duplication of any materiality qualifier contained therein) when made, unless
+with respect to any such incorrect or misleading representation (each, a “
+
+Misrepresentation
+
+”) (i) such Misrepresentation
+can be cured and (ii) such Misrepresentation has been so cured within twenty (20) Business Days after the earlier of (1) the date on
+which Maker first has knowledge that such Misrepresentation exists, and (2) the date on which Payee first notifies Maker that such Misrepresentation
+exists).
+
+ 
+
+(d)
+
+Voluntary Bankruptcy or Insolvency Proceedings
+. Any Loan Party shall (i) apply for or consent to the appointment of a receiver,
+trustee, liquidator or custodian of itself or of all or a substantial part of its property, (ii) be unable, or admit in writing its inability,
+to pay its debts generally as they mature, (iii) make a general assignment for the benefit of its or any of its creditors, (iv) be dissolved
+or liquidated, or suspend its operations, (v) commence a voluntary case or other proceeding seeking liquidation, reorganization or other
+relief with respect to itself or its debts under any bankruptcy, insolvency or other similar law now or hereafter in effect or consent
+to any such relief or to the appointment of or taking possession of its property by any official in an involuntary case or other proceeding
+commenced against it or (vi) take any action for the purpose of effecting any of the foregoing.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(e)
+
+Involuntary Bankruptcy or Insolvency Proceedings
+. Proceedings for the appointment of a receiver, trustee, liquidator or custodian
+of any Loan Party or of all or a substantial part of the property thereof, or an involuntary case or other proceedings seeking liquidation,
+reorganization or other relief with respect to any Loan Party or the debts thereof under any bankruptcy, insolvency or other similar
+law now or hereafter in effect shall be commenced and an order for relief entered or such proceeding shall not be dismissed or discharged
+within ninety (90) days of commencement.
+
+ 
+
+(f)
+
+Judgments
+. Any money judgment, writ or warrant of attachment or similar process involving an amount in excess of $250,000 in any
+individual case or $1,000,000 in the aggregate shall be entered or filed against any Loan Party or any of their respective assets and
+shall remain undischarged, unvacated, unbonded or unstayed for a period of sixty (60) days (or in any event later than five (5) days
+prior to the date of any proposed sale thereunder).
+
+ 
+
+(g)
+
+Invalidity of Loan Documents
+. (i) Any material provision of any Loan Document, at any time after its execution and delivery and
+for any reason other than as expressly permitted hereunder or thereunder or the satisfaction in full of all the Obligations, ceases to
+be in full force and effect; (ii) any Loan Party contests in writing the validity or enforceability of any provision of any Loan Document;
+or (iii) any Loan Party denies in writing that it has any or further liability or obligation under any Loan Document (other than as a
+result of the payment and performance in full of the Obligations), purports in writing to revoke or rescind any Loan Document or asserts
+in writing that any guaranty is invalid or unenforceable.
+
+ 
+
+(h)
+
+Change in Control
+. The occurrence of a Change in Control; provided however, that no Event of Default shall be deemed to have occurred
+if Tacora has consented to such Change in Control.
+
+ 
+
+(i)
+
+Cross Default
+. The occurrence of any “Event of Default” under and as defined in the Term Loan Agreement; provided,
+however, that no Event of Default shall be deemed to have occurred if Tacora has not exercised any remedies in connection therewith.
+
+ 
+
+10.
+
+Remedy
+.
+ Upon the occurrence and during the continuance of an Event of Default, the entire principal amount of this Note
+then outstanding, together with interest accrued thereon, shall become immediately due and payable, all without written notice and without
+presentment, demand, protest, notice of protest or dishonor or any other notice of default of any kind, all of which are hereby expressly
+waived by Maker. In addition to the foregoing, upon the occurrence or existence of any Event of Default, Payee may exercise any other
+right, power or remedy described in any other Loan Document or that is otherwise permitted under Applicable Law, either by suit in equity
+or by action at law, or both, and the rights and remedies provided herein and therein shall be cumulative and not exclusive of any rights
+or remedies provided by Applicable Law or otherwise.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+11.
+
+Waiver
+.
+ Each of Maker and the other Loan Parties expressly waives demand and presentment for payment, notice of nonpayment,
+protest, notice of protest, notice of dishonor, notice of intent to accelerate the maturity hereof, notice of the acceleration of the
+maturity hereof, bringing of suit and diligence in taking any action to collect amounts called for hereunder and in the handling of securities
+at any time existing in connection herewith.
+
+ 
+
+12.
+
+Guaranty
+
+.
+
+ 
+
+(a)
+
+Provision of Guaranty
+. Each Guarantor hereby, jointly and severally, irrevocably and unconditionally, guarantees to Payee, irrespective
+of the validity and enforceability of this Note, the Advances or any of the Obligations, the full and punctual payment and performance
+of the Obligations when due, whether at stated maturity, upon acceleration or otherwise. Failing the payment of the Advances or the other
+Obligations in full when due for whatever reason, each Guarantor shall be, jointly and severally, obligated to immediately pay the amount
+not so paid. Each Guarantor agrees that this is a guarantee of payment and not a guarantee of collection. Each Guarantor waives any and
+all rights, defenses and counterclaims, to the fullest extent of the law.
+
+ 
+
+(b)
+
+Limitation on Guarantor Liability
+. Each Guarantor and Payee hereby confirm that it is the intention of all such parties that the
+Guaranty of such Guarantor not constitute a fraudulent transfer or fraudulent conveyance, or similar limitation, for purposes of the
+Bankruptcy Code, the Uniform Fraudulent Conveyance Act, the Uniform Fraudulent Transfer Act or any similar federal or state law to the
+extent applicable to any Guaranty. To effectuate the foregoing intention, each Guarantor and Payee hereby irrevocably agree that the
+obligations of each Guarantor shall be limited to the maximum amount as shall, after giving effect to such maximum amount and all other
+contingent and fixed liabilities of such Guarantor that are relevant under such laws and after giving effect to any collections from
+the rights to receive contribution from or payments made by or on behalf of any other Guarantor in respect of the obligations of such
+other Guarantor under this Note, result in the obligations of such Guarantor under its Guaranty not constituting a fraudulent transfer
+or fraudulent conveyance, or similar limitation, under Applicable Law. Notwithstanding anything to the contrary contained in this Note,
+each Guarantor hereby unconditionally and irrevocably waives, releases and abrogates any and all rights it may now or hereafter have
+under any agreement, at law or in equity (including without limitation any law subrogating the Guarantor to the rights of Payee), to
+assert any claim against or seek contribution, indemnification or any other form of reimbursement from Maker or any other Loan Party
+liable for payment of any or all of the Obligations for any payment made by the Guarantor under or in connection with its Guaranty or
+otherwise until such time as all Obligations are paid and performed in full under this Note.
+
+ 
+
+(c)
+
+Release of Guaranty.
+ Upon the termination of the Commitment and payment and performance in full of the Obligations under this
+Note, all of the Guaranties hereunder shall be released and discharged without any further action by any person.
+
+ 
+
+13.
+
+Amendments
+.
+ Any term or provision of this Note and any obligation of Maker hereunder or with respect hereto, may be changed
+or modified, partially or completely, or noncompliance may be consented to or authorized, by written agreement between Maker and Payee.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+14.
+
+Expenses; Indemnity; Damage Waiver
+.
+
+ 
+
+(a)
+
+Expenses
+. Each party shall bear its own expenses incurred in connection with the negotiation, execution and delivery of this Note
+on or prior to the Closing Date; 
+provided
+, notwithstanding the foregoing, Maker shall reimburse Payee for up to Sixty Thousand
+Dollars ($60,000) of Payee’s reasonable and documented out-of-pocket expenses incurred in connection with the negotiation, execution
+and delivery of this Note, the Securities Purchase Agreement and any other agreements entered into on the Closing Date in connection
+herewith or therewith. Maker shall promptly reimburse and pay Payee for each of the following amounts incurred following the Closing
+Date: (i) all of Payee’s reasonable and documented costs and expenses (including the fees, costs and expenses of counsel) of preparation
+and administration of any Loan Document after the Closing Date and the negotiation, preparation, execution and administration of any
+consents, amendments, waivers or other modifications of any Loan Document and (ii) after the occurrence and during the continuance of
+an Event of Default, all costs and expenses, including attorneys’ fees, costs and expenses, incurred by Payee in connection with
+enforcing any Obligations of, or in collecting payments due from, any Loan Party under any Loan Document relating to such Event of Default
+or in connection with any refinancing or restructuring of the credit arrangements provided under this Note in the nature of a “work
+out” or pursuant to any insolvency or bankruptcy cases or proceedings of any Loan Party.
+
+ 
+
+(b)
+I
+ndemnification
+. The Loan Parties shall indemnify Payee, and each Related Party of Payee (each such Person being called an “
+
+Indemnitee
+
+”)
+against, and hold each Indemnitee harmless from, any and all losses, claims, damages, liabilities and related expenses, including the
+reasonable fees, charges and disbursements of any counsel for any Indemnitee, incurred by or asserted against any Indemnitee arising
+out of, in connection with, or as a result of, any actual or prospective claim, litigation, investigation or proceeding relating to the
+Advances or the use of the proceeds therefrom, or the execution, delivery or performance of this Note or any other Loan Document, brought
+against Payee by any third Person, whether based on contract, tort or any other theory and regardless of whether any Indemnitee is a
+party thereto; provided, no Loan Party shall be liable to any Indemnitee for such fees, charges and disbursements resulting from any
+Indemnitee’s gross negligence or willful misconduct.
+
+ 
+
+(c)
+
+Waiver of claims
+. To the extent permitted by Applicable Law and except as provided under the Securities Purchase Agreement, none
+of Maker nor any Indemnitee shall assert, and each hereby waive, any claim against any Indemnity or Loan Party, as applicable, on any
+theory of liability, for special, indirect, consequential or punitive damages (as opposed to direct or actual damages) arising out of,
+in connection with, or as a result of, this Note or any agreement or instrument contemplated hereby or the use of the proceeds of the
+Advances.
+
+ 
+
+(d)
+
+Payment
+. All amounts due under this 
+Section 14
+ shall be payable promptly after written demand to Maker therefor.
+
+ 
+
+15.
+
+Governing Law
+. 
+
+This Note and the rights and obligations hereunder shall be governed
+by and construed in accordance with 
+THE LAWS OF THE STATE OF NEW YORK (WITHOUT REGARD TO PRINCIPLES OF CONFLICTS OF LAWS (OTHER
+THAN §§ 5-1401 AND 5-1402 OF THE NEW YORK GENERAL OBLIGATIONS LAW)).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+16.
+
+Submission to Jurisdiction
+
+. The parties hereby submit and consent irrevocably to the exclusive jurisdiction of, and venue
+in, any court located within the City of New York, County of New York in the State of New York for the interpretation and enforcement
+of the provisions of this Note. The parties also agree that the jurisdiction over the person of such parties and the subject matter of
+such dispute shall be effected by the mailing of process or other papers in connection with any such action in the manner provided for
+herein or in such other manner as may be lawful, and that service in such manner shall constitute valid and sufficient service of process.
+
+ 
+
+17.
+
+Waiver of Jury Trial
+
+. EACH OF THE PARTIES HERETO HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY LAW, ANY
+AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING (WHETHER SOUNDING IN CONTRACT, TORT OR OTHERWISE) ARISING OUT OF OR RELATED TO
+THIS NOTE.
+
+ 
+
+18.
+
+Notices
+
+. Except as provided in Section 2 hereof, any notice called for hereunder shall be deemed properly given if (i)
+sent by certified mail, return receipt requested, (ii) personally delivered, (iii) dispatched by any form of private or governmental
+express mail or delivery service providing receipted delivery or (iv) sent by facsimile or (v) to the following addresses or to such
+other address as either party may designate by notice in accordance with this Section:
+
+ 
+
+If
+to Maker
+:
+
+ 
+
+ 
+
+ 
+
+Glassbridge
+ Enterprises, Inc.
+
+ 
+ 
+
+ 
+
+ 
+
+551
+ Madison Avenue, Suite 800
+
+ 
+ 
+
+ 
+
+ 
+
+New
+ York, New York 10022
+
+ 
+ 
+
+ 
+
+ 
+
+Attention:
+ 
+
+ 
+
+Daniel
+ Strauss
+
+ 
+ 
+
+ 
+
+ 
+
+Email:
+ 
+
+ 
+
+dstrauss@glassbridge.com
+
+ 
+ 
+
+ 
+
+ 
+
+With
+a copy to:
+
+ 
+
+ 
+
+ 
+
+Loeb
+ & Loeb LLP
+
+ 
+ 
+
+ 
+
+ 
+
+345
+ Park Avenue
+
+ 
+ 
+
+ 
+
+ 
+
+New
+ York, New York 10154
+
+ 
+ 
+
+ 
+
+ 
+
+Attention:
+ 
+
+ 
+
+Lloyd
+ Rothenberg
+
+ 
+ 
+
+ 
+
+ 
+
+Email:
+ 
+
+ 
+
+lrothenberg@loeb.com
+
+ 
+ 
+
+ 
+
+ 
+
+If
+to Payee
+:
+
+ 
+
+ 
+
+ 
+
+Quinn
+ Emanuel Urquhart & Sullivan, LLP
+
+ 
+ 
+
+ 
+
+ 
+
+51
+ Madison Avenue, 22nd Floor
+
+ 
+ 
+
+ 
+
+ 
+
+New
+ York, NY 10010
+
+ 
+ 
+
+ 
+
+ 
+
+Attention:
+ 
+
+ 
+
+Alex
+ Spiro
+
+ 
+ 
+
+ 
+
+ 
+
+Email:
+
+ 
+
+alexspiro@quinnemanuel.com
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+With
+a copy to:
+
+ 
+
+ 
+
+ 
+
+Neal
+ Gerber & Eisenberg LLP
+
+ 
+ 
+
+ 
+
+ 
+
+2
+ North LaSalle Street, Suite 1700
+
+ 
+ 
+
+ 
+
+ 
+
+Chicago,
+ IL 60602
+
+ 
+ 
+
+ 
+
+ 
+
+Attention:
+ 
+
+ 
+
+Michael
+ Gray
+
+ 
+ 
+
+ 
+
+ 
+
+Email:
+
+ 
+
+mgray@nge.com
+
+ 
+ 
+
+ 
+
+ 
+
+Notice
+shall be deemed given on the earlier of (i) actual receipt by the receiving party, (ii) the date shown on a facsimile transmission confirmation,
+(iii) the date reflected on a signed delivery receipt, or (iv) three (3) Business Days following tender of delivery or dispatch by express
+mail or delivery service.
+
+ 
+
+19.
+
+Binding Agreement; No Third Party Beneficiaries
+
+. Neither this Note nor the rights in this Note are transferable or assignable,
+by operation of law or otherwise, by either party without the prior written consent of the other. Nothing in this Note, expressed or
+implied, is intended to confer upon any third party any rights, remedies, obligations or liabilities under or by reason of this Note,
+except as expressly provided in this Note.
+
+ 
+
+20.
+
+Survival
+
+. All terms, statements, conditions, covenants, representations, warranties ‎and agreements herein contained
+shall be effective as long as the Payee has any Commitment hereunder or any Obligations arising hereunder remain ‎unpaid. Solely
+for the avoidance of doubt, at such time as the Obligations under this Note have been paid and performed in full, the Commitment shall
+automatically terminate.
+
+ 
+
+21.
+
+Severability.
+
+ In case any one or more of the provisions ‎contained in this Note should be invalid, illegal or unenforceable
+in any respect, the validity, ‎legality and enforceability of the remaining provisions contained herein shall not in any way be ‎affected
+or impaired thereby‎.
+
+ 
+
+22.
+
+Headings
+
+. The headings contained herein are for reference purposes only and shall ‎not affect the meaning or interpretation
+of this Note.
+
+ 
+
+23.
+
+Construction
+
+. The parties have participated jointly in the negotiation and drafting of this Note. Any rule of construction
+or interpretation otherwise requiring this Note to be construed or interpreted against any party by virtue of the authorship of this
+Note shall not apply to the construction and interpretation hereof.
+
+ 
+
+24.
+
+Counterparts and Execution
+
+. This Note may be executed in any number of counterparts and by different parties on separate
+counterparts, each of which, when executed and delivered, is an original, and all taken together, constitute one instrument. The words
+“execution,” “signed,” “signature,” and words of like import shall be deemed to include electronic
+signatures or the keeping of records in electronic form, each of which shall be of the same legal effect, validity or enforceability
+as a manually executed signature or the use of a paper-based recordkeeping system, as the case may be, to the extent and as provided
+for in any Applicable Law, including the Federal Electronic Signatures in Global and National Commerce Act, the New York State Electronic
+Signatures and Records Act, or any other similar state laws based on the Uniform Electronic Transactions Act.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+25.
+
+Defined Terms
+
+. As used in this Note, the following terms have the following meanings:
+
+ 
+
+“
+
+Affiliate
+
+”
+means, with respect to any specified Person, any other Person which, directly or indirectly, is in control of, is controlled by, or is
+under common control with, such specified Person. For purposes of this definition, a Person shall be deemed to be “controlled by”
+another Person if such latter Person possesses, directly or indirectly, power either to direct or cause the direction of the management
+and policies of such controlled Person whether by contract or otherwise.
+
+ 
+
+“
+
+Applicable
+Law
+
+” means all provisions of statutes, rules, regulations and Orders of any Governmental Authority applicable to the Person
+(including, for the avoidance of doubt, the Loan Parties) in question, and all Orders and decrees of all courts, tribunals and arbitrators
+in proceedings or actions in which the Person (including, for the avoidance of doubt, the Loan Parties) in question is a party.
+
+ 
+
+“
+
+Certificate
+of Designation
+
+” means that certain Certificate of Designations, Preferences and Rights of Series B Preferred Stock of GlassBridge
+Enterprises, Inc., dated as of September 25, 2023, made by Maker, as in effect on the date thereof.
+
+ 
+
+“
+
+Change
+in Control
+
+” means (a) any transaction pursuant to which (i) Maker sells or Disposes (in one or a series of related sales
+or Dispositions) thirty percent (30%) or more of the assets of Maker on a consolidated basis (other than inventory in the ordinary course
+of business), including any sale or Disposition of the capital stock, membership interests, partnership interests or assets of the Subsidiaries
+of Maker, (ii) Maker issues equity or engages in any merger, consolidation, combination or similar transaction (in one or a series of
+related transactions), such that the beneficial owners of shares of common equity of Maker is entitled to vote immediately prior to the
+transaction or transactions will, immediately after such transaction or transactions, beneficially own less than a majority of the shares
+of common equity of Maker or the surviving entity entitled to vote (measured on a fully-diluted basis), (iii) Maker engages in any transaction
+or series of related transactions that results in any change of control of Maker (as the term “control” is defined in Rule
+405 the Securities Act), whether such change of control occurs through the sale of assets, securities or shares of Common Stock, exchange
+of securities or otherwise, (iv) any “Deemed Liquidation Event” occurs under, as defined in, the Certificate of Designation,
+or (v) any “Change in Control” or similar event occurs under the terms of any agreement governing any other Indebtedness
+for borrowed money incurred by any Loan Party with a principal amount of at least $250,000, or (b) any other transaction that causes
+an “ownership change” (within the meaning of Section 382(g) of the Code) to occur with respect to Maker, taking into account
+any other transactions occurring during the relevant “testing period” (within the meaning of Section 382(i) of the Code).
+
+ 
+
+“
+
+Closing
+Date
+
+” means the date of this Note.
+
+ 
+
+“
+
+Code
+
+”
+means the Internal Revenue Code of 1986, as codified at 26 U.S.C. § 1 et seq, or any successor provision thereto.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+
+Default
+
+”
+means a condition or event that, after notice or lapse of time or both, would constitute an Event of Default.
+
+ 
+
+“
+
+Disposition
+
+”
+or “
+
+Dispose
+
+” means a sale, lease or sublease (as lessor or sublessor), sale and leaseback, assignment, conveyance,
+transfer, license or other disposition to, or any exchange of property with, any Person (other than Dispositions to another Loan Party),
+in one transaction or a series of transactions, of all or any part of any Loan Party’s businesses, assets or properties of any
+kind, whether real, personal or mixed, and whether tangible or intangible, whether now owned or hereafter acquired, including without
+limitation, the equity securities of any Loan Party. For the avoidance of doubt, “Disposition” shall include any disposition
+of property through a “plan of division” under the Delaware Limited Liability Act or any comparable transaction under any
+similar law.
+
+ 
+
+“
+
+GAAP
+
+”
+means generally accepted accounting principles set forth in the opinions and pronouncements of the Accounting Principles Board of the
+American Institute of Certified Public Accountants and statements and pronouncements of the Financial Accounting Standards Board.
+
+ 
+
+“
+
+Governmental
+Authority
+
+” means the government of the United States of America, any other nation or any political subdivision thereof,
+whether state or local, and any agency, authority, instrumentality, regulatory body, court, central bank or other entity exercising executive,
+legislative, judicial, taxing, regulatory or administrative powers or functions of or pertaining to government.
+
+ 
+
+“
+
+Guarantor
+
+”
+means each Subsidiary of Maker as of the Closing Date or that is added as a Guarantor pursuant to 
+Section 7(g)
+ of this Note.
+
+ 
+
+“
+
+Guaranty
+
+”
+means (a) the guarantee of the Obligations by each of the Guarantors provided pursuant to 
+Section 12
+ hereof and (b) any other
+guarantee of the Obligations by any other Subsidiary provided pursuant to a joinder to this Note or other documentation in form and substance
+reasonably acceptable to Payee.
+
+ 
+
+“
+
+Indebtedness
+
+”
+means, (without double counting), at any time and with respect to any Person, (i) indebtedness of such Person for borrowed money (whether
+by loan or the issuance and sale of debt securities) or for the deferred purchase price of property or services purchased (other than
+amounts constituting trade payables (payable within ninety (90) days), (ii) obligations of such Person in respect of letters of credit,
+acceptance facilities, or drafts or similar instruments issued or accepted by banks and other financial institutions for the account
+of such Person, (iii) obligations of such Person under capital leases and any financing lease involving substantially the same economic
+effect, (iv) deferred payment obligations of such Person resulting from the adjudication or settlement of any litigation to the extent
+not already reflected as a current liability on the balance sheet of such Person, and (v) indebtedness of others of the type described
+in clauses (i) through (iv) hereof which such Person has (a) directly or indirectly assumed or guaranteed in connection with a guaranty,
+or (b) secured by a lien on the assets of such Person, whether or not such Person has assumed such indebtedness.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“
+
+Lien
+
+”
+means any mortgage, deed of trust, pledge, hypothecation, assignment, charge, encumbrance, easement, lien (statutory or other), security
+interest or other security arrangement and any other preference, priority, or preferential arrangement in the nature of a security interest
+of any kind or nature whatsoever, including any conditional sale contract or other title-retention agreement.
+
+ 
+
+“
+
+Loan
+Documents
+
+” means this Note and any and all other documents, agreements and certificates executed and delivered in connection
+with this Note, as the same may be amended, restated, replaced, supplemented or otherwise modified from time to time. For the avoidance
+of doubt, on the Closing Date, this Note is the only “Loan Document”.
+
+ 
+
+“
+
+Loan
+Party
+
+” means Maker and each Guarantor.
+
+ 
+
+“
+
+Material
+Adverse Effect
+
+” means any change, event, occurrence, effect or condition that (a) could reasonably be expected to prevent
+or materially impair or delay the performance by any Loan Party of any of its material obligations under this Note or (b) could reasonably
+be expected to have a materially adverse effect on (i) the legality, validity, binding effect or enforceability against any Loan Party
+of this Note or any other Loan Document to which it is a party, or (ii) the business, assets, liabilities or the financial condition
+of the Loan Parties and their Subsidiaries, taken as a whole.
+
+ 
+
+“
+
+Maturity
+Date
+
+” means July 16, 2025, as the same may be extended pursuant to 
+Section 2(d)
+ hereof, or such earlier date on
+which the repayment of the Obligations has been accelerated as provided in 
+Section 10
+ hereof.
+
+ 
+
+“
+
+Obligations
+
+”
+means all unpaid principal of, and accrued and unpaid interest due on, the Advances and all other obligations, interest (including at
+the Default Rate, if applicable), fees, charges, indemnities and expenses payable by any Loan Party to Payee or any other indemnity arising
+under or in connection with this Note or any other Loan Document.
+
+ 
+
+“
+
+Order
+
+”
+means any order, writ, assessment, decision, injunction, decree, ruling, or judgment of a Governmental Authority or arbitrator, whether
+temporary, preliminary, or permanent.
+
+ 
+
+“
+
+Person
+
+”
+means any natural person, corporation, division of a corporation, limited liability company, partnership, trust, joint venture, association,
+company, estate, unincorporated organization or government or any agency or political subdivision thereof.
+
+ 
+
+“
+
+PIK
+Interest
+
+” means interest accrued with respect to this Note that is paid in kind, and not in cash, by capitalizing such
+interest as principal on the outstanding Note as provided herein.
+
+ 
+
+“
+
+Related
+Party
+
+” means, with respect to any specified Person, such Person’s Affiliates and the respective directors, officers,
+employees, agents, advisors and representatives of such Person and such Person’s Affiliates.
+
+ 
+
+“
+
+Securities
+Act
+
+” means the Securities of Act of 1933, as amended.
+
+ 
+
+“
+
+Securities
+Purchase Agreement
+
+” means that certain Securities Purchase Agreement, dated as of the Closing Date, between Maker, as seller
+thereunder, and Payee, as buyer thereunder.
+
+ 
+
+“
+
+Subsidiary
+
+”
+means (a) any Person of which at least a majority of the outstanding equity interests having by the terms their of ordinary voting power
+to elect a majority of the board of directors, manager or other governing body of such Person (irrespective of whether or not at the
+time equity interests of any other class or classes of such Person shall have or might have voting power by reason of the happening of
+any contingency) is at the time directly or indirectly owned or controlled by (i) another Person, (ii) one or more of such other Person’s
+Subsidiaries, or (iii) collectively, such other Person and one or more of such other Person’s Subsidiaries, and (b) any partnership
+of which such other Person or any of such other Person’s Subsidiaries is a general partner. Unless otherwise indicated herein,
+each reference to the term Subsidiary means a Subsidiary of Maker.
+
+ 
+
+“
+
+Term
+Loan Agreement
+
+” means that certain Term Loan and Security Agreement, dated as of September 25, 2023, by and between Maker,
+the Guarantors and Tacora Capital, LP (“
+
+Tacora
+”)
+, as the same may be amended, restated, supplemented or otherwise
+modified from time to time in each case, to the extent permitted under 
+Section 8(h)
+.
+
+ 
+
+“
+
+Term
+Loan Documents
+
+” means the “Loan Documents” as defined in the Term Loan Agreement.
+
+ 
+
+“
+
+Term
+Loan Obligations
+
+” means the “Obligations” as defined in the Term Loan Agreement.
+
+ 
+
+*    
+*     *     *     *     *
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, Maker and each Guarantor have executed and delivered this Note as of the date first above written
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MAKER
+:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GLASSBRIDGE
+ ENTERPRISES, INC.,
+
+ 
+
+ 
+
+ 
+
+ 
+
+a
+ Delaware corporation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Daniel Strauss
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Daniel
+ Strauss
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GUARANTORS
+:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GLASSBRIDGE
+ ARRIVE INVESTOR, LLC, a Delaware limited liability company
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Daniel Strauss
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Daniel
+ Strauss
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+President
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GBW
+ GROUP LLC, a Delaware limited liability company
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Daniel Strauss
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Daniel
+ Strauss
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+President
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GLASSBRIDGE
+ CAPITAL, LLC, a Delaware limited liability company
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Daniel Strauss
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Daniel
+ Strauss
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+President
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GUARANTORS
+ (CONT.):
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GLASSBRIDGE
+ INVESTMENTS MANAGEMENT, LLC, a Delaware limited liability company
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Daniel Strauss
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Daniel
+ Strauss
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+President
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MEMOREX
+ PRODUCTS INC., a California corporation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Daniel Strauss
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+
+ 
+
+Daniel
+ Strauss
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NXSN
+ ACQUISITION CORP., a Delaware corporation
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+ 
+
+/s/
+ Daniel Strauss
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Daniel
+ Strauss
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+ 
+
+ 
+
+President
+
+ 
+
+ 
+
+Signature
+Page - Promissory Note
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Accepted
+and Agreed to by:
+
+ 
+
+ 
+
+ 
+
+PAYEE
+:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+
+ 
+
+/s/
+ Alex Spiro
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name:
+ 
+
+ 
+
+Alex
+ Spiro
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signature
+Page - Promissory Note
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Schedule
+of Advances
+
+ 
+
+ 
+
+ 
+
+Date
+ of Advance
+
+ 
+
+ 
+
+ 
+
+Principal
+ Amount
+
+ 
+
+ 
+
+ 
+
+Notes
