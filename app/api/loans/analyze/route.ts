@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server"
 import { loanAnalysisRequestSchema } from "@/lib/loan-schemas"
 import { analyzeLoan } from "@/lib/loan-anthropic"
+import { analysisCacheKey, getCachedReport, saveCachedReport } from "@/lib/db/analysis-cache"
 
 export async function POST(request: NextRequest) {
   try {
@@ -24,7 +25,15 @@ export async function POST(request: NextRequest) {
       )
     }
 
+    // 대출은 프로필 비의존 → 문서 해시만으로 캐시. 같은 문서는 LLM 재호출 없이 재사용.
+    const cacheKey = analysisCacheKey("loan", contractText, "")
+    const cached = await getCachedReport(cacheKey)
+    if (cached) {
+      return NextResponse.json({ status: "success", report: cached, cached: true })
+    }
+
     const report = await analyzeLoan(contractText)
+    await saveCachedReport(cacheKey, report)
     return NextResponse.json({ status: "success", report })
   } catch (error) {
     console.error("[loans/analyze] Error:", error)

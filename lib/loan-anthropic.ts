@@ -20,29 +20,26 @@ UNCATEGORIZED Any other borrower disadvantage not fitting LOAN-01..LOAN-05
 
 Rules:
 1. triggered_by MUST be the verbatim clause text from the agreement. No paraphrase.
-2. Do NOT cite or invent case law or statutes. ALWAYS leave legal_grounds.precedents = [] and legal_grounds.statutes = []. Verified grounding (CourtListener precedents) is attached by a separate stage.
+2. Do NOT cite or invent case law or statutes. Verified grounding (CourtListener precedents) is attached by a separate stage, so OMIT legal_grounds entirely from your output.
 3. plain_language_explanation (<=150 chars), user_impact (<=100 chars), estimated_risk_scenario (<=200 chars): 8th-grade reading level.
 4. confidence and user_relevance_score are floats in [0,1]. severity is one of CRITICAL|HIGH|MEDIUM|LOW.
 5. recommended_actions: 1-3 items with priority one of immediate|pre-signing|optional. Contacts limited to real bodies (a finance/securities attorney, the lender/counterparty).
 6. Output JSON ONLY. No markdown fences.
 
-Output JSON (exactly this shape):
+Output JSON (exactly this shape). The server recomputes vulnerability_count and attaches
+legal_grounds, so do NOT output those fields:
 {
   "product": "string",
-  "doc_type": "loan_agreement",
   "executive_summary": "string",
   "overall_risk_level": "HIGH|MEDIUM|LOW|NONE",
-  "vulnerability_count": { "CRITICAL": 0, "HIGH": 0, "MEDIUM": 0, "LOW": 0, "uncategorized": 0 },
   "findings": [{
     "finding_id": "US-L001",
     "taxonomy": "LOAN-01",
     "title": "string",
     "triggered_by": "verbatim clause",
     "description": "string",
-    "status": "UNVERIFIED",
     "confidence": 0.8,
     "user_relevance_score": 0.7,
-    "legal_grounds": { "statutes": [], "precedents": [] },
     "severity": "HIGH",
     "plain_language_explanation": "string",
     "user_impact": "string",
@@ -62,7 +59,7 @@ export async function analyzeLoan(contractText: string): Promise<LoanReport> {
   const message = await anthropic.messages.create({
     model: "claude-sonnet-4-20250514",
     max_tokens: 4000,
-    system: SYSTEM_PROMPT,
+    system: [{ type: "text", text: SYSTEM_PROMPT, cache_control: { type: "ephemeral" } }],
     messages: [{ role: "user", content: buildUserPrompt(contractText) }],
   })
 

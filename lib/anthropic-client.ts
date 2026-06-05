@@ -29,13 +29,11 @@ LOAN-03 담보권 실행 조건 과도
 6. 불필요한 공포를 유발하지 않는다. 확인이 필요한 사항은 "확인이 필요함" 수준으로 서술한다.
 7. 반드시 JSON만 출력한다. Markdown 코드블록 금지.
 
-출력 JSON 구조(정확히 이 형식):
+출력 JSON 구조(정확히 이 형식). 집계 통계(total/by_taxonomy/by_confidence)는 서버가
+vulnerabilities에서 재계산하므로 출력하지 말 것:
 {
   "product": "상품명",
-  "profile": { "name": "string|null", "age": 0, "conditions": ["string"], "family_history": ["string"] },
-  "analyzed_at": "YYYY-MM-DD",
   "doc_type": "product_summary | contract",
-  "sections_parsed": 0,
   "vulnerabilities": [
     {
       "id": "V-001",
@@ -45,14 +43,10 @@ LOAN-03 담보권 실행 조건 과도
       "description": "string",
       "user_relevance": "string",
       "confidence": "HIGH | MEDIUM | LOW",
-      "precedent_refs": [],
-      "note": "상품요약서 기반 분석. 정식 약관 확인 권장."
+      "precedent_refs": []
     }
   ],
   "summary": {
-    "total_vulnerabilities": 0,
-    "by_taxonomy": { "INS-01": 0, "INS-02": 0, "INS-03": 0, "INS-04": 0, "INS-05": 0 },
-    "by_confidence": { "HIGH": 0, "MEDIUM": 0, "LOW": 0 },
     "critical_findings": ["string"],
     "user_specific_risks": ["string"]
   },
@@ -82,7 +76,7 @@ export async function analyzeContract(
   const message = await anthropic.messages.create({
     model: "claude-sonnet-4-20250514",
     max_tokens: 4000,
-    system: SYSTEM_PROMPT,
+    system: [{ type: "text", text: SYSTEM_PROMPT, cache_control: { type: "ephemeral" } }],
     messages: [
       {
         role: "user",

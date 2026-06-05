@@ -32,3 +32,14 @@ export const registeredUser = pgTable("registered_user", {
   credCipher: text("cred_cipher").notNull(),
   updatedAt: timestamp("updated_at", { withTimezone: true }).defaultNow().notNull(),
 })
+
+/**
+ * 분석 결과 캐시 — 같은 문서(+프로필)는 LLM 재호출 없이 재사용한다(토큰 절감).
+ * cacheKey = sha256(kind + 모델/프롬프트 버전 + 문서 + 프로필키). 문서 내부 구조를
+ * 가정하지 않으므로 포맷이 제각각이어도 동작한다. 결과 평문 저장(약관은 비개인 식별).
+ */
+export const analysisCache = pgTable("analysis_cache", {
+  cacheKey: text("cache_key").primaryKey(),
+  reportJson: text("report_json").notNull(),
+  createdAt: timestamp("created_at", { withTimezone: true }).defaultNow().notNull(),
+})

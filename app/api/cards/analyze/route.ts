@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from "next/server"
 import { cardAnalysisRequestSchema } from "@/lib/card-schemas"
 import { getCardReport } from "@/lib/card-precomputed"
 import { analyzeCard } from "@/lib/card-anthropic"
+import { analysisCacheKey, getCachedReport, saveCachedReport } from "@/lib/db/analysis-cache"
 
 export async function POST(request: NextRequest) {
   try {
@@ -31,8 +32,16 @@ export async function POST(request: NextRequest) {
       )
     }
 
+    // 3) 같은 문서+페르소나는 LLM 재호출 없이 캐시 재사용(토큰 절감).
+    const cacheKey = analysisCacheKey("card", contractText, personaId ?? "")
+    const cached = await getCachedReport(cacheKey)
+    if (cached) {
+      return NextResponse.json({ status: "success", report: cached, cached: true })
+    }
+
     const persona = personaId ? { id: personaId, risk_flags: [] } : undefined
     const report = await analyzeCard(contractText, persona)
+    await saveCachedReport(cacheKey, report)
     return NextResponse.json({ status: "success", report })
   } catch (error) {
     console.error("[cards/analyze] Error:", error)

@@ -18,7 +18,8 @@ function normalizeFinding(raw: Raw, index: number, source: "precomputed" | "live
     title: String(raw.title ?? ""),
     triggered_by: String(raw.triggered_by ?? ""),
     description: raw.description != null ? String(raw.description) : undefined,
-    status: raw.status,
+    // 라이브는 슬림 출력을 위해 status를 emit하지 않는다 → 검증 전 기본값 주입.
+    status: raw.status ?? (source === "live" ? "UNVERIFIED" : undefined),
     confidence: typeof raw.confidence === "number" ? raw.confidence : undefined,
     user_relevance_score:
       typeof raw.user_relevance_score === "number" ? raw.user_relevance_score : undefined,
