@@ -52,6 +52,8 @@ export const analysisRequestSchema = z.object({
   userProfile: userProfileSchema.optional(),
   product: z.string().optional(),
   profileId: z.string().optional(),
+  // Optional LLM model id (lib/models.ts). Defaults server-side when omitted.
+  model: z.string().optional(),
 })
 
 export type AnalysisRequest = z.infer<typeof analysisRequestSchema>

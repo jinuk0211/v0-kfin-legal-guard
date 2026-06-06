@@ -1,13 +1,17 @@
-import Anthropic from "@anthropic-ai/sdk"
 import { CARD_DISCLAIMER, type CardReport } from "./card-schemas"
 import { normalizeCardReport } from "./card-normalize"
 import { fetchUsGroundsBatch } from "./legal-grounds"
+import { runCompletion } from "./llm"
 
 // Live analysis for raw CFPB credit-card agreements. Reproduces the harness
-// T2 final-report shape in a single call. Reads ANTHROPIC_API_KEY from env.
-const anthropic = new Anthropic()
+// T2 final-report shape in a single call.
 
 const SYSTEM_PROMPT = `You are the FinLegal-Harness US credit-card auditor. You detect consumer-adverse clauses in US credit-card agreements (CFPB Credit Card Agreement Database) and project cost/disclosure risk under the Truth in Lending Act (TILA), Regulation Z, the Credit CARD Act of 2009, and the Federal Arbitration Act.
+
+Analysis pipeline:
+1. Free-form finding: first identify consumer-adverse clauses from the agreement without choosing a taxonomy category.
+2. Taxonomy labeling: after each candidate finding is identified, assign the closest taxonomy label. If none fits cleanly, use UNCATEGORIZED instead of forcing a category.
+3. Validation: keep only findings directly supported by a verbatim clause, with no speculation, invented facts, or legal citations.
 
 Taxonomy:
 CC-01 Hidden or unclear fees (annual, foreign transaction, cash advance, late fees)
@@ -18,12 +22,13 @@ CC-05 Mandatory arbitration / class-action waiver
 UNCATEGORIZED Any other consumer disadvantage not fitting CC-01..CC-05
 
 Rules:
-1. triggered_by MUST be the verbatim clause text from the agreement. No paraphrase.
-2. Do NOT cite or invent case law or statutes. Verified grounding (CourtListener precedents + US statutes) is attached by a separate stage, so OMIT legal_grounds entirely from your output.
-3. plain_language_explanation (<=150 chars), user_impact (<=100 chars, tied to the persona if given), estimated_risk_scenario (<=200 chars): 8th-grade reading level.
-4. confidence and user_relevance_score are floats in [0,1]. severity is one of CRITICAL|HIGH|MEDIUM|LOW.
-5. recommended_actions: 1-3 items with priority one of immediate|pre-signing|optional. Contacts limited to real bodies (CFPB 1-855-411-2372, consumerfinance.gov, the issuer).
-6. Output JSON ONLY. No markdown fences.
+1. Follow the Analysis pipeline in order. Taxonomy is a post-hoc label, not the starting point for detection.
+2. triggered_by MUST be the verbatim clause text from the agreement. No paraphrase.
+3. Do NOT cite or invent case law or statutes. Verified grounding (CourtListener precedents + US statutes) is attached by a separate stage, so OMIT legal_grounds entirely from your output.
+4. plain_language_explanation (<=150 chars), user_impact (<=100 chars, tied to the persona if given), estimated_risk_scenario (<=200 chars): 8th-grade reading level.
+5. confidence and user_relevance_score are floats in [0,1]. severity is one of CRITICAL|HIGH|MEDIUM|LOW.
+6. recommended_actions: 1-3 items with priority one of immediate|pre-signing|optional. Contacts limited to real bodies (CFPB 1-855-411-2372, consumerfinance.gov, the issuer).
+7. Output JSON ONLY. No markdown fences.
 
 Output JSON (exactly this shape). The server recomputes vulnerability_count and attaches
 legal_grounds, so do NOT output those fields:
@@ -60,26 +65,20 @@ function buildUserPrompt(contractText: string, persona?: PersonaHint): string {
   const personaSection = persona?.id
     ? `Consumer persona: ${persona.id} (risk flags: ${(persona.risk_flags ?? []).join(", ") || "none"}). Tailor user_impact to this persona.\n\n`
     : ""
-  return `${personaSection}Analyze the following US credit-card agreement and respond with the JSON shape only:\n\n${contractText.slice(0, 8000)}`
+  return `${personaSection}Analyze the following US credit-card agreement using free-form finding -> taxonomy labeling -> validation, then respond with the JSON shape only:\n\n${contractText.slice(0, 8000)}`
 }
 
 export async function analyzeCard(
   contractText: string,
-  persona?: PersonaHint
+  persona?: PersonaHint,
+  modelId?: string
 ): Promise<CardReport> {
-  const message = await anthropic.messages.create({
-    model: "claude-sonnet-4-20250514",
-    max_tokens: 4000,
-    system: [{ type: "text", text: SYSTEM_PROMPT, cache_control: { type: "ephemeral" } }],
-    messages: [{ role: "user", content: buildUserPrompt(contractText, persona) }],
+  const raw = await runCompletion({
+    system: SYSTEM_PROMPT,
+    user: buildUserPrompt(contractText, persona),
+    modelId,
   })
-
-  const textBlock = message.content.find((block) => block.type === "text")
-  if (!textBlock || textBlock.type !== "text") {
-    throw new Error("No text response from AI")
-  }
-
-  const cleaned = textBlock.text.replace(/```json|```/g, "").trim()
+  const cleaned = raw.replace(/```json|```/g, "").trim()
   try {
     const parsed = JSON.parse(cleaned)
     const report = normalizeCardReport(parsed, "live")

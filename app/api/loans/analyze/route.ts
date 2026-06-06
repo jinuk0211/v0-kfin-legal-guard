@@ -15,7 +15,7 @@ export async function POST(request: NextRequest) {
       )
     }
 
-    const { contractText } = parseResult.data
+    const { contractText, model } = parseResult.data
 
     // Loans are live-only: no precomputed reports. Require contract text.
     if (!contractText || contractText.trim().length < 100) {
@@ -26,13 +26,13 @@ export async function POST(request: NextRequest) {
     }
 
     // 대출은 프로필 비의존 → 문서 해시만으로 캐시. 같은 문서는 LLM 재호출 없이 재사용.
-    const cacheKey = analysisCacheKey("loan", contractText, "")
+    const cacheKey = analysisCacheKey("loan", contractText, model ?? "")
     const cached = await getCachedReport(cacheKey)
     if (cached) {
       return NextResponse.json({ status: "success", report: cached, cached: true })
     }
 
-    const report = await analyzeLoan(contractText)
+    const report = await analyzeLoan(contractText, model)
     await saveCachedReport(cacheKey, report)
     return NextResponse.json({ status: "success", report })
   } catch (error) {

@@ -3,6 +3,8 @@
 import { useEffect, useMemo, useState } from "react"
 import type { CardReport } from "@/lib/card-schemas"
 import { CARD_PRODUCTS, CARD_PERSONAS } from "@/lib/card-schemas"
+import { DEFAULT_MODEL_ID } from "@/lib/models"
+import { ModelSelect } from "@/components/model-select"
 import { CardReportView } from "./card-report"
 
 interface Agreement {
@@ -24,6 +26,7 @@ export function CardExplorer() {
   const [state, setState] = useState<State>("input")
   const [report, setReport] = useState<CardReport | null>(null)
   const [persona, setPersona] = useState<string>("P01")
+  const [model, setModel] = useState(DEFAULT_MODEL_ID)
   const [error, setError] = useState("")
   const [currentStep, setCurrentStep] = useState(0)
   const [pending, setPending] = useState<string>("")
@@ -127,7 +130,7 @@ export function CardExplorer() {
       const res = await fetch("/api/cards/analyze", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ contractText: text, product: selectedAgreement.name }),
+        body: JSON.stringify({ contractText: text, product: selectedAgreement.name, model }),
       })
       clearInterval(interval)
       const data = await res.json()
@@ -336,7 +339,8 @@ export function CardExplorer() {
             </div>
           )}
 
-          {/* Analyze button */}
+          {/* Model + analyze */}
+          <ModelSelect value={model} onChange={setModel} className="mt-5" />
           <button
             onClick={runAnalysis}
             disabled={!selectedAgreement || loadingPreview || !preview}

@@ -3,6 +3,8 @@
 import { useEffect, useMemo, useState } from "react"
 import type { LoanReport } from "@/lib/loan-schemas"
 import { StepBar } from "@/components/insurance/step-bar"
+import { DEFAULT_MODEL_ID } from "@/lib/models"
+import { ModelSelect } from "@/components/model-select"
 import { LoanReportView } from "./loan-report"
 
 interface LoanDoc {
@@ -58,6 +60,7 @@ export function LoanExplorer() {
   const [report, setReport] = useState<LoanReport | null>(null)
   const [error, setError] = useState("")
   const [currentStep, setCurrentStep] = useState(0)
+  const [model, setModel] = useState(DEFAULT_MODEL_ID)
 
   const [docs, setDocs] = useState<LoanDoc[]>([])
   const [loadingManifest, setLoadingManifest] = useState(true)
@@ -137,6 +140,7 @@ export function LoanExplorer() {
         body: JSON.stringify({
           contractText: text,
           product: `${selectedDoc.issuer} — ${selectedDoc.name}`,
+          model,
         }),
       })
       clearInterval(interval)
@@ -332,7 +336,8 @@ export function LoanExplorer() {
         </div>
       )}
 
-      {/* Analyze button */}
+      {/* Model + analyze */}
+      <ModelSelect value={model} onChange={setModel} className="mt-5" />
       <button
         onClick={runAnalysis}
         disabled={!selectedDoc || loadingPreview || !preview}
