@@ -3,6 +3,8 @@
 import { useState, useRef, useEffect } from "react"
 import type { UserProfile, AnalysisReport } from "@/lib/schemas"
 import { DEMO_PROFILES, PRECOMPUTED_PRODUCTS, type ProfileId } from "@/lib/demo"
+import { DEFAULT_MODEL_ID } from "@/lib/models"
+import { ModelSelect } from "./model-select"
 import { VulnerabilityReport } from "./vulnerability-report"
 
 interface ContractItem {
@@ -69,6 +71,7 @@ export function ContractAnalyzer({
     conditions: "",
     productType: "insurance",
   })
+  const [model, setModel] = useState(DEFAULT_MODEL_ID)
   const [analysisState, setAnalysisState] = useState<AnalysisState>("input")
   const [currentStep, setCurrentStep] = useState(0)
   const [report, setReport] = useState<AnalysisReport | null>(null)
@@ -174,6 +177,7 @@ export function ContractAnalyzer({
           userProfile,
           product: product || fileName || undefined,
           profileId: profileId || undefined,
+          model,
         }),
       })
 
@@ -448,6 +452,8 @@ export function ContractAnalyzer({
               {error}
             </div>
           )}
+
+          <ModelSelect value={model} onChange={setModel} className="mb-4" />
 
           <button
             onClick={startAnalysis}

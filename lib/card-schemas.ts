@@ -60,6 +60,8 @@ export const cardAnalysisRequestSchema = z.object({
   contractText: z.string().optional(),
   product: z.string().optional(),
   personaId: z.string().optional(),
+  // Optional LLM model id (lib/models.ts). Defaults server-side when omitted.
+  model: z.string().optional(),
 })
 
 export type CardAnalysisRequest = z.infer<typeof cardAnalysisRequestSchema>

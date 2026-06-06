@@ -16,7 +16,7 @@ export async function POST(request: NextRequest) {
       )
     }
 
-    const { contractText, product, personaId } = parseResult.data
+    const { contractText, product, personaId, model } = parseResult.data
 
     // 1) Serve a precomputed harness run when the product resolves.
     const precomputed = getCardReport(product, personaId)
@@ -33,14 +33,14 @@ export async function POST(request: NextRequest) {
     }
 
     // 3) 같은 문서+페르소나는 LLM 재호출 없이 캐시 재사용(토큰 절감).
-    const cacheKey = analysisCacheKey("card", contractText, personaId ?? "")
+    const cacheKey = analysisCacheKey("card", contractText, `${personaId ?? ""}|${model ?? ""}`)
     const cached = await getCachedReport(cacheKey)
     if (cached) {
       return NextResponse.json({ status: "success", report: cached, cached: true })
     }
 
     const persona = personaId ? { id: personaId, risk_flags: [] } : undefined
-    const report = await analyzeCard(contractText, persona)
+    const report = await analyzeCard(contractText, persona, model)
     await saveCachedReport(cacheKey, report)
     return NextResponse.json({ status: "success", report })
   } catch (error) {

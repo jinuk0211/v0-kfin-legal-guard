@@ -1,14 +1,16 @@
-import Anthropic from "@anthropic-ai/sdk"
 import { DEFAULT_DISCLAIMER, type AnalysisReport, type UserProfile } from "./schemas"
 import { normalizeReport } from "./normalize-report"
-
-// Initialize client - uses ANTHROPIC_API_KEY from env
-const anthropic = new Anthropic()
+import { runCompletion } from "./llm"
 
 // The live call reproduces the FinLegal-Harness Stage 2 (vulnerability spotter)
 // artifact shape plus a Stage 4 summary. Per the harness role boundaries, the
 // spotter detects only and does NOT cite precedents — precedent_refs stays [].
 const SYSTEM_PROMPT = `당신은 FinLegal-Harness의 Stage 2 취약점 탐지기(Vulnerability Spotter)입니다. 한국 금융계약(보험/대출) 약관에서 소비자에게 불리한 조항을 탐지합니다.
+
+분석 순서(반드시 이 순서로 내부 판단):
+1. Free-form finding: taxonomy를 먼저 고르지 말고, 원문에서 실제로 소비자에게 불리하거나 불명확한 조항 후보를 자유롭게 찾는다.
+2. Taxonomy labeling: 찾은 후보마다 가장 가까운 taxonomy를 사후 라벨로 붙인다. 맞는 분류가 없으면 억지로 끼우지 말고 UNCATEGORIZED를 사용한다.
+3. Validation: 각 후보가 원문 조항에 직접 근거하는지, triggered_by가 원문 그대로인지, 과장/추측이 없는지 검증한다. 검증을 통과하지 못한 후보는 출력하지 않는다.
 
 취약점 분류(taxonomy):
 INS-01 보장 범위 불명확 – 면책조항이 과도하게 넓거나 모호한 경우
@@ -16,6 +18,7 @@ INS-02 고지의무 위반 면책 남용 – 인과관계 무관 면책 가능�
 INS-03 보장개시일/대기기간 불이익 – 소비자에게 불리한 대기기간/감액
 INS-04 계약 해지권 남용 – 보험사 일방적 해지 가능 조항
 INS-05 해약환급금 불이익 – 원금 대비 현저히 낮은 환급금
+UNCATEGORIZED 위 분류에 명확히 들어맞지 않는 기타 소비자 불리 조항
 LOAN-01 변동금리 위험 미고지
 LOAN-02 조기상환 조건 불투명
 LOAN-03 담보권 실행 조건 과도
@@ -71,26 +74,14 @@ ${contractText.slice(0, 8000)}`
 
 export async function analyzeContract(
   contractText: string,
-  userProfile?: UserProfile
+  userProfile?: UserProfile,
+  modelId?: string
 ): Promise<AnalysisReport> {
-  const message = await anthropic.messages.create({
-    model: "claude-sonnet-4-20250514",
-    max_tokens: 4000,
-    system: [{ type: "text", text: SYSTEM_PROMPT, cache_control: { type: "ephemeral" } }],
-    messages: [
-      {
-        role: "user",
-        content: buildUserPrompt(contractText, userProfile),
-      },
-    ],
+  const raw = await runCompletion({
+    system: SYSTEM_PROMPT,
+    user: buildUserPrompt(contractText, userProfile),
+    modelId,
   })
-
-  const textBlock = message.content.find((block) => block.type === "text")
-  if (!textBlock || textBlock.type !== "text") {
-    throw new Error("No text response from AI")
-  }
-
-  const raw = textBlock.text
   const cleaned = raw.replace(/```json|```/g, "").trim()
 
   try {

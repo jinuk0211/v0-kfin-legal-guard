@@ -42,6 +42,8 @@ export const LOAN_DISCLAIMER =
 export const loanAnalysisRequestSchema = z.object({
   contractText: z.string().optional(),
   product: z.string().optional(),
+  // Optional LLM model id (lib/models.ts). Defaults server-side when omitted.
+  model: z.string().optional(),
 })
 
 export type LoanAnalysisRequest = z.infer<typeof loanAnalysisRequestSchema>
